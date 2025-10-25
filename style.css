@@ -1,0 +1,292 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.controls {
+    margin-bottom: 20px;
+    flex-shrink: 0;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    background-color: #f0f0f0;
+    color: #333;
+    transition: background-color 0.2s; /* Añadido para suavidad */
+}
+
+button:hover {
+    background-color: #ddd;
+}
+
+#score-counter {
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+#score-label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+#score-display {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 10px;
+    min-width: 30px;
+    color: #4CAF50;
+}
+
+.score-btn {
+    font-size: 20px;
+    font-weight: bold;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    padding: 0;
+    line-height: 35px;
+    text-align: center;
+    background-color: #555;
+    color: white;
+}
+
+.score-btn:hover {
+    background-color: #777;
+}
+
+#game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    width: 100%;
+    min-height: 0;
+}
+
+#game-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding-top: 20px;
+    flex-grow: 1;
+    overflow-y: auto;
+    min-height: 0;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.card {
+    /* --- CAMBIO DE TAMAÑO --- */
+    width: 190px;
+    min-height: 240px; /* Reducido de 280px */
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    font-size: 17px; /* Ligeramente reducido */
+    font-weight: bold;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+
+.black-card {
+    background-color: #000;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.white-card {
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #000;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.white-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+}
+
+.white-card.selected {
+    transform: translateY(-15px) scale(1.05);
+    box-shadow: 0 0 20px 8px #00aaff;
+    border-color: #00aaff;
+}
+
+
+#played-cards-area {
+    margin-top: 20px;
+    width: 100%;
+}
+
+#played-cards-slots {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* --- CAMBIO DE TAMAÑO --- */
+    min-height: 250px; /* Reducido de 300px */
+}
+
+/* --- ESTILOS DE BOTÓN ACTUALIZADOS --- */
+#confirm-play-btn {
+    font-size: 16px; 
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #007BFF; /* Azul para "Confirmar" */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+} 
+
+#confirm-play-btn:hover {
+    background-color: #0056b3;
+}
+
+/* --- NUEVO ESTILO DE BOTÓN --- */
+#advance-round-btn {
+    font-size: 16px; 
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Verde para "Siguiente" */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+} 
+
+#advance-round-btn:hover {
+    background-color: #45a049;
+}
+
+
+#player-hand {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    width: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 10px 0; 
+    
+    flex-shrink: 0;
+    box-sizing: border-box;
+    min-height: 180px; 
+    overflow-y: auto;
+}
+
+.modal {
+    display: none; 
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.modal-content {
+    background-color: #444;
+    margin: 15% auto;
+    padding: 30px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 500px;
+    border-radius: 10px;
+    color: white;
+}
+
+.close-btn {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    color: white;
+}
+
+.setting-item {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hidden {
+    display: none;
+}
+
+
+/* --- SECCIÓN RESPONSIVE --- */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .controls {
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    
+    /* Agrupamos los botones del juego en móvil */
+    .game-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #score-counter {
+        margin-top: 15px;
+    }
+
+    .card {
+        width: 140px;
+        min-height: 200px;
+        font-size: 14px;
+        padding: 15px;
+        margin: 5px;
+    }
+
+    #played-cards-slots {
+        min-height: 210px;
+    }
+
+    #player-hand {
+        min-height: 160px;
+    }
+
+    button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+}
