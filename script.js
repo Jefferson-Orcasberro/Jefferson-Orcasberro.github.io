@@ -148,6 +148,7 @@ const blackCardsData = [
     { es: "El área 51 realmente esconde _.", pick: 1 },
     { es: "Mi historial de Google me delató por buscar _.", pick: 1 },
     { es: "La nueva fragancia de Calvin Klein huele a _.", pick: 1 },
+    { es: "_, los niños lo probaron, las madres lo aprobaron.", pick: 1 },
 
     // --- Lote 4: Absurdo y Picante (Pick 2) ---
     { es: "La peor combinación para una primera cita: _ y _.", pick: 2 },
@@ -162,6 +163,7 @@ const blackCardsData = [
     // --- Lote 4: Absurdo y Picante (Pick 3) ---
     { es: "El triatlón de los dioses: nadar en _, correr con _ y andar en bicicleta sobre _.", pick: 3 },
     { es: "Mi combo de comida para la depresión es _, _ y _.", pick: 3 },
+    { es: "Increible, subo un video de _ y el primer comentario es sobre _.", pick: 2 },
     { es: "Para sobrevivir a una cena familiar, necesitas _, _ y _.", pick: 3 },
     // --- Lote 5: Humor Uruguayo (Pick 1) ---
     { es: "Se cortó la luz en medio del partido y lo único que me quedó fue _.", pick: 1 },
@@ -173,6 +175,7 @@ const blackCardsData = [
     { es: "Me fui de vacaciones a Rocha y me gasté toda la plata en _.", pick: 1 },
     { es: "Mi abuela todavía guarda _ de la crisis del 2002.", pick: 1 },
     { es: "El nuevo hit del verano de Maramá se va a llamar ' _ '.", pick: 1 },
+    { es: "Cuidado con _! O te volveras puto, no gay, PUTO!.", pick: 1 },
     { es: "Salí del boliche y pisé _.", pick: 1 },
     { es: "En vez de bizcochos, la panadería ahora vende _.", pick: 1 },
     { es: "La nueva medida del BROU es _.", pick: 1 },
@@ -183,7 +186,8 @@ const blackCardsData = [
     { es: "Mi estado de WhatsApp ahora dice: 'Ni _ ni _'.", pick: 2 },
     { es: "Para ser un verdadero uruguayo necesitas _, _ y ganas de quejarte.", pick: 2 },
     { es: "Lo único peor que el CTI de COVID es _ y _.", pick: 2 },
-    { es: "Me colé en el ómnibus y el guarda me amenazó con _.", pick: 2 },
+    { es: "Una paja triste no es triste sin _.", pick: 1 },
+    { es: "Me colé en el ómnibus y el guarda me amenazó con _.", pick: 1 },
     // --- Lote 6: Humor Uruguayo (Pick 1) ---
     { es: "En la Criolla del Prado, un gaucho se cayó del caballo por culpa de _.", pick: 1 },
     { es: "La nueva campaña de Antel para competir con Starlink es _.", pick: 1 },
@@ -216,6 +220,49 @@ const blackCardsData = [
 
 // Mazo de Cartas Blancas (Respuestas)
 const whiteCardsData = [
+    { es: "Eloy" },
+    { es: "Minas anti-tanques" },
+    { es: "El negro Mandela" },
+    { es: "O capa preta" },
+    { es: "2012" },
+    { es: "Penes" },
+    { es: "El pene" },
+    { es: "Una sexy rubia con paquete" },
+    { es: "Bro?" },
+    { es: "Mi vida sexual" },
+    { es: "Vituber furro" },
+    { es: "SIDA!" },
+    { es: "Un tumor cerebral" },
+    { es: "Argentinos" },
+    { es: "Brasileros" },
+    { es: "Niños de africa" },
+    { es: "Necro-zoofilia" },
+    { es: "Problemitas con papá" },
+    { es: "Silencio" },
+    { es: "Masculinidad frajil" },
+    { es: "Sexo sucio y salvaje" },
+    { es: "Sexo oral no reciproco" },
+    { es: "Un billete de 3 dolares" },
+    { es: "Los fachas" },
+    { es: "La violacion de todos los derechos humanos" },
+    { es: "Putin" },
+    { es: "Hitler" },
+    { es: "72 virgenes" },
+    { es: "Trhish" },
+    { es: "Jeffo" },
+    { es: "Insesto" },
+    { es: "Gordofobia" },
+    { es: "Gordo panceta" },
+    { es: "Anorexia" },
+    { es: "Un zopapo" },
+    { es: "Pedofilos" },
+    { es: "Monstruar" },
+    { es: "Mujeres" },
+    { es: "3cm" },
+    { es: "Fascismo" },
+    { es: "Tu mamá" },
+    { es: "Racismo" },
+    { es: "Bidon de tuco" },
     { es: "Un burro volador" },
     { es: "Pizza con piña" },
     { es: "La economía" },
@@ -232,7 +279,7 @@ const whiteCardsData = [
     { es: "El 'visto' de WhatsApp" },
     { es: "Mi ex" },
     { es: "Llorar en la ducha" },
-    { es: "Uninfluencer haciendo el ridículo" },
+    { es: "Un influencer haciendo el ridículo" },
     { es: "Criptomonedas" },
     { es: "El terraplanista de mi tía" },
     { es: "Gritar '¡GOL!' en un funeral" },
@@ -563,6 +610,15 @@ const volumeControl = document.getElementById('volume-control');
 const langSelect = document.getElementById('lang-select');
 const bgMusic = document.getElementById('bg-music');
 
+// --- ELEMENTOS DE MÚSICA (ACTUALIZADO para tu HTML) ---
+const musicSelect = document.getElementById('music-select');
+const musicTracks = {
+    'Viento_y_hacha': document.getElementById('Viento_y_hacha'),
+    'Brama_el_viento': document.getElementById('Brama_el_viento'),
+    'Rey_del_asado': document.getElementById('Rey_del_asado')
+};
+let currentTrackId = 'Viento_y_hacha'; // Pista por defecto
+
 // --- BOTONES DE FLUJO DE JUEGO (ACTUALIZADOS) ---
 const confirmPlayBtn = document.getElementById('confirm-play-btn');
 const advanceRoundBtn = document.getElementById('advance-round-btn');
@@ -580,7 +636,8 @@ function shuffleDeck(deck) {
 
 function startGame() {
     currentLang = langSelect.value;
-    
+    currentTrackId = musicSelect.value;
+
     whiteDeck = shuffleDeck([...whiteCardsData]);
     blackDeck = shuffleDeck([...blackCardsData]);
     
@@ -618,6 +675,36 @@ function endGame() {
     
     bgMusic.pause();
     bgMusic.currentTime = 0;
+}
+
+/** Detiene todas las pistas de música */
+function stopAllMusic() {
+    Object.values(musicTracks).forEach(track => {
+        if (track) { // Verifica que el elemento exista
+            track.pause();
+            track.currentTime = 0;
+        }
+    });
+}
+
+/** Reproduce la pista seleccionada actualmente */
+function playCurrentMusic() {
+    stopAllMusic(); // Detiene todo primero
+    const trackToPlay = musicTracks[currentTrackId];
+    if (trackToPlay) { // Verifica que la pista exista
+        trackToPlay.volume = volumeControl.value;
+        trackToPlay.play().catch(e => console.log("El usuario debe interactuar para reproducir música."));
+    }
+}
+
+/** Cambia la pista de música y la reproduce */
+function switchMusic() {
+    const selectedTrack = musicSelect.value;
+    currentTrackId = selectedTrack;
+    // Solo reproduce si el juego ya está en marcha
+    if (!gameContainer.classList.contains('hidden')) {
+        playCurrentMusic();
+    }
 }
 
 function nextRound(cardsToDraw) {
