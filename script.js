@@ -235,7 +235,7 @@ const whiteCardsData = [
     { es: "Putin" },
     { es: "Hitler" },
     { es: "72 virgenes" },
-    { es: "Trhish" },
+    { es: "Trish" },
     { es: "Jeffo" },
     { es: "Insesto" },
     { es: "Gordofobia" },
