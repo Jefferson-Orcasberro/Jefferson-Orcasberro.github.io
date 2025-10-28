@@ -653,6 +653,7 @@ function startGame() {
     advanceRoundBtn.classList.add('hidden'); // Ocultar
     playerHandElem.classList.remove('hidden');
     langSelect.disabled = true;
+    musicSelect.disabled = true;
 
     nextRound(HAND_SIZE); 
     
