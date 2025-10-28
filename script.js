@@ -610,6 +610,10 @@ const volumeControl = document.getElementById('volume-control');
 const langSelect = document.getElementById('lang-select');
 const bgMusic = document.getElementById('bg-music');
 
+// --- BOTONES DE FLUJO DE JUEGO (ACTUALIZADOS) ---
+const confirmPlayBtn = document.getElementById('confirm-play-btn');
+const advanceRoundBtn = document.getElementById('advance-round-btn');
+
 // --- ELEMENTOS DE MÚSICA (ACTUALIZADO para tu HTML) ---
 const musicSelect = document.getElementById('music-select');
 const musicTracks = {
@@ -618,10 +622,6 @@ const musicTracks = {
     'Rey_del_asado': document.getElementById('Rey_del_asado')
 };
 let currentTrackId = 'Viento_y_hacha'; // Pista por defecto
-
-// --- BOTONES DE FLUJO DE JUEGO (ACTUALIZADOS) ---
-const confirmPlayBtn = document.getElementById('confirm-play-btn');
-const advanceRoundBtn = document.getElementById('advance-round-btn');
 
 
 // --- LÓGICA DEL JUEGO ---
@@ -920,9 +920,17 @@ window.addEventListener('click', (event) => {
 });
 
 // Ajustes
+// El control de volumen ahora afecta a todas las pistas
 volumeControl.addEventListener('input', (e) => {
-    bgMusic.volume = e.target.value;
+    const newVolume = e.target.value;
+    Object.values(musicTracks).forEach(track => {
+        track.volume = newVolume;
+    });
 });
+
+// NUEVO: Listener para el selector de música
+musicSelect.addEventListener('change', switchMusic);
+
 langSelect.addEventListener('change', updateLanguage);
 
 // Init
