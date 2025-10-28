@@ -7,11 +7,12 @@ const uiTexts = {
         settings: "Ajustes",
         settingsTitle: "Ajustes",
         volumeLabel: "Volumen de Música",
+        musicLabel: "Música de Fondo", // <-- Etiqueta para el nuevo selector
         langLabel: "Idioma",
         pick: (num) => `Elige ${num} carta(s)`,
         score: "Puntos:",
-        confirmPlay: "Confirmar Jugada", // <-- CAMBIADO
-        advanceRound: "Siguiente Ronda" // <-- NUEVO
+        confirmPlay: "Confirmar Jugada", // <-- Botón 1
+        advanceRound: "Siguiente Ronda"  // <-- Botón 2
     },
     pt: {
         start: "Iniciar Jogo",
@@ -19,11 +20,12 @@ const uiTexts = {
         settings: "Configurações",
         settingsTitle: "Configurações",
         volumeLabel: "Volume da Música",
+        musicLabel: "Música de Fundo",
         langLabel: "Idioma",
         pick: (num) => `Escolha ${num} carta(s)`,
         score: "Pontos:",
-        confirmPlay: "Confirmar Jogada", // <-- CAMBIADO
-        advanceRound: "Próxima Rodada" // <-- NUEVO
+        confirmPlay: "Confirmar Jogada",
+        advanceRound: "Próxima Rodada"
     },
     bi: {
         start: "Iniciar Partida / Jogo",
@@ -31,13 +33,14 @@ const uiTexts = {
         settings: "Ajustes / Configurações",
         settingsTitle: "Ajustes / Configurações",
         volumeLabel: "Volumen / Volume",
+        musicLabel: "Música de Fondo / Fundo",
         langLabel: "Idioma",
         pick: (num) => `Elige / Escolha ${num} carta(s)`,
         score: "Puntos / Pontos:",
-        confirmPlay: "Confirmar Jogada", // <-- CAMBIADO
-        advanceRound: "Siguiente Ronda / Próxima Rodada" // <-- NUEVO
+        confirmPlay: "Confirmar Jogada",
+        advanceRound: "Siguiente Ronda / Próxima Rodada"
     }
-};
+
 // Mazo de Cartas Negras (Preguntas)
 const blackCardsData = [
     // Pick 1
@@ -608,9 +611,8 @@ const modal = document.getElementById('settings-modal');
 const closeBtn = document.querySelector('.close-btn');
 const volumeControl = document.getElementById('volume-control');
 const langSelect = document.getElementById('lang-select');
-const bgMusic = document.getElementById('bg-music');
 
-// --- BOTONES DE FLUJO DE JUEGO (ACTUALIZADOS) ---
+// Botones de Flujo
 const confirmPlayBtn = document.getElementById('confirm-play-btn');
 const advanceRoundBtn = document.getElementById('advance-round-btn');
 
@@ -622,7 +624,6 @@ const musicTracks = {
     'Rey_del_asado': document.getElementById('Rey_del_asado')
 };
 let currentTrackId = 'Viento_y_hacha'; // Pista por defecto
-
 
 // --- LÓGICA DEL JUEGO ---
 
@@ -636,8 +637,8 @@ function shuffleDeck(deck) {
 
 function startGame() {
     currentLang = langSelect.value;
-    currentTrackId = musicSelect.value;
-
+    currentTrackId = musicSelect.value; // Toma la música seleccionada al iniciar
+    
     whiteDeck = shuffleDeck([...whiteCardsData]);
     blackDeck = shuffleDeck([...blackCardsData]);
     
@@ -649,33 +650,32 @@ function startGame() {
     gameContainer.classList.remove('hidden');
     startBtn.classList.add('hidden');
     endBtn.classList.remove('hidden');
-    confirmPlayBtn.classList.add('hidden'); // Ocultar
-    advanceRoundBtn.classList.add('hidden'); // Ocultar
+    confirmPlayBtn.classList.add('hidden');
+    advanceRoundBtn.classList.add('hidden');
     playerHandElem.classList.remove('hidden');
     langSelect.disabled = true;
-    musicSelect.disabled = true;
+    musicSelect.disabled = true; // Deshabilita el selector de música durante el juego
 
     nextRound(HAND_SIZE); 
     
-    bgMusic.volume = volumeControl.value;
-    bgMusic.play().catch(e => console.log("El usuario debe interactuar para reproducir música."));
+    playCurrentMusic();
 }
 
 function endGame() {
     gameContainer.classList.add('hidden');
     startBtn.classList.remove('hidden');
     endBtn.classList.add('hidden');
-    confirmPlayBtn.classList.add('hidden'); // Ocultar
-    advanceRoundBtn.classList.add('hidden'); // Ocultar
+    confirmPlayBtn.classList.add('hidden');
+    advanceRoundBtn.classList.add('hidden');
     langSelect.disabled = false;
+    musicSelect.disabled = false; // Habilita el selector de música de nuevo
     
     playerHandElem.innerHTML = '';
     blackCardElem.innerHTML = '';
     playedCardsSlots.innerHTML = '';
     pickTextElem.innerText = '';
     
-    bgMusic.pause();
-    bgMusic.currentTime = 0;
+    stopAllMusic();
 }
 
 /** Detiene todas las pistas de música */
@@ -708,18 +708,18 @@ function switchMusic() {
     }
 }
 
+
 function nextRound(cardsToDraw) {
-    // Oculta el botón de avanzar
-    advanceRoundBtn.classList.add('hidden'); // <-- NUEVO
+    advanceRoundBtn.classList.add('hidden'); 
     
     selectedCardsData = [];
     playedCardsSlots.innerHTML = '';
-    playerHandElem.classList.remove('hidden'); // Muestra la mano de nuevo
+    playerHandElem.classList.remove('hidden');
 
     if (blackDeck.length === 0) {
-        alert("¡Se acabaron las cartas negras! Fin del juego.");
-        endGame();
-        return;
+        // Opcional: Re-barajar si se acaban
+        console.warn("Mazo de cartas negras vacío. Reiniciando mazo.");
+        blackDeck = shuffleDeck([...blackCardsData]);
     }
 
     currentBlackCard = blackDeck.pop();
@@ -741,6 +741,7 @@ function nextRound(cardsToDraw) {
     
     renderHand();
 }
+
 /** * Maneja la lógica de SELECCIÓN de cartas.
  */
 function playWhiteCard(cardData, cardElement) {
@@ -759,8 +760,7 @@ function playWhiteCard(cardData, cardElement) {
     const allHandCards = playerHandElem.querySelectorAll('.white-card');
 
     if (selectedCardsData.length === currentBlackCard.pick) {
-        // --- SELECCIÓN COMPLETA ---
-        confirmPlayBtn.classList.remove('hidden'); // <-- CAMBIADO
+        confirmPlayBtn.classList.remove('hidden');
         
         allHandCards.forEach(card => {
             if (!card.classList.contains('selected')) {
@@ -769,8 +769,7 @@ function playWhiteCard(cardData, cardElement) {
         });
         
     } else {
-        // --- SELECCIÓN INCOMPLETA ---
-        confirmPlayBtn.classList.add('hidden'); // <-- CAMBIADO
+        confirmPlayBtn.classList.add('hidden');
         
         allHandCards.forEach(card => {
             card.classList.remove('hidden');
@@ -779,16 +778,11 @@ function playWhiteCard(cardData, cardElement) {
 }
 
 /** * Se activa al pulsar 'Confirmar Jugada'.
- * Muestra la respuesta y el botón de 'Siguiente Ronda'.
  */
-function confirmPlay() { // <-- FUNCIÓN RENOMBRADA
-    // 1. Oculta el botón de confirmar
+function confirmPlay() {
     confirmPlayBtn.classList.add('hidden');
-    
-    // 2. MUESTRA el botón de avanzar
     advanceRoundBtn.classList.remove('hidden');
     
-    // 3. Mueve las cartas seleccionadas al área de juego
     const selectedElements = document.querySelectorAll('.white-card.selected');
     selectedElements.forEach(elem => {
         playedCardsSlots.appendChild(elem);
@@ -797,14 +791,9 @@ function confirmPlay() { // <-- FUNCIÓN RENOMBRADA
         elem.onclick = null; 
     });
     
-    // 4. OCULTA la mano del jugador
     playerHandElem.classList.add('hidden');
     
-    // 5. Quita las cartas jugadas del array de la mano
     playerHand = playerHand.filter(card => !selectedCardsData.includes(card));
-    
-    // 6. ¡ELIMINADO! El setTimeout se quita.
-    // El juego ahora espera a que el usuario presione 'advanceRoundBtn'.
 }
 
 
@@ -861,11 +850,12 @@ function updateLanguage() {
     startBtn.innerText = uiTexts[currentLang].start;
     endBtn.innerText = uiTexts[currentLang].end;
     settingsBtn.innerText = uiTexts[currentLang].settings;
-    confirmPlayBtn.innerText = uiTexts[currentLang].confirmPlay; // <-- CAMBIADO
-    advanceRoundBtn.innerText = uiTexts[currentLang].advanceRound; // <-- NUEVO
+    confirmPlayBtn.innerText = uiTexts[currentLang].confirmPlay;
+    advanceRoundBtn.innerText = uiTexts[currentLang].advanceRound; 
     
     document.getElementById('settings-title').innerText = uiTexts[currentLang].settingsTitle;
     document.getElementById('volume-label').innerText = uiTexts[currentLang].volumeLabel;
+    document.getElementById('music-label').innerText = uiTexts[currentLang].musicLabel;
     document.getElementById('lang-label').innerText = uiTexts[currentLang].langLabel;
     document.getElementById('score-label').innerText = uiTexts[currentLang].score;
     
@@ -889,12 +879,12 @@ function updateLanguage() {
     }
 }
 
-// --- EVENT LISTENERS (ACTUALIZADOS) ---
+// --- EVENT LISTENERS ---
 
 startBtn.addEventListener('click', startGame);
 endBtn.addEventListener('click', endGame);
-confirmPlayBtn.addEventListener('click', confirmPlay); // <-- CAMBIADO
-advanceRoundBtn.addEventListener('click', () => { // <-- NUEVO
+confirmPlayBtn.addEventListener('click', confirmPlay);
+advanceRoundBtn.addEventListener('click', () => {
     // Llama a nextRound, pasando el número de cartas que necesita robar
     nextRound(selectedCardsData.length);
 });
@@ -921,17 +911,13 @@ window.addEventListener('click', (event) => {
 });
 
 // Ajustes
-// El control de volumen ahora afecta a todas las pistas
 volumeControl.addEventListener('input', (e) => {
     const newVolume = e.target.value;
     Object.values(musicTracks).forEach(track => {
-        track.volume = newVolume;
+        if(track) track.volume = newVolume;
     });
 });
-
-// NUEVO: Listener para el selector de música
 musicSelect.addEventListener('change', switchMusic);
-
 langSelect.addEventListener('change', updateLanguage);
 
 // Init
