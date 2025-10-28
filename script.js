@@ -1,48 +1,31 @@
+// =============================================================
 // --- DATOS DEL JUEGO ---
-
+// =============================================================
 const uiTexts = {
     es: {
-        start: "Iniciar Partida",
-        end: "Terminar Partida",
-        settings: "Ajustes",
-        settingsTitle: "Ajustes",
-        volumeLabel: "Volumen de Música",
-        musicLabel: "Música de Fondo", // <-- Etiqueta para el nuevo selector
-        langLabel: "Idioma",
-        pick: (num) => `Elige ${num} carta(s)`,
-        score: "Puntos:",
-        confirmPlay: "Confirmar Jugada", // <-- Botón 1
-        advanceRound: "Siguiente Ronda"  // <-- Botón 2
+        start: "Iniciar Partida", end: "Terminar Partida", settings: "Ajustes",
+        settingsTitle: "Ajustes", volumeLabel: "Volumen de Música", musicLabel: "Música de Fondo",
+        langLabel: "Idioma", pick: (num) => `Elige ${num} carta(s)`, score: "Puntos:",
+        confirmPlay: "Confirmar Jugada", confirmOrder: "Confirmar Orden",
+        advanceRound: "Siguiente Ronda"
     },
     pt: {
-        start: "Iniciar Jogo",
-        end: "Terminar Jogo",
-        settings: "Configurações",
-        settingsTitle: "Configurações",
-        volumeLabel: "Volume da Música",
-        musicLabel: "Música de Fundo",
-        langLabel: "Idioma",
-        pick: (num) => `Escolha ${num} carta(s)`,
-        score: "Pontos:",
-        confirmPlay: "Confirmar Jogada",
+        start: "Iniciar Jogo", end: "Terminar Jogo", settings: "Configurações",
+        settingsTitle: "Configurações", volumeLabel: "Volume da Música", musicLabel: "Música de Fundo",
+        langLabel: "Idioma", pick: (num) => `Escolha ${num} carta(s)`, score: "Pontos:",
+        confirmPlay: "Confirmar Jogada", confirmOrder: "Confirmar Ordem", // Texto PT añadido
         advanceRound: "Próxima Rodada"
     },
     bi: {
-        start: "Iniciar Partida / Jogo",
-        end: "Terminar Partida / Jogo",
-        settings: "Ajustes / Configurações",
-        settingsTitle: "Ajustes / Configurações",
-        volumeLabel: "Volumen / Volume",
-        musicLabel: "Música de Fondo / Fundo",
-        langLabel: "Idioma",
-        pick: (num) => `Elige / Escolha ${num} carta(s)`,
-        score: "Puntos / Pontos:",
-        confirmPlay: "Confirmar Jogada",
+        start: "Iniciar Partida / Jogo", end: "Terminar Partida / Jogo", settings: "Ajustes / Configurações",
+        settingsTitle: "Ajustes / Configurações", volumeLabel: "Volumen / Volume", musicLabel: "Música de Fondo / Fundo",
+        langLabel: "Idioma", pick: (num) => `Elige / Escolha ${num} carta(s)`, score: "Puntos / Pontos:",
+        confirmPlay: "Confirmar Jogada", confirmOrder: "Confirmar Orden / Ordem", // Texto BI añadido
         advanceRound: "Siguiente Ronda / Próxima Rodada"
-    }
-}
+    } // Llave de cierre corregida
+};
 
-// Mazo de Cartas Negras (Preguntas)
+// --- MAZOS DE CARTAS ---
 const blackCardsData = [
     // Pick 1
     { es: "¿Qué es ese olor? Es _.", pick: 1 },
@@ -581,18 +564,24 @@ const whiteCardsData = [
     { es: "La feria de Tristán Narvaja." },
     { es: "El olor a chivito." }
 ];
-
+// =============================================================
 // --- ESTADO DEL JUEGO ---
+// =============================================================
 let playerHand = [];
 let whiteDeck = [];
 let blackDeck = [];
 let currentBlackCard = null;
-let selectedCardsData = [];
+// selectedCardsData: Guarda los OBJETOS de datos de las cartas seleccionadas
+let selectedCardsData = []; // <-- SOLO SE DECLARA UNA VEZ
+// orderedCardElements: Guarda los ELEMENTOS HTML de las cartas para reordenar
+let orderedCardElements = [];
 let currentLang = 'es';
-const HAND_SIZE = 5; 
+const HAND_SIZE = 5;
 let score = 0;
 
-// --- ELEMENTOS DEL DOM ---
+// =============================================================
+// --- ELEMENTOS DEL DOM (DECLARADOS UNA SOLA VEZ) ---
+// =============================================================
 const startBtn = document.getElementById('start-btn');
 const endBtn = document.getElementById('end-btn');
 const settingsBtn = document.getElementById('settings-btn');
@@ -601,24 +590,22 @@ const blackCardElem = document.getElementById('black-card');
 const playedCardsSlots = document.getElementById('played-cards-slots');
 const playerHandElem = document.getElementById('player-hand');
 const pickTextElem = document.getElementById('pick-text');
+const scoreDisplay = document.getElementById('score-display'); // <-- SOLO UNA VEZ
+const addScoreBtn = document.getElementById('add-score');     // <-- SOLO UNA VEZ
+const subtractScoreBtn = document.getElementById('subtract-score'); // <-- SOLO UNA VEZ
+const modal = document.getElementById('settings-modal');         // <-- SOLO UNA VEZ
+const closeBtn = document.querySelector('#settings-modal .close-btn'); // <-- SOLO UNA VEZ
+const volumeControl = document.getElementById('volume-control'); // <-- SOLO UNA VEZ
+const langSelect = document.getElementById('lang-select');       // <-- SOLO UNA VEZ
+const musicSelect = document.getElementById('music-select');     // <-- SOLO UNA VEZ
 
-// Contador
-const scoreDisplay = document.getElementById('score-display');
-const addScoreBtn = document.getElementById('add-score');
-const subtractScoreBtn = document.getElementById('subtract-score');
-
-// Modal
-const modal = document.getElementById('settings-modal');
-const closeBtn = document.querySelector('.close-btn');
-const volumeControl = document.getElementById('volume-control');
-const langSelect = document.getElementById('lang-select');
-
-// Botones de Flujo
+// --- BOTONES DE FLUJO ---
 const confirmPlayBtn = document.getElementById('confirm-play-btn');
+const confirmOrderBtn = document.getElementById('confirm-order-btn');
 const advanceRoundBtn = document.getElementById('advance-round-btn');
 
-// --- ELEMENTOS DE MÚSICA (ACTUALIZADO para tu HTML) ---
-const musicSelect = document.getElementById('music-select');
+// --- ELEMENTOS DE MÚSICA ---
+// Asegúrate de que estos IDs coincidan EXACTAMENTE con los IDs en tu HTML
 const musicTracks = {
     'Viento_y_hacha': document.getElementById('Viento_y_hacha'),
     'Brama_el_viento': document.getElementById('Brama_el_viento'),
@@ -626,7 +613,9 @@ const musicTracks = {
 };
 let currentTrackId = 'Viento_y_hacha'; // Pista por defecto
 
-// --- LÓGICA DEL JUEGO ---
+// =============================================================
+// --- LÓGICA DEL JUEGO (FUNCIONES) ---
+// =============================================================
 
 function shuffleDeck(deck) {
     for (let i = deck.length - 1; i > 0; i--) {
@@ -638,7 +627,7 @@ function shuffleDeck(deck) {
 
 function startGame() {
     currentLang = langSelect.value;
-    currentTrackId = musicSelect.value; // Toma la música seleccionada al iniciar
+    currentTrackId = musicSelect.value;
     
     whiteDeck = shuffleDeck([...whiteCardsData]);
     blackDeck = shuffleDeck([...blackCardsData]);
@@ -652,10 +641,11 @@ function startGame() {
     startBtn.classList.add('hidden');
     endBtn.classList.remove('hidden');
     confirmPlayBtn.classList.add('hidden');
+    confirmOrderBtn.classList.add('hidden');
     advanceRoundBtn.classList.add('hidden');
     playerHandElem.classList.remove('hidden');
     langSelect.disabled = true;
-    musicSelect.disabled = true; // Deshabilita el selector de música durante el juego
+    musicSelect.disabled = true;
 
     nextRound(HAND_SIZE); 
     
@@ -667,9 +657,10 @@ function endGame() {
     startBtn.classList.remove('hidden');
     endBtn.classList.add('hidden');
     confirmPlayBtn.classList.add('hidden');
+    confirmOrderBtn.classList.add('hidden');
     advanceRoundBtn.classList.add('hidden');
     langSelect.disabled = false;
-    musicSelect.disabled = false; // Habilita el selector de música de nuevo
+    musicSelect.disabled = false;
     
     playerHandElem.innerHTML = '';
     blackCardElem.innerHTML = '';
@@ -679,51 +670,64 @@ function endGame() {
     stopAllMusic();
 }
 
-/** Detiene todas las pistas de música */
 function stopAllMusic() {
     Object.values(musicTracks).forEach(track => {
-        if (track) { // Verifica que el elemento exista
+        if (track) {
             track.pause();
             track.currentTime = 0;
         }
     });
 }
 
-/** Reproduce la pista seleccionada actualmente */
 function playCurrentMusic() {
-    stopAllMusic(); // Detiene todo primero
+    stopAllMusic();
     const trackToPlay = musicTracks[currentTrackId];
-    if (trackToPlay) { // Verifica que la pista exista
+    if (trackToPlay) {
         trackToPlay.volume = volumeControl.value;
-        trackToPlay.play().catch(e => console.log("El usuario debe interactuar para reproducir música."));
+        trackToPlay.play().catch(e => console.log("El usuario debe interactuar para reproducir música.", e));
+    } else {
+        console.error(`Error: No se encontró el elemento de audio con ID "${currentTrackId}"`);
     }
 }
 
-/** Cambia la pista de música y la reproduce */
 function switchMusic() {
     const selectedTrack = musicSelect.value;
     currentTrackId = selectedTrack;
-    // Solo reproduce si el juego ya está en marcha
     if (!gameContainer.classList.contains('hidden')) {
         playCurrentMusic();
     }
 }
 
-
 function nextRound(cardsToDraw) {
-    advanceRoundBtn.classList.add('hidden'); 
+    advanceRoundBtn.classList.add('hidden');
+    confirmOrderBtn.classList.add('hidden');
+    playedCardsSlots.classList.remove('reordering');
     
     selectedCardsData = [];
+    orderedCardElements = [];
     playedCardsSlots.innerHTML = '';
     playerHandElem.classList.remove('hidden');
 
     if (blackDeck.length === 0) {
-        // Opcional: Re-barajar si se acaban
         console.warn("Mazo de cartas negras vacío. Reiniciando mazo.");
         blackDeck = shuffleDeck([...blackCardsData]);
+        // Podrías terminar el juego si prefieres: endGame(); return;
+    }
+    // Asegurarse de que aún queden cartas después de re-barajar
+    if (blackDeck.length === 0) {
+         alert("¡Error crítico! No quedan cartas negras.");
+         endGame();
+         return;
     }
 
     currentBlackCard = blackDeck.pop();
+    
+    // Asegúrate de que currentBlackCard no sea undefined
+    if (!currentBlackCard) {
+        alert("Error al sacar carta negra.");
+        endGame();
+        return;
+    }
     
     let blackCardText = getCardText(currentBlackCard, 'es'); 
     if (currentLang === 'pt') {
@@ -743,10 +747,12 @@ function nextRound(cardsToDraw) {
     renderHand();
 }
 
-/** * Maneja la lógica de SELECCIÓN de cartas.
- */
 function playWhiteCard(cardData, cardElement) {
-    const index = selectedCardsData.indexOf(cardData);
+    // Asegurarse de que currentBlackCard esté definido
+    if (!currentBlackCard) return;
+
+    // Busca si el OBJETO cardData ya está en selectedCardsData
+    const index = selectedCardsData.findIndex(data => data === cardData);
 
     if (index > -1) {
         selectedCardsData.splice(index, 1);
@@ -759,52 +765,94 @@ function playWhiteCard(cardData, cardElement) {
     }
     
     const allHandCards = playerHandElem.querySelectorAll('.white-card');
-
     if (selectedCardsData.length === currentBlackCard.pick) {
         confirmPlayBtn.classList.remove('hidden');
-        
         allHandCards.forEach(card => {
             if (!card.classList.contains('selected')) {
                 card.classList.add('hidden');
             }
         });
-        
     } else {
         confirmPlayBtn.classList.add('hidden');
-        
         allHandCards.forEach(card => {
             card.classList.remove('hidden');
         });
     }
 }
 
-/** * Se activa al pulsar 'Confirmar Jugada'.
- */
 function confirmPlay() {
     confirmPlayBtn.classList.add('hidden');
-    advanceRoundBtn.classList.remove('hidden');
+    playerHandElem.classList.add('hidden');
+
+    orderedCardElements = Array.from(document.querySelectorAll('.white-card.selected'));
     
-    const selectedElements = document.querySelectorAll('.white-card.selected');
-    selectedElements.forEach(elem => {
-        playedCardsSlots.appendChild(elem);
+    orderedCardElements.forEach(elem => {
         elem.classList.remove('selected');
         elem.classList.remove('hidden');
-        elem.onclick = null; 
+        elem.onclick = null;
     });
-    
-    playerHandElem.classList.add('hidden');
-    
+
     playerHand = playerHand.filter(card => !selectedCardsData.includes(card));
+
+    if (currentBlackCard && currentBlackCard.pick > 1) {
+        renderReorderView();
+        confirmOrderBtn.classList.remove('hidden');
+    } else if (orderedCardElements.length > 0) { // Solo si hay al menos una carta
+        playedCardsSlots.appendChild(orderedCardElements[0]);
+        advanceRoundBtn.classList.remove('hidden');
+    } else {
+         // Caso borde: ¿Qué hacer si no hay cartas seleccionadas? (No debería pasar por la lógica anterior)
+         console.error("Confirm Play llamado sin cartas seleccionadas.");
+    }
 }
 
+function renderReorderView() {
+    playedCardsSlots.innerHTML = '';
+    playedCardsSlots.classList.add('reordering');
+
+    orderedCardElements.forEach((cardElement, index) => {
+        playedCardsSlots.appendChild(cardElement);
+
+        if (index < orderedCardElements.length - 1) {
+            const swapButton = document.createElement('button');
+            swapButton.classList.add('swap-btn');
+            swapButton.innerHTML = '↔';
+            swapButton.dataset.index = index;
+            swapButton.onclick = () => swapCards(index);
+            playedCardsSlots.appendChild(swapButton);
+        }
+    });
+}
+
+function swapCards(index) {
+    if (index >= 0 && index < orderedCardElements.length - 1) {
+        [orderedCardElements[index], orderedCardElements[index + 1]] = 
+            [orderedCardElements[index + 1], orderedCardElements[index]];
+        renderReorderView();
+    }
+}
+
+function confirmOrder() {
+    confirmOrderBtn.classList.add('hidden');
+    playedCardsSlots.classList.remove('reordering');
+
+    const swapButtons = playedCardsSlots.querySelectorAll('.swap-btn');
+    swapButtons.forEach(btn => btn.remove());
+
+    advanceRoundBtn.classList.remove('hidden');
+}
 
 function drawWhiteCard() {
     if (whiteDeck.length === 0) {
         console.warn("Mazo blanco vacío. Reiniciando mazo.");
         whiteDeck = shuffleDeck([...whiteCardsData]);
     }
+    // Asegurarse de que aún queden cartas
     if (whiteDeck.length > 0) {
         playerHand.push(whiteDeck.pop());
+    } else {
+        console.error("Error crítico: No quedan cartas blancas para robar.");
+        // Podrías terminar el juego aquí o mostrar un mensaje
     }
 }
 
@@ -829,6 +877,9 @@ function renderHand() {
 }
 
 function getCardText(card, lang) {
+    // Añadir verificación por si card es undefined
+    if (!card) return "Error: Carta inválida"; 
+    
     const esText = card.es || "Texto Faltante (ES)";
     const ptText = card.pt || esText;
     
@@ -842,60 +893,82 @@ function getCardText(card, lang) {
 }
 
 function updateScoreDisplay() {
-    scoreDisplay.innerText = score;
+    // Asegurarse de que scoreDisplay exista antes de usarlo
+    if(scoreDisplay) {
+       scoreDisplay.innerText = score;
+    }
 }
 
 function updateLanguage() {
     currentLang = langSelect.value;
     
-    startBtn.innerText = uiTexts[currentLang].start;
-    endBtn.innerText = uiTexts[currentLang].end;
-    settingsBtn.innerText = uiTexts[currentLang].settings;
-    confirmPlayBtn.innerText = uiTexts[currentLang].confirmPlay;
-    advanceRoundBtn.innerText = uiTexts[currentLang].advanceRound; 
+    // Actualizar botones (añadir verificación de existencia)
+    if(startBtn) startBtn.innerText = uiTexts[currentLang].start;
+    if(endBtn) endBtn.innerText = uiTexts[currentLang].end;
+    if(settingsBtn) settingsBtn.innerText = uiTexts[currentLang].settings;
+    if(confirmPlayBtn) confirmPlayBtn.innerText = uiTexts[currentLang].confirmPlay;
+    if(confirmOrderBtn) confirmOrderBtn.innerText = uiTexts[currentLang].confirmOrder;
+    if(advanceRoundBtn) advanceRoundBtn.innerText = uiTexts[currentLang].advanceRound; 
     
-    document.getElementById('settings-title').innerText = uiTexts[currentLang].settingsTitle;
-    document.getElementById('volume-label').innerText = uiTexts[currentLang].volumeLabel;
-    document.getElementById('music-label').innerText = uiTexts[currentLang].musicLabel;
-    document.getElementById('lang-label').innerText = uiTexts[currentLang].langLabel;
-    document.getElementById('score-label').innerText = uiTexts[currentLang].score;
+    // Actualizar etiquetas (añadir verificación de existencia)
+    const settingsTitleElem = document.getElementById('settings-title');
+    const volumeLabelElem = document.getElementById('volume-label');
+    const musicLabelElem = document.getElementById('music-label');
+    const langLabelElem = document.getElementById('lang-label');
+    const scoreLabelElem = document.getElementById('score-label');
+
+    if(settingsTitleElem) settingsTitleElem.innerText = uiTexts[currentLang].settingsTitle;
+    if(volumeLabelElem) volumeLabelElem.innerText = uiTexts[currentLang].volumeLabel;
+    if(musicLabelElem) musicLabelElem.innerText = uiTexts[currentLang].musicLabel;
+    if(langLabelElem) langLabelElem.innerText = uiTexts[currentLang].langLabel;
+    if(scoreLabelElem) scoreLabelElem.innerText = uiTexts[currentLang].score;
     
-    if (currentBlackCard) {
+    if (currentBlackCard && pickTextElem) {
         pickTextElem.innerText = uiTexts[currentLang].pick(currentBlackCard.pick);
     }
 
+    // Re-renderizar elementos dinámicos si el juego está activo
     if (!gameContainer.classList.contains('hidden')) {
-        renderHand(); 
+        renderHand(); // Re-renderiza la mano con el idioma correcto
         
-        let blackCardText = getCardText(currentBlackCard, 'es');
-        if (currentLang === 'pt') {
-            blackCardText = getCardText(currentBlackCard, 'pt');
-        } else if (currentLang === 'bi') {
-            blackCardText = `${getCardText(currentBlackCard, 'es')} <br>/<br> ${getCardText(currentBlackCard, 'pt')}`;
+        // Re-renderiza la carta negra
+        if (currentBlackCard && blackCardElem) {
+            let blackCardText = getCardText(currentBlackCard, 'es');
+            if (currentLang === 'pt') {
+                blackCardText = getCardText(currentBlackCard, 'pt');
+            } else if (currentLang === 'bi') {
+                blackCardText = `${getCardText(currentBlackCard, 'es')} <br>/<br> ${getCardText(currentBlackCard, 'pt')}`;
+            }
+            let displayHtml = blackCardText.replace(/_/g, "<span>[____]</span>");
+            blackCardElem.innerHTML = displayHtml;
         }
-        let displayHtml = blackCardText.replace(/_/g, "<span>[____]</span>");
-        blackCardElem.innerHTML = displayHtml;
         
-        playedCardsSlots.innerHTML = '';
+        // Limpia las cartas jugadas (ya que no se re-renderizan automáticamente)
+        if(playedCardsSlots) playedCardsSlots.innerHTML = ''; 
     }
 }
 
+// =============================================================
 // --- EVENT LISTENERS ---
+// =============================================================
 
-startBtn.addEventListener('click', startGame);
-endBtn.addEventListener('click', endGame);
-confirmPlayBtn.addEventListener('click', confirmPlay);
-advanceRoundBtn.addEventListener('click', () => {
-    // Llama a nextRound, pasando el número de cartas que necesita robar
-    nextRound(selectedCardsData.length);
+// Añadir verificaciones para asegurarse de que los elementos existen antes de añadir listeners
+
+if(startBtn) startBtn.addEventListener('click', startGame);
+if(endBtn) endBtn.addEventListener('click', endGame);
+if(confirmPlayBtn) confirmPlayBtn.addEventListener('click', confirmPlay);
+if(confirmOrderBtn) confirmOrderBtn.addEventListener('click', confirmOrder);
+if(advanceRoundBtn) advanceRoundBtn.addEventListener('click', () => {
+    // Pasa el número de cartas jugadas para saber cuántas robar
+    nextRound(orderedCardElements.length); 
 });
 
 // Contador
-addScoreBtn.addEventListener('click', () => {
+if(addScoreBtn) addScoreBtn.addEventListener('click', () => {
     score++;
     updateScoreDisplay();
 });
-subtractScoreBtn.addEventListener('click', () => {
+if(subtractScoreBtn) subtractScoreBtn.addEventListener('click', () => {
     if (score > 0) { 
         score--;
         updateScoreDisplay();
@@ -903,23 +976,30 @@ subtractScoreBtn.addEventListener('click', () => {
 });
 
 // Modal
-settingsBtn.addEventListener('click', () => modal.style.display = 'block');
-closeBtn.addEventListener('click', () => modal.style.display = 'none');
+if(settingsBtn) settingsBtn.addEventListener('click', () => {
+    if(modal) modal.style.display = 'block';
+});
+if(closeBtn) closeBtn.addEventListener('click', () => {
+    if(modal) modal.style.display = 'none';
+});
 window.addEventListener('click', (event) => {
     if (event.target == modal) {
-        modal.style.display = 'none';
+        if(modal) modal.style.display = 'none';
     }
 });
 
 // Ajustes
-volumeControl.addEventListener('input', (e) => {
+if(volumeControl) volumeControl.addEventListener('input', (e) => {
     const newVolume = e.target.value;
     Object.values(musicTracks).forEach(track => {
         if(track) track.volume = newVolume;
     });
 });
-musicSelect.addEventListener('change', switchMusic);
-langSelect.addEventListener('change', updateLanguage);
+if(musicSelect) musicSelect.addEventListener('change', switchMusic);
+if(langSelect) langSelect.addEventListener('change', updateLanguage);
 
-// Init
+// =============================================================
+// --- INICIALIZACIÓN ---
+// =============================================================
+// Llama a updateLanguage al cargar para establecer los textos iniciales
 updateLanguage();

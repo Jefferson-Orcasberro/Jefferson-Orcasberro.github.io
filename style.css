@@ -245,7 +245,6 @@ button:hover {
 }
 
 
-/* --- SECCIÓN RESPONSIVE --- */
 @media (max-width: 768px) {
     body {
         padding: 10px;
@@ -293,5 +292,18 @@ button:hover {
     button {
         font-size: 14px;
         padding: 8px 16px;
+    }
+
+    /* Estilos responsivos movidos aquí */
+    #confirm-order-btn,
+    .swap-btn {
+        font-size: 14px;
+        /* Padding ya cubierto por la regla 'button' */
+    }
+    .swap-btn {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0 5px;
     }
 }
