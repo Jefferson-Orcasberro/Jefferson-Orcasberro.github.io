@@ -31,7 +31,7 @@ button {
     cursor: pointer;
     background-color: #f0f0f0;
     color: #333;
-    transition: background-color 0.2s; /* Añadido para suavidad */
+    transition: background-color 0.2s;
 }
 
 button:hover {
@@ -149,11 +149,12 @@ button:hover {
     min-height: 250px; 
 }
 
-#next-round-btn {
+/* --- ESTILOS DE BOTÓN CORREGIDOS --- */
+#confirm-play-btn { /* Era #next-round-btn */
     font-size: 16px; 
     font-weight: bold;
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #007BFF; /* Azul para "Confirmar" */
     color: white;
     border: none;
     border-radius: 8px;
@@ -161,7 +162,24 @@ button:hover {
     margin: 5px;
 } 
 
-#next-round-btn:hover {
+#confirm-play-btn:hover { /* Era #next-round-btn:hover */
+    background-color: #0056b3;
+}
+
+/* --- NUEVO ESTILO DE BOTÓN --- */
+#advance-round-btn {
+    font-size: 16px; 
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Verde para "Siguiente" */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+} 
+
+#advance-round-btn:hover {
     background-color: #45a049;
 }
 
@@ -230,19 +248,24 @@ button:hover {
 /* --- SECCIÓN RESPONSIVE --- */
 @media (max-width: 768px) {
     body {
-        padding: 10px; /* Menos espacio en los bordes */
+        padding: 10px;
     }
 
     .controls {
-        flex-direction: column; /* Apila controles y contador */
+        flex-direction: column;
         margin-bottom: 10px;
+    }
+    
+    .game-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
     #score-counter {
         margin-top: 15px;
     }
 
-    /* Estilo para la carta negra y cartas jugadas en móvil */
     .card {
         width: 140px; 
         min-height: 200px;
@@ -251,27 +274,24 @@ button:hover {
         margin: 5px;
     }
     
-    /* --- CAMBIO PRINCIPAL AQUÍ --- */
-    /* Estilo específico para las cartas EN LA MANO en móvil */
     #player-hand .card {
-        width: 90px;       /* Más angostas */
-        min-height: 130px;   /* Más bajas */
-        font-size: 10px;   /* Texto más chico */
+        width: 90px;
+        min-height: 130px;
+        font-size: 10px;
         padding: 8px;
         margin: 4px;
     }
-    /* --- FIN DEL CAMBIO --- */
 
     #played-cards-slots {
         min-height: 210px;
     }
 
     #player-hand {
-        min-height: 150px; /* Ajustamos la altura de la mano */
+        min-height: 150px;
     }
 
     button {
-        font-size: 14px; /* Botones más pequeños */
+        font-size: 14px;
         padding: 8px 16px;
     }
 }

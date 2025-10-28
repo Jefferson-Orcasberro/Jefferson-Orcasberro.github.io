@@ -40,6 +40,7 @@ const uiTexts = {
         confirmPlay: "Confirmar Jogada",
         advanceRound: "Siguiente Ronda / Próxima Rodada"
     }
+}
 
 // Mazo de Cartas Negras (Preguntas)
 const blackCardsData = [
