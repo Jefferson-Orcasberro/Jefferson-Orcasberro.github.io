@@ -341,18 +341,21 @@ button:disabled {
 
 .player-hand {
     display: flex;
-    justify-content: center;
-    flex-wrap: nowrap; /* Evita que las cartas bajen, fuerza scroll */
-    flex-basis: 18%; /* 5 manos */
+    justify-content: flex-start; /* <-- CAMBIADO DE 'center' A 'flex-start' */
+    flex-wrap: nowrap; 
+    flex-basis: 18%; 
     max-width: 18%;
     height: 100%;
-    overflow-x: auto; /* Scroll horizontal si hay muchas cartas */
+    overflow-x: auto; 
     overflow-y: hidden;
     border: 3px solid transparent;
     border-radius: 12px;
-    padding: 8px 22px;
+    padding: 8px 16px; 
     transition: all 0.3s ease;
     gap: 8px;
+
+    /* --- PROPIEDADES DEL CARRUSEL --- */
+    scroll-snap-type: x mandatory;
 }
 
 .player-hand.active {
@@ -368,12 +371,15 @@ button:disabled {
 
 /* --- Cartas dentro de la mano --- */
 .player-hand .card {
-    width: 120px; /* Más grande */
-    min-height: 160px; /* Más grande */
-    font-size: 0.8rem; /* Texto más legible */
-    padding: 10px; /* Más padding */
-    flex-shrink: 0; /* Evita que se encojan */
-    line-height: 1.3; /* Mejor espaciado de línea */
+    width: 110px; 
+    min-height: 160px; 
+    font-size: 0.8rem; 
+    padding: 10px; 
+    flex-shrink: 0; 
+    line-height: 1.3; 
+
+    /* --- PROPIEDADES DEL CARRUSEL --- */
+    scroll-snap-align: center;
 }
 
 .player-hand .white-card:hover:not(.disabled) {
