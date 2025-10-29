@@ -3,26 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juego de Cartas (3 Jugadores)</title>
+    <title>Juego de Cartas (2-5 Jugadores)</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div id="setup-modal" class="modal" style="display: block;">
         <div class="modal-content">
-            <h2>Configurar Jugadores</h2>
+            <h2>Configurar Partida</h2>
             <div class="setting-item">
-                <label for="p1-name">Apodo Jugador 1:</label>
-                <input type="text" id="p1-name" value="Jugador 1">
+                <label for="player-count">Número de Jugadores:</label>
+                <select id="player-count">
+                    <option value="2">2</option>
+                    <option value="3" selected>3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
             </div>
-            <div class="setting-item">
-                <label for="p2-name">Apodo Jugador 2:</label>
-                <input type="text" id="p2-name" value="Jugador 2">
-            </div>
-            <div class="setting-item">
-                <label for="p3-name">Apodo Jugador 3:</label>
-                <input type="text" id="p3-name" value="Jugador 3">
-            </div>
+            <div id="nickname-inputs-container">
+                </div>
             <button id="start-setup-btn">¡Empezar Juego!</button>
         </div>
     </div>
@@ -31,20 +30,16 @@
 
         <div class="top-bar">
             <div class="score-boards">
-                <div id="score-board-0" class="score-board">
-                    <span class="player-name">P1</span>: <span class="score">0</span>
-                </div>
-                <div id="score-board-1" class="score-board">
-                    <span class="player-name">P2</span>: <span class="score">0</span>
-                </div>
-                <div id="score-board-2" class="score-board">
-                    <span class="player-name">P3</span>: <span class="score">0</span>
-                </div>
+                <div id="score-board-0" class="score-board hidden"><span class="player-name">P1</span>: <span class="score">0</span></div>
+                <div id="score-board-1" class="score-board hidden"><span class="player-name">P2</span>: <span class="score">0</span></div>
+                <div id="score-board-2" class="score-board hidden"><span class="player-name">P3</span>: <span class="score">0</span></div>
+                <div id="score-board-3" class="score-board hidden"><span class="player-name">P4</span>: <span class="score">0</span></div>
+                <div id="score-board-4" class="score-board hidden"><span class="player-name">P5</span>: <span class="score">0</span></div>
             </div>
             <div class="controls">
                 <button id="end-btn">Terminar Partida</button>
                 <button id="settings-btn">Ajustes</button>
-                </div>
+            </div>
         </div>
 
         <div id="game-container">
@@ -53,22 +48,18 @@
                 <div id="played-cards-area">
                     <p id="game-message">Esperando jugadas...</p>
                     <div id="played-cards-slots">
-                        <div id="slot-player-left" class="played-slot"></div>
-                        <div id="slot-player-right" class="played-slot"></div>
-                    </div>
-                     <div id="reader-choice-buttons" class="hidden">
-                        <button id="choose-left-btn">Elegir Izquierda</button>
-                        <button id="choose-right-btn">Elegir Derecha</button>
-                    </div>
+                        </div>
                     <button id="advance-round-btn" class="hidden">Siguiente Ronda</button>
                 </div>
             </div>
         </div>
 
         <div class="player-hands-container">
-            <div id="player-hand-0" class="player-hand"></div>
-            <div id="player-hand-1" class="player-hand"></div>
-            <div id="player-hand-2" class="player-hand"></div>
+            <div id="player-hand-0" class="player-hand hidden"></div>
+            <div id="player-hand-1" class="player-hand hidden"></div>
+            <div id="player-hand-2" class="player-hand hidden"></div>
+            <div id="player-hand-3" class="player-hand hidden"></div>
+            <div id="player-hand-4" class="player-hand hidden"></div>
         </div>
          <div class="confirmation-buttons">
              <button id="confirm-play-btn" class="hidden">Confirmar Jugada</button>
@@ -76,37 +67,18 @@
         </div>
 
         <div id="settings-modal" class="modal">
-            <div class="modal-content">
+             <div class="modal-content">
                 <span class="close-btn">&times;</span>
                 <h2 id="settings-title">Ajustes</h2>
-                <div class="setting-item">
-                    <label for="volume-control" id="volume-label">Volumen</label>
-                    <input type="range" id="volume-control" min="0" max="1" step="0.1" value="0.5">
-                </div>
-                <div class="setting-item">
-                    <label for="music-select" id="music-label">Música</label>
-                    <select id="music-select">
-                        <option value="Viento_y_hacha">El Viento y el Hacha</option>
-                        <option value="Brama_el_viento">Brama el Viento</option>
-                        <option value="Rey_del_asado">Rey del Asado</option>
-                    </select>
-                </div>
-                <div class="setting-item">
-                    <label for="lang-select" id="lang-label">Idioma</label>
-                    <select id="lang-select">
-                        <option value="es">Español</option>
-                        <option value="pt">Português</option>
-                        <option value="bi">Bilingüe (ES/PT)</option>
-                    </select>
-                </div>
+                <div class="setting-item"> <label for="volume-control" id="volume-label">Volumen</label> <input type="range" id="volume-control" min="0" max="1" step="0.1" value="0.5"> </div>
+                <div class="setting-item"> <label for="music-select" id="music-label">Música</label> <select id="music-select"> <option value="Viento_y_hacha">El Viento y el Hacha</option> <option value="Brama_el_viento">Brama el Viento</option> <option value="Rey_del_asado" selected>Rey del Asado</option> </select> </div>
+                <div class="setting-item"> <label for="lang-select" id="lang-label">Idioma</label> <select id="lang-select"> <option value="es">Español</option> <option value="pt">Português</option> <option value="bi">Bilingüe (ES/PT)</option> </select> </div>
             </div>
         </div>
-    </div>
+    </div> <audio id="Rey_del_asado" loop src="Rey_del_Asado.mp3"></audio>
+    <audio id="Brama_el_viento" loop src="Brama_el_viento.mp3"></audio>
+    <audio id="Viento_y_hacha" loop src="El_Viento_y_el_Hacha.mp3"></audio>
 
-    <audio id="Rey_del_asado" loop src="Rey_del_Asado.mp3"></audio> 
-    <audio id="Brama_el_viento" loop src="Brama_el_viento.mp3"></audio> 
-    <audio id="Viento_y_hacha" loop src="El_Viento_y_el_Hacha.mp3"></audio> 
-    
     <script src="script.js"></script>
 </body>
 </html>
