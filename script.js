@@ -646,194 +646,303 @@ const whiteCardsData = [
     { es: "La feria de Tristán Narvaja." },
     { es: "El olor a chivito." }
 ];
+
 // =============================================================
 // --- ESTADO DEL JUEGO ---
 // =============================================================
-let playerHand = [];
+let players = []; // Array de objetos: { id: 0, name: "P1", score: 0, hand: [] }
 let whiteDeck = [];
 let blackDeck = [];
 let currentBlackCard = null;
-// selectedCardsData: Guarda los OBJETOS de datos de las cartas seleccionadas
-let selectedCardsData = []; // <-- SOLO SE DECLARA UNA VEZ
-// orderedCardElements: Guarda los ELEMENTOS HTML de las cartas para reordenar
-let orderedCardElements = [];
+let currentReaderIndex = -1; // Quién lee (0, 1, 2)
+let currentPlayerIndex = -1; // Quién juega (el que NO es lector)
+let currentTurnPlayer = -1; // A qué jugador (0, 1, 2) le toca jugar AHORA
+let gameState = 'setup'; // Estados: setup, playing, reordering, judging, round_end
+let submittedCards = {}; // { 0: [cardData], 1: [cardData] } - ID del jugador que juega
+let selectedCardsData = []; // Selección local del jugador activo
+let orderedCardElements = []; // Elementos HTML para reordenar
 let currentLang = 'es';
 const HAND_SIZE = 5;
-let score = 0;
 
 // =============================================================
-// --- ELEMENTOS DEL DOM (DECLARADOS UNA SOLA VEZ) ---
+// --- ELEMENTOS DEL DOM ---
 // =============================================================
-const startBtn = document.getElementById('start-btn');
+// Modales
+const setupModal = document.getElementById('setup-modal');
+const settingsModal = document.getElementById('settings-modal');
+const closeSettingsBtn = document.querySelector('#settings-modal .close-btn');
+
+// Botones Setup
+const startSetupBtn = document.getElementById('start-setup-btn');
+const pNameInputs = [
+    document.getElementById('p1-name'),
+    document.getElementById('p2-name'),
+    document.getElementById('p3-name')
+];
+
+// Contenedores Principales
+const appContainer = document.getElementById('app-container');
+const gameContainer = document.getElementById('game-container');
+const playerHandsContainer = document.querySelector('.player-hands-container');
+
+// Barra Superior
+const scoreBoards = [
+    document.getElementById('score-board-0'),
+    document.getElementById('score-board-1'),
+    document.getElementById('score-board-2')
+];
+const controlsDiv = document.querySelector('.controls'); // Contenedor para botones dinámicos
 const endBtn = document.getElementById('end-btn');
 const settingsBtn = document.getElementById('settings-btn');
-const gameContainer = document.getElementById('game-container');
-const blackCardElem = document.getElementById('black-card');
-const playedCardsSlots = document.getElementById('played-cards-slots');
-const playerHandElem = document.getElementById('player-hand');
-const pickTextElem = document.getElementById('pick-text');
-const scoreDisplay = document.getElementById('score-display'); // <-- SOLO UNA VEZ
-const addScoreBtn = document.getElementById('add-score');     // <-- SOLO UNA VEZ
-const subtractScoreBtn = document.getElementById('subtract-score'); // <-- SOLO UNA VEZ
-const modal = document.getElementById('settings-modal');         // <-- SOLO UNA VEZ
-const closeBtn = document.querySelector('#settings-modal .close-btn'); // <-- SOLO UNA VEZ
-const volumeControl = document.getElementById('volume-control'); // <-- SOLO UNA VEZ
-const langSelect = document.getElementById('lang-select');       // <-- SOLO UNA VEZ
-const musicSelect = document.getElementById('music-select');     // <-- SOLO UNA VEZ
 
-// --- BOTONES DE FLUJO ---
-const confirmPlayBtn = document.getElementById('confirm-play-btn');
-const confirmOrderBtn = document.getElementById('confirm-order-btn');
+// Área de Juego Central
+const blackCardElem = document.getElementById('black-card');
+const gameMessageElem = document.getElementById('game-message');
+const playedCardsSlots = document.getElementById('played-cards-slots');
+const slotPlayerLeft = document.getElementById('slot-player-left');
+const slotPlayerRight = document.getElementById('slot-player-right');
+const readerChoiceButtons = document.getElementById('reader-choice-buttons');
+const chooseLeftBtn = document.getElementById('choose-left-btn');
+const chooseRightBtn = document.getElementById('choose-right-btn');
 const advanceRoundBtn = document.getElementById('advance-round-btn');
 
-// --- ELEMENTOS DE MÚSICA ---
-// Asegúrate de que estos IDs coincidan EXACTAMENTE con los IDs en tu HTML
+
+// Manos (Divs contenedores)
+const playerHandElems = [
+    document.getElementById('player-hand-0'),
+    document.getElementById('player-hand-1'),
+    document.getElementById('player-hand-2')
+];
+
+// Botones de Confirmación (debajo de las manos)
+const confirmationButtonsDiv = document.querySelector('.confirmation-buttons');
+const confirmPlayBtn = document.getElementById('confirm-play-btn');
+const confirmOrderBtn = document.getElementById('confirm-order-btn');
+
+// Ajustes y Música
+const volumeControl = document.getElementById('volume-control');
+const langSelect = document.getElementById('lang-select');
+const musicSelect = document.getElementById('music-select');
 const musicTracks = {
     'Viento_y_hacha': document.getElementById('Viento_y_hacha'),
     'Brama_el_viento': document.getElementById('Brama_el_viento'),
     'Rey_del_asado': document.getElementById('Rey_del_asado')
 };
-let currentTrackId = 'Viento_y_hacha'; // Pista por defecto
+let currentTrackId = 'Viento_y_hacha';
+
 
 // =============================================================
-// --- LÓGICA DEL JUEGO (FUNCIONES) ---
+// --- INICIO Y CONFIGURACIÓN ---
 // =============================================================
 
-function shuffleDeck(deck) {
-    for (let i = deck.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [deck[i], deck[j]] = [deck[j], deck[i]];
+startSetupBtn.addEventListener('click', () => {
+    players = [];
+    for (let i = 0; i < 3; i++) {
+        players.push({
+            id: i,
+            name: pNameInputs[i].value || `Jugador ${i + 1}`,
+            score: 0,
+            hand: [] // La mano se guarda aquí
+        });
     }
-    return deck;
-}
+    setupModal.style.display = 'none';
+    appContainer.classList.remove('hidden');
+    initializeGame();
+});
 
-function startGame() {
-    currentLang = langSelect.value;
-    currentTrackId = musicSelect.value;
-    
+function initializeGame() {
     whiteDeck = shuffleDeck([...whiteCardsData]);
     blackDeck = shuffleDeck([...blackCardsData]);
-    
-    playerHand = [];
-    selectedCardsData = [];
-    score = 0;
-    updateScoreDisplay();
-    
-    gameContainer.classList.remove('hidden');
-    startBtn.classList.add('hidden');
-    endBtn.classList.remove('hidden');
-    confirmPlayBtn.classList.add('hidden');
-    confirmOrderBtn.classList.add('hidden');
-    advanceRoundBtn.classList.add('hidden');
-    playerHandElem.classList.remove('hidden');
-    langSelect.disabled = true;
-    musicSelect.disabled = true;
 
-    nextRound(HAND_SIZE); 
-    
+    // Reparte manos iniciales
+    players.forEach(player => {
+        player.hand = dealCards(whiteDeck, HAND_SIZE);
+    });
+
+    currentReaderIndex = 0; // Empieza el jugador 0 como lector
+    updateScoreboardHighlight();
+    startNewRound();
     playCurrentMusic();
 }
 
-function endGame() {
-    gameContainer.classList.add('hidden');
-    startBtn.classList.remove('hidden');
-    endBtn.classList.add('hidden');
-    confirmPlayBtn.classList.add('hidden');
-    confirmOrderBtn.classList.add('hidden');
-    advanceRoundBtn.classList.add('hidden');
-    langSelect.disabled = false;
-    musicSelect.disabled = false;
-    
-    playerHandElem.innerHTML = '';
-    blackCardElem.innerHTML = '';
-    playedCardsSlots.innerHTML = '';
-    pickTextElem.innerText = '';
-    
-    stopAllMusic();
-}
-
-function stopAllMusic() {
-    Object.values(musicTracks).forEach(track => {
-        if (track) {
-            track.pause();
-            track.currentTime = 0;
-        }
+function updateScoreboardHighlight() {
+    scoreBoards.forEach((board, index) => {
+        board.classList.toggle('reader', index === currentReaderIndex);
+        // Actualiza nombre y puntaje
+        board.querySelector('.player-name').innerText = players[index].name;
+        board.querySelector('.score').innerText = players[index].score;
     });
 }
 
-function playCurrentMusic() {
-    stopAllMusic();
-    const trackToPlay = musicTracks[currentTrackId];
-    if (trackToPlay) {
-        trackToPlay.volume = volumeControl.value;
-        trackToPlay.play().catch(e => console.log("El usuario debe interactuar para reproducir música.", e));
-    } else {
-        console.error(`Error: No se encontró el elemento de audio con ID "${currentTrackId}"`);
-    }
-}
+// =============================================================
+// --- LÓGICA DE RONDAS Y TURNOS ---
+// =============================================================
 
-function switchMusic() {
-    const selectedTrack = musicSelect.value;
-    currentTrackId = selectedTrack;
-    if (!gameContainer.classList.contains('hidden')) {
-        playCurrentMusic();
-    }
-}
+function startNewRound() {
+    gameState = 'playing';
+    submittedCards = {}; // Limpia cartas jugadas
+    selectedCardsData = []; // Limpia selección local
+    orderedCardElements = []; // Limpia elementos para reordenar
 
-function nextRound(cardsToDraw) {
-    advanceRoundBtn.classList.add('hidden');
-    confirmOrderBtn.classList.add('hidden');
+    // Limpia áreas visuales
+    slotPlayerLeft.innerHTML = '';
+    slotPlayerRight.innerHTML = '';
     playedCardsSlots.classList.remove('reordering');
-    
-    selectedCardsData = [];
-    orderedCardElements = [];
-    playedCardsSlots.innerHTML = '';
-    playerHandElem.classList.remove('hidden');
+    readerChoiceButtons.classList.add('hidden');
+    advanceRoundBtn.classList.add('hidden');
+    confirmPlayBtn.classList.add('hidden');
+    confirmOrderBtn.classList.add('hidden');
+    confirmationButtonsDiv.classList.add('hidden'); // Oculta contenedor de botones
 
-    if (blackDeck.length === 0) {
-        console.warn("Mazo de cartas negras vacío. Reiniciando mazo.");
-        blackDeck = shuffleDeck([...blackCardsData]);
-        // Podrías terminar el juego si prefieres: endGame(); return;
-    }
-    // Asegurarse de que aún queden cartas después de re-barajar
-    if (blackDeck.length === 0) {
-         alert("¡Error crítico! No quedan cartas negras.");
-         endGame();
-         return;
-    }
-
+    // Saca nueva carta negra
+    if (blackDeck.length === 0) blackDeck = shuffleDeck([...blackCardsData]);
     currentBlackCard = blackDeck.pop();
-    
-    // Asegúrate de que currentBlackCard no sea undefined
-    if (!currentBlackCard) {
-        alert("Error al sacar carta negra.");
-        endGame();
-        return;
-    }
-    
-    let blackCardText = getCardText(currentBlackCard, 'es'); 
-    if (currentLang === 'pt') {
-        blackCardText = getCardText(currentBlackCard, 'pt');
-    } else if (currentLang === 'bi') {
-        blackCardText = `${getCardText(currentBlackCard, 'es')} <br>/<br> ${getCardText(currentBlackCard, 'pt')}`;
-    }
-    
-    let displayHtml = blackCardText.replace(/_/g, "<span>[____]</span>");
-    blackCardElem.innerHTML = displayHtml;
-    pickTextElem.innerText = uiTexts[currentLang].pick(currentBlackCard.pick);
+    renderBlackCard();
 
-    for (let i = 0; i < cardsToDraw; i++) {
-        drawWhiteCard();
-    }
-    
-    renderHand();
+    // Determina quién juega (los que NO son lectores)
+    let playingPlayerIndexes = players.map(p => p.id).filter(id => id !== currentReaderIndex);
+    currentPlayerIndex = 0; // Índice dentro de los que juegan (0 o 1)
+    currentTurnPlayer = playingPlayerIndexes[currentPlayerIndex]; // ID real del jugador (0, 1, 2)
+
+    updateGameMessage();
+    renderAllHands(); // Dibuja todas las manos (con highlights)
 }
 
-function playWhiteCard(cardData, cardElement) {
-    // Asegurarse de que currentBlackCard esté definido
-    if (!currentBlackCard) return;
+function advanceTurn() {
+    // Limpia selección y botones del jugador anterior
+    selectedCardsData = [];
+    confirmPlayBtn.classList.add('hidden');
+    confirmOrderBtn.classList.add('hidden');
+    confirmationButtonsDiv.classList.add('hidden');
 
-    // Busca si el OBJETO cardData ya está en selectedCardsData
+
+    currentPlayerIndex++; // Avanza al siguiente jugador QUE JUEGA
+
+    let playingPlayerIndexes = players.map(p => p.id).filter(id => id !== currentReaderIndex);
+
+    if (currentPlayerIndex < playingPlayerIndexes.length) {
+        // Todavía hay jugadores por jugar
+        currentTurnPlayer = playingPlayerIndexes[currentPlayerIndex];
+        updateGameMessage();
+        renderAllHands(); // Actualiza highlights
+    } else {
+        // Todos los jugadores (que no son el lector) han jugado
+        gameState = 'judging';
+        currentTurnPlayer = -1; // Nadie tiene el turno activo
+        updateGameMessage();
+        renderAllHands(); // Quita highlights
+        displaySubmittedCards(); // Muestra las cartas para el lector
+        readerChoiceButtons.classList.remove('hidden'); // Muestra botones de elegir
+    }
+}
+
+function updateGameMessage() {
+    let message = "";
+    switch (gameState) {
+        case 'playing':
+            message = `Turno de ${players[currentTurnPlayer].name} para jugar ${currentBlackCard.pick} carta(s).`;
+            break;
+        case 'reordering':
+             message = `Turno de ${players[currentTurnPlayer].name}. Ordena tus cartas.`;
+             break;
+        case 'judging':
+            message = `Turno de ${players[currentReaderIndex].name} (Lector) para elegir la mejor respuesta.`;
+            break;
+        case 'round_end':
+            // El mensaje de ganador se maneja en chooseWinner
+            break;
+        default:
+            message = "Cargando...";
+    }
+    gameMessageElem.innerText = message;
+}
+
+function rotateReader() {
+    currentReaderIndex = (currentReaderIndex + 1) % players.length;
+    updateScoreboardHighlight();
+}
+
+// =============================================================
+// --- RENDERIZADO DE CARTAS ---
+// =============================================================
+
+function renderBlackCard() {
+    if (!currentBlackCard) return;
+    let text = getCardText(currentBlackCard, 'es'); // Adaptar idioma si es necesario
+    blackCardElem.innerHTML = text.replace(/_/g, "<span>[____]</span>");
+}
+
+function renderAllHands() {
+    players.forEach((player, index) => {
+        const handElem = playerHandElems[index];
+        handElem.innerHTML = ''; // Limpia mano
+        handElem.classList.toggle('active', index === currentTurnPlayer && gameState === 'playing');
+        handElem.classList.toggle('reader', index === currentReaderIndex);
+
+        player.hand.forEach(cardData => {
+            const cardElement = createWhiteCardElement(cardData, index); // Pasa el índice del jugador
+            handElem.appendChild(cardElement);
+        });
+    });
+     // Muestra/oculta el contenedor de botones de confirmación si es el turno de alguien
+     confirmationButtonsDiv.classList.toggle('hidden', currentTurnPlayer === -1 || gameState !== 'playing' && gameState !== 'reordering');
+}
+
+function createWhiteCardElement(cardData, playerOwnerIndex) {
+    const cardElement = document.createElement('div');
+    cardElement.classList.add('card', 'white-card');
+    cardElement.innerHTML = getCardText(cardData, currentLang); // Usa el idioma actual
+
+    // Solo permite click si es el turno de este jugador y estamos jugando
+    if (playerOwnerIndex === currentTurnPlayer && gameState === 'playing') {
+        cardElement.onclick = () => selectCard(cardData, cardElement);
+    } else {
+        cardElement.classList.add('disabled'); // Marca como no jugable
+    }
+    return cardElement;
+}
+
+function displaySubmittedCards() {
+    slotPlayerLeft.innerHTML = '';
+    slotPlayerRight.innerHTML = '';
+    
+    let playingPlayerIds = Object.keys(submittedCards).map(id => parseInt(id));
+
+    // Muestra la carta del primer jugador que jugó a la izquierda
+    if (playingPlayerIds.length > 0) {
+        const playerIdLeft = playingPlayerIds[0];
+        submittedCards[playerIdLeft].forEach(cardData => {
+             const cardElement = document.createElement('div');
+             cardElement.classList.add('card', 'white-card');
+             cardElement.innerHTML = getCardText(cardData, currentLang);
+             slotPlayerLeft.appendChild(cardElement);
+        });
+        // Guarda el ID del jugador en el botón para saber a quién dar el punto
+        chooseLeftBtn.dataset.playerId = playerIdLeft;
+    }
+
+    // Muestra la carta del segundo jugador que jugó a la derecha
+    if (playingPlayerIds.length > 1) {
+        const playerIdRight = playingPlayerIds[1];
+         submittedCards[playerIdRight].forEach(cardData => {
+             const cardElement = document.createElement('div');
+             cardElement.classList.add('card', 'white-card');
+             cardElement.innerHTML = getCardText(cardData, currentLang);
+             slotPlayerRight.appendChild(cardElement);
+        });
+        chooseRightBtn.dataset.playerId = playerIdRight;
+    }
+}
+
+
+// =============================================================
+// --- ACCIONES DEL JUGADOR ---
+// =============================================================
+
+function selectCard(cardData, cardElement) {
+    // Solo el jugador actual puede seleccionar
+    if (gameState !== 'playing' || players[currentTurnPlayer].id !== parseInt(cardElement.closest('.player-hand').id.split('-')[2])) return;
+
     const index = selectedCardsData.findIndex(data => data === cardData);
 
     if (index > -1) {
@@ -845,55 +954,75 @@ function playWhiteCard(cardData, cardElement) {
             cardElement.classList.add('selected');
         }
     }
-    
-    const allHandCards = playerHandElem.querySelectorAll('.white-card');
-    if (selectedCardsData.length === currentBlackCard.pick) {
+
+    // Actualiza botones y visualización de cartas no seleccionadas
+    updateSelectionUI();
+}
+
+function updateSelectionUI() {
+     const handElem = playerHandElems[currentTurnPlayer];
+     const allHandCards = handElem.querySelectorAll('.white-card');
+
+     if (selectedCardsData.length === currentBlackCard.pick) {
         confirmPlayBtn.classList.remove('hidden');
         allHandCards.forEach(card => {
+             // Oculta solo las de la mano activa que no estén seleccionadas
             if (!card.classList.contains('selected')) {
                 card.classList.add('hidden');
+            } else {
+                 card.classList.remove('hidden'); // Asegúrate que las seleccionadas se vean
             }
         });
     } else {
         confirmPlayBtn.classList.add('hidden');
+        confirmOrderBtn.classList.add('hidden'); // Oculta por si acaso
         allHandCards.forEach(card => {
-            card.classList.remove('hidden');
+            card.classList.remove('hidden'); // Muestra todas de nuevo
         });
     }
 }
 
+
 function confirmPlay() {
     confirmPlayBtn.classList.add('hidden');
-    playerHandElem.classList.add('hidden');
+    confirmationButtonsDiv.classList.add('hidden'); // Oculta botones inferiores
 
-    orderedCardElements = Array.from(document.querySelectorAll('.white-card.selected'));
-    
+    // Guarda los elementos seleccionados para reordenar
+    const handElem = playerHandElems[currentTurnPlayer];
+    orderedCardElements = Array.from(handElem.querySelectorAll('.white-card.selected'));
+
     orderedCardElements.forEach(elem => {
         elem.classList.remove('selected');
-        elem.classList.remove('hidden');
-        elem.onclick = null;
+        elem.onclick = null; // Desactiva click
     });
 
-    playerHand = playerHand.filter(card => !selectedCardsData.includes(card));
+    // Mueve los datos de las cartas seleccionadas al estado global
+    submittedCards[currentTurnPlayer] = [...selectedCardsData]; // Copia los datos
 
-    if (currentBlackCard && currentBlackCard.pick > 1) {
-        renderReorderView();
-        confirmOrderBtn.classList.remove('hidden');
-    } else if (orderedCardElements.length > 0) { // Solo si hay al menos una carta
-        playedCardsSlots.appendChild(orderedCardElements[0]);
-        advanceRoundBtn.classList.remove('hidden');
+    // Si es pick > 1, entra en modo reordenar
+    if (currentBlackCard.pick > 1) {
+        gameState = 'reordering';
+        updateGameMessage();
+        renderReorderView(); // Muestra las cartas seleccionadas en el centro para ordenar
+        confirmOrderBtn.classList.remove('hidden'); // Muestra confirmar orden
+        confirmationButtonsDiv.classList.remove('hidden'); // Muestra contenedor de botones
+
     } else {
-         // Caso borde: ¿Qué hacer si no hay cartas seleccionadas? (No debería pasar por la lógica anterior)
-         console.error("Confirm Play llamado sin cartas seleccionadas.");
+        // Si es pick 1, avanza el turno directamente
+        advanceTurn();
     }
 }
 
+
 function renderReorderView() {
-    playedCardsSlots.innerHTML = '';
-    playedCardsSlots.classList.add('reordering');
+    // Muestra las cartas seleccionadas en el SLOT IZQUIERDO para reordenar
+    // (Simplificado: asumimos que solo un jugador reordena a la vez)
+    slotPlayerLeft.innerHTML = '';
+    slotPlayerRight.innerHTML = ''; // Limpia el otro slot
+    slotPlayerLeft.classList.add('reordering');
 
     orderedCardElements.forEach((cardElement, index) => {
-        playedCardsSlots.appendChild(cardElement);
+        slotPlayerLeft.appendChild(cardElement);
 
         if (index < orderedCardElements.length - 1) {
             const swapButton = document.createElement('button');
@@ -901,187 +1030,192 @@ function renderReorderView() {
             swapButton.innerHTML = '↔';
             swapButton.dataset.index = index;
             swapButton.onclick = () => swapCards(index);
-            playedCardsSlots.appendChild(swapButton);
+            slotPlayerLeft.appendChild(swapButton);
         }
     });
 }
 
 function swapCards(index) {
     if (index >= 0 && index < orderedCardElements.length - 1) {
-        [orderedCardElements[index], orderedCardElements[index + 1]] = 
+        // Intercambia elementos HTML en el array
+        [orderedCardElements[index], orderedCardElements[index + 1]] =
             [orderedCardElements[index + 1], orderedCardElements[index]];
-        renderReorderView();
+        // Intercambia los datos correspondientes en submittedCards
+         [submittedCards[currentTurnPlayer][index], submittedCards[currentTurnPlayer][index+1]] =
+            [submittedCards[currentTurnPlayer][index+1], submittedCards[currentTurnPlayer][index]];
+
+        renderReorderView(); // Vuelve a dibujar
     }
 }
+
 
 function confirmOrder() {
     confirmOrderBtn.classList.add('hidden');
-    playedCardsSlots.classList.remove('reordering');
+    confirmationButtonsDiv.classList.add('hidden');
+    slotPlayerLeft.classList.remove('reordering');
 
-    const swapButtons = playedCardsSlots.querySelectorAll('.swap-btn');
+    // Elimina los botones de swap
+    const swapButtons = slotPlayerLeft.querySelectorAll('.swap-btn');
     swapButtons.forEach(btn => btn.remove());
 
+    // Ahora que el orden está confirmado, avanza el turno
+    advanceTurn();
+}
+
+// =============================================================
+// --- ACCIONES DEL LECTOR ---
+// =============================================================
+
+chooseLeftBtn.addEventListener('click', () => chooseWinner(parseInt(chooseLeftBtn.dataset.playerId)));
+chooseRightBtn.addEventListener('click', () => chooseWinner(parseInt(chooseRightBtn.dataset.playerId)));
+
+function chooseWinner(winnerPlayerId) {
+    gameState = 'round_end';
+    readerChoiceButtons.classList.add('hidden');
+
+    // Da el punto
+    players[winnerPlayerId].score++;
+    updateScoreboardHighlight(); // Actualiza visualmente el puntaje
+
+    // Muestra mensaje de ganador
+    const winnerName = players[winnerPlayerId].name;
+    const winnerCardsText = submittedCards[winnerPlayerId].map(c => getCardText(c, currentLang)).join(' / ');
+    gameMessageElem.innerText = `¡Punto para ${winnerName}! (${winnerCardsText})`;
+
+    // Resalta las cartas ganadoras (opcional)
+    if (chooseLeftBtn.dataset.playerId == winnerPlayerId) {
+        slotPlayerLeft.style.boxShadow = '0 0 15px 5px lightgreen';
+        slotPlayerRight.style.opacity = '0.5';
+    } else {
+        slotPlayerRight.style.boxShadow = '0 0 15px 5px lightgreen';
+        slotPlayerLeft.style.opacity = '0.5';
+    }
+
+
+    // Muestra el botón para que el LECTOR inicie la siguiente ronda
     advanceRoundBtn.classList.remove('hidden');
 }
 
-function drawWhiteCard() {
-    if (whiteDeck.length === 0) {
-        console.warn("Mazo blanco vacío. Reiniciando mazo.");
-        whiteDeck = shuffleDeck([...whiteCardsData]);
+
+// =============================================================
+// --- FUNCIONES AUXILIARES (Mazos, Idioma, Puntaje Manual) ---
+// =============================================================
+
+function dealCards(deck, count) {
+    const hand = [];
+    for (let i = 0; i < count; i++) {
+        if (deck.length === 0) { // Si se acaba el mazo, rebaraja
+             console.warn("Mazo blanco vacío en dealCards. Reiniciando mazo.");
+             deck.push(...shuffleDeck([...whiteCardsData])); // Añade todas de nuevo y baraja
+             // Evita bucle infinito si no hay cartas suficientes
+             if (deck.length === 0) break;
+        }
+        hand.push(deck.pop());
     }
-    // Asegurarse de que aún queden cartas
-    if (whiteDeck.length > 0) {
-        playerHand.push(whiteDeck.pop());
-    } else {
-        console.error("Error crítico: No quedan cartas blancas para robar.");
-        // Podrías terminar el juego aquí o mostrar un mensaje
-    }
+    return hand;
 }
 
-function renderHand() {
-    playerHandElem.innerHTML = '';
-    
-    playerHand.forEach(cardData => {
-        const cardElement = document.createElement('div');
-        cardElement.classList.add('card', 'white-card');
-        
-        let whiteCardText = getCardText(cardData, 'es');
-        if (currentLang === 'pt') {
-            whiteCardText = getCardText(cardData, 'pt');
-        } else if (currentLang === 'bi') {
-            whiteCardText = `${getCardText(cardData, 'es')} <br>/<br> ${getCardText(cardData, 'pt')}`;
-        }
-        
-        cardElement.innerHTML = whiteCardText;
-        cardElement.onclick = () => playWhiteCard(cardData, cardElement);
-        playerHandElem.appendChild(cardElement);
-    });
+
+function drawWhiteCard() { // Llamada para rellenar mano
+     if (whiteDeck.length === 0) {
+        console.warn("Mazo blanco vacío en drawWhiteCard. Reiniciando mazo.");
+        whiteDeck = shuffleDeck([...whiteCardsData]);
+    }
+     if (whiteDeck.length > 0) {
+        return whiteDeck.pop();
+    }
+    return null; // No quedan cartas
 }
 
 function getCardText(card, lang) {
-    // Añadir verificación por si card es undefined
-    if (!card) return "Error: Carta inválida"; 
-    
-    const esText = card.es || "Texto Faltante (ES)";
+    if (!card) return "Error";
+    const esText = card.es || "?";
+    // Añade soporte PT si tus cartas lo tienen
     const ptText = card.pt || esText;
-    
-    if (currentLang === 'bi') {
-        return `${esText} <hr> ${ptText}`;
-    }
-    if (currentLang === 'pt') {
-        return ptText;
-    }
+    if (lang === 'bi') return `${esText}<hr>${ptText}`;
+    if (lang === 'pt') return ptText;
     return esText;
 }
 
-function updateScoreDisplay() {
-    // Asegurarse de que scoreDisplay exista antes de usarlo
-    if(scoreDisplay) {
-       scoreDisplay.innerText = score;
-    }
-}
+// --- Puntaje Manual (Ahora no tiene mucho sentido, pero lo dejamos) ---
+addScoreBtn.addEventListener('click', () => { score++; updateScoreDisplay(); });
+subtractScoreBtn.addEventListener('click', () => { if(score > 0) score--; updateScoreDisplay(); });
+function updateScoreDisplay(){ /* Ya no se usa para el puntaje real */ }
+
+// =============================================================
+// --- AJUSTES Y MÚSICA ---
+// =============================================================
+settingsBtn.addEventListener('click', () => settingsModal.style.display = 'block');
+closeSettingsBtn.addEventListener('click', () => settingsModal.style.display = 'none');
+window.addEventListener('click', (event) => {
+    if (event.target == settingsModal) settingsModal.style.display = 'none';
+});
+
+volumeControl.addEventListener('input', (e) => {
+    const newVolume = e.target.value;
+    Object.values(musicTracks).forEach(track => { if(track) track.volume = newVolume; });
+});
+
+musicSelect.addEventListener('change', switchMusic);
+langSelect.addEventListener('change', updateLanguage); // Idioma actualiza textos estáticos
 
 function updateLanguage() {
     currentLang = langSelect.value;
-    
-    // Actualizar botones (añadir verificación de existencia)
-    if(startBtn) startBtn.innerText = uiTexts[currentLang].start;
-    if(endBtn) endBtn.innerText = uiTexts[currentLang].end;
-    if(settingsBtn) settingsBtn.innerText = uiTexts[currentLang].settings;
-    if(confirmPlayBtn) confirmPlayBtn.innerText = uiTexts[currentLang].confirmPlay;
-    if(confirmOrderBtn) confirmOrderBtn.innerText = uiTexts[currentLang].confirmOrder;
-    if(advanceRoundBtn) advanceRoundBtn.innerText = uiTexts[currentLang].advanceRound; 
-    
-    // Actualizar etiquetas (añadir verificación de existencia)
-    const settingsTitleElem = document.getElementById('settings-title');
-    const volumeLabelElem = document.getElementById('volume-label');
-    const musicLabelElem = document.getElementById('music-label');
-    const langLabelElem = document.getElementById('lang-label');
-    const scoreLabelElem = document.getElementById('score-label');
+    // Actualiza textos estáticos (botones, etiquetas)
+     Object.keys(uiTexts[currentLang]).forEach(key => {
+        const elem = document.getElementById(key + '-label') || document.getElementById(key + '-btn') || document.getElementById(key + '-title');
+         // Los botones de flujo usan su propio ID
+         if (key === 'confirmPlay') document.getElementById('confirm-play-btn').innerText = uiTexts[currentLang][key];
+         else if (key === 'confirmOrder') document.getElementById('confirm-order-btn').innerText = uiTexts[currentLang][key];
+         else if (key === 'advanceRound') document.getElementById('advance-round-btn').innerText = uiTexts[currentLang][key];
+         else if (key === 'start') document.getElementById('start-btn').innerText = uiTexts[currentLang][key];
+         else if (key === 'end') document.getElementById('end-btn').innerText = uiTexts[currentLang][key];
+         else if (key === 'settings') document.getElementById('settings-btn').innerText = uiTexts[currentLang][key];
+         // Resto de elementos
+         else if (elem) elem.innerText = uiTexts[currentLang][key];
+     });
 
-    if(settingsTitleElem) settingsTitleElem.innerText = uiTexts[currentLang].settingsTitle;
-    if(volumeLabelElem) volumeLabelElem.innerText = uiTexts[currentLang].volumeLabel;
-    if(musicLabelElem) musicLabelElem.innerText = uiTexts[currentLang].musicLabel;
-    if(langLabelElem) langLabelElem.innerText = uiTexts[currentLang].langLabel;
-    if(scoreLabelElem) scoreLabelElem.innerText = uiTexts[currentLang].score;
-    
-    if (currentBlackCard && pickTextElem) {
-        pickTextElem.innerText = uiTexts[currentLang].pick(currentBlackCard.pick);
-    }
-
-    // Re-renderizar elementos dinámicos si el juego está activo
-    if (!gameContainer.classList.contains('hidden')) {
-        renderHand(); // Re-renderiza la mano con el idioma correcto
-        
-        // Re-renderiza la carta negra
-        if (currentBlackCard && blackCardElem) {
-            let blackCardText = getCardText(currentBlackCard, 'es');
-            if (currentLang === 'pt') {
-                blackCardText = getCardText(currentBlackCard, 'pt');
-            } else if (currentLang === 'bi') {
-                blackCardText = `${getCardText(currentBlackCard, 'es')} <br>/<br> ${getCardText(currentBlackCard, 'pt')}`;
-            }
-            let displayHtml = blackCardText.replace(/_/g, "<span>[____]</span>");
-            blackCardElem.innerHTML = displayHtml;
+    // Actualiza texto dinámico si el juego está corriendo
+    if (gameState !== 'setup' && currentBlackCard) {
+        gameMessageElem.innerText = uiTexts[currentLang].pick(currentBlackCard.pick); // Actualiza pick text
+        renderBlackCard(); // Re-renderiza carta negra
+        renderAllHands(); // Re-renderiza manos con textos actualizados
+        // Re-renderiza cartas jugadas si existen
+        if (gameState === 'judging' || gameState === 'round_end') {
+             displaySubmittedCards();
         }
-        
-        // Limpia las cartas jugadas (ya que no se re-renderizan automáticamente)
-        if(playedCardsSlots) playedCardsSlots.innerHTML = ''; 
     }
 }
 
-// =============================================================
-// --- EVENT LISTENERS ---
-// =============================================================
-
-// Añadir verificaciones para asegurarse de que los elementos existen antes de añadir listeners
-
-if(startBtn) startBtn.addEventListener('click', startGame);
-if(endBtn) endBtn.addEventListener('click', endGame);
-if(confirmPlayBtn) confirmPlayBtn.addEventListener('click', confirmPlay);
-if(confirmOrderBtn) confirmOrderBtn.addEventListener('click', confirmOrder);
-if(advanceRoundBtn) advanceRoundBtn.addEventListener('click', () => {
-    // Pasa el número de cartas jugadas para saber cuántas robar
-    nextRound(orderedCardElements.length); 
-});
-
-// Contador
-if(addScoreBtn) addScoreBtn.addEventListener('click', () => {
-    score++;
-    updateScoreDisplay();
-});
-if(subtractScoreBtn) subtractScoreBtn.addEventListener('click', () => {
-    if (score > 0) { 
-        score--;
-        updateScoreDisplay();
-    }
-});
-
-// Modal
-if(settingsBtn) settingsBtn.addEventListener('click', () => {
-    if(modal) modal.style.display = 'block';
-});
-if(closeBtn) closeBtn.addEventListener('click', () => {
-    if(modal) modal.style.display = 'none';
-});
-window.addEventListener('click', (event) => {
-    if (event.target == modal) {
-        if(modal) modal.style.display = 'none';
-    }
-});
-
-// Ajustes
-if(volumeControl) volumeControl.addEventListener('input', (e) => {
-    const newVolume = e.target.value;
-    Object.values(musicTracks).forEach(track => {
-        if(track) track.volume = newVolume;
-    });
-});
-if(musicSelect) musicSelect.addEventListener('change', switchMusic);
-if(langSelect) langSelect.addEventListener('change', updateLanguage);
 
 // =============================================================
-// --- INICIALIZACIÓN ---
+// --- INICIALIZACIÓN AL CARGAR ---
 // =============================================================
-// Llama a updateLanguage al cargar para establecer los textos iniciales
-updateLanguage();
+document.addEventListener('DOMContentLoaded', () => {
+    // Esconder contenedor de app hasta que se configuren los jugadores
+    appContainer.classList.add('hidden');
+    setupModal.style.display = 'block';
+    updateLanguage(); // Pone los textos iniciales en el idioma por defecto
+});
+
+// Listener para el botón de Siguiente Ronda (que ahora es el del Lector)
+advanceRoundBtn.addEventListener('click', () => {
+    // Limpia estilos de ganador
+    slotPlayerLeft.style.boxShadow = 'none';
+    slotPlayerRight.style.boxShadow = 'none';
+    slotPlayerLeft.style.opacity = '1';
+    slotPlayerRight.style.opacity = '1';
+    
+    // Rellena manos de los jugadores que jugaron
+     Object.keys(submittedCards).forEach(playerIdStr => {
+         const playerId = parseInt(playerIdStr);
+         const numPlayed = submittedCards[playerId].length;
+         for (let i = 0; i < numPlayed; i++) {
+             const newCard = drawWhiteCard();
+             if (newCard) players[playerId].hand.push(newCard);
+         }
+     });
+
+    rotateReader();
+    startNewRound();
+});

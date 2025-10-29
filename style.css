@@ -3,112 +3,88 @@ body {
     background-color: #333;
     color: white;
     text-align: center;
-    
     height: 100vh;
     margin: 0;
-    padding: 20px;
-    box-sizing: border-box;
     display: flex;
     flex-direction: column;
+    overflow: hidden; /* Evita scroll general */
 }
 
-.controls {
-    margin-bottom: 20px;
-    flex-shrink: 0;
-    
+/* --- Contenedor Principal --- */
+#app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* --- Barra Superior (Puntajes y Controles) --- */
+.top-bar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
-}
-
-button {
-    font-size: 16px;
-    padding: 10px 20px;
-    margin: 5px;
+    padding: 5px 10px;
+    background: rgba(0, 0, 0, 0.2);
     border-radius: 8px;
-    border: none;
-    cursor: pointer;
-    background-color: #f0f0f0;
-    color: #333;
-    transition: background-color 0.2s;
+    margin-bottom: 10px;
+    flex-shrink: 0;
 }
 
-button:hover {
-    background-color: #ddd;
-}
-
-#score-counter {
+.score-boards {
     display: flex;
-    align-items: center;
-    background-color: rgba(0, 0, 0, 0.2);
-    padding: 10px 15px;
-    border-radius: 10px;
+    gap: 20px;
 }
 
-#score-label {
-    font-size: 18px;
-    margin-right: 10px;
+.score-board {
+    background: #444;
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-size: 1em;
+    border: 2px solid transparent; /* Para el highlight */
+}
+.score-board.reader {
+    border-color: yellow; /* Destaca al Lector */
+    box-shadow: 0 0 10px yellow;
+}
+.score-board .player-name { font-weight: bold; }
+.score-board .score { font-weight: bold; color: #4CAF50; }
+
+.controls button {
+    font-size: 0.9em;
+    padding: 8px 15px;
+    margin-left: 5px;
 }
 
-#score-display {
-    font-size: 24px;
-    font-weight: bold;
-    margin: 0 10px;
-    min-width: 30px;
-    color: #4CAF50;
-}
-
-.score-btn {
-    font-size: 20px;
-    font-weight: bold;
-    width: 35px;
-    height: 35px;
-    border-radius: 50%;
-    padding: 0;
-    line-height: 35px;
-    text-align: center;
-    background-color: #555;
-    color: white;
-}
-
-.score-btn:hover {
-    background-color: #777;
-}
-
+/* --- Área Central del Juego --- */
 #game-container {
+    flex-grow: 1; /* Ocupa el espacio central */
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex-grow: 1;
-    width: 100%;
-    min-height: 0;
+    justify-content: center; /* Centra el game-area */
+    min-height: 0; /* Necesario para flexbox */
 }
 
 #game-area {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
-    padding-top: 20px;
-    flex-grow: 1;
-    overflow-y: auto;
-    min-height: 0;
-    padding-bottom: 20px;
-    box-sizing: border-box;
+    max-width: 90%; /* Limita el ancho */
 }
 
 .card {
-    width: 190px;
-    min-height: 240px; 
-    padding: 20px;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-    margin: 10px;
-    font-size: 17px;
+    width: 170px; /* Cartas un poco más pequeñas */
+    min-height: 220px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    margin: 8px;
+    font-size: 15px;
     font-weight: bold;
     box-sizing: border-box;
     flex-shrink: 0;
+    display: flex; /* Para centrar texto verticalmente */
+    flex-direction: column;
+    justify-content: center;
 }
 
 .black-card {
@@ -126,184 +102,169 @@ button:hover {
 }
 
 .white-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+    transform: translateY(-8px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.6);
 }
 
 .white-card.selected {
-    transform: translateY(-15px) scale(1.05);
-    box-shadow: 0 0 20px 8px #00aaff;
+    transform: translateY(-12px) scale(1.03);
+    box-shadow: 0 0 15px 5px #00aaff;
     border-color: #00aaff;
+}
+.white-card.disabled { /* Para cartas no seleccionables */
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
 }
 
 
 #played-cards-area {
-    margin-top: 20px;
+    margin-top: 15px;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#game-message {
+    font-weight: bold;
+    min-height: 20px; /* Espacio para el mensaje */
 }
 
 #played-cards-slots {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
-    min-height: 250px; 
+    align-items: flex-start; /* Alinea arriba */
+    gap: 20px; /* Espacio entre slots */
+    min-height: 240px; /* Espacio para cartas jugadas */
+    width: 100%;
 }
-
-/* --- ESTILOS DE BOTÓN CORREGIDOS --- */
-#confirm-play-btn { /* Era #next-round-btn */
-    font-size: 16px; 
-    font-weight: bold;
-    padding: 10px 20px;
-    background-color: #007BFF; /* Azul para "Confirmar" */
-    color: white;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    margin: 5px;
-} 
-
-#confirm-play-btn:hover { /* Era #next-round-btn:hover */
-    background-color: #0056b3;
-}
-
-/* --- NUEVO ESTILO DE BOTÓN --- */
-#advance-round-btn {
-    font-size: 16px; 
-    font-weight: bold;
-    padding: 10px 20px;
-    background-color: #4CAF50; /* Verde para "Siguiente" */
-    color: white;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    margin: 5px;
-} 
-
-#advance-round-btn:hover {
-    background-color: #45a049;
-}
-
-
-#player-hand {
+.played-slot {
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap; 
+    flex-direction: column; /* Apila cartas si es pick 2+ */
+    align-items: center;
+    gap: 5px;
+}
+/* Estilos para reordenar (si aplica) */
+.played-slot.reordering {
+     flex-direction: row; /* En línea para reordenar */
+     align-items: center;
+}
+.swap-btn { /* Botón de intercambio */
+    font-size: 18px; font-weight: bold; background-color: #6c757d; color: white;
+    border: none; border-radius: 50%; width: 35px; height: 35px; padding: 0;
+    margin: 0 8px; cursor: pointer; line-height: 35px;
+}
+.swap-btn:hover { background-color: #5a6268; }
+
+#reader-choice-buttons button {
+    background-color: #ffc107; color: #333; margin: 10px 5px; font-weight: bold;
+}
+#reader-choice-buttons button:hover { background-color: #e0a800; }
+#advance-round-btn {
+    background-color: #4CAF50; color: white; margin-top: 10px; font-weight: bold;
+}
+#advance-round-btn:hover { background-color: #45a049; }
+
+
+/* --- Manos de los Jugadores (Abajo) --- */
+.player-hands-container {
+    display: flex;
+    justify-content: space-around; /* Distribuye las manos */
     width: 100%;
     background: rgba(0, 0, 0, 0.3);
-    padding: 10px 0; 
-    
-    flex-shrink: 0;
+    padding: 10px 0;
+    flex-shrink: 0; /* No se achica */
+    min-height: 180px; /* Altura mínima para manos */
     box-sizing: border-box;
-    min-height: 180px; 
-    overflow-y: auto;
+    position: relative; /* Para posicionar botones de confirmación */
 }
 
-.modal {
-    display: none; 
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
+.player-hand {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 30%; /* Ancho de cada mano */
     height: 100%;
-    overflow: auto;
-    background-color: rgba(0, 0, 0, 0.6);
+    overflow-y: auto; /* Scroll si hay muchas cartas */
+    border: 2px solid transparent;
+    border-radius: 8px;
+    padding: 5px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+.player-hand.active {
+    border-color: #00aaff; /* Borde azul para jugador activo */
+    box-shadow: 0 0 15px #00aaff inset;
+}
+.player-hand.reader {
+    opacity: 0.5; /* Mano del lector atenuada */
 }
 
+/* Cartas dentro de la mano */
+.player-hand .card {
+    width: 80px; /* Cartas de mano más pequeñas */
+    min-height: 110px;
+    font-size: 9px;
+    padding: 6px;
+    margin: 3px;
+}
+
+/* Botones de Confirmación (centrados debajo de las manos) */
+.confirmation-buttons {
+    position: absolute;
+    bottom: 5px; /* Cerca de la parte inferior del contenedor de manos */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+}
+#confirm-play-btn { background-color: #007BFF; color: white; }
+#confirm-play-btn:hover { background-color: #0056b3; }
+#confirm-order-btn { background-color: #ffc107; color: #333; }
+#confirm-order-btn:hover { background-color: #e0a800; }
+
+/* --- Modales --- */
+.modal {
+    display: none;
+    position: fixed; z-index: 100; left: 0; top: 0;
+    width: 100%; height: 100%; overflow: auto;
+    background-color: rgba(0,0,0,0.7);
+}
 .modal-content {
-    background-color: #444;
-    margin: 15% auto;
-    padding: 30px;
-    border: 1px solid #888;
-    width: 80%;
-    max-width: 500px;
-    border-radius: 10px;
-    color: white;
+    background-color: #444; margin: 10% auto; padding: 25px;
+    border: 1px solid #888; width: 85%; max-width: 500px;
+    border-radius: 10px; color: white; position: relative;
 }
+.close-btn { /* Posicionado dentro del modal */
+    position: absolute; top: 10px; right: 15px;
+    color: #aaa; font-size: 28px; font-weight: bold; cursor: pointer;
+}
+.close-btn:hover { color: white; }
 
-.close-btn {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.close-btn:hover {
-    color: white;
-}
+/* Modal de Setup específico */
+#setup-modal .modal-content { background-color: #f0f0f0; color: #333; }
+#setup-modal label { font-weight: bold; width: 35%; text-align: right; margin-right: 10px; }
+#setup-modal input { width: 55%; padding: 8px; border-radius: 4px; border: 1px solid #ccc; }
+#start-setup-btn { background-color: #4CAF50; color: white; margin-top: 20px; padding: 10px 20px; }
+#start-setup-btn:hover { background-color: #45a049; }
 
 .setting-item {
-    margin-top: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    margin-top: 15px; display: flex; justify-content: space-between; align-items: center;
 }
-
-.hidden {
-    display: none;
-}
+.setting-item label { flex-basis: 40%; text-align: left; }
+.setting-item input[type="range"], .setting-item select { flex-basis: 55%; }
 
 
+.hidden { display: none !important; } /* Usa !important para asegurar */
+
+/* --- Responsivo Básico --- */
 @media (max-width: 768px) {
-    body {
-        padding: 10px;
-    }
-
-    .controls {
-        flex-direction: column;
-        margin-bottom: 10px;
-    }
-    
-    .game-buttons {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-
-    #score-counter {
-        margin-top: 15px;
-    }
-
-    .card {
-        width: 140px; 
-        min-height: 200px;
-        font-size: 14px; 
-        padding: 15px;
-        margin: 5px;
-    }
-    
-    #player-hand .card {
-        width: 90px;
-        min-height: 130px;
-        font-size: 10px;
-        padding: 8px;
-        margin: 4px;
-    }
-
-    #played-cards-slots {
-        min-height: 210px;
-    }
-
-    #player-hand {
-        min-height: 150px;
-    }
-
-    button {
-        font-size: 14px;
-        padding: 8px 16px;
-    }
-
-    /* Estilos responsivos movidos aquí */
-    #confirm-order-btn,
-    .swap-btn {
-        font-size: 14px;
-        /* Padding ya cubierto por la regla 'button' */
-    }
-    .swap-btn {
-        width: 30px;
-        height: 30px;
-        line-height: 30px;
-        margin: 0 5px;
-    }
+    .top-bar { flex-direction: column; gap: 10px; }
+    .score-boards { order: 1; }
+    .controls { order: 2; flex-wrap: wrap; justify-content: center;}
+    .card { width: 120px; min-height: 170px; font-size: 12px; padding: 10px; margin: 5px; }
+    .player-hands-container { min-height: 140px; }
+    .player-hand .card { width: 60px; min-height: 90px; font-size: 8px; padding: 5px; margin: 2px; }
+    .confirmation-buttons button { font-size: 0.8em; padding: 6px 12px; }
+    .swap-btn { width: 25px; height: 25px; line-height: 25px; font-size: 14px; margin: 0 4px; }
+    .modal-content { margin: 5% auto; width: 90%; }
 }
