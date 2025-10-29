@@ -48,7 +48,7 @@ const blackCardsData = [
     { es: "El nuevo sabor de papas fritas es: _.", pick: 1 },
     { es: "Mi crush de Tinder resultó ser _.", pick: 1 },
     { es: "La verdadera razón por la que se extinguieron los dinosaurios fue _.", pick: 1 },
-    { es: "No puedes tener solo un _.", pick: 1 },
+    { es: "_, no puedes tener solo uno.", pick: 1 },
     { es: "¿Por qué estoy soltero? Probablemente por _.", pick: 1 },
     { es: "La nueva película de Disney trata sobre _.", pick: 1 },
     { es: "Durante el sexo, me gusta pensar en _.", pick: 1 },
