@@ -1033,7 +1033,7 @@ function updateScoreDisplay(){ /* Ya no se usa para el puntaje real */ }
 if(settingsBtn) settingsBtn.addEventListener('click', () => { if(settingsModal) settingsModal.style.display = 'block'; });
 if(closeSettingsBtn) closeSettingsBtn.addEventListener('click', () => { if(settingsModal) settingsModal.style.display = 'none'; });
 window.addEventListener('click', (event) => {
-    if (event.target == settingsModal) { if(settingsModal) settingsModal.style.display = 'none'; }
+    if (event.target === settingsModal) { if(settingsModal) settingsModal.style.display = 'none'; }
 });
 
 if(volumeControl) volumeControl.addEventListener('input', (e) => {
