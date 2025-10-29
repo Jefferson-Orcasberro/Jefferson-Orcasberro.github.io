@@ -510,21 +510,25 @@ function confirmPlay() {
     if (currentTurnPlayer < 0 || !playerHandElems[currentTurnPlayer]) return;
     
     const handElem = playerHandElems[currentTurnPlayer];
-    if (!handElem) return;
-
-    // Guardar los elementos DOM seleccionados para reordenar
     orderedCardElements = Array.from(handElem.querySelectorAll('.white-card.selected'));
     orderedCardElements.forEach(elem => {
         elem.classList.remove('selected');
         elem.onclick = null; // Quitarles el click
     });
 
-    // Guardar los datos de las cartas
-    submittedCards[currentTurnPlayer] = [...selectedCardsData];
-    
-    // Quitar cartas de la mano del jugador
-    players[currentTurnPlayer].hand = players[currentTurnPlayer].hand.filter(card => !selectedCardsData.includes(card));
+    // --- INICIO DE LA CORRECCIÓN ---
 
+    // 1. Crear un array de DATOS en el orden correcto (de izquierda a derecha)
+    const orderedCardData = orderedCardElements.map(el => el.cardData);
+
+    // 2. Guardar ese array ordenado en submittedCards
+    submittedCards[currentTurnPlayer] = orderedCardData;
+    
+    // 3. Quitar cartas de la mano del jugador usando ese array ordenado
+    players[currentTurnPlayer].hand = players[currentTurnPlayer].hand.filter(card => !orderedCardData.includes(card));
+    
+    // --- FIN DE LA CORRECCIÓN ---
+    
     const pickCount = parseInt(currentBlackCard.pick) || 1;
     if (pickCount > 1) {
         // Ir a reordenar
@@ -635,6 +639,7 @@ function renderAllHands() {
  */
 function createWhiteCardElement(cardData, playerOwnerIndex) {
     const cardElement = document.createElement('div');
+    cardElement.cardData = cardData;
     cardElement.classList.add('card', 'white-card');
     cardElement.innerHTML = getCardText(cardData, currentLang);
     
