@@ -728,7 +728,7 @@ const musicTracks = {
     'Brama_el_viento': document.getElementById('Brama_el_viento'),
     'Rey_del_asado': document.getElementById('Rey_del_asado')
 };
-let currentTrackId = 'Viento_y_hacha';
+let currentTrackId = 'Rey_del_asado';
 
 
 // =============================================================
