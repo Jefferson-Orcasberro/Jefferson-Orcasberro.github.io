@@ -83,7 +83,7 @@ const blackCardsData = [
     { es: "En vez de bizcochos, la panadería ahora vende _.", pick: 1 }, { es: "La nueva medida del BROU es _.", pick: 1 }, { es: "El nuevo fernet con coca viene con sabor a _.", pick: 1 },
     { es: "El Pepe Mujica dijo que lo único que le falta es _.", pick: 1 }, { es: "El asado del domingo se arruinó por _ y _.", pick: 2 }, { es: "En la fiesta de 15 de mi prima, lo que no podía faltar era _ y _.", pick: 2 },
     { es: "Mi estado de WhatsApp ahora dice: 'Ni _ ni _'.", pick: 2 }, { es: "Para ser un verdadero uruguayo necesitas _, _ y ganas de quejarte.", pick: 2 },
-    { es: "Lo único peor que el CTI de COVID es _ y _.", pick: 2 }, { es: "Una paja triste no es triste sin _.", pick: 1 }, { es: "Dos _, para más placer.", pick: 1 }, 
+    { es: "Lo único peor que el CTI de COVID es _.", pick: 1 }, { es: "Una paja triste no es triste sin _.", pick: 1 }, { es: "Dos _, para más placer.", pick: 1 }, 
     { es: "Me colé en el ómnibus y el guarda me amenazó con _.", pick: 1 }, { es: "En la Criolla del Prado, un gaucho se cayó del caballo por culpa de _.", pick: 1 },
     { es: "La nueva campaña de Antel para competir con Starlink es _.", pick: 1 }, { es: "La OSE anunció que el agua ahora viene con un leve sabor a _.", pick: 1 },
     { es: "Me colé en la Noche de la Nostalgia y lo único que pasaban era _.", pick: 1 }, { es: "UTE informa que el próximo apagón programado es para festejar _.", pick: 1 },
@@ -94,7 +94,7 @@ const blackCardsData = [
     { es: "La nueva mascota de la selección uruguaya es _.", pick: 1 }, { es: "En la playa, en vez de 'fútbol-tenis', ahora se juega al _.", pick: 1 },
     { es: "El grupo de WhatsApp de la familia se pudrió por culpa de _.", pick: 1 }, { es: "Salí a caminar por 18 de Julio y lo único que vi fue _ y _.", pick: 2 },
     { es: "El plan perfecto para el domingo: _ con _.", pick: 2 }, { es: "Mi suegra me cocinó _ con _.", pick: 2 }, { es: "No me gusta generalizar, pero los Argentinos be like: _.", pick: 2 },
-    { es: "Lo único más lento que un trámite del BPS es _ y _.", pick: 2 }, { es: "La nueva moda en Pocitos es _ y _.", pick: 2 }, { es: "Mi jefe me despidió por _.", pick: 1 },
+    { es: "Lo único más lento que un trámite del BPS es _.", pick: 1 }, { es: "La nueva moda en Pocitos es _.", pick: 1 }, { es: "Mi jefe me despidió por _.", pick: 1 },
     { es: "El clásico se define por _ y _.", pick: 2 }, { es: "Me tomé un bondi equivocado y terminé en _ con _.", pick: 2 }, { es: "No me gusta generalizar, pero los Argentinos be like: _.", pick: 1 },
     { es: "La UDELAR ahora tiene una carrera de 'Licenciatura en _ y _'.", pick: 2 }, { es: "El secreto de una buena pascualina es _ y _.", pick: 2 }, { es: "El asado uruguayo no es lo mismo sin _ y _.", pick: 2 },
     { es: "Este país no avanza por culpa de _ y _.", pick: 2 }, { es: "Rayos! ¿Donde deje _?", pick: 1 }, { es: "No puedo dormir por culpa de _.", pick: 1 }, { es: "No me gusta generalizar pero los Uruguayos be like: _.", pick: 1 }
