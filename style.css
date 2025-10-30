@@ -273,7 +273,7 @@ button:disabled {
 /* Contenedor de cartas jugadas (para agrupar las de pick > 1) */
 .submitted-card-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: row; /* Muestra cartas una al lado de la otra */
     align-items: center;
     gap: 5px;
     cursor: pointer;
@@ -333,7 +333,7 @@ button:disabled {
     background: var(--color-bg-dark);
     padding: 10px;
     flex-shrink: 0;
-    min-height: 200px;
+    min-height: 200px; /* Aumentado para más espacio */
     box-sizing: border-box;
     position: relative;
     border-top: 2px solid var(--color-accent);
@@ -350,11 +350,13 @@ button:disabled {
     overflow-y: hidden;
     border: 3px solid transparent;
     border-radius: 12px;
-    padding: 8px 0;
+    padding: 8px 0; /* <-- CAMBIADO: Quitamos el padding horizontal */
     transition: all 0.3s ease;
     gap: 8px;
+
+    /* --- PROPIEDADES DEL CARRUSEL --- */
     scroll-snap-type: x mandatory;
-    scroll-padding: 0 16px;
+    scroll-padding: 0 16px; /* <-- AÑADIDO: Padding para el "snap" */
 }
 
 .player-hand.active {
