@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-M">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juego de Cartas (2-5 Jugadores)</title>
+    <title>Cartas contra la humanidad</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,10 +14,14 @@
             <div class="setting-item">
                 <label for="player-count">Número de Jugadores:</label>
                 <select id="player-count">
-                    <option value="2">2</option>
                     <option value="3" selected>3</option>
                     <option value="4">4</option>
                     <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
                 </select>
             </div>
             <div id="nickname-inputs-container">
@@ -35,6 +39,11 @@
                 <div id="score-board-2" class="score-board hidden"><span class="player-name">P3</span>: <span class="score">0</span></div>
                 <div id="score-board-3" class="score-board hidden"><span class="player-name">P4</span>: <span class="score">0</span></div>
                 <div id="score-board-4" class="score-board hidden"><span class="player-name">P5</span>: <span class="score">0</span></div>
+                <div id="score-board-5" class="score-board hidden"><span class="player-name">P6</span>: <span class="score">0</span></div>
+                <div id="score-board-6" class="score-board hidden"><span class="player-name">P7</span>: <span class="score">0</span></div>
+                <div id="score-board-7" class="score-board hidden"><span class="player-name">P8</span>: <span class="score">0</span></div>
+                <div id="score-board-8" class="score-board hidden"><span class="player-name">P9</span>: <span class="score">0</span></div>
+                <div id="score-board-9" class="score-board hidden"><span class="player-name">P10</span>: <span class="score">0</span></div>
             </div>
             <div class="controls">
                 <button id="end-btn">Terminar Partida</button>
@@ -49,6 +58,10 @@
                     <p id="game-message">Esperando jugadas...</p>
                     <div id="played-cards-slots">
                         </div>
+                    <div id="reader-confirmation-buttons" class="hidden">
+                        <button id="confirm-winner-btn">Confirmar Ganador</button>
+                        <button id="change-choice-btn">Cambiar Elección</button>
+                    </div>
                     <button id="advance-round-btn" class="hidden">Siguiente Ronda</button>
                 </div>
             </div>
@@ -60,6 +73,11 @@
             <div id="player-hand-2" class="player-hand hidden"></div>
             <div id="player-hand-3" class="player-hand hidden"></div>
             <div id="player-hand-4" class="player-hand hidden"></div>
+            <div id="player-hand-5" class="player-hand hidden"></div>
+            <div id="player-hand-6" class="player-hand hidden"></div>
+            <div id="player-hand-7" class="player-hand hidden"></div>
+            <div id="player-hand-8" class="player-hand hidden"></div>
+            <div id="player-hand-9" class="player-hand hidden"></div>
         </div>
          <div class="confirmation-buttons">
              <button id="confirm-play-btn" class="hidden">Confirmar Jugada</button>

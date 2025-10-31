@@ -7,8 +7,8 @@
     --color-bg-modal: #2a2a2a;
     --color-text-light: #E0E0E0;
     --color-text-dark: #111;
-    --color-accent: #00AFFF; /* Azul eléctrico */
-    --color-winner: #00FF7F; /* Verde neón */
+    --color-accent: #00AFFF; /* Azul eléctrico (Ganador Potencial) */
+    --color-winner: #00FF7F; /* Verde neón (Ganador Final) */
     --color-danger: #FF4136;
     --color-confirm: #2ECC40;
     --color-reorder: #FFC107;
@@ -224,18 +224,6 @@ button:disabled {
     transition: all 0.3s;
 }
 
-/* Efecto ÉPICO para el ganador */
-.white-card.submitted.winning {
-    border-color: var(--color-winner);
-    box-shadow: 0 0 20px 8px var(--color-winner);
-    transform: scale(1.05);
-}
-.white-card.submitted:not(.winning) {
-    opacity: 0.4;
-    filter: grayscale(50%);
-}
-
-
 /* --- Área de Cartas Jugadas --- */
 #played-cards-area {
     margin-top: 0; /* No necesita margen en layout horizontal */
@@ -277,11 +265,69 @@ button:disabled {
     align-items: center;
     gap: 5px;
     cursor: pointer;
-    transition: transform 0.2s ease;
+    transition: all 0.2s ease;
+    border: 3px solid transparent; /* Borde para highlights */
+    border-radius: 12px;
+    padding: 5px;
 }
 .submitted-card-container:hover .white-card:not(.submitted) {
     transform: translateY(-5px);
 }
+
+/* --- NUEVO: Estilo CARTA BOCA ABAJO --- */
+.submitted-card-container.facedown {
+    background: linear-gradient(145deg, #005f7f, #00aeff);
+    border-color: var(--color-accent);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+}
+.submitted-card-container.facedown:hover {
+     box-shadow: 0 0 15px var(--color-accent);
+     transform: scale(1.03);
+}
+.submitted-card-container.facedown .white-card {
+    display: none; /* Oculta las cartas reales */
+}
+.submitted-card-container.facedown span {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--color-bg-darkest);
+    padding: 20px;
+    width: var(--card-width-desktop);
+    min-height: var(--card-height-desktop);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* --- NUEVO: Estilo GANADOR POTENCIAL --- */
+.submitted-card-container.potential-winner {
+    border-color: var(--color-accent);
+    box-shadow: 0 0 20px 8px var(--color-accent);
+    transform: scale(1.05);
+}
+.submitted-card-container.potential-winner .white-card {
+    border-color: var(--color-accent);
+}
+
+/* --- ACTUALIZADO: Estilo GANADOR FINAL --- */
+.submitted-card-container.winning {
+    border-color: var(--color-winner);
+    box-shadow: 0 0 20px 8px var(--color-winner);
+    transform: scale(1.05);
+}
+.submitted-card-container.winning .white-card {
+    border-color: var(--color-winner);
+}
+/* Estilo para las que perdieron */
+.submitted-card-container.submitted {
+    opacity: 0.4;
+    filter: grayscale(50%);
+    cursor: default;
+}
+.submitted-card-container.submitted .white-card {
+    cursor: default;
+}
+
 
 /* Botón de reordenar */
 .swap-btn {
@@ -305,6 +351,31 @@ button:disabled {
 }
 .submitted-card-container.reordering {
     cursor: default;
+}
+
+
+/* --- NUEVO: Botones del Lector --- */
+#reader-confirmation-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+#confirm-winner-btn {
+    background-color: var(--color-confirm);
+    border-color: var(--color-confirm);
+    color: var(--color-bg-darkest);
+}
+#confirm-winner-btn:hover {
+    background-color: #38ff5a;
+    box-shadow: 0 0 15px var(--color-confirm);
+}
+#change-choice-btn {
+    background-color: var(--color-danger);
+    border-color: var(--color-danger);
+}
+#change-choice-btn:hover {
+    background-color: #ff6347;
+    box-shadow: 0 0 15px var(--color-danger);
 }
 
 
@@ -333,30 +404,32 @@ button:disabled {
     background: var(--color-bg-dark);
     padding: 10px;
     flex-shrink: 0;
-    min-height: 200px; /* Aumentado para más espacio */
+    min-height: 410px; /* ACTUALIZADO: Espacio para 2 filas de manos */
     box-sizing: border-box;
     position: relative;
     border-top: 2px solid var(--color-accent);
+    flex-wrap: wrap; /* ACTUALIZADO: Permite 2 filas */
 }
 
 .player-hand {
     display: flex;
     justify-content: flex-start;
     flex-wrap: nowrap; 
-    flex-basis: 18%; 
-    max-width: 18%;
-    height: 100%;
+    flex-basis: 18%; /* ACTUALIZADO: 5 manos por fila */
+    max-width: 18%; /* ACTUALIZADO: 5 manos por fila */
+    height: 190px; /* ACTUALIZADO: Altura fija para cada fila */
+    margin-bottom: 10px; /* Espacio entre filas */
     overflow-x: auto; 
     overflow-y: hidden;
     border: 3px solid transparent;
     border-radius: 12px;
-    padding: 8px 0; /* <-- CAMBIADO: Quitamos el padding horizontal */
+    padding: 8px 0; 
     transition: all 0.3s ease;
     gap: 8px;
 
     /* --- PROPIEDADES DEL CARRUSEL --- */
     scroll-snap-type: x mandatory;
-    scroll-padding: 0 16px; /* <-- AÑADIDO: Padding para el "snap" */
+    scroll-padding: 0 16px; 
 }
 
 .player-hand.active {
@@ -372,12 +445,13 @@ button:disabled {
 
 /* --- Cartas dentro de la mano --- */
 .player-hand .card {
-    width: 120px; /* Más grande */
-    min-height: 160px; /* Más grande */
-    font-size: 0.8rem; /* Texto más legible */
-    padding: 10px; /* Más padding */
-    flex-shrink: 0; /* Evita que se encojan */
-    line-height: 1.3; /* Mejor espaciado de línea */
+    width: 120px; 
+    min-height: 160px; 
+    font-size: 0.8rem; 
+    padding: 10px; 
+    flex-shrink: 0; 
+    line-height: 1.3; 
+    scroll-snap-align: center; /* AÑADIDO: Para el carrusel */
 }
 
 .player-hand .white-card:hover:not(.disabled) {
@@ -523,6 +597,14 @@ button:disabled {
         font-size: 0.9rem;
         padding: 10px;
     }
+    
+    /* Carta boca abajo en tablet */
+    .submitted-card-container.facedown span {
+        width: var(--card-width-mobile);
+        min-height: var(--card-height-mobile);
+        font-size: 1rem;
+    }
+
 
     #game-area {
         flex-direction: column; /* Apila carta negra y jugadas */
@@ -537,13 +619,14 @@ button:disabled {
     #played-cards-slots {
         min-height: var(--card-height-mobile);
     }
-
+    
     .player-hands-container {
-        min-height: 180px; /* Aumentado */
+        min-height: 360px; /* 2 filas de 180px */
     }
     .player-hand {
-        flex-basis: 22%; /* 4 manos caben bien */
+        flex-basis: 22%; /* 4 manos por fila */
         max-width: 22%;
+        height: 170px;
     }
     .player-hand .card {
         width: 100px; /* Más grande */
@@ -595,6 +678,13 @@ button:disabled {
         min-height: var(--card-height-mobile);
         font-size: 0.9rem;
     }
+    
+    /* Carta boca abajo en móvil */
+    .submitted-card-container.facedown span {
+        width: var(--card-width-mobile);
+        min-height: var(--card-height-mobile);
+        font-size: 0.9rem;
+    }
 
     #game-message {
         font-size: 1rem;
@@ -604,13 +694,13 @@ button:disabled {
     .player-hands-container {
         flex-wrap: wrap; /* Permite que las manos bajen */
         justify-content: flex-start; /* Alinea a la izquierda */
-        min-height: 150px; /* Aumentado */
-    }
+        min-height: 310px; /* 2 filas de 155px */
     }
     .player-hand {
         flex-basis: 48%; /* Dos manos por fila */
         max-width: 48%;
-        min-height: 150px; /* Aumentado (para coincidir con container) */
+        height: 150px; 
+        margin-bottom: 5px;
     }
     .player-hand .card {
         width: 90px; /* Más grande */
@@ -632,6 +722,11 @@ button:disabled {
         font-size: 0.9rem;
         padding: 8px 15px;
     }
+    
+    #reader-confirmation-buttons button {
+        font-size: 0.8rem;
+        padding: 8px 10px;
+    }
 
     .modal-content {
         margin: 5% auto;
@@ -647,3 +742,4 @@ button:disabled {
         width: 100%;
         flex-basis: auto;
     }
+}

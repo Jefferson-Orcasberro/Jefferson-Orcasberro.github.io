@@ -233,13 +233,14 @@ let blackDeck = [];
 let currentBlackCard = null;
 let currentReaderIndex = -1;
 let currentPlayerIndex = -1; // Índice del array de 'playingPlayerIndexes'
-let currentTurnPlayer = -1; // ID del jugador (0-4)
-let gameState = 'setup'; // setup, playing, reordering, judging, round_end
+let currentTurnPlayer = -1; // ID del jugador (0-9)
+let gameState = 'setup'; // setup, playing, reordering, flipping_cards, judging, round_end
 let submittedCards = {}; // { playerId: [cardData, ...], ... }
 let selectedCardsData = []; // Cartas seleccionadas en el turno actual
 let orderedCardElements = []; // Elementos DOM para reordenar
+let potentialWinnerId = -1; // ID del ganador seleccionado por el lector
 let currentLang = 'es';
-const HAND_SIZE = 5; // Tu script original usaba 5
+const HAND_SIZE = 5; 
 
 // =============================================================
 // --- ELEMENTOS DEL DOM ---
@@ -260,6 +261,7 @@ let gameContainer, blackCardElem, gameMessageElem, playedCardsSlots, advanceRoun
 
 // Botones de Acción
 let confirmationButtonsDiv, confirmPlayBtn, confirmOrderBtn;
+let readerConfirmationButtons, confirmWinnerBtn, changeChoiceBtn; // NUEVOS
 
 // Ajustes
 let volumeControl, langSelect, musicSelect;
@@ -297,6 +299,10 @@ document.addEventListener('DOMContentLoaded', () => {
     confirmationButtonsDiv = document.querySelector('.confirmation-buttons');
     confirmPlayBtn = document.getElementById('confirm-play-btn');
     confirmOrderBtn = document.getElementById('confirm-order-btn');
+    // NUEVOS Botones del Lector
+    readerConfirmationButtons = document.getElementById('reader-confirmation-buttons');
+    confirmWinnerBtn = document.getElementById('confirm-winner-btn');
+    changeChoiceBtn = document.getElementById('change-choice-btn');
 
     // Ajustes
     volumeControl = document.getElementById('volume-control');
@@ -308,8 +314,8 @@ document.addEventListener('DOMContentLoaded', () => {
     
     currentTrackId = musicSelect ? musicSelect.value : 'Rey_del_asado';
 
-    // Asignación dinámica (para 5 jugadores)
-    for (let i = 0; i < 5; i++) {
+    // Asignación dinámica (ACTUALIZADO a 10)
+    for (let i = 0; i < 10; i++) {
         scoreBoards.push(document.getElementById(`score-board-${i}`));
         playerHandElems.push(document.getElementById(`player-hand-${i}`));
     }
@@ -333,6 +339,21 @@ document.addEventListener('DOMContentLoaded', () => {
     // Acciones de Juego
     confirmPlayBtn.addEventListener('click', confirmPlay);
     confirmOrderBtn.addEventListener('click', confirmOrder);
+    
+    // NUEVOS Listeners del Lector
+    confirmWinnerBtn.addEventListener('click', () => {
+        if (potentialWinnerId === -1) return;
+        chooseWinner(potentialWinnerId);
+        readerConfirmationButtons.classList.add('hidden');
+        potentialWinnerId = -1;
+    });
+    
+    changeChoiceBtn.addEventListener('click', () => {
+        potentialWinnerId = -1;
+        playedCardsSlots.querySelectorAll('.submitted-card-container').forEach(c => c.classList.remove('potential-winner'));
+        readerConfirmationButtons.classList.add('hidden');
+    });
+
     advanceRoundBtn.addEventListener('click', () => {
         // 1. Repartir cartas nuevas
         Object.keys(submittedCards).forEach(playerIdStr => {
@@ -364,13 +385,9 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // =============================================================
-// --- FUNCIONES DE SETUP (¡CORREGIDAS!) ---
+// --- FUNCIONES DE SETUP ---
 // =============================================================
 
-/**
- * Crea dinámicamente los campos de entrada para los apodos
- * basado en la selección del menú desplegable.
- */
 function updateNicknameInputs() {
     const count = parseInt(playerCountSelect.value, 10);
     nicknameContainer.innerHTML = ''; // Limpiar campos anteriores
@@ -396,9 +413,6 @@ function updateNicknameInputs() {
     }
 }
 
-/**
- * Inicia el juego con los jugadores y nombres configurados.
- */
 function setupGame() {
     players = [];
     const playerCount = parseInt(playerCountSelect.value, 10);
@@ -455,6 +469,7 @@ function startNewRound() {
     submittedCards = {};
     selectedCardsData = [];
     orderedCardElements = [];
+    potentialWinnerId = -1;
 
     // Limpiar UI
     playedCardsSlots.innerHTML = '';
@@ -463,6 +478,7 @@ function startNewRound() {
     confirmPlayBtn.classList.add('hidden');
     confirmOrderBtn.classList.add('hidden');
     confirmationButtonsDiv.classList.add('hidden');
+    readerConfirmationButtons.classList.add('hidden'); // Ocultar botones del lector
 
     // Sacar carta negra
     if (blackDeck.length === 0) {
@@ -487,7 +503,7 @@ function startNewRound() {
 
 /**
  * Avanza al siguiente jugador (en modo "pasar el teléfono").
- * Si todos han jugado, pasa a la fase de juicio.
+ * Si todos han jugado, pasa a la fase de REVELAR CARTAS.
  */
 function advanceTurn() {
     selectedCardsData = [];
@@ -505,18 +521,15 @@ function advanceTurn() {
         updateGameMessage();
         renderAllHands();
     } else {
-        // Todos jugaron, vamos a juzgar
-        gameState = 'judging';
+        // Todos jugaron, vamos a REVELAR
+        gameState = 'flipping_cards'; // NUEVO ESTADO
         currentTurnPlayer = -1;
         updateGameMessage();
         renderAllHands();
-        displaySubmittedCards();
+        displaySubmittedCards(); // Esta función ahora mostrará cartas boca abajo
     }
 }
 
-/**
- * El jugador confirma las cartas que ha seleccionado.
- */
 function confirmPlay() {
     if (currentTurnPlayer < 0 || !playerHandElems[currentTurnPlayer]) return;
     
@@ -527,52 +540,98 @@ function confirmPlay() {
         elem.onclick = null; // Quitarles el click
     });
 
-    // --- INICIO DE LA CORRECCIÓN ---
-
-    // 1. Crear un array de DATOS en el orden correcto (de izquierda a derecha)
     const orderedCardData = orderedCardElements.map(el => el.cardData);
-
-    // 2. Guardar ese array ordenado en submittedCards
     submittedCards[currentTurnPlayer] = orderedCardData;
-    
-    // 3. Quitar cartas de la mano del jugador usando ese array ordenado
     players[currentTurnPlayer].hand = players[currentTurnPlayer].hand.filter(card => !orderedCardData.includes(card));
-    
-    // --- FIN DE LA CORRECCIÓN ---
     
     const pickCount = parseInt(currentBlackCard.pick) || 1;
     if (pickCount > 1) {
-        // Ir a reordenar
         gameState = 'reordering';
         updateGameMessage();
         renderReorderView();
         confirmOrderBtn.classList.remove('hidden');
         confirmationButtonsDiv.classList.remove('hidden');
     } else {
-        // Siguiente turno
         advanceTurn();
     }
 }
 
-/**
- * El jugador confirma el orden de sus múltiples cartas.
- */
 function confirmOrder() {
     confirmOrderBtn.classList.add('hidden');
     confirmationButtonsDiv.classList.add('hidden');
     playedCardsSlots.classList.remove('reordering');
-    playedCardsSlots.innerHTML = ''; // Limpiar vista de reordenar
-    
-    // 'submittedCards' ya fue actualizado en swapCards()
-    
+    playedCardsSlots.innerHTML = ''; 
     advanceTurn();
 }
 
 /**
- * El lector elige al ganador de la ronda.
+ * NUEVA: Lógica para revelar un set de cartas.
+ */
+function flipCardSet(containerElement, playerId, cardDataArray) {
+    if (gameState !== 'flipping_cards') return;
+
+    containerElement.onclick = null; // Quitar click para revelar
+    containerElement.classList.remove('facedown');
+    containerElement.innerHTML = ''; // Limpiar el "X CARTA(S)"
+
+    // Añadir las cartas reales (boca arriba)
+    cardDataArray.forEach(cardData => {
+        const cardElement = document.createElement('div');
+        cardElement.classList.add('card', 'white-card');
+        cardElement.innerHTML = getCardText(cardData, currentLang);
+        cardElement.dataset.playerId = playerId; // Guardar ID
+        containerElement.appendChild(cardElement);
+    });
+
+    // Comprobar si todas las cartas han sido reveladas
+    const remainingFacedown = playedCardsSlots.querySelectorAll('.facedown');
+    if (remainingFacedown.length === 0) {
+        transitionToChoosing();
+    }
+}
+
+/**
+ * NUEVA: Transición de revelar a elegir.
+ */
+function transitionToChoosing() {
+    gameState = 'judging';
+    updateGameMessage();
+
+    // Añadir click a los contenedores para elegir
+    const allContainers = playedCardsSlots.querySelectorAll('.submitted-card-container');
+    allContainers.forEach(container => {
+        // El primer hijo (carta) tendrá el ID del jugador
+        const firstCard = container.querySelector('.white-card');
+        if (firstCard) {
+            const playerId = firstCard.dataset.playerId;
+            container.onclick = () => selectPotentialWinner(playerId, container);
+        }
+    });
+}
+
+/**
+ * NUEVA: El lector selecciona un *potencial* ganador.
+ */
+function selectPotentialWinner(playerIdStr, container) {
+    if (gameState !== 'judging') return;
+
+    potentialWinnerId = parseInt(playerIdStr);
+    
+    // Quitar highlight anterior
+    playedCardsSlots.querySelectorAll('.submitted-card-container').forEach(c => c.classList.remove('potential-winner'));
+    
+    // Poner highlight nuevo
+    container.classList.add('potential-winner');
+
+    // Mostrar botones de confirmación
+    readerConfirmationButtons.classList.remove('hidden');
+}
+
+/**
+ * El lector confirma al ganador de la ronda.
  */
 function chooseWinner(winnerPlayerId) {
-    if (gameState !== 'judging' || isNaN(winnerPlayerId)) return;
+    if (isNaN(winnerPlayerId)) return;
     
     gameState = 'round_end';
     const winner = players[winnerPlayerId];
@@ -586,12 +645,16 @@ function chooseWinner(winnerPlayerId) {
     gameMessageElem.innerText = `¡Punto para ${winnerName}! (${winnerCardsText})`;
 
     // Resaltar cartas ganadoras y deshabilitar las demás
-    const allCards = playedCardsSlots.querySelectorAll('.white-card');
-    allCards.forEach(card => {
-        card.onclick = null; // Deshabilitar click
-        card.classList.add('submitted'); // Estilo CSS
-        if (card.dataset.playerId == winnerPlayerId) {
-            card.classList.add('winning'); // Resaltar ganadora
+    const allContainers = playedCardsSlots.querySelectorAll('.submitted-card-container');
+    allContainers.forEach(container => {
+        container.onclick = null; // Deshabilitar click
+        container.classList.remove('potential-winner'); // Quitar brillo azul
+        
+        const firstCard = container.querySelector('.white-card');
+        if (firstCard && firstCard.dataset.playerId == winnerPlayerId) {
+            container.classList.add('winning'); // Resaltar ganadora (verde)
+        } else {
+            container.classList.add('submitted'); // Opacar perdedoras
         }
     });
 
@@ -611,14 +674,10 @@ function renderBlackCard() {
     if (!currentBlackCard) return;
     currentBlackCard.pick = parseInt(currentBlackCard.pick) || 1;
     let text = getCardText(currentBlackCard, currentLang);
-    // Reemplaza múltiples _ con un solo span para mejor estilo
     text = text.replace(/(_+)/g, "<span>[____]</span>");
     blackCardElem.innerHTML = text;
 }
 
-/**
- * Muestra/oculta manos, resalta al jugador activo y al lector.
- */
 function renderAllHands() {
     players.forEach((player, index) => {
         const handElem = playerHandElems[index];
@@ -638,16 +697,12 @@ function renderAllHands() {
         }
     });
     
-    // Mostrar/ocultar botones de confirmación
     const showConfirm = (currentTurnPlayer !== -1 && (gameState === 'playing' || gameState === 'reordering'));
     confirmationButtonsDiv.classList.toggle('hidden', !showConfirm);
     if(gameState !== 'playing') confirmPlayBtn.classList.add('hidden');
     if(gameState !== 'reordering') confirmOrderBtn.classList.add('hidden');
 }
 
-/**
- * Crea un elemento DOM para una carta blanca.
- */
 function createWhiteCardElement(cardData, playerOwnerIndex) {
     const cardElement = document.createElement('div');
     cardElement.cardData = cardData;
@@ -661,7 +716,6 @@ function createWhiteCardElement(cardData, playerOwnerIndex) {
         cardElement.onclick = () => selectCard(cardData, cardElement);
     }
     
-    // Mantener estado 'selected' si la carta ya estaba elegida
     if (isPlayerTurn && selectedCardsData.includes(cardData)) {
         cardElement.classList.add('selected');
     }
@@ -669,50 +723,51 @@ function createWhiteCardElement(cardData, playerOwnerIndex) {
 }
 
 /**
- * Muestra todas las cartas jugadas (anónimamente) para que el lector elija.
+ * Muestra todas las cartas jugadas (boca abajo o boca arriba).
  */
 function displaySubmittedCards() {
     playedCardsSlots.innerHTML = '';
     
-    // Barajar el orden de las cartas para anonimato
     const playerIds = shuffleDeck(Object.keys(submittedCards));
 
     playerIds.forEach(playerId => {
         const cardSet = submittedCards[playerId];
         if (!cardSet || cardSet.length === 0) return;
 
-        // Contenedor para este set de cartas
         const container = document.createElement('div');
         container.className = 'submitted-card-container';
         
-        // Crear y añadir las cartas
-        cardSet.forEach(cardData => {
-            const cardElement = document.createElement('div');
-            cardElement.classList.add('card', 'white-card');
-            cardElement.innerHTML = getCardText(cardData, currentLang);
-            cardElement.dataset.playerId = playerId; // Guardar ID para saber quién ganó
-            cardElement.onclick = () => chooseWinner(parseInt(playerId));
-            container.appendChild(cardElement);
-        });
-
+        if (gameState === 'flipping_cards') {
+            // NUEVO: Mostrar boca abajo
+            container.classList.add('facedown');
+            const cardCountText = cardSet.length > 1 ? `${cardSet.length} CARTAS` : `1 CARTA`;
+            container.innerHTML = `<span>${cardCountText}</span>`;
+            // Guardar los datos para revelarlos después
+            container.onclick = () => flipCardSet(container, parseInt(playerId), cardSet);
+        } else {
+            // Lógica anterior (para fin de ronda, si es necesario)
+            cardSet.forEach(cardData => {
+                const cardElement = document.createElement('div');
+                cardElement.classList.add('card', 'white-card');
+                cardElement.innerHTML = getCardText(cardData, currentLang);
+                cardElement.dataset.playerId = playerId; 
+                container.appendChild(cardElement);
+            });
+        }
         playedCardsSlots.appendChild(container);
     });
 }
 
-/**
- * Muestra la vista para reordenar las cartas (si pick > 1).
- */
 function renderReorderView() {
-    playedCardsSlots.innerHTML = ''; // Limpiar
+    playedCardsSlots.innerHTML = ''; 
     playedCardsSlots.classList.add('reordering');
     
     const container = document.createElement('div');
-    container.className = 'submitted-card-container reordering'; // Usar clase CSS
+    container.className = 'submitted-card-container reordering'; 
 
     orderedCardElements.forEach((cardElement, index) => {
-        container.appendChild(cardElement); // Añadir la carta
+        container.appendChild(cardElement); 
         
-        // Añadir botón de swap (excepto después de la última)
         if (index < orderedCardElements.length - 1) {
             const swapButton = document.createElement('button');
             swapButton.classList.add('swap-btn');
@@ -726,30 +781,21 @@ function renderReorderView() {
     playedCardsSlots.appendChild(container);
 }
 
-/**
- * Lógica para intercambiar dos cartas en la vista de reordenar.
- */
 function swapCards(index) {
     if (index >= 0 && index < orderedCardElements.length - 1) {
-        // 1. Intercambiar en el array de elementos DOM
         [orderedCardElements[index], orderedCardElements[index + 1]] = 
         [orderedCardElements[index + 1], orderedCardElements[index]];
         
-        // 2. Intercambiar en el array de datos (el importante)
         const playerIdx = currentTurnPlayer;
         if (submittedCards[playerIdx] && submittedCards[playerIdx].length > index + 1) {
             [submittedCards[playerIdx][index], submittedCards[playerIdx][index + 1]] = 
             [submittedCards[playerIdx][index + 1], submittedCards[playerIdx][index]];
         }
         
-        // 3. Volver a renderizar la vista de reordenar
         renderReorderView();
     }
 }
 
-/**
- * Lógica para seleccionar/deseleccionar una carta de la mano.
- */
 function selectCard(cardData, cardElement) {
     if (gameState !== 'playing' || !currentBlackCard) return;
 
@@ -757,18 +803,15 @@ function selectCard(cardData, cardElement) {
     const isSelected = selectedCardsData.includes(cardData);
 
     if (isSelected) {
-        // Deseleccionar
         selectedCardsData = selectedCardsData.filter(c => c !== cardData);
         cardElement.classList.remove('selected');
     } else {
-        // Seleccionar (si no hemos alcanzado el límite)
         if (selectedCardsData.length < pickCount) {
             selectedCardsData.push(cardData);
             cardElement.classList.add('selected');
         }
     }
 
-    // Actualizar UI (mostrar/ocultar botón de confirmar)
     const isSelectionComplete = selectedCardsData.length === pickCount;
     confirmPlayBtn.classList.toggle('hidden', !isSelectionComplete);
     confirmationButtonsDiv.classList.toggle('hidden', !isSelectionComplete);
@@ -785,8 +828,8 @@ function updateGameMessage() {
         gameMessageElem.innerText = "Cargando...";
         return;
     }
-
     const pickCount = parseInt(currentBlackCard.pick) || 1;
+    const readerName = (currentReaderIndex !== -1 && players[currentReaderIndex]) ? players[currentReaderIndex].name : "Lector";
 
     switch (gameState) {
         case 'playing':
@@ -799,10 +842,11 @@ function updateGameMessage() {
                 `${players[currentTurnPlayer].name}, ordena tus cartas.` :
                 "Ordenando...";
             break;
+        case 'flipping_cards': // NUEVO
+            message = `Turno de ${readerName} (Lector). Revela las cartas...`;
+            break;
         case 'judging':
-            message = currentReaderIndex !== -1 && players[currentReaderIndex] ?
-                `Turno de ${players[currentReaderIndex].name} (Lector) para elegir.` :
-                "Juzgando...";
+            message = `Turno de ${readerName} (Lector). Elige la(s) carta(s) ganadora(s).`;
             break;
         case 'round_end':
             // El mensaje se pone en chooseWinner()
@@ -813,9 +857,6 @@ function updateGameMessage() {
     gameMessageElem.innerText = message;
 }
 
-/**
- * Actualiza TODOS los marcadores de puntuación.
- */
 function updateAllScoreboards() {
     players.forEach((player, index) => {
         if (scoreBoards[index]) {
@@ -827,9 +868,6 @@ function updateAllScoreboards() {
     });
 }
 
-/**
- * Resalta visualmente al lector actual.
- */
 function updateScoreboardHighlight() {
     scoreBoards.forEach((board, index) => {
         board?.classList.toggle('reader', index === currentReaderIndex);
@@ -860,14 +898,18 @@ function updateLanguage() {
     document.getElementById('volume-label').innerText = texts.volumeLabel;
     document.getElementById('music-label').innerText = texts.musicLabel;
     document.getElementById('lang-label').innerText = texts.langLabel;
+    
+    // NUEVO: Botones del lector (aunque no estén en uiTexts, los traducimos aquí)
+    if(confirmWinnerBtn) confirmWinnerBtn.innerText = (currentLang === 'pt') ? "Confirmar Vencedor" : "Confirmar Ganador";
+    if(changeChoiceBtn) changeChoiceBtn.innerText = (currentLang === 'pt') ? "Mudar Escolha" : "Cambiar Elección";
 
     // Actualizar textos dinámicos del juego (si ya empezó)
     if (gameState !== 'setup') {
         updateGameMessage();
         renderBlackCard();
         renderAllHands();
-        if (gameState === 'judging' || gameState === 'round_end') {
-            displaySubmittedCards();
+        if (gameState === 'judging' || gameState === 'round_end' || gameState === 'flipping_cards') {
+            displaySubmittedCards(); // Re-renderizar cartas con el idioma nuevo
         }
     }
 }
@@ -908,7 +950,7 @@ function shuffleDeck(deck) {
 function dealCards(deck, count) {
     const hand = [];
     for (let i = 0; i < count; i++) {
-        const card = drawWhiteCard(); // Usar esta función asegura que se rellene el mazo
+        const card = drawWhiteCard(); 
         if (card) hand.push(card);
     }
     return hand;
@@ -922,7 +964,7 @@ function drawWhiteCard() {
     if (whiteDeck.length > 0) {
         return whiteDeck.pop();
     }
-    return null; // No debería pasar si whiteCardsData no está vacío
+    return null; 
 }
 
 function getCardText(card, lang) {
