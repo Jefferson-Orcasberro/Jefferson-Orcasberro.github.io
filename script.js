@@ -553,6 +553,7 @@ function confirmPlay() {
         gameState = 'reordering';
         updateGameMessage();
         renderReorderView();
+        confirmPlayBtn.classList.add('hidden');
         confirmOrderBtn.classList.remove('hidden');
         confirmationButtonsDiv.classList.remove('hidden');
     } else {
