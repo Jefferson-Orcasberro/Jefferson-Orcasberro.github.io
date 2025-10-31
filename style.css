@@ -572,6 +572,48 @@ button:disabled {
     box-shadow: 0 0 15px var(--color-confirm);
 }
 
+#winner-announcement {
+    color: var(--color-winner);
+    font-size: 1.8rem;
+    margin: 15px 0;
+    text-shadow: 0 0 10px var(--color-winner);
+}
+
+#final-scores-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+#final-scores-list li {
+    font-size: 1.1rem;
+    padding: 8px;
+    border-bottom: 1px solid #444;
+}
+
+#final-scores-list li.winner {
+    font-weight: bold;
+    color: var(--color-winner);
+    background: rgba(0, 255, 127, 0.1);
+}
+
+#final-scores-list li:last-child {
+    border-bottom: none;
+}
+
+#restart-game-btn {
+    background-color: var(--color-confirm);
+    border-color: var(--color-confirm);
+    color: var(--color-bg-darkest);
+    margin-top: 20px;
+    width: 100%;
+}
+#restart-game-btn:hover {
+    background-color: #38ff5a;
+    box-shadow: 0 0 15px var(--color-confirm);
+}
 
 /* =================================================================
    --- RESPONSIVE DESIGN ---

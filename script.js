@@ -262,6 +262,7 @@ let gameContainer, blackCardElem, gameMessageElem, playedCardsSlots, advanceRoun
 // Botones de Acción
 let confirmationButtonsDiv, confirmPlayBtn, confirmOrderBtn;
 let readerConfirmationButtons, confirmWinnerBtn, changeChoiceBtn; // NUEVOS
+let gameOverModal, winnerAnnouncement, finalScoresList, restartGameBtn;
 
 // Ajustes
 let volumeControl, langSelect, musicSelect;
@@ -320,6 +321,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     activePlayerHandElem = document.getElementById('active-player-hand');
 
+    gameOverModal = document.getElementById('game-over-modal');
+    winnerAnnouncement = document.getElementById('winner-announcement');
+    finalScoresList = document.getElementById('final-scores-list');
+    restartGameBtn = document.getElementById('restart-game-btn');
+
     // --- 2. AÑADIR LISTENERS ---
 
     // Setup
@@ -353,6 +359,8 @@ document.addEventListener('DOMContentLoaded', () => {
         playedCardsSlots.querySelectorAll('.submitted-card-container').forEach(c => c.classList.remove('potential-winner'));
         readerConfirmationButtons.classList.add('hidden');
     });
+
+    restartGameBtn.addEventListener('click', endGame);
 
     advanceRoundBtn.addEventListener('click', () => {
         // 1. Repartir cartas nuevas
@@ -479,13 +487,12 @@ function startNewRound() {
 
     // Sacar carta negra
     if (blackDeck.length === 0) {
-        blackDeck = shuffleDeck([...blackCardsData]);
+        // ¡Se acabaron las cartas!
+        triggerGameOver();
+        return; // Detener la ejecución de startNewRound
     }
-    if (blackDeck.length === 0) {
-        alert("¡Error! No quedan cartas negras.");
-        endGame();
-        return;
-    }
+    
+    // Si llegamos aquí, todavía hay cartas
     currentBlackCard = blackDeck.pop();
     renderBlackCard();
 
@@ -661,6 +668,43 @@ function chooseWinner(winnerPlayerId) {
 function endGame() {
     stopAllMusic();
     window.location.reload();
+}
+
+function triggerGameOver() {
+    stopAllMusic();
+    
+    // 1. Ordenar jugadores por puntaje (de mayor a menor)
+    const sortedPlayers = [...players].sort((a, b) => b.score - a.score);
+    
+    // 2. Anunciar al ganador (o ganadores si hay empate)
+    const topScore = sortedPlayers[0].score;
+    const winners = sortedPlayers.filter(p => p.score === topScore);
+    
+    if (winners.length > 1) {
+        // Empate
+        const winnerNames = winners.map(p => p.name).join(' y ');
+        winnerAnnouncement.innerText = `¡Es un empate entre ${winnerNames}!`;
+    } else {
+        // Un solo ganador
+        winnerAnnouncement.innerText = `¡El ganador es ${sortedPlayers[0].name}!`;
+    }
+
+    // 3. Limpiar y llenar la lista de puntajes
+    finalScoresList.innerHTML = '';
+    sortedPlayers.forEach(player => {
+        const li = document.createElement('li');
+        li.innerText = `${player.name}: ${player.score} puntos`;
+        
+        // Resaltar al ganador(es) en la lista
+        if (player.score === topScore) {
+            li.classList.add('winner');
+        }
+        
+        finalScoresList.appendChild(li);
+    });
+
+    // 4. Mostrar el modal de fin de juego
+    gameOverModal.style.display = 'block';
 }
 
 // =============================================================
