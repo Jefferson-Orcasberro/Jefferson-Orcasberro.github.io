@@ -254,7 +254,7 @@ let appContainer, settingsModal, closeSettingsBtn, endBtn, settingsBtn;
 
 // Marcadores y Manos (Arrays)
 let scoreBoards = [];
-let playerHandElems = [];
+let activePlayerHandElem;
 
 // Área de Juego
 let gameContainer, blackCardElem, gameMessageElem, playedCardsSlots, advanceRoundBtn;
@@ -317,8 +317,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Asignación dinámica (ACTUALIZADO a 10)
     for (let i = 0; i < 10; i++) {
         scoreBoards.push(document.getElementById(`score-board-${i}`));
-        playerHandElems.push(document.getElementById(`player-hand-${i}`));
     }
+    activePlayerHandElem = document.getElementById('active-player-hand');
 
     // --- 2. AÑADIR LISTENERS ---
 
@@ -419,7 +419,7 @@ function setupGame() {
 
     // Ocultar TODOS los tableros y manos primero
     scoreBoards.forEach(board => board?.classList.add('hidden'));
-    playerHandElems.forEach(hand => hand?.classList.add('hidden'));
+    activePlayerHandElem.forEach(hand => hand?.classList.add('hidden'));
 
     // Crear jugadores y mostrar sus elementos de UI
     for (let i = 0; i < playerCount; i++) { 
@@ -429,9 +429,6 @@ function setupGame() {
         // Mostrar solo los elementos de los jugadores en la partida
         if (scoreBoards[i]) {
             scoreBoards[i].classList.remove('hidden');
-        }
-        if (playerHandElems[i]) {
-            playerHandElems[i].classList.remove('hidden');
         }
     }
 
@@ -533,7 +530,7 @@ function advanceTurn() {
 function confirmPlay() {
     if (currentTurnPlayer < 0 || !playerHandElems[currentTurnPlayer]) return;
     
-    const handElem = playerHandElems[currentTurnPlayer];
+    const handElem = activePlayerHandElem;
     orderedCardElements = Array.from(handElem.querySelectorAll('.white-card.selected'));
     orderedCardElements.forEach(elem => {
         elem.classList.remove('selected');
@@ -678,26 +675,39 @@ function renderBlackCard() {
     blackCardElem.innerHTML = text;
 }
 
+/**
+ * Muestra la mano del jugador activo, u oculta el contenedor si no es el turno de un jugador.
+ */
 function renderAllHands() {
-    players.forEach((player, index) => {
-        const handElem = playerHandElems[index];
-        if (!handElem) return;
+    if (!activePlayerHandElem) return;
 
-        handElem.innerHTML = ''; // Limpiar mano
-        handElem.classList.toggle('active', index === currentTurnPlayer && (gameState === 'playing' || gameState === 'reordering'));
-        handElem.classList.toggle('reader', index === currentReaderIndex);
+    // Limpiar la mano
+    activePlayerHandElem.innerHTML = '';
+    
+    // Comprobar si un jugador está jugando (no el lector, no juzgando)
+    const isPlayerTurn = (gameState === 'playing' || gameState === 'reordering') && currentTurnPlayer !== -1;
 
-        if (Array.isArray(player.hand)) {
+    if (isPlayerTurn) {
+        // Mostrar el contenedor de la mano
+        activePlayerHandElem.classList.remove('hidden');
+
+        // Obtener el jugador actual y renderizar su mano
+        const player = players[currentTurnPlayer];
+        if (player && Array.isArray(player.hand)) {
             player.hand.forEach(cardData => {
                 if (cardData && typeof cardData === 'object') {
                     const cardElement = createWhiteCardElement(cardData, player.id);
-                    handElem.appendChild(cardElement);
+                    activePlayerHandElem.appendChild(cardElement);
                 }
             });
         }
-    });
+    } else {
+        // Ocultar el contenedor si no es el turno de un jugador
+        activePlayerHandElem.classList.add('hidden');
+    }
     
-    const showConfirm = (currentTurnPlayer !== -1 && (gameState === 'playing' || gameState === 'reordering'));
+    // Mostrar/ocultar botones de confirmación
+    const showConfirm = isPlayerTurn;
     confirmationButtonsDiv.classList.toggle('hidden', !showConfirm);
     if(gameState !== 'playing') confirmPlayBtn.classList.add('hidden');
     if(gameState !== 'reordering') confirmOrderBtn.classList.add('hidden');

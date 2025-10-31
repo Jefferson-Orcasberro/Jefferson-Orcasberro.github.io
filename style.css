@@ -404,21 +404,20 @@ button:disabled {
     background: var(--color-bg-dark);
     padding: 10px;
     flex-shrink: 0;
-    min-height: 410px; /* ACTUALIZADO: Espacio para 2 filas de manos */
+    min-height: 200px; /* Vuelve a la altura de una fila */
     box-sizing: border-box;
     position: relative;
     border-top: 2px solid var(--color-accent);
-    flex-wrap: wrap; /* ACTUALIZADO: Permite 2 filas */
+    /* Se quitó flex-wrap */
 }
 
 .player-hand {
     display: flex;
     justify-content: flex-start;
     flex-wrap: nowrap; 
-    flex-basis: 18%; /* ACTUALIZADO: 5 manos por fila */
-    max-width: 18%; /* ACTUALIZADO: 5 manos por fila */
-    height: 190px; /* ACTUALIZADO: Altura fija para cada fila */
-    margin-bottom: 10px; /* Espacio entre filas */
+    width: 100%; /* AÑADIDO: Ocupa todo el ancho */
+    min-height: 190px; /* AÑADIDO: Altura mínima */
+    /* Se quitaron flex-basis, max-width, height, margin-bottom */
     overflow-x: auto; 
     overflow-y: hidden;
     border: 3px solid transparent;
@@ -435,12 +434,6 @@ button:disabled {
 .player-hand.active {
     border-color: var(--color-accent);
     box-shadow: 0 0 15px var(--color-accent) inset;
-}
-
-.player-hand.reader {
-    opacity: 0.4;
-    filter: grayscale(100%);
-    pointer-events: none;
 }
 
 /* --- Cartas dentro de la mano --- */
@@ -620,14 +613,6 @@ button:disabled {
         min-height: var(--card-height-mobile);
     }
     
-    .player-hands-container {
-        min-height: 360px; /* 2 filas de 180px */
-    }
-    .player-hand {
-        flex-basis: 22%; /* 4 manos por fila */
-        max-width: 22%;
-        height: 170px;
-    }
     .player-hand .card {
         width: 100px; /* Más grande */
         min-height: 145px; /* Más grande */
@@ -691,17 +676,6 @@ button:disabled {
     }
 
     /* Manos en móvil */
-    .player-hands-container {
-        flex-wrap: wrap; /* Permite que las manos bajen */
-        justify-content: flex-start; /* Alinea a la izquierda */
-        min-height: 310px; /* 2 filas de 155px */
-    }
-    .player-hand {
-        flex-basis: 48%; /* Dos manos por fila */
-        max-width: 48%;
-        height: 150px; 
-        margin-bottom: 5px;
-    }
     .player-hand .card {
         width: 90px; /* Más grande */
         min-height: 130px; /* Más grande */
