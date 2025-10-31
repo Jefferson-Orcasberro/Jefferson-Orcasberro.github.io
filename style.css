@@ -413,7 +413,7 @@ button:disabled {
 
 .player-hand {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     flex-wrap: nowrap; 
     width: 100%; /* AÑADIDO: Ocupa todo el ancho */
     min-height: 190px; /* AÑADIDO: Altura mínima */
