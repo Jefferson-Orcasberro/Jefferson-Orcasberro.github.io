@@ -422,13 +422,12 @@ button:disabled {
     overflow-y: hidden;
     border: 3px solid transparent;
     border-radius: 12px;
-    padding: 8px 0; 
+    padding: 8px calc(50% - 60px); 
     transition: all 0.3s ease;
     gap: 8px;
 
     /* --- PROPIEDADES DEL CARRUSEL --- */
     scroll-snap-type: x mandatory;
-    scroll-padding: 0 16px; 
 }
 
 /* --- Cartas dentro de la mano --- */
@@ -649,7 +648,12 @@ button:disabled {
     #played-cards-slots {
         min-height: var(--card-height-mobile);
     }
-    
+   
+    .player-hand {
+        padding-left: calc(50% - 50px);
+        padding-right: calc(50% - 50px);
+    }
+   
     .player-hand .card {
         width: 100px; /* Más grande */
         min-height: 145px; /* Más grande */
@@ -701,7 +705,11 @@ button:disabled {
         font-size: 0.9rem;
     }
     
-    /* Carta boca abajo en móvil */
+    .player-hand {
+        padding-left: calc(50% - 45px);
+        padding-right: calc(50% - 45px);
+    }
+   
     .submitted-card-container.facedown span {
         width: var(--card-width-mobile);
         min-height: var(--card-height-mobile);
