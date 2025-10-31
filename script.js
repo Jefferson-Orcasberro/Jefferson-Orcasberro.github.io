@@ -333,7 +333,7 @@ document.addEventListener('DOMContentLoaded', () => {
     startSetupBtn.addEventListener('click', setupGame);
 
     // General
-    endBtn.addEventListener('click', endGame);
+    endBtn.addEventListener('click', triggerGameOver);
     settingsBtn.addEventListener('click', () => { settingsModal.style.display = 'block'; });
     closeSettingsBtn.addEventListener('click', () => { settingsModal.style.display = 'none'; });
     window.addEventListener('click', (event) => {
