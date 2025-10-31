@@ -422,12 +422,13 @@ button:disabled {
     overflow-y: hidden;
     border: 3px solid transparent;
     border-radius: 12px;
-    padding: 8px calc(50% - 60px); 
+    padding: 8px 0; 
     transition: all 0.3s ease;
     gap: 8px;
 
     /* --- PROPIEDADES DEL CARRUSEL --- */
     scroll-snap-type: x mandatory;
+    scroll-padding: 0 calc(50% - 60px);
 }
 
 /* --- Cartas dentro de la mano --- */
@@ -650,8 +651,7 @@ button:disabled {
     }
    
     .player-hand {
-        padding-left: calc(50% - 50px);
-        padding-right: calc(50% - 50px);
+        scroll-padding: 0 calc(50% - 50px);
     }
    
     .player-hand .card {
@@ -704,11 +704,6 @@ button:disabled {
         min-height: var(--card-height-mobile);
         font-size: 0.9rem;
     }
-    
-    .player-hand {
-        padding-left: calc(50% - 45px);
-        padding-right: calc(50% - 45px);
-    }
    
     .submitted-card-container.facedown span {
         width: var(--card-width-mobile);
@@ -721,6 +716,11 @@ button:disabled {
     }
 
     /* Manos en móvil */
+   
+   .player-hand {
+        scroll-padding: 0 calc(50% - 45px);
+   }
+   
     .player-hand .card {
         width: 90px; /* Más grande */
         min-height: 130px; /* Más grande */
