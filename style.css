@@ -431,11 +431,6 @@ button:disabled {
     scroll-padding: 0 16px; 
 }
 
-.player-hand.active {
-    border-color: var(--color-accent);
-    box-shadow: 0 0 15px var(--color-accent) inset;
-}
-
 /* --- Cartas dentro de la mano --- */
 .player-hand .card {
     width: 120px; 

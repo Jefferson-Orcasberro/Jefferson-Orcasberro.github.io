@@ -419,7 +419,7 @@ function setupGame() {
 
     // Ocultar TODOS los tableros y manos primero
     scoreBoards.forEach(board => board?.classList.add('hidden'));
-    activePlayerHandElem.forEach(hand => hand?.classList.add('hidden'));
+    activePlayerHandElem.classList.add('hidden');
 
     // Crear jugadores y mostrar sus elementos de UI
     for (let i = 0; i < playerCount; i++) { 
@@ -528,7 +528,7 @@ function advanceTurn() {
 }
 
 function confirmPlay() {
-    if (currentTurnPlayer < 0 || !playerHandElems[currentTurnPlayer]) return;
+    if (currentTurnPlayer < 0) return;
     
     const handElem = activePlayerHandElem;
     orderedCardElements = Array.from(handElem.querySelectorAll('.white-card.selected'));
