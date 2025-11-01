@@ -413,22 +413,24 @@ button:disabled {
 
 .player-hand {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start; /* <--- CORRECCIÓN 1: Vuelve a 'flex-start' */
     flex-wrap: nowrap; 
-    width: 100%; /* AÑADIDO: Ocupa todo el ancho */
-    min-height: 190px; /* AÑADIDO: Altura mínima */
-    /* Se quitaron flex-basis, max-width, height, margin-bottom */
+    width: 100%; 
+    min-height: 190px; 
     overflow-x: auto; 
     overflow-y: hidden;
     border: 3px solid transparent;
     border-radius: 12px;
-    padding: 8px 0; 
+    
+    padding: 8px 0; /* <--- CORRECCIÓN 2: Padding solo vertical */
+
     transition: all 0.3s ease;
     gap: 8px;
 
     /* --- PROPIEDADES DEL CARRUSEL --- */
     scroll-snap-type: x mandatory;
-    scroll-padding: 0 calc(50% - 60px);
+    /* CORRECCIÓN 3: El ancho de la carta (120px) / 2 = 60px */
+    scroll-padding: 0 calc(50% - 60px); 
 }
 
 /* --- Cartas dentro de la mano --- */
@@ -650,7 +652,9 @@ button:disabled {
         min-height: var(--card-height-mobile);
     }
    
+    /* Corrige el padding para el carrusel en tablet */
     .player-hand {
+        /* Ancho de carta tablet (100px) / 2 = 50px */
         scroll-padding: 0 calc(50% - 50px);
     }
    
@@ -717,9 +721,11 @@ button:disabled {
 
     /* Manos en móvil */
    
-   .player-hand {
+   /* Corrige el padding para el carrusel en móvil */
+    .player-hand {
+        /* Ancho de carta móvil (90px) / 2 = 45px */
         scroll-padding: 0 calc(50% - 45px);
-   }
+    }
    
     .player-hand .card {
         width: 90px; /* Más grande */
