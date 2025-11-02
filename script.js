@@ -132,7 +132,7 @@ const whiteCardsData = [
     { es: "Mi culo negro" }, { es: "My nigga" }, { es: "Minas terrestres" }, { es: "El negro Mandela" }, { es: "El capa preta" },
     { es: "2012" }, { es: "Penes" }, { es: "El pene" }, { es: "Una sexy rubia con paquete" }, { es: "Bro?" }, { es: "Mi vida sexual" },
     { es: "Vituber furro" }, { es: "SIDA!" }, { es: "Un tumor cerebral" }, { es: "Argentinos" }, { es: "Brasileros" },
-    { es: "Decir 'estamos llegando' cuando recién salgo de casa." },
+    { es: "Decir 'estamos llegando' cuando recién salgo de casa." }, { es: "Un cheto hablando spanglish" }, { es: "La frontera, otra vez" },
     { es: "Mi 'dieta' que empieza todos los lunes." }, { es: "El 'trabajo soñado' (pagar facturas)." }, { es: "'Solo una más' (la octava cerveza)." },
     { es: "La silla donde apilo toda mi ropa limpia." }, { es: "'No tengo nada que ponerme' (frente a un armario lleno)." },
     { es: "Mi impresionante habilidad para procrastinar." }, { es: "El audio de WhatsApp de 3 minutos que podría haber sido un 'sí'." },
