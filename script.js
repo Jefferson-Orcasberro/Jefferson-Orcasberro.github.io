@@ -7,7 +7,7 @@
 const uiTexts = {
     es: { start: "Iniciar Partida", end: "Terminar Partida", settings: "Ajustes", settingsTitle: "Ajustes", volumeLabel: "Volumen de Música", musicLabel: "Música de Fondo", langLabel: "Idioma", pick: (num) => `Elige ${num} carta(s)`, score: "Puntos:", confirmPlay: "Confirmar Jugada", confirmOrder: "Confirmar Orden", advanceRound: "Siguiente Ronda" },
     pt: { start: "Iniciar Jogo", end: "Terminar Jogo", settings: "Configurações", settingsTitle: "Configurações", volumeLabel: "Volume da Música", musicLabel: "Música de Fundo", langLabel: "Idioma", pick: (num) => `Escolha ${num} carta(s)`, score: "Pontos:", confirmPlay: "Confirmar Jogada", confirmOrder: "Confirmar Ordem", advanceRound: "Próxima Rodada" },
-    bi: { start: "Iniciar Partida / Jogo", end: "Terminar Partida / Jogo", settings: "Ajustes / Configurações", settingsTitle: "Ajustes / Configurações", volumeLabel: "Volumen / Volume", musicLabel: "Música de Fondo / Fundo", langLabel: "Idioma", pick: (num) => `Elige / Escolha ${num} carta(s)`, score: "Puntos / Pontos:", confirmPlay: "Confirmar Jogada", confirmOrder: "Confirmar Orden / Ordem", advanceRound: "Siguiente Ronda / Próxima Rodada" }
+    en: { start: "Start Game", end: "End Game", settings: "Settings", settingsTitle: "Settings", volumeLabel: "Music Volume", musicLabel: "Background Music", langLabel: "Language", pick: (num) => `Pick ${num} card(s)`, score: "Points:", confirmPlay: "Confirm Play", confirmOrder: "Confirm Order", advanceRound: "Next Round" }
 };
 
 const blackCardsData = [
@@ -555,9 +555,9 @@ async function translateCardsList(list, sourceKey = 'es', targetKey = 'pt') {
 }
 
 async function translateAllCards(targetLang) {
-    if (!['pt'].includes(targetLang)) return; // por ahora solo PT; ampliar si se desea
+    if (!['pt', 'en'].includes(targetLang)) return; // PT (Portugues) y EN (Ingles)
     console.log('Iniciando traducción de cartas a', targetLang);
-    if (gameMessageElem) gameMessageElem.innerText = (targetLang === 'pt') ? 'Traduciendo cartas...' : 'Traduciendo...';
+    if (gameMessageElem) gameMessageElem.innerText = 'Traduciendo cartas...';
 
     await Promise.all([
         translateCardsList(whiteCardsData, 'es', targetLang),
@@ -578,6 +578,8 @@ function autoTranslateIfNeeded(lang) {
     // Llamada sin bloquear la UI
     if (lang === 'pt') {
         translateAllCards('pt').catch(e => console.error('Error en auto-traducción:', e));
+    } else if (lang === 'en') {
+        translateAllCards('en').catch(e => console.error('Error en auto-traducción:', e));
     }
 }
 
@@ -1061,8 +1063,16 @@ function updateLanguage() {
     document.getElementById('lang-label').innerText = texts.langLabel;
     
     // NUEVO: Botones del lector (aunque no estén en uiTexts, los traducimos aquí)
-    if(confirmWinnerBtn) confirmWinnerBtn.innerText = (currentLang === 'pt') ? "Confirmar Vencedor" : "Confirmar Ganador";
-    if(changeChoiceBtn) changeChoiceBtn.innerText = (currentLang === 'pt') ? "Mudar Escolha" : "Cambiar Elección";
+    if(currentLang === 'pt') {
+        if(confirmWinnerBtn) confirmWinnerBtn.innerText = "Confirmar Vencedor";
+        if(changeChoiceBtn) changeChoiceBtn.innerText = "Mudar Escolha";
+    } else if(currentLang === 'en') {
+        if(confirmWinnerBtn) confirmWinnerBtn.innerText = "Confirm Winner";
+        if(changeChoiceBtn) changeChoiceBtn.innerText = "Change Choice";
+    } else {
+        if(confirmWinnerBtn) confirmWinnerBtn.innerText = "Confirmar Ganador";
+        if(changeChoiceBtn) changeChoiceBtn.innerText = "Cambiar Elección";
+    }
 
     // Actualizar textos dinámicos del juego (si ya empezó)
     if (gameState !== 'setup') {
@@ -1073,6 +1083,9 @@ function updateLanguage() {
             displaySubmittedCards(); // Re-renderizar cartas con el idioma nuevo
         }
     }
+    
+    // Iniciar traducción automática si es necesario
+    autoTranslateIfNeeded(currentLang);
 }
 
 function stopAllMusic() {
@@ -1132,7 +1145,8 @@ function getCardText(card, lang) {
     if (!card || typeof card !== 'object') return "?";
     const esText = card.es || "?";
     const ptText = card.pt || esText;
-    if (lang === 'bi') return `${esText}<hr>${ptText}`;
+    const enText = card.en || esText;
     if (lang === 'pt') return ptText;
+    if (lang === 'en') return enText;
     return esText;
 }
