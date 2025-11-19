@@ -512,6 +512,70 @@ function startNewRound() {
     renderAllHands();
 }
 
+// ---------- Traducción automática de cartas ----------
+const TRANSLATE_API_URL = 'https://libretranslate.de/translate'; // cambiar si usas otro servicio
+
+async function translateText(text, source = 'es', target = 'pt') {
+    if (!text) return text;
+    try {
+        const res = await fetch(TRANSLATE_API_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ q: text, source, target, format: 'text' })
+        });
+        if (!res.ok) {
+            console.error('Error en traducción:', res.status, await res.text());
+            return text;
+        }
+        const json = await res.json();
+        return json.translatedText || text;
+    } catch (e) {
+        console.error('Excepción traduciendo texto:', e);
+        return text;
+    }
+}
+
+async function translateCardsList(list, sourceKey = 'es', targetKey = 'pt') {
+    for (let i = 0; i < list.length; i++) {
+        const item = list[i];
+        // saltar si ya tiene traducción
+        if (item && item[targetKey]) continue;
+        const original = item && item[sourceKey] ? item[sourceKey].toString() : '';
+        if (!original) continue;
+        // traducir y guardar
+        item[targetKey] = await translateText(original, 'es', targetKey);
+        // pequeña pausa para evitar rate limits agresivos (opcional)
+        await new Promise(r => setTimeout(r, 120));
+    }
+}
+
+async function translateAllCards(targetLang) {
+    if (!['pt'].includes(targetLang)) return; // por ahora solo PT; ampliar si se desea
+    console.log('Iniciando traducción de cartas a', targetLang);
+    if (gameMessageElem) gameMessageElem.innerText = (targetLang === 'pt') ? 'Traduciendo cartas...' : 'Traduciendo...';
+
+    await Promise.all([
+        translateCardsList(whiteCardsData, 'es', targetLang),
+        translateCardsList(blackCardsData, 'es', targetLang)
+    ]);
+
+    // Si el juego ya arrancó, re-renderizar
+    if (gameState !== 'setup') {
+        renderBlackCard();
+        displaySubmittedCards();
+        renderAllHands();
+    }
+    console.log('Traducción completada');
+    if (gameState !== 'setup') updateGameMessage();
+}
+
+function autoTranslateIfNeeded(lang) {
+    // Llamada sin bloquear la UI
+    if (lang === 'pt') {
+        translateAllCards('pt').catch(e => console.error('Error en auto-traducción:', e));
+    }
+}
+
 /**
  * Avanza al siguiente jugador (en modo "pasar el teléfono").
  * Si todos han jugado, pasa a la fase de REVELAR CARTAS.
