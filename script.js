@@ -323,6 +323,9 @@ document.addEventListener('DOMContentLoaded', () => {
     musicTracks['Rey_del_asado'] = document.getElementById('Rey_del_asado');
     musicTracks['Viento_y_hacha'] = document.getElementById('Viento_y_hacha');
     musicTracks['Brama_el_viento'] = document.getElementById('Brama_el_viento');
+    musicTracks['Bajo_el_cielo'] = document.getElementById('Bajo_el_cielo');
+    musicTracks['Cielo_del_sur'] = document.getElementById('Cielo_del_sur');
+    musicTracks['Cielo_oriental'] = document.getElementById('Cielo_oriental');
     
     currentTrackId = musicSelect ? musicSelect.value : 'Rey_del_asado';
 
