@@ -592,7 +592,6 @@ function advanceTurn() {
     confirmPlayBtn.classList.add('hidden');
     confirmOrderBtn.classList.add('hidden');
     confirmationButtonsDiv.classList.add('hidden');
-    handRevealed = false; // Resetear para el siguiente jugador
 
     let playingPlayerIndexes = players.map(p => p.id).filter(id => id !== currentReaderIndex);
     currentPlayerIndex++;
