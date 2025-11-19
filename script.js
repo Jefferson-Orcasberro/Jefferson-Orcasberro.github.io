@@ -519,6 +519,8 @@ function startNewRound() {
 
 // ---------- Traducción automática de cartas ----------
 const TRANSLATE_API_URL = 'https://libretranslate.de/translate'; // cambiar si usas otro servicio
+let translationQueue = []; // Cola de cartas a traducir
+let isTranslating = false; // Bandera para evitar múltiples traduciones simultáneas
 
 async function translateText(text, source = 'es', target = 'pt') {
     if (!text) return text;
@@ -552,6 +554,41 @@ async function translateCardsList(list, sourceKey = 'es', targetKey = 'pt') {
         // pequeña pausa para evitar rate limits agresivos (opcional)
         await new Promise(r => setTimeout(r, 120));
     }
+}
+
+// Traducir una sola carta
+async function translateCard(cardObj, targetLang) {
+    if (!cardObj || !cardObj.es || cardObj[targetLang]) return; // Ya está traducida
+    cardObj[targetLang] = await translateText(cardObj.es, 'es', targetLang);
+}
+
+// Procesar cola de traducción en background
+async function processTranslationQueue(targetLang) {
+    if (isTranslating || translationQueue.length === 0) return;
+    isTranslating = true;
+    
+    while (translationQueue.length > 0) {
+        const card = translationQueue.shift();
+        if (card && !card[targetLang]) {
+            await translateCard(card, targetLang);
+            await new Promise(r => setTimeout(r, 100)); // Pequeña pausa
+        }
+    }
+    isTranslating = false;
+}
+
+// Agregar cartas a la cola de traducción
+function addCardsToTranslationQueue(cards, targetLang) {
+    if (!['pt', 'en'].includes(targetLang)) return;
+    
+    cards.forEach(card => {
+        if (card && !card[targetLang] && !translationQueue.includes(card)) {
+            translationQueue.push(card);
+        }
+    });
+    
+    // Iniciar procesamiento en background
+    processTranslationQueue(targetLang).catch(e => console.error('Error en traducción de cartas:', e));
 }
 
 async function translateAllCards(targetLang) {
@@ -666,6 +703,11 @@ function flipCardSet(containerElement, playerId, cardDataArray) {
         cardElement.dataset.playerId = playerId; // Guardar ID
         containerElement.appendChild(cardElement);
     });
+    
+    // Agregar cartas reveladas a la cola de traducción
+    if (currentLang !== 'es') {
+        addCardsToTranslationQueue(cardDataArray, currentLang);
+    }
 
     // Comprobar si todas las cartas han sido reveladas
     const remainingFacedown = playedCardsSlots.querySelectorAll('.facedown');
@@ -797,6 +839,11 @@ function renderBlackCard() {
     let text = getCardText(currentBlackCard, currentLang);
     text = text.replace(/(_+)/g, "<span>[____]</span>");
     blackCardElem.innerHTML = text;
+    
+    // Agregar carta negra a la cola de traducción
+    if (currentLang !== 'es') {
+        addCardsToTranslationQueue([currentBlackCard], currentLang);
+    }
 }
 
 /**
@@ -867,6 +914,11 @@ function renderAllHands() {
                     }
                 });
                 if (revealHandBtn) revealHandBtn.classList.add('hidden');
+                
+                // Agregar cartas a la cola de traducción
+                if (currentLang !== 'es') {
+                    addCardsToTranslationQueue(player.hand, currentLang);
+                }
             } else if (gameState === 'reordering' && handRevealed) {
                 // En reordering, mostrar solo las cartas seleccionadas
                 orderedCardElements.forEach(cardElem => {
@@ -876,6 +928,12 @@ function renderAllHands() {
                         activePlayerHandElem.appendChild(newCardElem);
                     }
                 });
+                
+                // Agregar cartas seleccionadas a la cola de traducción
+                if (currentLang !== 'es') {
+                    const selectedCards = orderedCardElements.map(el => el.cardData);
+                    addCardsToTranslationQueue(selectedCards, currentLang);
+                }
             }
         }
     } else {
@@ -916,6 +974,7 @@ function displaySubmittedCards() {
     playedCardsSlots.innerHTML = '';
     
     const playerIds = shuffleDeck(Object.keys(submittedCards));
+    const allCards = []; // Recopilar todas las cartas para traducir
 
     playerIds.forEach(playerId => {
         const cardSet = submittedCards[playerId];
@@ -931,6 +990,9 @@ function displaySubmittedCards() {
             container.innerHTML = `<span>${cardCountText}</span>`;
             // Guardar los datos para revelarlos después
             container.onclick = () => flipCardSet(container, parseInt(playerId), cardSet);
+            
+            // Agregar cartas a la cola para traducir
+            allCards.push(...cardSet);
         } else {
             // Lógica anterior (para fin de ronda, si es necesario)
             cardSet.forEach(cardData => {
@@ -940,9 +1002,15 @@ function displaySubmittedCards() {
                 cardElement.dataset.playerId = playerId; 
                 container.appendChild(cardElement);
             });
+            allCards.push(...cardSet);
         }
         playedCardsSlots.appendChild(container);
     });
+    
+    // Agregar todas las cartas jugadas a la cola de traducción
+    if (currentLang !== 'es' && allCards.length > 0) {
+        addCardsToTranslationQueue(allCards, currentLang);
+    }
 }
 
 function renderReorderView() {
