@@ -518,7 +518,7 @@ function startNewRound() {
 }
 
 // ---------- Traducción automática de cartas ----------
-const TRANSLATE_API_URL = 'https://libretranslate.de/translate'; // cambiar si usas otro servicio
+const TRANSLATE_API_URL = 'https://api.mymemory.translated.net/get'; // MyMemory - Sin CORS issues
 let translationQueue = {}; // { 'pt': [...cartas], 'en': [...cartas] }
 let isTranslatingPt = false; // Bandera para portugués
 let isTranslatingEn = false; // Bandera para inglés
@@ -526,17 +526,31 @@ let isTranslatingEn = false; // Bandera para inglés
 async function translateText(text, source = 'es', target = 'pt') {
     if (!text) return text;
     try {
-        const res = await fetch(TRANSLATE_API_URL, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ q: text, source, target, format: 'text' })
+        // Mapeo de códigos de idioma para MyMemory
+        const langMap = { 'pt': 'pt-PT', 'en': 'en-US' };
+        const targetLang = langMap[target] || target;
+        
+        const params = new URLSearchParams({
+            q: text,
+            langpair: `${source}|${targetLang}`
         });
+        
+        const res = await fetch(`${TRANSLATE_API_URL}?${params.toString()}`);
+        
         if (!res.ok) {
-            console.error('Error en traducción:', res.status, await res.text());
+            console.error('Error en traducción:', res.status);
             return text;
         }
+        
         const json = await res.json();
-        return json.translatedText || text;
+        
+        // MyMemory devuelve: { responseStatus: 200, responseData: { translatedText: "..." } }
+        if (json.responseStatus === 200 && json.responseData.translatedText) {
+            return json.responseData.translatedText;
+        }
+        
+        console.warn('Respuesta inesperada de MyMemory:', json);
+        return text;
     } catch (e) {
         console.error('Excepción traduciendo texto:', e);
         return text;
