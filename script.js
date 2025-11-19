@@ -592,6 +592,7 @@ function advanceTurn() {
     confirmPlayBtn.classList.add('hidden');
     confirmOrderBtn.classList.add('hidden');
     confirmationButtonsDiv.classList.add('hidden');
+    handRevealed = false; // Resetear para mostrar cartas ocultas al siguiente jugador
 
     let playingPlayerIndexes = players.map(p => p.id).filter(id => id !== currentReaderIndex);
     currentPlayerIndex++;
@@ -846,7 +847,9 @@ function renderAllHands() {
         activePlayerHandElem.classList.remove('hidden');
         const player = players[currentTurnPlayer];
         if (player && Array.isArray(player.hand)) {
-            if (!handRevealed) {
+            // En estado 'playing', siempre mostrar cartas ocultas hasta que se presione el botón
+            // En estado 'reordering', mostrar cartas seleccionadas si handRevealed es true
+            if (gameState === 'playing' && !handRevealed) {
                 // Mostrar cartas ocultas
                 for (let i = 0; i < player.hand.length; i++) {
                     const cardBack = document.createElement('div');
@@ -855,7 +858,8 @@ function renderAllHands() {
                     activePlayerHandElem.appendChild(cardBack);
                 }
                 createRevealHandButton();
-            } else {
+            } else if (gameState === 'playing' && handRevealed) {
+                // Mostrar todas las cartas de la mano
                 player.hand.forEach(cardData => {
                     if (cardData && typeof cardData === 'object') {
                         const cardElement = createWhiteCardElement(cardData, player.id);
@@ -863,6 +867,15 @@ function renderAllHands() {
                     }
                 });
                 if (revealHandBtn) revealHandBtn.classList.add('hidden');
+            } else if (gameState === 'reordering' && handRevealed) {
+                // En reordering, mostrar solo las cartas seleccionadas
+                orderedCardElements.forEach(cardElem => {
+                    if (cardElem && cardElem.cardData) {
+                        const newCardElem = createWhiteCardElement(cardElem.cardData, player.id);
+                        newCardElem.classList.add('selected');
+                        activePlayerHandElem.appendChild(newCardElem);
+                    }
+                });
             }
         }
     } else {
