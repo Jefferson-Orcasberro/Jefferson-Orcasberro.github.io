@@ -522,20 +522,38 @@ const TRANSLATE_API_URL = 'https://api.mymemory.translated.net/get'; // MyMemory
 let translationQueue = {}; // { 'pt': [...cartas], 'en': [...cartas] }
 let isTranslatingPt = false; // Bandera para portugués
 let isTranslatingEn = false; // Bandera para inglés
+let translationCache = {}; // Cache de traducciones: { 'es|pt|texto': 'traducción' }
 
 async function translateText(text, source = 'es', target = 'pt') {
     if (!text) return text;
+    
+    // Limpiar el texto de caracteres especiales (guiones bajos que son placeholders)
+    const textToTranslate = text.replace(/_+/g, '').trim();
+    if (!textToTranslate) return text; // Si solo tenía guiones, devolver original
+    
+    // Verificar cache
+    const cacheKey = `${source}|${target}|${textToTranslate}`;
+    if (translationCache[cacheKey]) {
+        return translationCache[cacheKey];
+    }
+    
     try {
         // Mapeo de códigos de idioma para MyMemory
         const langMap = { 'pt': 'pt-PT', 'en': 'en-US' };
         const targetLang = langMap[target] || target;
         
         const params = new URLSearchParams({
-            q: text,
+            q: textToTranslate,
             langpair: `${source}|${targetLang}`
         });
         
         const res = await fetch(`${TRANSLATE_API_URL}?${params.toString()}`);
+        
+        if (res.status === 429) {
+            console.warn('Rate limit alcanzado, esperando...');
+            await new Promise(r => setTimeout(r, 2000)); // Esperar 2 segundos
+            return text; // Devolver original
+        }
         
         if (!res.ok) {
             console.error('Error en traducción:', res.status);
@@ -546,7 +564,9 @@ async function translateText(text, source = 'es', target = 'pt') {
         
         // MyMemory devuelve: { responseStatus: 200, responseData: { translatedText: "..." } }
         if (json.responseStatus === 200 && json.responseData.translatedText) {
-            return json.responseData.translatedText;
+            const translated = json.responseData.translatedText;
+            translationCache[cacheKey] = translated; // Cachear
+            return translated;
         }
         
         console.warn('Respuesta inesperada de MyMemory:', json);
@@ -566,8 +586,8 @@ async function translateCardsList(list, sourceKey = 'es', targetKey = 'pt') {
         if (!original) continue;
         // traducir y guardar
         item[targetKey] = await translateText(original, 'es', targetKey);
-        // pequeña pausa para evitar rate limits agresivos (opcional)
-        await new Promise(r => setTimeout(r, 120));
+        // Pausa para respetar rate limits de MyMemory
+        await new Promise(r => setTimeout(r, 400));
     }
 }
 
@@ -956,7 +976,7 @@ async function translateCardsBeforeDisplay(cards, targetLang) {
     for (const card of cards) {
         if (card && !card[targetLang]) {
             await translateCard(card, targetLang);
-            await new Promise(r => setTimeout(r, 50)); // Pausa mínima
+            await new Promise(r => setTimeout(r, 300)); // 300ms entre cada carta para evitar rate limit
         }
     }
 }
