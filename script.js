@@ -802,21 +802,25 @@ function renderBlackCard() {
  * Crea el botón de revelar mano
  */
 function createRevealHandButton() {
-    if (!confirmationButtonsDiv) return;
-    if (!revealHandBtn) {
-        revealHandBtn = document.createElement('button');
-        revealHandBtn.id = 'reveal-hand-btn';
-        revealHandBtn.innerText = 'Revelar Mano';
-        revealHandBtn.onclick = () => {
-            handRevealed = true;
-            renderAllHands();
-            revealHandBtn.classList.add('hidden');
-        };
-        confirmationButtonsDiv.insertBefore(revealHandBtn, confirmationButtonsDiv.firstChild);
+    // Buscar si ya existe el botón en la mano
+    let existingBtn = document.getElementById('reveal-hand-btn');
+    if (existingBtn) {
+        existingBtn.remove();
     }
-    handRevealed = false;
+    
+    // Crear nuevo botón
+    revealHandBtn = document.createElement('button');
+    revealHandBtn.id = 'reveal-hand-btn';
+    revealHandBtn.innerText = (currentLang === 'pt') ? 'Revelar Mão' : (currentLang === 'en') ? 'Reveal Hand' : 'Revelar Mano';
+    revealHandBtn.onclick = () => {
+        handRevealed = true;
+        renderAllHands();
+    };
+    
+    // Insertar botón después del contenedor de mano
+    activePlayerHandElem.insertAdjacentElement('afterend', revealHandBtn);
     revealHandBtn.classList.remove('hidden');
-}
+  }
 
 /**
  * Muestra la mano del jugador activo, u oculta el contenedor si no es el turno de un jugador.
@@ -826,6 +830,13 @@ function renderAllHands() {
 
     // Limpiar la mano
     activePlayerHandElem.innerHTML = '';
+    
+    // Remover botón anterior si existe
+    let existingBtn = document.getElementById('reveal-hand-btn');
+    if (existingBtn) {
+        existingBtn.remove();
+        revealHandBtn = null;
+    }
     
     // Comprobar si un jugador está jugando (no el lector, no juzgando)
     const isPlayerTurn = (gameState === 'playing' || gameState === 'reordering') && currentTurnPlayer !== -1;
@@ -1061,6 +1072,11 @@ function updateLanguage() {
     document.getElementById('volume-label').innerText = texts.volumeLabel;
     document.getElementById('music-label').innerText = texts.musicLabel;
     document.getElementById('lang-label').innerText = texts.langLabel;
+    
+    // Traducir botón "Revelar Mano"
+    if(revealHandBtn) {
+        revealHandBtn.innerText = (currentLang === 'pt') ? "Revelar Mão" : (currentLang === 'en') ? "Reveal Hand" : "Revelar Mano";
+    }
     
     // NUEVO: Botones del lector (aunque no estén en uiTexts, los traducimos aquí)
     if(currentLang === 'pt') {
