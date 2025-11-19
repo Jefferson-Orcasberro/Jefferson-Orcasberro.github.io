@@ -271,6 +271,10 @@ let confirmationButtonsDiv, confirmPlayBtn, confirmOrderBtn;
 let readerConfirmationButtons, confirmWinnerBtn, changeChoiceBtn; // NUEVOS
 let gameOverModal, winnerAnnouncement, finalScoresList, restartGameBtn;
 
+// Variables para revelar mano
+let revealHandBtn;
+let handRevealed = false;
+
 // Ajustes
 let volumeControl, langSelect, musicSelect;
 let musicTracks = {};
@@ -482,6 +486,7 @@ function startNewRound() {
     selectedCardsData = [];
     orderedCardElements = [];
     potentialWinnerId = -1;
+    handRevealed = false;
 
     // Limpiar UI
     playedCardsSlots.innerHTML = '';
@@ -792,6 +797,26 @@ function renderBlackCard() {
 }
 
 /**
+ * Crea el botón de revelar mano
+ */
+function createRevealHandButton() {
+    if (!confirmationButtonsDiv) return;
+    if (!revealHandBtn) {
+        revealHandBtn = document.createElement('button');
+        revealHandBtn.id = 'reveal-hand-btn';
+        revealHandBtn.innerText = 'Revelar Mano';
+        revealHandBtn.onclick = () => {
+            handRevealed = true;
+            renderAllHands();
+            revealHandBtn.classList.add('hidden');
+        };
+        confirmationButtonsDiv.insertBefore(revealHandBtn, confirmationButtonsDiv.firstChild);
+    }
+    handRevealed = false;
+    revealHandBtn.classList.remove('hidden');
+}
+
+/**
  * Muestra la mano del jugador activo, u oculta el contenedor si no es el turno de un jugador.
  */
 function renderAllHands() {
@@ -806,24 +831,34 @@ function renderAllHands() {
     if (isPlayerTurn) {
         // Mostrar el contenedor de la mano
         activePlayerHandElem.classList.remove('hidden');
-
-        // Obtener el jugador actual y renderizar su mano
         const player = players[currentTurnPlayer];
         if (player && Array.isArray(player.hand)) {
-            player.hand.forEach(cardData => {
-                if (cardData && typeof cardData === 'object') {
-                    const cardElement = createWhiteCardElement(cardData, player.id);
-                    activePlayerHandElem.appendChild(cardElement);
+            if (!handRevealed) {
+                // Mostrar cartas ocultas
+                for (let i = 0; i < player.hand.length; i++) {
+                    const cardBack = document.createElement('div');
+                    cardBack.className = 'card white-card disabled';
+                    cardBack.innerHTML = '<span style="font-size:1.2em;">?</span>';
+                    activePlayerHandElem.appendChild(cardBack);
                 }
-            });
+                createRevealHandButton();
+            } else {
+                player.hand.forEach(cardData => {
+                    if (cardData && typeof cardData === 'object') {
+                        const cardElement = createWhiteCardElement(cardData, player.id);
+                        activePlayerHandElem.appendChild(cardElement);
+                    }
+                });
+                if (revealHandBtn) revealHandBtn.classList.add('hidden');
+            }
         }
     } else {
         // Ocultar el contenedor si no es el turno de un jugador
         activePlayerHandElem.classList.add('hidden');
+        if (revealHandBtn) revealHandBtn.classList.add('hidden');
+        handRevealed = false;
     }
-    
-    // Mostrar/ocultar botones de confirmación
-    const showConfirm = isPlayerTurn;
+    const showConfirm = isPlayerTurn && handRevealed;
     confirmationButtonsDiv.classList.toggle('hidden', !showConfirm);
     if(gameState !== 'playing') confirmPlayBtn.classList.add('hidden');
     if(gameState !== 'reordering') confirmOrderBtn.classList.add('hidden');

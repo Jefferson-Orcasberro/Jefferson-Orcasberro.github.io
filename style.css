@@ -487,6 +487,17 @@ button:disabled {
     box-shadow: 0 0 15px var(--color-reorder);
 }
 
+#reveal-hand-btn {
+    background-color: #FF6B35;
+    border-color: #FF6B35;
+    color: var(--color-bg-darkest);
+    font-weight: bold;
+}
+#reveal-hand-btn:hover {
+    background-color: #FF8555;
+    box-shadow: 0 0 15px #FF6B35;
+}
+
 
 /* =================================================================
    --- MODALES (SETUP Y AJUSTES) ---
