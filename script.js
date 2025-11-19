@@ -101,7 +101,7 @@ const blackCardsData = [
 ];
 
 const whiteCardsData = [
-    { es: "Eloy" }, { es: "Cuidado con el siguiente jugador! (gestos exagerados)" }, { es: "Callate!" }, { es: "Johnny Depp" }, { es: "El pene de Henry Cavil" }, { es: "Una patada bien acomodada en los testiculos" },
+    { es: "Eloy" }, {es: "Katy"}, { es: "Trish" }, { es: "Jeffo" }, { es: "Cuidado con el siguiente jugador! (gestos exagerados)" }, { es: "Callate!" }, { es: "Johnny Depp" }, { es: "El pene de Henry Cavil" }, { es: "Una patada bien acomodada en los testiculos" },
     { es: "La masturbación en grupo" }, { es: "El pene de Henry Cavill" }, { es: "Un trío con dos mujeres" }, { es: "Una orgía en un geriátrico" },
     { es: "Un trío con dos hombres" }, { es: "Un trío (pero tu solo estas mirando)" }, { es: "Sexo anal sin lubricante" }, { es: "Crucificción" },
     { es: "La masturbación" }, { es: "Lluvia dorada" }, { es: "Un orgasmo falso" }, { es: "Emma Watson" }, { es: "Un pene gigante" }, { es: "Un negro muy sexy" },
@@ -142,7 +142,7 @@ const whiteCardsData = [
     { es: "La ansiedad." }, { es: "Niños de africa" }, { es: "Necro-zoofilia" }, { es: "Problemitas con papá" }, { es: "Silencio" }, { es: "Las milipilis" },
     { es: "Masculinidad frájil" }, { es: "Sexo sucio y salvaje" }, { es: "Sexo oral no reciproco" }, { es: "Un billete de 3 dolares" },
     { es: "Los fachas" }, { es: "La violacion de todos los derechos humanos" }, { es: "Vladimir Putin" }, { es: "Hitler" }, { es: "Lacalle" },
-    { es: "72 virgenes" }, { es: "Trish" }, { es: "Jeffo" }, { es: "Insesto" }, { es: "Gordofobia" }, { es: "Gordo panceta" }, { es: "Desayunar con el presidente"},
+    { es: "72 virgenes" }, { es: "Insesto" }, { es: "Gordofobia" }, { es: "Gordo panceta" }, { es: "Desayunar con el presidente"},
     { es: "Anorexia" }, { es: "Un zopapo" }, { es: "Pedofilos" }, { es: "Monstruar" }, { es: "Mujeres" }, { es: "3cm" }, { es: "Cagarse en la sopa"},
     { es: "Fascismo" }, { es: "Tu mamá" }, { es: "Racismo" }, { es: "Bidon de tuco" }, { es: "Un burro volador" }, { es: "Represión" },
     { es: "Pizza con piña" }, { es: "La economía" }, { es: "El sentido de la vida" }, { es: "Un político honesto" }, { es: "Transporte de fluidos" },
