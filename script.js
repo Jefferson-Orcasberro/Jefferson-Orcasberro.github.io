@@ -519,8 +519,9 @@ function startNewRound() {
 
 // ---------- Traducción automática de cartas ----------
 const TRANSLATE_API_URL = 'https://libretranslate.de/translate'; // cambiar si usas otro servicio
-let translationQueue = []; // Cola de cartas a traducir
-let isTranslating = false; // Bandera para evitar múltiples traduciones simultáneas
+let translationQueue = {}; // { 'pt': [...cartas], 'en': [...cartas] }
+let isTranslatingPt = false; // Bandera para portugués
+let isTranslatingEn = false; // Bandera para inglés
 
 async function translateText(text, source = 'es', target = 'pt') {
     if (!text) return text;
@@ -562,30 +563,50 @@ async function translateCard(cardObj, targetLang) {
     cardObj[targetLang] = await translateText(cardObj.es, 'es', targetLang);
 }
 
-// Procesar cola de traducción en background
+// Procesar cola de traducción en background para un idioma específico
 async function processTranslationQueue(targetLang) {
-    if (isTranslating || translationQueue.length === 0) return;
-    isTranslating = true;
+    if (!translationQueue[targetLang] || translationQueue[targetLang].length === 0) {
+        return;
+    }
     
-    while (translationQueue.length > 0) {
-        const card = translationQueue.shift();
+    const isTranslatingKey = targetLang === 'pt' ? 'isTranslatingPt' : 'isTranslatingEn';
+    
+    if (window[isTranslatingKey]) {
+        return; // Ya hay una traducción en progreso
+    }
+    
+    window[isTranslatingKey] = true;
+    console.log(`Iniciando traducción de ${translationQueue[targetLang].length} cartas a ${targetLang}`);
+    
+    while (translationQueue[targetLang] && translationQueue[targetLang].length > 0) {
+        const card = translationQueue[targetLang].shift();
         if (card && !card[targetLang]) {
             await translateCard(card, targetLang);
             await new Promise(r => setTimeout(r, 100)); // Pequeña pausa
         }
     }
-    isTranslating = false;
+    
+    window[isTranslatingKey] = false;
+    console.log(`Traducción de ${targetLang} completada`);
 }
 
 // Agregar cartas a la cola de traducción
 function addCardsToTranslationQueue(cards, targetLang) {
     if (!['pt', 'en'].includes(targetLang)) return;
+    if (!Array.isArray(cards)) cards = [cards];
+    
+    // Inicializar cola si no existe
+    if (!translationQueue[targetLang]) {
+        translationQueue[targetLang] = [];
+    }
     
     cards.forEach(card => {
-        if (card && !card[targetLang] && !translationQueue.includes(card)) {
-            translationQueue.push(card);
+        if (card && !card[targetLang] && !translationQueue[targetLang].includes(card)) {
+            translationQueue[targetLang].push(card);
         }
     });
+    
+    console.log(`Cartas en cola para ${targetLang}:`, translationQueue[targetLang].length);
     
     // Iniciar procesamiento en background
     processTranslationQueue(targetLang).catch(e => console.error('Error en traducción de cartas:', e));
@@ -593,7 +614,7 @@ function addCardsToTranslationQueue(cards, targetLang) {
 
 async function translateAllCards(targetLang) {
     if (!['pt', 'en'].includes(targetLang)) return; // PT (Portugues) y EN (Ingles)
-    console.log('Iniciando traducción de cartas a', targetLang);
+    console.log('Iniciando traducción completa de cartas a', targetLang);
     if (gameMessageElem) gameMessageElem.innerText = 'Traduciendo cartas...';
 
     await Promise.all([
