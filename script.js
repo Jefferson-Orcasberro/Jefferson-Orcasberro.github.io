@@ -164,7 +164,7 @@ const whiteCardsData = [
     { es: "El algoritmo" }, { es: "Los Illuminati" }, { es: "El patriarcado" }, { es: "Una Karen" }, { es: "El Ayuwoki" },
     { es: "Un bebé feo" }, { es: "Mi yo de 15 años" }, { es: "El tío borracho de la fiesta" }, { es: "Spam telefónico" },
     { es: "Una secta" }, { es: "Decir 'provecho' en el baño" }, { es: "El metaverso" }, { es: "Un NFT de un mono" }, { es: "BATMAN!!" }, { es: "Un unicornio rosa" },
-    { es: "El ano de Batman" }, { es: "Nicolas Cage" }, { es: "Un velociraptor vestido de cura" }, { es: "Hacer caca en el trabajo" },
+    { es: "El ano de Batman" }, { es: "Nicolas Cage" }, { es: "Un velocirraptor vestido de cura" }, { es: "Hacer caca en el trabajo" },
     { es: "Un vegano que come carne a escondidas" }, { es: "El olor a humedad" }, { es: "Poner los cuernos" }, { es: "Un gato con sobrepeso" },
     { es: "Un político 'no' corrupto" }, { es: "Un reality show de sobrevivencia en la oficina" }, { es: "El sonido de las uñas en la pizarra" },
     { es: "Un final decepcionante (como el de GOT)" }, { es: "Usar medias con sandalias" }, { es: "El jugo de pepinillos" },
