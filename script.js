@@ -62,7 +62,7 @@ const blackCardsData = [
     { es: "En mi funeral, quiero que pongan _.", pick: 1 }, { es: "Descubrí que mi compañero de trabajo es secretamente _.", pick: 1 },
     { es: "La peor parte de ser adulto es _.", pick: 1 }, { es: "La nueva ley prohíbe _ en público.", pick: 1 }, { es: "_ es la cura para el covid.", pick: 1 },
     { es: "Mi tatuaje secreto dice ' _ '.", pick: 1 }, { es: "¿Qué le regalé a mi suegra por error? _.", pick: 1 },
-    { es: "El 2020 fue malo, pero al menos no tivemos _.", pick: 1 }, { es: "Mi sabor de helado favorito es _.", pick: 1 }, { es: "El nuevo villano Argentino de Marvel es _.", pick: 1 },
+    { es: "El 2020 fue malo, pero al menos no tuvimos _.", pick: 1 }, { es: "Mi sabor de helado favorito es _.", pick: 1 }, { es: "El nuevo villano Argentino de Marvel es _.", pick: 1 },
     { es: "La nueva canción del verano se llama ' _ '.", pick: 1 }, { es: "La cura para la resaca es _.", pick: 1 }, { es: "El nuevo superhéroe uruguayo de Marvel se llama '_'.", pick: 1 },
     { es: "El área 51 realmente esconde _.", pick: 1 }, { es: "Mi historial de búsqueda me delató por buscar _.", pick: 1 },
     { es: "La nueva fragancia de Calvin Klein huele a _.", pick: 1 }, { es: "_, los niños lo probaron, las madres lo aprobaron.", pick: 1 },
