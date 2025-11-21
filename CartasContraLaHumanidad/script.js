@@ -258,6 +258,7 @@ let pNameInputs = []; // Array de <input> para los nombres
 
 // General
 let appContainer, settingsModal, closeSettingsBtn, endBtn, settingsBtn;
+let setupSettingsBtn, globalBackBtn; // NUEVOS botones
 
 // Marcadores y Manos (Arrays)
 let scoreBoards = [];
@@ -292,11 +293,13 @@ document.addEventListener('DOMContentLoaded', () => {
     playerCountSelect = document.getElementById('player-count');
     nicknameContainer = document.getElementById('nickname-inputs-container');
     startSetupBtn = document.getElementById('start-setup-btn');
+    setupSettingsBtn = document.getElementById('setup-settings-btn'); // NUEVO
 
     // General
     appContainer = document.getElementById('app-container');
     settingsModal = document.getElementById('settings-modal');
     closeSettingsBtn = document.querySelector('#settings-modal .close-btn');
+    globalBackBtn = document.getElementById('global-back-btn'); // NUEVO
     endBtn = document.getElementById('end-btn');
     settingsBtn = document.getElementById('settings-btn');
     
@@ -345,11 +348,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // Setup
     playerCountSelect.addEventListener('change', updateNicknameInputs);
     startSetupBtn.addEventListener('click', setupGame);
+    setupSettingsBtn.addEventListener('click', () => { settingsModal.style.display = 'block'; }); // NUEVO
 
     // General
     endBtn.addEventListener('click', triggerGameOver);
     settingsBtn.addEventListener('click', () => { settingsModal.style.display = 'block'; });
     closeSettingsBtn.addEventListener('click', () => { settingsModal.style.display = 'none'; });
+    globalBackBtn.addEventListener('click', () => { window.location.href = '../index.html'; }); // NUEVO
     window.addEventListener('click', (event) => {
         if (event.target === settingsModal) {
             settingsModal.style.display = 'none';

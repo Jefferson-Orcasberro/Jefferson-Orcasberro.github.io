@@ -524,6 +524,11 @@ button:disabled {
     backdrop-filter: blur(5px);
 }
 
+/* Modal global que aparece sin importar la pantalla */
+.modal-global {
+    z-index: 2000 !important;
+}
+
 .modal-content {
     background-color: var(--color-bg-modal);
     margin: 10% auto;
@@ -787,4 +792,33 @@ button:disabled {
         width: 100%;
         flex-basis: auto;
     }
+}
+
+/* Estilos para botones de settings y menú */
+#setup-settings-btn {
+    background-color: #4A90E2;
+    border-color: #4A90E2;
+    margin-top: 15px;
+}
+
+#setup-settings-btn:hover {
+    background-color: #357ABD;
+    box-shadow: 0 0 15px #4A90E2;
+}
+
+/* Botón flotante global para volver al menú */
+.global-back-btn {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 1000;
+    background-color: #E74C3C;
+    border-color: #E74C3C;
+    padding: 10px 16px;
+    font-size: 0.95rem;
+}
+
+.global-back-btn:hover {
+    background-color: #C0392B;
+    box-shadow: 0 0 15px #E74C3C;
 }

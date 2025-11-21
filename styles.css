@@ -1,0 +1,81 @@
+/* Estilos Generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7f6; /* Fondo suave */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #2c3e50; /* Azul oscuro para la cabecera */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+/* Contenedor de Juegos (Flexbox para disposición) */
+.juegos-container {
+    display: flex;
+    flex-wrap: wrap; /* Permite que las tarjetas se envuelvan en pantallas pequeñas */
+    gap: 30px; /* Espacio entre las tarjetas */
+    padding: 40px;
+    justify-content: center; /* Centra las tarjetas */
+}
+
+/* Estilo de la Tarjeta Individual */
+.juego-card {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 100%; /* Por defecto, ocupa todo el ancho */
+    max-width: 350px; /* Limita el ancho para escritorios */
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.juego-card:hover {
+    transform: translateY(-5px); /* Pequeño efecto al pasar el mouse */
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+}
+
+.juego-card h2 {
+    color: #e74c3c; /* Rojo para el título del juego */
+    margin-top: 0;
+    font-size: 1.8em;
+}
+
+/* Estilo del Botón */
+.boton-jugar {
+    display: inline-block;
+    background-color: #3498db; /* Azul vibrante */
+    color: white;
+    padding: 10px 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+    text-decoration: none; /* Quitar el subrayado del enlace */
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: background-color 0.2s;
+}
+
+.boton-jugar:hover {
+    background-color: #2980b9; /* Azul más oscuro al pasar el mouse */
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #ecf0f1;
+    color: #7f8c8d;
+    border-top: 1px solid #ddd;
+    margin-top: 40px;
+}
