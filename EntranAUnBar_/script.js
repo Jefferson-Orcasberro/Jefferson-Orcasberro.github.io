@@ -276,7 +276,6 @@ document.addEventListener('DOMContentLoaded', () => {
     function triggerGameEnd() {
         drawButton.disabled = true;
         votingControls.classList.add('hidden');
-        endGameBtn.classList.remove('hidden');
         
         // Crear mensaje de fin de cartas
         resultMessage.classList.remove('hidden');
