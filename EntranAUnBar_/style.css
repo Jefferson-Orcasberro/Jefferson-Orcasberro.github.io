@@ -1,0 +1,585 @@
+/* ======================================= */
+/* 1. ESTILOS BASE Y RESPONSIVIDAD GENERAL */
+/* ======================================= */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #222; 
+    color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    text-align: center;
+    background-color: #333;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    width: 100%;
+    max-width: 1200px;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 25px;
+}
+
+h1 {
+    color: #ff4500; 
+    margin-bottom: 30px;
+    font-size: 1.8em;
+}
+
+/* UTILIDAD */
+.hidden {
+    display: none;
+}
+
+.error-text {
+    color: #ff4500;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* ======================================= */
+/* 1.5. ESTILOS DE CONFIGURACIONES */
+/* ======================================= */
+
+.settings-btn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #8a2be2;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 1em;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 5px #6a1ba3;
+    transition: background-color 0.2s, transform 0.1s;
+    z-index: 100;
+}
+
+.settings-btn:hover {
+    background-color: #6a1ba3;
+}
+
+.settings-btn:active {
+    box-shadow: 0 2px #6a1ba3;
+    transform: translateY(3px);
+}
+
+/* Modal de Configuraciones */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    backdrop-filter: blur(3px);
+}
+
+.modal.hidden {
+    display: none;
+}
+
+.modal-content {
+    background-color: #333;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 5px 30px rgba(0, 0, 0, 0.5);
+    max-width: 400px;
+    width: 90%;
+    color: #f4f4f4;
+    position: relative;
+}
+
+.settings-content h2 {
+    color: #ffd700;
+    margin-top: 0;
+    margin-bottom: 25px;
+    font-size: 1.5em;
+}
+
+.close-modal-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 2em;
+    color: #ff4500;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.close-modal-btn:hover {
+    color: #ffd700;
+}
+
+.setting-item {
+    margin-bottom: 25px;
+    text-align: left;
+}
+
+.setting-item label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #ffd700;
+    font-size: 0.95em;
+}
+
+.volume-control {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.volume-control input[type="range"] {
+    flex: 1;
+    height: 6px;
+    border-radius: 3px;
+    background: #555;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.volume-control input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #8a2be2;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.volume-control input[type="range"]::-webkit-slider-thumb:hover {
+    background: #6a1ba3;
+}
+
+.volume-control input[type="range"]::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #8a2be2;
+    cursor: pointer;
+    border: none;
+    transition: background 0.2s;
+}
+
+.volume-control input[type="range"]::-moz-range-thumb:hover {
+    background: #6a1ba3;
+}
+
+#volume-value {
+    min-width: 45px;
+    text-align: right;
+    color: #ffd700;
+    font-weight: bold;
+}
+
+#music-select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #8a2be2;
+    background-color: #444;
+    color: #fff;
+    font-size: 0.95em;
+    cursor: pointer;
+}
+
+#music-select option {
+    background-color: #333;
+    color: #fff;
+}
+
+/* ======================================= */
+/* 2. ESTILOS DE CONFIGURACIÓN Y NOMBRES */
+/* ======================================= */
+
+#player-selection h2 {
+    color: #f7e074; 
+}
+
+/* Input de cantidad de jugadores */
+#player-count-input {
+    padding: 12px;
+    margin: 15px 0;
+    width: 120px;
+    text-align: center;
+    font-size: 1.1em;
+    border-radius: 5px;
+    border: 2px solid #8a2be2;
+    background-color: #444;
+    color: #fff;
+}
+
+/* Contenedor de Inputs de Nombre */
+#name-inputs {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#name-inputs input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ff4500;
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 0.95em;
+}
+
+/* Botones de Acción (Establecer Cantidad, Iniciar Debate) */
+#set-count-button, #start-button {
+    background-color: #4CAF50; 
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 5px #388e3c;
+    transition: background-color 0.1s, transform 0.1s;
+    margin-top: 10px;
+    width: auto;
+}
+
+#start-button {
+    margin-top: 20px;
+}
+
+#start-button:active {
+    background-color: #388e3c;
+    box-shadow: 0 2px #388e3c;
+    transform: translateY(3px);
+}
+
+/* ======================================= */
+/* 2.5. ESTILOS DE PUNTUACIÓN */
+/* ======================================= */
+
+#score-display {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.score-section {
+    margin-bottom: 20px;
+}
+
+.score-section:last-child {
+    margin-bottom: 0;
+}
+
+.score-section h3 {
+    color: #ffd700;
+    margin-top: 0;
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+.team-scores {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+}
+
+.team-score {
+    background-color: #555;
+    padding: 15px;
+    border-radius: 8px;
+    border: 2px solid;
+}
+
+.team-score p {
+    margin: 5px 0;
+    font-weight: bold;
+    font-size: 0.95em;
+}
+
+.team-score .score-value {
+    font-size: 2.5em;
+    color: #ffd700;
+    margin: 10px 0 0 0;
+}
+
+.hitler-team {
+    border-color: #8b0000;
+}
+
+.hitler-team .score-value {
+    color: #ff6b6b;
+}
+
+.ghandi-team {
+    border-color: #3cb371;
+}
+
+.ghandi-team .score-value {
+    color: #52b788;
+}
+
+.individual-scores {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 12px;
+}
+
+.individual-score-item {
+    background-color: #555;
+    padding: 12px;
+    border-radius: 6px;
+    border-left: 4px solid #ffd700;
+    font-size: 0.9em;
+}
+
+.individual-score-item .player-name {
+    font-weight: bold;
+    color: #f4f4f4;
+}
+
+.individual-score-item .player-points {
+    color: #ffd700;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+/* ======================================= */
+/* 3. ESTILOS DE ROLES Y RONDA */
+/* ======================================= */
+
+#role-display {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #444;
+    border-radius: 10px;
+}
+
+#current-round {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #ffd700; 
+    margin-bottom: 15px;
+}
+
+/* Contenedor de Roles con mejor distribución */
+.roles-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    text-align: left;
+}
+
+.role-box {
+    padding: 15px;
+    border-radius: 8px;
+    word-wrap: break-word;
+    font-size: 0.95em;
+    border: 2px solid;
+}
+
+.dios {
+    background-color: #ffd70030; 
+    border-color: #ffd700;
+}
+
+.hitler {
+    background-color: #8b000030; 
+    border-color: #8b0000;
+}
+
+.ghandi {
+    background-color: #3cb37130; 
+    border-color: #3cb371;
+}
+
+/* ======================================= */
+/* 4. ESTILOS DE LA CARTA Y BOTONES */
+/* ======================================= */
+
+.card {
+    background-color: #f7e074; 
+    color: #333;
+    padding: 30px;
+    border-radius: 10px;
+    min-height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 0 0 #ff4500, 10px 10px 0 0 #ffdab9; 
+    border: 3px solid #ff4500;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-type {
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    color: #8b0000; 
+}
+
+.card-content {
+    font-size: 1.4em;
+    text-align: center;
+    line-height: 1.5;
+    font-style: italic;
+}
+
+/* Botón de Sacar Carta */
+#draw-button {
+    background-color: #8a2be2; 
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 5px #6a1ba3;
+    transition: background-color 0.1s, transform 0.1s;
+    width: auto;
+}
+
+#draw-button:active {
+    background-color: #6a1ba3;
+    box-shadow: 0 2px #6a1ba3;
+    transform: translateY(3px);
+}
+
+#draw-button[disabled] {
+    opacity: 0.5;
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
+
+/* Controles de Votación */
+#voting-controls {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #444;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+    align-items: center;
+}
+
+#voting-controls h3 {
+    color: #ffd700;
+    margin: 0 0 10px 0;
+    grid-column: 1 / -1;
+    font-size: 1.1em;
+}
+
+.vote-button {
+    border: none;
+    padding: 12px 15px;
+    font-size: 0.95em;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: transform 0.1s;
+    min-height: 45px;
+}
+
+.hitler-vote {
+    background-color: #8b0000; 
+    color: white;
+}
+
+.ghandi-vote {
+    background-color: #3cb371; 
+    color: white;
+}
+
+.vote-button:active {
+    transform: translateY(2px);
+}
+
+.vote-button[disabled] {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+}
+
+/* ======================================= */
+/* 5. PANTALLAS PEQUEÑAS (MÓVILES) */
+/* ======================================= */
+
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+        gap: 15px;
+    }
+    
+    h1 {
+        font-size: 1.4em;
+        margin-bottom: 15px;
+    }
+
+    /* Inputs de nombres: Una sola columna en móvil */
+    #name-inputs {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .roles-container {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .card-content {
+        font-size: 1.2em;
+    }
+
+    #voting-controls {
+        grid-template-columns: 1fr;
+    }
+
+    #voting-controls h3 {
+        margin-bottom: 0;
+    }
+
+    .team-scores {
+        grid-template-columns: 1fr;
+    }
+
+    .individual-scores {
+        grid-template-columns: 1fr;
+    }
+}

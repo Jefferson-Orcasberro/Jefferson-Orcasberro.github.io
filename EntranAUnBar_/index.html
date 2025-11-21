@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dios, Hitler y Ghandi entran a un bar...</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🤯 Dios, Hitler y Ghandi entran a un bar... 🤯</h1>
+        
+        <!-- Botón de Configuraciones -->
+        <button id="settings-btn" class="settings-btn" title="Configuraciones">⚙️ Configuraciones</button>
+        
+        <!-- Modal de Configuraciones -->
+        <div id="settings-modal" class="modal hidden">
+            <div class="modal-content settings-content">
+                <button class="close-modal-btn">&times;</button>
+                <h2>⚙️ Configuraciones</h2>
+                
+                <div class="setting-item">
+                    <label for="volume-control">Volumen de Música:</label>
+                    <div class="volume-control">
+                        <input type="range" id="volume-control" min="0" max="100" value="50">
+                        <span id="volume-value">50%</span>
+                    </div>
+                </div>
+                
+                <div class="setting-item">
+                    <label for="music-select">Seleccionar Música:</label>
+                    <select id="music-select">
+                        <option value="none">Sin música</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        
+        <div id="player-selection">
+            <h2>Configuración del Debate</h2>
+            <p>Mínimo 3, Máximo 10 jugadores.</p>
+            <input type="number" id="player-count-input" min="3" max="10" value="3" required>
+            <button id="set-count-button">Establecer Cantidad</button>
+            <p id="error-message" class="error-text"></p>
+
+            <div id="name-inputs" class="hidden">
+                </div>
+
+            <button id="start-button" class="hidden">Iniciar Debate</button>
+        </div>
+
+        <div id="game-container" class="hidden">
+            
+            <div id="score-display">
+                <div class="score-section">
+                    <h3>Puntos de Equipos</h3>
+                    <div class="team-scores">
+                        <div class="team-score hitler-team">
+                            <p>EQUIPO HITLER</p>
+                            <p class="score-value" id="hitler-team-score">0</p>
+                        </div>
+                        <div class="team-score ghandi-team">
+                            <p>EQUIPO GHANDI</p>
+                            <p class="score-value" id="ghandi-team-score">0</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="score-section">
+                    <h3>Puntos Individuales</h3>
+                    <div id="individual-scores" class="individual-scores">
+                        </div>
+                </div>
+            </div>
+
+            <div id="role-display">
+                <p id="current-round">Ronda 1</p>
+                <div class="roles-container">
+                    <div class="role-box dios">
+                        <strong>DIOS (Juez):</strong> <span id="player-dios"></span>
+                    </div>
+                    <div class="role-box hitler">
+                        <strong>EQUIPO HITLER (Ataca):</strong> <span id="player-hitler"></span>
+                    </div>
+                    <div class="role-box ghandi">
+                        <strong>EQUIPO GHANDI (Defiende):</strong> <span id="player-ghandi"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div id="card-display" class="card">
+                <p class="card-type">Debate en Espera</p>
+                <p class="card-content">El Juez (Dios) debe sacar la primera carta.</p>
+            </div>
+            
+            <div id="voting-controls" class="hidden">
+                <h3>El Juez (Dios) decide:</h3>
+                <button id="vote-hitler" class="vote-button hitler-vote">Gana EQUIPO HITLER</button>
+                <button id="vote-ghandi" class="vote-button ghandi-vote">Gana EQUIPO GHANDI</button>
+            </div>
+            
+            <button id="draw-button">Sacar Nueva Carta Polémica</button>
+
+            <p id="result-message" class="error-text hidden"></p>
+        </div>
+    </div>
+
+    <!-- Elemento de Audio para la Música -->
+    <audio id="background-music" loop></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
