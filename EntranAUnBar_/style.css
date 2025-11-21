@@ -74,6 +74,59 @@ h1 {
     transform: translateY(3px);
 }
 
+/* Botón Volver */
+.back-btn {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 1em;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 5px #c0392b;
+    transition: background-color 0.2s, transform 0.1s;
+    z-index: 100;
+}
+
+.back-btn:hover {
+    background-color: #c0392b;
+}
+
+.back-btn:active {
+    box-shadow: 0 2px #c0392b;
+    transform: translateY(3px);
+}
+
+/* Botón Terminar Partida */
+.end-game-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 5px #c0392b;
+    transition: background-color 0.2s, transform 0.1s;
+    margin-top: 15px;
+}
+
+.end-game-btn:hover {
+    background-color: #c0392b;
+}
+
+.end-game-btn:active {
+    box-shadow: 0 2px #c0392b;
+    transform: translateY(3px);
+}
+
+.end-game-btn.hidden {
+    display: none;
+}
+
 /* Modal de Configuraciones */
 .modal {
     position: fixed;
@@ -205,6 +258,155 @@ h1 {
 #music-select option {
     background-color: #333;
     color: #fff;
+}
+
+/* ======================================= */
+/* 6. ESTILOS DEL MODAL DE FIN DE PARTIDA */
+/* ======================================= */
+
+#game-end-modal {
+    z-index: 2000;
+}
+
+.game-end-content {
+    max-width: 500px;
+    animation: slideDown 0.4s ease;
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.game-end-content h2 {
+    color: #ffd700;
+    font-size: 2em;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.final-results {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.winner-section {
+    background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(255, 215, 0, 0.3);
+}
+
+.winner-section h3 {
+    color: #333;
+    margin: 0 0 15px 0;
+    font-size: 1.5em;
+}
+
+.winner-name {
+    color: #8b0000;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.winner-score {
+    color: #333;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.scores-section h3 {
+    color: #ffd700;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
+
+.final-scores-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.final-score-item {
+    background-color: #555;
+    padding: 15px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 4px solid #8a2be2;
+    font-weight: bold;
+    color: #f4f4f4;
+}
+
+.final-score-item span:first-child {
+    font-size: 1.1em;
+}
+
+.score-number {
+    background-color: #8a2be2;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: #ffd700;
+    font-size: 1.2em;
+}
+
+.modal-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.restart-btn, .exit-btn {
+    border: none;
+    padding: 12px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.2s, transform 0.1s;
+    box-shadow: 0 4px #333;
+}
+
+.restart-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.restart-btn:hover {
+    background-color: #388e3c;
+}
+
+.restart-btn:active {
+    box-shadow: 0 2px #388e3c;
+    transform: translateY(2px);
+}
+
+.exit-btn {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.exit-btn:hover {
+    background-color: #c0392b;
+}
+
+.exit-btn:active {
+    box-shadow: 0 2px #c0392b;
+    transform: translateY(2px);
 }
 
 /* ======================================= */
@@ -580,6 +782,29 @@ h1 {
     }
 
     .individual-scores {
+        grid-template-columns: 1fr;
+    }
+
+    /* Botones en móvil */
+    .settings-btn {
+        padding: 10px 15px;
+        font-size: 0.9em;
+    }
+
+    .back-btn {
+        padding: 10px 15px;
+        font-size: 0.9em;
+    }
+
+    .game-end-content {
+        width: 95%;
+    }
+
+    .game-end-content h2 {
+        font-size: 1.5em;
+    }
+
+    .modal-buttons {
         grid-template-columns: 1fr;
     }
 }

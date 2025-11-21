@@ -13,6 +13,9 @@
         <!-- Botón de Configuraciones -->
         <button id="settings-btn" class="settings-btn" title="Configuraciones">⚙️ Configuraciones</button>
         
+        <!-- Botón Volver -->
+        <button id="back-btn" class="back-btn" title="Volver">← Volver</button>
+        
         <!-- Modal de Configuraciones -->
         <div id="settings-modal" class="modal hidden">
             <div class="modal-content settings-content">
@@ -101,6 +104,34 @@
             <button id="draw-button">Sacar Nueva Carta Polémica</button>
 
             <p id="result-message" class="error-text hidden"></p>
+            
+            <button id="end-game-btn" class="end-game-btn hidden">Terminar Partida</button>
+        </div>
+    </div>
+
+    <!-- Modal de Fin de Partida -->
+    <div id="game-end-modal" class="modal hidden">
+        <div class="modal-content game-end-content">
+            <h2 id="game-end-title">Fin de la Partida</h2>
+            
+            <div class="final-results">
+                <div id="winner-section" class="winner-section">
+                    <h3>🏆 GANADOR 🏆</h3>
+                    <p id="winner-name" class="winner-name"></p>
+                    <p id="winner-score" class="winner-score"></p>
+                </div>
+                
+                <div class="scores-section">
+                    <h3>Puntuaciones Finales</h3>
+                    <div id="final-scores-list" class="final-scores-list">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="modal-buttons">
+                <button id="restart-game-btn" class="restart-btn">Jugar de Nuevo</button>
+                <button id="exit-game-btn" class="exit-btn">Salir</button>
+            </div>
         </div>
     </div>
 

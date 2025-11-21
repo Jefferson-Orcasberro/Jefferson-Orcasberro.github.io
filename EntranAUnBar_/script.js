@@ -33,6 +33,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const volumeValue = document.getElementById('volume-value');
     const musicSelect = document.getElementById('music-select');
     const backgroundMusic = document.getElementById('background-music');
+    
+    // Elementos de navegación y control
+    const backBtn = document.getElementById('back-btn');
+    const endGameBtn = document.getElementById('end-game-btn');
+    
+    // Elementos del modal de fin de partida
+    const gameEndModal = document.getElementById('game-end-modal');
+    const gameEndTitle = document.getElementById('game-end-title');
+    const winnerName = document.getElementById('winner-name');
+    const winnerScore = document.getElementById('winner-score');
+    const finalScoresList = document.getElementById('final-scores-list');
+    const restartGameBtn = document.getElementById('restart-game-btn');
+    const exitGameBtn = document.getElementById('exit-game-btn');
 
     // --- DATOS DEL JUEGO ---
     let numberOfPlayers = 0;
@@ -46,6 +59,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Puntuación
     let teamScores = { hitler: 0, ghandi: 0 };
     let playerScores = {}; // { playerName: totalPoints }
+    
+    // Control de cartas
+    let usedCardIndices = []; // Índices de cartas ya usadas
     
     // Música
     const musicPath = '../musicas/';
@@ -237,8 +253,88 @@ document.addEventListener('DOMContentLoaded', () => {
     let cardHasBeenDrawn = false; // Bandera para controlar si se ha sacado una carta
 
     function getRandomCard() {
-        const randomIndex = Math.floor(Math.random() * debateCards.length);
+        // Si ya se usaron todas las cartas, mostrar fin de juego
+        if (usedCardIndices.length === debateCards.length) {
+            triggerGameEnd();
+            return null;
+        }
+        
+        // Obtener índice aleatorio que no esté en usedCardIndices
+        let randomIndex;
+        do {
+            randomIndex = Math.floor(Math.random() * debateCards.length);
+        } while (usedCardIndices.includes(randomIndex));
+        
+        // Marcar como usada
+        usedCardIndices.push(randomIndex);
         return debateCards[randomIndex];
+    }
+
+    /**
+     * Terminar el juego y mostrar resumen final
+     */
+    function triggerGameEnd() {
+        drawButton.disabled = true;
+        votingControls.classList.add('hidden');
+        endGameBtn.classList.remove('hidden');
+        
+        // Crear mensaje de fin de cartas
+        resultMessage.classList.remove('hidden');
+        resultMessage.textContent = '¡Se acabaron las cartas para debatir! El juego ha terminado.';
+        
+        // Calcular ganador y mostrar modal
+        showGameEndModal();
+    }
+
+    /**
+     * Mostrar modal de fin de partida con resultados
+     */
+    function showGameEndModal() {
+        // Encontrar ganador
+        let winners = [];
+        let maxScore = 0;
+        
+        for (let player in playerScores) {
+            const score = playerScores[player];
+            if (score > maxScore) {
+                maxScore = score;
+                winners = [player];
+            } else if (score === maxScore) {
+                winners.push(player);
+            }
+        }
+        
+        // Mostrar ganador o empate
+        if (winners.length === 1) {
+            winnerName.textContent = winners[0];
+            winnerScore.textContent = `${maxScore} punto${maxScore !== 1 ? 's' : ''}`;
+            gameEndTitle.textContent = '¡Ganador!';
+        } else {
+            winnerName.textContent = `¡EMPATE ENTRE ${winners.length} JUGADORES!`;
+            winnerScore.textContent = `${winners.join(', ')} - ${maxScore} punto${maxScore !== 1 ? 's' : ''}`;
+            gameEndTitle.textContent = 'Fin de la Partida';
+        }
+        
+        // Mostrar puntuaciones finales ordenadas
+        const sortedScores = Object.entries(playerScores)
+            .sort((a, b) => b[1] - a[1]);
+        
+        finalScoresList.innerHTML = '';
+        sortedScores.forEach(([player, score], index) => {
+            const scoreItem = document.createElement('div');
+            scoreItem.className = 'final-score-item';
+            
+            let medal = '';
+            if (index === 0) medal = '🥇 ';
+            else if (index === 1) medal = '🥈 ';
+            else if (index === 2) medal = '🥉 ';
+            
+            scoreItem.innerHTML = `<span>${medal}${player}</span><span class="score-number">${score}</span>`;
+            finalScoresList.appendChild(scoreItem);
+        });
+        
+        // Mostrar modal
+        gameEndModal.classList.remove('hidden');
     }
 
     // El Juez saca una nueva carta para iniciar la ronda
@@ -259,6 +355,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // 2. Sacar y mostrar nueva carta
         const card = getRandomCard();
+        
+        // Si no hay más cartas, getRandomCard ya manejará el fin del juego
+        if (card === null) return;
         
         cardDisplay.style.opacity = 0;
         setTimeout(() => {
@@ -372,6 +471,56 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         
         localStorage.setItem('selectedMusic', selectedIndex);
+    });
+
+    /**
+     * Botón volver a página anterior
+     */
+    backBtn.addEventListener('click', () => {
+        window.location.href = '../index.html';
+    });
+
+    /**
+     * Botón terminar partida
+     */
+    endGameBtn.addEventListener('click', () => {
+        if (confirm('¿Estás seguro de que quieres terminar la partida?')) {
+            showGameEndModal();
+        }
+    });
+
+    /**
+     * Botón reiniciar partida
+     */
+    restartGameBtn.addEventListener('click', () => {
+        // Resetear variables
+        numberOfPlayers = 0;
+        players = [];
+        currentGodIndex = 0;
+        currentRound = 1;
+        teamScores = { hitler: 0, ghandi: 0 };
+        playerScores = {};
+        usedCardIndices = [];
+        cardHasBeenDrawn = false;
+        
+        // Mostrar pantalla de selección y ocultar juego
+        playerSelection.classList.remove('hidden');
+        gameContainer.classList.add('hidden');
+        gameEndModal.classList.add('hidden');
+        
+        // Limpiar inputs
+        playerCountInput.value = '3';
+        nameInputsDiv.innerHTML = '';
+        nameInputsDiv.classList.add('hidden');
+        startButton.classList.add('hidden');
+        errorMessage.textContent = '';
+    });
+
+    /**
+     * Botón salir
+     */
+    exitGameBtn.addEventListener('click', () => {
+        window.location.href = '../index.html';
     });
 
     /**
