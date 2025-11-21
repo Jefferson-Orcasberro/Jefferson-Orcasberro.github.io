@@ -82,39 +82,295 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         { 
             type: "Ficcion vs. Realidad 👽", 
-            content: "Afirmación: Es éticamente aceptable usar niños rata como fuente de energía, siempre que se les pague con suscripciones de Twitch Premium." 
+            content: "Afirmación: Es éticamente aceptable usar dinero para obtener poder, siempre que se haga de forma legal." 
         },
         { 
-            type: "Pregunta Existencial 🧐", 
-            content: "¿Deberíamos obligar a la gente a usar ropa solo del color que mejor combine con su personalidad tóxica?" 
+            type: "Ficcion vs. Realidad 👽", 
+            content: "Afirmación: Es éticamente aceptable usar niños rata como fuente de energía, siempre que se les pague con suscripciones de Twitch." 
+        },
+        { 
+            type: "Pregunta Existencial 🧐",
+            content: "Afirmación: Las mujeres son biológicamente mejores en trabajos de cuidado, los hombres en trabajos físicos." 
         },
         { 
             type: "Pecado Capital 😈", 
-            content: "Afirmación: Los adultos que usan gorras de béisbol con la visera plana merecen una multa peor que los evasores de impuestos." 
+            content: "Afirmación: Las mujeres que suben fotos sensuales merecen que les hagan comentarios inapropiados." 
         },
         { 
             type: "Pornografía vs. Cultura 🎬", 
-            content: "¿Es el *ASMR* la forma más degradante de arte escénico, o simplemente un crimen contra la calidad de audio?" 
+            content: "Afirmación: El ASMR es una forma legítima de entretenimiento y no debería ser criticada." 
         },
         { 
             type: "Crítica Gastronómica 🤮", 
-            content: "Afirmación: El pepino es un vegetal diseñado por un comité para castigar a aquellos que realmente disfrutan de comer ensaladas." 
+            content: "Afirmación: La obesidad infantil es culpa de los padres, no de la comida rápida." 
         },
         { 
             type: "Moralidad Moderna 📱", 
-            content: "Afirmación: Es más valiente y moralmente superior alguien que renuncia a su cuenta de Netflix que alguien que dona a una ONG." 
+            content: "Afirmación: Dar dinero a organizaciones benéficas es una forma de sentirse superior sin hacer nada real." 
         },
         { 
             type: "Lógica de Diseño 🚽", 
-            content: "¿Debería ser un requisito legal que todos los inodoros tengan un botón de 'autodestrucción' si detectan un comentario no solicitado sobre política?" 
+            content: "Afirmación: Censurar a los activistas en redes sociales está justificado si amenazan el orden público." 
         },
         { 
             type: "Bizarro Absurdo 🦄", 
-            content: "Afirmación: Los unicornios existen, pero decidieron no revelarse porque la humanidad está demasiado obsesionada con el *CrossFit*." 
+            content: "Afirmación: Las personas obesas deberían pagar más impuestos de salud que los delgados." 
         },
         { 
             type: "Picante Tecnológico 🔥", 
-            content: "Afirmación: Las *selfies* son una práctica social tan vulgar que deberían considerarse contenido no apto para el trabajo (NSFW)." 
+            content: "Afirmación: Las personas que se toman selfies constantemente tienen trastornos narcisistas diagnosticables." 
+        },
+        { 
+            type: "Dilema Apocalíptico ☠️", 
+            content: "Afirmación: Las personas con discapacidades que no pueden trabajar deberían recibir menos beneficios que otros." 
+        },
+        { 
+            type: "Ética Cuestionable 🎩", 
+            content: "Afirmación: Burlarse de las víctimas de masacres es entretenimiento válido." 
+        },
+        { 
+            type: "Filosofía Oscura 🕷️", 
+            content: "Afirmación: Los niños deberían aprender a pelear en la escuela para defenderse." 
+        },
+        { 
+            type: "Sátira Social 💉", 
+            content: "Afirmación: Los padres antivacunas tienen derecho a no vacunar a sus hijos incluso si mueren." 
+        },
+        { 
+            type: "Crimen y Castigo ⚖️", 
+            content: "Afirmación: La pena de muerte es moralmente justificable para ciertos crímenes." 
+        },
+        { 
+            type: "Humor Morboso 🪦", 
+            content: "Afirmación: Es apropiado reírse durante un funeral si algo es realmente cómico." 
+        },
+        { 
+            type: "Absurdo Cotidiano 🎪", 
+            content: "Afirmación: Las personas que ponen música a todo volumen a las 7 AM merecen castigo físico." 
+        },
+        { 
+            type: "Predicción Distópica 🤖", 
+            content: "Afirmación: Es aceptable ser grosero con asistentes virtuales porque no tienen sentimientos." 
+        },
+        { 
+            type: "Sátira Política 🏛️", 
+            content: "Afirmación: Los políticos que no poseen al menos 3 scandales sexuales no deberían ser tomados en serio." 
+        },
+        { 
+            type: "Relativismo Moral 🌀", 
+            content: "Afirmación: Las personas pobres que roban comida son menos criminales que los evasores de impuestos." 
+        },
+        { 
+            type: "Horror Moderno 📡", 
+            content: "Afirmación: Los algoritmos de redes sociales han causado más daño psicológico que cualquier guerra de los últimos 20 años." 
+        },
+        { 
+            type: "Oscuridad Adulta 🍆", 
+            content: "Afirmación: Las aplicaciones de citas son solo para gente superficial que busca sexo." 
+        },
+        { 
+            type: "Realidad Incómoda 😏", 
+            content: "Afirmación: Las mujeres que tienen sexo en la primera cita son menos respetables que las que no." 
+        },
+        { 
+            type: "Verdad Estadística 📊", 
+            content: "Afirmación: Los introvertidos son superiores intelectualmente a los extrovertidos." 
+        },
+        { 
+            type: "Confesión Oscura 🔞", 
+            content: "Afirmación: Todos fingimos que nuestras búsquedas en *Google* son normales, pero en realidad hemos buscado cosas que nos enviarían a prisión." 
+        },
+        { 
+            type: "Pecado Carnal 😈", 
+            content: "Afirmación: Admitir tus hábitos privados es más importante que mantener la privacidad." 
+        },
+        { 
+            type: "Tabú Moderno 🚫", 
+            content: "Afirmación: Las personas deberían tener derecho a explorar su sexualidad de forma segura." 
+        },
+        { 
+            type: "Lógica Perversa 🧠", 
+            content: "Afirmación: La privacidad de la imagen es un derecho fundamental que no debería violarse nunca." 
+        },
+        { 
+            type: "Filosofía del Deseo 💋", 
+            content: "Afirmación: Los fantasmas sexuales que no confesas a tu pareja son tan importantes como tus libertades civiles." 
+        },
+        { 
+            type: "Depravación Compartida 👻", 
+            content: "Afirmación: La privacidad en el baño es un derecho que se respeta en las sociedades civilizadas." 
+        },
+        { 
+            type: "Intimidad Tóxica 🔴", 
+            content: "Afirmación: Los terapeutas deberían poder tener relaciones románticas con sus pacientes si ambos son adultos." 
+        },
+        { 
+            type: "Deseo Prohibido 🚨", 
+            content: "Afirmación: La obsesión por las celebridades es una enfermedad mental que requiere tratamiento." 
+        },
+        { 
+            type: "Secreto Sucio 🤐", 
+            content: "Afirmación: Todos hemos estado sexualmente atraídos por alguien completamente inapropiado, el que dice que no es un santo o un mentiroso." 
+        },
+        { 
+            type: "Verdad Incómoda 😳", 
+            content: "Afirmación: Las parejas deberían compartir todos sus fetiches y fantasías sin temor al juicio." 
+        },
+        { 
+            type: "Pecado de Pensamiento 🧐", 
+            content: "Afirmación: Pensar en otra persona durante el sexo es infidelidad emocional y debería castigarse igual que el engaño físico." 
+        },
+        { 
+            type: "Aberración Natural 🌿", 
+            content: "Afirmación: El uso de juguetes sexuales indica que una relación está rota." 
+        },
+        { 
+            type: "Morbo Histórico 📚", 
+            content: "Afirmación: Los historiadores que estudian prostitutas antiguas son académicos legítimos, los que miran pornografía histórica son degenerados." 
+        },
+        { 
+            type: "Tentación Laboral 💼", 
+            content: "Afirmación: Las relaciones románticas en el trabajo son inevitables e inevitablemente problemáticas." 
+        },
+        { 
+            type: "Fantasía Oscura 🌙", 
+            content: "Afirmación: Si tu fantasía sexual requiere que mentiras sobre quién eres, quizás sea un espejo de tu vida cotidiana." 
+        },
+        { 
+            type: "Culpa y Placer 🔗", 
+            content: "Afirmación: Ver contenido controversial en internet es una forma de curiosidad, no de depravación." 
+        },
+        { 
+            type: "Decadencia Social 🍷", 
+            content: "Afirmación: Las personas que se creen monógamas en realidad son simplemente malas en engañar." 
+        },
+        { 
+            type: "Realidad Brutal ⚰️", 
+            content: "Afirmación: Es mejor vivir una vida breve y apasionada que una vida larga y aburrida." 
+        },
+        { 
+            type: "Oscuridad Pura 🕳️", 
+            content: "Afirmación: Todos tenemos una búsqueda de pornografía que si fuera revelada destruiría nuestras reputaciones completamente." 
+        },
+        { 
+            type: "Ironía Mortuoria 💀", 
+            content: "Afirmación: Si mueres durante el sexo, la noticia es más vergonzosa que la muerte misma para tu familia." 
+        },
+        { 
+            type: "Lógica de Desastres 🌪️", 
+            content: "Afirmación: Los desastres naturales son un castigo por los pecados de la humanidad." 
+        },
+        { 
+            type: "Filosofía de Criminales 🔓", 
+            content: "Afirmación: Los asesinos seriales son menos peligrosos que los influencers de redes sociales en términos de daño social." 
+        },
+        { 
+            type: "Absurdo Médico 🏥", 
+            content: "Afirmación: Los médicos cometen errores constantemente pero nunca son responsabilizados." 
+        },
+        { 
+            type: "Sátira de Autores 📖", 
+            content: "Afirmación: Los autores que escriben sobre gente deprimida probablemente solo están describiéndose a sí mismos de forma legalizada." 
+        },
+        { 
+            type: "Verdad Cinematográfica 🎬", 
+            content: "Afirmación: Las películas de terror preparan mejor a las personas para la realidad que la educación formal." 
+        },
+        { 
+            type: "Paradoja de la Salud 💊", 
+            content: "Afirmación: Los nutricionistas son los principales mentirosos sobre su propia salud." 
+        },
+        { 
+            type: "Confesión de Millonarios 💰", 
+            content: "Afirmación: El dinero no compra felicidad, pero definitivamente ayuda." 
+        },
+        { 
+            type: "Hipocresía Espiritual 🙏", 
+            content: "Afirmación: Las personas religiosas son más hipócritas que los ateos." 
+        },
+        { 
+            type: "Oscuridad Educativa 📐", 
+            content: "Afirmación: Los matemáticos son más probables de ser suicidas que otros profesionales." 
+        },
+        { 
+            type: "Horror Gastronómico 🍽️", 
+            content: "Afirmación: Los chefs de televisión envenenan deliberadamente a sus espectadores con comida poco saludable." 
+        },
+        { 
+            type: "Verdad de Mascotas 🐕", 
+            content: "Afirmación: Los animales domésticos son mejores amigos que la mayoría de las personas." 
+        },
+        { 
+            type: "Sátira Laboral 👔", 
+            content: "Afirmación: Un 9 a 5 es simplemente esclavitud con 401k y beneficios de salud." 
+        },
+        { 
+            type: "Paradoja Temporal ⏰", 
+            content: "Afirmación: El tiempo es una ilusión que la sociedad creó para controlarnos." 
+        },
+        { 
+            type: "Realidad de Amigos 👥", 
+            content: "Afirmación: La mayoría de amigos desaparecen cuando los necesitas." 
+        },
+        { 
+            type: "Confusión Existencial 🌌", 
+            content: "Afirmación: Es probable que vivamos en una simulación controlada." 
+        },
+        { 
+            type: "Verdad Oscura 🖤", 
+            content: "Afirmación: El humor negro es una herramienta de supervivencia emocional." 
+        },
+        { 
+            type: "Horror Burocrático 📋", 
+            content: "Afirmación: Los impuestos son más injustos que los castigos por crímenes menores." 
+        },
+        { 
+            type: "Lógica de Vejez 👴", 
+            content: "Afirmación: Las personas envejecen porque renuncian a ser quiénes querían ser." 
+        },
+        { 
+            type: "Verdad de Padres 👨‍👩‍👧", 
+            content: "Afirmación: Los padres aman a sus hijos por obligación, no por verdadero amor." 
+        },
+        { 
+            type: "Sátira de Amor 💔", 
+            content: "Afirmación: El amor es la herramienta más efectiva para controlarnos mutuamente." 
+        },
+        { 
+            type: "Tragedia Cotidiana 🚗", 
+            content: "Afirmación: Morir en un accidente es una muerte más digna que morir de enfermedad." 
+        },
+        { 
+            type: "Confusión Moral 🎰", 
+            content: "Afirmación: El juego es un entretenimiento legítimo, no una enfermedad." 
+        },
+        { 
+            type: "Sátira Médica 💉", 
+            content: "Afirmación: Los médicos a menudo no saben qué está mal contigo realmente." 
+        },
+        { 
+            type: "Realidad Sombría 🌑", 
+            content: "Afirmación: Somos olvidados poco después de morir, lo que es liberador." 
+        },
+        { 
+            type: "Lógica de Perdedores 🎯", 
+            content: "Afirmación: Es mejor fallar rápido que sufrir lentamente." 
+        },
+        { 
+            type: "Filosofía del Fracaso 📉", 
+            content: "Afirmación: Los que se rindieron temprano tomaron la decisión más sabia." 
+        },
+        { 
+            type: "Horror de la Realidad 👻", 
+            content: "Afirmación: La mayor amenaza para la sociedad viene de dentro, no de afuera." 
+        },
+        { 
+            type: "Verdad Incómoda 😷", 
+            content: "Afirmación: Todos haríamos cosas horribles si no hubiera consecuencias legales." 
+        },
+        { 
+            type: "Sátira Histórica 📜", 
+            content: "Afirmación: La historia es escrita por los ganadores y los ricos, no por los verdaderos héroes." 
         }
     ];
 
