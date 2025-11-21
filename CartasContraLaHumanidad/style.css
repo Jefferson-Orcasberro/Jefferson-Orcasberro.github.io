@@ -559,6 +559,53 @@ button:disabled {
     cursor: pointer;
 }
 
+/* --- Botones del Modal de Fin de Juego --- */
+.game-over-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 25px;
+}
+
+.restart-btn, .exit-btn {
+    border: none;
+    padding: 12px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.2s, transform 0.1s;
+    box-shadow: 0 4px rgba(0, 0, 0, 0.3);
+}
+
+.restart-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.restart-btn:hover {
+    background-color: #388e3c;
+}
+
+.restart-btn:active {
+    box-shadow: 0 2px rgba(0, 0, 0, 0.3);
+    transform: translateY(2px);
+}
+
+.exit-btn {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.exit-btn:hover {
+    background-color: #c0392b;
+}
+
+.exit-btn:active {
+    box-shadow: 0 2px rgba(0, 0, 0, 0.3);
+    transform: translateY(2px);
+}
+
 /* --- Formulario de Modales --- */
 .setting-item {
     margin-top: 20px;
@@ -693,6 +740,10 @@ button:disabled {
     .modal-content {
         margin: 15% auto;
         width: 85%;
+    }
+
+    .game-over-buttons {
+        grid-template-columns: 1fr;
     }
 }
 

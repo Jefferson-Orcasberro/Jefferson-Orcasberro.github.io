@@ -247,6 +247,7 @@ let selectedCardsData = []; // Cartas seleccionadas en el turno actual
 let orderedCardElements = []; // Elementos DOM para reordenar
 let potentialWinnerId = -1; // ID del ganador seleccionado por el lector
 let currentLang = 'es';
+let targetPoints = 0; // Puntos objetivo para ganar (0 = sin límite)
 const HAND_SIZE = 5; 
 
 // =============================================================
@@ -279,7 +280,7 @@ let handRevealed = false;
 // Ajustes
 let volumeControl, langSelect, musicSelect;
 let musicTracks = {};
-let currentTrackId = 'Rey_del_asado';
+let currentTrackId = 'none';
 
 
 // =============================================================
@@ -291,6 +292,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Setup
     setupModal = document.getElementById('setup-modal');
     playerCountSelect = document.getElementById('player-count');
+    targetPointsSelect = document.getElementById('target-points');
     nicknameContainer = document.getElementById('nickname-inputs-container');
     startSetupBtn = document.getElementById('start-setup-btn');
     setupSettingsBtn = document.getElementById('setup-settings-btn'); // NUEVO
@@ -342,6 +344,7 @@ document.addEventListener('DOMContentLoaded', () => {
     winnerAnnouncement = document.getElementById('winner-announcement');
     finalScoresList = document.getElementById('final-scores-list');
     restartGameBtn = document.getElementById('restart-game-btn');
+    exitGameBtn = document.getElementById('exit-game-btn');
 
     // --- 2. AÑADIR LISTENERS ---
 
@@ -380,6 +383,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     restartGameBtn.addEventListener('click', endGame);
+
+    exitGameBtn.addEventListener('click', () => {
+        window.location.href = '../index.html';
+    });
 
     advanceRoundBtn.addEventListener('click', () => {
         // 1. Repartir cartas nuevas
@@ -443,6 +450,7 @@ function updateNicknameInputs() {
 function setupGame() {
     players = [];
     const playerCount = parseInt(playerCountSelect.value, 10);
+    targetPoints = parseInt(targetPointsSelect.value, 10); // Capturar puntos objetivo
 
     // Ocultar TODOS los tableros y manos primero
     scoreBoards.forEach(board => board?.classList.add('hidden'));
@@ -875,7 +883,15 @@ function chooseWinner(winnerPlayerId) {
         }
     });
 
-    advanceRoundBtn.classList.remove('hidden');
+    // Verificar si alguien alcanzó el objetivo de puntos
+    if (targetPoints > 0 && winner.score >= targetPoints) {
+        // Fin del juego por objetivo alcanzado
+        setTimeout(() => {
+            triggerGameOver();
+        }, 2000);
+    } else {
+        advanceRoundBtn.classList.remove('hidden');
+    }
 }
 
 function endGame() {
@@ -1338,7 +1354,8 @@ function playCurrentMusic() {
 
 function switchMusic() {
     currentTrackId = musicSelect ? musicSelect.value : currentTrackId;
-    if (gameState !== 'setup') {
+    stopAllMusic(); // Detener cualquier música que esté sonando
+    if (currentTrackId !== 'none' && gameState !== 'setup') {
         playCurrentMusic();
     }
 }

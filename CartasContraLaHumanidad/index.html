@@ -17,7 +17,7 @@
             <span class="close-btn">&times;</span>
             <h2 id="settings-title">Ajustes</h2>
             <div class="setting-item"> <label for="volume-control" id="volume-label">Volumen</label> <input type="range" id="volume-control" min="0" max="1" step="0.1" value="0.5"> </div>
-            <div class="setting-item"> <label for="music-select" id="music-label">Música</label> <select id="music-select"> <option value="Viento_y_hacha">El Viento y el Hacha</option> <option value="Brama_el_viento">Brama el Viento</option> <option value="Rey_del_asado" selected>Rey del Asado</option> <option value="Bajo_el_cielo">Bajo el Cielo</option> <option value="Cielo_del_sur">Cielo del Sur</option> <option value="Cielo_oriental">Cielo Oriental</option> </select> </div>
+            <div class="setting-item"> <label for="music-select" id="music-label">Música</label> <select id="music-select"> <option value="none" selected>Sin música</option> <option value="Viento_y_hacha">El Viento y el Hacha</option> <option value="Brama_el_viento">Brama el Viento</option> <option value="Rey_del_asado">Rey del Asado</option> <option value="Bajo_el_cielo">Bajo el Cielo</option> <option value="Cielo_del_sur">Cielo del Sur</option> <option value="Cielo_oriental">Cielo Oriental</option> </select> </div>
             <div class="setting-item"> <label for="lang-select" id="lang-label">Idioma</label> <select id="lang-select"> <option value="es">Español</option> <option value="pt">Português</option> <option value="en">English</option> </select> </div>
         </div>
     </div>
@@ -36,6 +36,18 @@
                     <option value="8">8</option>
                     <option value="9">9</option>
                     <option value="10">10</option>
+                </select>
+            </div>
+            <div class="setting-item">
+                <label for="target-points">Puntos para Ganar:</label>
+                <select id="target-points">
+                    <option value="0" selected>Sin límite</option>
+                    <option value="5">5 puntos</option>
+                    <option value="10">10 puntos</option>
+                    <option value="15">15 puntos</option>
+                    <option value="20">20 puntos</option>
+                    <option value="25">25 puntos</option>
+                    <option value="50">50 puntos</option>
                 </select>
             </div>
             <div id="nickname-inputs-container">
@@ -98,7 +110,10 @@
             <p>Puntajes Finales:</p>
             <ul id="final-scores-list">
                 </ul>
-            <button id="restart-game-btn">Reiniciar Partida</button>
+            <div class="game-over-buttons">
+                <button id="restart-game-btn" class="restart-btn">Volver a Jugar</button>
+                <button id="exit-game-btn" class="exit-btn">Salir</button>
+            </div>
         </div>
     </div>
     </div> <audio id="Rey_del_asado" loop src="../musicas/Rey_del_Asado.mp3"></audio>
