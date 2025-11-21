@@ -575,7 +575,7 @@ button:disabled {
     cursor: pointer;
     border-radius: 8px;
     transition: background-color 0.2s, transform 0.1s;
-    box-shadow: 0 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px #333;
 }
 
 .restart-btn {
@@ -588,7 +588,7 @@ button:disabled {
 }
 
 .restart-btn:active {
-    box-shadow: 0 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px #388e3c;
     transform: translateY(2px);
 }
 
@@ -602,7 +602,7 @@ button:disabled {
 }
 
 .exit-btn:active {
-    box-shadow: 0 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px #c0392b;
     transform: translateY(2px);
 }
 
