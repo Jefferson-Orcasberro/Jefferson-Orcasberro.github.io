@@ -10,7 +10,6 @@ const playerCountInput = document.getElementById('player-count');
 const gameModeSelect = document.getElementById('game-mode');
 const roundCountSelect = document.getElementById('round-count');
 const startGameBtn = document.getElementById('start-game-btn');
-const drawBtn = document.getElementById('draw-btn');
 const deckRemaining = document.getElementById('deck-remaining');
 const cardImage = document.getElementById('card-image');
 const currentPlayerDiv = document.getElementById('current-player');
@@ -25,9 +24,11 @@ const settingsModal = document.getElementById('settings-modal');
 const settingsBtn = document.getElementById('settings-btn');
 const closeSettingsBtn = document.getElementById('close-settings');
 const closeModalBtn = document.querySelector('.close');
-const nextRoundBtn = document.getElementById('next-round-btn');
 const endGameBtn = document.getElementById('end-game-btn');
 const globalBackBtn = document.getElementById('global-back-btn');
+const settingsBtnSetup = document.getElementById('settings-btn-setup');
+const playersInputContainer = document.getElementById('players-input-container');
+const submitAnswersBtn = document.getElementById('submit-answers-btn');
 
 // Variables de estado
 let players = [];
@@ -36,6 +37,10 @@ let maxRounds = 10;
 let gameMode = 'war';
 let usedMemes = [];
 let currentMeme = null;
+let playerAnswers = {};
+let allPlayersAnswered = false;
+let currentPlayerInputIndex = 0;
+let playersFinished = 0;
 
 // ===== INICIALIZACIÓN =====
 window.addEventListener('load', () => {
@@ -44,13 +49,12 @@ window.addEventListener('load', () => {
 
 function setupEventListeners() {
     startGameBtn.addEventListener('click', initializeGame);
-    drawBtn.addEventListener('click', drawMeme);
     playAgainBtn.addEventListener('click', restartGame);
     exitBtn.addEventListener('click', exitGame);
     settingsBtn.addEventListener('click', openSettings);
+    settingsBtnSetup.addEventListener('click', openSettings);
     closeSettingsBtn.addEventListener('click', closeSettings);
     closeModalBtn.addEventListener('click', closeSettings);
-    nextRoundBtn.addEventListener('click', nextRound);
     endGameBtn.addEventListener('click', showGameOverModal);
     globalBackBtn.addEventListener('click', goBack);
 
@@ -83,22 +87,23 @@ function initializeGame() {
 
     currentRound = 0;
     usedMemes = [];
+    playerAnswers = {};
 
     // Mostrar pantalla de juego
     setupScreen.classList.add('hidden');
     gameScreen.classList.remove('hidden');
 
-    updateGameDisplay();
+    startNewRound();
 }
 
-// ===== LÓGICA DE CARTAS =====
-function drawMeme() {
-    if (usedMemes.length >= TOTAL_MEMES) {
+// ===== INICIAR NUEVA RONDA =====
+function startNewRound() {
+    if (currentRound >= maxRounds || usedMemes.length >= TOTAL_MEMES) {
         showGameOverModal();
         return;
     }
 
-    // Generar número de meme aleatorio que no se haya usado
+    // Obtener nuevo meme
     let memeNumber;
     do {
         memeNumber = Math.floor(Math.random() * TOTAL_MEMES) + 1;
@@ -110,47 +115,165 @@ function drawMeme() {
     // Mostrar imagen del meme
     const memePath = `memes/meme${memeNumber}.jpg`;
     cardImage.src = memePath;
-    cardImage.onload = () => {
-        console.log(`Meme ${memeNumber} cargado`);
-    };
     cardImage.onerror = () => {
         console.error(`Error cargando meme${memeNumber}.jpg`);
-        cardImage.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="200" height="300"%3E%3Crect fill="%23333" width="200" height="300"/%3E%3Ctext x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-size="14"%3EMeme ' + memeNumber + ' no disponible%3C/text%3E%3C/svg%3E';
+        cardImage.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="300" height="400"%3E%3Crect fill="%23333" width="300" height="400"/%3E%3Ctext x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-size="14"%3EMeme ' + memeNumber + ' no disponible%3C/text%3E%3C/svg%3E';
     };
 
-    // Actualizar puntos del jugador actual
-    const currentPlayer = players[currentRound % players.length];
-    currentPlayer.score += Math.floor(Math.random() * 10) + 1;
-    currentPlayer.cardsWon += 1;
+    // Limpiar respuestas anteriores
+    playerAnswers = {};
+    allPlayersAnswered = false;
 
-    drawBtn.disabled = true;
-    nextRoundBtn.classList.remove('hidden');
-    deckRemaining.textContent = `${TOTAL_MEMES - usedMemes.length} cartas`;
+    // Crear inputs para cada jugador
+    createPlayerInputs();
+
+    // Actualizar pantalla
+    updateGameDisplay();
+
+    submitAnswersBtn.classList.add('hidden');
 }
 
-// ===== CONTROL DE RONDAS =====
-function nextRound() {
-    currentRound++;
+// ===== CREAR INPUTS PARA LOS JUGADORES =====
+function createPlayerInputs() {
+    playersInputContainer.innerHTML = '';
+    currentPlayerInputIndex = 0;
+    playersFinished = 0;
+    playerAnswers = {};
 
-    if (currentRound >= maxRounds || usedMemes.length >= TOTAL_MEMES) {
-        showGameOverModal();
+    showCurrentPlayerInput();
+}
+
+function showCurrentPlayerInput() {
+    playersInputContainer.innerHTML = '';
+
+    if (currentPlayerInputIndex >= players.length) {
+        // Todos terminaron
+        showChooseWinnerModal();
         return;
     }
 
-    drawBtn.disabled = false;
-    nextRoundBtn.classList.add('hidden');
-    cardImage.src = '';
-    updateGameDisplay();
+    const player = players[currentPlayerInputIndex];
+
+    // Mostrar quién está escribiendo
+    const statusDiv = document.createElement('div');
+    statusDiv.className = 'turn-status';
+    statusDiv.innerHTML = `<h3>Turno de ${player.name}</h3><p>Escribe tu meme y presiona Enter o haz clic en Siguiente</p>`;
+    playersInputContainer.appendChild(statusDiv);
+
+    // Input solo para el jugador actual
+    const inputDiv = document.createElement('div');
+    inputDiv.className = 'player-input-group single';
+
+    const input = document.createElement('input');
+    input.type = 'text';
+    input.placeholder = `${player.name}, escribe tu meme aquí...`;
+    input.className = 'meme-input';
+    input.dataset.playerId = player.id;
+    input.autofocus = true;
+
+    input.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            saveAndNext(input.value.trim(), player.id);
+        }
+    });
+
+    inputDiv.appendChild(input);
+    playersInputContainer.appendChild(inputDiv);
+
+    // Botón para pasar al siguiente
+    const buttonDiv = document.createElement('div');
+    buttonDiv.className = 'input-buttons';
+
+    const nextBtn = document.createElement('button');
+    nextBtn.className = 'btn-primary';
+    nextBtn.textContent = currentPlayerInputIndex === players.length - 1 ? 'Terminar y Revelar' : 'Siguiente Jugador';
+    nextBtn.addEventListener('click', () => {
+        saveAndNext(input.value.trim(), player.id);
+    });
+
+    buttonDiv.appendChild(nextBtn);
+    playersInputContainer.appendChild(buttonDiv);
 }
 
+function saveAndNext(answer, playerId) {
+    if (answer === '') {
+        alert('Por favor, escribe algo antes de continuar');
+        return;
+    }
+
+    playerAnswers[playerId] = answer;
+    currentPlayerInputIndex++;
+
+    if (currentPlayerInputIndex >= players.length) {
+        showChooseWinnerModal();
+    } else {
+        showCurrentPlayerInput();
+    }
+}
+
+function showChooseWinnerModal() {
+    const modal = document.createElement('div');
+    modal.className = 'modal';
+    modal.id = 'choose-winner-modal';
+    modal.innerHTML = `
+        <div class="modal-content choose-winner-modal">
+            <h2>¿Cuál es el mejor meme?</h2>
+            <div id="meme-options-container" class="meme-options-grid"></div>
+            <div class="modal-buttons">
+                <button class="btn-secondary" onclick="closeWinnerModal()">Cancelar</button>
+            </div>
+        </div>
+    `;
+    document.body.appendChild(modal);
+    modal.style.display = 'flex';
+
+    const optionsContainer = document.getElementById('meme-options-container');
+
+    // Crear array de jugadores y mezclarlos aleatoriamente
+    let shuffledPlayers = [...players].sort(() => Math.random() - 0.5);
+
+    shuffledPlayers.forEach((player) => {
+        const playerAnswer = playerAnswers[player.id];
+        const optionDiv = document.createElement('div');
+        optionDiv.className = 'meme-option-card';
+        
+        const memePath = `memes/meme${currentMeme}.jpg`;
+        optionDiv.innerHTML = `
+            <img src="${memePath}" alt="Meme" class="option-meme-image">
+            <div class="option-text">"${playerAnswer}"</div>
+            <button class="btn-primary select-btn" onclick="selectWinner(${player.id})">👍 Elegir</button>
+        `;
+        optionsContainer.appendChild(optionDiv);
+    });
+}
+
+function selectWinner(playerId) {
+    const player = players.find(p => p.id === playerId);
+    player.score += 1;
+    player.cardsWon += 1;
+
+    closeWinnerModal();
+
+    // Avanzar a la siguiente ronda
+    currentRound++;
+    setTimeout(() => {
+        startNewRound();
+    }, 500);
+}
+
+function closeWinnerModal() {
+    const modal = document.getElementById('choose-winner-modal');
+    if (modal) {
+        modal.remove();
+    }
+}
+
+// ===== ACTUALIZAR PANTALLA DEL JUEGO =====
 function updateGameDisplay() {
-    const currentPlayer = players[currentRound % players.length];
-    
-    currentPlayerDiv.textContent = `Turno: ${currentPlayer.name}`;
+    currentPlayerDiv.textContent = `Todos escriban su meme`;
     roundInfoDiv.textContent = `Ronda ${currentRound + 1}/${maxRounds}`;
     deckRemaining.textContent = `${TOTAL_MEMES - usedMemes.length} cartas`;
 
-    // Actualizar scores
     updateScoresDisplay();
 }
 
@@ -162,9 +285,6 @@ function updateScoresDisplay() {
     sortedPlayers.forEach((player, index) => {
         const scoreItem = document.createElement('div');
         scoreItem.className = 'score-item';
-        if (player.id === players[currentRound % players.length].id) {
-            scoreItem.classList.add('active');
-        }
         scoreItem.innerHTML = `
             <span class="score-item-name">#${index + 1} ${player.name}</span>
             <span class="score-item-points">${player.score} pts</span>
@@ -204,8 +324,6 @@ function restartGame() {
     currentRound = 0;
     usedMemes = [];
     cardImage.src = '';
-    drawBtn.disabled = false;
-    nextRoundBtn.classList.add('hidden');
 }
 
 function exitGame() {

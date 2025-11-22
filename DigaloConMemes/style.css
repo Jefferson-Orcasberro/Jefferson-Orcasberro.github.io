@@ -96,6 +96,18 @@ body {
     font-size: 1.8em;
 }
 
+.setup-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.setup-header h2 {
+    margin: 0;
+    font-size: 1.8em;
+}
+
 .setting-group {
     margin-bottom: 25px;
 }
@@ -476,6 +488,39 @@ body {
     gap: 15px;
 }
 
+/* Settings Sections */
+.settings-section {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--bg-secondary);
+}
+
+.settings-section h3 {
+    font-size: 1.4em;
+    margin-bottom: 15px;
+    color: var(--primary-color);
+}
+
+.game-mode-info {
+    background-color: var(--bg-primary);
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border-left: 4px solid var(--primary-color);
+}
+
+.game-mode-info h4 {
+    color: var(--secondary-color);
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.game-mode-info p {
+    color: var(--text-secondary);
+    margin: 0;
+    line-height: 1.6;
+}
+
 .setting-item label {
     font-weight: 500;
     min-width: 100px;
@@ -584,4 +629,140 @@ body {
     .player-scores {
         max-height: 250px;
     }
+}
+
+/* Input Area */
+.input-area {
+    background-color: var(--bg-secondary);
+    padding: 20px;
+    border-radius: 10px;
+    flex: 1;
+    min-height: 200px;
+    overflow-y: auto;
+}
+
+.turn-status {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: var(--bg-primary);
+    border-radius: 8px;
+    border: 2px solid var(--primary-color);
+}
+
+.turn-status h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.5em;
+    color: var(--primary-color);
+}
+
+.turn-status p {
+    margin: 0;
+    color: var(--text-secondary);
+    font-size: 0.95em;
+}
+
+.player-input-group {
+    margin-bottom: 15px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.player-input-group.single {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.player-input-group label {
+    flex: 0 0 120px;
+    color: var(--text-primary);
+    font-weight: bold;
+}
+
+.meme-input {
+    flex: 1;
+    padding: 10px 15px;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    border: 2px solid var(--primary-color);
+    border-radius: 6px;
+    font-size: 1em;
+    transition: border-color 0.3s;
+}
+
+.meme-input:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+}
+
+.meme-input::placeholder {
+    color: var(--text-secondary);
+}
+
+.input-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Meme Options Modal */
+.choose-winner-modal {
+    max-width: 800px;
+}
+
+.meme-options-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.meme-option-card {
+    background-color: var(--bg-primary);
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid var(--secondary-color);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.meme-option-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--primary-color);
+}
+
+.option-meme-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.option-header {
+    font-weight: bold;
+    font-size: 3em;
+    color: var(--secondary-color);
+    text-align: center;
+    line-height: 1;
+}
+
+.option-text {
+    flex: 1;
+    color: var(--text-primary);
+    word-break: break-word;
+    font-size: 1em;
+    line-height: 1.5;
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.meme-option-card .select-btn {
+    align-self: stretch;
 }

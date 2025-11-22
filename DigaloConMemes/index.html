@@ -17,7 +17,10 @@
 
         <div id="setup-screen" class="screen">
             <div class="setup-container">
-                <h2>Configuración del Juego</h2>
+                <div class="setup-header">
+                    <h2>Configuración del Juego</h2>
+                    <button id="settings-btn-setup" class="settings-btn">⚙️ Ajustes</button>
+                </div>
                 
                 <div class="setting-group">
                     <label for="player-count">Número de Jugadores:</label>
@@ -64,14 +67,12 @@
 
             <div class="game-board">
                 <div class="deck-area">
-                    <div id="deck-remaining" class="deck-count">51 cartas</div>
-                    <button id="draw-btn" class="draw-btn">Sacar Carta</button>
+                    <div id="deck-remaining" class="deck-count">50 cartas</div>
+                    <img id="card-image" src="" alt="Meme" class="current-meme">
                 </div>
 
-                <div class="cards-display">
-                    <div id="current-card" class="card-placeholder">
-                        <img id="card-image" src="" alt="Meme">
-                    </div>
+                <div class="input-area">
+                    <div id="players-input-container"></div>
                 </div>
 
                 <div class="player-scores">
@@ -80,17 +81,19 @@
             </div>
 
             <div class="game-actions">
-                <button id="next-round-btn" class="btn-secondary hidden">Siguiente Ronda</button>
                 <button id="end-game-btn" class="btn-danger">Terminar Partida</button>
             </div>
         </div>
 
         <!-- Modal de Ajustes -->
-        <div id="settings-modal" class="modal">
+        <div id="settings-modal" class="modal hidden">
             <div class="modal-content">
                 <span class="close">&times;</span>
-                <h2>Ajustes</h2>
-                <div class="settings-body">
+                <h2>Ajustes y Modos de Juego</h2>
+                
+                <!-- Ajustes -->
+                <div class="settings-section">
+                    <h3>⚙️ Configuración</h3>
                     <div class="setting-item">
                         <label for="volume">Volumen:</label>
                         <input type="range" id="volume" min="0" max="100" value="70">
@@ -103,8 +106,29 @@
                             <option value="track2">Canción 2</option>
                         </select>
                     </div>
-                    <button id="close-settings" class="btn-secondary">Cerrar</button>
                 </div>
+
+                <!-- Modos de Juego -->
+                <div class="settings-section">
+                    <h3>🎮 Modos de Juego</h3>
+                    
+                    <div class="game-mode-info">
+                        <h4>Memoria 🧠</h4>
+                        <p>Aparece una imagen de meme. Todos escriben su descripción o frase más creativa. Luego votan quién tuvo la mejor descripción. Cada voto suma 1 punto.</p>
+                    </div>
+
+                    <div class="game-mode-info">
+                        <h4>Guerra ⚔️</h4>
+                        <p>Aparece una imagen de meme. Todos escriben su chiste o caption más ingenioso. El grupo elige el mejor. Quien gane suma 1 punto. Gana quien tenga más puntos al final.</p>
+                    </div>
+
+                    <div class="game-mode-info">
+                        <h4>Eliminación 💥</h4>
+                        <p>Igual que Guerra, pero los jugadores con menos puntos pueden ser eliminados en cada ronda. Continúa hasta que solo queda un ganador.</p>
+                    </div>
+                </div>
+
+                <button id="close-settings" class="btn-secondary">Cerrar</button>
             </div>
         </div>
 
