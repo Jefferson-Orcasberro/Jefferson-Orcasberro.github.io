@@ -70,6 +70,107 @@ header h1 {
     background-color: #2980b9; /* Azul más oscuro al pasar el mouse */
 }
 
+/* Contenedor de botones en la tarjeta */
+.card-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+/* Botón de Normas */
+.boton-normas {
+    background-color: #27ae60; /* Verde para las normas */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.boton-normas:hover {
+    background-color: #229954; /* Verde más oscuro */
+}
+
+/* Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 3000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    overflow: auto;
+}
+
+.modal-content {
+    background-color: white;
+    margin: 5% auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.modal-content h2 {
+    color: #e74c3c;
+    margin-top: 0;
+}
+
+.modal-content h3 {
+    color: #2c3e50;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.modal-content ol, .modal-content ul {
+    text-align: left;
+    color: #333;
+    line-height: 1.8;
+}
+
+.modal-content li {
+    margin-bottom: 8px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    line-height: 20px;
+}
+
+.close:hover,
+.close:focus {
+    color: #e74c3c;
+}
+
+.boton-cerrar {
+    background-color: #e74c3c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.2s;
+}
+
+.boton-cerrar:hover {
+    background-color: #c0392b;
+}
+
 /* Pie de página */
 footer {
     text-align: center;

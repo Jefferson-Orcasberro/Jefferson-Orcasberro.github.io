@@ -16,15 +16,139 @@
         <div class="juego-card">
             <h2>Cartas Contra la Humanidad</h2>
             <p>Una versión digital del popular juego de cartas para adultos. ¡Prepárate para las risas más incómodas!</p>
-            <a href="/CartasContraLaHumanidad/index.html" class="boton-jugar">Jugar Ahora</a>
+            <div class="card-buttons">
+                <a href="/CartasContraLaHumanidad/index.html" class="boton-jugar">Jugar Ahora</a>
+                <button class="boton-normas" onclick="mostrarNormas(0)">📋 Normas</button>
+            </div>
         </div>
         <div class="juego-card">
             <h2>Dios, Hitler y Ghandi entran a un bar...</h2>
             <p>Una versión digital del popular juego de debates para adultos. ¡Prepárate para defender tus ideas más incómodas!</p>
-            <a href="/EntranAUnBar_/index.html" class="boton-jugar">Jugar Ahora</a>
+            <div class="card-buttons">
+                <a href="/EntranAUnBar_/index.html" class="boton-jugar">Jugar Ahora</a>
+                <button class="boton-normas" onclick="mostrarNormas(1)">📋 Normas</button>
+            </div>
+        </div>
+        <div class="juego-card">
+            <h2>Dígalo Con Memes</h2>
+            <p>Un divertido juego de cartas con memes. ¡Compite con tus amigos y sé el ganador!</p>
+            <div class="card-buttons">
+                <a href="/DigaloConMemes/index.html" class="boton-jugar">Jugar Ahora</a>
+                <button class="boton-normas" onclick="mostrarNormas(2)">📋 Normas</button>
+            </div>
         </div>
 
         </main>
+
+    <!-- Modal de Normas -->
+    <div id="normas-modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="cerrarNormas()">&times;</span>
+            <h2 id="normas-titulo"></h2>
+            <div id="normas-contenido"></div>
+            <button class="boton-cerrar" onclick="cerrarNormas()">Cerrar</button>
+        </div>
+    </div>
+
+    <script>
+        const normasData = [
+            {
+                titulo: "Cartas Contra la Humanidad - Normas",
+                contenido: `
+                    <h3>Objetivo del Juego</h3>
+                    <p>Ganar puntos siendo el jugador que entretiene más a los demás con sus combinaciones de cartas.</p>
+                    
+                    <h3>Cómo Jugar</h3>
+                    <ol>
+                        <li><strong>Selecciona el número de jugadores:</strong> Entre 2 y 6 participantes.</li>
+                        <li><strong>Elige el modo de puntuación:</strong> Jugar sin límite o hasta alcanzar un objetivo (5, 10, 15, 20, 25 o 50 puntos).</li>
+                        <li><strong>Revela las cartas:</strong> El sistema mostrará cartas para que un jugador "juez" las evalúe.</li>
+                        <li><strong>Compite por puntos:</strong> La carta más divertida gana un punto.</li>
+                    </ol>
+                    
+                    <h3>Características</h3>
+                    <ul>
+                        <li>Traduce automáticamente a Español, Portugués e Inglés</li>
+                        <li>Sistema de puntuación flexible</li>
+                        <li>Música de fondo personalizable</li>
+                    </ul>
+                `
+            },
+            {
+                titulo: "Dios, Hitler y Ghandi entran a un bar... - Normas",
+                contenido: `
+                    <h3>Objetivo del Juego</h3>
+                    <p>Debatir afirmaciones provocadoras y acumular la mayor cantidad de puntos como equipo e individualmente.</p>
+                    
+                    <h3>Cómo Jugar</h3>
+                    <ol>
+                        <li><strong>Forma dos equipos:</strong> Hitler vs Ghandi.</li>
+                        <li><strong>Se revela una afirmación:</strong> Un texto provocador para debatir.</li>
+                        <li><strong>Debate:</strong> Los equipos argumentan a favor o en contra.</li>
+                        <li><strong>Vota:</strong> Un juez decide quién ganó la ronda.</li>
+                        <li><strong>Suma puntos:</strong> Tanto al equipo como a cada jugador individual.</li>
+                    </ol>
+                    
+                    <h3>Características</h3>
+                    <ul>
+                        <li>81 afirmaciones provocadoras para debatir</li>
+                        <li>Sistema de puntuación por equipo e individual</li>
+                        <li>Cartas no repetibles durante la partida</li>
+                        <li>Música y controles de volumen</li>
+                    </ul>
+                `
+            },
+            {
+                titulo: "Dígalo Con Memes - Normas",
+                contenido: `
+                    <h3>Objetivo del Juego</h3>
+                    <p>Acumular la mayor cantidad de puntos revelando memes y siendo el ganador final.</p>
+                    
+                    <h3>Cómo Jugar</h3>
+                    <ol>
+                        <li><strong>Selecciona número de jugadores:</strong> Entre 2 y 6 participantes.</li>
+                        <li><strong>Elige modo de juego:</strong> Memory, War o Elimination.</li>
+                        <li><strong>Configura rondas:</strong> Elige entre 5, 10, 15 o 20 rondas.</li>
+                        <li><strong>Juega por turnos:</strong> Cada jugador revela un meme en su turno.</li>
+                        <li><strong>Gana puntos:</strong> Obtén 1-10 puntos aleatorios por cada carta.</li>
+                        <li><strong>Gana el juego:</strong> Quien tenga más puntos al final es el ganador.</li>
+                    </ol>
+                    
+                    <h3>Características</h3>
+                    <ul>
+                        <li>50 memes únicos para jugar</li>
+                        <li>Cartas no repetibles durante la partida</li>
+                        <li>Leaderboard en tiempo real</li>
+                        <li>Medals para ganadores 🥇🥈🥉</li>
+                        <li>Música personalizable</li>
+                    </ul>
+                `
+            }
+        ];
+
+        function mostrarNormas(index) {
+            const modal = document.getElementById('normas-modal');
+            const titulo = document.getElementById('normas-titulo');
+            const contenido = document.getElementById('normas-contenido');
+            
+            titulo.textContent = normasData[index].titulo;
+            contenido.innerHTML = normasData[index].contenido;
+            modal.style.display = 'block';
+        }
+
+        function cerrarNormas() {
+            const modal = document.getElementById('normas-modal');
+            modal.style.display = 'none';
+        }
+
+        // Cerrar modal si se hace clic fuera de él
+        window.onclick = function(event) {
+            const modal = document.getElementById('normas-modal');
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        }
+    </script>
 
     <footer>
         <p>&copy; 2025 Repositorio de Juegos</p>
