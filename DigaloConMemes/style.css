@@ -1,0 +1,587 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #4CAF50;
+    --secondary-color: #2196F3;
+    --danger-color: #e74c3c;
+    --bg-primary: #1a1a1a;
+    --bg-secondary: #2d2d2d;
+    --text-primary: #ffffff;
+    --text-secondary: #b0b0b0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+}
+
+/* Botón de regreso */
+.back-btn {
+    position: fixed;
+    left: 15px;
+    top: 15px;
+    z-index: 1000;
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.back-btn:hover {
+    background-color: #333;
+}
+
+/* Header */
+.game-header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-top: 40px;
+}
+
+.game-header h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+    background: linear-gradient(45deg, #4CAF50, #2196F3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.game-header p {
+    font-size: 1.2em;
+    color: var(--text-secondary);
+}
+
+/* Pantallas */
+.screen {
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+
+.screen.hidden {
+    display: none;
+    opacity: 0;
+}
+
+/* Setup Screen */
+.setup-container {
+    background-color: var(--bg-secondary);
+    padding: 40px;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.setup-container h2 {
+    margin-bottom: 30px;
+    font-size: 1.8em;
+}
+
+.setting-group {
+    margin-bottom: 25px;
+}
+
+.setting-group label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 1.1em;
+}
+
+.setting-group select {
+    width: 100%;
+    padding: 12px;
+    background-color: #1a1a1a;
+    color: var(--text-primary);
+    border: 2px solid #444;
+    border-radius: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: border-color 0.3s;
+}
+
+.setting-group select:hover {
+    border-color: var(--secondary-color);
+}
+
+/* Botones */
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 1.1em;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s, transform 0.1s;
+    box-shadow: 0 4px #333;
+}
+
+.btn-primary:hover {
+    background-color: #388e3c;
+}
+
+.btn-primary:active {
+    box-shadow: 0 2px #388e3c;
+    transform: translateY(2px);
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1em;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+    box-shadow: 0 4px #333;
+}
+
+.btn-secondary:hover {
+    background-color: #1976d2;
+}
+
+.btn-secondary:active {
+    box-shadow: 0 2px #1976d2;
+    transform: translateY(2px);
+}
+
+.btn-danger {
+    background-color: var(--danger-color);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1em;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+    box-shadow: 0 4px #333;
+}
+
+.btn-danger:hover {
+    background-color: #c0392b;
+}
+
+.btn-danger:active {
+    box-shadow: 0 2px #c0392b;
+    transform: translateY(2px);
+}
+
+.restart-btn, .exit-btn {
+    border: none;
+    padding: 12px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.2s, transform 0.1s;
+    box-shadow: 0 4px #333;
+}
+
+.restart-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.restart-btn:hover {
+    background-color: #388e3c;
+}
+
+.restart-btn:active {
+    box-shadow: 0 2px #388e3c;
+    transform: translateY(2px);
+}
+
+.exit-btn {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.exit-btn:hover {
+    background-color: #c0392b;
+}
+
+.exit-btn:active {
+    box-shadow: 0 2px #c0392b;
+    transform: translateY(2px);
+}
+
+/* Game Screen */
+.game-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    background-color: var(--bg-secondary);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.players-info {
+    flex: 1;
+}
+
+.player-status {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.round-status {
+    font-size: 1em;
+    color: var(--text-secondary);
+}
+
+.settings-btn {
+    background-color: #666;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.2em;
+    transition: background-color 0.3s;
+}
+
+.settings-btn:hover {
+    background-color: #777;
+}
+
+/* Game Board */
+.game-board {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.deck-area {
+    background-color: var(--bg-secondary);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.deck-count {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.draw-btn {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.draw-btn:hover {
+    background-color: #388e3c;
+}
+
+/* Cards Display */
+.cards-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bg-secondary);
+    padding: 20px;
+    border-radius: 10px;
+    min-height: 400px;
+}
+
+.card-placeholder {
+    width: 100%;
+    max-width: 350px;
+    aspect-ratio: 3/4;
+    border: 2px solid #444;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #111;
+}
+
+#card-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* Player Scores */
+.player-scores {
+    background-color: var(--bg-secondary);
+    padding: 20px;
+    border-radius: 10px;
+    overflow-y: auto;
+    max-height: 400px;
+}
+
+#scores-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.score-item {
+    background-color: #1a1a1a;
+    padding: 15px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 4px solid var(--primary-color);
+}
+
+.score-item.active {
+    border-left-color: var(--secondary-color);
+    background-color: #242424;
+}
+
+.score-item-name {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.score-item-points {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+/* Game Actions */
+.game-actions {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.game-actions button {
+    flex: 1;
+    max-width: 200px;
+}
+
+/* Modal */
+.modal {
+    position: fixed;
+    z-index: 2000 !important;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal.hidden {
+    display: none;
+}
+
+.modal-content {
+    background-color: var(--bg-secondary);
+    padding: 40px;
+    border-radius: 15px;
+    max-width: 500px;
+    width: 90%;
+    max-height: 90vh;
+    overflow-y: auto;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8);
+    position: relative;
+}
+
+.modal-content h2 {
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+.modal-content h3 {
+    margin: 20px 0 15px 0;
+    color: var(--primary-color);
+}
+
+.modal-content ul {
+    list-style: none;
+    margin: 20px 0;
+}
+
+.modal-content li {
+    padding: 10px;
+    background-color: #1a1a1a;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.close {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 2em;
+    cursor: pointer;
+    color: var(--text-secondary);
+    transition: color 0.3s;
+}
+
+.close:hover {
+    color: var(--text-primary);
+}
+
+/* Settings Body */
+.settings-body {
+    margin: 20px 0;
+}
+
+.setting-item {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+.setting-item label {
+    font-weight: 500;
+    min-width: 100px;
+}
+
+.setting-item input[type="range"],
+.setting-item select {
+    flex: 1;
+}
+
+.setting-item input[type="range"] {
+    cursor: pointer;
+}
+
+.setting-item select {
+    padding: 8px;
+    background-color: #1a1a1a;
+    color: var(--text-primary);
+    border: 2px solid #444;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+/* Modal Buttons */
+.modal-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 25px;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .game-board {
+        grid-template-columns: 1fr;
+    }
+
+    .game-header h1 {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    .setup-container {
+        padding: 25px;
+    }
+
+    .game-header {
+        padding-top: 50px;
+    }
+
+    .game-header h1 {
+        font-size: 1.5em;
+    }
+
+    .cards-display {
+        min-height: 300px;
+    }
+
+    .modal-content {
+        padding: 25px;
+        max-width: 90%;
+    }
+
+    .game-actions {
+        flex-direction: column;
+    }
+
+    .game-actions button {
+        max-width: none;
+    }
+
+    .game-info {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+}
+
+@media (max-width: 600px) {
+    .back-btn {
+        font-size: 0.9em;
+        padding: 8px 15px;
+    }
+
+    .game-header h1 {
+        font-size: 1.3em;
+    }
+
+    .setup-container {
+        padding: 20px;
+    }
+
+    .game-board {
+        gap: 15px;
+    }
+
+    .modal-buttons {
+        grid-template-columns: 1fr;
+    }
+
+    .player-scores {
+        max-height: 250px;
+    }
+}

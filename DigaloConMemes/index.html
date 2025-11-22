@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dígalo Con Memes - Juego de Cartas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <button id="global-back-btn" class="back-btn">← Volver</button>
+        
+        <div class="game-header">
+            <h1>🎴 Dígalo Con Memes 🎴</h1>
+            <p>Juego de cartas con memes</p>
+        </div>
+
+        <div id="setup-screen" class="screen">
+            <div class="setup-container">
+                <h2>Configuración del Juego</h2>
+                
+                <div class="setting-group">
+                    <label for="player-count">Número de Jugadores:</label>
+                    <select id="player-count">
+                        <option value="2">2 Jugadores</option>
+                        <option value="3">3 Jugadores</option>
+                        <option value="4" selected>4 Jugadores</option>
+                        <option value="5">5 Jugadores</option>
+                        <option value="6">6 Jugadores</option>
+                    </select>
+                </div>
+
+                <div class="setting-group">
+                    <label for="game-mode">Modo de Juego:</label>
+                    <select id="game-mode">
+                        <option value="memory">Memoria</option>
+                        <option value="war" selected>Guerra</option>
+                        <option value="elimination">Eliminación</option>
+                    </select>
+                </div>
+
+                <div class="setting-group">
+                    <label for="round-count">Rondas a Jugar:</label>
+                    <select id="round-count">
+                        <option value="5">5 Rondas</option>
+                        <option value="10" selected>10 Rondas</option>
+                        <option value="15">15 Rondas</option>
+                        <option value="20">20 Rondas</option>
+                    </select>
+                </div>
+
+                <button id="start-game-btn" class="btn-primary">Comenzar Juego</button>
+            </div>
+        </div>
+
+        <div id="game-screen" class="screen hidden">
+            <div class="game-info">
+                <div class="players-info">
+                    <div id="current-player" class="player-status"></div>
+                    <div id="round-info" class="round-status"></div>
+                </div>
+                <button id="settings-btn" class="settings-btn">⚙️ Ajustes</button>
+            </div>
+
+            <div class="game-board">
+                <div class="deck-area">
+                    <div id="deck-remaining" class="deck-count">51 cartas</div>
+                    <button id="draw-btn" class="draw-btn">Sacar Carta</button>
+                </div>
+
+                <div class="cards-display">
+                    <div id="current-card" class="card-placeholder">
+                        <img id="card-image" src="" alt="Meme">
+                    </div>
+                </div>
+
+                <div class="player-scores">
+                    <div id="scores-list"></div>
+                </div>
+            </div>
+
+            <div class="game-actions">
+                <button id="next-round-btn" class="btn-secondary hidden">Siguiente Ronda</button>
+                <button id="end-game-btn" class="btn-danger">Terminar Partida</button>
+            </div>
+        </div>
+
+        <!-- Modal de Ajustes -->
+        <div id="settings-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>Ajustes</h2>
+                <div class="settings-body">
+                    <div class="setting-item">
+                        <label for="volume">Volumen:</label>
+                        <input type="range" id="volume" min="0" max="100" value="70">
+                    </div>
+                    <div class="setting-item">
+                        <label>Música:</label>
+                        <select id="music-select">
+                            <option value="none">Sin música</option>
+                            <option value="track1">Canción 1</option>
+                            <option value="track2">Canción 2</option>
+                        </select>
+                    </div>
+                    <button id="close-settings" class="btn-secondary">Cerrar</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal de Fin de Partida -->
+        <div id="game-end-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2>Fin de la Partida</h2>
+                <h3 id="winner-announcement">¡El ganador es...!</h3>
+                <p>Puntajes Finales:</p>
+                <ul id="final-scores-list"></ul>
+                <div class="modal-buttons">
+                    <button id="play-again-btn" class="restart-btn">Volver a Jugar</button>
+                    <button id="exit-btn" class="exit-btn">Salir</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
