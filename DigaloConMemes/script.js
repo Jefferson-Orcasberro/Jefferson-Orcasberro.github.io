@@ -71,8 +71,15 @@ function setupEventListeners() {
 // ===== INICIALIZACIÓN DEL JUEGO =====
 function initializeGame() {
     const playerCount = parseInt(playerCountInput.value);
-    maxRounds = parseInt(roundCountSelect.value);
+    const roundCountValue = roundCountSelect.value;
     gameMode = gameModeSelect.value;
+
+    // Configurar rondas
+    if (roundCountValue === 'unlimited') {
+        maxRounds = TOTAL_MEMES; // Jugar hasta terminar todas las cartas
+    } else {
+        maxRounds = parseInt(roundCountValue);
+    }
 
     // Crear jugadores
     players = [];
@@ -271,7 +278,14 @@ function closeWinnerModal() {
 // ===== ACTUALIZAR PANTALLA DEL JUEGO =====
 function updateGameDisplay() {
     currentPlayerDiv.textContent = `Todos escriban su meme`;
-    roundInfoDiv.textContent = `Ronda ${currentRound + 1}/${maxRounds}`;
+    
+    // Mostrar rondas según el modo
+    if (maxRounds === TOTAL_MEMES) {
+        roundInfoDiv.textContent = `Cartas usadas: ${usedMemes.length}/${TOTAL_MEMES}`;
+    } else {
+        roundInfoDiv.textContent = `Ronda ${currentRound + 1}/${maxRounds}`;
+    }
+    
     deckRemaining.textContent = `${TOTAL_MEMES - usedMemes.length} cartas`;
 
     updateScoresDisplay();
