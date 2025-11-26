@@ -29,6 +29,7 @@ const globalBackBtn = document.getElementById('global-back-btn');
 const settingsBtnSetup = document.getElementById('settings-btn-setup');
 const playersInputContainer = document.getElementById('players-input-container');
 const submitAnswersBtn = document.getElementById('submit-answers-btn');
+const playerNamesContainer = document.getElementById('player-names-container');
 
 // Variables de estado
 let players = [];
@@ -45,6 +46,7 @@ let playersFinished = 0;
 // ===== INICIALIZACIÓN =====
 window.addEventListener('load', () => {
     setupEventListeners();
+    generatePlayerNameInputs(); // Generar campos de nombre al cargar
 });
 
 function setupEventListeners() {
@@ -57,6 +59,7 @@ function setupEventListeners() {
     closeModalBtn.addEventListener('click', closeSettings);
     endGameBtn.addEventListener('click', showGameOverModal);
     globalBackBtn.addEventListener('click', goBack);
+    playerCountInput.addEventListener('change', generatePlayerNameInputs);
 
     document.addEventListener('click', (e) => {
         if (e.target === settingsModal) {
@@ -66,6 +69,29 @@ function setupEventListeners() {
             // No cerrar haciendo click afuera
         }
     });
+}
+
+function generatePlayerNameInputs() {
+    const playerCount = parseInt(playerCountInput.value);
+    playerNamesContainer.innerHTML = '';
+
+    for (let i = 1; i <= playerCount; i++) {
+        const inputGroup = document.createElement('div');
+        inputGroup.className = 'setting-group';
+
+        const label = document.createElement('label');
+        label.textContent = `Nombre Jugador ${i}:`;
+
+        const input = document.createElement('input');
+        input.type = 'text';
+        input.placeholder = `Jugador ${i}`;
+        input.className = 'player-name-input';
+        input.dataset.playerIndex = i - 1;
+
+        inputGroup.appendChild(label);
+        inputGroup.appendChild(input);
+        playerNamesContainer.appendChild(inputGroup);
+    }
 }
 
 // ===== INICIALIZACIÓN DEL JUEGO =====
@@ -81,12 +107,20 @@ function initializeGame() {
         maxRounds = parseInt(roundCountValue);
     }
 
-    // Crear jugadores
+    // Crear jugadores con nombres personalizados
     players = [];
+    const nameInputs = document.querySelectorAll('.player-name-input');
+    
     for (let i = 1; i <= playerCount; i++) {
+        let playerName = `Jugador ${i}`;
+        
+        if (nameInputs[i - 1] && nameInputs[i - 1].value.trim() !== '') {
+            playerName = nameInputs[i - 1].value.trim();
+        }
+        
         players.push({
             id: i,
-            name: `Jugador ${i}`,
+            name: playerName,
             score: 0,
             cardsWon: 0
         });
@@ -367,16 +401,30 @@ function closeSettings() {
 // Controles de volumen y música
 const volumeControl = document.getElementById('volume');
 const musicSelect = document.getElementById('music-select');
+let audioPlayer = new Audio();
+audioPlayer.loop = true;
 
 if (volumeControl) {
     volumeControl.addEventListener('change', (e) => {
-        console.log(`Volumen: ${e.target.value}%`);
+        audioPlayer.volume = e.target.value / 100;
     });
 }
 
 if (musicSelect) {
     musicSelect.addEventListener('change', (e) => {
-        console.log(`Música: ${e.target.value}`);
+        const selectedMusic = e.target.value;
+        
+        if (selectedMusic === 'none') {
+            audioPlayer.pause();
+            audioPlayer.currentTime = 0;
+        } else {
+            const musicPath = `../musicas/${selectedMusic}.mp3`;
+            audioPlayer.src = musicPath;
+            audioPlayer.volume = (volumeControl.value || 70) / 100;
+            audioPlayer.play().catch(() => {
+                console.error(`No se pudo reproducir: ${musicPath}`);
+            });
+        }
     });
 }
 

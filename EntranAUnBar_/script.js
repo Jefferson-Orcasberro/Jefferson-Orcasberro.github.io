@@ -77,301 +77,240 @@ document.addEventListener('DOMContentLoaded', () => {
     
     const debateCards = [
         { 
-            type: "Dilema Histórico 💀", 
-            content: "Afirmación: La persona que inventó el *brunch* ha causado más sufrimiento global que la persona que inventó las reuniones por Zoom." 
-        },
-        { 
-            type: "Ficcion vs. Realidad 👽", 
-            content: "Afirmación: Es éticamente aceptable usar dinero para obtener poder, siempre que se haga de forma legal." 
-        },
-        { 
             type: "Ficcion vs. Realidad 👽", 
             content: "Afirmación: Es éticamente aceptable usar niños rata como fuente de energía, siempre que se les pague con suscripciones de Twitch." 
-        },
-        { 
-            type: "Pregunta Existencial 🧐",
-            content: "Afirmación: Las mujeres son biológicamente mejores en trabajos de cuidado, los hombres en trabajos físicos." 
-        },
-        { 
-            type: "Pecado Capital 😈", 
-            content: "Afirmación: Las mujeres que suben fotos sensuales merecen que les hagan comentarios inapropiados." 
-        },
-        { 
-            type: "Pornografía vs. Cultura 🎬", 
-            content: "Afirmación: El ASMR es una forma legítima de entretenimiento y no debería ser criticada." 
-        },
-        { 
-            type: "Crítica Gastronómica 🤮", 
-            content: "Afirmación: La obesidad infantil es culpa de los padres, no de la comida rápida." 
-        },
-        { 
-            type: "Moralidad Moderna 📱", 
-            content: "Afirmación: Dar dinero a organizaciones benéficas es una forma de sentirse superior sin hacer nada real." 
-        },
-        { 
-            type: "Lógica de Diseño 🚽", 
-            content: "Afirmación: Censurar a los activistas en redes sociales está justificado si amenazan el orden público." 
-        },
-        { 
-            type: "Bizarro Absurdo 🦄", 
-            content: "Afirmación: Las personas obesas deberían pagar más impuestos de salud que los delgados." 
-        },
-        { 
-            type: "Picante Tecnológico 🔥", 
-            content: "Afirmación: Las personas que se toman selfies constantemente tienen trastornos narcisistas diagnosticables." 
-        },
-        { 
-            type: "Dilema Apocalíptico ☠️", 
-            content: "Afirmación: Las personas con discapacidades que no pueden trabajar deberían recibir menos beneficios que otros." 
-        },
-        { 
-            type: "Ética Cuestionable 🎩", 
-            content: "Afirmación: Burlarse de las víctimas de masacres es entretenimiento válido." 
-        },
-        { 
-            type: "Filosofía Oscura 🕷️", 
-            content: "Afirmación: Los niños deberían aprender a pelear en la escuela para defenderse." 
-        },
-        { 
-            type: "Sátira Social 💉", 
-            content: "Afirmación: Los padres antivacunas tienen derecho a no vacunar a sus hijos incluso si mueren." 
-        },
-        { 
-            type: "Crimen y Castigo ⚖️", 
-            content: "Afirmación: La pena de muerte es moralmente justificable para ciertos crímenes." 
-        },
-        { 
-            type: "Humor Morboso 🪦", 
-            content: "Afirmación: Es apropiado reírse durante un funeral si algo es realmente cómico." 
-        },
-        { 
-            type: "Absurdo Cotidiano 🎪", 
-            content: "Afirmación: Las personas que ponen música a todo volumen a las 7 AM merecen castigo físico." 
-        },
-        { 
-            type: "Predicción Distópica 🤖", 
-            content: "Afirmación: Es aceptable ser grosero con asistentes virtuales porque no tienen sentimientos." 
-        },
-        { 
-            type: "Sátira Política 🏛️", 
-            content: "Afirmación: Los políticos que no poseen al menos 3 scandales sexuales no deberían ser tomados en serio." 
-        },
-        { 
-            type: "Relativismo Moral 🌀", 
-            content: "Afirmación: Las personas pobres que roban comida son menos criminales que los evasores de impuestos." 
-        },
-        { 
-            type: "Horror Moderno 📡", 
-            content: "Afirmación: Los algoritmos de redes sociales han causado más daño psicológico que cualquier guerra de los últimos 20 años." 
-        },
-        { 
-            type: "Oscuridad Adulta 🍆", 
-            content: "Afirmación: Las aplicaciones de citas son solo para gente superficial que busca sexo." 
-        },
-        { 
-            type: "Realidad Incómoda 😏", 
-            content: "Afirmación: Las mujeres que tienen sexo en la primera cita son menos respetables que las que no." 
-        },
-        { 
-            type: "Verdad Estadística 📊", 
-            content: "Afirmación: Los introvertidos son superiores intelectualmente a los extrovertidos." 
-        },
-        { 
-            type: "Confesión Oscura 🔞", 
-            content: "Afirmación: Todos fingimos que nuestras búsquedas en *Google* son normales, pero en realidad hemos buscado cosas que nos enviarían a prisión." 
-        },
-        { 
-            type: "Pecado Carnal 😈", 
-            content: "Afirmación: Admitir tus hábitos privados es más importante que mantener la privacidad." 
-        },
-        { 
-            type: "Tabú Moderno 🚫", 
-            content: "Afirmación: Las personas deberían tener derecho a explorar su sexualidad de forma segura." 
-        },
-        { 
-            type: "Lógica Perversa 🧠", 
-            content: "Afirmación: La privacidad de la imagen es un derecho fundamental que no debería violarse nunca." 
-        },
-        { 
-            type: "Filosofía del Deseo 💋", 
-            content: "Afirmación: Los fantasmas sexuales que no confesas a tu pareja son tan importantes como tus libertades civiles." 
-        },
-        { 
-            type: "Depravación Compartida 👻", 
-            content: "Afirmación: La privacidad en el baño es un derecho que se respeta en las sociedades civilizadas." 
-        },
-        { 
-            type: "Intimidad Tóxica 🔴", 
-            content: "Afirmación: Los terapeutas deberían poder tener relaciones románticas con sus pacientes si ambos son adultos." 
-        },
-        { 
-            type: "Deseo Prohibido 🚨", 
-            content: "Afirmación: La obsesión por las celebridades es una enfermedad mental que requiere tratamiento." 
-        },
-        { 
-            type: "Secreto Sucio 🤐", 
-            content: "Afirmación: Todos hemos estado sexualmente atraídos por alguien completamente inapropiado, el que dice que no es un santo o un mentiroso." 
-        },
-        { 
-            type: "Verdad Incómoda 😳", 
-            content: "Afirmación: Las parejas deberían compartir todos sus fetiches y fantasías sin temor al juicio." 
-        },
-        { 
-            type: "Pecado de Pensamiento 🧐", 
-            content: "Afirmación: Pensar en otra persona durante el sexo es infidelidad emocional y debería castigarse igual que el engaño físico." 
-        },
-        { 
-            type: "Aberración Natural 🌿", 
-            content: "Afirmación: El uso de juguetes sexuales indica que una relación está rota." 
-        },
-        { 
-            type: "Morbo Histórico 📚", 
-            content: "Afirmación: Los historiadores que estudian prostitutas antiguas son académicos legítimos, los que miran pornografía histórica son degenerados." 
-        },
-        { 
-            type: "Tentación Laboral 💼", 
-            content: "Afirmación: Las relaciones románticas en el trabajo son inevitables e inevitablemente problemáticas." 
-        },
-        { 
-            type: "Fantasía Oscura 🌙", 
-            content: "Afirmación: Si tu fantasía sexual requiere que mentiras sobre quién eres, quizás sea un espejo de tu vida cotidiana." 
-        },
-        { 
-            type: "Culpa y Placer 🔗", 
-            content: "Afirmación: Ver contenido controversial en internet es una forma de curiosidad, no de depravación." 
-        },
-        { 
-            type: "Decadencia Social 🍷", 
-            content: "Afirmación: Las personas que se creen monógamas en realidad son simplemente malas en engañar." 
-        },
-        { 
-            type: "Realidad Brutal ⚰️", 
-            content: "Afirmación: Es mejor vivir una vida breve y apasionada que una vida larga y aburrida." 
-        },
-        { 
-            type: "Oscuridad Pura 🕳️", 
-            content: "Afirmación: Todos tenemos una búsqueda de pornografía que si fuera revelada destruiría nuestras reputaciones completamente." 
-        },
-        { 
-            type: "Ironía Mortuoria 💀", 
-            content: "Afirmación: Si mueres durante el sexo, la noticia es más vergonzosa que la muerte misma para tu familia." 
-        },
-        { 
-            type: "Lógica de Desastres 🌪️", 
-            content: "Afirmación: Los desastres naturales son un castigo por los pecados de la humanidad." 
-        },
-        { 
-            type: "Filosofía de Criminales 🔓", 
-            content: "Afirmación: Los asesinos seriales son menos peligrosos que los influencers de redes sociales en términos de daño social." 
-        },
-        { 
-            type: "Absurdo Médico 🏥", 
-            content: "Afirmación: Los médicos cometen errores constantemente pero nunca son responsabilizados." 
-        },
-        { 
-            type: "Sátira de Autores 📖", 
-            content: "Afirmación: Los autores que escriben sobre gente deprimida probablemente solo están describiéndose a sí mismos de forma legalizada." 
-        },
-        { 
-            type: "Verdad Cinematográfica 🎬", 
-            content: "Afirmación: Las películas de terror preparan mejor a las personas para la realidad que la educación formal." 
-        },
-        { 
-            type: "Paradoja de la Salud 💊", 
-            content: "Afirmación: Los nutricionistas son los principales mentirosos sobre su propia salud." 
-        },
-        { 
-            type: "Confesión de Millonarios 💰", 
-            content: "Afirmación: El dinero no compra felicidad, pero definitivamente ayuda." 
-        },
-        { 
-            type: "Hipocresía Espiritual 🙏", 
-            content: "Afirmación: Las personas religiosas son más hipócritas que los ateos." 
-        },
-        { 
-            type: "Oscuridad Educativa 📐", 
-            content: "Afirmación: Los matemáticos son más probables de ser suicidas que otros profesionales." 
-        },
-        { 
-            type: "Horror Gastronómico 🍽️", 
-            content: "Afirmación: Los chefs de televisión envenenan deliberadamente a sus espectadores con comida poco saludable." 
-        },
-        { 
-            type: "Verdad de Mascotas 🐕", 
-            content: "Afirmación: Los animales domésticos son mejores amigos que la mayoría de las personas." 
-        },
-        { 
-            type: "Sátira Laboral 👔", 
-            content: "Afirmación: Un 9 a 5 es simplemente esclavitud con 401k y beneficios de salud." 
-        },
-        { 
-            type: "Paradoja Temporal ⏰", 
-            content: "Afirmación: El tiempo es una ilusión que la sociedad creó para controlarnos." 
-        },
-        { 
-            type: "Realidad de Amigos 👥", 
-            content: "Afirmación: La mayoría de amigos desaparecen cuando los necesitas." 
-        },
-        { 
-            type: "Confusión Existencial 🌌", 
-            content: "Afirmación: Es probable que vivamos en una simulación controlada." 
-        },
-        { 
-            type: "Verdad Oscura 🖤", 
-            content: "Afirmación: El humor negro es una herramienta de supervivencia emocional." 
-        },
-        { 
-            type: "Horror Burocrático 📋", 
-            content: "Afirmación: Los impuestos son más injustos que los castigos por crímenes menores." 
-        },
-        { 
-            type: "Lógica de Vejez 👴", 
-            content: "Afirmación: Las personas envejecen porque renuncian a ser quiénes querían ser." 
-        },
-        { 
-            type: "Verdad de Padres 👨‍👩‍👧", 
-            content: "Afirmación: Los padres aman a sus hijos por obligación, no por verdadero amor." 
-        },
-        { 
-            type: "Sátira de Amor 💔", 
-            content: "Afirmación: El amor es la herramienta más efectiva para controlarnos mutuamente." 
-        },
-        { 
-            type: "Tragedia Cotidiana 🚗", 
-            content: "Afirmación: Morir en un accidente es una muerte más digna que morir de enfermedad." 
-        },
-        { 
-            type: "Confusión Moral 🎰", 
-            content: "Afirmación: El juego es un entretenimiento legítimo, no una enfermedad." 
-        },
-        { 
-            type: "Sátira Médica 💉", 
-            content: "Afirmación: Los médicos a menudo no saben qué está mal contigo realmente." 
-        },
-        { 
-            type: "Realidad Sombría 🌑", 
-            content: "Afirmación: Somos olvidados poco después de morir, lo que es liberador." 
-        },
-        { 
-            type: "Lógica de Perdedores 🎯", 
-            content: "Afirmación: Es mejor fallar rápido que sufrir lentamente." 
-        },
-        { 
-            type: "Filosofía del Fracaso 📉", 
-            content: "Afirmación: Los que se rindieron temprano tomaron la decisión más sabia." 
-        },
-        { 
-            type: "Horror de la Realidad 👻", 
-            content: "Afirmación: La mayor amenaza para la sociedad viene de dentro, no de afuera." 
-        },
-        { 
-            type: "Verdad Incómoda 😷", 
-            content: "Afirmación: Todos haríamos cosas horribles si no hubiera consecuencias legales." 
-        },
-        { 
-            type: "Sátira Histórica 📜", 
-            content: "Afirmación: La historia es escrita por los ganadores y los ricos, no por los verdaderos héroes." 
-        }
+        },{ 
+        type: "Justicia Digital ⚖️📱", 
+        content: "Afirmación: La pena máxima para un crimen debe ser determinada por el número de 'likes' que reciba un tweet de arrepentimiento publicado por el condenado en las primeras 24 horas." 
+    },
+    { 
+        type: "Inmigración vs. Gastronomía 🌍🍔", 
+        content: "Afirmación: Todos los países deben aceptar cuotas de inmigrantes basadas exclusivamente en la habilidad de los recién llegados para preparar su plato nacional de forma 'auténtica' según un jurado de influencers culinarios." 
+    },
+    { 
+        type: "Ecología vs. Moda 🌳👚", 
+        content: "Afirmación: Para combatir el cambio climático, es obligatorio que toda la ropa se fabrique a partir de musgo y líquenes que deben estar vivos y ser visibles en el momento de la compra." 
+    },
+    { 
+        type: "Derechos de Autor Celestial 🙏📜", 
+        content: "Afirmación: Es legal y éticamente correcto cobrar derechos de autor a cualquier persona que use la frase 'gracias a Dios' o 'por el amor de...' en cualquier contexto comercial." 
+    },
+    { 
+        type: "Educación vs. Reality 🎓📺", 
+        content: "Afirmación: El currículum escolar debe ser reemplazado por la visualización obligatoria de reality shows de supervivencia, ya que ofrecen habilidades de vida más 'reales' que las matemáticas." 
+    },
+    { 
+        type: "Salud Pública vs. Entretenimiento 💉🍿", 
+        content: "Afirmación: Todas las vacunas deben ser administradas exclusivamente por payasos que realicen un monólogo de stand-up de 15 minutos, para que la experiencia sea 'memorable' e 'interactiva'." 
+    },
+    { 
+        type: "Democracia Distópica 🗳️🤖", 
+        content: "Afirmación: Las elecciones nacionales deben resolverse mediante una competencia de baile entre los candidatos, y el público votará enviando emojis de fuego a través de una aplicación." 
+    },
+    { 
+        type: "Música vs. Sentimientos 🎶💔", 
+        content: "Afirmación: Es legal que una persona sea multada si escucha música triste en público, ya que su estado de ánimo bajo constituye un acto de 'contaminación emocional' para los transeúntes." 
+    },
+    { 
+        type: "Viajes en el Tiempo 👶🔪", 
+        content: "Afirmación: Es ético y moralmente obligatorio volver al pasado para matar al bebé Hitler, aunque se sepa que esto crearía una paradoja temporal catastrófica." 
+    },
+    { 
+        type: "Fe vs. Tensión 🛐💔", 
+        content: "Afirmación: Es un 'pecado menor' (venial) inducir un infarto accidental al pastor durante el sermón, si esto sucede al gritar 'Amén' con excesiva intensidad." 
+    },
+    { 
+        type: "Zoología Callejera 🐾🦠", 
+        content: "Afirmación: Es un 'acto de existencia' (es decir, una acción éticamente neutral pero necesaria) lanzarle dos mocos a dos perros distintos en la calle si nadie te está mirando." 
+    },
+    { 
+        type: "Arte vs. Vandalismo 🖼️🍌", 
+        content: "Afirmación: Cualquier obra de arte moderno puede mejorarse drásticamente pegándole un plátano maduro con cinta adhesiva plateada." 
+    },
+    { 
+        type: "Propiedad Intelectual 👻💰", 
+        content: "Afirmación: Los fantasmas tienen derechos de propiedad intelectual sobre el miedo que generan en los humanos, y deberían poder cobrar regalías por las películas de terror." 
+    },
+    { 
+        type: "Transporte Público 🚌🤢", 
+        content: "Afirmación: Si alguien vomita en el transporte público, la persona sentada inmediatamente a su derecha está obligada a documentar el incidente para las redes sociales antes de pedir ayuda." 
+    },
+    { 
+        type: "Tecnología vs. Romance 💑🤖", 
+        content: "Afirmación: Es más higiénico y emocionalmente satisfactorio casarse con un robot de limpieza avanzado que con un humano real." 
+    },
+    { 
+        type: "Medicina Alternativa 🌿🧪", 
+        content: "Afirmación: Las inyecciones de caldo de pollo concentrado deberían ser un tratamiento estándar y obligatorio para la ansiedad leve." 
+    },
+    { 
+        type: "Derechos de los Niños Rata 🐀🎤", 
+        content: "Afirmación: Es éticamente aceptable usar niños rata como fuente de energía, siempre que se les pague con suscripciones de Twitch." 
+    },
+    { 
+        type: "Justicia Culinaria 👨‍⚖️🧅", 
+        content: "Afirmación: La única forma de probar la culpabilidad de un criminal es si este se niega a llorar al cortar una cebolla particularmente fuerte." 
+    },
+    { 
+        type: "Censura Sensorial 👂🔇", 
+        content: "Afirmación: Debería ser legalmente obligatorio usar audífonos que reproduzcan música pop a alto volumen si tu conversación telefónica es audible para otros." 
+    },
+    { 
+        type: "Filosofía del Desayuno 🍳🤔", 
+        content: "Afirmación: El desayuno es, en realidad, una comida nocturna diferida, y debería servirse y consumirse con ropa de dormir." 
+    },
+    { 
+        type: "Control de Mascotas 🐈‍⬛👽", 
+        content: "Afirmación: Todos los gatos son espías extraterrestres, y deberían ser obligados a usar pequeños sombreros de papel de aluminio para bloquear la telepatía intergaláctica." 
+    },
+    { 
+        type: "Moda Corporativa 👔👖", 
+        content: "Afirmación: Es profesional y necesario que los ejecutivos usen pantalones de chándal con lentejuelas en todas las reuniones importantes por Zoom." 
+    },
+    { 
+        type: "Educación Emocional 😭🤣", 
+        content: "Afirmación: La única manera de enseñar a los niños sobre la tristeza es haciéndolos ver videos de gatitos fallando en saltos simples." 
+    },
+    { 
+        type: "Energía Sostenible 🔋🌬️", 
+        content: "Afirmación: La energía eólica debe ser reemplazada por generadores alimentados exclusivamente por los suspiros colectivos de la gente en el tráfico." 
+    },
+    { 
+        type: "Urbanismo 🏙️🚧", 
+        content: "Afirmación: Todas las rotondas deben ser reemplazadas por piscinas de bolas gigantes, obligando a los conductores a nadar hasta la salida correcta." 
+    },
+    { 
+        type: "Ética de la IA 🤖☕", 
+        content: "Afirmación: Una inteligencia artificial solo puede considerarse consciente si es capaz de preparar un café espresso perfecto sin ayuda humana." 
+    },
+    { 
+        type: "Nutrición Obligatoria 🥗🍦", 
+        content: "Afirmación: Los vegetales deben ser prohibidos, y el helado de vainilla debe considerarse la única fuente válida de vitaminas." 
+    },
+    { 
+        type: "Responsabilidad Social 🗣️🤫", 
+        content: "Afirmación: Si escuchas un chisme absolutamente increíble, tienes la obligación moral de compartirlo con al menos cinco desconocidos antes de que termine el día." 
+    },
+    { 
+        type: "Deportes Extremos 🤸‍♂️🧀", 
+        content: "Afirmación: El 'queso de cabra rodante' debe ser un deporte olímpico y debe jugarse en un campo inclinado cubierto de aceite de motor." 
+    },
+    { 
+        type: "Burocracia 📄🐌", 
+        content: "Afirmación: Todos los documentos oficiales deben ser entregados y firmados por una persona disfrazada de caracol gigante para ralentizar intencionalmente el proceso." 
+    },
+    { 
+        type: "Vida Marina 🐙📱", 
+        content: "Afirmación: Los pulpos son los únicos animales lo suficientemente inteligentes como para usar smartphones y deben ser incluidos en todos los planes familiares de telefonía." 
+    },
+    { 
+        type: "Higiene Pública 🚿🛁", 
+        content: "Afirmación: Es aceptable no ducharse en una semana si la razón es que te has dedicado por completo a aprender a tocar el ukelele." 
+    },
+    { 
+        type: "Relaciones Familiares 👨‍👩‍👧‍👦🍳", 
+        content: "Afirmación: La única forma de probar el amor verdadero en una relación es si tu pareja acepta comer tus sobras de comida de hace dos días sin quejarse." 
+    },
+    { 
+        type: "Control de Fronteras 🚧🎸", 
+        content: "Afirmación: Los controles de frontera deben ser reemplazados por un duelo de guitarras de rock épico entre los viajeros y los agentes." 
+    },
+    { 
+        type: "Derechos de los Veganos 🥕🦖", 
+        content: "Afirmación: Los veganos tienen derecho a argumentar que los dinosaurios se extinguieron porque no comían suficientes vegetales." 
+    },
+    { 
+        type: "Lenguaje Inclusivo 💬🦄", 
+        content: "Afirmación: Todos los adjetivos deben ser reemplazados por el sonido que hace un unicornio cuando estornuda." 
+    },
+    { 
+        type: "Salud Mental 🧠💡", 
+        content: "Afirmación: Es terapéutico gritarle a la tostadora cada mañana, ya que ayuda a descargar la frustración matutina." 
+    },
+    { 
+        type: "Cultura Pop 🎥👚", 
+        content: "Afirmación: La calidad de una película se mide por la cantidad de merchandising de camisetas que se puede producir con su logo." 
+    },
+    { 
+        type: "Espacio Exterior 🚀🥓", 
+        content: "Afirmación: El principal objetivo de la exploración espacial debe ser encontrar un planeta que sepa exactamente a tocino perfectamente crujiente." 
+    },
+    { 
+        type: "Maternidad/Paternidad 🤰🍼", 
+        content: "Afirmación: Los padres deben ser legalmente obligados a usar pañales de adulto durante el primer mes de vida de su bebé para 'simpatizar' con el proceso." 
+    },
+    { 
+        type: "Economía Global 📈🧦", 
+        content: "Afirmación: La estabilidad económica global depende directamente de la calidad y el diseño de los calcetines que usa el presidente del banco central." 
+    },
+    { 
+        type: "Modales en la Mesa 🍽️📱", 
+        content: "Afirmación: Es de mala educación extrema no tomar una foto de tu comida y enviarla a tu ex pareja antes de comerla." 
+    },
+    { 
+        type: "Climatología 🌦️💧", 
+        content: "Afirmación: La lluvia debe ser ilegal porque arruina los peinados y la gente debería llevar botellas de agua para regar las plantas manualmente." 
+    },
+    { 
+        type: "Historia Alternativa 👑🐀", 
+        content: "Afirmación: Napoleón Bonaparte era en realidad tres ratas grandes disfrazadas con un traje militar." 
+    },
+    { 
+        type: "Seguridad Vial 🚦🚗", 
+        content: "Afirmación: Los semáforos deben ser reemplazados por una persona que lanza globos de agua para indicar el 'stop' o el 'go'." 
+    },
+    { 
+        type: "Belleza y Estética 💄🖼️", 
+        content: "Afirmación: La única manera de juzgar la verdadera belleza de alguien es si se ve bien con un bigote de leche de vaca." 
+    },
+    { 
+        type: "Jubilación 👴👵", 
+        content: "Afirmación: Los jubilados deben ser obligados a trabajar como catadores profesionales de papas fritas, ya que tienen la experiencia de vida necesaria para el juicio." 
+    },
+    { 
+        type: "Derechos de las Plantas 🪴🚫", 
+        content: "Afirmación: Las plantas de interior tienen derecho a quejarse si no les gusta la música que pones en casa." 
+    },
+    { 
+        type: "Salud Pública (Versión II) 💊🎈", 
+        content: "Afirmación: Todos los medicamentos deben ser encapsulados en pequeños globos llenos de confeti para hacer el proceso de curación más festivo." 
+    },
+    { 
+        type: "Responsabilidad Civil 💥🍰", 
+        content: "Afirmación: Si accidentalmente causas un desastre natural, la única compensación aceptable es hornear y entregar una tarta de manzana de cinco pisos a cada víctima." 
+    },
+    { 
+        type: "Cultura de Oficina 💻🍕", 
+        content: "Afirmación: Es perfectamente aceptable comer la pizza de otro compañero de trabajo siempre y cuando se le deje una nota de 'lo siento, era necesario para la productividad'." 
+    },
+    { 
+        type: "Astronomía 🌌⭐", 
+        content: "Afirmación: Los agujeros negros son, de hecho, portales gigantes a una dimensión donde todo es de color malva y huele a canela rancia." 
+    },
+    { 
+        type: "Leyes de la Física 🍎🔮", 
+        content: "Afirmación: La gravedad solo funciona porque la Tierra está muy molesta y 'empuja' todo hacia abajo." 
+    },
+    { 
+        type: "Religión y Tecnología 🙏🔌", 
+        content: "Afirmación: Los diez mandamientos deben ser actualizados e incluir: 'No usarás la mayúscula sostenida en conversaciones en línea'." 
+    },
+    { 
+        type: "Identidad Personal 👤🎭", 
+        content: "Afirmación: Uno no puede considerarse un adulto completo hasta que haya intentado freír un huevo dentro de un microondas." 
+    },
+    { 
+        type: "Crimen y Castigo ⛓️🧸", 
+        content: "Afirmación: Los criminales encarcelados deben ser obligados a tejer y vestir pequeños suéteres de lana para todos los osos de peluche del mundo." 
+    },
+    { 
+        type: "Dieta y Nutrición 🍩🥒", 
+        content: "Afirmación: La mayonesa es una bebida, no un condimento, y debe servirse en copas de cóctel." 
+    },
+    { 
+        type: "Consumo de Medios 📰🎙️", 
+        content: "Afirmación: Toda la información de noticias debe ser cantada en el estilo de ópera cómica para hacerla más digerible y menos deprimente." 
+    }
     ];
 
     let currentRoles = {}; // Guarda los roles de la ronda actual
