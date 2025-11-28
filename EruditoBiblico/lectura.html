@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lectura Bíblica - Reina Valera 1960</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <button class="back-btn" onclick="volverAlMenu()">← Volver</button>
+        
+        <div class="bible-container">
+            <div class="bible-header">
+                <h1>📖 Lectura Bíblica</h1>
+                <p>Reina Valera 1960</p>
+            </div>
+
+            <div class="bible-controls">
+                <div class="control-group">
+                    <label for="libro-select">Libro:</label>
+                    <select id="libro-select" onchange="actualizarCapitulos()">
+                        <option value="">Selecciona un libro...</option>
+                    </select>
+                </div>
+
+                <div class="control-group">
+                    <label for="capitulo-select">Capítulo:</label>
+                    <select id="capitulo-select" onchange="cargarVersiculos()">
+                        <option value="">Selecciona un capítulo...</option>
+                    </select>
+                </div>
+
+                <button id="cargar-btn" class="btn-cargar" onclick="cargarVersiculos()">Cargar</button>
+            </div>
+
+            <div class="bible-content">
+                <div id="contenido-biblia" class="contenido">
+                    <p class="placeholder">Selecciona un libro y capítulo para comenzar a leer</p>
+                </div>
+            </div>
+
+            <div class="info-lectura">
+                <span id="referencia">Referencia: -</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="biblia.js"></script>
+    <script src="lectura.js"></script>
+</body>
+</html>

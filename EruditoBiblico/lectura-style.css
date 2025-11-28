@@ -1,0 +1,239 @@
+/* Estilos para la página de lectura */
+.bible-container {
+    max-width: 900px;
+    margin: 80px auto 40px;
+    background: linear-gradient(135deg, var(--bg-secondary) 0%, #252d3d 100%);
+    border-radius: 15px;
+    border: 2px solid var(--primary-color);
+    padding: 40px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+.bible-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.bible-header h1 {
+    font-size: 2.5em;
+    color: var(--secondary-color);
+    margin-bottom: 10px;
+}
+
+.bible-header p {
+    font-size: 1.1em;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+.bible-controls {
+    display: grid;
+    grid-template-columns: 1fr 1fr auto;
+    gap: 15px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: var(--bg-primary);
+    border-radius: 10px;
+}
+
+.control-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.control-group label {
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: var(--secondary-color);
+    font-size: 0.95em;
+}
+
+.control-group select {
+    padding: 10px;
+    background-color: #1a1a1a;
+    color: var(--text-primary);
+    border: 2px solid var(--primary-color);
+    border-radius: 6px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: border-color 0.3s;
+}
+
+.control-group select:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+}
+
+.control-group select:hover {
+    border-color: var(--secondary-color);
+}
+
+.btn-cargar {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s;
+    align-self: flex-end;
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
+}
+
+.btn-cargar:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 20px rgba(212, 175, 55, 0.5);
+}
+
+.btn-cargar:active {
+    transform: scale(0.98);
+}
+
+.bible-content {
+    background-color: var(--bg-primary);
+    border: 2px solid var(--primary-color);
+    border-radius: 10px;
+    padding: 30px;
+    min-height: 500px;
+    margin-bottom: 20px;
+    overflow-y: auto;
+    max-height: 600px;
+}
+
+.contenido {
+    line-height: 2;
+    font-size: 1.05em;
+    color: var(--text-primary);
+    font-family: 'Georgia', serif;
+}
+
+.placeholder {
+    color: var(--text-secondary);
+    text-align: center;
+    font-style: italic;
+    padding: 100px 0;
+}
+
+.versiculo {
+    margin-bottom: 15px;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.1);
+}
+
+.versiculo-numero {
+    color: var(--secondary-color);
+    font-weight: bold;
+    margin-right: 8px;
+    display: inline-block;
+    min-width: 40px;
+}
+
+.versiculo-texto {
+    display: inline;
+    color: var(--text-primary);
+}
+
+.info-lectura {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    padding: 15px;
+    background-color: var(--bg-primary);
+    border-radius: 8px;
+}
+
+#referencia {
+    color: var(--secondary-color);
+    font-weight: bold;
+}
+
+/* Scrollbar personalizado */
+.bible-content::-webkit-scrollbar {
+    width: 8px;
+}
+
+.bible-content::-webkit-scrollbar-track {
+    background: var(--bg-secondary);
+    border-radius: 10px;
+}
+
+.bible-content::-webkit-scrollbar-thumb {
+    background: var(--secondary-color);
+    border-radius: 10px;
+}
+
+.bible-content::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-color);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .bible-container {
+        margin: 70px 15px 30px;
+        padding: 25px;
+    }
+
+    .bible-header h1 {
+        font-size: 2em;
+    }
+
+    .bible-controls {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .btn-cargar {
+        align-self: stretch;
+    }
+
+    .bible-content {
+        min-height: 400px;
+        max-height: 500px;
+    }
+
+    .contenido {
+        font-size: 0.95em;
+        line-height: 1.8;
+    }
+}
+
+@media (max-width: 480px) {
+    .bible-container {
+        margin: 70px 10px 20px;
+        padding: 15px;
+        border-radius: 10px;
+    }
+
+    .bible-header h1 {
+        font-size: 1.6em;
+    }
+
+    .bible-header p {
+        font-size: 0.95em;
+    }
+
+    .control-group label {
+        font-size: 0.9em;
+    }
+
+    .control-group select {
+        font-size: 0.95em;
+        padding: 8px;
+    }
+
+    .bible-content {
+        min-height: 300px;
+        max-height: 400px;
+        padding: 15px;
+    }
+
+    .contenido {
+        font-size: 0.9em;
+        line-height: 1.7;
+    }
+
+    .versiculo {
+        margin-bottom: 12px;
+    }
+}

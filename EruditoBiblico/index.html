@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erudito Bíblico</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <button class="back-btn">← Volver</button>
+        
+        <div class="menu-container">
+            <div class="menu-header">
+                <h1>📖 Erudito Bíblico</h1>
+                <p>Explora las enseñanzas bíblicas</p>
+            </div>
+
+            <div class="menu-options">
+                <div class="menu-card">
+                    <div class="menu-icon">📚</div>
+                    <h2>Lectura</h2>
+                    <p>Lee la Biblia de forma tradicional, libro por libro y versículo por versículo.</p>
+                    <button class="btn-menu" onclick="irA('lectura')">Comenzar</button>
+                </div>
+
+                <div class="menu-card">
+                    <div class="menu-icon">💭</div>
+                    <h2>Temario</h2>
+                    <p>Descubre versículos relacionados con temas cotidianos como tristeza, alegría, esperanza y más.</p>
+                    <button class="btn-menu" onclick="irA('temario')">Comenzar</button>
+                </div>
+
+                <div class="menu-card">
+                    <div class="menu-icon">🎮</div>
+                    <h2>Juego</h2>
+                    <p>Pon a prueba tus conocimientos bíblicos con preguntas de diferentes niveles de dificultad.</p>
+                    <button class="btn-menu" onclick="irA('juego')">Comenzar</button>
+                </div>
+
+                <div class="menu-card salir">
+                    <div class="menu-icon">🚪</div>
+                    <h2>Salir</h2>
+                    <p>Regresa a la página principal.</p>
+                    <button class="btn-menu btn-exit" onclick="salir()">Salir</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
