@@ -31,7 +31,10 @@
                     </select>
                 </div>
 
-                <button id="cargar-btn" class="btn-cargar" onclick="cargarVersiculos()">Cargar</button>
+                <div class="controls-buttons">
+                    <button id="cargar-btn" class="btn-cargar" onclick="cargarVersiculos()">Cargar</button>
+                    <button id="contexto-btn" class="btn-contexto" onclick="obtenerContextoHistorico()" title="Obtener contexto histórico del capítulo">📚 Contexto</button>
+                </div>
             </div>
 
             <div class="bible-content">
@@ -42,6 +45,25 @@
 
             <div class="info-lectura">
                 <span id="referencia">Referencia: -</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Contexto Histórico -->
+    <div id="contexto-modal" class="modal-contexto hidden">
+        <div class="modal-contexto-content">
+            <div class="modal-contexto-header">
+                <h2>📖 Contexto Histórico</h2>
+                <button class="close-contexto" onclick="cerrarContexto()">&times;</button>
+            </div>
+            <div class="modal-contexto-body" id="contexto-contenido">
+                <div class="loading-spinner">
+                    <div class="spinner"></div>
+                    <p>Generando contexto histórico...</p>
+                </div>
+            </div>
+            <div class="modal-contexto-footer">
+                <button class="btn-close-modal" onclick="cerrarContexto()">Cerrar</button>
             </div>
         </div>
     </div>
