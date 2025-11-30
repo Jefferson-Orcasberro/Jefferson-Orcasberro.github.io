@@ -18,22 +18,22 @@
 
             <div class="bible-controls">
                 <div class="control-group">
-                    <label for="libro-select">Libro:</label>
+                    <label for="libro-select">📚 Libro:</label>
                     <select id="libro-select" onchange="actualizarCapitulos()">
                         <option value="">Selecciona un libro...</option>
                     </select>
                 </div>
 
                 <div class="control-group">
-                    <label for="capitulo-select">Capítulo:</label>
+                    <label for="capitulo-select">📖 Capítulo:</label>
                     <select id="capitulo-select" onchange="cargarVersiculos()">
                         <option value="">Selecciona un capítulo...</option>
                     </select>
                 </div>
 
                 <div class="controls-buttons">
-                    <button id="cargar-btn" class="btn-cargar" onclick="cargarVersiculos()">Cargar</button>
-                    <button id="contexto-btn" class="btn-contexto" onclick="obtenerContextoHistorico()" title="Obtener contexto histórico del capítulo">📚 Contexto</button>
+                    <button id="cargar-btn" class="btn-cargar" onclick="cargarVersiculos()" title="Cargar versículos">📖 Cargar</button>
+                    <button id="contexto-btn" class="btn-contexto" onclick="obtenerContextoHistorico()" title="Ver contexto histórico detallado">🕰️ Contexto</button>
                 </div>
             </div>
 
@@ -53,17 +53,17 @@
     <div id="contexto-modal" class="modal-contexto hidden">
         <div class="modal-contexto-content">
             <div class="modal-contexto-header">
-                <h2>📖 Contexto Histórico</h2>
-                <button class="close-contexto" onclick="cerrarContexto()">&times;</button>
+                <div class="header-info">
+                    <h2 id="contexto-titulo">🕰️ Contexto Histórico</h2>
+                    <p id="contexto-referencia" class="ref-small"></p>
+                </div>
+                <button class="close-contexto" onclick="cerrarContexto()" title="Cerrar">&times;</button>
             </div>
             <div class="modal-contexto-body" id="contexto-contenido">
                 <div class="loading-spinner">
                     <div class="spinner"></div>
-                    <p>Generando contexto histórico...</p>
+                    <p>🔍 Buscando información histórica...</p>
                 </div>
-            </div>
-            <div class="modal-contexto-footer">
-                <button class="btn-close-modal" onclick="cerrarContexto()">Cerrar</button>
             </div>
         </div>
     </div>
