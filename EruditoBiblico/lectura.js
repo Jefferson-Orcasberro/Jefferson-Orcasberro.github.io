@@ -216,10 +216,20 @@ window.addEventListener('click', function(event) {
 async function generarContextoIA(libro, capitulo, textoPrincipal) {
     console.log(`[API] Iniciando búsqueda de contexto para ${libro} ${capitulo}`);
     
+    // Función auxiliar con timeout
+    function fetchConTimeout(url, opciones, tiempoMaximo = 3000) {
+        return Promise.race([
+            fetch(url, opciones),
+            new Promise((_, reject) => 
+                setTimeout(() => reject(new Error('Timeout')), tiempoMaximo)
+            )
+        ]);
+    }
+    
     // Intentar con Hugging Face Inference API (libre)
     try {
         console.log('[API] Intentando Hugging Face...');
-        const response = await fetch('https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1', {
+        const response = await fetchConTimeout('https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -231,7 +241,7 @@ async function generarContextoIA(libro, capitulo, textoPrincipal) {
                     temperature: 0.7
                 }
             })
-        });
+        }, 3000);
         
         if (response.ok) {
             const result = await response.json();
@@ -247,90 +257,7 @@ async function generarContextoIA(libro, capitulo, textoPrincipal) {
         console.warn('[API] Hugging Face no disponible:', error.message);
     }
     
-    // Primero intentar con OpenRouter (modelo gratuito)
-    try {
-        console.log('[API] Intentando OpenRouter...');
-        const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'HTTP-Referer': 'https://jefferson-orcasberro.github.io',
-                'X-Title': 'Erudito Bíblico',
-            },
-            body: JSON.stringify({
-                model: 'mistralai/mistral-7b-instruct:free',
-                messages: [{
-                    role: 'user',
-                    content: `Eres un erudito bíblico experto con profundo conocimiento de la historia, cultura y teología. Proporciona un contexto histórico y espiritual detallado sobre ${libro} capítulo ${capitulo} en la Biblia.
-
-Estructura tu respuesta así:
-
-**📍 Contexto Histórico:**
-Explica cuándo sucedieron estos eventos, quién gobernaba, qué estaba ocurriendo en el mundo.
-
-**👥 Personajes Principales:**
-Lista los personajes clave mencionados en este capítulo.
-
-**🎯 Temas Centrales:**
-Identifica los temas principales y mensajes del capítulo.
-
-**✨ Significado Espiritual:**
-Explica el significado espiritual y las lecciones clave para los creyentes.
-
-Se conciso pero informativo (máximo 400 palabras). Usa un lenguaje claro y educativo.`
-                }],
-                temperature: 0.6,
-                max_tokens: 600
-            })
-        });
-        
-        if (response.ok) {
-            const result = await response.json();
-            if (result.choices && result.choices[0] && result.choices[0].message) {
-                const texto = result.choices[0].message.content;
-                console.log('[API] ✅ OpenRouter funcionó correctamente');
-                return formatearContexto(texto);
-            }
-        } else {
-            console.warn(`[API] OpenRouter retornó estado: ${response.status}`);
-        }
-    } catch (error) {
-        console.warn('[API] OpenRouter no disponible:', error.message);
-    }
-    
-    // Alternativa: Usar la API de Together AI (también gratuita)
-    try {
-        console.log('[API] Intentando Together AI...');
-        const response = await fetch('https://api.together.xyz/inference', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                model: 'mistralai/Mistral-7B-Instruct-v0.1',
-                prompt: `Eres un erudito bíblico. Proporciona contexto sobre ${libro} ${capitulo}:`,
-                max_tokens: 400,
-                temperature: 0.7,
-                top_k: 40,
-                top_p: 0.9
-            })
-        });
-        
-        if (response.ok) {
-            const result = await response.json();
-            if (result.output && result.output.choices) {
-                const texto = result.output.choices[0].text;
-                console.log('[API] ✅ Together AI funcionó correctamente');
-                return formatearContexto(texto);
-            }
-        } else {
-            console.warn(`[API] Together AI retornó estado: ${response.status}`);
-        }
-    } catch (error) {
-        console.warn('[API] Together AI no disponible:', error.message);
-    }
-    
-    // Si ninguna API funciona, usar generador local basado en datos
+    // Si ninguna API funciona rápidamente, usar generador local basado en datos
     console.log('[API] ⚠️ Usando base de datos local (modo offline)');
     return generarContextoLocal(libro, capitulo);
 }
