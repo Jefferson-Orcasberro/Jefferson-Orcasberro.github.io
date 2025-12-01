@@ -124,6 +124,14 @@ async function obtenerContextoHistorico() {
     // Actualizar referencia en el header del modal
     document.getElementById('contexto-referencia').textContent = `${libroActual} ${capituloActual}`;
     
+    // Mostrar indicador de carga
+    document.getElementById('contexto-contenido').innerHTML = `
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>🔍 Buscando información histórica...</p>
+        </div>
+    `;
+    
     const cacheKey = `${libroActual}-${capituloActual}`;
     
     // Si ya existe en cache, mostrar directamente
@@ -141,7 +149,7 @@ async function obtenerContextoHistorico() {
             textoBiblia = versiculos.slice(0, 3).map(v => v.texto).join(' ');
         }
         
-        // Llamar a la API de IA
+        // Llamar a la API de IA - siempre retorna algo (API o local)
         const contexto = await generarContextoIA(libroActual, capituloActual, textoBiblia);
         
         // Guardar en cache
@@ -150,8 +158,11 @@ async function obtenerContextoHistorico() {
         // Mostrar el contexto
         mostrarContexto(contexto);
     } catch (error) {
-        console.error('Error al generar contexto:', error);
-        mostrarErrorContexto();
+        console.error('Error al obtener contexto:', error);
+        // Como fallback final, intentar cargar desde la base de datos local
+        const contextoLocal = generarContextoLocal(libroActual, capituloActual);
+        cacheContexto[cacheKey] = contextoLocal;
+        mostrarContexto(contextoLocal);
     }
 }
 
@@ -27546,8 +27557,8 @@ function generarContextoLocal(libro, capitulo) {
     };
     
     // Buscar en la base de datos local
-    if (baseDatos[libro] && baseDatos[libro][capitulo]) {
-        return formatearContextoLocal(baseDatos[libro][capitulo]);
+    if (baseDatosFinal[libro] && baseDatosFinal[libro][capitulo]) {
+        return formatearContextoLocal(baseDatosFinal[libro][capitulo]);
     }
     
     // Contexto genérico si no existe en la base de datos
