@@ -27480,6 +27480,5721 @@ function generarContextoLocal(libro, capitulo) {
                     <strong>💡 Lección clave:</strong> El creyente debe recordar la Ley de Moisés. La esperanza final es la venida del Mesías y la reconciliación familiar.
                 </div>
             `,
+        },
+        'Mateo': {
+            1: `
+                <h3>📖 Mateo 1: Genealogía y Nacimiento de Jesús</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Mateo, escrito principalmente para una audiencia judía, comienza probando que **Jesús es el Mesías** prometido al rastrear Su genealogía desde Abraham a través de David (la línea real y legal). La genealogía incluye cuatro mujeres (Tamar, Rahab, Rut y la esposa de Urías), lo que subraya la gracia de Dios. El capítulo culmina con el **nacimiento virginal** (el cumplimiento de Isaías 7:14) y la orden de nombrar al niño **Jesús** ("YHWH salva") y **Emanuel** ("Dios con nosotros").</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Evangelio (Narrativa Biográfica-Teológica)</li>
+                    <li><strong>Autor:</strong> Mateo (Leví), recaudador de impuestos y apóstol</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Cumplimiento de la Profecía:</strong> Jesús es el Emanuel</li>
+                    <li><strong>Linaje Davídico:</strong> La prueba de que Jesús es el Rey Mesías</li>
+                    <li><strong>Nacimiento Virginal:</strong> La naturaleza divina y humana de Jesús</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Antiguo Testamento encuentra su objetivo en Cristo</span>. La soberanía de Dios guía la historia para traer a Su Hijo al mundo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la conexión de Cristo con las promesas históricas de Dios a Israel.
+                </div>
+            `,
+            2: `
+                <h3>📖 Mateo 2: Los Magos, Herodes y la Huida a Egipto</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Los Magos** (sabios gentiles) visitan al "Rey de los judíos" en Jerusalén, causando el celo del Rey **Herodes**. La profecía se cumple con el nacimiento en **Belén** (Miqueas 5:2). Herodes, furioso, ordena la **matanza de los niños** de Belén (cumplimiento de Jeremías 31:15). José huye con la familia a **Egipto** (cumplimiento de Oseas 11:1) y, a su regreso, se establecen en **Nazaret** ("para que se cumpliese lo que fue dicho por los profetas, que sería llamado Nazareno").</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Histórica y Profética</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Adoración Gentil:</strong> Los Magos reconocen al Rey antes que Su propio pueblo</li>
+                    <li><strong>Hostilidad:</strong> El rechazo del mundo a Cristo desde el nacimiento</li>
+                    <li><strong>Cumplimiento:</strong> El patrón de la vida de Jesús en la historia de Israel</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida de Jesús está marcada por el sufrimiento</span> y el cumplimiento del plan divino. La fe de los gentiles es una señal profética.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe entender que el mundo rechaza al Rey de Dios, pero los que le buscan (Magos) le adoran.
+                </div>
+            `,
+            3: `
+                <h3>📖 Mateo 3: El Ministerio de Juan el Bautista y el Bautismo de Jesús</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Aparece **Juan el Bautista**, la "voz que clama en el desierto" (cumplimiento de Isaías 40:3), predicando el **arrepentimiento** para el Reino de los cielos. Juan confronta a los fariseos. **Jesús** se presenta para ser **bautizado** por Juan en el Jordán para "cumplir toda justicia". El Espíritu Santo desciende en forma de paloma, y la voz de Dios Padre declara: "**Este es mi Hijo amado, en quien tengo complacencia**."</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Biográfica y Teológica</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Precursor:</strong> Juan el Bautista prepara el camino del Mesías</li>
+                    <li><strong>Cumplir la Justicia:</strong> Jesús se identifica con la humanidad pecadora</li>
+                    <li><strong>Trinidad:</strong> La manifestación del Padre, el Hijo y el Espíritu Santo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">bautismo de Jesús inicia Su ministerio</span> público y revela la Trinidad. El arrepentimiento es la puerta al Reino.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar el arrepentimiento y el testimonio del Padre sobre el Hijo.
+                </div>
+            `,
+            4: `
+                <h3>📖 Mateo 4: La Tentación de Jesús y el Inicio del Ministerio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El Espíritu Santo lleva a Jesús al desierto para ser **tentado por el diablo** por 40 días. Jesús es tentado en tres áreas (piedras en pan, saltar del Templo, adoración a Satanás) y responde a cada una con la **Palabra de Dios** ("Escrito está"). Después, Jesús comienza Su ministerio en **Galilea** (cumplimiento de Isaías 9:1-2), predicando: "**Arrepentíos, porque el reino de los cielos se ha acercado**." Llama a Sus primeros discípulos (Pedro, Andrés, Jacobo, Juan) y comienza a sanar.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Biográfica y Teológica</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Obediencia:</strong> Jesús vence la tentación donde Adán e Israel fallaron</li>
+                    <li><strong>Poder de la Palabra:</strong> La Escritura es la defensa contra el diablo</li>
+                    <li><strong>Llamado:</strong> Jesús llama a Sus discípulos a "pescadores de hombres"</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Mesías vence el poder de Satanás</span> a través de la obediencia. El Reino se anuncia con la predicación y la sanidad.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe usar la Palabra de Dios como defensa contra la tentación.
+                </div>
+            `,
+            5: `
+                <h3>📖 Mateo 5: Las Bienaventuranzas y la Ley del Reino (Sermón del Monte)</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El inicio del **Sermón del Monte**, el discurso más largo de Jesús (Cap. 5-7), la **constitución del Reino**. Jesús comienza con las **Bienaventuranzas**, que describen la naturaleza del ciudadano del Reino (pobres en espíritu, mansos, pacificadores, etc.). Luego, declara que los discípulos son la **sal y la luz** del mundo. Jesús establece la **relación entre Su enseñanza y la Ley**: Él no vino a abrogar, sino a **cumplir** la Ley, elevando la justicia a la intención del corazón (ira vs. asesinato; lujuria vs. adulterio).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Didáctico (Ética del Reino)</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Ética del Reino:</strong> Las virtudes invertidas de los ciudadanos del Reino</li>
+                    <li><strong>Cumplimiento de la Ley:</strong> Jesús revela el verdadero significado de la Torá</li>
+                    <li><strong>Justicia del Corazón:</strong> La Ley de Cristo va más allá de la acción externa</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">justicia del Reino supera a la del fariseo</span> y se centra en el corazón. La fe se demuestra en la ética radical.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe practicar una justicia que proviene de la transformación interior, no solo de la observancia externa.
+                </div>
+            `,
+            6: `
+                <h3>📖 Mateo 6: La Piedad Verdadera y el Padrenuestro</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús aborda la **piedad genuina** en la vida pública. Condena la **hipocresía** al dar limosna, orar y ayunar (hacerlo para ser vistos por los hombres). Jesús enseña la **Oración del Señor** (el Padrenuestro) como modelo de intimidad con Dios. Concluye con un llamado a la **confianza en Dios** y a no afanarse por las necesidades (ropa, comida), buscando primero el **Reino de Dios y Su justicia**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Didáctico (Práctica de la Piedad)</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Motivación:</strong> La piedad debe ser para Dios, no para la gloria humana</li>
+                    <li><strong>Oración:</strong> El modelo de intimidad y sumisión a la voluntad de Dios</li>
+                    <li><strong>Confianza:</strong> Buscar el Reino primero y no afanarse por lo terrenal</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera piedad es privada e íntima</span>. La fe se demuestra en la confianza total en la provisión de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la aprobación de Dios, no la de los hombres, y confiar en Su Padre celestial para la provisión.
+                </div>
+            `,
+            7: `
+                <h3>📖 Mateo 7: Juicio, la Regla de Oro y la Conclusión del Sermón</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El final del Sermón del Monte. Jesús advierte contra el **juicio hipócrita** (la viga en el ojo propio). Enseña la **Regla de Oro**: "**Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; pues esto es la ley y los profetas.**" Advierte sobre el **camino estrecho** y los **falsos profetas** (que serán conocidos por sus frutos). El sermón concluye con la parábola de los **dos cimientos** (oír y hacer la Palabra, oír y no hacerla), y la multitud se maravilla de Su autoridad.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Didáctico (Conclusión y Exhortación)</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Hipocresía:</strong> No juzgar con vara doble</li>
+                    <li><strong>Regla de Oro:</strong> El resumen ético de la Ley</li>
+                    <li><strong>Cimiento:</strong> La obediencia práctica como la única base para la vida</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">cristianismo es práctico y exige obediencia</span>. La fe que no obra es vana.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe edificar su vida sobre la obediencia a la Palabra de Cristo, no solo sobre la escucha.
+                </div>
+            `,
+            8: `
+                <h3>📖 Mateo 8: El Poder de Cristo sobre la Enfermedad y la Naturaleza</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El capítulo comienza la sección de la **autoridad de Cristo** manifestada en milagros. Jesús sana a un **leproso**, al **siervo del centurión** (un gentil, destacando la fe fuera de Israel), y a la **suegra de Pedro**. Jesús demuestra Su poder sobre la **naturaleza** al calmar la tempestad y sobre los **demonios** al sanar a los endemoniados de Gadara. El costo del discipulado es alto.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Milagros</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad Mesianica:</strong> Jesús es Señor de la enfermedad, la naturaleza y los demonios</li>
+                    <li><strong>Fe Gentil:</strong> La fe del Centurión supera a la de Israel</li>
+                    <li><strong>Costo del Discipulado:</strong> El llamado a seguir a Jesús sin un lugar donde reclinar la cabeza</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>Los <span class="highlight">milagros de Jesús confirman Su identidad</span> como Mesías y Rey. La fe no tiene fronteras étnicas.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la fe simple y la obediencia radical, reconociendo la soberanía de Cristo sobre toda circunstancia.
+                </div>
+            `,
+            9: `
+                <h3>📖 Mateo 9: El Perdón del Pecado y el Llamamiento de Mateo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús **sana a un paralítico**, pero primero declara que **Sus pecados le son perdonados** (causando controversia sobre Su autoridad divina). Jesús llama a **Mateo** (el autor, un recaudador de impuestos) y come con pecadores (declarando que vino por los enfermos). Jesús realiza más milagros, incluyendo la resurrección de la hija de un oficial y sanar a ciegos. El capítulo termina con la declaración de que la **mies es mucha y los obreros pocos**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Milagros y Llamado</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Perdón:</strong> Jesús tiene autoridad para perdonar pecados</li>
+                    <li><strong>Misericordia:</strong> Jesús come con pecadores y llama a los enfermos</li>
+                    <li><strong>Comisión:</strong> La urgencia de la misión y la escasez de obreros</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">autoridad de Cristo es mayor que la enfermedad</span>, y se extiende al perdón de pecados. Él es el Médico.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe reconocer que la misión es urgente y que Jesús vino a buscar a los pecadores, no a los justos.
+                </div>
+            `,
+            10: `
+                <h3>📖 Mateo 10: La Misión de los Doce Apóstoles</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús escoge y enumera a los **doce apóstoles** y les da autoridad para sanar y echar fuera demonios. Les da instrucciones detalladas para una **misión inicial solo a Israel** (la "ovejas perdidas de la casa de Israel"). La predicación debe ser: "**El reino de los cielos se ha acercado**." Jesús advierte sobre la **persecución** venidera, pero los consuela: deben temer a Dios, no a los hombres. El discipulado exige una lealtad suprema a Cristo.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Misión y Profecía</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Comisionamiento:</strong> La autoridad delegada a los apóstoles</li>
+                    <li><strong>Persecución:</strong> El conflicto inherente a la predicación del Reino</li>
+                    <li><strong>Lealtad:</strong> El discipulado exige más lealtad que la familia</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">misión es una extensión de la autoridad de Cristo</span>. La fe se demuestra al perseverar en la persecución.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe saber que la persecución es inevitable, pero debe confiar en que Dios provee las palabras en el momento de la prueba.
+                </div>
+            `,
+            11: `
+                <h3>📖 Mateo 11: Pregunta de Juan el Bautista y la Invitación al Descanso</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Juan el Bautista**, desde la cárcel, envía a preguntar a Jesús si Él es el Mesías. Jesús responde citando Sus milagros (Isaías 35) y declarando que las **bienaventuranzas son para los que no se ofenden en Él**. Jesús alaba a Juan y condena a las ciudades impenitentes de Corazín y Betsaida. El capítulo concluye con una de las invitaciones más famosas de Jesús: "**Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar... porque mi yugo es fácil, y ligera mi carga**."</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa y Discurso de Sabiduría</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Duda:</strong> La confusión sobre la identidad de Jesús</li>
+                    <li><strong>Reprensión:</strong> El juicio sobre la incredulidad</li>
+                    <li><strong>Descanso:</strong> La liberación de la carga de la ley y el pecado</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Mesías se revela no con poder político</span>, sino con el poder de la sanidad. El descanso se encuentra en la sumisión a Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe encontrar el descanso en el yugo de Cristo. La humildad es la llave para recibir la revelación de Dios.
+                </div>
+            `,
+            12: `
+                <h3>📖 Mateo 12: El Señor del Día de Reposo y el Pecado Imperdonable</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús es acusado de violar el **Día de Reposo** por Sus discípulos (arrancar espigas) y por Él Mismo (sanar en sábado). Jesús declara: "**El Hijo del Hombre es Señor aun del día de reposo**." El conflicto se intensifica. Los fariseos le acusan de echar fuera demonios por el poder de **Beelzebú**. Jesús advierte sobre el **pecado contra el Espíritu Santo** (la blasfemia). El capítulo termina con la declaración de que la verdadera familia de Jesús son los que hacen la voluntad de Dios.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Soberanía del Sábado:</strong> Jesús es superior a la ley sabática</li>
+                    <li><strong>Pecado Imperdonable:</strong> Atribuir la obra de Dios al diablo</li>
+                    <li><strong>Signo de Jonás:</strong> La resurrección como la única prueba de la autoridad de Jesús</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">autoridad de Jesús es divina</span>, y Su juicio es inevitable. El arrepentimiento es posible, pero la blasfemia contra el Espíritu no.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la obediencia al Padre. La obra del Espíritu Santo es el testimonio final de la divinidad de Cristo.
+                </div>
+            `,
+            13: `
+                <h3>📖 Mateo 13: El Discurso de las Parábolas del Reino</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El tercer discurso de Jesús, dedicado a las **Parábolas del Reino** (siete en total), explicando la naturaleza misteriosa y el crecimiento del Reino. Las más importantes son: 1) **Sembrador** (cuatro tipos de suelo/corazones). 2) **Trigo y Cizaña** (la mezcla de creyentes e incrédulos hasta el juicio). 3) **Grano de Mostaza** (crecimiento imparable). 4) **Levadura** (influencia sutil). Jesús explica que habla en parábolas para que "oyendo no oigan, ni entendiendo entiendan", a causa de su incredulidad.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Parábolas (Misterios del Reino)</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Misterios del Reino:</strong> El Reino crece de forma inesperada y con oposición</li>
+                    <li><strong>Juicio Final:</strong> La separación del trigo y la cizaña</li>
+                    <li><strong>Incredulidad:</strong> El propósito de las parábolas es ocultar la verdad a los incrédulos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Reino se establece en el corazón</span> (Sembrador) y es un misterio hasta el final. La fe es necesaria para la comprensión.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe entender que el Reino crece en secreto, con oposición, pero el juicio final es seguro.
+                </div>
+            `,
+            14: `
+                <h3>📖 Mateo 14: Muerte de Juan el Bautista y la Alimentación de los Cinco Mil</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El capítulo narra la brutal **decapitación de Juan el Bautista** por Herodes Antipas, como resultado de una promesa imprudente. La noticia lleva a Jesús a retirarse a un lugar desierto, donde realiza el milagro de la **alimentación de los cinco mil** (la provisión del Rey). Jesús camina sobre el **agua** y llama a **Pedro** a caminar también, demostrando Su poder sobre la naturaleza y la duda humana. La fe flaqueante de Pedro es una advertencia.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Juicio y Milagros</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Martirio:</strong> La fidelidad a Dios conduce a la persecución y la muerte</li>
+                    <li><strong>Provisión:</strong> Jesús es la fuente de la vida y el alimento</li>
+                    <li><strong>Fe y Duda:</strong> El poder de la fe y la advertencia de la duda</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">muerte de Juan prefigura la muerte de Jesús</span>. Cristo es el Pan de Vida y el Señor de las circunstancias.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confiar en la provisión de Cristo. La fe es lo que permite al discípulo hacer lo imposible.
+                </div>
+            `,
+            15: `
+                <h3>📖 Mateo 15: La Tradición de los Ancianos y la Fe Cananea</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús confronta a los fariseos sobre la **tradición de los ancianos** (lavarse las manos antes de comer) que invalida la Ley de Dios (honrar al padre y a la madre). Jesús declara que lo que **contamina al hombre no es lo que entra, sino lo que sale del corazón**. La **mujer cananea** (gentil) demuestra una fe persistente al rogar por la sanidad de su hija, y Jesús la alaba. Jesús realiza la **segunda alimentación** (cuatro mil personas) para gentiles y judíos.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia y Milagros</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Legalismo:</strong> La tradición humana vs. la Ley de Dios</li>
+                    <li><strong>Corazón:</strong> El pecado reside en el corazón, no en la acción externa</li>
+                    <li><strong>Fe Persistente:</strong> La oración y la fe que prevalecen, incluso en los gentiles</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe genuina es más importante que la tradición</span>. La fe es la llave que abre la puerta de la misericordia de Cristo, sin importar el origen.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la pureza del corazón, no la observancia legalista. La fe debe ser persistente en la oración.
+                </div>
+            `,
+            16: `
+                <h3>📖 Mateo 16: La Confesión de Pedro y la Cruz del Discipulado</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Los fariseos piden un signo, y Jesús solo les promete el **Signo de Jonás** (Su resurrección). Jesús pregunta a Sus discípulos: "**¿Quién decís que soy yo?**" **Pedro** confiesa: "**Tú eres el Cristo, el Hijo del Dios viviente**." Jesús declara que esta revelación vino del Padre y que sobre esta "roca" (la confesión/revelación de Su identidad) edificará Su **Iglesia**. Jesús comienza a enseñar que debe **morir y resucitar**. Le reprende a Pedro y declara: "**Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame.**"</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Confesión y Discurso de Discipulado</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Identidad de Cristo:</strong> Jesús como el Mesías, Hijo de Dios</li>
+                    <li><strong>La Iglesia:</strong> El fundamento de la Iglesia es la confesión de Cristo</li>
+                    <li><strong>La Cruz:</strong> La necesidad de la muerte y el sufrimiento en el discipulado</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">revelación de Cristo es el fundamento de la fe</span>. El discipulado exige negación y el camino de la cruz.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confesar a Cristo como el Mesías y abrazar el sufrimiento como parte del llamado.
+                </div>
+            `,
+            17: `
+                <h3>📖 Mateo 17: La Transfiguración y el Espíritu de Elías</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús se **transfigura** delante de Pedro, Jacobo y Juan en un monte alto. **Moisés** (la Ley) y **Elías** (los Profetas) aparecen, conversando con Jesús. La voz del Padre vuelve a declarar: "**Este es mi Hijo amado, en quien tengo complacencia; a él oíd**." El evento prueba la supremacía de Jesús sobre la Ley y los Profetas. Jesús sana a un lunático y enseña sobre la **necesidad de la fe** para mover montañas. Anuncia de nuevo Su muerte y resurrección.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Teológica y Milagros</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Transfiguración:</strong> La manifestación de la gloria de Cristo antes de la pasión</li>
+                    <li><strong>Supremacía:</strong> Jesús es superior a Moisés y Elías</li>
+                    <li><strong>Fe y Oración:</strong> La necesidad de la fe para realizar milagros</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">gloria de Cristo es divina</span> y es el cumplimiento de toda la Escritura. La fe es la herramienta para la obra.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe escuchar a Cristo y desarrollar una fe que le permita hacer la obra de Dios.
+                </div>
+            `,
+            18: `
+                <h3>📖 Mateo 18: La Humildad, el Perdón y la Disciplina de la Iglesia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús enseña sobre las relaciones en el Reino. Declara que el más grande es el que se hace **como un niño** (humildad). Advierte severamente sobre el **escándalo** (hacer caer a otros). Explica la **disciplina de la Iglesia** (tres pasos: privado, testigos, Iglesia) y el poder de la oración de dos o tres ("donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos"). La parábola del **siervo impagable** ilustra la necesidad del perdón ilimitado (70 veces 7).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Eclesiástico y Parábola</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Humildad:</strong> La base del discipulado</li>
+                    <li><strong>Disciplina:</strong> El proceso para restaurar al hermano</li>
+                    <li><strong>Perdón:</strong> La necesidad del perdón ilimitado, basado en el perdón de Dios</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Reino exige humildad y reconciliación</span>. El perdón es la prueba de haber sido perdonado.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser humilde, evitar el escándalo y practicar el perdón ilimitado a los hermanos.
+                </div>
+            `,
+            19: `
+                <h3>📖 Mateo 19: El Matrimonio, el Divorcio y la Riqueza</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús enseña sobre el **matrimonio**, estableciendo que Dios creó al hombre y a la mujer para una **unión indisoluble** ("lo que Dios juntó, no lo separe el hombre"). Se aborda el **riesgo de la riqueza** para la salvación: es **más fácil pasar un camello por el ojo de una aguja** que un rico entre en el Reino. Jesús responde que "para los hombres esto es imposible, mas para Dios todo es posible". Se promete la recompensa de los apóstoles.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia y Discurso Ético</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Pacto Matrimonial:</strong> El estándar original de Dios para el matrimonio</li>
+                    <li><strong>Riqueza:</strong> El peligro de confiar en las riquezas para la salvación</li>
+                    <li><strong>Posibilidad Divina:</strong> La salvación es enteramente obra de Dios</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fidelidad en el matrimonio es un reflejo del Pacto</span>. La salvación es un acto de la gracia de Dios, no de la capacidad humana.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe honrar el matrimonio y confiar en que la salvación es un milagro de Dios, no un logro propio.
+                </div>
+            `,
+            20: `
+                <h3>📖 Mateo 20: Parábola de los Obreros y la Ceguera Sanada</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La parábola de los **obreros de la viña** ilustra la **gracia y la soberanía de Dios** en la recompensa. El dueño paga lo mismo a los que trabajaron una hora que a los que trabajaron todo el día, afirmando: "**¿No me es lícito hacer lo que quiero con lo mío?**" Jesús enseña que en el Reino el que quiera ser **grande** debe ser **siervo** (el liderazgo es servicio). Jesús sana a **dos ciegos** a las puertas de Jericó (la última sanidad importante antes de Jerusalén).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Parábola y Narrativa de Servicio</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Gracia Soberana:</strong> Dios es libre de recompensar como quiera</li>
+                    <li><strong>Liderazgo:</strong> La grandeza se encuentra en el servicio</li>
+                    <li><strong>Siervo:</strong> Jesús vino a servir y a dar Su vida en rescate por muchos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">valor de la recompensa no se basa en el esfuerzo</span> humano, sino en la generosidad de Dios. El servicio es el camino a la grandeza.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar el servicio humilde y agradecer la soberanía de Dios en la recompensa.
+                </div>
+            `,
+            21: `
+                <h3>📖 Mateo 21: La Entrada Triunfal y la Purificación del Templo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús entra a **Jerusalén** montado en un asno (cumplimiento de Zacarías 9:9), aclamado como el Hijo de David (**Entrada Triunfal**). Jesús entra en el Templo y lo **purifica**, echando fuera a los mercaderes y cambistas: "**Mi casa, casa de oración será llamada; mas vosotros la habéis hecho cueva de ladrones**." El capítulo concluye con la parábola de los **dos hijos** y la de los **labradores malvados** (el rechazo de Israel a los profetas y al Hijo).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Confrontación y Parábola</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Rey Mesías:</strong> La proclamación pública de la realeza de Jesús</li>
+                    <li><strong>Autoridad de Cristo:</strong> El poder para purificar el centro del culto</li>
+                    <li><strong>Rechazo:</strong> La incredulidad de los líderes de Israel</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Rey viene en humildad para juzgar y purificar</span> Su casa. El rechazo lleva al juicio.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe honrar la casa de Dios como casa de oración. La obediencia al Padre es lo que define al verdadero hijo.
+                </div>
+            `,
+            22: `
+                <h3>📖 Mateo 22: Bodas, Impuestos y el Gran Mandamiento</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús confronta a los líderes de Israel con parábolas (las **bodas del hijo del rey**) y a través de preguntas difíciles. Responde a los fariseos sobre el **tributo al César** con: "**Dad, pues, al César lo que es del César, y a Dios lo que es de Dios**." Responde a los saduceos sobre la resurrección. Finalmente, declara que el **Gran Mandamiento** es amar a Dios y amar al prójimo (resumiendo toda la Ley y los Profetas). El capítulo termina con Jesús preguntándoles sobre el origen del Mesías (Hijo de David y Señor de David).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia y Discurso Didáctico</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad Civil:</strong> La relación entre el creyente y el estado</li>
+                    <li><strong>Gran Mandamiento:</strong> El resumen ético de la fe</li>
+                    <li><strong>Divinidad de Cristo:</strong> Jesús es Señor y Rey, no solo Hijo de David</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obediencia a Dios es el Gran Mandamiento</span>. La fe se demuestra al vivir en el mundo sin ser del mundo, cumpliendo con ambos deberes.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe amar a Dios y al prójimo, y cumplir con sus responsabilidades civiles y religiosas.
+                </div>
+            `,
+            23: `
+                <h3>📖 Mateo 23: Los Siete Ayes contra los Fariseos</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús pronuncia un discurso de **juicio severo** contra los **fariseos y escribas**, el liderazgo religioso. Les condena por su **hipocresía** (decir pero no hacer), su búsqueda de honor y su legalismo opresivo. Jesús pronuncia **siete ayes** sobre ellos por cerrar el Reino, amar el dinero más que el Templo y perseguir a los justos. El capítulo termina con un lamento: "**¡Jerusalén, Jerusalén, que matas a los profetas!**" La casa de ellos queda desierta hasta que digan: "**Bendito el que viene en el nombre del Señor**."</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Juicio (Invectiva)</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Hipocresía:</strong> El contraste entre la apariencia y la realidad del corazón</li>
+                    <li><strong>Juicio:</strong> La condenación sobre el liderazgo religioso por su rechazo al Mesías</li>
+                    <li><strong>Lamento:</strong> El dolor de Jesús por la incredulidad de Su pueblo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">juicio de Dios es severo para el liderazgo hipócrita</span>. La fe es lo que exige obediencia y humildad.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la humildad y la obediencia sincera, no la apariencia religiosa.
+                </div>
+            `,
+            24: `
+                <h3>📖 Mateo 24: El Discurso del Monte de los Olivos (Señales del Fin)</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El **Discurso Escatológico** de Jesús, en el Monte de los Olivos (Cap. 24-25). Los discípulos preguntan por la **destrucción del Templo** y las **señales de Su venida**. Jesús describe las **señales generales** (guerras, terremotos, falsos cristos) y la señal específica de la **abominación desoladora** (la destrucción de Jerusalén en el 70 d.C.). Declara que el evangelio será predicado en todo el mundo y que Su regreso será repentino ("como el relámpago").</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Escatológico y Apocalíptico</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Destrucción del Templo:</strong> La ruina de Jerusalén</li>
+                    <li><strong>Fin de los Tiempos:</strong> Las señales antes del regreso de Cristo</li>
+                    <li><strong>Venida Repentina:</strong> La necesidad de estar vigilantes</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">historia se dirige al regreso de Cristo</span>. La fe se demuestra en la vigilancia y la evangelización mundial.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir en constante vigilancia, cumpliendo la misión, sabiendo que el fin vendrá de repente.
+                </div>
+            `,
+            25: `
+                <h3>📖 Mateo 25: Parábolas de la Vigilancia y el Juicio Final</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El fin del Discurso Escatológico, con tres parábolas: 1) **Diez Vírgenes** (cinco prudentes, cinco insensatas), enfatizando la necesidad de la **vigilancia constante**. 2) **Talentos** (la mayordomía de los dones). 3) **Ovejas y Cabritos** (el **juicio final** de las naciones, donde la base del juicio es la **misericordia** mostrada a los "hermanos más pequeños" de Cristo: alimentar al hambriento, visitar al encarcelado, etc.). El capítulo establece la ética del Reino como el criterio final.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Escatológico y Parábola</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Vigilancia:</strong> La preparación para la venida del Esposo</li>
+                    <li><strong>Mayordomía:</strong> Usar los dones y recursos para el Reino</li>
+                    <li><strong>Juicio Ético:</strong> El servicio al prójimo es el criterio del Juicio Final</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe se demuestra en la acción práctica</span>: la vigilancia, la mayordomía y la misericordia.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser un buen mayordomo de sus dones y mostrar misericordia a los necesitados, como si sirviera a Cristo Mismo.
+                </div>
+            `,
+            26: `
+                <h3>📖 Mateo 26: La Última Cena, Getsemaní y la Traición</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El inicio de la Pasión. Jesús celebra la **Pascua** con Sus discípulos (la **Última Cena**), instituyendo el sacramento de la **Cena del Señor** (el pan como Su cuerpo y la copa como Su sangre del nuevo pacto). En **Getsemaní**, Jesús ora con agonía, pidiendo que pase de Él esta copa, pero sometiéndose a la voluntad del Padre. **Judas** lo traiciona por **30 piezas de plata** (cumplimiento de Zacarías 11:13). Jesús es arrestado y condenado por el Sanedrín, y **Pedro** le **niega** tres veces.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Pasión</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Nuevo Pacto:</strong> La sangre de Cristo como la base del nuevo pacto</li>
+                    <li><strong>Sumisión:</strong> Jesús se somete a la voluntad del Padre en Getsemaní</li>
+                    <li><strong>Traición:</strong> La maldad de Judas y la debilidad de Pedro</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obediencia de Cristo en el sufrimiento</span> es la base de nuestra redención. La fe es probada en la agonía.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la sumisión a la voluntad de Dios en el sufrimiento y aprender de la restauración después de la negación.
+                </div>
+            `,
+            27: `
+                <h3>📖 Mateo 27: El Juicio, la Crucifixión y la Sepultura</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Judas se ahorca** y devuelve las 30 monedas. Jesús es llevado ante **Pilato**, quien se **lava las manos**. La multitud pide la crucifixión. Jesús es **crucificado** en el Gólgota. El velo del Templo se **rasga** en dos, hay un terremoto y los santos resucitan (señales del juicio). Jesús clama: "**Dios mío, Dios mío, ¿por qué me has desamparado?**" (Sal. 22). **José de Arimatea** lo sepulta. Los guardias vigilan el sepulcro.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Pasión</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Expiación:</strong> El abandono de Dios para el perdón del pecado</li>
+                    <li><strong>Rasgadura del Velo:</strong> El acceso directo a Dios por la muerte de Cristo</li>
+                    <li><strong>Testimonio Gentil:</strong> El centurión confiesa la divinidad de Jesús</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">muerte de Cristo es el cumplimiento de la Escritura</span> y la ofrenda por el pecado. La expiación abre el camino a Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la reconciliación con Dios a través del sacrificio de Cristo en la cruz.
+                </div>
+            `,
+            28: `
+                <h3>📖 Mateo 28: La Resurrección y la Gran Comisión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**María Magdalena** y la otra María van al sepulcro y encuentran que el ángel anuncia la **Resurrección**. Los guardias son sobornados para decir que los discípulos robaron el cuerpo. Jesús se aparece a Sus discípulos en **Galilea** (como les había prometido). Jesús les da la **Gran Comisión** (el Quinto Discurso): "**Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado.**" El libro concluye con la promesa: "**Y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo.**"</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Resurrección y Discurso de Misión</li>
+                    <li><strong>Autor:</strong> Mateo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Resurrección:</strong> La prueba final de la divinidad de Cristo y la victoria</li>
+                    <li><strong>Gran Comisión:</strong> El mandato de evangelizar y discipular a todas las naciones</li>
+                    <li><strong>Presencia de Cristo:</strong> La promesa de la presencia constante del Señor</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">Resurrección es la base de la fe</span> y el motor de la misión. La autoridad de Cristo se extiende a toda la Tierra.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe obedecer la Gran Comisión. La esperanza se basa en la resurrección de Cristo y Su presencia diaria en el mundo.
+                </div>
+            `
+        },
+        'Marcos': {
+            1: `
+                <h3>📖 Marcos 1: El Comienzo del Evangelio y el Llamado</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Marcos comienza inmediatamente con la acción: "El comienzo del evangelio de Jesucristo, Hijo de Dios". Presenta a **Juan el Bautista** como el precursor (Isaías 40:3). Jesús es bautizado y tentado, e inmediatamente comienza a predicar en Galilea. Su palabra es acompañada de **autoridad** (un tema central en Marcos): llama a Sus primeros discípulos (Pedro, Andrés, Jacobo, Juan) y sana a un endemoniado y a la suegra de Pedro. El capítulo termina con Jesús predicando y sanando en muchas sinagogas.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Evangelio (Narrativa Biográfica, Rápida y Dinámica)</li>
+                    <li><strong>Autor:</strong> Juan Marcos (asociado a Pedro y Bernabé)</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Comienzo Inmediato:</strong> El uso constante de "inmediatamente" (euthys en griego)</li>
+                    <li><strong>Autoridad de Cristo:</strong> Poder sobre la enfermedad y los demonios</li>
+                    <li><strong>Discipulado:</strong> El llamado repentino a seguir a Jesús</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">ministerio de Jesús es un asalto activo</span> y poderoso contra el reino de Satanás, ejecutado con urgencia divina.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe responder al llamado de Cristo con urgencia y reconocer Su autoridad en cada área.
+                </div>
+            `,
+            2: `
+                <h3>📖 Marcos 2: El Conflicto con la Religión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El conflicto con el liderazgo religioso comienza. Jesús sana al **paralítico** en Capernaúm, declarando primero que **Sus pecados le son perdonados** (cuestionando Su autoridad divina). Luego, **llama a Leví (Mateo)**, un recaudador de impuestos, y come con pecadores (declarando que vino por los "enfermos"). Continúan las controversias sobre el **ayuno** y el **Día de Reposo**. Jesús establece un principio clave: "**El Hijo del Hombre es Señor aun del día de reposo**," situando la compasión y Su autoridad por encima de las tradiciones.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad para Perdonar:</strong> La prerrogativa divina de Jesús</li>
+                    <li><strong>Gracia para los Pecadores:</strong> Jesús vino a buscar a los marginados</li>
+                    <li><strong>Soberanía del Sábado:</strong> Jesús redefine el propósito del sábado</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">autoridad de Jesús es integral</span>: no solo sobre la enfermedad, sino sobre la ley y el pecado mismo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe priorizar la misericordia y el nuevo pacto de Jesús sobre las tradiciones religiosas.
+                </div>
+            `,
+            3: `
+                <h3>📖 Marcos 3: Los Doce y la Verdadera Familia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús sana a un hombre con la **mano seca** en el sábado, desafiando a Sus adversarios que buscaban motivos para acusarle. Esto provoca que los fariseos y herodianos conspiren para matarle. Jesús se retira y luego sube al monte para **seleccionar a los Doce apóstoles** (estableciendo Su equipo de misión). Los escribas lo acusan de echar fuera demonios por el poder de **Beelzebú** (blasfemia contra el Espíritu Santo). Jesús define a Su **verdadera familia** como aquellos que hacen la voluntad de Dios, no los lazos de sangre.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Llamamiento y Conflicto</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Formación del Equipo:</strong> La selección de los Doce para Su misión</li>
+                    <li><strong>Pecado Imperdonable:</strong> Advertencia sobre atribuir la obra de Dios a Satanás</li>
+                    <li><strong>Familia Espiritual:</strong> El parentesco basado en la obediencia</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obra de Jesús es una invasión del Reino de Dios</span>, y Él capacita a Sus seguidores para extender ese poder.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar el compañerismo en la fe y basar sus relaciones en la obediencia a Dios.
+                </div>
+            `,
+            4: `
+                <h3>📖 Marcos 4: El Misterio de las Parábolas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús usa parábolas para enseñar sobre el Reino. La principal es la del **Sembrador**, que ilustra cómo el Reino crece de forma inesperada a pesar de la oposición y el rechazo. Enseña que el propósito de las parábolas es revelar los **misterios del Reino** a los que están "dentro" y ocultarlos a los "de fuera". Continúa con la parábola de la **Lámpara** y el **Grano de Mostaza** (el crecimiento imparable del Reino). El capítulo concluye con Jesús **calmando la tempestad** en el mar, demostrando Su poder sobre la naturaleza.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Parábolas y Narrativa de Milagros</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Crecimiento del Reino:</strong> El Reino actúa de manera misteriosa y se desarrolla en el corazón</li>
+                    <li><strong>Propósito de las Parábolas:</strong> Revelación y ocultamiento</li>
+                    <li><strong>Poder sobre la Naturaleza:</strong> Jesús es Señor de los elementos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">semilla del Evangelio siempre producirá fruto</span>, a pesar de los obstáculos, y el poder de Cristo es total.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe cultivar un corazón que reciba la Palabra y confiar en la soberanía de Cristo sobre las tormentas de la vida.
+                </div>
+            `,
+            5: `
+                <h3>📖 Marcos 5: Autoridad sobre la Muerte y los Demonios</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Este capítulo está lleno de poderosos milagros, demostrando la autoridad ilimitada de Jesús. El endemoniado **Geraseno** es liberado, y los demonios son enviados a los cerdos. A Su regreso, Jesús sana a la **mujer con flujo de sangre** (un toque de fe) y, finalmente, **resucita a la hija de Jairo** (autoridad sobre la muerte). Marcos enfatiza el poder de Jesús incluso en la burla y la incredulidad.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Milagros</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Poder sobre el Mal:</strong> Jesús es más fuerte que las legiones de demonios</li>
+                    <li><strong>Fe y Contacto:</strong> La fe de la mujer rompe las barreras religiosas</li>
+                    <li><strong>Victoria sobre la Muerte:</strong> Jesús como la vida (Talita Cumi)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>Jesús demuestra que <span class="highlight">vino a destruir las obras del diablo</span> y que Su poder se extiende a las áreas de la vida consideradas impuras e incurables.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la fe valiente y persistente, confiando en que nada es imposible para Jesús.
+                </div>
+            `,
+            6: `
+                <h3>📖 Marcos 6: Rechazo, Misión y Martirio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús es **rechazado en Nazaret**, Su pueblo natal, y no puede hacer muchos milagros allí, salvo por unos pocos enfermos, a causa de su incredulidad. Envía a los **Doce de dos en dos** (el primer acto de la Gran Comisión), dándoles autoridad. Se narra la trágica **decapitación de Juan el Bautista** por Herodes Antipas. Jesús realiza el milagro de la **alimentación de los cinco mil** con cinco panes y dos peces. Cierra el capítulo **caminando sobre el agua**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Juicio</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Incredulidad:</strong> El rechazo que limita la obra visible de Jesús</li>
+                    <li><strong>Delegación:</strong> Los discípulos participan en la autoridad de Cristo</li>
+                    <li><strong>Provisión:</strong> El milagro de Jesús como el Pan de Vida</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">discipulado implica poder y persecución</span>. La provisión de Cristo es superabundante para las necesidades de Su pueblo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar ser usado por Dios, incluso si eso conlleva ser rechazado por el mundo, y confiar en Su provisión.
+                </div>
+            `,
+            7: `
+                <h3>📖 Marcos 7: Lo que Contamina al Hombre y Fe Cananea</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús debate con los fariseos sobre la **tradición de los ancianos** (lavado ritual de manos), que anula los mandamientos de Dios. Jesús declara que lo que **contamina al hombre no es lo que entra por la boca, sino lo que sale del corazón** (los malos pensamientos, fornicaciones, envidias, etc.). Jesús se dirige a las regiones de Tiro y Sidón (gentiles) y sana a la hija de la **mujer sirofenicia** (gentil), elogiando su gran fe. También sana a un hombre **sordomudo** (usando la palabra *Efatá*).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia y Milagros</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Pureza Interior:</strong> El corazón es la fuente del pecado, no el exterior</li>
+                    <li><strong>Tradición vs. Mandamiento:</strong> El conflicto entre la ley humana y la divina</li>
+                    <li><strong>Fe Gentil:</strong> La gracia de Cristo se extiende más allá de Israel</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera pureza es un asunto del corazón</span>. La fe es la llave para la bendición, sin importar la etnia o la tradición.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la limpieza interior de sus motivaciones y no permitir que las tradiciones anulen la Palabra de Dios.
+                </div>
+            `,
+            8: `
+                <h3>📖 Marcos 8: El Pan, la Ceguera y la Confesión de Pedro</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús alimenta a los **cuatro mil** (la segunda alimentación, probablemente con un enfoque gentil). Advierte a Sus discípulos sobre la **levadura de Herodes y los fariseos** (la incredulidad y la hipocresía). Jesús sana al **ciego de Betsaida en dos etapas**, lo que puede ser una lección sobre el proceso gradual en el entendimiento de los discípulos. El capítulo clave: Jesús pregunta: "¿Quién decís que soy yo?" **Pedro confiesa: "Tú eres el Cristo."** Inmediatamente, Jesús revela que debe **sufrir, morir y resucitar**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Revelación</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Identidad de Cristo:</strong> La revelación de Jesús como el Mesías</li>
+                    <li><strong>Vía Crucis:</strong> La necesidad del sufrimiento del Mesías</li>
+                    <li><strong>Discipulado (Cruz):</strong> El llamado a negarse a sí mismo y seguir el camino de la cruz</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Mesías de Dios debe sufrir</span> para reinar. El verdadero discipulado exige una negación radical de uno mismo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confesar a Cristo y tomar su cruz, entendiendo que el camino de la gloria pasa por el sufrimiento.
+                </div>
+            `,
+            9: `
+                <h3>📖 Marcos 9: La Gloria y la Humildad</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Jesús se transfigura** ante Pedro, Jacobo y Juan, Su gloria es manifestada y el Padre lo ratifica: "**Este es mi Hijo amado; a él oíd.**" Luego, Jesús baja del monte y sana a un niño **endemoniado** que Sus discípulos no pudieron sanar, señalando la necesidad de la **oración**. Jesús vuelve a predecir Su **muerte y resurrección**. El capítulo termina con enseñanzas sobre la **humildad** (ser el último), la necesidad de evitar el **escándalo** (hacer caer a otros) y la importancia de tener "**sal**" (pureza) en las relaciones.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Gloria y Discurso Didáctico</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Transfiguración:</strong> La manifestación de la gloria divina antes del sacrificio</li>
+                    <li><strong>Poder de la Oración:</strong> La fe que requiere oración para enfrentar a los demonios</li>
+                    <li><strong>Humildad:</strong> La clave para la grandeza en el Reino</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">gloria del Reino está ligada a la humildad</span> y la obediencia sacrificial. La fe se perfecciona en la oración.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la oración y la humildad, evitando ser piedra de tropiezo para los demás.
+                </div>
+            `,
+            10: `
+                <h3>📖 Marcos 10: El Servicio y la Riqueza</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús enseña sobre el **matrimonio y el divorcio**, volviendo al estándar de la creación de Dios. **Bendice a los niños**, usándolos como ejemplo de la entrada al Reino. El **joven rico** le pregunta sobre la vida eterna, y Jesús le pide que venda todo; el joven se va triste. Jesús dice que es **más fácil que un camello pase por el ojo de una aguja** que un rico entre en el Reino. Enseña a Sus discípulos que el liderazgo es **servicio** ("el que quiera ser el primero, será siervo de todos"). Sana a **Bartimeo**, el ciego de Jericó.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Ética y Narrativa de Milagros</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Matrimonio:</strong> La indisolubilidad del pacto</li>
+                    <li><strong>Riqueza:</strong> El peligro de las posesiones como ídolo</li>
+                    <li><strong>Servicio:</strong> El liderazgo del Reino es humilde y sacrificial</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">discipulado es una renuncia total a lo terrenal</span> y una adopción del servicio humilde, siguiendo el ejemplo del Siervo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe despojarse de la confianza en las riquezas y buscar la grandeza en el servicio a los demás.
+                </div>
+            `,
+            11: `
+                <h3>📖 Marcos 11: La Autoridad en Jerusalén</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús entra a **Jerusalén** montado en un pollino (la **Entrada Triunfal**), aclamado con palmas. Al día siguiente, **maldiice la higuera** (símbolo de Israel que no dio fruto), y purifica el Templo: expulsa a los cambistas, afirmando que Su casa debe ser "**casa de oración**." Los principales sacerdotes buscan matarle. La higuera se seca (símbolo del juicio de Dios sobre el culto vacío). Jesús enseña sobre la **oración de fe** y el **perdón**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Confrontación</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Juicio:</strong> El simbolismo de la higuera sin fruto y la purificación del Templo</li>
+                    <li><strong>Autoridad de Cristo:</strong> El poder para juzgar y limpiar el Templo</li>
+                    <li><strong>Oración y Perdón:</strong> La fe se demuestra en la oración y la misericordia</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">venida del Rey trae juicio</span> sobre la religión que no produce fruto y que se ha corrompido con el comercio.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la fe en la oración y el perdón, sabiendo que Dios busca frutos de justicia.
+                </div>
+            `,
+            12: `
+                <h3>📖 Marcos 12: Las Últimas Controversias</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús cuenta la parábola de los **labradores malvados**, que mataron al hijo del dueño (una clara profecía de Su propia muerte). Los fariseos lo interrogan sobre el **tributo al César**. Los saduceos lo interrogan sobre la **resurrección**. Responde que el **Gran Mandamiento** es amar a Dios y al prójimo. Jesús confronta a los escribas sobre el origen del Mesías (no solo Hijo de David, sino Señor de David). El capítulo termina con la ofrenda de la **viuda pobre**, quien dio todo lo que tenía.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia y Discurso Didáctico</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Rechazo:</strong> La parábola predice el rechazo y muerte de Jesús</li>
+                    <li><strong>Autoridad Dual:</strong> El deber hacia Dios y hacia el estado</li>
+                    <li><strong>Verdadera Devoción:</strong> La viuda da más en el espíritu que todos los ricos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obediencia a Dios es el centro de la Ley</span>. El verdadero sacrificio es el que proviene de la entrega total, no de la abundancia.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe dar con sacrificio al Señor, y Su devoción debe reflejarse en el amor a Dios y al prójimo.
+                </div>
+            `,
+            13: `
+                <h3>📖 Marcos 13: El Discurso del Monte de los Olivos</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El **Discurso Escatológico** o "Pequeño Apocalipsis" de Jesús. Jesús predice la **destrucción del Templo**. Sus discípulos preguntan por las señales de Su venida. Jesús advierte sobre las **señales generales** (guerras, terremotos, falsos cristos) y la inminente **persecución**. Habla de la **abominación desoladora** (relacionada con la destrucción de Jerusalén en el 70 d.C.) y la **venida del Hijo del Hombre** en gloria. El mensaje central es la **vigilancia**: "**Mirad, velad y orad; porque no sabéis cuándo será el tiempo**."</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Escatológico y Profético</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Profecía:</strong> La destrucción de Jerusalén y el fin de los tiempos</li>
+                    <li><strong>Perseverancia:</strong> La necesidad de resistir la persecución hasta el fin</li>
+                    <li><strong>Vigilancia:</strong> Estar preparados, ya que nadie sabe el día ni la hora</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">historia se dirige a un clímax</span>. La fe se demuestra al vivir en constante preparación y cumplimiento de la misión.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir vigilante, no ser engañado por falsos cristos, y perseverar en la fe en medio de las pruebas.
+                </div>
+            `,
+            14: `
+                <h3>📖 Marcos 14: La Cena, la Traición y la Negación</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El comienzo de la Pasión. Una mujer **unge a Jesús con perfume** costoso en Betania. **Judas Iscariote** lo traiciona a cambio de dinero. Jesús celebra la **Pascua** con Sus discípulos, instituyendo la **Cena del Señor** (el Nuevo Pacto en Su sangre). En el **Getsemaní**, Jesús agoniza en oración y se somete a la voluntad del Padre. **Judas** lo entrega con un beso, y Jesús es arrestado. Es interrogado por el Sanedrín y condenado por blasfemia. **Pedro** le **niega** tres veces antes de que el gallo cante.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Pasión</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Adoración:</strong> El ungimiento prefigura Su sepultura</li>
+                    <li><strong>Sumisión:</strong> Jesús acepta la copa de sufrimiento en Getsemaní</li>
+                    <li><strong>Fallo Humano:</strong> La traición de Judas y la negación de Pedro</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sacrificio de Jesús es voluntario</span> y redentor. La debilidad del hombre es contrastada con la fortaleza del Siervo de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la sumisión a la voluntad de Dios y reconocer que el perdón está disponible incluso después de las fallas más grandes (Pedro).
+                </div>
+            `,
+            15: `
+                <h3>📖 Marcos 15: La Crucifixión y la Muerte del Hijo de Dios</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús es llevado ante **Pilato**, quien lo interroga. El pueblo pide la liberación de **Barrabás** y exige la crucifixión de Jesús. Es escarnecido y golpeado por los soldados. Jesús es **crucificado** en el Gólgota a la hora tercera (9 a.m.). Permanece colgado hasta la hora novena (3 p.m.), cuando clama y muere. El **velo del Templo se rasga** en dos. El **centurión romano**, testigo de Su muerte, declara: "**Verdaderamente este hombre era Hijo de Dios**." **José de Arimatea** pide Su cuerpo y lo sepulta.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Pasión</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Juicio Injusto:</strong> La condena de un inocente por conveniencia política y presión popular</li>
+                    <li><strong>Expiación:</strong> La muerte de Cristo como cumplimiento del plan divino</li>
+                    <li><strong>Testimonio Gentil:</strong> Un romano reconoce la divinidad de Jesús en la cruz</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">muerte de Cristo abre el camino al Padre</span> (velo rasgado). Es la máxima prueba de que es el Siervo Sufriente y el Hijo de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe meditar en el sacrificio de Cristo en la cruz, el cual es la fuente de Su salvación.
+                </div>
+            `,
+            16: `
+                <h3>📖 Marcos 16: La Resurrección y la Gran Comisión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Las mujeres (María Magdalena, María la madre de Jacobo y Salomé) van al sepulcro para ungir el cuerpo y encuentran la piedra removida. Un joven con ropas blancas les anuncia la **Resurrección** y les ordena ir a **Galilea** a ver a Jesús. El texto original de Marcos termina en el versículo 8, con las mujeres huyendo con miedo y asombro. Los versículos 9-20 son considerados por la mayoría de los estudiosos como una adición posterior, pero describen la **aparición de Jesús** y la **Gran Comisión**: predicar el evangelio a toda criatura y el poder de las señales.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Resurrección y Misión</li>
+                    <li><strong>Autor:</strong> Marcos</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Resurrección:</strong> La victoria de Cristo sobre la muerte</li>
+                    <li><strong>La Gran Comisión:</strong> El mandato de evangelizar con señales (en el agregado posterior)</li>
+                    <li><strong>Misterio:</strong> El final abrupto que enfatiza la necesidad de la fe (v. 8)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">Resurrección es el poder que valida todo el ministerio</span> de Jesús y da inicio a la misión de la Iglesia.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir bajo la autoridad del Cristo resucitado, predicando el evangelio a todo el mundo.
+                </div>
+            `
+        },
+        'Lucas': {
+            1: `
+                <h3>📖 Lucas 1: Prólogo y Anunciaciones</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Lucas comienza con un **prólogo** dedicado a **Teófilo**, prometiendo un relato "ordenado" y exacto (énfasis en la historicidad). El capítulo narra la anunciación del nacimiento de **Juan el Bautista** a **Zacarías** y, seis meses después, la anunciación del nacimiento de **Jesús** a **María**. María visita a Elisabet (esposa de Zacarías). El capítulo concluye con el **Magníficat** (cántico de María) y el **Benedictus** (cántico de Zacarías), que celebran el cumplimiento de las promesas de Dios a Israel.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Evangelio (Narrativa Histórica/Biográfica, estilo literario elegante)</li>
+                    <li><strong>Autor:</strong> Lucas (médico y compañero de Pablo, el único autor gentil del N.T.)</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Historicidad:</strong> Lucas busca la certeza de la fe a través de hechos verificables</li>
+                    <li><strong>Poder del Espíritu Santo:</strong> Actúa en Zacarías, Elisabet y María</li>
+                    <li><strong>Cántico:</strong> La respuesta de alegría al plan de salvación de Dios</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">historia de la salvación es real e innegable</span>. Dios interviene en la historia humana para cumplir Sus promesas.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la certeza de la fe en la historia y responder a la obra de Dios con gozo y alabanza.
+                </div>
+            `,
+            2: `
+                <h3>📖 Lucas 2: Nacimiento, Pastores y Presentación</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El nacimiento de Jesús es ubicado en un contexto histórico mundial (censo de **César Augusto**). Jesús nace en **Belén** y es acostado en un pesebre. Los **pastores** (la clase social baja) son los primeros en recibir el anuncio angélico. A los ocho días, es circuncidado y, a los 40 días, presentado en el Templo. **Simeón y Ana** profetizan sobre Su destino. El capítulo concluye con el único relato de la **niñez de Jesús** (a los 12 años) debatiendo con los maestros en el Templo, demostrando Su sabiduría y conciencia de Su misión.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Histórica (Relato de la Natividad)</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Universalidad:</strong> El censo incluye a todos en el Imperio Romano</li>
+                    <li><strong>Pobreza:</strong> Jesús vino a los humildes (pastores)</li>
+                    <li><strong>Humanidad de Jesús:</strong> Creció en sabiduría y estatura, sometido a Sus padres</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">salvación es para todos</span>, especialmente para los humildes. Jesús es el Mesías prometido y el Hijo de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe priorizar la obediencia (circuncisión, presentación) y crecer en sabiduría y gracia delante de Dios y los hombres.
+                </div>
+            `,
+            3: `
+                <h3>📖 Lucas 3: Juan el Bautista y la Genealogía</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Lucas establece el marco histórico exacto del ministerio de **Juan el Bautista** (incluyendo a Tiberio César y Pilato). Juan predica el **arrepentimiento** y da instrucciones éticas específicas. Jesús es **bautizado** y el Espíritu desciende. Lucas presenta la **genealogía de Jesús**, rastreándola hacia atrás no solo hasta Abraham (como Mateo), sino hasta **Adán**, enfatizando Su humanidad y Su papel como Salvador de toda la raza humana, no solo de Israel.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Histórica y Genealogía</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Marco Histórico:</strong> La precisión de la obra de Dios en el tiempo</li>
+                    <li><strong>Justicia Social:</strong> Las demandas éticas de Juan a diferentes grupos</li>
+                    <li><strong>Genealogía Universal:</strong> Jesús es el Hijo del Hombre, el nuevo Adán</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">ministerio de Jesús es un evento histórico</span> bien documentado. Él es la esperanza de toda la humanidad.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe practicar el arrepentimiento y buscar el origen de Jesús como el perfecto Hijo del Hombre.
+                </div>
+            `,
+            4: `
+                <h3>📖 Lucas 4: Tentación y Rechazo en Nazaret</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús es guiado por el Espíritu al desierto para ser **tentado por el diablo** (40 días) y vence usando la Escritura. Jesús regresa a Galilea y lee en la sinagoga de **Nazaret** el pasaje de Isaías 61: "**El Espíritu del Señor está sobre mí... para dar libertad a los oprimidos.**" Declara que esta Escritura se ha cumplido, pero es **rechazado** violentamente por Sus coterráneos. Comienza Su ministerio en Capernaúm, donde sana a un endemoniado con autoridad.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Biográfica y Profética</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad del Espíritu:</strong> Jesús es empoderado por el Espíritu Santo</li>
+                    <li><strong>Misión Social:</strong> La predicación del evangelio incluye a los pobres y oprimidos</li>
+                    <li><strong>Rechazo:</strong> El Mesías es rechazado por Su propio pueblo desde el inicio</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obra de Cristo está impulsada por el Espíritu Santo</span> y está centrada en la liberación integral del hombre.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar el poder del Espíritu para resistir la tentación y vivir la misión social del Reino.
+                </div>
+            `,
+            5: `
+                <h3>📖 Lucas 5: Pescadores de Hombres y el Perdón</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús realiza la pesca milagrosa, y **llama a Pedro** y a Sus compañeros: "**Desde ahora serás pescador de hombres.**" Sana a un **leproso** (un marginado) y le pide que mantenga silencio. Luego, sana a un **paralítico** (bajado por el techo), declarando primero: "**Tus pecados te son perdonados**," causando controversia. Jesús justifica Su autoridad. Llama a **Leví** (recaudador de impuestos) y come con pecadores (enfatizando Su misión con los marginados).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Vocación y Controversia</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Llamamiento Radical:</strong> Dejar todo para seguir a Jesús</li>
+                    <li><strong>Autoridad para Perdonar:</strong> Jesús es Señor del pecado y de la enfermedad</li>
+                    <li><strong>Gracia para los Marginados:</strong> Jesús come con los pecadores (la clase "enferma")</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">respuesta al llamado de Cristo debe ser total</span>. Él es el Médico Divino que sana la enfermedad y el pecado.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe dejar su antigua vida para seguir a Jesús y buscar la amistad con aquellos que necesitan ser sanados por el Evangelio.
+                </div>
+            `,
+            6: `
+                <h3>📖 Lucas 6: Señor del Sábado y el Sermón del Llano</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Continúan las controversias sobre el **Día de Reposo** (arrancar espigas, sanar la mano seca), donde Jesús declara Su autoridad. Jesús elige a los **Doce apóstoles**. Presenta el **Sermón del Llano** (una versión más corta del Sermón del Monte de Mateo). Las **Bienaventuranzas** de Lucas se centran en los pobres y hambrientos, seguidas de **cuatro ayes** a los ricos y satisfechos. El sermón concluye con el llamado al **amor a los enemigos** y el ejemplo de los **dos cimientos** (oír y hacer la palabra).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Didáctico (Ética del Reino)</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad de Jesús:</strong> Señor de la ley y el día de reposo</li>
+                    <li><strong>Justicia Social:</strong> Énfasis en los pobres y la condenación a la riqueza egoísta</li>
+                    <li><strong>Amor Radical:</strong> El mandato de amar a los que nos ofenden</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">ética del Reino es contraria al mundo</span>. La verdadera bienaventuranza se encuentra en la humildad y la necesidad.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe practicar la generosidad y el amor incondicional, construyendo su vida sobre la obediencia a la Palabra.
+                </div>
+            `,
+            7: `
+                <h3>📖 Lucas 7: Fe Gentil y la Compasión del Señor</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús alaba la fe de un **centurión romano** (gentil), declarando que no ha hallado tanta fe ni aun en Israel (universalidad). Jesús resucita al **hijo de la viuda de Naín** (demostrando compasión por los marginados). Juan el Bautista envía a preguntar si Jesús es el Mesías. El capítulo concluye con la escena de la **mujer pecadora** que unge los pies de Jesús en casa del fariseo. Jesús la perdona, usando la parábola de los dos deudores, y dice: "**Mucho le es perdonado, porque mucho amó**."</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Milagros y Perdón</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Fe Universal:</strong> La fe se encuentra fuera de los círculos religiosos de Israel</li>
+                    <li><strong>Compasión por la Viuda:</strong> Jesús interviene en el sufrimiento de los indefensos</li>
+                    <li><strong>Gracia:</strong> La magnitud del perdón produce una gran adoración</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">perdón de Cristo es la fuente de la adoración</span>. El Señor es sensible al dolor de los marginados.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe reconocer que a quien mucho se le perdona, mucho ama. La humildad y el amor son la respuesta a la gracia de Cristo.
+                </div>
+            `,
+            8: `
+                <h3>📖 Lucas 8: Mujeres en el Ministerio y Parábolas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Lucas menciona a las **mujeres** que ministraban con sus bienes a Jesús y Sus discípulos (Juana, Susana, María Magdalena). Jesús enseña la parábola del **Sembrador** y explica que el corazón es el suelo. Jesús **calma la tempestad** y sana al **endemoniado geraseno** (que pide seguir a Jesús, pero se le manda dar testimonio en Su propia casa). El capítulo termina con la sanidad de la **mujer con flujo de sangre** y la **resurrección de la hija de Jairo**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Ministerio y Parábola</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Rol de la Mujer:</strong> Participación activa y apoyo al ministerio de Jesús</li>
+                    <li><strong>Corazón Receptivo:</strong> El tipo de corazón que da fruto (la buena tierra)</li>
+                    <li><strong>Poder sobre Todo:</strong> Autoridad sobre la naturaleza, los demonios y la muerte</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Reino de Dios acoge y empodera a las mujeres</span>. La Palabra de Dios requiere un corazón dispuesto para producir fruto.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe apoyar la obra de Dios con sus recursos y cultivar un corazón que reciba la Palabra con gozo y perseverancia.
+                </div>
+            `,
+            9: `
+                <h3>📖 Lucas 9: Misión, Confesión y Transfiguración</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús envía a los **Doce apóstoles** a predicar y sanar. Alimenta a los **cinco mil** con cinco panes y dos peces. **Pedro confiesa: "El Cristo de Dios."** Inmediatamente después, Jesús comienza a enseñar que el Hijo del Hombre debe **sufrir, morir y resucitar**. Jesús se **transfigura** ante Pedro, Juan y Jacobo, donde Moisés y Elías hablan de Su "éxodo" (muerte) en Jerusalén. El capítulo termina con la enseñanza sobre el **costo del discipulado** (negarse a sí mismo) y el inicio de Su largo **viaje a Jerusalén**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Transición</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Sufrimiento Necesario:</strong> El plan de Dios exige la pasión del Mesías</li>
+                    <li><strong>Éxodo:</strong> La muerte de Jesús como la nueva y gran liberación</li>
+                    <li><strong>Discipulado:</strong> El rechazo radical de la vida antigua (mirar atrás)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">camino de la gloria es el camino de la cruz</span>. El creyente debe poner a Cristo antes que cualquier vínculo terrenal.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe abrazar la cruz diariamente y seguir a Cristo sin condiciones ni mirar hacia atrás.
+                </div>
+            `,
+            10: `
+                <h3>📖 Lucas 10: Los Setenta y el Buen Samaritano</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús envía a **Setenta (o Setenta y Dos)** discípulos con instrucciones de misión, señalando que la mies es mucha (expansión de la obra). Ellos regresan gozosos. Un intérprete de la ley pregunta: "¿Quién es mi prójimo?" Jesús responde con la **Parábola del Buen Samaritano**, un relato donde un gentil (el Samaritano, odiado por los judíos) muestra misericordia, humillando al sacerdote y al levita. Esto subraya la **universalidad del amor**. La escena de **María y Marta** enfatiza la importancia de escuchar la Palabra sobre el activismo.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Parábola</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Expansión de la Misión:</strong> La obra no se limita a los Doce</li>
+                    <li><strong>Prójimo Universal:</strong> La caridad trasciende las barreras étnicas</li>
+                    <li><strong>Prioridad:</strong> La importancia de la devoción (María) sobre el servicio excesivo (Marta)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera religión es la que practica la misericordia</span> sin prejuicios. La Palabra de Dios debe ser la prioridad.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser un "prójimo" activo y amar al que lo necesita, sin importar su origen, y escuchar la Palabra de Cristo como la "mejor parte."
+                </div>
+            `,
+            11: `
+                <h3>📖 Lucas 11: Oración y Reprensión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Un discípulo pide a Jesús que les enseñe a orar, y Él les da el modelo del **Padrenuestro** (versión más corta que en Mateo). Enseña la parábola del **amigo inoportuno** para ilustrar la **persistencia en la oración**. Jesús expulsa a un demonio, y la controversia del **Beelzebú** resurge (le acusan de usar el poder del diablo). Jesús advierte sobre el **signo de Jonás** (Su muerte y resurrección) y pronuncia **seis ayes** contra los fariseos y escribas por su legalismo e hipocresía.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Oración y Juicio</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Oración Persistente:</strong> La necesidad de ser insistentes con Dios</li>
+                    <li><strong>Blasfemia:</strong> Atribuir la obra del Espíritu a Satanás</li>
+                    <li><strong>Hipocresía:</strong> El juicio sobre la religión que descuida la justicia y el amor</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">oración es el medio para recibir la ayuda de Dios</span>. El fruto de la fe es más importante que la observancia externa.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe orar con fe y persistencia. La verdadera luz es la que proviene de un corazón que cumple la Palabra.
+                </div>
+            `,
+            12: `
+                <h3>📖 Lucas 12: Advertencias y Mayordomía</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús advierte a Sus discípulos sobre la **levadura de los fariseos** (la hipocresía) y el miedo a los hombres. Enseña a confesar a Cristo sin temor. Narra la parábola del **Rico Insensato**, que planea construir graneros más grandes, y muere esa noche (una advertencia contra la avaricia). Jesús anima a Sus discípulos a no preocuparse por las necesidades físicas, sino a buscar el **Reino de Dios**, ya que el Padre sabe lo que necesitan. El capítulo concluye con un llamado a la **vigilancia**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Sabiduría y Advertencia</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Confesión de Fe:</strong> No temer a los que matan el cuerpo</li>
+                    <li><strong>Avaricia:</strong> La vida no consiste en la abundancia de bienes</li>
+                    <li><strong>Confianza:</strong> Dios proveerá si se busca Su Reino primero</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida abundante se encuentra en Dios</span>, no en las posesiones. La fe desplaza el miedo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la riqueza espiritual (ser rico para con Dios) y evitar la avaricia, confiando en la provisión del Padre.
+                </div>
+            `,
+            13: `
+                <h3>📖 Lucas 13: Arrepentimiento y el Reino</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús aborda la relación entre el **sufrimiento y el pecado** (los galileos masacrados por Pilato y la torre de Siloé). Declara: "**Si no os arrepentís, todos pereceréis igualmente.**" Narra la parábola de la **Higuera Estéril** (simbolizando a Israel que no da fruto, dándole una última oportunidad). Jesús sana a una **mujer encorvada** en sábado, reprendiendo la hipocresía religiosa. Concluye con la enseñanza de la **puerta estrecha** y el lamento por Jerusalén.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Advertencia y Parábola</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Urgencia del Arrepentimiento:</strong> El tiempo de la oportunidad es limitado</li>
+                    <li><strong>Juicio Justo:</strong> El sufrimiento no siempre es castigo, pero la incredulidad sí lo es</li>
+                    <li><strong>Salvación Universal:</strong> La puerta estrecha está abierta, pero no por siempre</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">gracia de Dios es paciente, pero Su paciencia tiene un límite</span>. El arrepentimiento es la única vía de escape al juicio.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe dar frutos de arrepentimiento y buscar el camino de la salvación mientras haya oportunidad.
+                </div>
+            `,
+            14: `
+                <h3>📖 Lucas 14: Humildad, Invitaciones y el Precio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús es invitado a comer a casa de un fariseo y enseña sobre la **humildad** (tomar el último lugar en las bodas). Enseña que al dar un banquete, se debe invitar a los **pobres y marginados**, no a los ricos que pueden devolver la invitación. La **Parábola de la Gran Cena** ilustra el rechazo a la invitación del Reino por prioridades terrenales. Concluye con la enseñanza del **costo del discipulado** (contar el costo de la torre, renunciar a lo más preciado), incluyendo la analogía de la sal que se desvanece.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Ética y Parábola</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Humildad:</strong> La base del favor de Dios ("El que se humilla será enaltecido")</li>
+                    <li><strong>Compensación:</strong> Dar sin esperar ser devuelto en esta vida</li>
+                    <li><strong>Sacrificio:</strong> El discipulado exige una devoción total, sin prioridades divididas</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe requiere una entrega total</span>. La verdadera bendición se encuentra en la reciprocidad divina, no humana.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la humildad, servir a los marginados y estar dispuesto a sacrificarlo todo para seguir a Cristo.
+                </div>
+            `,
+            15: `
+                <h3>📖 Lucas 15: Las Parábolas de los Perdidos</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Este capítulo es el corazón del Evangelio de Lucas y es la respuesta a los fariseos que murmuraban porque Jesús **recibía a los pecadores y comía con ellos**. Jesús narra tres parábolas secuenciales que ilustran el amor de Dios por los perdidos y Su gozo al encontrarlos: la **Oveja Perdida**, la **Moneda Perdida** y el **Hijo Pródigo** (o Hijo Perdido). La parábola del Pródigo enfatiza el **amor incondicional del Padre** y critica la justicia propia del hermano mayor.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Parábola (Revelación del Corazón de Dios)</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Búsqueda Divina:</strong> Dios busca activamente a los perdidos</li>
+                    <li><strong>Gozo de Dios:</strong> El cielo se regocija por el arrepentimiento</li>
+                    <li><strong>Gracia Incondicional:</strong> El Padre acoge al pecador arrepentido (el pródigo)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">evangelio es la búsqueda y restauración de los perdidos</span>. El amor de Dios es inmensurable y siempre está esperando el regreso.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe tener un corazón que se alegre por la restauración de los pecadores y evitar la justicia propia del hermano mayor.
+                </div>
+            `,
+            16: `
+                <h3>📖 Lucas 16: Riquezas y el Juicio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús narra la parábola del **Mayordomo Infiel** (o Injusto), enseñando a Sus discípulos a usar sus **riquezas terrenales** (las "mamón de injusticia") para asegurar amigos en la vida eterna. Declara que no se puede **servir a dos señores** (Dios y las riquezas). El capítulo concluye con la parábola del **Rico y Lázaro**, que ilustra la recompensa eterna basada en el uso de las riquezas y la incredulidad, demostrando que no habrá una segunda oportunidad después de la muerte.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Parábola y Discurso de Sabiduría</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Mayordomía:</strong> Usar los recursos terrenales con sabiduría eterna</li>
+                    <li><strong>Prioridad:</strong> El amor al dinero es la raíz de todo mal</li>
+                    <li><strong>Vida Eterna:</strong> El destino final es inalterable después de la muerte</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">uso de las riquezas es una prueba de la fidelidad</span>. El destino eterno está determinado por la fe en esta vida.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe usar sus bienes para fines eternos, no para el lujo personal, y escuchar la Palabra de Dios (Moisés y los Profetas) como la base de la fe.
+                </div>
+            `,
+            17: `
+                <h3>📖 Lucas 17: Fe, Deber y el Regreso</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús enseña sobre las **piedras de tropiezo** (escándalo) y la necesidad de **perdonar** ilimitadamente. Cuando los discípulos le piden que aumente su fe, Jesús les dice que si tuvieran fe como un grano de mostaza, podrían mover árboles (el poder de la fe humilde). Narra la parábola del **siervo inútil**, enfatizando que la obediencia es simplemente hacer el deber. Sana a **diez leprosos**, y solo el **samaritano** (el forastero) regresa a dar gracias (enfatizando la fe gentil/marginada). Enseña sobre la **repentina Venida del Hijo del Hombre** (como en los días de Noé y Lot).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Didáctico y Profético</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Perdón:</strong> La necesidad de la reconciliación ilimitada</li>
+                    <li><strong>Humildad:</strong> La obediencia es un simple deber, no un mérito</li>
+                    <li><strong>Vigilancia:</strong> La venida del Reino es repentina y requiere preparación</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe es el poder para la obediencia</span> y el agradecimiento. La salvación se encuentra en la gracia, no en el servicio meritorio.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe practicar el agradecimiento y entender que el servicio a Dios es un privilegio, no un medio de mérito.
+                </div>
+            `,
+            18: `
+                <h3>📖 Lucas 18: Oración, Humildad y Riquezas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús enseña la parábola de la **viuda persistente** (o injusta) sobre la necesidad de **orar siempre y no desmayar**. La parábola del **Fariseo y el Publicano** (recaudador de impuestos) ilustra que la **humildad** es la clave para la justificación. Jesús bendice a los niños. El **joven rico** rechaza el llamado de Jesús. Jesús enseña la dificultad de que un rico sea salvo. Sana al **ciego de Jericó** (Bartimeo), cuya fe y persistencia lo llevan a recibir la vista.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Parábola y Narrativa de Milagros</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Persistencia en Oración:</strong> Dios responde a la súplica constante</li>
+                    <li><strong>Justificación:</strong> Es por la gracia que humilla, no por el mérito</li>
+                    <li><strong>Ceguera Espiritual:</strong> El ciego busca la vista, el rico prefiere sus riquezas</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">humildad en la oración es la única puerta al favor de Dios</span>. La fe se demuestra al priorizar a Cristo sobre todo lo terrenal.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe orar con humildad, reconocer su necesidad (como el publicano) y estar dispuesto a dejar todo por Cristo.
+                </div>
+            `,
+            19: `
+                <h3>📖 Lucas 19: Zaqueo, las Minas y la Entrada</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús llega a Jericó y el pequeño recaudador de impuestos **Zaqueo** (otro marginado) sube a un árbol para verlo. Jesús declara: "**Hoy ha venido la salvación a esta casa.**" Zaqueo promete devolver el cuádruple, y Jesús afirma que vino a **buscar y a salvar lo que se había perdido**. Narra la parábola de las **Minas** (mayordomía y juicio), y finalmente, realiza la **Entrada Triunfal** a Jerusalén. Jesús **llora por Jerusalén** y purifica el Templo.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Salvación y Parábola</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Salvación a los Marginados:</strong> Zaqueo como ejemplo de la misión de Jesús</li>
+                    <li><strong>Mayordomía Responsable:</strong> Usar los dones para el Reino (las minas)</li>
+                    <li><strong>Juicio Inminente:</strong> La incredulidad de Jerusalén lleva al juicio y la destrucción</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">salvación se demuestra en el arrepentimiento</span> práctico (restauración). El Señor es el Rey y Juez.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la salvación con diligencia y dar frutos de arrepentimiento y mayordomía de sus bienes.
+                </div>
+            `,
+            20: `
+                <h3>📖 Lucas 20: Autoridad y Controversias</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Los líderes religiosos desafían la **autoridad de Jesús** (preguntándole con qué autoridad enseña). Jesús responde con la pregunta del bautismo de Juan. Narra la parábola de los **labradores malvados** (el rechazo al Hijo del dueño). Enfrenta las trampas de los líderes: el **tributo al César** ("Dad, pues, al César lo que es del César, y a Dios lo que es de Dios") y la pregunta de los saduceos sobre la **resurrección**, enseñando que no hay matrimonio en la vida venidera. El capítulo concluye con la advertencia contra los escribas hipócritas.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad de Cristo:</strong> Ineludible e incuestionable</li>
+                    <li><strong>Doble Ciudadanía:</strong> El deber hacia el estado y hacia Dios</li>
+                    <li><strong>Resurrección:</strong> La vida venidera es radicalmente diferente a la terrenal</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">cristiano debe vivir bajo una doble autoridad</span>: terrenal y divina, priorizando a Dios en todo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe responder con sabiduría a los desafíos del mundo y vivir a la luz de la resurrección.
+                </div>
+            `,
+            21: `
+                <h3>📖 Lucas 21: Ofrenda de la Viuda y Profecía del Fin</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús observa la **ofrenda de la viuda pobre**, cuyo pequeño aporte es más valioso que las grandes donaciones de los ricos, porque dio **todo lo que tenía**. En el **Discurso del Monte de los Olivos**, Jesús predice la **destrucción del Templo** y las **señales del fin**. Habla de la inminente destrucción de **Jerusalén** (el asedio y la caída en el 70 d.C.) y la **venida del Hijo del Hombre** en gloria. El mensaje central es la **vigilancia** y la necesidad de no dejarse llevar por las preocupaciones de esta vida.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Profético y Escatológico</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Sacrificio:</strong> La ofrenda total y sincera (la viuda)</li>
+                    <li><strong>Fin de los Tiempos:</strong> La destrucción de Jerusalén como una profecía de los últimos días</li>
+                    <li><strong>Vigilancia Espiritual:</strong> La sobriedad y la oración como preparación</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">devoción a Dios debe ser total</span> (el "todo" de la viuda). El fin es seguro, y la única preparación es la fidelidad constante.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe dar con sacrificio y vivir en constante oración y sobriedad, esperando la venida de Cristo.
+                </div>
+            `,
+            22: `
+                <h3>📖 Lucas 22: La Última Cena, Getsemaní y el Arresto</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Judas** acuerda traicionar a Jesús. Jesús celebra la **Pascua** y establece la **Cena del Señor** (el Nuevo Pacto en Su sangre). Enseña que la **grandeza es el servicio** (el mayor como el menor). En el **Getsemaní**, Jesús ora en intensa agonía (se menciona que Su sudor se volvió como gotas de sangre). Es traicionado por **Judas** y arrestado. **Pedro** le **niega** tres veces. El capítulo termina con Jesús siendo escarnecido por los guardias.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Pasión</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Nuevo Pacto:</strong> La sangre de Cristo como el nuevo acuerdo de redención</li>
+                    <li><strong>Agonía:</strong> Jesús como el Hijo del Hombre sufre plenamente la prueba</li>
+                    <li><strong>Servicio Humilde:</strong> El liderazgo del Reino es el servicio radical</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">humildad de Jesús es el modelo</span> para Sus seguidores. Su sufrimiento es la base del Nuevo Pacto.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe recordar el sacrificio de Cristo en la Cena del Señor y buscar el servicio humilde como la marca de la grandeza.
+                </div>
+            `,
+            23: `
+                <h3>📖 Lucas 23: Juicio y Crucifixión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús es llevado ante **Pilato**, que lo encuentra inocente. Luego, ante el Rey **Herodes** (Lucas es el único que lo narra), quien se burla de Él y lo devuelve. Pilato cede a la multitud y entrega a Jesús. Jesús es crucificado. En la cruz, ora: "**Padre, perdónalos, porque no saben lo que hacen**." El **ladrón arrepentido** es perdonado y se le promete: "**Hoy estarás conmigo en el paraíso.**" Jesús muere, y el **velo del Templo se rasga**. **José de Arimatea** sepulta el cuerpo de Jesús.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Pasión y Juicio</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Inocencia:</strong> Jesús es declarado inocente por Pilato y Herodes</li>
+                    <li><strong>Perdón:</strong> La oración de perdón por Sus verdugos</li>
+                    <li><strong>Gracia en la Cruz:</strong> La salvación del ladrón moribundo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">perdón y la gracia se extienden hasta el último momento</span> en la cruz. Jesús es el Justo que muere por los injustos.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar el perdón incondicional (como Jesús) y entender que la salvación es instantánea al arrepentimiento (como el ladrón).
+                </div>
+            `,
+            24: `
+                <h3>📖 Lucas 24: Resurrección y Ascensión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Las mujeres encuentran el sepulcro vacío y los ángeles anuncian la **Resurrección**. Jesús se aparece a **dos discípulos en el camino a Emaús**, explicándoles cómo **toda la Escritura** (Moisés y los Profetas) se refería a Su sufrimiento y gloria. Se aparece a Sus discípulos en Jerusalén, pidiéndoles que toquen Sus manos y pies (confirmando Su cuerpo físico). Les encarga ser testigos de Su resurrección, esperando el poder del Espíritu. El capítulo y el Evangelio concluyen con la **Ascensión de Jesús** a los cielos.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Resurrección y Comisión</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Cuerpo Resucitado:</strong> La resurrección de Jesús es física y verificable</li>
+                    <li><strong>Escritura:</strong> Toda la Biblia apunta a Cristo</li>
+                    <li><strong>Ascensión:</strong> El fin del ministerio terrenal y el inicio de Su reinado celestial</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">Resurrección es la verdad central</span> que da sentido a toda la Escritura y al ministerio cristiano.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la Palabra para entender a Cristo y esperar el poder del Espíritu Santo para ser testigo de la Resurrección.
+                </div>
+            `
+        },
+        'Juan': {
+            1: `
+                <h3>📖 Juan 1: El Verbo Hecho Carne y Juan el Bautista</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan comienza con un profundo prólogo teológico: "**En el principio era el Verbo (Logos), y el Verbo era con Dios, y el Verbo era Dios**," afirmando la preexistencia y deidad de Jesús. **Juan el Bautista** testifica que no es la luz, sino el testigo de la luz. Jesús llama a Sus primeros discípulos (Andrés, Pedro, Felipe, Natanael). El capítulo termina con la declaración de Natanael: "**Tú eres el Hijo de Dios; tú eres el Rey de Israel**."</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Evangelio (Teológico/Didáctico)</li>
+                    <li><strong>Autor:</strong> Juan, el apóstol y "discípulo amado"</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Deidad de Cristo:</strong> Jesús como el *Logos* (Verbo), co-eterno con Dios</li>
+                    <li><strong>Encarnación:</strong> El Verbo se hizo carne y habitó entre nosotros</li>
+                    <li><strong>Testimonio:</strong> El papel de Juan el Bautista como el testigo de la luz</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>Jesús es la <span class="highlight">revelación completa de Dios</span> al hombre. La luz vino a la oscuridad, y solo la fe lo reconoce.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe basar su fe en la deidad de Cristo, reconociéndolo como la Palabra viva de Dios.
+                </div>
+            `,
+            2: `
+                <h3>📖 Juan 2: La Primera Señal y el Templo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús realiza Su primera **señal** (milagro) en las **Bodas de Caná**, convirtiendo el agua en **vino** (simbolizando la transición del antiguo al nuevo pacto). Esto revela Su gloria. Luego, sube a Jerusalén para la Pascua y **purifica el Templo**, expulsando a los cambistas. Declara: "**Destruid este templo, y en tres días lo levantaré**" (refiriéndose a Su cuerpo). Jesús conoce los corazones de los hombres.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Señales y Simbolismo</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Primera Señal:</strong> Revelación de la gloria de Cristo</li>
+                    <li><strong>Nuevo Pacto:</strong> El vino como símbolo de la nueva dispensación</li>
+                    <li><strong>Autoridad de Cristo:</strong> Jesús es Señor de Su casa (el Templo) y de Su propio cuerpo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>Jesús es el <span class="highlight">cumplimiento del Antiguo Pacto</span>. El acto de purificación anticipa el juicio y la necesidad de una nueva adoración.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la gloria de Cristo y entender que Su cuerpo (la Iglesia) es el nuevo Templo de Dios.
+                </div>
+            `,
+            3: `
+                <h3>📖 Juan 3: Nicodemo y la Nueva Vida</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús se encuentra de noche con **Nicodemo**, un fariseo y líder judío. Jesús enseña que es **necesario nacer de nuevo** (o nacer de arriba/del Espíritu) para ver el Reino de Dios. Explica el amor de Dios: "**Porque de tal manera amó Dios al mundo, que ha dado a Su Hijo unigénito, para que todo aquel que en Él cree, no se pierda, mas tenga vida eterna**" (Juan 3:16). El capítulo concluye con el testimonio final de Juan el Bautista sobre la supremacía de Jesús.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Diálogo Teológico y Exposición</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Nuevo Nacimiento:</strong> La regeneración espiritual por el Espíritu Santo</li>
+                    <li><strong>Salvación por Fe:</strong> La creencia en el Hijo de Dios como único camino</li>
+                    <li><strong>Amor de Dios:</strong> El motivo de la encarnación (Juan 3:16)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida eterna es un don de Dios</span>, recibido solo a través de la fe y un nuevo nacimiento espiritual.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la transformación interior por el Espíritu (nacer de nuevo), reconociendo que la salvación es el resultado del inmenso amor de Dios.
+                </div>
+            `,
+            4: `
+                <h3>📖 Juan 4: La Mujer Samaritana y la Cosecha</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús viaja por **Samaria** (rompiendo barreras étnicas y religiosas) y se encuentra con la **mujer en el pozo de Sicar**. Jesús le revela Su identidad como el Mesías y la fuente de **agua viva**, enseñando que la verdadera adoración es en **espíritu y en verdad**, no limitada a un lugar. Esto lleva a muchos samaritanos a creer. Jesús sana al **hijo de un oficial** (segunda señal), demostrando que la fe no requiere presencia física.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Diálogo y Evangelismo</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Adoración Genuina:</strong> Es espiritual y verdadera, no ritualista</li>
+                    <li><strong>Misión Universal:</strong> Jesús vino para judíos y samaritanos</li>
+                    <li><strong>Agua Viva:</strong> Jesús es el dador de la vida eterna</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">gracia de Cristo se extiende a los marginados y extranjeros</span>. El gozo se encuentra en la cosecha del evangelio.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe adorar a Dios en espíritu y verdad, y buscar llevar el evangelio a todos sin prejuicios.
+                </div>
+            `,
+            5: `
+                <h3>📖 Juan 5: El Sábado y la Igualdad con Dios</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús sana a un hombre en el **estanque de Betesda** que llevaba 38 años enfermo (tercera señal). Jesús lo hace en **Sábado**, causando controversia. Jesús defiende Su acción declarando Su **igualdad con el Padre**: "**Mi Padre hasta ahora trabaja, y yo trabajo**." Afirma Su autoridad para juzgar y dar vida, y que Su testimonio está apoyado por el Padre, las Escrituras (Moisés) y Juan el Bautista.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia Teológica</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad sobre el Sábado:</strong> Jesús opera como Dios, que no descansa de Su obra</li>
+                    <li><strong>Co-igualdad:</strong> La unidad de Jesús con el Padre en obra y honor</li>
+                    <li><strong>Juicio y Vida:</strong> Jesús tiene la autoridad para dar vida eterna y ejecutar el juicio</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">negación de la deidad de Cristo es incredulidad</span>. Él es la fuente de la vida y la justicia.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe reconocer que la fe en Jesús es la única vía para escapar del juicio y recibir la vida eterna.
+                </div>
+            `,
+            6: `
+                <h3>📖 Juan 6: El Pan de Vida y el Discurso Difícil</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús realiza la **alimentación de los cinco mil** (cuarta señal), y la gente quiere hacerlo rey. Jesús camina sobre el **agua** (quinta señal). Esto conduce al discurso del **Pan de Vida**, donde Jesús declara: "**Yo soy el pan de vida.**" Afirma que Él es el pan que descendió del cielo, y que para tener vida eterna se debe "**comer Su carne y beber Su sangre**" (metáfora de la fe y la participación en Su sacrificio). Muchos discípulos lo abandonan, y Pedro afirma: "**Señor, ¿a quién iremos? Tú tienes palabras de vida eterna.**"</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Señales y Discurso Profundo</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Yo Soy el Pan:</strong> Jesús es la única y suficiente fuente de sustento espiritual</li>
+                    <li><strong>Fe y Exclusividad:</strong> Solo en Él hay vida eterna</li>
+                    <li><strong>Prueba del Discipulado:</strong> La verdad de Jesús es difícil y requiere compromiso</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida eterna es una relación vital con Cristo</span>, que alimenta el alma. La fe debe permanecer incluso en la confusión.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe alimentarse espiritualmente de Cristo (por la fe) y perseverar en Su Palabra, incluso cuando sea difícil de aceptar.
+                </div>
+            `,
+            7: `
+                <h3>📖 Juan 7: Controversia en la Fiesta de los Tabernáculos</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús sube a Jerusalén para la **Fiesta de los Tabernáculos** (la fiesta de la cosecha). Hay gran **controversia** en la multitud sobre Su identidad (si es el Mesías, si es bueno, si es un engañador). Jesús enseña en el Templo que Sus palabras no son Suyas, sino del que lo envió. En el último día de la fiesta, cuando se derramaba agua, Jesús clama: "**Si alguno tiene sed, venga a mí y beba. El que cree en mí, de su interior correrán ríos de agua viva**" (refiriéndose al Espíritu Santo).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia y Discurso Profundo</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Origen de Jesús:</strong> El misterio de Su procedencia divina y terrenal</li>
+                    <li><strong>Agua Viva:</strong> El Espíritu Santo prometido por Cristo</li>
+                    <li><strong>División:</strong> El mensaje de Jesús divide a la multitud y a los líderes</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>Jesús es el <span class="highlight">cumplimiento de los rituales del Antiguo Pacto</span>. El Espíritu Santo es el río de vida que fluye de la fe en Él.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar saciar su sed espiritual solo en Cristo, quien da el Espíritu Santo.
+                </div>
+            `,
+            8: `
+                <h3>📖 Juan 8: La Luz y la Verdad</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús se enfrenta a los fariseos con la **mujer adúltera** (texto disputado por su presencia en algunos manuscritos, pero con fuerte autoridad doctrinal), mostrando gracia sin condonar el pecado. Jesús declara: "**Yo soy la luz del mundo**." Enseña que la **verdad os hará libres** (refiriéndose a Sí Mismo y a Su Palabra). La controversia culmina cuando Jesús declara Su preexistencia y deidad: "**Antes que Abraham fuese, yo soy**," lo que hace que tomen piedras para apedrearlo.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Diálogo Teológico y Controversia</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Yo Soy la Luz:</strong> Jesús como la única fuente de revelación y vida</li>
+                    <li><strong>Libertad:</strong> La verdad de Cristo como liberación del pecado</li>
+                    <li><strong>Preexistencia:</strong> La declaración abierta de la deidad de Jesús (*Yo Soy* es el nombre de Dios, Éxodo 3:14)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">luz de Cristo expone la oscuridad del pecado</span>, y Su verdad es la única libertad.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir en la verdad de Cristo para ser libre del pecado y reconocer Su deidad como el *Yo Soy* Eterno.
+                </div>
+            `,
+            9: `
+                <h3>📖 Juan 9: El Ciego de Nacimiento</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús sana a un **hombre ciego de nacimiento** (sexta señal), untando barro en Sus ojos y mandándole lavarse en Siloé. Este milagro provoca una intensa investigación y controversia con los fariseos, quienes insisten en que Jesús no puede ser de Dios por sanar en sábado. El ciego, ahora vidente, es expulsado de la sinagoga. El capítulo enfatiza la **ceguera espiritual** de los que se creen videntes (los fariseos) frente a la **visión espiritual** del sanado, que finalmente adora a Jesús.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Señales y Confesión</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Ceguera:</strong> La sanidad física y la ceguera espiritual</li>
+                    <li><strong>Fe Progresiva:</strong> El ciego pasa de ver a Jesús como "un hombre" a "el Hijo de Dios"</li>
+                    <li><strong>Autoridad de Jesús:</strong> Él vino para juicio, para que los ciegos vean y los videntes se queden ciegos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>Jesús es la <span class="highlight">luz que ilumina la oscuridad espiritual</span>. El hombre es salvado por la fe en el que lo sanó.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la visión espiritual de Cristo, y entender que la humildad es la llave para ver, mientras que el orgullo conduce a la ceguera.
+                </div>
+            `,
+            10: `
+                <h3>📖 Juan 10: El Buen Pastor</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús declara Sus dos famosos **"Yo Soy"** en este capítulo: "**Yo soy la puerta de las ovejas**" y "**Yo soy el buen pastor**." El Buen Pastor da Su vida por Sus ovejas, a diferencia del asalariado. Él conoce a Sus ovejas y Ellas conocen Su voz. Afirma que tiene **otras ovejas** (gentiles) y que formará **un solo rebaño**. El capítulo concluye con Jesús afirmando: "**Yo y el Padre uno somos**," lo que provoca un intento de apedreamiento por blasfemia, ya que se hizo igual a Dios.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Alegórico y Controversia</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Yo Soy el Pastor:</strong> Jesús como el guía y protector sacrificial</li>
+                    <li><strong>Unidad con el Padre:</strong> La deidad y co-igualdad de Jesús</li>
+                    <li><strong>Seguridad Eterna:</strong> Nadie puede arrebatar a las ovejas de la mano del Padre</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">protección de Cristo es absoluta</span>, y Su relación con el creyente es íntima y sacrificial.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe escuchar la voz de Cristo, el único Pastor. Su seguridad eterna se basa en la unidad de poder entre el Padre y el Hijo.
+                </div>
+            `,
+            11: `
+                <h3>📖 Juan 11: La Resurrección y la Vida</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Este es el clímax de las señales, la **resurrección de Lázaro** (la séptima y última señal). Lázaro, hermano de María y Marta, muere. Jesús llega cuatro días después, y Marta confiesa: "**Señor, si hubieses estado aquí, mi hermano no habría muerto.**" Jesús declara: "**Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.**" Jesús **llora** (mostrando Su humanidad), y luego resucita a Lázaro, lo que conduce a la decisión final del Sanedrín de matar a Jesús.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Señal Climax</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Yo Soy la Resurrección:</strong> El poder de Jesús sobre la muerte</li>
+                    <li><strong>Humanidad de Jesús:</strong> Llora por Su amigo (muestra Su compasión)</li>
+                    <li><strong>Catalizador:</strong> La resurrección es la causa directa del complot para matarle</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">autoridad de Jesús sobre la muerte es total</span>. Él es la esperanza final del creyente.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe creer en la promesa de la resurrección, sabiendo que Cristo es la fuente de la vida, incluso en la presencia de la muerte.
+                </div>
+            `,
+            12: `
+                <h3>📖 Juan 12: Unción, Entrada y Glorificación</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**María de Betania** unge los pies de Jesús con perfume costoso (la última unción, prefigurando Su sepultura). La **Entrada Triunfal** a Jerusalén ocurre y Jesús es aclamado como el Rey. Unos **griegos** buscan a Jesús (simbolizando la misión a los gentiles). Jesús responde que ha llegado la hora de que el Hijo del Hombre sea **glorificado** (a través de la muerte y resurrección), usando la analogía del grano de trigo que debe morir para dar fruto. Jesús anuncia que será "**levantado**" (crucificado).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Transición y Profecía</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Sacrificio Costoso:</strong> La adoración de María es elogiada frente a la codicia de Judas</li>
+                    <li><strong>Hora de la Gloria:</strong> La cruz es el medio de la glorificación de Cristo</li>
+                    <li><strong>Misión Mundial:</strong> El llamado de los gentiles a través de Su muerte</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento es el camino hacia la vida abundante</span> y el alcance global del evangelio.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe sacrificar sus bienes y su vida por Cristo, entendiendo que la muerte a sí mismo es necesaria para dar fruto.
+                </div>
+            `,
+            13: `
+                <h3>📖 Juan 13: La Cena y el Servicio Humilde</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El inicio de la **Cena de Pascua**. Jesús, sabiendo que el Padre había puesto todo en Sus manos, realiza un acto de **humildad radical**: **lava los pies** a Sus discípulos (incluido Judas). Jesús declara: "**Os he dado ejemplo, para que como yo os he hecho, vosotros también hagáis.**" Jesús predice la traición de **Judas** y la **negación de Pedro**. Les da un **nuevo mandamiento**: "**Que os améis unos a otros; como yo os he amado**."</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Servicio y Mandamiento</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Servicio Radical:</strong> El liderazgo es humilde y sacrificial</li>
+                    <li><strong>Nuevo Mandamiento:</strong> El amor sacrificial entre los creyentes</li>
+                    <li><strong>Señal de Identidad:</strong> El amor mutuo como la marca del discipulado</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">amor es la esencia del cristianismo</span>. La humildad en el servicio es el sello del discípulo de Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe practicar el servicio humilde (lavarse los pies) y amar a sus hermanos con el mismo amor sacrificial de Cristo.
+                </div>
+            `,
+            14: `
+                <h3>📖 Juan 14: Camino, Verdad, Vida y el Consolador</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Comienza el Discurso de Despedida (Cap. 14-16). Jesús consuela a Sus discípulos por Su partida: va a preparar **moradas** para ellos. Jesús declara el quinto **"Yo Soy"**: "**Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí**" (la exclusividad de la salvación). Jesús promete el envío del **Consolador (Paráclito)**, el **Espíritu Santo**, quien enseñará y recordará todo lo que Él enseñó. Promete Su paz.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Despedida y Promesa</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Yo Soy el Camino:</strong> Jesús es el único mediador y acceso a Dios</li>
+                    <li><strong>Exclusividad:</strong> No hay otra forma de llegar al Padre</li>
+                    <li><strong>El Espíritu Santo:</strong> El Ayudador y Maestro que lo sustituirá</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">relación con Cristo es la única puerta al Padre</span>. El Espíritu Santo asegura la presencia de Dios en la ausencia de Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confiar en Cristo como el único camino a Dios y depender del Espíritu Santo como Su guía y consolador.
+                </div>
+            `,
+            15: `
+                <h3>📖 Juan 15: La Vid Verdadera y el Fruto</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús declara el sexto **"Yo Soy"**: "**Yo soy la vid verdadera, y mi Padre es el labrador**." La vid es Israel (Antiguo T.). Las ramas son los discípulos. Enseña sobre la necesidad de **permanecer (o morar)** en Él. La rama que no da fruto será cortada. La permanencia es obedecer Sus mandamientos (el amor). Advierte que, al dar fruto, el mundo los **odiará y perseguirá**, porque odia a Jesús, pero el Espíritu Santo testificará.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Alegórico y Exhortación</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Yo Soy la Vid:</strong> La fuente de la vida y el fruto espiritual</li>
+                    <li><strong>Permanecer:</strong> La obediencia y la intimidad como condición para el fruto</li>
+                    <li><strong>Persecución:</strong> El conflicto inevitable entre la Iglesia y el mundo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">unión con Cristo es vital</span> para la vida espiritual. El fruto de la fe es el amor y la obediencia.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe "permanecer" en la Palabra y el amor de Cristo, sabiendo que la persecución es una señal de que no es del mundo.
+                </div>
+            `,
+            16: `
+                <h3>📖 Juan 16: La Obra del Espíritu y el Gozo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús da más detalles sobre la **obra del Espíritu Santo** (el Paráclito): convencerá al mundo de **pecado**, **justicia** y **juicio**. Les dice a Sus discípulos que Su partida es para su beneficio, para que el Espíritu pueda venir. El Espíritu los guiará a toda la verdad. Predice la **tristeza** por Su muerte, que se convertirá en **gozo** por Su resurrección, comparable a los dolores de parto. Anima a orar al Padre en Su nombre.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Despedida y Profecía</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Obra del Espíritu:</strong> Redargüir al mundo y guiar a los creyentes</li>
+                    <li><strong>Oración en Su Nombre:</strong> El nuevo acceso a Dios a través de Jesús</li>
+                    <li><strong>Transformación:</strong> El dolor temporal se convierte en gozo eterno</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">tristeza de la cruz es temporal</span>. El Espíritu Santo es la guía y el testigo de la victoria de Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe depender del Espíritu Santo para la verdad y tener la certeza de que el gozo de la resurrección superará todo sufrimiento.
+                </div>
+            `,
+            17: `
+                <h3>📖 Juan 17: La Oración Sacerdotal</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Conocida como la **Oración Sacerdotal** o la "Oración del Señor" (distinta al Padrenuestro). Jesús ora al Padre, dividiendo Su oración en tres partes: por **Sí Mismo** (pide ser glorificado para glorificar al Padre), por **Sus Discípulos** (pide protección, santificación y unidad) y por **los Futuros Creyentes** (pide la misma unidad que hay entre Él y el Padre). Es una ventana al corazón de Jesús, revelando Su deseo de que la Iglesia sea unida y santa.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Oración Intercesora</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Glorificación:</strong> La muerte y resurrección como el medio para glorificar al Padre</li>
+                    <li><strong>Unidad:</strong> La unidad de los creyentes como testimonio al mundo</li>
+                    <li><strong>Santificación:</strong> Ser apartado del mundo por la verdad (la Palabra de Dios)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">unidad de los creyentes es la prueba más poderosa</span> de la verdad del evangelio al mundo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la unidad con sus hermanos, sabiendo que la santificación se logra a través de la Palabra de Dios.
+                </div>
+            `,
+            18: `
+                <h3>📖 Juan 18: Arresto y Juicio ante Pilato</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús es arrestado en el **huerto de Getsemaní**. **Judas** lo traiciona. Jesús es llevado ante **Anás** (suegro del Sumo Sacerdote) y luego ante **Caifás**. **Pedro niega** a Jesús tres veces. Jesús es llevado ante el gobernador romano, **Pilato**. Jesús afirma: "**Mi reino no es de este mundo**" y que vino a dar testimonio de la **Verdad**. Pilato no encuentra culpa en Jesús, pero la presión de los judíos se intensifica.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Pasión y Juicio</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Soberanía:</strong> Jesús se entrega voluntariamente a la voluntad de Dios</li>
+                    <li><strong>Reino Espiritual:</strong> El Reino de Cristo no es un poder terrenal</li>
+                    <li><strong>Verdad:</strong> Jesús es la verdad y da testimonio de ella ante el poder romano</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">juicio de Jesús es el juicio del mundo</span>. El poder de Cristo se somete para cumplir Su misión.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe entender que el Reino de Dios es espiritual y no debe ser confundido con el poder político o terrenal.
+                </div>
+            `,
+            19: `
+                <h3>📖 Juan 19: La Crucifixión y la Muerte</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Jesús es azotado y escarnecido. **Pilato** lo presenta: "**¡He aquí el hombre!**" Finalmente cede a los líderes. Jesús lleva Su propia cruz al Gólgota. Es crucificado junto a dos ladrones. La inscripción en la cruz es: "**JESÚS NAZARENO, REY DE LOS JUDÍOS**." Antes de morir, Jesús dice: "**Tengo sed**" y, finalmente, "**Consumado es**" (Tetelestai - que significa "pagado por completo"). Un soldado traspasa Su costado, y sale agua y sangre. **José de Arimatea y Nicodemo** (el que vino de noche) se encargan de la sepultura.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Pasión y Cumplimiento</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Consumado Es:</strong> El sacrificio de la redención se ha completado</li>
+                    <li><strong>Realeza:</strong> Jesús muere como Rey, según la inscripción de Pilato</li>
+                    <li><strong>Testimonio de Juan:</strong> Se enfatiza la verdad histórica de la lanza y la sepultura</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obra de la salvación está terminada en la cruz</span>. Es el pago total por el pecado.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confiar plenamente en el sacrificio de Cristo, sabiendo que la obra de la redención ha sido completada de una vez por todas.
+                </div>
+            `,
+            20: `
+                <h3>📖 Juan 20: La Resurrección y la Fe</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**María Magdalena** va al sepulcro y lo encuentra vacío. **Pedro y Juan** corren al sepulcro y ven las vendas dobladas. Jesús se aparece a **María Magdalena** ("¡Raboni!"). Se aparece a los discípulos reunidos, sopla sobre ellos y les da el **Espíritu Santo**. **Tomás** no cree hasta que ve. Jesús le dice: "**Porque me has visto, Tomás, creíste; bienaventurados los que no vieron, y creyeron.**" El propósito del Evangelio es claro: "**para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en Su nombre**."</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de la Resurrección y Propósito</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Victoria:</strong> El Señor resucitado se aparece para confirmar Su palabra</li>
+                    <li><strong>Fe sin Vista:</strong> La bienaventuranza de creer sin ver (la fe de la generación de Juan)</li>
+                    <li><strong>Propósito del Evangelio:</strong> Conducir a la fe y la vida eterna</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe en el Cristo resucitado es la clave de la vida eterna</span>. La resurrección es la prueba de Su deidad.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la fe que no requiere ver. El poder del Espíritu Santo es el resultado de la resurrección.
+                </div>
+            `,
+            21: `
+                <h3>📖 Juan 21: Restauración de Pedro y el Epílogo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Este es un epílogo o adición posterior al propósito original (20:31). Jesús se aparece a Sus discípulos en el **Mar de Tiberias** (la tercera aparición). Realiza la pesca milagrosa. Jesús le pregunta a **Pedro** tres veces: "**Simón, hijo de Jonás, ¿me amas?**" (restaurando Su triple negación). Jesús le encarga a Pedro: "**Apacienta mis corderos**" y le profetiza Su martirio. El libro concluye con la confirmación de que **Juan** escribió este Evangelio, y que no se pueden escribir todos los detalles de la vida de Jesús.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Epílogo y Restauración</li>
+                    <li><strong>Autor:</strong> Juan</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Restauración:</strong> El perdón y la segunda oportunidad para Pedro</li>
+                    <li><strong>Misión:</strong> El llamado de Pedro a alimentar al rebaño de Cristo</li>
+                    <li><strong>Amor:</strong> El requisito para el servicio cristiano es el amor al Señor</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">amor a Cristo es la motivación para el servicio</span>. El ministerio cristiano es pastorear a Su pueblo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la restauración de Cristo, entendiendo que el servicio a Su Iglesia es el resultado de un amor genuino por Él.
+                </div>
+            `
+        },
+        'Hechos': {
+            1: `
+                <h3>📖 Hechos 1: Ascensión y Selección de Matías</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Lucas comienza resumiendo el ministerio de Jesús y narra la **Ascensión** de Cristo, 40 días después de Su resurrección. Jesús ordena a Sus discípulos esperar en Jerusalén el **poder del Espíritu Santo** (el cumplimiento de Joel 2:28). El capítulo concluye con la selección de **Matías** para reemplazar a Judas Iscariote, completando el número de los Doce Apóstoles.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Histórica (Volumen 2 de Lucas)</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Ascensión:</strong> El fin del ministerio terrenal y el inicio del celestial de Cristo</li>
+                    <li><strong>Promesa del Espíritu:</strong> La base del poder para el testimonio</li>
+                    <li><strong>Testimonio Global:</strong> La misión de la Iglesia (Jerusalén, Judea, Samaria, confines)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">discipulado exige la espera del poder del Espíritu Santo</span> antes de emprender la misión.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar el poder del Espíritu Santo para ser testigo efectivo de Cristo.
+                </div>
+            `,
+            2: `
+                <h3>📖 Hechos 2: Pentecostés y el Nacimiento de la Iglesia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>En el día de **Pentecostés**, el Espíritu Santo desciende sobre los discípulos con el sonido de un viento recio y **lenguas de fuego**, haciendo que hablen en **otros idiomas** (revertiendo la maldición de Babel). **Pedro** predica un poderoso sermón (citando a Joel y Salmos) declarando que Jesús es el Cristo y el Señor. Tres mil personas son añadidas a la Iglesia. El capítulo describe la vida de la **Iglesia primitiva** (comunión, enseñanza, oración, y el partimiento del pan).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Teológica y Fundacional</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Don del Espíritu:</strong> La manifestación del Espíritu en la Iglesia</li>
+                    <li><strong>Kérygma:</strong> La predicación de Pedro sobre la resurrección de Cristo</li>
+                    <li><strong>Comunión:</strong> El modelo de la Iglesia primitiva en unidad</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Espíritu Santo es el poder de la Iglesia</span>. La predicación de la resurrección es el centro del mensaje.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la llenura del Espíritu Santo y participar activamente en la comunión y la enseñanza apostólica.
+                </div>
+            `,
+            3: `
+                <h3>📖 Hechos 3: El Paralítico Sanado y el Discurso de Pedro</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Pedro y Juan** sanan a un **hombre paralítico** en la puerta **"La Hermosa"** del Templo, un milagro que atrae a una gran multitud. Pedro predica un sermón, declarando que la sanidad ocurrió por la **fe en el Nombre de Jesús**. Pedro llama a la multitud al **arrepentimiento**, para que vengan "tiempos de refrigerio" y el envío del Mesías (Jesús).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Milagros y Sermón</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>El Poder del Nombre:</strong> La autoridad de Jesús es transferida a los apóstoles</li>
+                    <li><strong>Arrepentimiento:</strong> La condición para el refrigerio y el retorno de Cristo</li>
+                    <li><strong>Jesús el Profeta:</strong> Jesús es el Profeta prometido por Moisés (Deut. 18:15)</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Nombre de Jesús es el poder del Evangelio</span>. La sanidad es una señal de la resurrección.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar el arrepentimiento, sabiendo que el nombre de Jesús es la única fuente de sanidad y poder.
+                </div>
+            `,
+            4: `
+                <h3>📖 Hechos 4: Primera Persecución y la Iglesia Compartida</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Pedro y Juan** son **arrestados** por los sacerdotes y el Sanedrín por predicar la resurrección. Pedro predica con **valentía** ante el concilio: "**En ningún otro hay salvación; porque no hay otro nombre bajo el cielo, dado a los hombres, en que podamos ser salvos**." Los apóstoles son liberados, y la Iglesia ora pidiendo **mayor denuedo**. El capítulo concluye con el fervor de la Iglesia, que **compartía sus bienes** y vivía en unidad. **Bernabé** se presenta como un levita que vendió su propiedad.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Persecución y Vida Comunitaria</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Salvación Exclusiva:</strong> Jesús es el único camino de salvación</li>
+                    <li><strong>Denuedo:</strong> La valentía para predicar a pesar de la amenaza</li>
+                    <li><strong>Comunismo Primitivo:</strong> Compartir voluntariamente las posesiones</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">unidad de la Iglesia es la prueba de Su poder</span>. La persecución produce mayor denuedo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser valiente en la predicación y estar dispuesto a compartir sus recursos por la unidad de la Iglesia.
+                </div>
+            `,
+            5: `
+                <h3>📖 Hechos 5: Ananías y Safira y el Poder de los Apóstoles</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Ananías y Safira** mueren al mentir al Espíritu Santo sobre la venta de su propiedad (la **disciplina de la Iglesia**). Este evento infunde gran temor. Los apóstoles realizan grandes **milagros** en las calles, y la gente es sanada por la **sombra de Pedro**. El Sanedrín los **arresta** de nuevo. Un **ángel** los libera. **Gamaliel**, un fariseo respetado, aconseja a los líderes que liberen a los apóstoles, diciendo: "**Si esta obra es de los hombres, se desvanecerá; mas si es de Dios, no la podréis destruir.**"</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Disciplina y Milagros</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Disciplina Eclesiástica:</strong> El juicio contra el engaño interno</li>
+                    <li><strong>Milagros Apostólicos:</strong> El poder del Espíritu Santo en las calles</li>
+                    <li><strong>Consejo de Gamaliel:</strong> La obra de Dios no puede ser detenida</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">engaño al Espíritu Santo es condenado</span>. La Iglesia es purificada para que Su testimonio sea puro.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser honesto con Dios y con la Iglesia. La obra de Dios es imparable.
+                </div>
+            `,
+            6: `
+                <h3>📖 Hechos 6: La Elección de los Diáconos y Esteban</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Surge un problema administrativo: las **viudas griegas** son descuidadas en la distribución diaria. Los apóstoles se niegan a dejar la oración y la Palabra, y ordenan la elección de **siete hombres** (los diáconos, liderados por **Esteban** y Felipe) para el servicio de las mesas. Esto permite a los apóstoles enfocarse en la enseñanza. Esteban, lleno del Espíritu, realiza milagros y es **arrestado** por el Sanedrín por blasfemia.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Organización y Persecución</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Servicio y Palabra:</strong> La división de funciones en la Iglesia</li>
+                    <li><strong>Diaconado:</strong> El establecimiento del servicio a las mesas</li>
+                    <li><strong>Persecución:</strong> Esteban es el primer mártir de la Iglesia</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">expansión de la Iglesia requiere organización</span> y liderazgo dedicado al servicio. La Palabra no debe ser descuidada.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe servir a la Iglesia con sabiduría y el Espíritu Santo. El liderazgo se enfoca en la oración y la Palabra.
+                </div>
+            `,
+            7: `
+                <h3>📖 Hechos 7: El Martirio de Esteban</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Esteban** pronuncia un largo **sermón** (su defensa ante el Sanedrín) que repasa la historia de Israel desde Abraham hasta Salomón, mostrando que el pueblo de Israel siempre ha sido **rebelde a Dios** y **ha rechazado a Sus siervos** (Moisés, los profetas). El sermón termina con la acusación: "Vosotros resistís siempre al Espíritu Santo." Esteban ve la gloria de Dios y a **Jesús a la diestra del Padre**. Es **lapidado**, perdonando a sus verdugos. **Saulo** (futuro Pablo) está presente, aprobando la muerte.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso Histórico y Martirio</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Rebeldía de Israel:</strong> El patrón histórico de rechazo a Dios</li>
+                    <li><strong>Jesús a la Diestra:</strong> El testimonio de la soberanía de Cristo</li>
+                    <li><strong>Martirio:</strong> El primer mártir que perdona a sus enemigos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">persecución de la Iglesia es la continuación del rechazo de Israel a Dios</span>. El martirio es un testimonio final de la fe.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe testificar la verdad de Cristo, incluso ante la muerte, buscando el perdón para sus enemigos.
+                </div>
+            `,
+            8: `
+                <h3>📖 Hechos 8: La Dispersión, Felipe y el Eunuco</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La **persecución** iniciada por la muerte de Esteban causa la **dispersión** de los creyentes de Jerusalén, lo que irónicamente **expande el Evangelio** a **Judea y Samaria** (cumpliendo Hch. 1:8). **Felipe** predica en Samaria. El ex-mago **Simón** intenta comprar el poder del Espíritu Santo (simonía). Felipe es guiado a predicar al **eunuco etíope** (un gentil de alta posición), bautizándolo. Esto marca el avance del Evangelio hacia los confines de la Tierra.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Expansión y Misión</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Expansión Forzada:</strong> La persecución lleva al crecimiento</li>
+                    <li><strong>Simonía:</strong> El intento de comprar los dones espirituales</li>
+                    <li><strong>Misión Universal:</strong> El bautismo del gentil africano</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Espíritu Santo dirige la misión a los gentiles</span> y los marginados. La persecución no detiene la Palabra.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe estar dispuesto a predicar a los marginados. La fe se demuestra al obedecer la dirección del Espíritu.
+                </div>
+            `,
+            9: `
+                <h3>📖 Hechos 9: La Conversión de Saulo (Pablo)</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Saulo** (perseguidor de la Iglesia) es derribado por una luz celestial en el camino a Damasco, y **Jesús** se le revela. Saulo queda ciego. **Ananías**, un discípulo de Damasco, es enviado a orar por Saulo, quien recupera la vista y es bautizado. Saulo comienza a predicar inmediatamente en Damasco (primera predicación). **Pedro** sana a **Eneas** en Lida y resucita a **Tabita (Dorcas)** en Jope, dos milagros que traen muchos a la fe.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Conversión y Milagros</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Conversión Radical:</strong> El mayor perseguidor se convierte en el mayor apóstol</li>
+                    <li><strong>Poder de la Resurrección:</strong> La obra de Pedro continúa la autoridad de Jesús</li>
+                    <li><strong>Gracia:</strong> La vida de Pablo se transforma totalmente por la gracia de Cristo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">gracia de Cristo es suficiente para transformar al peor enemigo</span>. La conversión de Pablo es la base de la misión gentil.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confiar en el poder de Cristo para transformar vidas. Dios usa instrumentos humildes (Ananías) para Su propósito.
+                </div>
+            `,
+            10: `
+                <h3>📖 Hechos 10: La Conversión de Cornelio (Primer Gentil)</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El capítulo clave para la misión gentil. **Cornelio**, un centurión romano piadoso (gentil), recibe una visión para llamar a Pedro. **Pedro** recibe una visión en el techo (los animales inmundos) que le enseña que **Dios no hace acepción de personas**. Pedro predica en casa de Cornelio y el **Espíritu Santo desciende sobre los gentiles** mientras él habla. Pedro los bautiza, confirmando que la salvación es para todos sin los requisitos de la Ley Mosaica.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Visión</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Acepción de Personas:</strong> Dios no discrimina entre judíos y gentiles</li>
+                    <li><strong>Visión de Pedro:</strong> La abolición de las leyes dietéticas para la misión</li>
+                    <li><strong>Bautismo del Espíritu:</strong> La prueba de que Dios ha aceptado a los gentiles</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Espíritu Santo anula las barreras raciales</span> y religiosas. La salvación es universal.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe reconocer que la salvación es para todas las naciones y que el Espíritu Santo es la única señal de la verdadera fe.
+                </div>
+            `,
+            11: `
+                <h3>📖 Hechos 11: Confirmación de la Misión Gentil y la Iglesia en Antioquía</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pedro defiende su acción ante los apóstoles en Jerusalén (la visita a Cornelio) y la Iglesia alaba a Dios: "**Así que también a los gentiles ha dado Dios arrepentimiento para vida.**" El evangelio se extiende a **Antioquía** (la primera gran Iglesia gentil), donde los discípulos son llamados **"cristianos"** por primera vez. **Bernabé** trae a **Saulo** de Tarso para que ministrara allí, uniendo el liderazgo de los apóstoles y el apóstol a los gentiles.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Expansión y Confirmación</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Confirmación:</strong> La Iglesia de Jerusalén acepta la misión gentil</li>
+                    <li><strong>Cristiano:</strong> El nuevo nombre del discípulo de Cristo</li>
+                    <li><strong>Antioquía:</strong> El nuevo centro de la misión gentil</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">nombre "cristiano" es la nueva identidad</span>. La fe se convierte en un movimiento internacional.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir su nueva identidad como "cristiano" y buscar la unidad y la generosidad en la Iglesia.
+                </div>
+            `,
+            12: `
+                <h3>📖 Hechos 12: Martirio de Jacobo y Liberación de Pedro</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Herodes Agripa I** persigue a la Iglesia. Manda **matar a Jacobo** (el apóstol, hermano de Juan) por la espada. Luego, encarcela a **Pedro**. La Iglesia ora fervientemente, y un **ángel** libera a Pedro milagrosamente de la cárcel. Herodes, por su arrogancia al no dar gloria a Dios (aceptando la alabanza de ser un dios), es **consumido por gusanos** y muere. La persecución falla, y la Palabra de Dios crece.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Persecución y Juicio</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Martirio:</strong> El fin del apóstol Jacobo (el juicio es real)</li>
+                    <li><strong>Oración:</strong> La oración ferviente libera a Pedro</li>
+                    <li><strong>Juicio Divino:</strong> Dios castiga la soberbia de Herodes</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">soberbia humana es castigada</span>. La oración de la Iglesia es poderosa para la liberación.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe orar fervientemente por los líderes. La soberanía de Dios es la única fuente de protección y juicio.
+                </div>
+            `,
+            13: `
+                <h3>📖 Hechos 13: Primer Viaje Misionero de Pablo y Bernabé</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La Iglesia de Antioquía envía a **Bernabé y Saulo (Pablo)** en el **primer viaje misionero** (comienza en Chipre y Galacia). Predican en las sinagogas. **Saulo cambia su nombre a Pablo**. El procónsul **Sergio Paulo** se convierte, y el mago **Elimas** es cegado. Pablo predica un largo sermón en la sinagoga de Antioquía de Pisidia, declarando la salvación por gracia. Al ser rechazado por los judíos, se dirige a los **gentiles**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Transición</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Llamamiento a los Gentiles:</strong> La misión se expande más allá de la sinagoga</li>
+                    <li><strong>Pablo:</strong> Asume el liderazgo de la misión</li>
+                    <li><strong>Sanidad y Juicio:</strong> El ciego Elimas y la conversión de Sergio Paulo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">rechazo de la Palabra por parte de los judíos</span> lleva a la Iglesia a enfocarse plenamente en los gentiles.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe estar dispuesto a ir a los gentiles. El Espíritu Santo llama y envía a los líderes.
+                </div>
+            `,
+            14: `
+                <h3>📖 Hechos 14: Persecución, Adoración y Regreso</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>**Pablo y Bernabé** predican en Iconio, Lystra y Derbe. En Lystra, Pablo sana a un cojo, y la multitud intenta **adorarlos como dioses** (Zeus y Hermes). Pablo les reprende, afirmando que solo deben adorar al Dios vivo. Pablo es **apedreado** por una turba judía y abandonado, pero se levanta y continúa la predicación. Regresan a las Iglesias, ordenando **ancianos** en cada congregación.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Establecimiento</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Falsos Dioses:</strong> El rechazo a la adoración pagana</li>
+                    <li><strong>Sufrimiento:</strong> El apóstol debe perseverar en la persecución y el apedreamiento</li>
+                    <li><strong>Organización:</strong> El nombramiento de ancianos para la dirección de las Iglesias</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento es necesario para entrar en el Reino de Dios</span>. La adoración pertenece solo al Creador.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe perseverar en la fe, sabiendo que el sufrimiento es parte del discipulado, y establecer un liderazgo bíblico en la Iglesia.
+                </div>
+            `,
+            15: `
+                <h3>📖 Hechos 15: El Concilio de Jerusalén y la Ley</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Surge una controversia: algunos judíos creen que los gentiles deben **circuncidarse** para ser salvos. Los líderes de la Iglesia se reúnen en **Jerusalén** para el primer **Concilio Eclesiástico**. **Pedro** testifica de Cornelio. **Jacobo** (hermano de Jesús, líder de la Iglesia de Jerusalén) da el veredicto: los gentiles no deben circuncidarse, sino abstenerse de la **sangre, de lo sacrificado a los ídolos y de fornicación**. La salvación es por gracia, no por la Ley.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Concilio y Decisión Eclesiástica</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Salvación por Gracia:</strong> La fe en Cristo es la única base para la salvación</li>
+                    <li><strong>Ley Mosaica:</strong> No es necesaria para la salvación gentil</li>
+                    <li><strong>Unidad:</strong> La decisión se toma por el Espíritu Santo y los apóstoles</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">salvación es exclusivamente por la fe en Jesucristo</span>. La Ley es cumplida por Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la unidad y la verdad en el Concilio de la Iglesia. La salvación no tiene barreras rituales.
+                </div>
+            `,
+            16: `
+                <h3>📖 Hechos 16: Timoteo, el Llamado Macedonio y Filipos</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo comienza su **segundo viaje misionero**. Llama a **Timoteo** (circuncidándolo para la misión a los judíos). Pablo recibe la **Visión del Varón Macedonio** (un llamado a predicar en Europa). En Filipos, predica a **Lidia** (la primera conversa europea), y es encarcelado con Silas. Un **terremoto** abre las puertas de la prisión, y el **carcelero** y su familia se convierten. Pablo exige que los romanos los liberen públicamente, haciendo valer su ciudadanía.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Visión</li>
+                    <li><strong>Autor:</strong> Lucas (Usa "nosotros" al narrar la visión)</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Llamado a Europa:</strong> El inicio de la expansión a Occidente</li>
+                    <li><strong>Poder del Evangelio:</strong> La conversión de Lidia y el carcelero</li>
+                    <li><strong>Ciudadanía:</strong> Pablo usa su ciudadanía romana para proteger el Evangelio</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Espíritu Santo dirige la misión geográficamente</span>. La fe rompe las barreras sociales y el poder terrenal.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser sensible a la dirección del Espíritu. La fe trae la salvación a toda la casa.
+                </div>
+            `,
+            17: `
+                <h3>📖 Hechos 17: Tesalónica, Berea y Atenas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo predica en **Tesalónica** y **Berea**. Los creyentes de Berea son elogiados por **examinar las Escrituras** diariamente. Pablo llega a **Atenas**, cuyo espíritu se enoja al ver la idolatría. Predica en el **Areópago** a los filósofos, citando su propia poesía y declarando que el Dios desconocido es el Creador que llama al arrepentimiento y ha dado prueba de Su juicio en la **resurrección de Cristo**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Discurso Apologético</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Escrituras:</strong> El valor de examinar la Palabra de Dios</li>
+                    <li><strong>Idolatría:</strong> La confrontación de Pablo con la filosofía griega</li>
+                    <li><strong>Resurrección:</strong> El centro del mensaje de Pablo a los filósofos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Evangelio es la respuesta a la búsqueda filosófica</span>. La resurrección es el fundamento de la fe.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe estudiar las Escrituras con diligencia. El mensaje de Cristo es relevante para todas las culturas y filosofías.
+                </div>
+            `,
+            18: `
+                <h3>📖 Hechos 18: Corinto, Aquila y Priscila</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo llega a **Corinto**, una ciudad muy inmoral. Se encuentra con **Aquila y Priscila** (judíos expulsados de Roma), quienes se convierten en sus colaboradores más cercanos. Pablo predica con poder, y el Señor le asegura en una visión: "**No temas, sino habla, y no calles; porque yo tengo mucho pueblo en esta ciudad**." Pablo regresa a Jerusalén y Antioquía, y **Apolos** (un orador elocuente) es instruido en el evangelio por Priscila y Aquila.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Establecimiento</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Misión Urbana:</strong> La predicación en Corinto (la ciudad más difícil)</li>
+                    <li><strong>Colaboración:</strong> El apoyo de Aquila y Priscila</li>
+                    <li><strong>Ánimo:</strong> El Señor asegura a Pablo de la cosecha futura</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obra de Dios en las ciudades es segura</span>. El Señor tiene un pueblo escondido incluso en el lugar más inmoral.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la colaboración y el ánimo de Dios. La Iglesia crece en el lugar donde la necesidad es mayor.
+                </div>
+            `,
+            19: `
+                <h3>📖 Hechos 19: Éfeso, el Espíritu Santo y el Motín de Artemisa</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo ministra en **Éfeso** (tercer viaje misionero). Encuentra discípulos que solo conocían el bautismo de Juan; Pablo les enseña sobre Jesús y el **Espíritu Santo**, y son bautizados y llenos del Espíritu. El ministerio de Pablo dura **dos años**. Los milagros son grandes, y la fe se propaga. El predicador **Demetrio** y otros plateros inician un **motín** por temor a que el evangelio arruine el negocio de la **diosa Artemisa**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Misión y Conflicto</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Plenitud del Espíritu:</strong> La necesidad de ser bautizado en el Espíritu Santo</li>
+                    <li><strong>Conflicto Cultural:</strong> El evangelio amenaza el negocio de la idolatría</li>
+                    <li><strong>Motín:</strong> La respuesta violenta del paganismo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Evangelio confronta el poder económico y religioso de la idolatría</span>. La fe se basa en el poder del Espíritu Santo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar el poder del Espíritu Santo. El Evangelio confronta directamente los ídolos culturales.
+                </div>
+            `,
+            20: `
+                <h3>📖 Hechos 20: Despedida a Éfeso y la Cena en Troas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo viaja a Macedonia y Grecia. En **Troas**, mientras predica, el joven **Eutico** se duerme, cae de la ventana y muere. Pablo lo **resucita**. Pablo se despide de los **ancianos de Éfeso** en Mileto, advirtiéndoles sobre los **lobos rapaces** (falsos maestros) que entrarán en la Iglesia y les encomienda la Palabra de Dios y el pastoreo del rebaño. Es el discurso más emocional de Pablo en Hechos.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Viajes y Discurso de Despedida</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Resurrección:</strong> El poder de Dios en Troas</li>
+                    <li><strong>Falsos Maestros:</strong> La advertencia sobre la herejía interna</li>
+                    <li><strong>Mayordomía:</strong> La encomienda de la Iglesia a los ancianos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">verdadero liderazgo es un servicio sacrificial</span>. La protección contra la herejía es la Palabra de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe proteger la Iglesia de los falsos maestros. La fe se demuestra en el testimonio humilde y la dependencia de la Palabra.
+                </div>
+            `,
+            21: `
+                <h3>📖 Hechos 21: Llegada a Jerusalén y el Arresto</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo, a pesar de las **advertencias proféticas** (Ágabo predice su arresto), insiste en ir a **Jerusalén**. Pablo se somete a un rito de purificación en el Templo. Es **arrestado** por una turba judía que falsamente lo acusa de profanar el Templo (al introducir a un gentil). Pablo habla a la multitud en **hebreo**, relatando su conversión y defendiendo su misión gentil.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Viajes y Arresto</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Obediencia a la Misión:</strong> Pablo prioriza la misión sobre el peligro</li>
+                    <li><strong>Persecución:</strong> El rechazo judío a la misión gentil</li>
+                    <li><strong>Defensa:</strong> Pablo relata su testimonio para defenderse</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento de Pablo en Jerusalén es el precio de la misión gentil</span>. La fe acepta el sufrimiento por la Palabra.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe estar dispuesto a enfrentar el sufrimiento por el Evangelio. La fe se demuestra al cumplir la misión, a pesar del peligro.
+                </div>
+            `,
+            22: `
+                <h3>📖 Hechos 22: Defensa de Pablo ante la Multitud</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo relata su **testimonio de conversión** ante la turba judía (versión detallada). Menciona su educación bajo **Gamaliel** y su celo por la Ley, y cómo fue confrontado por Jesús. La multitud se enfurece cuando Pablo revela que fue enviado a los **gentiles**. Pablo usa su **ciudadanía romana** para evitar ser azotado, forzando al tribuno a presentarlo ante el Sanedrín.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Defensa (Apología)</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Conversión:</strong> El testimonio de Pablo es su mejor defensa</li>
+                    <li><strong>Misión Gentil:</strong> El punto de conflicto con los judíos</li>
+                    <li><strong>Ciudadanía Romana:</strong> Pablo usa su estatus para proteger su vida</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">testimonio personal de la gracia de Cristo</span> es la defensa más poderosa del Evangelio.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe estar dispuesto a testificar de la gracia de Cristo, sabiendo que la misión a los gentiles es el plan de Dios.
+                </div>
+            `,
+            23: `
+                <h3>📖 Hechos 23: Pablo ante el Sanedrín y la Esperanza</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo es llevado ante el **Sanedrín**. Divide el concilio, declarándose **fariseo** y defendiendo la **resurrección de los muertos** (los saduceos no creen en la resurrección, los fariseos sí). El tribuno lo retira. El Señor se le aparece a Pablo esa noche y le dice: "**Ten ánimo, Pablo, pues como has testificado de mí en Jerusalén, así es necesario que testifiques también en Roma.**" Los judíos conspiran para matarlo, pero su sobrino lo advierte.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Controversia y Visión</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Estrategia:</strong> Pablo usa la división doctrinal del Sanedrín</li>
+                    <li><strong>Esperanza:</strong> La resurrección es la doctrina central del cristianismo</li>
+                    <li><strong>Promesa:</strong> Pablo testificará en Roma</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">resurrección es el fundamento de la fe</span>. El Señor es fiel a Su plan de llevar el Evangelio a Roma.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la sabiduría en la defensa de la fe, sabiendo que la resurrección es la verdad más importante.
+                </div>
+            `,
+            24: `
+                <h3>📖 Hechos 24: Juicio ante Félix</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo es juzgado ante el gobernador **Félix**. El orador **Tértulo** acusa a Pablo de ser un agitador y de profanar el Templo. Pablo se defiende, afirmando que adora al Dios de sus padres y cree en la **resurrección de los justos e injustos**. Félix se interesa en la justicia y la templanza, pero espera ser sobornado. Pablo es retenido en la cárcel por **dos años**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Juicio (Apología)</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Defensa:</strong> Pablo afirma la verdad de la fe en la resurrección</li>
+                    <li><strong>Codicia:</strong> La avaricia de Félix (esperando soborno)</li>
+                    <li><strong>Integridad:</strong> Pablo se defiende de las falsas acusaciones</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe y la esperanza en la resurrección</span> son la base de la defensa de Pablo. La injusticia es movida por la codicia.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir con integridad. La fe en la resurrección es la motivación para la vida justa.
+                </div>
+            `,
+            25: `
+                <h3>📖 Hechos 25: Juicio ante Festo y Apelación a César</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El nuevo gobernador **Festo** asume el cargo. Los judíos conspiran contra Pablo. Festo ofrece que Pablo sea juzgado en Jerusalén, pero Pablo, sabiendo el peligro, usa su derecho como ciudadano romano y **apela a César**. Esto asegura el viaje a Roma. **Agripa** (Rey) y **Berenice** visitan a Festo, y Festo presenta el caso de Pablo ante ellos para obtener consejo.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa Legal y Política</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Ciudadanía:</strong> El derecho romano usado para la misión</li>
+                    <li><strong>Apelación:</strong> La garantía del viaje a Roma</li>
+                    <li><strong>Inocencia:</strong> Festo declara que Pablo no ha cometido un crimen capital</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">soberanía de Dios usa la ley romana</span> para llevar el Evangelio a Roma, cumpliendo la promesa.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe usar todos los recursos lícitos (ley, ciudadanía) para proteger y avanzar el Evangelio.
+                </div>
+            `,
+            26: `
+                <h3>📖 Hechos 26: La Defensa de Pablo ante Agripa</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo presenta su **defensa final** ante el Rey **Agripa**, el gobernador Festo y Berenice. Pablo relata su **historia de conversión** con gran detalle y defiende la **resurrección** de Cristo. Agripa se conmueve: "**Por poco me persuades a ser cristiano**." Festo lo interrumpe: "Estás loco, Pablo." El veredicto final es que Pablo es inocente, pero debe ir a César por su propia apelación.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Discurso de Defensa (Apología)</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Testimonio:</strong> El poder de la historia de conversión de Pablo</li>
+                    <li><strong>Resurrección:</strong> El centro de la disputa y la fe</li>
+                    <li><strong>Perdón:</strong> Pablo es testigo de la luz de Cristo</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Evangelio es la luz que abre los ojos de los ciegos</span>. La fe es la única respuesta a la verdad de la resurrección.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la claridad en su testimonio. El Evangelio debe ser presentado a los líderes del mundo.
+                </div>
+            `,
+            27: `
+                <h3>📖 Hechos 27: El Viaje a Roma y el Naufragio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo comienza su viaje a **Roma** como prisionero. El viaje es peligroso, y Pablo advierte del **naufragio**. La tripulación no escucha. La **tormenta "Euroclidón"** azota el barco por 14 días. Un **ángel** se le aparece a Pablo y le asegura que Dios le ha dado la vida de todos en el barco. El barco **naufraga** en la isla de **Malta**, y todos se salvan.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Viajes y Aventura (Estilo náutico)</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Provención:</strong> La vida de los 276 pasajeros es dada por Dios a Pablo</li>
+                    <li><strong>Advertencia:</strong> Pablo advierte de la tormenta</li>
+                    <li><strong>Fe:</strong> La confianza de Pablo en medio del peligro</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">juicio y la liberación están bajo el control de Dios</span>. El creyente es un ancla de esperanza para otros.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confiar en la promesa de Dios en medio de la adversidad. El plan de Dios siempre prevalece.
+                </div>
+            `,
+            28: `
+                <h3>📖 Hechos 28: Malta, Roma y el Fin de la Narrativa</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo llega a la isla de **Malta**, donde es mordido por una **víbora** sin sufrir daño. Predica y sana a muchos. Pablo llega finalmente a **Roma** y vive en arresto domiciliario por **dos años** (con libertad para recibir visitas). Predica a los **líderes judíos** de Roma (que lo rechazan). El libro termina con Pablo predicando el **Reino de Dios** y la enseñanza de Jesús a todos los gentiles, sin impedimento, cumpliendo la promesa de Hch. 1:8.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Narrativa de Viajes y Conclusión</li>
+                    <li><strong>Autor:</strong> Lucas</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Inmunidad:</strong> La protección de Dios contra el veneno</li>
+                    <li><strong>Arresto Domiciliario:</strong> La libertad para predicar en Roma</li>
+                    <li><strong>Misión Cumplida:</strong> El Evangelio llega a Roma, el "confín de la Tierra"</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">Palabra de Dios no está encadenada</span>. El Evangelio avanza por la gracia de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe predicar el Reino de Dios sin impedimento, sabiendo que la Palabra de Dios es imparable.
+                </div>
+            `
+        },
+        'Romanos': {
+            1: `
+                <h3>📖 Romanos 1: Introducción, el Poder del Evangelio y el Pecado Gentil</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo se presenta como apóstol a los **gentiles**. Declara el tema de la carta: el **Evangelio es poder de Dios para salvación a todo aquel que cree, al judío primeramente y también al griego.** El capítulo expone el **pecado universal** de los gentiles (que cambiaron la gloria de Dios por ídolos), lo que llevó al castigo divino (la entrega a pasiones vergonzosas e inmoralidad).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Epístola Teológica (Tratado Doctrinal)</li>
+                    <li><strong>Autor:</strong> Pablo (escrita en Corinto, c. 57 d.C.)</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Poder del Evangelio:</strong> La salvación viene por la fe</li>
+                    <li><strong>Revelación General:</strong> Dios se revela en la Creación (sin excusa)</li>
+                    <li><strong>Juicio de la Inmoralidad:</strong> El castigo de Dios sobre la humanidad impía</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe es la única condición para la salvación</span>. La humanidad es culpable por rechazar el conocimiento de Dios revelado en la naturaleza.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la justificación por la fe. El Evangelio es la única solución al pecado universal.
+                </div>
+            `,
+            2: `
+                <h3>📖 Romanos 2: El Juicio Imparcial de Dios sobre Judíos y Gentiles</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo dirige el foco a los **judíos** (o a cualquiera que juzga a los demás). Afirma que el **juicio de Dios es imparcial** (sin acepción de personas). Los gentiles sin la Ley serán juzgados por la **Ley escrita en su corazón** (conciencia). Los judíos que tienen la Ley, pero no la cumplen, serán juzgados con más severidad. La circuncisión es solo del **corazón**, no solo de la carne.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Argumento Legal y Ético</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Imparcialidad:</strong> Dios juzga según la verdad y las obras</li>
+                    <li><strong>Conciencia:</strong> La ley moral es universal</li>
+                    <li><strong>Circuncisión del Corazón:</strong> La piedad es interna, no externa</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera justicia es interna</span>. La fe debe buscar la transformación del corazón, no solo la observancia ritual.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe evitar juzgar a los demás. El juicio de Dios es justo y se basa en la sinceridad del corazón.
+                </div>
+            `,
+            3: `
+                <h3>📖 Romanos 3: La Culpabilidad Universal y la Justificación por la Fe</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo concluye su argumento: **"No hay justo, ni aun uno; todos pecaron y están destituidos de la gloria de Dios."** La Ley no justifica, sino que revela el pecado. La solución es la **Justificación por la Fe** en **Jesucristo** (el medio de la redención y la propiciación). La justificación es gratuita (por gracia), sin las obras de la Ley, para que Dios sea justo y justificador del que cree.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Declaración Doctrinal (La Caída y la Redención)</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Pecado Universal:</strong> Toda la humanidad es culpable</li>
+                    <li><strong>Justificación Gratuita:</strong> Recibir la justicia de Cristo por la fe</li>
+                    <li><strong>Propiciación:</strong> Cristo es el sacrificio que satisface la ira de Dios</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe es el único medio de salvación</span>. La justicia de Cristo es imputada al creyente.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confiar plenamente en el sacrificio de Cristo. El evangelio es el poder de Dios que justifica al impío.
+                </div>
+            `,
+            4: `
+                <h3>📖 Romanos 4: Abraham, el Padre de la Fe</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo usa a **Abraham** como el **ejemplo supremo** de la justificación por la fe. Abraham fue justificado **antes de la circuncisión** y **antes de la Ley** (Génesis 15:6: "Y creyó Abraham a Dios, y le fue contado por justicia"). Por lo tanto, Abraham es el padre de todos los creyentes (judíos y gentiles). La fe en el poder de Dios que resucitó a Jesús es la que nos justifica.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exposición Tipológica y Teológica</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Fe y Obras:</strong> La fe es anterior a la Ley y la circuncisión</li>
+                    <li><strong>Promesa:</strong> La fe de Abraham en la promesa de Dios (descendencia)</li>
+                    <li><strong>Modelo de la Fe:</strong> Abraham es el padre de todos los creyentes</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe es la única moneda de la justificación</span>. El creyente es heredero de la promesa de Abraham.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir por la fe de Abraham, creyendo en el poder de Dios para dar vida a los muertos (la resurrección).
+                </div>
+            `,
+            5: `
+                <h3>📖 Romanos 5: Paz con Dios, Esperanza y Adán vs. Cristo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El resultado de la justificación por la fe es la **Paz con Dios**. La esperanza del creyente se funda en la tribulación, que produce paciencia. Pablo contrasta a **Adán** (que trajo el pecado y la muerte a todos) con **Jesucristo** (que trajo la gracia y la vida a todos). La **gracia de Dios sobreabunda** sobre el pecado de Adán.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Declaración Teológica y Esperanza</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Paz:</strong> El fin de la enemistad con Dios</li>
+                    <li><strong>Gracia Abundante:</strong> La obra de Cristo supera totalmente el pecado de Adán</li>
+                    <li><strong>Esperanza:</strong> El sufrimiento produce el carácter y la esperanza</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obra de Cristo es superior al pecado universal</span>. La fe se regocija en la esperanza de la gloria.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente tiene paz con Dios y debe regocijarse en la esperanza de la gloria, sabiendo que el sufrimiento es una herramienta para la paciencia.
+                </div>
+            `,
+            6: `
+                <h3>📖 Romanos 6: Muerte al Pecado y Vida Nueva</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo aborda la objeción: ¿Perseveraremos en el pecado para que la gracia abunde? Pablo responde: "**En ninguna manera.**" La **muerte al pecado** ocurre por la **identificación con la muerte de Cristo** (bautismo). El creyente debe considerarse **muerto al pecado** pero **vivo para Dios** en Cristo Jesús. La esclavitud al pecado es reemplazada por la **servidumbre a la justicia**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exposición de la Santificación</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Muerte al Pecado:</strong> El bautismo como símbolo de la muerte a la vida antigua</li>
+                    <li><strong>Resurrección:</strong> El creyente debe andar en novedad de vida</li>
+                    <li><strong>Servidumbre a la Justicia:</strong> Elegir la obediencia sobre el pecado</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">libertad del pecado se basa en la identidad con Cristo</span>. La fe exige la santificación práctica.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe negarse a que el pecado reine en su cuerpo y vivir en obediencia, ofreciéndose a Dios como siervos de la justicia.
+                </div>
+            `,
+            7: `
+                <h3>📖 Romanos 7: La Ley, el Pecado y el Conflicto Interno</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo usa la analogía del **matrimonio** para ilustrar que el creyente es **libre de la Ley** (pues murió con Cristo) para casarse con Cristo y dar fruto. El problema no es la Ley (que es santa), sino el **pecado** que usa la Ley para matar. Pablo describe el **conflicto interno** del creyente: "**El querer el bien está en mí, pero no el hacerlo.**" El capítulo termina con el clamor: "**¡Miserable de mí! ¿quién me librará de este cuerpo de muerte?**"</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exposición del Conflicto Moral</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Ley Santa:</strong> La Ley es buena, pero revela el pecado</li>
+                    <li><strong>Conflicto:</strong> La lucha entre la carne y el espíritu</li>
+                    <li><strong>Lamento:</strong> El dolor por la incapacidad de hacer el bien deseado</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">santificación es una batalla constante</span>. La Ley es la herramienta que revela la incapacidad humana para la perfección.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe reconocer su debilidad y la incapacidad de la carne. La liberación del pecado se encuentra solo en Cristo.
+                </div>
+            `,
+            8: `
+                <h3>📖 Romanos 8: Vida en el Espíritu y Gloria Futura</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El capítulo central de Romanos, el clímax de la teología de Pablo. **"Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús."** El **Espíritu Santo** es el agente de la nueva vida, dándonos seguridad de que somos **hijos de Dios**. La creación entera gime esperando la manifestación de los hijos de Dios. Dios usa todas las cosas para el bien de los que le aman (la providencia). El capítulo concluye con la **seguridad eterna**: nada puede separarnos del amor de Dios en Cristo Jesús.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exposición de la Seguridad y la Gloria</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Sin Condenación:</strong> La seguridad de la justificación</li>
+                    <li><strong>Vida en el Espíritu:</strong> El poder para vencer la carne</li>
+                    <li><strong>Seguridad Eterna:</strong> La inseparabilidad del amor de Dios</li>
+                    <li><strong>Gloria Futura:</strong> La creación gime por la redención final</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">seguridad de la salvación es absoluta</span>. El Espíritu Santo es la garantía de la adopción y la gloria futura.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir en el Espíritu, confiando en que la providencia de Dios opera en todas las cosas para su bien y que nada puede separarlo del amor de Cristo.
+                </div>
+            `,
+            9: `
+                <h3>📖 Romanos 9: La Soberanía de Dios y la Elección de Israel</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo aborda el problema de **Israel y la soberanía de Dios** (el por qué Israel rechazó al Mesías). Afirma que la **elección** no es por obras ni por la descendencia física (no todos los descendientes de Abraham son el "verdadero Israel"), sino por la **misericordia de Dios** (ejemplo de Jacob y Esaú). Dios es el **Alfarero**, y nosotros el barro. Dios es libre de tener misericordia de quien quiera y endurecer a quien quiera.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exposición de la Soberanía Divina</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Soberanía de Dios:</strong> Dios elige por Su voluntad, no por el mérito humano</li>
+                    <li><strong>Alfarero:</strong> La analogía de la libertad de Dios sobre el barro</li>
+                    <li><strong>Riqueza y Misericordia:</strong> Dios usa el endurecimiento para mostrar Su misericordia a otros</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">salvación es totalmente un acto de la voluntad de Dios</span>. El creyente debe someterse a la soberanía de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la misericordia de Dios, no la justicia propia. La fe se somete a la soberanía incomprensible de Dios.
+                </div>
+            `,
+            10: `
+                <h3>📖 Romanos 10: La Justicia que es por la Fe y la Misión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo expresa su dolor por Israel, que busca la **justicia por la Ley** y no se somete a la justicia de Dios (Jesucristo). **Cristo es el fin de la Ley** para la justificación. Pablo declara que la justicia por la fe es accesible a todos, ya que "**si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo**." El capítulo concluye con la necesidad de la **predicación** para que haya fe ("¿Cómo, pues, invocarán a aquel en el cual no han creído?").</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exposición Soteriológica y Misionera</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Fin de la Ley:</strong> Cristo es el cumplimiento de la Ley para la justificación</li>
+                    <li><strong>Confesión:</strong> La fe es interna y externa</li>
+                    <li><strong>Misión:</strong> La fe viene por el oír la Palabra de Dios</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe es el único camino de la justicia</span>. La salvación es para todos, y la misión es necesaria para que haya fe.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe confesar a Cristo como el Señor. La obediencia al llamado de predicar el Evangelio es esencial.
+                </div>
+            `,
+            11: `
+                <h3>📖 Romanos 11: El Remanente y la Plenitud de los Gentiles</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo refuta la idea de que Dios ha rechazado totalmente a Israel. El rechazo de Israel es parcial (siempre hay un **remanente por gracia**). El endurecimiento de Israel es **temporal** y ha permitido la entrada de la **plenitud de los gentiles**. El injerto del **olivo** (Israel) en el **olivo silvestre** (gentiles) es una advertencia a los gentiles contra la arrogancia. El capítulo concluye con el misterio de que **todo Israel será salvo** al final.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exposición Profética y Alerta</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Remanente:</strong> Dios preserva a un grupo fiel por gracia</li>
+                    <li><strong>Olivo:</strong> La alegoría de Israel y la Iglesia (raíz y ramas)</li>
+                    <li><strong>Misterio:</strong> Dios usa la incredulidad para mostrar Su misericordia a todos</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">soberanía de Dios es un misterio de misericordia</span>. El plan de Dios incluye la salvación final de Israel.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser humilde y no jactarse contra Israel. La fe se basa en el plan inmutable de Dios para la salvación universal.
+                </div>
+            `,
+            12: `
+                <h3>📖 Romanos 12: La Transformación y los Dones Espirituales</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El inicio de la sección **práctica** (Cap. 12-16). Pablo exhorta a presentar los cuerpos como **sacrificio vivo** (adoración racional). El creyente debe ser **transformado** por la renovación de su entendimiento (no conformarse al mundo). El capítulo aborda los **dones espirituales** (profecía, servicio, enseñanza, etc.) y la **ética** del amor: el amor sea sin fingimiento, amar a los enemigos, bendecir a los que persiguen.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exhortación Ética (Aplicación)</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Sacrificio Vivo:</strong> La vida del creyente como adoración continua</li>
+                    <li><strong>Transformación:</strong> La renovación del entendimiento</li>
+                    <li><strong>Dones:</strong> El uso de los dones para la edificación del cuerpo</li>
+                    <li><strong>Amor:</strong> La venganza pertenece a Dios; el creyente debe bendecir</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida del creyente es un acto continuo de adoración</span>, guiada por el amor y la renovación mental.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe usar sus dones con humildad y practicar el amor sacrificial, incluso con los enemigos.
+                </div>
+            `,
+            13: `
+                <h3>📖 Romanos 13: Sometimiento a las Autoridades y el Amor</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo instruye a la Iglesia a someterse a las **autoridades gubernamentales**, porque toda autoridad es **establecida por Dios**. La obediencia es para el bien de la conciencia, ya que el gobernante es **servidor de Dios** (ministro) para castigar al malo. El capítulo reafirma que el **amor es el cumplimiento de la Ley** (no cometer adulterio, no matar, no codiciar). La hora de la salvación está cerca.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exhortación Civil y Ética</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad Civil:</strong> Dios establece el gobierno terrenal</li>
+                    <li><strong>Amor:</strong> El cumplimiento de toda la Ley</li>
+                    <li><strong>Vigilancia:</strong> El tiempo es corto y la salvación está cerca</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente debe ser el mejor ciudadano</span>, sometiéndose a la autoridad por causa de la conciencia. El amor es el motor de la obediencia.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe someterse a las autoridades y vivir en el amor, sabiendo que el regreso de Cristo es inminente.
+                </div>
+            `,
+            14: `
+                <h3>📖 Romanos 14: Asuntos Indiscutibles y la Conciencia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo aborda los **asuntos disputables** (comer carne, observar días especiales, etc.). El creyente debe **aceptar al débil en la fe**, sin juzgarlo. La fe de cada uno es para Dios. Nadie vive ni muere para sí mismo, sino para el Señor. El principio es: **"Todo lo que no proviene de fe, es pecado."** No se debe hacer nada que haga tropezar al hermano. El Reino de Dios es **justicia, paz y gozo en el Espíritu Santo**.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exhortación de Unidad y Ética</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Libertad Cristiana:</strong> La libertad en asuntos no esenciales</li>
+                    <li><strong>No Juzgar:</strong> Aceptar al que tiene una conciencia débil</li>
+                    <li><strong>Reino de Dios:</strong> No es comida ni bebida, sino justicia y paz</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">unidad y la paz son más importantes que la libertad personal</span>. El creyente debe edificar al hermano.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe usar su libertad con responsabilidad y buscar la paz con sus hermanos, no ser piedra de tropiezo.
+                </div>
+            `,
+            15: `
+                <h3>📖 Romanos 15: El Ejemplo de Cristo y la Misión a España</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo instruye a que el fuerte debe **soportar las flaquezas del débil**, siguiendo el **ejemplo de Cristo** (que no se agradó a Sí Mismo). Pablo defiende la **misión gentil** como el cumplimiento de las Escrituras (Isaías, Salmos). Pablo explica su plan de viajar a **España**, buscando apoyo de Roma, después de llevar una ofrenda a Jerusalén (la ayuda a los santos pobres).</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Exhortación de Unidad y Misión</li>
+                    <li><strong>Autor:</strong> Pablo</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Soporte Mutuo:</strong> El fuerte debe cargar con el débil</li>
+                    <li><strong>Misión:</strong> El Evangelio a los confines (España)</li>
+                    <li><strong>Unidad:</strong> Judíos y gentiles deben alabar juntos a Dios</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida de Cristo es el modelo para la ética</span>. La fe se demuestra al extender la misión a los lugares donde Cristo no ha sido predicado.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la edificación de los demás. La fe se demuestra al apoyar la misión a las naciones.
+                </div>
+            `,
+            16: `
+                <h3>📖 Romanos 16: Saludos Personales y Doxología Final</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El capítulo concluye con una larga lista de **saludos personales** (a Febe, Priscila, Aquila, María, etc.). Pablo alaba a **Febe** (una diaconisa). El capítulo es una ventana a la estructura social de la Iglesia primitiva. Pablo advierte contra los **causantes de disensiones** y las falsas doctrinas. La carta cierra con una **doxología** (alabanza) al Dios que puede confirmarlos según el Evangelio y la revelación del misterio.</p>
+                
+                <h4>📝 Género y Autor</h4>
+                <ul>
+                    <li><strong>Género:</strong> Conclusión y Saludos</li>
+                    <li><strong>Autor:</strong> Pablo (Tercio escribe materialmente la carta)</li>
+                </ul>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Colaboración:</strong> El reconocimiento a los colaboradores de Pablo (incluyendo mujeres)</li>
+                    <li><strong>Advertencia:</strong> Evitar la división y la falsa doctrina</li>
+                    <li><strong>Doxología:</strong> La alabanza final al Dios eterno y sabio</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">unidad en la Iglesia es vital</span>. La fe se demuestra al trabajar en colaboración con otros creyentes.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la unidad en la Iglesia. La fe se basa en la verdad del Evangelio.
+                </div>
+            `
+        },
+        '1 Corintios': {
+            1: `
+                <h3>📖 1 Corintios 1: Divisiones y la Sabiduría de la Cruz</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo aborda inmediatamente el problema de las **divisiones** en la Iglesia de Corinto (grupos que seguían a Pablo, Apolos, Cefas o a Cristo). Declara que el mensaje de la **Cruz** es **locura** para el mundo, pero es el **poder de Dios** para la salvación. Dios eligió lo necio y lo débil del mundo para avergonzar a los sabios.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Divisiones:</strong> El partidismo es carnal e inmaduro.</li>
+                    <li><strong>Sabiduría Humana:</strong> Es irrelevante para el Evangelio.</li>
+                    <li><strong>La Cruz:</strong> El poder y la sabiduría de Dios en la debilidad.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera unidad se centra únicamente en Cristo crucificado</span>. La jactancia es anulada por la gracia.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe evitar el orgullo intelectual y las divisiones. La fe se centra en el poder redentor de la Cruz.
+                </div>
+            `,
+            2: `
+                <h3>📖 1 Corintios 2: El Espíritu Revela la Sabiduría de Dios</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo explica que no vino con palabras persuasivas de **sabiduría humana**, sino con la demostración del **Espíritu y de poder**. La **sabiduría de Dios** es un misterio revelado solo por el **Espíritu Santo**. El **hombre natural** no puede comprender las cosas del Espíritu.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Poder del Espíritu:</strong> El Espíritu Santo es el Maestro.</li>
+                    <li><strong>Mente de Cristo:</strong> El creyente tiene la mente de Cristo para discernir.</li>
+                    <li><strong>Predicación Simple:</strong> La sencillez del mensaje de la Cruz.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe no debe depender de la elocuencia o la filosofía</span>, sino del poder del Espíritu.</p>
+            `,
+            3: `
+                <h3>📖 1 Corintios 3: Ministros de Dios y el Fuego de Prueba</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo reprende a los corintios por ser **carnales** (inmaduros) y les dice que son **labranza y edificio de Dios**. Los ministros (Pablo y Apolos) son solo **colaboradores** de Dios (uno siembra, otro riega). Las obras de los ministros serán probadas por **fuego**; la obra de paja será quemada, pero el que salva su obra recibirá recompensa.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Inmadurez:</strong> El partidismo es la señal de la inmadurez espiritual.</li>
+                    <li><strong>Juicio de las Obras:</strong> La calidad del servicio será probada por fuego.</li>
+                    <li><strong>Templo de Dios:</strong> La Iglesia es el lugar santo de Dios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">liderazgo debe ser humilde y la obra debe ser construida con materiales duraderos</span>.</p>
+            `,
+            4: `
+                <h3>📖 1 Corintios 4: Mayordomos Fieles y el Reino</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo define a los apóstoles como **servidores de Cristo** y **mayordomos de los misterios de Dios**. Lo que se requiere de un mayordomo es que sea **hallado fiel**. Pablo contrasta su propio **sufrimiento** y humildad con el orgullo y la prosperidad de los corintios.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Mayordomía:</strong> La fidelidad es la cualidad esencial del líder.</li>
+                    <li><strong>Juicio:</strong> Solo el Señor juzga la fidelidad.</li>
+                    <li><strong>Humildad:</strong> Pablo confronta el orgullo corintio con su propia aflicción.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fidelidad en el servicio es la única medida de la verdadera grandeza</span>.</p>
+            `,
+            5: `
+                <h3>📖 1 Corintios 5: Inmoralidad y Disciplina Eclesiástica</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo ordena a la Iglesia de Corinto que **ejecute disciplina** sobre un hombre que vivía en **incesto** (inmoralidad extrema). La Iglesia debe **expulsar** al malo de entre ellos. El capítulo compara el pecado con la **levadura** que corrompe toda la masa.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Disciplina:</strong> La necesidad de mantener la pureza de la Iglesia.</li>
+                    <li><strong>Pureza:</strong> La Iglesia debe ser sin levadura (sin malicia).</li>
+                    <li><strong>Juicio Interno:</strong> La Iglesia juzga a los de adentro.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">santidad de la Iglesia es vital para su testimonio</span>. El pecado no debe ser tolerado.</p>
+            `,
+            6: `
+                <h3>📖 1 Corintios 6: Litigios y la Santidad del Cuerpo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo condena a los corintios por llevar sus **litigios legales** ante los tribunales paganos, en lugar de resolverlos internamente. Luego, advierte contra la **inmoralidad sexual**, declarando que el **cuerpo es templo del Espíritu Santo** y que fuimos comprados por precio (la sangre de Cristo). Por lo tanto, el creyente debe **glorificar a Dios con su cuerpo**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Litigios:</strong> El pleito entre hermanos es un escándalo.</li>
+                    <li><strong>Templo:</strong> El cuerpo es la morada del Espíritu Santo.</li>
+                    <li><strong>Comprados por Precio:</strong> La razón para la santidad.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">santidad personal y la unidad fraternal</span> son inseparables. El cuerpo debe ser un instrumento de justicia.</p>
+            `,
+            7: `
+                <h3>📖 1 Corintios 7: Matrimonio, Soltería y Divorcio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo aborda las preguntas sobre el **matrimonio**. Declara que el **celibato** es bueno para el servicio, pero el matrimonio es honroso. Ambos son **dones** de Dios. Pablo permite el divorcio en el caso de **abandono** por parte del cónyuge incrédulo ("lazos rotos"). La regla general es: **quedarse en la condición en que fue llamado**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Dones:</strong> Soltería y matrimonio son dones de Dios.</li>
+                    <li><strong>Regla de Cristo:</strong> No divorciarse.</li>
+                    <li><strong>Abandono:</strong> La excepción para el creyente abandonado por el incrédulo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">propósito de la vida es el servicio a Dios</span>. El estado civil no define la espiritualidad.</p>
+            `,
+            8: `
+                <h3>📖 1 Corintios 8: Libertad Cristiana e Ídolos</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo aborda el comer **carne sacrificada a ídolos**. La carne no hace al creyente mejor o peor. La **ciencia (conocimiento) envanece, pero el amor edifica**. Aunque el creyente tiene **libertad** de comer (porque los ídolos no son nada), no debe usar esa libertad si hace **tropezar** a un hermano con una conciencia débil.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Amor vs. Conocimiento:</strong> El amor es la ley suprema.</li>
+                    <li><strong>Piedra de Tropiezo:</strong> No hacer nada que debilite la fe de otro.</li>
+                    <li><strong>Ídolos:</strong> No tienen poder real.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">libertad debe ser restringida por el amor fraternal</span>. El amor es el cumplimiento de la Ley.</p>
+            `,
+            9: `
+                <h3>📖 1 Corintios 9: La Defensa del Apostolado de Pablo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo defiende su **derecho como apóstol** a ser mantenido por la Iglesia. Él renunció voluntariamente a este derecho para no poner obstáculo al Evangelio. Pablo se hace **"todo a todos"** para ganar al mayor número posible. Usa la analogía del **atleta** que corre para ganar un premio incorruptible.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Derechos Apostólicos:</strong> El derecho al apoyo financiero.</li>
+                    <li><strong>Renuncia:</strong> Pablo sacrifica su derecho por el Evangelio.</li>
+                    <li><strong>Disciplina:</strong> El creyente debe disciplinar su cuerpo como un atleta.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">servicio a Dios requiere sacrificio personal</span> y disciplina.</p>
+            `,
+            10: `
+                <h3>📖 1 Corintios 10: Advertencia Contra la Idolatría</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo usa la historia de **Israel en el desierto** como un **ejemplo** y **advertencia**. A pesar de los milagros (Nube, Maná, Roca), la mayoría de los israelitas cayeron en **idolatría e inmoralidad** y no agradaron a Dios. El creyente debe **huir de la idolatría** y no participar en la mesa de los demonios.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Advertencia:</strong> El pasado de Israel es una lección.</li>
+                    <li><strong>Tentación:</strong> Dios no permite una tentación mayor a la que podemos soportar.</li>
+                    <li><strong>Mesa del Señor:</strong> No debe mezclarse con la mesa de los demonios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente debe perseverar y huir de todo lo que contamina</span>.</p>
+            `,
+            11: `
+                <h3>📖 1 Corintios 11: Autoridad y la Cena del Señor</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo establece el principio de **autoridad** y el uso de la **cobertura** en el culto. Luego, corrige el gran desorden en la celebración de la **Cena del Señor** (donde los ricos comían y bebían demasiado y avergonzaban a los pobres). El creyente debe **examinarse** antes de participar, para no comer y beber **juicio** sobre sí mismo.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Autoridad:</strong> El orden de Dios (Cristo, hombre, mujer).</li>
+                    <li><strong>Cena del Señor:</strong> Recordatorio del cuerpo y la sangre de Cristo.</li>
+                    <li><strong>Autoexamen:</strong> Participar indignamente trae juicio.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">culto de Dios debe ser ordenado y reverente</span>, con respeto por los demás.</p>
+            `,
+            12: `
+                <h3>📖 1 Corintios 12: Unidad en la Diversidad y los Dones Espirituales</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo explica que todos los **dones espirituales** (sabiduría, conocimiento, fe, sanidades, milagros, profecía, lenguas, discernimiento) vienen del **mismo Espíritu**. La Iglesia es un **cuerpo** con muchos miembros. Cada miembro, aunque diferente, es **necesario** y tiene una función vital. El más débil y menos honroso recibe mayor honor.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Unidad:</strong> Un solo Espíritu, un solo Cuerpo.</li>
+                    <li><strong>Diversidad:</strong> Muchos dones para la edificación.</li>
+                    <li><strong>Necesidad:</strong> Todos los miembros son vitales para la función.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">Iglesia debe honrar a todos sus miembros</span>. La diversidad de dones promueve la unidad.</p>
+            `,
+            13: `
+                <h3>📖 1 Corintios 13: El Himno al Amor</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El famoso **"Himno al Amor"** (caridad). Pablo declara que el **amor** es el camino más excelente. Sin amor, los dones (lenguas, profecía, conocimiento) y el sacrificio **no sirven de nada**. El amor es paciente, benigno, no tiene envidia. Los dones son temporales, pero la fe, la esperanza y el amor son permanentes; **el mayor de ellos es el amor**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Superioridad:</strong> El amor es superior a todos los dones.</li>
+                    <li><strong>Cualidades:</strong> El amor es paciente, benigno y edificante.</li>
+                    <li><strong>Permanencia:</strong> Los dones cesarán, pero el amor nunca falla.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">amor es la marca esencial del creyente</span>. La fe sin amor es vacía.</p>
+            `,
+            14: `
+                <h3>📖 1 Corintios 14: El Orden en el Culto y la Profecía</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo da pautas para el culto público. La **profecía** es **superior a las lenguas** sin intérprete, porque edifica, exhorta y consuela a la Iglesia. La regla es: **"Hágase todo decentemente y con orden."** Se prohíbe que las mujeres hablen en la congregación de forma desordenada o sin sumisión (tema contextual y de autoridad).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Edificación:</strong> La prioridad del don que edifica a la Iglesia.</li>
+                    <li><strong>Inteligibilidad:</strong> El mensaje debe ser comprendido.</li>
+                    <li><strong>Orden:</strong> Dios no es un Dios de confusión, sino de paz.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">culto debe ser ordenado y centrado en la edificación</span> de todos los presentes.</p>
+            `,
+            15: `
+                <h3>📖 1 Corintios 15: La Resurrección de Cristo y la Nuestra</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El capítulo más importante sobre la **Resurrección**. Pablo la defiende como un **hecho histórico** (la base del Evangelio). Si **Cristo no resucitó**, la predicación es vana y la fe es vana. La resurrección del creyente será en un **cuerpo glorioso e incorruptible**. Cristo es el primero de las primicias. La muerte es el último enemigo en ser destruido.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Veracidad:</strong> La Resurrección de Cristo es histórica.</li>
+                    <li><strong>Consecuencias:</strong> Sin resurrección, la fe es inútil.</li>
+                    <li><strong>Cuerpo Glorioso:</strong> La naturaleza de la resurrección futura.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">Resurrección es la garantía de nuestra salvación</span> y el poder de nuestra esperanza.</p>
+            `,
+            16: `
+                <h3>📖 1 Corintios 16: Ofrendas y Saludos Finales</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo instruye sobre la **ofrenda para los santos de Jerusalén** (la colecta). Debe ser sistemática y en el primer día de la semana. Anuncia sus planes de viaje, animándolos a recibir a **Timoteo** y a **Apolos**. Termina con una exhortación: **"Velad, estad firmes en la fe; portaos varonilmente, y esforzaos."**</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Generosidad:</strong> La ofrenda para los necesitados de Jerusalén.</li>
+                    <li><strong>Firmeza:</strong> Exhortación a la perseverancia en la fe.</li>
+                    <li><strong>Saludos:</strong> Intercambio de bendiciones y exhortaciones.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">servicio y la generosidad son parte de la vida de fe</span>. La perseverancia es esencial.</p>
+            `
+        },
+        '2 Corintios': {
+            1: `
+                <h3>📖 2 Corintios 1: Consuelo en la Aflicción y Fidelidad de Dios</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo ofrece consuelo en medio de la **aflicción** (la "tribulación en Asia"). Declara que Dios es el **"Padre de misericordias y Dios de toda consolación"**. El sufrimiento le enseñó a confiar no en sí mismo, sino en **Dios que resucita a los muertos**. Defiende la **fidelidad** de su "sí" y "no" ante los corintios.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Consuelo:</strong> La aflicción es una herramienta para consolar a otros.</li>
+                    <li><strong>Confianza:</strong> Confiar solo en Dios, no en la fuerza propia.</li>
+                    <li><strong>Fidelidad Ministerial:</strong> La transparencia y honestidad de Pablo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">aflicción es el medio por el cual Dios nos capacita</span> para el ministerio de consolación.</p>
+            `,
+            2: `
+                <h3>📖 2 Corintios 2: El Perdón al Ofensor</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo explica por qué retrasó su visita. Exhorta a la Iglesia a **perdonar** y restaurar al hombre que había sido disciplinado (en 1 Corintios 5) y que ahora estaba arrepentido. Esto es para evitar que sea consumido por la tristeza. Pablo se regocija en el triunfo de Cristo, comparando su ministerio con el **olor de vida para vida, y olor de muerte para muerte**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Perdón:</strong> La necesidad de restaurar al arrepentido.</li>
+                    <li><strong>Autoridad:</strong> El poder de Pablo para actuar con amor.</li>
+                    <li><strong>Triunfo de Cristo:</strong> El ministerio de Pablo como una ofrenda fragante.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">perdón es esencial para la salud de la Iglesia</span>. La Iglesia debe evitar la tristeza excesiva.</p>
+            `,
+            3: `
+                <h3>📖 2 Corintios 3: Ministros del Nuevo Pacto</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo defiende su ministerio, afirmando que los corintios son su **carta de presentación**, escrita no con tinta, sino con el Espíritu. Contraste entre el **Antiguo Pacto** (la Ley grabada en piedra, que trae condenación y cuyo esplendor se desvaneció) y el **Nuevo Pacto** (ministrado por el Espíritu, que trae justicia y tiene una gloria superior).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Cartas Vivas:</strong> Los creyentes son la carta del ministro.</li>
+                    <li><strong>Letra vs. Espíritu:</strong> La letra mata, el Espíritu vivifica.</li>
+                    <li><strong>Velo:</strong> El velo que hay sobre Moisés es quitado en Cristo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">ministerio es una obra del Espíritu que transforma el corazón</span>. El Nuevo Pacto es superior y eterno.</p>
+            `,
+            4: `
+                <h3>📖 2 Corintios 4: Tesoro en Vasijas de Barro</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo afirma que predica a **Cristo Jesús como Señor**, no a sí mismo. El **Evangelio** es un **tesoro** que está en **vasijas de barro** (la debilidad humana). Esto asegura que el **poder es de Dios**, no del hombre. El sufrimiento (estar atribulado, perplejo, perseguido) es temporal y trabaja para una **gloria eterna**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Poder en Debilidad:</strong> La fragilidad del ministro exalta el poder de Dios.</li>
+                    <li><strong>Ceguera:</strong> El dios de este siglo cegó el entendimiento de los incrédulos.</li>
+                    <li><strong>Eternidad:</strong> Las aflicciones ligeras y temporales obran un peso de gloria.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento es una herramienta de Dios</span> para magnificar Su poder y enfocar la fe en la eternidad.</p>
+            `,
+            5: `
+                <h3>📖 2 Corintios 5: La Morada Celestial y la Reconciliación</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El creyente anhela la **morada celestial** (el cuerpo glorioso), sabiendo que estar **ausente del cuerpo es estar presente al Señor**. El capítulo define el **ministerio de la reconciliación**: Dios, en Cristo, reconcilió al mundo consigo. Por lo tanto, el creyente es un **embajador de Cristo**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Anhelo:</strong> El deseo del cuerpo glorificado (no quedar desnudos).</li>
+                    <li><strong>Juicio:</strong> Todos debemos comparecer ante el tribunal de Cristo.</li>
+                    <li><strong>Embajador:</strong> El creyente representa a Cristo en el mundo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida del creyente se define por la reconciliación</span>. El cielo es la esperanza cierta.</p>
+            `,
+            6: `
+                <h3>📖 2 Corintios 6: Separación y Yugo Desigual</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a los corintios a no recibir la gracia de Dios en vano. Él detalla las pruebas de su ministerio. Les implora a no unirse en **"yugo desigual"** con los **incrédulos** ("¿Qué compañerismo tiene la luz con las tinieblas?"). Les pide que se **separen** de la impureza para ser hijos del Dios Todopoderoso.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Pruebas:</strong> Las aflicciones como credenciales del verdadero ministro.</li>
+                    <li><strong>Yugo Desigual:</strong> La prohibición de unirse espiritualmente a los incrédulos.</li>
+                    <li><strong>Separación:</strong> La Iglesia debe ser santa y separada.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">santidad es esencial para el templo de Dios</span>. El creyente debe ser un ejemplo de pureza.</p>
+            `,
+            7: `
+                <h3>📖 2 Corintios 7: El Gozo del Arrepentimiento</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo se regocija por la **tristeza según Dios** que produjo la **carta severa** (la tristeza de Dios produce arrepentimiento para salvación). El arrepentimiento sincero produjo diligencia y defensa propia en los corintios, validando su ministerio.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Tristeza de Dios:</strong> Produce arrepentimiento sin pesar.</li>
+                    <li><strong>Arrepentimiento Genuino:</strong> Demostrado por acciones de fe.</li>
+                    <li><strong>Confianza de Pablo:</strong> Restauración de la confianza en los corintios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">disciplina y la corrección son actos de amor</span> que buscan el arrepentimiento.</p>
+            `,
+            8: `
+                <h3>📖 2 Corintios 8: Generosidad y el Ejemplo de Cristo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a Corinto a la **generosidad** al completar la colecta para los santos de Jerusalén. Les pone como ejemplo a las **iglesias de Macedonia** (que dieron con alegría en medio de la pobreza). El principio es: **Jesucristo se hizo pobre** siendo rico, para que nosotros fuésemos enriquecidos.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Generosidad:</strong> Dar en abundancia a pesar de la pobreza.</li>
+                    <li><strong>Ejemplo de Cristo:</strong> El sacrificio de Cristo es el modelo para el dar.</li>
+                    <li><strong>Proporcionalidad:</strong> Dar según lo que se tiene, no más allá.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">generosidad es una gracia espiritual</span> que se expresa en la pobreza.</p>
+            `,
+            9: `
+                <h3>📖 2 Corintios 9: La Bendición del Dador Alegre</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo continúa la exhortación a la generosidad. **"Dios ama al dador alegre"** (el que da de forma voluntaria, no por obligación). La generosidad siembra para la **bendición abundante** de Dios, y el resultado es la acción de gracias y la provisión para la necesidad de los santos.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Dador Alegre:</strong> Dar con gozo y voluntad.</li>
+                    <li><strong>Cosecha:</strong> El que siembra escasamente, escasamente cosechará.</li>
+                    <li><strong>Acción de Gracias:</strong> El resultado de la generosidad es la gloria a Dios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">generosidad es la prueba de la fe</span> y un medio de glorificar a Dios.</p>
+            `,
+            10: `
+                <h3>📖 2 Corintios 10: Autoridad Apostólica</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo defiende su **autoridad apostólica** contra los que dicen que es débil en persona, pero fuerte en cartas. Declara que sus armas no son carnales, sino **poderosas en Dios para destruir fortalezas** (toda altivez que se levanta contra el conocimiento de Dios).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Guerra Espiritual:</strong> La batalla se libra con armas divinas.</li>
+                    <li><strong>Humildad:</strong> Pablo se jacta en el Señor, no en sí mismo.</li>
+                    <li><strong>Obediencia:</strong> El castigo se aplica a la desobediencia de Corinto.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera autoridad espiritual se basa en la humildad</span> y el poder de Dios.</p>
+            `,
+            11: `
+                <h3>📖 2 Corintios 11: Falsos Apóstoles y Jactancia en el Sufrimiento</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo advierte contra los **"falsos apóstoles"** (los judaizantes y los "super apóstoles" de Corinto) que predican **otro Jesús** y **otro evangelio**. Pablo se ve obligado a **jactarse** (con ironía) de sus sufrimientos y debilidades para demostrar su autenticidad ministerial.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Falsos Maestros:</strong> Disfrazados como apóstoles de Cristo.</li>
+                    <li><strong>Jactancia:</strong> Pablo se jacta en su sufrimiento y debilidad.</li>
+                    <li><strong>Sacrificio:</strong> La lista de aflicciones de Pablo (azotes, peligros, naufragios).</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento es una credencial del verdadero ministro de Cristo</span>, no la prosperidad.</p>
+            `,
+            12: `
+                <h3>📖 2 Corintios 12: Visiones, Aguijón y Gracia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo se jacta de las **visiones y revelaciones** (arrebatado al **tercer cielo**), pero su jactancia es en su **debilidad**. Dios le dio un **"aguijón en la carne"** (posiblemente una enfermedad) para que no se enalteciera. La respuesta de Dios: **"Bástate mi gracia; porque mi poder se perfecciona en la debilidad."**</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Tercer Cielo:</strong> Las revelaciones personales de Pablo.</li>
+                    <li><strong>Aguijón:</strong> Un medio de Dios para mantener la humildad.</li>
+                    <li><strong>Gracia:</strong> El poder de Dios en la debilidad humana.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">gracia de Cristo es suficiente</span>. La debilidad es la oportunidad para que el poder de Dios se manifieste.</p>
+            `,
+            13: `
+                <h3>📖 2 Corintios 13: Examen Propio y Bendición Final</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo advierte que si regresa, no será indulgente con los que han pecado. Exhorta a la Iglesia a: **"Examinaos a vosotros mismos si estáis en la fe; probaos a vosotros mismos."** El capítulo concluye con una triple bendición: **"La gracia del Señor Jesucristo, el amor de Dios, y la comunión del Espíritu Santo sea con todos vosotros."**</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Examen:</strong> La necesidad de probar la autenticidad de la fe.</li>
+                    <li><strong>Disciplina Futura:</strong> Advertencia a los persistentes en el pecado.</li>
+                    <li><strong>Trinidad:</strong> La triple bendición (Padre, Hijo, Espíritu Santo).</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe debe ser genuina y probada</span>. La gracia y la Trinidad son la fuente de la comunión.</p>
+            `
+        },
+        'Gálatas': {
+            1: `
+                <h3>📖 Gálatas 1: No Hay Otro Evangelio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo ataca de forma directa a los **judaizantes** que pervierten el evangelio. Declara que el Evangelio que predicó no fue recibido de hombres, sino por **revelación de Jesucristo**. Cualquiera que predique **"otro evangelio"** (uno mezclado con la Ley) sea **anatema** (maldito). Pablo narra su conversión y sus primeros años para demostrar la independencia de su llamado apostólico.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Anatema:</strong> La maldición sobre los que pervierten el Evangelio.</li>
+                    <li><strong>Revelación:</strong> El Evangelio viene directamente de Cristo.</li>
+                    <li><strong>Conversión de Pablo:</strong> Demuestra su autoridad.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Evangelio de la Gracia es innegociable</span>. No puede mezclarse con la Ley.</p>
+            `,
+            2: `
+                <h3>📖 Gálatas 2: Confrontación a Pedro y Justificación por la Fe</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo narra su viaje a Jerusalén y la aceptación de los apóstoles. En **Antioquía**, Pablo **confronta a Pedro** (Cefas) por su hipocresía (retirarse de comer con los gentiles por temor a los judaizantes). Pablo afirma que el hombre es **justificado por la fe de Jesucristo, y no por las obras de la ley**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Confrontación:</strong> La verdad del Evangelio está por encima de la autoridad apostólica.</li>
+                    <li><strong>Hipocresía:</strong> El temor a los hombres lleva al legalismo.</li>
+                    <li><strong>Crucifixión con Cristo:</strong> La nueva identidad del creyente.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">justificación es totalmente por la fe</span>. El creyente debe vivir en esta nueva identidad.</p>
+            `,
+            3: `
+                <h3>📖 Gálatas 3: La Ley es un Ayo (Tutor)</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo llama a los gálatas **"¡Oh gálatas insensatos!"** por volver a la Ley. Afirma que el **Espíritu** se recibe por la **fe**, no por las obras. El pacto con **Abraham** (por fe) es anterior a la Ley. La **Ley** se dio para mostrar el pecado y es un **ayo** (tutor) que nos guía a **Cristo**, que nos redimió de la maldición de la Ley.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Insensatez:</strong> Volver a las obras después de conocer la gracia.</li>
+                    <li><strong>Abraham:</strong> El modelo de la fe.</li>
+                    <li><strong>Maldición de la Ley:</strong> Cristo se hizo maldición por nosotros.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">Ley es un espejo que revela el pecado</span>. La fe en Cristo es la única fuente de vida.</p>
+            `,
+            4: `
+                <h3>📖 Gálatas 4: Hijos Adoptados y la Libertad</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo explica que antes de Cristo éramos como **esclavos** o niños bajo tutela. En la plenitud del tiempo, Dios envió a Su Hijo para que recibiéramos la **adopción** como hijos. El creyente ya no es esclavo, sino **heredero**. Pablo usa la alegoría de **Agar (esclavitud, Ley)** e **Sara (libertad, Promesa)** para ilustrar los dos pactos.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Adopción:</strong> El Espíritu de Dios da testimonio de que somos hijos.</li>
+                    <li><strong>Esclavitud:</strong> Volver a la Ley es volver a la servidumbre.</li>
+                    <li><strong>Alegoría:</strong> Agar (Sinaí) vs. Sara (Nueva Jerusalén).</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente es un hijo libre y heredero de Dios</span>, no un esclavo.</p>
+            `,
+            5: `
+                <h3>📖 Gálatas 5: Libertad en Cristo y el Fruto del Espíritu</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a los gálatas a estar **firmes en la libertad** con que Cristo los hizo libres (no volviendo al yugo de la circuncisión). La **fe** opera por el **amor**. Pablo contrasta las **obras de la carne** (adulterio, envidia, etc.) con el **fruto del Espíritu** (amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Libertad Cristiana:</strong> No es para pecar, sino para servir en amor.</li>
+                    <li><strong>Obras de la Carne:</strong> Lo que contamina al hombre.</li>
+                    <li><strong>Fruto del Espíritu:</strong> La evidencia de la vida de Cristo en el creyente.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Espíritu Santo es el poder para vivir en santidad</span>. La fe se demuestra en el amor práctico.</p>
+            `,
+            6: `
+                <h3>📖 Gálatas 6: Cargas y Siembra</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Exhortación práctica: el creyente debe **restaurar con mansedumbre** al que ha caído y **cargar las cargas** de los demás. La regla es: **"No os engañéis; Dios no puede ser burlado: pues todo lo que el hombre sembrare, eso también segará."** El capítulo anima a no cansarse de hacer el bien.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Restauración:</strong> Tratar al pecador con mansedumbre.</li>
+                    <li><strong>Cosecha:</strong> Sembrar en la carne o en el Espíritu.</li>
+                    <li><strong>Jactancia:</strong> Solo se debe jactar en la cruz de Cristo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">servicio a Dios debe ser constante</span>. La fe se demuestra al sembrar en el Espíritu, buscando la eternidad.</p>
+            `
+        },
+        'Efesios': {
+            1: `
+                <h3>📖 Efesios 1: Bendiciones en Cristo y la Herencia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo expone el plan de Dios antes de la fundación del mundo: la **elección, predestinación y adopción** en Cristo. El creyente tiene **redención por la sangre** de Cristo y es **sellado con el Espíritu Santo** (las arras de la herencia). Pablo ora para que los creyentes conozcan la **grandeza del poder de Dios** manifestado en la resurrección de Cristo.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Bendición:</strong> Toda bendición espiritual está en Cristo.</li>
+                    <li><strong>Elección:</strong> El plan de Dios desde la eternidad.</li>
+                    <li><strong>Supremacía:</strong> Cristo es la cabeza de la Iglesia y de todo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">salvación es la obra de la Trinidad</span>. La esperanza está en la resurrección de Cristo.</p>
+            `,
+            2: `
+                <h3>📖 Efesios 2: De Muerte a Vida y Unidad</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo describe la condición del hombre antes de Cristo: **muerto en delitos y pecados**. La salvación es enteramente por **gracia, por medio de la fe** (no por obras). Cristo **derribó la pared de separación** (la Ley Mosaica) entre judíos y gentiles, creando de los dos pueblos **uno solo** (la Iglesia), edificados sobre el fundamento de los apóstoles.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Gracia:</strong> La salvación es un don de Dios.</li>
+                    <li><strong>Obras:</strong> No son el medio de salvación, sino el resultado.</li>
+                    <li><strong>Unidad:</strong> Judíos y gentiles son un solo templo en el Espíritu.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">gracia de Dios es el único camino de la vida</span>. La Iglesia es el lugar de la unidad interracial.</p>
+            `,
+            3: `
+                <h3>📖 Efesios 3: El Misterio de Cristo y la Oración</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo revela el **misterio** que se mantuvo oculto: que los **gentiles son coherederos** y copartícipes de la promesa en Cristo Jesús por medio del Evangelio. Pablo ora para que los creyentes sean **fortalecidos en el hombre interior** y puedan comprender el **amor de Cristo, que excede a todo conocimiento**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Misterio:</strong> Los gentiles son coherederos.</li>
+                    <li><strong>Ministerio:</strong> Pablo, prisionero por los gentiles.</li>
+                    <li><strong>Oración:</strong> Ser lleno de toda la plenitud de Dios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">amor de Cristo es incomprensible y eterno</span>. La Iglesia es la manifestación de la sabiduría de Dios.</p>
+            `,
+            4: `
+                <h3>📖 Efesios 4: Unidad, Dones y Madurez</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a vivir en una manera digna del llamamiento, guardando la **unidad del Espíritu** (un solo cuerpo, un solo Señor, una sola fe). Cristo dio **dones ministeriales** (apóstoles, profetas, evangelistas, pastores y maestros) para el **perfeccionamiento de los santos**, buscando la **madurez** y la unidad de la fe.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Unidad:</strong> El vínculo de la paz.</li>
+                    <li><strong>Dones:</strong> Para el servicio y la edificación.</li>
+                    <li><strong>Madurez:</strong> Ya no ser niños fluctuantes.</li>
+                    <li><strong>Nueva Vida:</strong> Despojarse del viejo hombre y vestirse del nuevo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente debe crecer espiritualmente</span> hasta la medida de la estatura de la plenitud de Cristo.</p>
+            `,
+            5: `
+                <h3>📖 Efesios 5: Andar en Amor, Luz y Matrimonio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a ser **imitadores de Dios** y a **andar en amor** (siguiendo el ejemplo de Cristo) y a **andar en luz** (evitando la inmoralidad y la necedad). El creyente debe ser **lleno del Espíritu** (hablando con salmos, himnos y cánticos espirituales). La sección concluye con la analogía del **matrimonio**: la esposa se **somete** a su esposo, y el esposo **ama** a su esposa como Cristo amó a la Iglesia.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Imitación:</strong> Andar en amor y luz.</li>
+                    <li><strong>Llenura:</strong> Ser lleno del Espíritu Santo (un mandato).</li>
+                    <li><strong>Matrimonio:</strong> El misterio de Cristo y la Iglesia.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">matrimonio es el reflejo terrenal de la relación entre Cristo y Su Iglesia</span>.</p>
+            `,
+            6: `
+                <h3>📖 Efesios 6: Relaciones y la Armadura de Dios</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo instruye sobre las **relaciones en el hogar y el trabajo** (hijos, padres, siervos, amos). El capítulo termina con la necesidad de la **Armadura de Dios** (el yelmo de la salvación, la coraza de justicia, el calzado del Evangelio, el escudo de la fe, la espada del Espíritu, y la oración) para resistir las asechanzas del **diablo**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Obediencia:</strong> Hijos a padres, siervos a amos.</li>
+                    <li><strong>Guerra:</strong> La lucha no es contra carne y sangre.</li>
+                    <li><strong>Armadura:</strong> La provisión de Dios para la batalla espiritual.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente debe estar preparado para la batalla espiritual</span>. La vida de fe exige oración y la Palabra.</p>
+            `
+        },
+        'Filipenses': {
+            1: `
+                <h3>📖 Filipenses 1: El Gozo de la Prisión y la Centralidad de Cristo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo expresa su **gozo y acción de gracias** por la colaboración de los filipenses. Les asegura que su **prisión ha servido para el avance del Evangelio**. Declara su dilema personal: "**Para mí el vivir es Cristo, y el morir es ganancia**." Insta a los creyentes a comportarse de manera digna del Evangelio, sin ser intimidados por sus adversarios.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Propósito del Sufrimiento:</strong> La prisión avanza la Palabra.</li>
+                    <li><strong>Dilema de Pablo:</strong> Morir para estar con Cristo o vivir para el ministerio.</li>
+                    <li><strong>Perseverancia:</strong> Permanecer firme en el Evangelio.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida del creyente debe centrarse totalmente en Cristo</span>, haciendo del sufrimiento una oportunidad para la misión.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El gozo cristiano no depende de las circunstancias, sino de la persona de Cristo.
+                </div>
+            `,
+            2: `
+                <h3>📖 Filipenses 2: Humildad, el Ejemplo de Cristo (Kénosis) y Servicio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a la **unidad** y la **humildad**, buscando el interés de los demás. Presenta el gran ejemplo de **Cristo** (la **Kénosis**): Él no consideró el ser igual a Dios como algo a qué aferrarse, sino que **se despojó a Sí mismo** y se hizo siervo, obedeciendo hasta la muerte de cruz. Esto resultó en Su **exaltación suprema**. Pablo los insta a ocuparse en su salvación con temor y temblor.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Humildad:</strong> Pensar en los demás antes que en uno mismo.</li>
+                    <li><strong>Kénosis:</strong> El despojamiento de Cristo.</li>
+                    <li><strong>Exaltación:</strong> La recompensa de la obediencia de Cristo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">humildad de Cristo es el modelo de la ética cristiana</span>. La obediencia conduce a la gloria.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe imitar la humildad de Cristo, lo que garantiza la unidad de la Iglesia.
+                </div>
+            `,
+            3: `
+                <h3>📖 Filipenses 3: La Justicia de la Fe y la Meta</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo advierte a los filipenses contra los **judaizantes** (los que confían en la carne, como la circuncisión y la Ley). Contrasta su antigua vida (como fariseo) con su nueva vida en Cristo. Él considera su antiguo prestigio como **pérdida** y **basura** por ganar a Cristo. La meta es **conocer a Cristo** y la esperanza de la **resurrección de los muertos**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Legalismo:</strong> La confianza en las obras es "basura".</li>
+                    <li><strong>Justicia por la Fe:</strong> La única justicia aceptable ante Dios.</li>
+                    <li><strong>Meta:</strong> Proseguir hacia el conocimiento de Cristo y la vida eterna.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">justificación es solo por la fe</span>. El creyente debe buscar constantemente la semejanza de Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe rechazar la justicia propia y perseguir la recompensa de la vida eterna con disciplina.
+                </div>
+            `,
+            4: `
+                <h3>📖 Filipenses 4: Paz, Gozo y Contentamiento</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a la Iglesia a estar **gozosos** y resolver los conflictos internos (el caso de Evodia y Síntique). La clave para la paz es la **oración** y la **acción de gracias** ("Por nada estéis afanosos"). Declara el secreto del **contentamiento**: "**Todo lo puedo en Cristo que me fortalece**." Agradece la ofrenda enviada desde Filipos.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Paz de Dios:</strong> El resultado de la oración con acción de gracias.</li>
+                    <li><strong>Contentamiento:</strong> Vivir con suficiencia en cualquier circunstancia.</li>
+                    <li><strong>Sustento:</strong> Dios suple las necesidades del creyente por Sus riquezas en gloria.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">contentamiento es la prueba de que el poder de Cristo es suficiente</span> en cualquier situación.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe practicar la oración, la gratitud y la generosidad para experimentar la paz incomprensible de Dios.
+                </div>
+            `
+        },
+        'Colosenses': {
+            1: `
+                <h3>📖 Colosenses 1: La Supremacía de Cristo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo alaba a los colosenses por su fe, amor y esperanza. El capítulo centraliza la teología de la carta: **Cristo es la imagen del Dios invisible, el primogénito de toda creación**. Por medio de Él fueron creadas todas las cosas. Cristo es la **cabeza del cuerpo** (la Iglesia) y en Él habita toda la plenitud. Por medio de Su sangre, Cristo **reconcilió** todas las cosas.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Supremacía:</strong> Cristo es Creador y Sostenedor del Universo.</li>
+                    <li><strong>Cabeza de la Iglesia:</strong> Cristo es la autoridad total de la Iglesia.</li>
+                    <li><strong>Reconciliación:</strong> La paz se hizo por la sangre de Su cruz.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">plena Deidad reside en Cristo</span>. La salvación es la reconciliación total entre Dios y el hombre.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la madurez en Cristo, reconociendo Su autoridad sobre toda la creación.
+                </div>
+            `,
+            2: `
+                <h3>📖 Colosenses 2: La Suficiencia de Cristo y Advertencia contra la Herejía</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo advierte contra las **filosofías, tradiciones y rudimentos del mundo** que intentan disminuir a Cristo. Advierte contra la **adoración a los ángeles**, el **legalismo** (guardar fiestas, lunas nuevas), y el **ascetismo** (la falsa humildad). Declara que el creyente está **completo en Cristo**, que es el verdadero cuerpo. Cristo anuló el acta de los decretos que nos era contraria (la Ley).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Plenitud:</strong> El creyente está completo en Cristo.</li>
+                    <li><strong>Ascetismo:</strong> La falsa piedad no tiene valor para refrenar la carne.</li>
+                    <li><strong>Ley Anulada:</strong> Cristo clavó la deuda de la Ley en la cruz.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente debe depender solo de Cristo</span>, rechazando todo sistema humano de salvación o santificación.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe cuidarse de las herejías que intentan añadir algo (filosofía, ritual, ley) a la obra terminada de Cristo.
+                </div>
+            `,
+            3: `
+                <h3>📖 Colosenses 3: La Vida de Santidad (Vestirse del Nuevo Hombre)</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El giro práctico de la carta: ya que el creyente ha resucitado con Cristo, debe **buscar las cosas de arriba**. Exhorta a **quitarse el viejo hombre** (inmoralidad, ira, mentira) y **vestirse del nuevo hombre** (misericordia, bondad, humildad, mansedumbre). El principio supremo es que la **paz de Dios** gobierne los corazones y la **Palabra de Cristo** more en abundancia.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Vida Celestial:</strong> La nueva ciudadanía es la de arriba.</li>
+                    <li><strong>Viejo Hombre:</strong> Despojarse de las prácticas inmorales y carnales.</li>
+                    <li><strong>Nuevo Hombre:</strong> Vestirse de las virtudes de Cristo (el amor).</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">santificación es una elección diaria de vestirse de la nueva identidad</span> en Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe someter toda su vida (matrimonio, hogar, trabajo) al señorío de Cristo para manifestar Su paz.
+                </div>
+            `,
+            4: `
+                <h3>📖 Colosenses 4: Oración y la Misión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo da instrucciones finales sobre la **oración** (debe ser vigilante y con acción de gracias) y la **sabiduría** al tratar con los de afuera (aprovechando el tiempo). Se enfoca en los saludos personales y los colaboradores: **Tíquico y Onésimo** (el esclavo convertido de Filemón). Menciona a **Lucas** (el médico amado) y a **Demas** (que luego lo abandonó).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Oración:</strong> Perseverancia y gratitud en la oración.</li>
+                    <li><strong>Testimonio:</strong> Hablar con gracia y sal (sabiduría) a los de afuera.</li>
+                    <li><strong>Colaboración:</strong> La diversidad de los compañeros de Pablo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">comunicación del Evangelio debe ser sabia y oportuna</span>. La vida de fe exige oración constante.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la dirección del Espíritu para hablar con gracia a los incrédulos.
+                </div>
+            `
+        },
+        '1 Tesalonicenses': {
+            1: `
+                <h3>📖 1 Tesalonicenses 1: Fe, Amor y Esperanza Ejemplares</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo agradece a Dios por el **trabajo de la fe, el esfuerzo del amor y la constancia de la esperanza** de los tesalonicenses, a pesar de la aflicción. Su conversión fue un ejemplo para las iglesias de Macedonia y Acaya, ya que se **apartaron de los ídolos** para servir al Dios vivo y verdadero, y esperar a Su Hijo del cielo.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Ejemplo:</strong> La Iglesia de Tesalónica como modelo de fe.</li>
+                    <li><strong>Conversión:</strong> El abandono de la idolatría.</li>
+                    <li><strong>Esperanza:</strong> La espera de Cristo, quien nos libra de la ira venidera.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe genuina se evidencia en el amor práctico</span> y la firme esperanza en el regreso de Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir como un embajador de Cristo, sirviendo y esperando Su regreso.
+                </div>
+            `,
+            2: `
+                <h3>📖 1 Tesalonicenses 2: El Ministro Genuino</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo defiende la **integridad de su ministerio** en Tesalónica, contrastándolo con los falsos maestros. Su predicación no fue por engaño, sino con **ternura** (como una madre que cuida a sus hijos) y **sin avaricia** (trabajando con sus propias manos). La Palabra de Dios fue recibida por los tesalonicenses no como palabra de hombres, sino como lo que es: **Palabra de Dios**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Integridad:</strong> El ministerio debe ser transparente y desinteresado.</li>
+                    <li><strong>Ternura:</strong> El amor pastoral de Pablo.</li>
+                    <li><strong>Poder de la Palabra:</strong> La Palabra de Dios obra eficazmente en los creyentes.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">eficacia del ministerio reside en la Palabra de Dios</span> y la integridad del mensajero.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe asegurarse de que la Palabra de Dios sea recibida como autoridad divina, no humana.
+                </div>
+            `,
+            3: `
+                <h3>📖 1 Tesalonicenses 3: Aliento en la Tribulación</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo explica el envío de **Timoteo** a Tesalónica para confirmarlos en la fe en medio de la **tribulación**. El informe de Timoteo sobre la firmeza de la Iglesia llena de **gozo** a Pablo. Pablo ora para que Dios los haga **abundar en amor** y los **afirme irreprensibles** para el regreso de Cristo.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Comunión:</strong> La preocupación mutua por la firmeza de la fe.</li>
+                    <li><strong>Gozo:</strong> La alegría del ministro por la perseverancia de la Iglesia.</li>
+                    <li><strong>Confirmación:</strong> Ser afirmados en la santidad para la Venida.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento es parte normal de la vida cristiana</span>. La fe se demuestra al perseverar en la aflicción.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la edificación de otros en la fe, para que puedan resistir la tribulación.
+                </div>
+            `,
+            4: `
+                <h3>📖 1 Tesalonicenses 4: Santidad y el Arrebatamiento</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a la **santidad sexual** ("Abstenerse de fornicación"). Dios nos ha llamado a la santificación, no a la inmundicia. El capítulo aborda el problema escatológico: la pregunta sobre **los que durmieron** (los que murieron). Pablo revela que Cristo regresará con **voz de arcángel** y los muertos en Cristo **resucitarán** y serán **arrebatados** junto a los que vivan para recibir al Señor en el aire.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Santificación:</strong> La voluntad de Dios para el creyente es la pureza.</li>
+                    <li><strong>Esperanza:</strong> No entristecerse por los muertos como los que no tienen esperanza.</li>
+                    <li><strong>Arrebatamiento:</strong> El encuentro de la Iglesia con Cristo en el aire.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">esperanza del regreso de Cristo motiva la pureza y la consolación</span> en la pérdida de los seres queridos.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir en pureza, consolándose mutuamente con la promesa del regreso de Cristo.
+                </div>
+            `,
+            5: `
+                <h3>📖 1 Tesalonicenses 5: El Día del Señor y Exhortaciones Finales</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo habla sobre el **"Día del Señor"** (el juicio) que vendrá como **ladrón en la noche** para los incrédulos. El creyente, que es **hijo de luz**, no debe ser sorprendido. Exhortaciones finales: **"Estad siempre gozosos. Orad sin cesar. Dad gracias en todo"**. No apagar el Espíritu ni menospreciar las profecías. El deseo de Pablo es que sean guardados completos en cuerpo, alma y espíritu hasta el regreso de Cristo.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Vigilancia:</strong> Estar sobrios y en guardia para la Venida.</li>
+                    <li><strong>Gozo:</strong> La perseverancia en la alegría a pesar de las circunstancias.</li>
+                    <li><strong>Trinidad:</strong> La santificación completa del cuerpo, alma y espíritu.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida de fe es una preparación constante</span>. El Espíritu Santo debe ser el poder de la vida diaria.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir en gozo, oración y gratitud, permitiendo que Dios lo santifique completamente.
+                </div>
+            `
+        },
+        '2 Tesalonicenses': {
+            1: `
+                <h3>📖 2 Tesalonicenses 1: Consuelo y el Justo Juicio de Dios</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo alaba a la Iglesia por su **perseverancia en la fe** en medio de las persecuciones. Los anima con la verdad del **justo juicio de Dios**: los perseguidores recibirán el castigo eterno ("eterna perdición"), y los que sufren recibirán **reposo** cuando el Señor Jesús regrese con Sus ángeles. La meta de la tribulación es que el **nombre de Cristo sea glorificado**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Persecución:</strong> Una señal de la justicia de Dios.</li>
+                    <li><strong>Juicio:</strong> El regreso de Cristo traerá venganza sobre los impíos.</li>
+                    <li><strong>Gloria:</strong> Los creyentes serán glorificados con Cristo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento presente es temporal</span>. El juicio de Dios es justo y trae reposo al perseguido.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe perseverar, sabiendo que el juicio y la recompensa son ciertos.
+                </div>
+            `,
+            2: `
+                <h3>📖 2 Tesalonicenses 2: El Hombre de Pecado y la Apostasía</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo corrige el error: el **Día del Señor no ha llegado**. Primero debe ocurrir la **apostasía** (la gran rebelión) y manifestarse el **Hombre de Pecado** (el Anticristo, el hijo de perdición). Este impío será destruido por el Señor Jesús en Su regreso. Pablo afirma que hay **"uno que lo detiene"** (el que refrena) hasta que sea quitado de en medio.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Apostasía:</strong> La rebelión religiosa antes del fin.</li>
+                    <li><strong>Anticristo:</strong> La manifestación del Hombre de Pecado.</li>
+                    <li><strong>El que Detiene:</strong> La fuerza que impide la manifestación del mal.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera fe debe ser probada y protegida del engaño</span>. La Palabra de Dios es el único medio de santificación.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente no debe dejarse engañar por las falsas doctrinas, sino mantenerse firme en la verdad enseñada.
+                </div>
+            `,
+            3: `
+                <h3>📖 2 Tesalonicenses 3: Orden, Trabajo y Bendición</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo pide oración por el éxito de la Palabra. Aborda el problema de algunos miembros de la Iglesia que estaban **viviendo desordenadamente** y **no trabajando** (posiblemente por la creencia de que Cristo regresaría de inmediato). Pablo ordena que **"si alguno no quiere trabajar, tampoco coma"**. El trabajo es una ley divina. La carta concluye con el deseo de que el Señor de paz les dé paz en todo tiempo.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Oración:</strong> Pedir por la liberación de los hombres perversos.</li>
+                    <li><strong>Trabajo:</strong> La ética laboral es fundamental.</li>
+                    <li><strong>Disciplina:</strong> Advertir al desordenado y separarse del que no se arrepiente.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">esperanza de la Venida no debe fomentar la pereza</span>, sino la diligencia y el orden.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe trabajar con diligencia y proveer para sí mismo, buscando la paz y la obediencia en el Señor.
+                </div>
+            `
+        },
+        '1 Timoteo': {
+            1: `
+                <h3>📖 1 Timoteo 1: Advertencia Contra las Fábulas y la Ley</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a Timoteo a enfrentar a los **falsos maestros** que se enfocaban en **fábulas y genealogías interminables**. Declara que el propósito del mandamiento es el **amor** nacido de un corazón limpio y buena conciencia. La **Ley** es buena si se usa legítimamente, pero no fue dada para el justo, sino para los pecadores. Pablo da testimonio de haber alcanzado **misericordia** (ejemplo de la paciencia de Cristo).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Falsas Doctrinas:</strong> Rechazar las especulaciones inútiles.</li>
+                    <li><strong>Propósito de la Ley:</strong> Revelar el pecado, no justificar.</li>
+                    <li><strong>Misericordia de Cristo:</strong> La paciencia de Dios para con el principal de los pecadores (Pablo).</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera enseñanza promueve el amor y la pureza</span>, no la contienda ni el intelectualismo vacío.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El ministro de la Palabra debe enfocarse en la doctrina que produce vida y piedad.
+                </div>
+            `,
+            2: `
+                <h3>📖 1 Timoteo 2: Oración Universal y el Rol de la Mujer</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo ordena que se hagan **ruegos, oraciones y acciones de gracias por todos los hombres**, especialmente por los **gobernantes**, para que vivamos quietamente. Esto es bueno, porque Dios quiere que **todos los hombres sean salvos**. Se dan instrucciones para el **culto público**: los hombres deben orar sin ira ni contienda; las mujeres deben vestirse modestamente y deben **aprender en silencio**, sin enseñar ni ejercer dominio sobre el hombre (referencia a la creación y la caída).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Oración:</strong> Interceder por todos, especialmente por las autoridades.</li>
+                    <li><strong>Salvación:</strong> La voluntad universal y redentora de Dios.</li>
+                    <li><strong>Roles:</strong> El orden de Dios para el culto y la enseñanza.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">culto debe ser ordenado y reverente</span>, reflejando la autoridad y el diseño de Dios en la creación.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El Evangelio tiene implicaciones sociales y políticas, y requiere un orden específico en la congregación.
+                </div>
+            `,
+            3: `
+                <h3>📖 1 Timoteo 3: Requisitos para Obispos y Diáconos</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo establece los **requisitos morales y domésticos** para los **obispos/ancianos** (supervisores) y los **diáconos** (servidores). Los líderes deben ser irreprensibles, maridos de una sola mujer, sobrios, con buen testimonio de los de afuera, y gobernar bien su propia casa. El propósito de estas instrucciones es la correcta **conducción en la casa de Dios** (la Iglesia).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Requisitos:</strong> Las cualidades del liderazgo son primeramente morales.</li>
+                    <li><strong>Obispado:</strong> Una obra noble.</li>
+                    <li><strong>Misterio de la Piedad:</strong> Cristo manifestado en carne y recibido en gloria.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">liderazgo de la Iglesia debe basarse en el carácter piadoso</span> y la administración fiel.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El gobierno de la familia es la prueba fundamental del líder eclesiástico.
+                </div>
+            `,
+            4: `
+                <h3>📖 1 Timoteo 4: Advertencia Contra las Falsas Enseñanzas Ascéticas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo predice que en los **últimos tiempos** algunos **apostatarán de la fe**, escuchando a espíritus engañadores y doctrinas de demonios. Estas falsas enseñanzas incluirán la **prohibición de casarse** y la **abstención de alimentos** (ascetismo). Pablo exhorta a Timoteo a ser **ejemplo de los creyentes** en palabra, conducta, amor, espíritu, fe y pureza, y a **ocuparse en la lectura pública** y la enseñanza.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Apostasía:</strong> El abandono de la fe en los últimos tiempos.</li>
+                    <li><strong>Ascetismo Falso:</strong> Prohibiciones inútiles que desprecian la creación de Dios.</li>
+                    <li><strong>Disciplina Ministerial:</strong> El ejercicio espiritual y la dedicación a la Palabra.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">piedad genuina es provechosa para esta vida y la venidera</span>, no las prácticas externas y vanas.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El ministro debe nutrirse de la Palabra de Dios y ser un modelo viviente del Evangelio.
+                </div>
+            `,
+            5: `
+                <h3>📖 1 Timoteo 5: Trato a las Diferentes Edades y Reglas para las Viudas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo da instrucciones a Timoteo sobre cómo tratar a diferentes grupos: **ancianos con respeto**, **jóvenes con pureza**, y especialmente a las **viudas**. La Iglesia solo debe sostener a las viudas que están verdaderamente desamparadas y tienen buen testimonio. Los **ancianos que presiden bien** son dignos de doble honor. Se advierte contra el **pecado público** de los líderes.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Relaciones:</strong> Tratar a los miembros de la Iglesia como familia.</li>
+                    <li><strong>Viudas:</strong> La Iglesia debe discernir y cuidar a las verdaderamente necesitadas.</li>
+                    <li><strong>Disciplina Ministerial:</strong> No recibir acusaciones contra un anciano sin dos o tres testigos.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">cuidado social de la Iglesia debe ser ordenado y justo</span>, centrado en el verdadero desamparo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El principio de la disciplina eclesiástica exige ser imparcial y tener cuidado de no ser partícipe de pecados ajenos.
+                </div>
+            `,
+            6: `
+                <h3>📖 1 Timoteo 6: Esclavos, Riquezas y la Buena Batalla</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Instrucciones a los **esclavos** para que honren a sus amos (cristianos e incrédulos). Pablo advierte sobre el **amor al dinero**, que es la **raíz de todos los males**. Exhorta a Timoteo a huir de esto y seguir la **justicia, la piedad, la fe y el amor** ("pelea la buena batalla de la fe"). Los ricos deben poner su esperanza en Dios y ser **generosos** y dispuestos a compartir.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Avaricia:</strong> El amor al dinero como fuente de maldad.</li>
+                    <li><strong>Contentamiento:</strong> La piedad con contentamiento es gran ganancia.</li>
+                    <li><strong>Riquezas:</strong> La advertencia a los ricos para que sean generosos.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">verdadero tesoro del creyente es el conocimiento de Dios</span> y la vida eterna, no las riquezas terrenales.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El contentamiento y la generosidad son las virtudes que combaten la avaricia y la falsa piedad.
+                </div>
+            `
+        },
+        '2 Timoteo': {
+            1: `
+                <h3>📖 2 Timoteo 1: El Don de Dios y el Testimonio Fiel</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo anima a Timoteo a no avergonzarse del testimonio de Cristo ni de Pablo, su prisionero. Le recuerda que el espíritu de Dios no es de cobardía, sino de **poder, amor y dominio propio**. Le pide que **guarde el buen depósito** (el Evangelio) por el Espíritu Santo. Menciona la fidelidad de **Onesíforo** (quien lo ayudó en su prisión) y la deserción de otros.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Cobardía:</strong> La exhortación a no avergonzarse del Evangelio.</li>
+                    <li><strong>Depósito:</strong> Guardar celosamente la doctrina confiada.</li>
+                    <li><strong>Poder del Espíritu:</strong> La fuente de la fortaleza del ministro.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Evangelio es un tesoro que debe ser guardado y defendido</span>, incluso a costa del sufrimiento.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El ministro de Cristo debe recordar su vocación y utilizar el poder del Espíritu para la fidelidad.
+                </div>
+            `,
+            2: `
+                <h3>📖 2 Timoteo 2: El Soldado, el Atleta y el Obrero Aprobado</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo usa tres ilustraciones para la perseverancia ministerial: el **soldado** (no se enreda en los negocios de la vida), el **atleta** (compite según las reglas) y el **labrador** (es el primero en participar de los frutos). Timoteo debe **transmitir** la verdad a hombres fieles que sean idóneos para enseñar a otros. El ministro debe ser un **obrero aprobado** que usa bien la **Palabra de verdad**, huyendo de las discusiones necias.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Discípulo:</strong> Transmitir la verdad fielmente a otros.</li>
+                    <li><strong>Obrero:</strong> Estudiar y exponer la Palabra correctamente.</li>
+                    <li><strong>Vaso de Honra:</strong> Limpiarse de la maldad para ser un instrumento útil.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">ministro debe someterse a la disciplina de Cristo</span>, enfocándose en la Palabra y el legado.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> La fidelidad se demuestra en la auto-disciplina y en la enseñanza precisa de las Escrituras.
+                </div>
+            `,
+            3: `
+                <h3>📖 2 Timoteo 3: Tiempos Peligrosos y la Suficiencia de la Escritura</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo describe los **tiempos peligrosos** (difíciles) de los **postreros días** (caracterizados por el amor a sí mismo, la avaricia, la impiedad y la apariencia de piedad sin el poder). Recuerda a Timoteo que la **Santa Escritura** es inspirada por Dios (**Theopneustos**, "soplada por Dios"). La Escritura es **útil para enseñar, redargüir, corregir e instruir en justicia**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Postreros Días:</strong> La degeneración moral en la sociedad y la Iglesia.</li>
+                    <li><strong>Inspiración:</strong> La Escritura como Palabra inspirada por Dios.</li>
+                    <li><strong>Suficiencia:</strong> La Biblia es suficiente para capacitar al creyente.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente debe permanecer anclado en la Escritura</span> como la única defensa contra la corrupción y el error.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> La Palabra de Dios es la herramienta todopoderosa para la madurez y la corrección del ministro.
+                </div>
+            `,
+            4: `
+                <h3>📖 2 Timoteo 4: El Encargo Final y la Carrera Terminada</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El **encargo solemne** a Timoteo: predicar la Palabra, a tiempo y fuera de tiempo, con paciencia y doctrina. Pablo declara que su propia vida ministerial está llegando a su fin: **"He peleado la buena batalla, he acabado la carrera, he guardado la fe."** Ahora espera la **corona de justicia**. Advertencia sobre el abandono de **Demas** y la necesidad de traer a **Marcos** y su capa. Pablo fue defendido por el Señor ante la primera audiencia.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Predicación:</strong> La prioridad del ministro es predicar con seriedad y urgencia.</li>
+                    <li><strong>Legado de Pablo:</strong> Su vida fue una batalla y una carrera de fidelidad.</li>
+                    <li><strong>Corona:</strong> La recompensa para los que aman la venida del Señor.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">meta de la vida cristiana es la fidelidad hasta el final</span>, esperando la recompensa de Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El ministro debe prepararse para dar cuenta de su vida y ministerio ante el Juez Justo.
+                </div>
+            `
+        },
+        'Tito': {
+            1: `
+                <h3>📖 Tito 1: Requisitos para los Ancianos y Falsos Maestros de Creta</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo explica que dejó a Tito en Creta para que **estableciera ancianos** en cada ciudad. Los requisitos para los ancianos son similares a 1 Timoteo: irreprensibles, maridos de una sola mujer, con hijos creyentes y no acusados de disolución. Pablo advierte que los cretenses eran de mala fama ("mentirosos, malas bestias, glotones perezosos"), por lo que los ancianos debían tener un carácter **firme** para refutar a los **rebeldes y judaizantes**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Liderazgo:</strong> Los ancianos deben ser capaces de enseñar y refutar.</li>
+                    <li><strong>Higiene Doctrinal:</strong> La necesidad de silenciar a los falsos maestros.</li>
+                    <li><strong>Carácter:</strong> Las virtudes morales y familiares del líder.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">organización de la Iglesia es vital para su salud y defensa</span> contra la corrupción externa e interna.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> La fe se demuestra en el carácter, y el anciano debe ser irreprensible.
+                </div>
+            `,
+            2: `
+                <h3>📖 Tito 2: Sana Doctrina y las Buenas Obras</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo exhorta a Tito a enseñar la **sana doctrina** con un énfasis en las **buenas obras** para cada grupo de edad: **ancianos** sobrios, **mujeres mayores** que enseñen a las más jóvenes, y **jóvenes** prudentes. El motivo de la santidad es la manifestación de la **Gracia de Dios** que nos enseña a vivir sobria, justa y piadosamente, esperando la **esperanza bienaventurada** (la Venida de Cristo).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Sana Doctrina:</strong> Debe producir un cambio de vida visible.</li>
+                    <li><strong>Discipulado:</strong> El rol de las mujeres mayores en la enseñanza práctica.</li>
+                    <li><strong>Gracia:</strong> La Gracia de Dios es el poder para la santidad.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">salvación por gracia es la motivación para la obediencia</span> y la práctica de buenas obras en la vida diaria.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> Las buenas obras son la prueba de una fe genuina y el adorno del Evangelio en la sociedad.
+                </div>
+            `,
+            3: `
+                <h3>📖 Tito 3: Sujeción a Autoridades y Disposición a las Buenas Obras</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo instruye a Tito a recordar a la Iglesia que se **sujeten a los gobernantes** y sean **pacíficos**. El fundamento de esta conducta es recordar que nosotros también éramos necios, pero Dios nos salvó por el **lavamiento de la regeneración** y por el **Espíritu Santo**. Tito debe evitar las **contenciones necias** y las discusiones sobre genealogías. Después de la primera y segunda amonestación, debe rechazar al **hombre herético**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Sujeción:</strong> Obedecer las leyes del gobierno.</li>
+                    <li><strong>Regeneración:</strong> La salvación por la obra del Espíritu Santo.</li>
+                    <li><strong>Hombre Herético:</strong> La disciplina necesaria para mantener la pureza doctrinal.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">humildad ante el gobierno y el amor al prójimo</span> son el resultado de la regeneración.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser el mejor ciudadano y rechazar las contiendas inútiles, mostrando la mansedumbre de Cristo.
+                </div>
+            `
+        },
+        'Filemón': {
+            1: `
+                <h3>📖 Filemón 1: Petición por Onésimo, el Esclavo Restaurado</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pablo, el anciano y prisionero, hace una **petición amorosa** a Filemón. Alaba su fe y amor. Le pide que reciba a **Onésimo**, su esclavo fugitivo y ladrón (quien había sido inútil para Filemón), no ya como esclavo, sino como **hermano amado** en el fe. Pablo se ofrece a **pagar la deuda** que Onésimo pudiera haber contraído con Filemón, basándose en la deuda que Filemón tenía con Pablo (su conversión).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Reconciliación:</strong> La fe produce el perdón y la restauración de relaciones.</li>
+                    <li><strong>Hermandad:</strong> La igualdad espiritual de todos los creyentes (esclavo y amo).</li>
+                    <li><strong>Sustitución:</strong> Pablo se pone en lugar de Onésimo para pagar su deuda.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Evangelio rompe las barreras sociales</span>. La relación entre Cristo y el creyente es el modelo de la reconciliación y el perdón.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El perdón no es una opción, sino una exigencia de la fe, que eleva la dignidad de todas las personas en Cristo.
+                </div>
+            `
+        },
+        'Hebreos': {
+            1: `
+                <h3>📖 Hebreos 1: Cristo, Superior a los Ángeles</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El libro comienza declarando que Dios, después de hablar por los profetas, ha hablado a través de Su **Hijo**, quien es el **resplandor de Su gloria** y la imagen misma de Su sustancia. El autor demuestra que **Cristo es superior a los ángeles** (quienes son solo espíritus ministradores), basándose en referencias del Antiguo Testamento. La deidad de Cristo es la base de Su superioridad.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Revelación:</strong> Dios habla finalmente a través de Su Hijo.</li>
+                    <li><strong>Deidad de Cristo:</strong> El Creador y Sustentador de todo.</li>
+                    <li><strong>Inferioridad Angelical:</strong> Los ángeles adoran a Cristo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">autoridad de la revelación en Cristo es final e inmutable</span>. Él es el mensaje completo de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe prestar atención a la voz de Cristo, ya que Él es el máximo exponente de la verdad.
+                </div>
+            `,
+            2: `
+                <h3>📖 Hebreos 2: La Humanidad de Cristo y la Primera Advertencia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La **primera advertencia** del libro: **"Es necesario que con más diligencia atendamos a las cosas que hemos oído, no sea que nos deslicemos."** Si el mensaje dado por los ángeles fue firme, ¿cómo escaparemos si descuidamos una salvación tan grande? El autor explica por qué Cristo se hizo **hombre** (un poco menor que los ángeles): para gustar la **muerte por todos** y anular al diablo, liberándonos del temor a la muerte.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Advertencia:</strong> El peligro de descuidar el Evangelio.</li>
+                    <li><strong>Encarnación:</strong> La razón de la humanidad de Cristo.</li>
+                    <li><strong>Liberación:</strong> Cristo nos libró del poder del diablo y del temor a la muerte.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sacrificio de Cristo fue necesario para que Él fuera un Sumo Sacerdote fiel y misericordioso</span>.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe mantenerse firme en la verdad, porque descuidar a Cristo tiene consecuencias eternas.
+                </div>
+            `,
+            3: `
+                <h3>📖 Hebreos 3: Cristo, Superior a Moisés y la Advertencia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Cristo es declarado **superior a Moisés**. Moisés fue un **siervo** en la casa de Dios; Cristo es el **Hijo** y el Constructor de la casa. La **segunda advertencia** se extrae del ejemplo de Israel en el desierto: **endurecieron sus corazones** y no entraron en el reposo de Dios por causa de su **incredulidad**. El creyente debe exhortarse mutuamente para no caer en la misma incredulidad.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Superioridad:</strong> Cristo como Constructor de la Casa, Moisés como siervo.</li>
+                    <li><strong>Incredulidad:</strong> El pecado que impide entrar en el reposo.</li>
+                    <li><strong>Exhortación:</strong> Animar a los hermanos para evitar el endurecimiento.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fidelidad en la fe es esencial</span>. La incredulidad es el peligro constante para el pueblo de Dios.</p>
+            `,
+            4: `
+                <h3>📖 Hebreos 4: El Reposo de Dios y la Palabra Viva</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El **reposo de Dios** permanece, y el creyente debe procurar entrar en él por la **fe**. La **Palabra de Dios** es viva y eficaz, más cortante que toda espada de dos filos, y discierne los pensamientos y las intenciones del corazón. Como tenemos un **Sumo Sacerdote** (Jesús) que puede compadecerse de nuestras debilidades, el creyente debe **acercarse confiadamente al trono de la gracia** para alcanzar misericordia.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Reposo:</strong> La paz espiritual que se obtiene por la fe.</li>
+                    <li><strong>Palabra de Dios:</strong> Su poder para penetrar el corazón.</li>
+                    <li><strong>Sacerdocio de Jesús:</strong> Él simpatiza con nuestras debilidades.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">Palabra y el Sumo Sacerdote de Dios son la provisión</span> para la debilidad del creyente.</p>
+            `,
+            5: `
+                <h3>📖 Hebreos 5: El Sacerdocio Según Melquisedec y la Inmadurez</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El autor explica que todo sumo sacerdote humano es tomado de entre los hombres. Cristo fue constituido por Dios como **Sumo Sacerdote según el orden de Melquisedec** (un orden superior al levítico). Se reprende a los lectores por su **inmadurez espiritual**; deberían ser maestros, pero aún necesitan **leche** (los rudimentos), en lugar de **alimento sólido** (la doctrina avanzada).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Melquisedec:</strong> Un tipo de sacerdocio real y eterno.</li>
+                    <li><strong>Madurez:</strong> La necesidad de progresar de la leche al alimento sólido.</li>
+                    <li><strong>Obediencia de Cristo:</strong> Aprendió obediencia por lo que padeció.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">madurez se demuestra al poder discernir el bien y el mal</span>. La inmadurez pone en peligro la fe.</p>
+            `,
+            6: `
+                <h3>📖 Hebreos 6: La Tercera Advertencia y la Esperanza Fuerte</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La **tercera y más severa advertencia**: es **imposible** restaurar al arrepentimiento a aquellos que, habiendo sido iluminados, participaron del Espíritu Santo y luego **cayeron** (apostasía). El autor contrasta esta tierra que solo produce espinos y abrojos (destinada a ser quemada) con la **firmeza de la esperanza** en la promesa de Dios. Esta esperanza es un **ancla** que entra hasta el Lugar Santísimo, donde **Jesús entró como precursor**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Apostasía:</strong> El peligro de abandonar la fe después de experimentarla.</li>
+                    <li><strong>Firmeza:</strong> La seguridad de la promesa de Dios y el juramento.</li>
+                    <li><strong>Ancla:</strong> La esperanza segura y firme en la persona de Cristo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">salvación es segura, pero la advertencia promueve la perseverancia</span> y el examen propio.</p>
+            `,
+            7: `
+                <h3>📖 Hebreos 7: Melquisedec y el Sacerdocio Superior</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El autor retoma el tema de **Melquisedec** (rey de justicia, rey de paz, sin genealogía). Demuestra que este sacerdocio es superior al levítico, porque **Leví** pagó los diezmos a Melquisedec en los lomos de Abraham. Un cambio de sacerdocio significa un **cambio de ley**. Jesús es un sacerdote **eterno** que vive para siempre para **interceder** por nosotros.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Tipología:</strong> Melquisedec como tipo de Cristo.</li>
+                    <li><strong>Sacerdocio Eterno:</strong> El sacerdocio de Cristo no tiene fin.</li>
+                    <li><strong>Intercesión:</strong> Cristo intercede perpetuamente por Su pueblo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">pacto de Dios en Cristo es inmutable y perfecto</span>. No hay necesidad de volver a la imperfección levítica.</p>
+            `,
+            8: `
+                <h3>📖 Hebreos 8: El Nuevo Pacto y el Mejor Santuario</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El punto crucial: Cristo es el ministro de un **Nuevo Pacto**, superior al Antiguo. El tabernáculo terrenal era solo una **sombra** de las cosas celestiales. El Nuevo Pacto (citando a Jeremías 31) incluye una **ley escrita en los corazones**, un **conocimiento íntimo de Dios** y el **perdón total** de los pecados. El Antiguo Pacto está por desaparecer.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Nuevo Pacto:</strong> Un pacto superior y eterno.</li>
+                    <li><strong>Santuario Celestial:</strong> El tabernáculo terrenal era solo un modelo.</li>
+                    <li><strong>Corazón:</strong> La ley escrita en el interior del creyente.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">relación con Dios bajo el Nuevo Pacto es personal e interna</span>, no ritual ni externa.</p>
+            `,
+            9: `
+                <h3>📖 Hebreos 9: La Sangre de Cristo y la Perfección</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Descripción del tabernáculo terrenal y sus rituales. Los **sacrificios de animales** bajo el Antiguo Pacto solo purificaban la carne, pero no podían quitar los pecados. Cristo, en cambio, entró en el cielo con Su **propia sangre** y obtuvo **eterna redención**. Él se ofreció **una sola vez** para quitar de en medio el pecado. La muerte es la condición para la herencia.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Sacrificio Único:</strong> Un solo sacrificio de Cristo es suficiente para siempre.</li>
+                    <li><strong>Eterna Redención:</strong> El resultado del sacrificio de Cristo.</li>
+                    <li><strong>Mediador:</strong> Cristo, mediador del Nuevo Pacto.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sacrificio de Cristo es perfecto y final</span>. No hay necesidad de más sacrificios ni rituales.</p>
+            `,
+            10: `
+                <h3>📖 Hebreos 10: Plena Confianza y la Cuarta Advertencia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Los sacrificios de la Ley eran un **recordatorio anual** de los pecados y no podían quitarlos. Por la **voluntad de Dios**, somos santificados mediante la ofrenda del cuerpo de Jesucristo **una vez y para siempre**. La **cuarta advertencia**: si pecamos **voluntariamente** después de haber recibido el conocimiento de la verdad, ya no queda sacrificio por el pecado. El creyente debe **retener la profesión de fe** y no dejar de congregarse.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Voluntad de Dios:</strong> Cristo vino a hacer la voluntad del Padre.</li>
+                    <li><strong>Plena Confianza:</strong> Acercarse a Dios con corazón sincero y plena certidumbre de fe.</li>
+                    <li><strong>Juicio:</strong> La terrible expectativa para el que pisotea la sangre de Cristo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">comunión y la perseverancia son la prueba de la fe genuina</span>. La apostasía trae un juicio terrible.</p>
+            `,
+            11: `
+                <h3>📖 Hebreos 11: La Galería de la Fe</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El gran capítulo sobre la **Fe**. **"Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve."** Se presenta la **"Galería de la Fe"**, una lista de héroes del Antiguo Testamento (Abel, Enoc, Noé, Abraham, Moisés, Rahab, etc.) que actuaron basándose en la promesa de Dios, aunque no vieron su cumplimiento en vida. Todos ellos murieron en fe, **esperando la Ciudad celestial**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Definición:</strong> Certeza y convicción.</li>
+                    <li><strong>Héroes de la Fe:</strong> El testimonio de los patriarcas.</li>
+                    <li><strong>Ciudad Celestial:</strong> La esperanza y meta final del creyente.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe es la esencia de la vida con Dios</span>, un camino de obediencia a pesar de no ver el resultado.</p>
+            `,
+            12: `
+                <h3>📖 Hebreos 12: Disciplina, Carrera y el Monte Sion</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Exhortación a correr la **carrera cristiana** con paciencia, despojándonos de todo peso y del pecado, puestos los ojos en **Jesús** (el autor y consumador de la fe). La **disciplina de Dios** no es castigo, sino la corrección de un Padre amoroso, necesaria para participar de Su santidad. Se contrasta el **Monte Sinaí** (Ley, terror) con el **Monte Sion** (el Nuevo Pacto, la Iglesia).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Jesús:</strong> El ejemplo supremo de la perseverancia.</li>
+                    <li><strong>Disciplina:</strong> La corrección de Dios es una prueba de Su amor.</li>
+                    <li><strong>Sion:</strong> La superioridad de la morada celestial.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida cristiana es una carrera que requiere perseverancia</span>. La disciplina de Dios nos guía a la santidad.</p>
+            `,
+            13: `
+                <h3>📖 Hebreos 13: Exhortaciones Prácticas y Bendición Final</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Exhortaciones finales: mantener el **amor fraternal**, la **hospitalidad**, la **pureza matrimonial** y el **contentamiento** (sin avaricia). Deben **acordarse de los líderes** que les enseñaron. Jesús es el mismo ayer, hoy y por los siglos. Se anima a **"salir fuera del campamento"** para llevar Su vituperio. La bendición final: **Dios de paz que resucitó a Jesús**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Ética:</strong> Amor fraternal, matrimonio y contentamiento.</li>
+                    <li><strong>Liderazgo:</strong> Obedecer y sujetarse a los líderes.</li>
+                    <li><strong>Contentamiento:</strong> Evitar la avaricia.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe en Cristo debe traducirse en amor práctico</span> por los hermanos y obediencia a Sus líderes.</p>
+            `
+        },
+        'Santiago': {
+            1: `
+                <h3>📖 Santiago 1: Pruebas, Sabiduría y Tentación</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Santiago anima a tener **gozo** en las **pruebas**, porque ellas producen **paciencia**. El que carezca de **sabiduría** debe pedirla a Dios con fe, sin dudar. Dios **no tienta** a nadie (la tentación proviene de la propia concupiscencia). Toda **buena dádiva** proviene de Dios. El creyente debe ser **pronto para oír, tardo para hablar y tardo para airarse**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Pruebas:</strong> Las pruebas son oportunidades para el crecimiento.</li>
+                    <li><strong>Sabiduría:</strong> Se pide a Dios con fe.</li>
+                    <li><strong>Oír y Hacer:</strong> Ser hacedores de la Palabra, no solo oidores.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe se prueba en el sufrimiento</span> y se demuestra en la obediencia a la Palabra.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> La religión pura y sin mácula es visitar huérfanos y viudas, y guardarse sin mancha del mundo.
+                </div>
+            `,
+            2: `
+                <h3>📖 Santiago 2: Imparcialidad y la Fe con Obras</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Santiago condena la **parcialidad** (hacer acepción de personas), especialmente al honrar a los ricos y despreciar a los pobres. La ley suprema es **"Amarás a tu prójimo como a ti mismo"**. La parte central: **la fe sin obras es muerta**. Cita a **Abraham** (justificado por la fe *y* las obras) y a **Rahab** como ejemplos de que la fe se perfecciona por las obras.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Parcialidad:</strong> Pecado en la Iglesia que viola la Ley.</li>
+                    <li><strong>Fe Muerta:</strong> La fe que no se manifiesta en acción es inútil.</li>
+                    <li><strong>Justificación:</strong> La demostración externa de la fe interna.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe salvadora es una fe activa</span>. Las obras son el resultado y la evidencia de la justificación.</p>
+            `,
+            3: `
+                <h3>📖 Santiago 3: El Poder de la Lengua y la Sabiduría</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Una advertencia especial a los que desean ser **maestros**, porque recibirán mayor condenación. El capítulo se centra en el **poder destructivo de la lengua**: es un **fuego**, un **mundo de maldad**, indomable, que contamina todo el cuerpo. El contraste es la **sabiduría que viene de lo alto**: pura, pacífica, amable, benigna, llena de misericordia y buenos frutos.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Control de la Lengua:</strong> La prueba suprema de la vida espiritual.</li>
+                    <li><strong>Sabiduría Terrenal:</strong> Es animal, sensual y diabólica.</li>
+                    <li><strong>Sabiduría de lo Alto:</strong> Produce paz y buenos frutos.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">carácter espiritual se refleja en el control del habla</span>. La paz es la marca de la verdadera sabiduría.</p>
+            `,
+            4: `
+                <h3>📖 Santiago 4: Conflictos, Humildad y Sumisión a Dios</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Santiago aborda la causa de las **guerras y contiendas** entre los creyentes: los **deseos mundanos** que batallan en sus miembros. El que es **amigo del mundo** se constituye **enemigo de Dios**. La solución es la **humildad**: **"Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros."** También condena la jactancia arrogante sobre el futuro ("Si el Señor quiere, viviremos").</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Deseos:</strong> La fuente de las contiendas.</li>
+                    <li><strong>Mundo:</strong> La amistad con el mundo es adulterio espiritual.</li>
+                    <li><strong>Humildad:</strong> Dios exalta al humilde.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">humildad ante Dios es el camino a la victoria</span> sobre el mundo y el diablo.</p>
+            `,
+            5: `
+                <h3>📖 Santiago 5: Riquezas, Paciencia y Oración</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Advertencia a los **ricos opresores** por sus injusticias, anunciando un juicio venidero. Exhortación a la **paciencia** de los creyentes (como el labrador que espera la lluvia). La **oración** es el poder para superar la enfermedad y el pecado: **"La oración eficaz del justo puede mucho."** El ejemplo es **Elías**, hombre sujeto a pasiones, cuya oración hizo llover y detener la lluvia.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Opresión:</strong> La condena de la injusticia social.</li>
+                    <li><strong>Paciencia:</strong> Esperar con perseverancia la venida del Señor.</li>
+                    <li><strong>Oración:</strong> El poder de la oración intercesora por enfermedad y pecado.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente debe vivir con paciencia ante la injusticia</span> y recurrir constantemente al poder de la oración.</p>
+            `
+        },
+        '1 Pedro': {
+            1: `
+                <h3>📖 1 Pedro 1: Esperanza Viva y Llamado a la Santidad</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pedro saluda a los **expatriados** (creyentes dispersos). A pesar de las pruebas presentes, el creyente tiene una **esperanza viva** por la **resurrección de Jesucristo**. La fe es probada por el fuego para ser hallada digna de alabanza en la venida de Cristo. Exhortación a la **santidad total**, porque Dios es santo. La obediencia se basa en el conocimiento de la **redención por la sangre de Cristo**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Esperanza:</strong> La herencia reservada en los cielos.</li>
+                    <li><strong>Santidad:</strong> La imitación de la naturaleza de Dios.</li>
+                    <li><strong>Redención:</strong> La sangre preciosa de Cristo como el precio.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">santidad es la respuesta lógica a la esperanza viva</span> que tenemos en Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir en santidad, sabiendo que Su redención es de valor incalculable.
+                </div>
+            `,
+            2: `
+                <h3>📖 1 Pedro 2: Piedras Vivas y el Sufrimiento Injusto</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El creyente debe anhelar la leche espiritual para crecer. La Iglesia es un **"Sacerdocio Santo"** y un **"Pueblo Adquirido por Dios"**. Pedro exhorta a la **sujeción a las autoridades humanas**. El punto crucial: el sufrimiento **injusto** debe soportarse con paciencia, imitando a **Cristo**, quien sufrió inocentemente, sin proferir amenazas, llevando nuestros pecados en Su cuerpo en el madero.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Identidad:</strong> Real sacerdocio, nación santa.</li>
+                    <li><strong>Sujeción:</strong> A autoridades y amos (incluso severos).</li>
+                    <li><strong>Ejemplo de Cristo:</strong> Su sufrimiento como modelo de paciencia.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento injusto debe aceptarse con la esperanza de la vindicación</span>, siguiendo el ejemplo de Cristo.</p>
+            `,
+            3: `
+                <h3>📖 1 Pedro 3: Relaciones y la Buena Conciencia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Instrucciones prácticas para las relaciones: **esposas** sujetas a sus maridos (incluso incrédulos) con un espíritu afable y apacible (la belleza interior). **Maridos** honrando a sus esposas. El creyente debe tener una **buena conciencia** para que su buen comportamiento confunda a los calumniadores. El sufrimiento con buena conciencia es mejor, siguiendo el ejemplo de **Cristo**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Matrimonio:</strong> La conducta santa como testimonio para el incrédulo.</li>
+                    <li><strong>Buena Conciencia:</strong> Sufrir por hacer el bien.</li>
+                    <li><strong>Testimonio:</strong> Estar siempre preparados para presentar defensa de la esperanza.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">vida piadosa en el hogar es el testimonio más poderoso</span> en medio de la adversidad.</p>
+            `,
+            4: `
+                <h3>📖 1 Pedro 4: Preparación para el Juicio y Servicio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Ya que Cristo sufrió en la carne, el creyente debe **armarse del mismo pensamiento**. El **fin de todas las cosas** se acerca. El creyente debe ser **sobrio, velar en oración, tener ferviente amor** y ser **hospitalario**. El **juicio** comienza por la **casa de Dios** (la Iglesia), por lo tanto, el creyente que sufre por ser cristiano debe glorificar a Dios.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Preparación:</strong> Vivir como si el fin estuviera cerca.</li>
+                    <li><strong>Caridad:</strong> La hospitalidad y el amor ferviente.</li>
+                    <li><strong>Juicio:</strong> Comienza con el pueblo de Dios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">sufrimiento por la fe es una participación en los padecimientos de Cristo</span> y una prueba necesaria.</p>
+            `,
+            5: `
+                <h3>📖 1 Pedro 5: Exhortación a Ancianos y Humildad</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pedro exhorta a los **ancianos** a **pastorear** la grey de Dios con diligencia y humildad, sin avaricia. Los jóvenes deben sujetarse a los ancianos. La clave es la **humildad**: **"Echad toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros."** La advertencia final es contra el **diablo** (león rugiente), a quien deben resistir firmes en la fe.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Liderazgo:</strong> Pastorear la grey voluntariamente.</li>
+                    <li><strong>Humildad:</strong> La base para resistir la soberbia.</li>
+                    <li><strong>Diablo:</strong> Resistir al adversario con firmeza en la fe.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">confianza en Dios y la resistencia al diablo</span> son esenciales para la perseverancia en la tribulación.</p>
+            `
+        },
+        '2 Pedro': {
+            1: `
+                <h3>📖 2 Pedro 1: Crecimiento, Llamamiento y la Palabra Profética</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El creyente posee todo lo necesario para la vida y la piedad. El mandato es añadir a la fe la **virtud, el conocimiento, el dominio propio, la paciencia, la piedad, el afecto fraternal y el amor**. El olvido de estas virtudes lleva a la esterilidad. Pedro confirma la **Palabra Profética** como **más segura**, recordándoles su testimonio como testigo presencial de la **transfiguración** de Cristo. La profecía vino por el **Espíritu Santo**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Crecimiento:</strong> La escalera de las virtudes cristianas.</li>
+                    <li><strong>Transfiguración:</strong> La autoridad del testimonio ocular de Pedro.</li>
+                    <li><strong>Inspiración:</strong> La profecía no es de interpretación privada, sino inspirada por el Espíritu.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">crecimiento en el conocimiento de Cristo es esencial</span> para la firmeza y para refutar el error.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe ser diligente en el crecimiento, basándose en la inerrancia y la inspiración divina de la Escritura.
+                </div>
+            `,
+            2: `
+                <h3>📖 2 Pedro 2: Castigo a los Falsos Maestros</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Advertencia contra los **falsos profetas** y **maestros** que introducirán encubiertamente **herejías destructoras**. Estos maestros (amantes de las riquezas, sensuales y llenos de soberbia) serán destruidos por el **juicio de Dios** (similar al castigo de los ángeles caídos, el diluvio y Sodoma y Gomorra). Su fin será peor que su comienzo, porque después de conocer el camino, se volvieron a él.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Herejías:</strong> La introducción sutil de la falsa doctrina.</li>
+                    <li><strong>Juicio:</strong> El castigo seguro para los que desprecian la autoridad de Dios.</li>
+                    <li><strong>Corrupción:</strong> Los falsos maestros serán instrumentos de inmundicia y avaricia.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">juicio de Dios es justo e inmutable</span>. El creyente debe apartarse de los falsos maestros y su corrupción.</p>
+            `,
+            3: `
+                <h3>📖 2 Pedro 3: La Certeza de la Venida de Cristo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Pedro aborda el **escarnio** de los que se burlan de la **promesa del regreso de Cristo** ("¿Dónde está la promesa de su advenimiento?"). El escarnio es refutado recordando el **Diluvio** (Dios ya ha intervenido una vez). Dios es **paciente** y no retarda Su promesa, sino que espera que todos procedan al arrepentimiento. El **Día del Señor** vendrá como **ladrón en la noche** y la tierra y los elementos serán consumidos por el fuego. El creyente debe **crecer en la gracia y el conocimiento** de Cristo.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Escarnio:</strong> La burla de los incrédulos sobre la Venida.</li>
+                    <li><strong>Paciencia de Dios:</strong> Da tiempo para el arrepentimiento.</li>
+                    <li><strong>Nueva Creación:</strong> La promesa de cielos nuevos y tierra nueva.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">certeza de la Venida de Cristo debe motivar la vida piadosa</span> y la evangelización.</p>
+            `
+        },
+        '1 Juan': {
+            1: `
+                <h3>📖 1 Juan 1: La Luz, la Sangre y la Comunión</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan inicia testificando de lo que ha **visto, oído y palpado** (la realidad física de Jesús, combatiendo el docetismo). El mensaje central es que **Dios es luz**. La comunión con Dios requiere que **andemos en luz** y que la **sangre de Jesucristo nos limpia de todo pecado**. Si confesamos nuestros pecados, Él es fiel y justo para perdonar.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Encarnación:</strong> El testimonio ocular de la vida física de Cristo.</li>
+                    <li><strong>Luz y Tinieblas:</strong> La comunión con Dios exige un estilo de vida de luz.</li>
+                    <li><strong>Confesión:</strong> El requisito para la limpieza continua del pecado.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">comunión con Dios se basa en la verdad y la santidad</span>. El Evangelio es el perdón continuo por la sangre de Cristo.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir en la luz y confesar sus pecados, confiando en la limpieza de la sangre de Cristo.
+                </div>
+            `,
+            2: `
+                <h3>📖 1 Juan 2: El Abogado, la Obediencia y el Anticristo</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan escribe para que no pequemos, pero si pecamos, tenemos un **Abogado, Jesucristo, el Justo**. Su sacrificio es la **propiciación** (satisfacción de la ira de Dios) por nuestros pecados. La **prueba de conocer a Cristo es la obediencia** a Sus mandamientos. El que niega al Padre y al Hijo (el **anticristo**) es condenado. Los creyentes no necesitan que nadie les enseñe, porque tienen la unción del Espíritu.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Abogado:</strong> Cristo es nuestro defensor y propiciación.</li>
+                    <li><strong>Obediencia:</strong> La primera prueba de la fe genuina.</li>
+                    <li><strong>Mundo y Anticristo:</strong> No amar las cosas del mundo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obediencia es la evidencia de la relación</span>. La fe vence el amor al mundo y sus deseos.</p>
+            `,
+            3: `
+                <h3>📖 1 Juan 3: Hijos de Dios y el Amor Fraternal</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan proclama el amor de Dios: **"Mirad cuán gran amor nos ha dado el Padre, para que seamos llamados hijos de Dios."** La esperanza de ver a Cristo motiva la purificación. El capítulo contrasta a los **hijos de Dios** (que practican la justicia) con los **hijos del diablo** (que practican el pecado). La **segunda prueba de la fe es el amor fraternal**: debemos amar no de palabra, sino con hechos y en verdad, siguiendo el ejemplo de Cristo que dio Su vida.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Adopción:</strong> El inmenso amor que nos hace hijos de Dios.</li>
+                    <li><strong>Naturaleza:</strong> El hijo de Dios no practica el pecado.</li>
+                    <li><strong>Amor:</strong> La prueba esencial de la vida espiritual (dar la vida por los hermanos).</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">identidad de ser hijos de Dios exige la práctica de la justicia</span> y el amor sacrificial.</p>
+            `,
+            4: `
+                <h3>📖 1 Juan 4: Probar los Espíritus y Dios es Amor</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan advierte a **probar los espíritus** para ver si son de Dios (la prueba doctrinal). La prueba es: **"Todo espíritu que confiesa que Jesucristo ha venido en carne, es de Dios."** El capítulo afirma la verdad teológica más profunda: **Dios es amor**. El amor de Dios se perfecciona en nosotros cuando nos amamos unos a otros, pues el amor echa fuera el temor.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Discernimiento:</strong> La prueba doctrinal para refutar el error.</li>
+                    <li><strong>Encarnación:</strong> La doctrina clave (Jesús vino en carne).</li>
+                    <li><strong>Dios es Amor:</strong> La fuente y el fundamento del amor cristiano.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">conocimiento de Dios es amor</span>. La fe se demuestra al amar a los hermanos, lo cual es la prueba de la presencia de Dios.</p>
+            `,
+            5: `
+                <h3>📖 1 Juan 5: Victoria sobre el Mundo y el Triple Testimonio</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La **victoria que ha vencido al mundo es nuestra fe**. Juan presenta el **triple testimonio** para la certeza de la fe: el Espíritu, el agua y la sangre (la base de la identidad y obra de Cristo). El que tiene al Hijo tiene la **vida eterna**. El capítulo concluye con una advertencia contra la **idolatría** y la certeza de que el Hijo de Dios ha venido para darnos entendimiento.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Victoria:</strong> La fe vence el poder del mundo.</li>
+                    <li><strong>Testimonio:</strong> El Espíritu, el agua y la sangre dan testimonio de Cristo.</li>
+                    <li><strong>Vida Eterna:</strong> Está en el Hijo de Dios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe es el poder que nos conecta con la vida eterna</span> y nos da la victoria sobre el sistema mundano.</p>
+            `
+        },
+        '2 Juan': {
+            1: `
+                <h3>📖 2 Juan 1: La Verdad, el Amor y la Fidelidad Doctrinal</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan alaba a la receptora por su vida en la **Verdad** y el **Amor** (los dos mandamientos esenciales). Advierte contra los **engañadores** (anticristos) que no confiesan la **Encarnación de Cristo**. La instrucción es clara: **no recibir en casa** ni desearles éxito a los que traen esta falsa doctrina, para no ser cómplices de sus malas obras.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Amor y Verdad:</strong> Deben ir de la mano (amar sin comprometer la doctrina).</li>
+                    <li><strong>Engaño:</strong> La negación de la Encarnación como la marca del anticristo.</li>
+                    <li><strong>Hospitalidad Limitada:</strong> No apoyar a los falsos maestros.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fidelidad doctrinal es esencial para la práctica del amor</span>. El amor cristiano nunca es ciego a la verdad.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la verdad y el amor, y ser firme en rechazar toda doctrina que niegue a Cristo.
+                </div>
+            `
+        },
+        '3 Juan': {
+            1: `
+                <h3>📖 3 Juan 1: Alabanza a Gayo y Condena a Diótrefes</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan elogia a **Gayo** por su **hospitalidad** con los hermanos y su **caminar en la Verdad**. Condena a **Diótrefes** por su **soberbia** (amar el primer lugar), por hablar mal del apóstol y por expulsar a los que querían recibir a los misioneros. Juan promete ir y recordar las obras de Diótrefes. **Demetrio** es puesto como ejemplo de buen testimonio.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Hospitalidad:</strong> El apoyo a los misioneros es un acto de fe.</li>
+                    <li><strong>Soberbia:</strong> El pecado de Diótrefes por querer el primer lugar.</li>
+                    <li><strong>Buen Testimonio:</strong> La conducta de Gayo como modelo de la piedad.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">verdadera piedad se evidencia en la hospitalidad</span> y el rechazo a la autoridad egoísta.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe apoyar financieramente y con amor a los que sirven a la Verdad. El orgullo y la ambición son pecados serios en el liderazgo.
+                </div>
+            `
+        },
+        'Judas': {
+            1: `
+                <h3>📖 Judas 1: El Juicio a los Falsos Maestros y la Defensa de la Fe</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Judas advierte sobre los **hombres impíos** que se han infiltrado en la Iglesia para cambiar la gracia de Dios en libertinaje. Utiliza **ejemplos históricos de juicio** (ángeles que no guardaron su dignidad, Sodoma y Gomorra y la incredulidad de Israel en el desierto) para mostrar que el castigo es seguro. Exhorta a los creyentes a **edificarse en la fe**, a orar en el Espíritu Santo y a esperar la misericordia.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Contender por la Fe:</strong> La necesidad de defender la sana doctrina.</li>
+                    <li><strong>Juicio Histórico:</strong> Dios castiga la inmoralidad y la rebelión.</li>
+                    <li><strong>Edificación Personal:</strong> Orar en el Espíritu Santo y mantenerse en el amor de Dios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">creyente debe ser un defensor activo de la verdad</span>. La oración y la piedad son la defensa contra la herejía.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe examinar la doctrina y luchar activamente contra la herejía, edificándose en la fe y la oración en el Espíritu.
+                </div>
+            `
+        },
+        'Apocalipsis': {
+            1: `
+                <h3>📖 Apocalipsis 1: La Visión de Cristo y el Llamamiento de Juan</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El libro comienza con el **prólogo** y la **bendición** sobre los que leen y guardan la profecía. El autor, **Juan**, es un exiliado en la isla de **Patmos** (c. 95 d.C.) y recibe la revelación de **Jesucristo**. Juan ve una gloriosa visión del **Hijo del Hombre** (Cristo) en medio de **siete candeleros de oro** (las siete iglesias). Jesús se identifica como el **Primero y el Último** y el que tiene las llaves de la muerte y el Hades.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Revelación:</strong> El propósito de la profecía es revelar el futuro.</li>
+                    <li><strong>Siete Iglesias:</strong> La presencia de Cristo en medio de Su Iglesia.</li>
+                    <li><strong>Supremacía:</strong> Cristo es el Soberano y el Redentor.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">autoridad de Cristo es total sobre la vida y la muerte</span>. La fe debe mantenerse en la esperanza de Su regreso.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe buscar la bendición en la lectura y obediencia a la Palabra Profética.
+                </div>
+            `,
+            2: `
+                <h3>📖 Apocalipsis 2: Mensajes a Éfeso, Esmirna, Pérgamo y Tiatira</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Cristo dicta mensajes a las primeras **cuatro de las siete iglesias** de Asia. Los mensajes incluyen **elogios y correcciones**. **Éfeso** es alabada por su obra, pero condenada por haber dejado su **primer amor**. **Esmirna** es animada en su sufrimiento. **Pérgamo** es condenada por tolerar el error. **Tiatira** es condenada por tolerar la inmoralidad (Jezabel).</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Primer Amor:</strong> La prioridad de la devoción sobre la obra.</li>
+                    <li><strong>Fidelidad:</strong> Resistir la persecución (Esmirna).</li>
+                    <li><strong>Compromiso:</strong> El peligro de tolerar la falsa doctrina.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">amor y la pureza doctrinal son las bases de la Iglesia</span>. El Señor exige un examen propio constante.</p>
+            `,
+            3: `
+                <h3>📖 Apocalipsis 3: Mensajes a Sardis, Filadelfia y Laodicea</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Cristo dicta mensajes a las **tres iglesias restantes**. **Sardis** es condenada por tener **nombre de que vive, pero está muerta**. **Filadelfia** es alabada por su fidelidad y por guardar la Palabra de Cristo (se le promete una puerta abierta). **Laodicea** es condenada por ser **tibia** (ni fría ni caliente) y es advertida: "**Yo estoy a la puerta y llamo.**" La tibieza es el pecado del orgullo y la autosuficiencia.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Tiberza:</strong> El peligro de la indiferencia y el orgullo.</li>
+                    <li><strong>Fidelidad:</strong> La perseverancia de Filadelfia es recompensada.</li>
+                    <li><strong>Puerta:</strong> Jesús llama a la puerta del corazón del creyente.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe debe ser ferviente y viva</span>. El Señor rechaza la indiferencia cómoda.</p>
+            `,
+            4: `
+                <h3>📖 Apocalipsis 4: La Visión del Trono Celestial</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan es llamado al cielo para ver **"las cosas que han de ser después de estas"**. Ve una visión del **Trono de Dios**: Dios está sentado en majestad, rodeado de un arco iris, relámpagos y truenos. **Veinticuatro ancianos** (representando a la Iglesia o a los santos del Antiguo y Nuevo Pacto) se sientan alrededor, y **cuatro seres vivientes** (querubines) adoran sin cesar. El canto se centra en la **adoración al Creador** ("Santo, Santo, Santo").</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Soberanía:</strong> Dios es el Soberano del universo.</li>
+                    <li><strong>Adoración:</strong> El propósito central del cielo.</li>
+                    <li><strong>Majestad:</strong> La descripción gloriosa del Trono de Dios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">adoración a Dios como Creador es la razón de ser del cielo</span>. La fe debe tener una visión de la majestad de Dios.</p>
+            `,
+            5: `
+                <h3>📖 Apocalipsis 5: El Cordero y el Rollo Sellado</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Dios Padre tiene un **rollo sellado con siete sellos** (el plan de la historia y el juicio). Nadie en el cielo, en la tierra o debajo de la tierra es digno de abrirlo. Juan llora. El **Cordero** (Jesús, inmolado) es declarado digno, pues Él venció. El Cordero toma el rollo. Los seres celestiales, los ancianos y **millones de ángeles** adoran al Cordero, reconociendo Su valor como **Redentor**.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Dignidad:</strong> Solo Cristo es digno de ejecutar el plan de Dios.</li>
+                    <li><strong>Cordero Inmolado:</strong> La identidad sacrificial de Cristo.</li>
+                    <li><strong>Redención:</strong> El Cordero compró a gente de toda nación, tribu y lengua.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">obra redentora de Cristo es el centro de la adoración celestial</span>. Su sacrificio es el único poder que da sentido a la historia.</p>
+            `,
+            6: `
+                <h3>📖 Apocalipsis 6: La Apertura de los Seis Sellos</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El Cordero abre los primeros **seis sellos**, desatando los juicios de Dios en la Tierra. Los primeros cuatro son los **Cuatro Caballos** (conquista, guerra, hambruna y muerte, que matan a la cuarta parte de la Tierra). El quinto sello revela las **almas de los mártires** que claman por venganza. El sexto sello trae el **gran terremoto** y el colapso cósmico (el día de la ira de Dios), haciendo que los hombres se escondan.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Juicio:</strong> El plan de Dios se desata en la historia.</li>
+                    <li><strong>Mártires:</strong> La intercesión de los que murieron por la Palabra de Dios.</li>
+                    <li><strong>Ira de Dios:</strong> El terror del día del juicio.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">historia está sujeta a la voluntad de Dios</span>. El sufrimiento de los mártires es reconocido y vindicado.</p>
+            `,
+            7: `
+                <h3>📖 Apocalipsis 7: Los Sellados y la Gran Multitud</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El interludio entre el sexto y el séptimo sello. Dos visiones: 1) El **sellamiento de los 144,000** (judíos de las doce tribus) para ser protegidos del juicio que está por venir. 2) Una **gran multitud** (de todas las naciones, tribus y pueblos) vestida de ropas blancas, de pie ante el Trono, que han **salido de la gran tribulación**. Su salvación se debe al Cordero. El Cordero los pastoreará y los guiará a las fuentes de agua de vida.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Protección:</strong> El sello de Dios sobre Su pueblo.</li>
+                    <li><strong>Universalidad:</strong> La multitud de gentiles y la salvación global.</li>
+                    <li><strong>El Gran Pastor:</strong> El Cordero es quien guía y consuela.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">salvación de Dios es para todos los pueblos</span>. La fe persevera en el sufrimiento hasta la gloria.</p>
+            `,
+            8: `
+                <h3>📖 Apocalipsis 8: El Séptimo Sello y las Cuatro Primeras Trompetas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La apertura del **Séptimo Sello** produce **silencio en el cielo** (por media hora). Un ángel ofrece el **incienso** (las oraciones de los santos) en el altar. Luego, las **cuatro primeras trompetas** anuncian el juicio sobre la Tierra: la tercera parte de la Tierra, el mar, los ríos y las estrellas son heridos, causando gran destrucción ecológica. El juicio es limitado a un tercio de la creación.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Silencio:</strong> La expectación y la reverencia ante el juicio.</li>
+                    <li><strong>Oración:</strong> Las oraciones de los santos son el catalizador del juicio.</li>
+                    <li><strong>Juicio Ecológico:</strong> La destrucción de la tercera parte de la creación.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">juicio de Dios es una respuesta a las oraciones de Su pueblo</span>. La creación misma sufre por el pecado.</p>
+            `,
+            9: `
+                <h3>📖 Apocalipsis 9: La Quinta y Sexta Trompetas (Los Demonios)</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La **quinta trompeta** libera a la langosta demoníaca (liderada por Abadón/Apolión, el ángel del abismo) para atormentar a los hombres (pero no a los sellados) por cinco meses. La **sexta trompeta** libera a **cuatro ángeles** para liberar a un ejército de **doscientos millones de jinetes** que matan a la tercera parte de la humanidad. A pesar de los juicios, los hombres **no se arrepienten** de sus idolatrías, asesinatos o fornicaciones.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Demonios:</strong> El poder del mal es limitado a atormentar, no a matar.</li>
+                    <li><strong>Endurecimiento:</strong> La falta de arrepentimiento de la humanidad.</li>
+                    <li><strong>Guerras:</strong> La destrucción masiva en la Tierra.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">juicio revela la maldad y la terquedad del corazón humano</span>, que se niega a arrepentirse.</p>
+            `,
+            10: `
+                <h3>📖 Apocalipsis 10: El Ángel con el Librito</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Un poderoso **ángel** desciende del cielo con un **"librito"** abierto. El ángel jura por el Creador que **"el tiempo no sería más"** (el fin de la demora). Juan recibe el mandato de **comer el librito**, que es **dulce en su boca** (la revelación es agradable) pero **amargo en su vientre** (el juicio es doloroso). Juan debe profetizar de nuevo sobre muchos pueblos y reyes.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Fin de la Demora:</strong> El tiempo del juicio final está cerca.</li>
+                    <li><strong>Profecía:</strong> El mensaje de Juan es un oráculo de juicio y revelación.</li>
+                    <li><strong>Experiencia de Juan:</strong> El profeta asimila el mensaje de juicio.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">mensaje de Dios es doble</span>: dulce (la gracia) y amargo (el juicio). El profeta debe asimilar ambos.</p>
+            `,
+            11: `
+                <h3>📖 Apocalipsis 11: Los Dos Testigos y la Séptima Trompeta</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan mide el Templo (símbolo de la protección divina). Dios levanta a **Dos Testigos** (simbolizando a la Iglesia o a Elías y Moisés) que profetizan por 1,260 días. Son muertos por la **Bestia** y resucitan, ascendiendo al cielo. La **Séptima Trompeta** suena, y las voces proclaman: "**Los reinos del mundo han venido a ser de nuestro Señor y de Su Cristo.**" El Templo se abre y se revela el Arca del Pacto.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Testimonio:</strong> El poder de la profecía en el tiempo de la tribulación.</li>
+                    <li><strong>Triunfo:</strong> El dominio final de Cristo sobre los reinos del mundo.</li>
+                    <li><strong>Resurrección:</strong> La vindicación de los testigos.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">testimonio del Evangelio es poderoso</span> y será resucitado en gloria. El reino de Cristo es eterno.</p>
+            `,
+            12: `
+                <h3>📖 Apocalipsis 12: La Mujer, el Dragón y el Hijo Varón</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Una gran señal: una **Mujer** (Israel) vestida del sol, que da a luz a un **Hijo Varón** (Cristo, el Mesías). Un gran **Dragón** (Satanás) intenta devorar al niño. El niño es arrebatado al cielo (Ascensión). El Dragón es arrojado a la Tierra y persigue a la mujer y a su descendencia (la Iglesia). El Arcángel **Miguel** derrota a Satanás en la guerra celestial.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Conflicto Cósmico:</strong> La guerra de Satanás contra el Mesías y Su pueblo.</li>
+                    <li><strong>Hijo Varón:</strong> Cristo es protegido y glorificado.</li>
+                    <li><strong>Persecución:</strong> El Dragón persigue a la Iglesia.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">victoria de Cristo sobre Satanás es el centro de la historia</span>. El creyente está bajo la protección divina.</p>
+            `,
+            13: `
+                <h3>📖 Apocalipsis 13: La Bestia del Mar y la Bestia de la Tierra</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El Dragón le da su poder a **dos Bestias**. 1) La **Bestia del Mar** (el Anticristo, el poder político mundial), que recibe adoración y tiene un número (**666**). 2) La **Bestia de la Tierra** (el Falso Profeta, el poder religioso), que engaña al mundo y obliga a la adoración de la primera Bestia. El mundo se maravilla y adora a las Bestias.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Anticristo:</strong> El líder político que se opone a Cristo.</li>
+                    <li><strong>Falso Profeta:</strong> La religión que promueve la adoración al mal.</li>
+                    <li><strong>Marca de la Bestia:</strong> La señal de lealtad al sistema del mal.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">poder del mal es una imitación de la Trinidad</span>, pero es destinado al juicio eterno.</p>
+            `,
+            14: `
+                <h3>📖 Apocalipsis 14: El Cordero en el Monte Sion y la Cosecha Final</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El Cordero (Cristo) está en el **Monte Sion** con los **144,000 sellados**. Tres **ángeles** anuncian el Evangelio eterno, la caída de Babilonia y la advertencia sobre la adoración a la Bestia. El capítulo culmina con la visión de la **Cosecha Final** (la siega de la Tierra) y el **lagar de la ira de Dios**, donde el juicio es derramado.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Cosecha:</strong> El juicio final y la reunión de los justos.</li>
+                    <li><strong>Evangelio Eterno:</strong> La proclamación del Evangelio a todas las naciones.</li>
+                    <li><strong>Paciencia:</strong> La perseverancia de los santos en la prueba.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">fe persevera con paciencia</span>, sabiendo que el juicio es el preludio de la reunión con el Cordero.</p>
+            `,
+            15: `
+                <h3>📖 Apocalipsis 15: La Preparación para las Siete Copas</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan ve la **preparación para el juicio final**. Los **Siete Ángeles** reciben las **Siete Copas de la Ira de Dios**. Aquellos que han vencido a la Bestia (los mártires) están de pie junto al mar de vidrio, cantando el **Cántico de Moisés y el Cántico del Cordero**, alabando la justicia de Dios. El Templo celestial se llena del humo de la gloria de Dios.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Juicio Final:</strong> La ira de Dios es consumada.</li>
+                    <li><strong>Cántico de Moisés:</strong> La conexión entre el Éxodo y la liberación final.</li>
+                    <li><strong>Gloria de Dios:</strong> La manifestación de la santidad de Dios.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">justicia de Dios es merecedora de la alabanza eterna</span>. El sufrimiento es vindicado por la gloria.</p>
+            `,
+            16: `
+                <h3>📖 Apocalipsis 16: El Derramamiento de las Siete Copas de la Ira</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Las **Siete Copas de la Ira de Dios** son derramadas sobre la Tierra, trayendo plagas devastadoras (úlceras, sangre, sequía, oscuridad, etc.). La sexta copa seca el río Éufrates para preparar el camino a los **reyes del Oriente**. La séptima copa culmina con la **Batalla de Armagedón** y la voz del cielo que dice: "**Hecho está**." El juicio es consumado en la Tierra.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Plagas:</strong> La manifestación del juicio final.</li>
+                    <li><strong>Armagedón:</strong> La reunión de las fuerzas del mal para la batalla final.</li>
+                    <li><strong>Consumación:</strong> La conclusión del juicio.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">juicio final es una retribución justa</span> por los pecados de la humanidad y la incredulidad.</p>
+            `,
+            17: `
+                <h3>📖 Apocalipsis 17: El Juicio de la Gran Ramera</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan ve la visión de la **Gran Ramera** (Babilonia, la capital de la maldad y el sistema corrupto), montada sobre la **Bestia escarlata** (el Anticristo). La Ramera está vestida de púrpura y escarlata y tiene la **copa de oro de sus abominaciones**. El misterio es que la Bestia y sus diez cuernos se volverán contra la Ramera y la destruirán. El sistema corrupto se autodestruirá.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Babilonia:</strong> Símbolo de la corrupción política y religiosa mundial.</li>
+                    <li><strong>Bestia y Ramera:</strong> La alianza temporal entre el poder político y la religión apóstata.</li>
+                    <li><strong>Juicio:</strong> La destrucción de la maldad por la mano del propio sistema.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">alianza entre el poder y la falsa religión será destruida</span>. El juicio de Dios es evidente.</p>
+            `,
+            18: `
+                <h3>📖 Apocalipsis 18: La Caída y el Lamento sobre Babilonia</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El anuncio de la **caída total y repentina de Babilonia** (el sistema económico, político y religioso). Un ángel clama: "**Ha caído, ha caído la gran Babilonia.**" Se exhorta al pueblo de Dios a **salir de ella**. Los reyes, comerciantes y navegantes de la Tierra lamentan su destrucción, pues su riqueza se ha esfumado en una hora. Dios la castiga por su lujo y su persecución a los profetas y a los santos.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Exhortación:</strong> El pueblo de Dios debe separarse de la corrupción.</li>
+                    <li><strong>Lamento:</strong> El dolor por la pérdida de la riqueza.</li>
+                    <li><strong>Juicio Justo:</strong> La retribución por la persecución a los santos.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">separación del sistema mundial es obligatoria</span>. El juicio de Dios es una victoria para los justos.</p>
+            `,
+            19: `
+                <h3>📖 Apocalipsis 19: Las Bodas del Cordero y el Regreso del Rey</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>El cielo prorrumpe en **alabanza (Haleluyah)** por el juicio sobre la Gran Ramera. El evento culminante es la **Cena de las Bodas del Cordero** (la unión de Cristo con Su Iglesia). Juan ve al **Rey (La Palabra de Dios)** regresando del cielo montado en un **caballo blanco**, vestido con ropas teñidas de sangre y con una espada afilada. El Rey derrota a la Bestia y al Falso Profeta, quienes son arrojados vivos al lago de fuego.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Bodas del Cordero:</strong> La celebración de Cristo y Su Iglesia.</li>
+                    <li><strong>Segunda Venida:</strong> Cristo regresa como Rey y Guerrero.</li>
+                    <li><strong>Juicio de las Bestias:</strong> La derrota final del Anticristo y el Falso Profeta.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">regreso de Cristo es el triunfo final</span>. La fe se regocija en la venida del Rey justo.</p>
+            `,
+            20: `
+                <h3>📖 Apocalipsis 20: El Milenio y el Juicio del Gran Trono Blanco</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan ve a un ángel que **ata a Satanás** por **mil años** (el Milenio), donde los mártires resucitan y reinan con Cristo. Después de los mil años, Satanás es liberado por un corto tiempo e inicia la última batalla (**Gog y Magog**), pero es derrotado por fuego del cielo. El capítulo termina con el **Juicio del Gran Trono Blanco**, donde los muertos (grandes y pequeños) son juzgados según sus obras registradas en los libros. La muerte y el Hades son arrojados al lago de fuego.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Milenio:</strong> El reinado de Cristo en la Tierra por 1,000 años.</li>
+                    <li><strong>Juicio Final:</strong> La resurrección y el juicio según las obras.</li>
+                    <li><strong>Muerte:</strong> La destrucción final de la muerte y el Hades.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">juicio de Dios es justo y final</span>. La vida eterna es la recompensa de la fe.</p>
+            `,
+            21: `
+                <h3>📖 Apocalipsis 21: Cielos Nuevos, Tierra Nueva y la Nueva Jerusalén</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>Juan ve los **Cielos Nuevos y la Tierra Nueva**. El **Mar ya no existe**. La **Nueva Jerusalén** desciende del cielo, adornada como una esposa. Dios mismo habitará con Su pueblo: **"Él enjugará toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron."** Solo los escritos en el Libro de la Vida pueden entrar.</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Nueva Creación:</strong> El fin del mar (símbolo del caos).</li>
+                    <li><strong>Nueva Jerusalén:</strong> La morada eterna de Dios y Su pueblo.</li>
+                    <li><strong>Fin del Sufrimiento:</strong> La eliminación del dolor y la muerte.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>La <span class="highlight">comunión eterna con Dios es la culminación de la redención</span>. La fe es la llave del Libro de la Vida.</p>
+            `,
+            22: `
+                <h3>📖 Apocalipsis 22: El Río de Vida, la Invitación y la Última Palabra</h3>
+                
+                <h4>🕰️ Contexto Histórico y Literario</h4>
+                <p>La descripción de la vida en la Nueva Jerusalén: el **Río de Agua de Vida** y el **Árbol de la Vida** (cuyas hojas son para la sanidad de las naciones). Jesús se identifica como la **Raíz y el Linaje de David, la Estrella Resplandeciente de la Mañana**. La **invitación** final es: "**El que tiene sed, venga; y el que quiera, tome del agua de la vida gratuitamente.**" La última palabra es la promesa: **"Ciertamente vengo en breve."** y la respuesta: **"Amén; sí, ven, Señor Jesús."**</p>
+                
+                <h4>🎯 Temas Principales</h4>
+                <ul>
+                    <li><strong>Río de Vida:</strong> La fuente eterna de vida y bendición.</li>
+                    <li><strong>Invitación:</strong> El llamado final a la salvación.</li>
+                    <li><strong>Promesa:</strong> El regreso inminente de Cristo.</li>
+                </ul>
+                
+                <h4>✨ Significado Espiritual</h4>
+                <p>El <span class="highlight">Espíritu y la Iglesia (la Esposa) claman por el regreso de Cristo</span>. La vida es beber del agua de Dios.</p>
+                
+                <div class="info-box">
+                    <strong>💡 Lección clave:</strong> El creyente debe vivir en la expectativa del regreso de Cristo, bebiendo gratuitamente del agua de la vida. ¡Todo está Consumado!
+                </div>
+            `
         }
     };
     
