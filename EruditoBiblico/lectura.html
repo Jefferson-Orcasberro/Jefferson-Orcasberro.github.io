@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lectura Bíblica - Reina Valera 1960</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="lectura-style.css">
 </head>
 <body>
     <div class="container">
@@ -17,23 +18,31 @@
             </div>
 
             <div class="bible-controls">
-                <div class="control-group">
-                    <label for="libro-select">📚 Libro:</label>
-                    <select id="libro-select" onchange="actualizarCapitulos()">
-                        <option value="">Selecciona un libro...</option>
-                    </select>
-                </div>
+                <div class="controls-wrapper">
+                    <div class="control-group">
+                        <label for="libro-select">📚 Selecciona un Libro</label>
+                        <select id="libro-select" onchange="actualizarCapitulos()">
+                            <option value="">— Elige un libro —</option>
+                        </select>
+                    </div>
 
-                <div class="control-group">
-                    <label for="capitulo-select">📖 Capítulo:</label>
-                    <select id="capitulo-select" onchange="cargarVersiculos()">
-                        <option value="">Selecciona un capítulo...</option>
-                    </select>
+                    <div class="control-group">
+                        <label for="capitulo-select">📖 Selecciona un Capítulo</label>
+                        <select id="capitulo-select" onchange="cargarVersiculos()">
+                            <option value="">— Elige un capítulo —</option>
+                        </select>
+                    </div>
                 </div>
 
                 <div class="controls-buttons">
-                    <button id="cargar-btn" class="btn-cargar" onclick="cargarVersiculos()" title="Cargar versículos">📖 Cargar</button>
-                    <button id="contexto-btn" class="btn-contexto" onclick="obtenerContextoHistorico()" title="Ver contexto histórico detallado">🕰️ Contexto</button>
+                    <button id="cargar-btn" class="btn-cargar" onclick="cargarVersiculos()" title="Cargar versículos del capítulo">
+                        <span class="btn-icon">📖</span>
+                        <span class="btn-text">Cargar Lectura</span>
+                    </button>
+                    <button id="contexto-btn" class="btn-contexto" onclick="obtenerContextoHistorico()" title="Ver contexto histórico detallado">
+                        <span class="btn-icon">🕰️</span>
+                        <span class="btn-text">Contexto</span>
+                    </button>
                 </div>
             </div>
 
