@@ -293,6 +293,36 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dominio divino:</strong> Dios tiene autoridad absoluta sobre todo</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Creación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Creador</h5>
+<ul>
+    <li><strong>Creación por Palabra:</strong> El poder se manifiesta no por lucha o esfuerzo, sino por la enunciación divina ("Sea la luz", "Produza la tierra").</li>
+    <li><strong>Orden y Jerarquía:</strong> Establecimiento de un orden fijo (día/noche, cielos/tierra, plantas/animales), sentando las bases de la Ley cósmica.</li>
+    <li><strong>Establecimiento del Sábado:</strong> El acto de santificar el séptimo día como descanso y culminación, estableciendo el patrón del tiempo sagrado.</li>
+    <li><strong>Bendición y Mandato:</strong> Conferir la capacidad de ser fructífero y de multiplicar la vida.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Mitos de Creación Vecinos</h5>
+<ul>
+    <li><strong>Cosmogonías Violentas:</strong> La creación surge de la lucha entre dioses (ej. *Enuma Elish* de Babilonia: la creación del mundo a partir del cadáver de Tiamat).</li>
+    <li><strong>Creación Accidental:</strong> El hombre es un pensamiento tardío o un subproducto de los dioses, a menudo creado para servir o esclavizar.</li>
+    <li><strong>Múltiples Dioses Creadores:</strong> Pluralidad de deidades involucradas en diferentes aspectos de la creación.</li>
+    <li><strong>Tiempo Cíclico:</strong> Concepto de ciclos cósmicos de muerte y renacimiento de los dioses.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Método de Creación:</strong> Israel: Por mandato, sin esfuerzo | Mitos: Por conflicto, sacrificio, o batalla divina.</li>
+    <li><strong>Concepto de Materia:</strong> Israel: Dios crea de la nada (Ex Nihilo) | Mitos: Dioses organizan la materia preexistente (caos).</li>
+    <li><strong>Rol del Humano:</strong> Israel: Coronado con gloria para gobernar la creación | Mitos: Esclavos de los dioses para hacer su trabajo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El énfasis está en un Dios soberano, único y trascendente, cuya creación es inherentemente "buena," desmitificando los elementos naturales que otras culturas adoraban como dioses (sol, luna, estrellas, agua).
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>Este capítulo establece que el universo no es eterno ni accidental, sino creado por un Dios personal. El ser humano tiene un <span class="highlight">propósito divino</span> y fue creado con dignidad única. La declaración "y vio que era bueno" repetidata muestra la satisfacción divina con la creación.</p>
                 
@@ -328,6 +358,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La obediencia:</strong> El mandamiento de no comer del árbol del conocimiento</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: El Jardín y el Matrimonio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres Divinas del Paraíso</h5>
+<ul>
+    <li><strong>Relación Directa:</strong> Dios interactúa directamente, "soplando" vida y dando instrucciones verbales.</li>
+    <li><strong>Trabajo como Mandato:</strong> Se da al hombre la tarea de "labrar y guardar" el jardín *antes* de la Caída. El trabajo es un privilegio, no un castigo.</li>
+    <li><strong>Nomenclatura (Autoridad):</strong> Adán nombra a los animales, un acto que simboliza su dominio y conocimiento de su esencia.</li>
+    <li><strong>Matrimonio Original:</strong> Establecimiento de la monogamia como la norma ideal: un hombre deja a sus padres para unirse a su mujer, formando "una sola carne".</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Vida Antigua</h5>
+*Las costumbres de contraste aún no se formalizan, pero se anticipan:*
+<ul>
+    <li><strong>Subordinación Rígida de la Mujer:</strong> Muchas culturas antiguas trataban a la mujer como propiedad, sin la igualdad de "ayuda idónea" que se presenta aquí.</li>
+    <li><strong>Poligamia de Dominio:</strong> En culturas posteriores, el matrimonio múltiple era una forma de acumular poder y fuerza laboral (no de compañía mutua).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Concepto de la Mujer:</strong> Israel (original): Creada de igual esencia ("hueso de mis huesos") como compañera | Culturas: Propiedad o instrumento de reproducción.</li>
+    <li><strong>Propósito del Trabajo:</strong> Israel (original): Administración y cuidado | Culturas: Tarea forzosa para sobrevivir.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo establece el ideal inmaculado de la existencia humana, la intimidad con Dios, y el modelo de matrimonio, contrastando con la degeneración de estas instituciones que se verá en capítulos posteriores.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El descanso de Dios no significa que esté inactivo, sino que su obra está completa y satisfecha. El concepto del <span class="highlight">Shabat</span> se convierte en uno de los mandamientos más importantes de la ley israelita. El matrimonio es presentado como la más íntima de las relaciones humanas.</p>
                 
@@ -363,6 +421,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Juicio:</strong> Las maldiciones sobre la serpiente, la mujer y el hombre</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: La Caída y la Consecuencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres post-Caída</h5>
+<ul>
+    <li><strong>El Velo de la Vergüenza:</strong> El conocimiento del bien y del mal conduce a la conciencia de la desnudez, simbolizando la ruptura con la inocencia original.</li>
+    <li><strong>Ropa y Cobertura:</strong> Dios inicia el uso de vestimenta (pieles de animales) como un acto de gracia y cobertura de la vergüenza.</li>
+    <li><strong>Trabajo como Esfuerzo:</strong> El trabajo se convierte en lucha ("con el sudor de tu rostro comerás el pan").</li>
+    <li><strong>Muerte y Retorno al Polvo:</strong> Se establece la mortalidad como consecuencia de la desobediencia, rompiendo la promesa de vida eterna.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Transgresión</h5>
+<ul>
+    <li><strong>Culpar al Otro:</strong> La tendencia humana a evadir la responsabilidad y transferir la culpa (Adán culpa a Eva, Eva culpa a la serpiente).</li>
+    <li><strong>Desconfianza del Orden Divino:</strong> La búsqueda del conocimiento o del poder fuera de los límites establecidos por la deidad.</li>
+    <li><strong>Lucha Matrimonial:</strong> El dominio del hombre sobre la mujer se convierte en una dinámica de poder, en lugar de una asociación armoniosa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fuente de Autoridad:</strong> Antes: La palabra de Dios | Después: La duda y la ambición personal ("seréis como Dios").</li>
+    <li><strong>Relación con la Tierra:</strong> Antes: Dominio y facilidad | Después: Conflicto y espinos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se introduce el concepto de **sacrificio sustitutivo** (Dios usa pieles) y la **Promesa** mesiánica ("la simiente de la mujer") como esperanza inmediata en medio de la maldición.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>Introduce el concepto de la <span class="highlight">alienación</span> del hombre con Dios, la naturaleza y su cónyuge. El versículo 3:15 (la "proto-evangelio") es una promesa mesiánica que anticipa la derrota final del mal.</p>
                 
@@ -399,6 +485,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Linajes:</strong> El linaje pecaminoso de Caín vs. el linaje piadoso de Set</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Caín, Abel y la Primera Civilización</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto Primitivo</h5>
+<ul>
+    <li><strong>Culto de Ofrenda:</strong> La ofrenda es el principal acto religioso. Las ofrendas del fruto del campo (Caín) y del primer nacido del rebaño (Abel) indican un reconocimiento de la dependencia de Dios.</li>
+    <li><strong>Agricultura vs. Pastoreo:</strong> Se distinguen las dos primeras vocaciones humanas, que a menudo serán la base de conflictos territoriales y culturales posteriores.</li>
+    <li><strong>Responsabilidad Personal:</strong> Dios confronta a Caín con el concepto de la responsabilidad por el bienestar del hermano ("¿Dónde está Abel?").</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Violencia y la Venganza</h5>
+<ul>
+    <li><strong>Homicidio como Solución:</strong> El primer asesinato muestra que la envidia y el rechazo se resuelven con la violencia física.</li>
+    <li><strong>La Marca de Caín:</strong> La aplicación de una marca para prevenir la vendetta inmediata. Una forma primitiva de protección civil.</li>
+    <li><strong>Surgimiento de la Poligamia y la Venganza sin Límites:</strong> Lamec, del linaje de Caín, toma dos mujeres y se jacta de una venganza que supera la protección dada a Caín (70 veces 7). Esto es una ley de la jungla.</li>
+    <li><strong>Comienzos de la Cultura Urbana:</strong> El linaje de Caín construye la primera ciudad y desarrolla las artes y la metalurgia (Jabal, Jubal, Tubal-Caín).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Motivación del Culto:</strong> Abel: Fe y lo mejor de sí | Caín: Formalidad sin la disposición correcta.</li>
+    <li><strong>Justicia:</strong> Linaje de Set (eventual): Dependencia de la justicia divina | Linaje de Caín: Justicia brutal y personal (venganza).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Muestra el origen del conflicto religioso y la diferencia entre la adoración genuina y la formalidad. El nacimiento de Set es la restauración de la esperanza de un linaje que invoca el nombre de Dios.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>Muestra que el pecado ya no es solo desobediencia, sino <span class="highlight">violencia homicida</span>. La línea de Set es donde se llama "el nombre de Jehová" (4:26), marcando la continuidad de la adoración genuina.</p>
                 
@@ -435,6 +549,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe (Enoc):</strong> Muestra que incluso en un mundo corrupto, es posible una relación íntima con Dios</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Las Genealogías y la Longevidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Linaje de Set</h5>
+<ul>
+    <li><strong>La Genealogía como Historia:</strong> El registro de la ascendencia es la forma en que se transmiten la historia y la promesa divina a través de las generaciones.</li>
+    <li><strong>Longevidad Excepcional:</strong> La esperanza de vida de casi mil años es la norma, lo que permite una transmisión oral de la historia extremadamente precisa.</li>
+    <li><strong>"Caminar con Dios":</strong> La piedad personal, ejemplificada por Enoc, es la cúspide de la vida religiosa, recompensada con una transición directa a la presencia de Dios.</li>
+    <li><strong>Fidelidad a la Alianza:</strong> La continuidad del linaje es el cumplimiento de la promesa hecha en el Edén, a pesar de la decadencia circundante.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Muerte y el Olvido</h5>
+<ul>
+    <li><strong>La Muerte como Cierre:</strong> El estribillo "y murió" marca el final de cada vida, contrastando la longevidad con la mortalidad inescapable.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Trascendencia:</strong> Israel: A través de la fidelidad a Dios y la línea de la promesa | Culturas: A través de la propia obra o fama (aunque el linaje de Caín desaparece aquí de la narrativa principal).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Esta "Lista de Adán" sirve como un puente entre la Creación y Noé. Subraya que en medio de la creciente maldad (que será el foco del siguiente capítulo), Dios mantiene una línea de piedad.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La repetición de las edades y muertes subraya la seriedad de la <span class="highlight">condena por el pecado</span>. El caso de Enoc ofrece un rayo de esperanza, demostrando que la comunión con Dios (andar con Él) puede, de alguna manera, trascender las limitaciones terrenales.</p>
                 
@@ -468,6 +607,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Obediencia:</strong> Noé obedece las instrucciones detalladas para construir el arca</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Corrupción Global y el Arca</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de Noé (La Preparación)</h5>
+<ul>
+    <li><strong>Justicia en la Iniquidad:</strong> Noé es el único hombre que "halló gracia" y "caminó con Dios", reafirmando la piedad personal como el estándar de Dios.</li>
+    <li><strong>Obediencia Literal:</strong> La construcción del Arca (un proyecto masivo en tierra seca) es un acto de obediencia absoluta y fe en un juicio inminente.</li>
+    <li><strong>Conservación Divina:</strong> El mandato de preservar la vida animal para la nueva creación (una primitiva ley de conservación).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Humanidad Corrupta</h5>
+<ul>
+    <li><strong>Violencia Generalizada:</strong> La Tierra se llenó de "violencia" (Génesis 6:11), el desorden social era la norma.</li>
+    <li><strong>Matrimonios Mixtos:</strong> La unión de los "hijos de Dios" (a menudo interpretado como el linaje piadoso) y las "hijas de los hombres" (el linaje corrupto) conduce a la pérdida total de la santidad.</li>
+    <li><strong>Héroes de Renombre (Nephilim):</strong> El poder y el renombre se basaban en la fuerza física y la dominación, no en la moralidad.</li>
+    <li><strong>Falta de Arrepentimiento:</strong> La humanidad ignora la predicación y la advertencia implícita en la construcción del Arca.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Motivación de la Vida:</strong> Noé: Hacer todo "conforme a todo lo que Dios le mandó" | Mundo: Seguir todo "designio de los pensamientos de su corazón... solamente el mal".</li>
+    <li><strong>Estructura Social:</strong> Noé: Una familia gobernada por la palabra de Dios | Mundo: Gobernado por hombres fuertes y violentos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se establece el principio del Juicio Divino sobre la maldad persistente, pero también la Gracia que preserva un remanente fiel para continuar la línea de la humanidad.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo establece un principio teológico: la <span class="highlight">justicia divina</span> es inevitable ante la corrupción total, pero siempre se provee un camino de salvación (simbolizado en el arca).</p>
                 
@@ -501,6 +668,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Las Aguas:</strong> El poder destructor y renovador del agua</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: El Diluvio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Arca</h5>
+<ul>
+    <li><strong>Clasificación de Animales:</strong> Diferenciación entre animales "limpios" (siete pares, para sacrificio post-diluvio) y "no limpios" (un par). Una primitiva ley dietética/ritual.</li>
+    <li><strong>Separación del Mundo:</strong> El Arca es una unidad de vida aislada de la civilización, simbolizando la santidad y la separación del juicio.</li>
+    <li><strong>Dependencia Total:</strong> Noé y su familia sobreviven no por sus habilidades de navegación, sino por el cierre de la puerta por Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Descreencia</h5>
+<ul>
+    <li><strong>Indiferencia al Clima:</strong> La incredulidad en la advertencia de una inundación global en un mundo que probablemente no conocía la lluvia generalizada.</li>
+    <li><strong>Búsqueda de Refugio Terrenal:</strong> La humanidad confía en estructuras y fuerzas propias hasta el último momento, sin buscar la salvación divina.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Refugio:</strong> Noé: El Arca, construido por fe en la palabra de Dios | Mundo: Nada, por rechazo a la palabra de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La manifestación más dramática del Juicio Divino. El agua es tanto un instrumento de destrucción como de renovación, limpiando la Tierra para un nuevo comienzo.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Diluvio es un tipo de <span class="highlight">bautismo cósmico</span>, limpiando la tierra del mal. La salvación se obtiene únicamente por la fe y la obediencia (entrar en el arca según las instrucciones de Dios).</p>
                 
@@ -535,6 +727,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Promesa:</strong> Dios promete no volver a maldecir la tierra por causa del hombre</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Fin del Diluvio y Desembarco</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Nueva Tierra</h5>
+<ul>
+    <li><strong>Pruebas de la Tierra Seca:</strong> Uso de aves (cuervo y paloma) para determinar la habitabilidad de la Tierra. El uso de la rama de olivo como señal universal de nueva vida.</li>
+    <li><strong>El Altar y el Sacrificio:</strong> El primer acto de Noé al salir del Arca es construir un altar y ofrecer sacrificios de animales limpios. Esto reestablece el culto y la comunicación con Dios.</li>
+    <li><strong>El Sacrificio de "Aroma Grato":</strong> El sacrificio no es solo un rito, sino un medio para apaciguar la ira divina y un acto de adoración que agrada a Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Antiguos Sacrificios</h5>
+*Se anticipa el contraste con las prácticas sacrificiales que vendrían:*
+<ul>
+    <li><strong>Sacrificios Coercitivos:</strong> Realizados para forzar la mano de un dios o para negociar un resultado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito del Sacrificio:</strong> Noé: Gratitud y reestablecimiento de la relación | Pueblos: Apaciguar el miedo o buscar la bendición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Diluvio no curó la maldad inherente del corazón humano. El sacrificio de Noé provoca la promesa de Dios de no volver a maldecir la tierra, inaugurando una nueva era basada en la paciencia divina.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El final del Diluvio es un <span class="highlight">nuevo acto de creación</span>. Dios establece un principio de estabilidad en la naturaleza (sembrar y cosechar, frío y calor), garantizando la continuidad de la vida en la Tierra.</p>
                 
@@ -569,6 +786,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Profecía:</strong> La maldición de Canaán y la bendición de Sem y Jafet</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: El Pacto con Noé y la Ley Universal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley de Noé (Primer Pacto Universal)</h5>
+<ul>
+    <li><strong>Mandato Repetido:</strong> El primer mandamiento después de la Caída y el Diluvio es "Fructificad y multiplicaos".</li>
+    <li><strong>Dieta Ampliada:</strong> Se permite comer carne por primera vez, pero con la restricción de no comer la carne con su vida (su sangre).</li>
+    <li><strong>Principio de la Ley Civil:</strong> Se instituye la pena capital por el homicidio ("el que derramare sangre de hombre, por el hombre su sangre será derramada"), como protección de la imagen de Dios.</li>
+    <li><strong>El Pacto del Arco Iris:</strong> Dios unilateralmente establece una promesa de no volver a destruir la Tierra con agua. El arco iris es la señal visible de la fidelidad divina.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Vergüenza y la Maldición</h5>
+<ul>
+    <li><strong>Desprecio a la Autoridad Paterna:</strong> Cam deshonra a su padre, invadiendo su privacidad y exponiendo su desnudez (un acto de profunda irreverencia).</li>
+    <li><strong>Maldición Paterna:</strong> Noé, como jefe de familia, tiene la autoridad de pronunciar una maldición (sobre Canaán, el hijo de Cam), la cual se convierte en un destino profético.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Valor de la Vida:</strong> Ley de Noé: La vida humana es sagrada por ser hecha a imagen de Dios | Culturas: La vida tiene valor relativo, basado en el poder del individuo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La "Ley Noética" es la base moral de toda la humanidad (no solo de Israel). El capítulo muestra que incluso después de la limpieza, el pecado continúa inmediatamente, ahora a través de la ofensa sexual/familiar.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">arco iris</span> es un recordatorio visible de la fidelidad de Dios. El pacto de Noé establece las bases para la vida social, legal y dietética de toda la humanidad después del Diluvio.</p>
                 
@@ -603,6 +846,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Geografía Política:</strong> Define las fronteras étnicas conocidas por los israelitas</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: La Tabla de las Naciones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Genealogía Étnica</h5>
+<ul>
+    <li><strong>Estructura Geográfica:</strong> La genealogía es un mapa cultural, mostrando cómo las setenta naciones del mundo se dispersaron desde los tres hijos de Noé (Jafet, Cam, Sem).</li>
+    <li><strong>Diferenciación Lingüística:</strong> Se establece que la división de naciones está relacionada con la división de lenguas y territorios, incluso antes de Babel.</li>
+    <li><strong>La Fama de Nimrod:</strong> La fundación de reinos por un "cazador robusto" (Nimrod) en Mesopotamia (Babel, Nínive) indica el surgimiento de las primeras organizaciones políticas centralizadas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Primeros Imperios</h5>
+<ul>
+    <li><strong>Reyes y Fundadores:</strong> La construcción de ciudades y la centralización del poder bajo un rey individual (Nimrod) es la norma.</li>
+    <li><strong>Dominio Militar:</strong> Nimrod, un cazador (un hombre fuerte), utiliza su poder para establecer un imperio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Origen de las Naciones:</strong> Israel: Toda la humanidad desciende de Noé (unidad fundamental) | Culturas: Origen en diferentes dioses o héroes locales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo es crucial para el monoteísmo, pues afirma que todas las naciones (incluyendo a los enemigos de Israel) tienen un origen común, en contraste con los mitos que postulan orígenes raciales o divinos completamente distintos.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo afirma que toda la humanidad, a pesar de su diversidad, comparte una <span class="highlight">unidad genealógica</span> bajo la soberanía del Creador. Proporciona el trasfondo para entender las futuras interacciones de Israel con sus vecinos.</p>
                 
@@ -636,6 +904,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Genealogía:</strong> El enfoque narrativo se reduce al linaje de Sem, que lleva a Abram</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Babel y la Dispersión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Linaje de Sem</h5>
+<ul>
+    <li><strong>Linaje de la Promesa:</strong> El capítulo se centra en la genealogía de Sem hasta Taré y Abraham, asegurando la continuidad de la promesa divina a través de una línea específica.</li>
+    <li><strong>Migración:</strong> Taré y su familia migran de Ur de los caldeos (Mesopotamia, un centro politeísta) hacia Canaán, deteniéndose en Harán. Esto establece el patrón de la fe como un viaje.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Babel y la Arquitectura Sagrada</h5>
+<ul>
+    <li><strong>Uniformidad Lingüística:</strong> Se asume que la unidad de lenguaje contribuye a la unidad política y la soberbia.</li>
+    <li><strong>Construcción de Zigurats:</strong> La "torre" que llegaba al cielo es probablemente un *Zigurát* (Mesopotamia), una torre escalonada que servía de templo a los dioses y unía el cielo con la Tierra.</li>
+    <li><strong>Soberbia Humana:</strong> El objetivo de construir la torre era "hagámonos un nombre" y "no seamos dispersados," una rebelión directa contra el mandato de Dios de poblar la Tierra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Motivo de Construcción:</strong> Babel: Fama y autoglorificación humana, buscando unidad sin Dios | Israel: La vida es un peregrinaje y la gloria viene de Dios.</li>
+    <li><strong>Unidad:</strong> Babel: Impuesta por el lenguaje y la obra humana | Israel: Dada por el pacto con Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Babel marca el clímax de la rebelión posdiluviana, llevando a Dios a dispersar a las naciones. Este acto sienta las bases para la elección de un solo hombre (Abraham) para reencauzar el plan de Dios.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>Babel simboliza la <span class="highlight">futilidad del esfuerzo humano</span> en oposición a Dios. La genealogía final (versículos 10-32) reduce el foco de todo el mundo a un solo hombre, Abram, a través del cual Dios iniciará la redención.</p>
                 
@@ -671,6 +965,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Fracaso Humano:</strong> La mentira de Abram en Egipto (la primera de tres veces)</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Llamamiento de Abraham y el Pacto Terrenal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Peregrinaje de la Fe</h5>
+<ul>
+    <li><strong>Llamamiento Personal:</strong> El inicio de la religión patriarcal no es por herencia, sino por la vocación personal de Dios.</li>
+    <li><strong>Obediencia Migratoria:</strong> La fe se demuestra al abandonar la comodidad y la seguridad del clan familiar para ir a un lugar desconocido.</li>
+    <li><strong>Construcción de Altares:</strong> Abraham construye altares en Siquem y Bet-el, marcando los lugares como propiedad de Dios y centros de adoración. Esto establece la reclamación legal y espiritual de la Tierra.</li>
+    <li><strong>Descenso a Egipto:</strong> El hambre (hambruna) era una fuerza motriz de la migración en la Antigüedad, llevando a los clanes a Egipto, el "granero del mundo".</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias y de Canaán</h5>
+<ul>
+    <li><strong>Hospitalidad Obligatoria:</strong> El Faraón recibe a extranjeros importantes. Sin embargo, Abraham teme que lo maten para tomar a su mujer (un riesgo real en muchos reinos).</li>
+    <li><strong>Matrimonio y Riesgo:</strong> El engaño de Sara como "hermana" es un intento de convertir una potencial ejecución en un soborno nupcial (recibir regalos por la hermana).</li>
+    <li><strong>Poder del Faraón:</strong> El Faraón tenía la autoridad absoluta, incluso sobre la vida de los visitantes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Seguridad:</strong> Abraham: Descansa en la promesa y protección invisible de Dios | Egipto/Canaán: Seguridad depende de la fuerza militar y las alianzas políticas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este es el inicio del Pacto Abrahámico, la promesa de la Tierra, la simiente y la bendición. Se elige a un hombre para bendecir a todas las familias de la Tierra.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La historia de la salvación pasa de ser universal a ser <span class="highlight">particularizada</span> en Abram, un hombre de fe imperfecta. La bendición final es para todas las familias de la tierra, mostrando el alcance universal del plan de Dios.</p>
                 
@@ -704,6 +1025,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Adoración:</strong> Abram construye otro altar en Hebrón</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Separación de Lot y Prácticas Nómadas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Gestión de Recursos y Paz</h5>
+<ul>
+    <li><strong>Medida de Riqueza:</strong> La riqueza de Abraham y Lot se mide en rebaños, plata y oro (Génesis 13:2).</li>
+    <li><strong>Estructura del Clan:</strong> Los criados y pastores de los parientes a menudo competían por los pastos y el agua.</li>
+    <li><strong>Resolución de Conflictos:</strong> Abraham resuelve el conflicto interno cediendo el derecho a elegir la tierra a Lot, preservando la unidad familiar sobre la ganancia material.</li>
+    <li><strong>Reafirmación del Pacto:</strong> Tras la separación, Dios reafirma la promesa de la Tierra a Abraham y su descendencia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Ciudades-Estado</h5>
+<ul>
+    <li><strong>Asentamiento Urbano:</strong> Lot elige la llanura fértil cerca de Sodoma, buscando la comodidad y la riqueza de las ciudades, aunque eran famosas por su maldad.</li>
+    <li><strong>Riesgo Geográfico:</strong> Las ciudades cercanas a Sodoma y Gomorra vivían en un valle fértil, pero cerca del Mar Muerto y los depósitos de betún (asfalto), lo que implicaba un riesgo geológico.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Valoración:</strong> Abraham: Prioriza la paz y la relación con el familiar, confiando en la bendición de Dios | Lot: Prioriza la riqueza y la fertilidad visibles de la tierra, acércandose a la maldad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Muestra cómo las decisiones geográficas y de vida pueden llevar al pueblo de Dios a la influencia de la cultura pagana. La fe de Abraham se prueba con la generosidad.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo demuestra la <span class="highlight">generosidad y la paciencia</span> de Abram. La promesa de Dios no depende de las circunstancias terrenales, sino de su palabra, reafirmada después de la separación.</p>
                 
@@ -738,6 +1085,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Integridad:</strong> Abram se niega a tomar botín del rey de Sodoma</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Guerra de Reyes y Tributo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Héroe del Clan</h5>
+<ul>
+    <li><strong>Servicio Militar del Clan:</strong> Abraham moviliza a sus 318 criados nacidos en su casa para una misión de rescate. El clan tenía su propia fuerza militar.</li>
+    <li><strong>Botín de Guerra y Diezmo:</strong> Abraham rechaza todo el botín de Sodoma para evitar que el rey pagano diga: "Yo enriquecí a Abram." Muestra la dependencia exclusiva de Dios.</li>
+    <li><strong>El Diezmo a Melquisedec:</strong> El diezmo (décima parte) es una ofrenda voluntaria a un sacerdote-rey, reconociendo su autoridad superior.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra del Bronce Medio</h5>
+<ul>
+    <li><strong>Alianzas de Reyes:</strong> Las guerras eran comunes entre coaliciones de ciudades-estado por el control de rutas comerciales y recursos.</li>
+    <li><strong>Tributo/Vasalaje:</strong> Las ciudades derrotadas debían pagar un tributo anual al rey dominante (Sodoma y Gomorra a Quedorlaomer).</li>
+    <li><strong>Saqueo de Esclavos y Propiedades:</strong> El objetivo de la guerra era el saqueo de bienes y personas (Lot fue tomado como esclavo).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fin de la Guerra:</strong> Reyes: Conquistar, saquear y establecer dominio | Abraham: Rescatar al pariente, sin buscar el poder o el enriquecimiento personal.</li>
+    <li><strong>Sacerdocio:</strong> Melquisedec (Sacerdote del Dios Altísimo): Un orden sacerdotal diferente, superior y sin linaje registrado, que bendice a Abraham.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La aparición de Melquisedec, rey de Salem (paz), introduce un sacerdocio universal y eterno, anticipando a Cristo. La ética de Abraham rechaza la codicia del botín.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>Melquisedec es un <span class="highlight">precursor mesiánico</span> (luego citado en Salmo 110 y Hebreos), reconociendo la soberanía de Dios sobre el mundo. Abram se asegura de que su riqueza provenga de la bendición de Dios, no del rey impío de Sodoma.</p>
                 
@@ -771,6 +1145,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Promesa de la Tierra:</strong> Se define el territorio exacto de la promesa</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: El Pacto Formal (Berith)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sello de la Alianza</h5>
+<ul>
+    <li><strong>El Pacto por Hijos:</strong> El principal problema de Abraham es la ausencia de un heredero legítimo ("el mayordomo de mi casa será mi heredero").</li>
+    <li><strong>El Ritual del Pacto (Berith):</strong> El ritual de pasar entre las mitades de los animales sacrificados (Génesis 15:17) era un rito legal mesopotámico. Significaba: "Que esto me suceda si rompo este pacto".</li>
+    <li><strong>El Pacto Unilateral:</strong> Solo Dios (simbolizado por el horno humeante y la antorcha encendida) pasa entre las mitades, indicando que el cumplimiento del pacto es responsabilidad exclusiva de Dios.</li>
+    <li><strong>La Fe como Justicia:</strong> La creencia en la palabra de Dios, a pesar de la evidencia física (esterilidad), se declara como el acto supremo de rectitud (*tsedeq*).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Herencia Asiria/Hitita</h5>
+<ul>
+    <li><strong>Adopción de Siervos:</strong> En algunas culturas de la época (ej. Nuzi), un hombre sin hijos podía adoptar un siervo (*Eliezer*) para que fuera su heredero, quien se casaría con una hija del amo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Naturaleza del Pacto:</strong> Israel: Basado en la promesa incondicional de Dios | Culturas: Basado en las obligaciones mutuas y las bendiciones/maldiciones condicionales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este es el capítulo fundacional de la teología bíblica: la salvación/justicia es por la fe, no por las obras. El sueño profundo de Abraham simboliza la incapacidad humana para contribuir al pacto.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El versículo 6 es fundamental: la <span class="highlight">justificación por la fe</span>. El pacto es enteramente un acto de gracia de Dios, que se compromete incondicionalmente a cumplir su promesa a Abram y su descendencia.</p>
                 
@@ -806,6 +1205,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Línea No Elegida:</strong> Dios bendice a Ismael, pero él no es el hijo de la promesa</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Subrogación y Matrimonio por Sierva</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Matrimonio Patriarcal</h5>
+<ul>
+    <li><strong>Acuerdo Matrimonial:</strong> Sara da a su sierva Agar a Abraham para que le dé un heredero. Esto era una práctica legal reconocida en la antigua Mesopotamia (Códigos de Hammurabi y Nuzi).</li>
+    <li><strong>El Niño como Heredero de la Esposa Principal:</strong> El niño nacido de la sierva era legalmente considerado hijo de la esposa principal (Sara).</li>
+    <li><strong>Trato a la Sierva:</strong> Una vez concebido, la sierva no tenía derecho a despreciar a su ama, quien aún tenía autoridad sobre ella.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Derecho de Propiedad</h5>
+<ul>
+    <li><strong>Derecho de la Esposa:</strong> Las leyes de Nuzi estipulaban que si la esposa no daba un hijo, ella tenía el deber de proveer una sierva para este propósito.</li>
+    <li><strong>Servidumbre Permanente:</strong> Los siervos/esclavos eran propiedad y estaban sujetos al trato de sus amos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Intervención Divina:</strong> Agar, la esclava, es visitada y consolada directamente por el Ángel del Señor. Dios se revela a la persona marginal, llamándola por su nombre.</li>
+    <li><strong>Nombre de Dios:</strong> Agar nombra a Dios **El-Roi** ("Dios que me ve"), una revelación de la compasión divina.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo muestra la tensión entre la fe impaciente (Sara interviene con un arreglo cultural) y el cumplimiento de la promesa divina. El arreglo produce un conflicto inmediato.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La historia de Agar muestra que los esfuerzos humanos para asegurar las promesas divinas a menudo conducen a la <span class="highlight">discordia y el sufrimiento</span>. Dios, sin embargo, ve y escucha a los marginados (el nombre Ismael significa "Dios oye").</p>
                 
@@ -840,6 +1265,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Promesa de Isaac:</strong> Se nombra al verdadero hijo de la promesa ("Isaac" significa "él ríe")</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: El Sello de la Alianza y la Circuncisión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Nuevo Pacto y Nombre</h5>
+<ul>
+    <li><strong>Cambio de Nombre:</strong> Dios cambia el nombre de "Abram" (padre enaltecido) a **Abraham** (padre de multitudes) y "Sarai" (mi princesa) a **Sara** (princesa). El cambio de nombre marca un nuevo destino y una nueva identidad.</li>
+    <li><strong>La Circuncisión (Brit Milá):</strong> La señal física, dolorosa e irreversible del pacto, aplicada a todos los varones del clan, incluyendo a los siervos. Es lo que distingue al pueblo de Dios de todas las demás naciones.</li>
+    <li><strong>Pacto a las Generaciones:</strong> La circuncisión debe realizarse al octavo día de nacido, asegurando que la alianza sea para la descendencia y no solo para la generación actual.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Circuncisión en la Antigüedad</h5>
+<ul>
+    <li><strong>Ritual de Madurez:</strong> La circuncisión era practicada por otros pueblos (egipcios, moabitas, amonitas), pero típicamente como un rito de iniciación a la edad adulta o antes del matrimonio.</li>
+    <li><strong>Motivación Ritual:</strong> En otras culturas, era un rito de fertilidad o un marcador tribal, no un sello de pacto teológico.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Significado de la Circuncisión:</strong> Israel: Sello del pacto de fe, hecho a los niños como señal de la promesa | Culturas: Rito de paso a la edad adulta.</li>
+    <li><strong>Dios Revelado:</strong> Se revela el nombre **El-Shaddai** ("Dios Todopoderoso"), enfatizando Su poder para cumplir la promesa de un hijo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El pacto pasa de ser solo verbal (Génesis 15) a ser físico e ineludible (Génesis 17). La risa escéptica de Abraham muestra la dificultad de creer en la promesa de Sara a su edad.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cambio de nombre de Abram a Abraham es la <span class="highlight">confirmación de la identidad</span> y el destino. La circuncisión simboliza la dedicación y purificación requeridas para entrar en el pacto de Dios.</p>
                 
@@ -874,6 +1325,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Intercesión:</strong> Abraham negocia audazmente por la vida de los justos en Sodoma</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Hospitalidad y Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Hospitalidad Nómade</h5>
+<ul>
+    <li><strong>Hospitalidad como Deber Sagrado:</strong> Abraham corre a ofrecer descanso, agua y una comida copiosa (pan, ternera, leche, mantequilla) a los tres visitantes desconocidos. La hospitalidad era una cuestión de honor y supervivencia en el desierto.</li>
+    <li><strong>Comida Ritual:</strong> El anfitrión permanece de pie mientras los invitados comen. Era un honor servir personalmente.</li>
+    <li><strong>Intercesión:</strong> La oración de Abraham por Sodoma es el ejemplo supremo de intercesión, buscando la misericordia de Dios basada en la justicia de encontrar un número mínimo de justos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Inmoralidad y la Indiferencia</h5>
+<ul>
+    <li><strong>Indiferencia al Pacto:</strong> Sara se ríe interiormente de la promesa, un eco de la risa de Abraham, pero es confrontada por Dios.</li>
+    <li><strong>Destrucción de Ciudades:</strong> El anuncio de que Dios está "descendiendo" para ver si el clamor sobre Sodoma es verdadero, indica un juicio divino, no solo una guerra o un desastre natural.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Trato al Viajero:</strong> Israel: Ofrenda de lo mejor, protección y reverencia (el "ángel" podía ser Dios mismo) | Pueblos: Explotación y hostilidad (anticipo de Sodoma).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La manifestación de Dios a Abraham bajo la forma de un viajero subraya la importancia teológica de la hospitalidad. El diálogo de intercesión redefine la justicia de Dios como no solo punitiva, sino misericordiosa si hay un remanente justo.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">intercesión de Abraham</span> establece el modelo para el rol del pueblo de Dios como mediador. Dios valora la justicia y escucha la oración ferviente por aquellos que están en peligro de juicio.</p>
                 
@@ -909,6 +1385,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Orígenes (Etiología):</strong> El origen de los pueblos Moabitas y Amonitas (a través de las hijas de Lot)</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: El Juicio de Sodoma y la Incesto Familiar</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Salvación por el Remanente</h5>
+<ul>
+    <li><strong>Hospitalidad de Lot:</strong> Lot insiste en proteger a los huéspedes, un eco de la hospitalidad de Abraham. Esto es su último acto de rectitud.</li>
+    <li><strong>Promesa de Rescate:</strong> Los ángeles (o mensajeros divinos) rescatan a Lot y su familia, pero la salvación requiere obediencia (no mirar atrás).</li>
+    <li><strong>La Paternidad del Incesto:</strong> Lot y sus hijas (tras la destrucción) tienen hijos. Esto explica el origen de los enemigos de Israel: **Moab** (de los moabitas) y **Ben-Ammi** (de los amonitas).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Sodoma (Inversión de la Hospitalidad)</h5>
+<ul>
+    <li><strong>Violación de la Hospitalidad:</strong> La demanda de los hombres de Sodoma de violar a los invitados de Lot es la peor forma de desprecio a la ley sagrada de la hospitalidad.</li>
+    <li><strong>Inmoralidad Sexual:</strong> La práctica del vicio sexual desenfrenado (homosexualidad forzada y grupal) como manifestación de la maldad total de la ciudad.</li>
+    <li><strong>Castigo Divino:</strong> La destrucción por fuego y azufre se corresponde con la geología local, pero es interpretada como un castigo divino.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ética Sexual:</strong> Israel (eventual): Sexualidad confinada al matrimonio monógamo | Sodoma: La sexualidad se usa para dominar, humillar y violentar.</li>
+    <li><strong>Familia:</strong> Lot: Lucha por proteger a sus hijas de la violación | Incesto: La solución desesperada de las hijas para asegurar la descendencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Sodoma es un ejemplo permanente del juicio sobre la maldad extrema y la falta de hospitalidad. El incesto final subraya que el linaje de Lot no puede ser el linaje de la promesa.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>Sodoma sirve como un <span class="highlight">ejemplo eterno</span> del juicio de Dios contra la rebelión moral extrema. El rescate de Lot es un recordatorio de que Dios recuerda su pacto y rescata a los justos.</p>
                 
@@ -944,6 +1447,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reconciliación:</strong> Abraham ora por Abimelec y Dios sana a su casa</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Abraham y Abimelec (Gerar)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Clan en el Exilio</h5>
+<ul>
+    <li><strong>El Engaño Repetido:</strong> Abraham repite el engaño de Sara como su "hermana" (esta vez, una media hermana real), mostrando la debilidad humana persistente, incluso después del pacto.</li>
+    <li><strong>Oración y Sanación:</strong> Abraham es reivindicado como profeta (Génesis 20:7) y su oración es eficaz para sanar a Abimelec y su casa.</li>
+    <li><strong>Regalos Reales:</strong> Abimelec compensa a Abraham con ovejas, ganado, siervos y plata, lo que aumenta la riqueza del patriarca y legitima su presencia en la tierra.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Rey de Gerar (Filisteos)</h5>
+<ul>
+    <li><strong>Rey Abimelec:</strong> Representa una autoridad real más justa y moral que la de Sodoma. Actúa por "integridad de corazón" (Génesis 20:5) al tomar a Sara.</li>
+    <li><strong>Sueño Divino:</strong> Dios interviene a través de los sueños (un medio de revelación común en la Antigüedad) para comunicarse con el rey pagano.</li>
+    <li><strong>Leyes de Exogamia:</strong> Abimelec teme el pecado de adulterio, lo que demuestra un código moral (aunque incompleto) en el mundo pagano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Moralidad del Liderazgo:</strong> Abraham: Muestra una fe defectuosa al mentir por miedo | Abimelec: Muestra más integridad moral al obedecer a un dios desconocido a través de un sueño.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios protege a Su promesa y a Su pueblo a pesar de los errores de ellos. Afirma que el don profético de Abraham lo distingue, incluso en el error.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo muestra que la <span class="highlight">fidelidad de Dios</span> es inmutable, incluso cuando su pueblo (Abraham) es infiel. Dios protege su promesa a pesar de los errores humanos.</p>
                 
@@ -978,6 +1507,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paz:</strong> El pacto de Beerseba establece un límite pacífico</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Nacimiento de Isaac y Expulsión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Legitimidad y el Destete</h5>
+<ul>
+    <li><strong>El Nacimiento del Heredero:</strong> El nacimiento de Isaac ("Risa") cumple la promesa del pacto de forma milagrosa.</li>
+    <li><strong>La Fiesta del Destete:</strong> Celebración importante de la infancia, marcando el fin de la dependencia de la leche materna. Era un momento de reconocimiento público del estatus del niño (Isaac).</li>
+    <li><strong>Expulsión de la Sierva:</strong> Sara exige la expulsión de Agar e Ismael. La burla de Ismael (un niño de 14-15 años, según la cronología) al heredero legítimo era una amenaza a la herencia.</li>
+    <li><strong>Adquisición de Pozos:</strong> Abraham establece legalmente un pozo en Beerseba con Abimelec, dando siete ovejas como testimonio de la propiedad. El control de los pozos (agua) era vital en el desierto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Herencia Asiria/Babilónica</h5>
+<ul>
+    <li><strong>Derecho de Expulsión:</strong> El derecho de la esposa principal de expulsar a la concubina y a sus hijos era legalmente reconocido, especialmente si el niño de la sierva desafiaba la primogenitura del heredero.</li>
+    <li><strong>Disputas por Pozos:</strong> Las disputas por los pozos de agua eran el conflicto más común entre clanes nómadas y semi-nómadas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Protección del Heredero:</strong> Isaac, el hijo de la promesa, debe ser protegido de la ambición. Dios asegura que Ismael también tendrá un linaje y bendición, pero no el pacto.</li>
+    <li><strong>Dios Proveedor:</strong> Dios provee agua milagrosamente para Agar e Ismael en el desierto, reafirmando que no abandona a los que están fuera del pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La soberanía de Dios se manifiesta en el cumplimiento de la promesa a pesar de la edad de Sara. La separación del linaje de Isaac (pacto) y el linaje de Ismael (el desierto) es fundamental.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>Isaac representa la <span class="highlight">libertad y la gracia</span> (el hijo de la promesa), mientras que Ismael representa el esfuerzo humano (la esclavitud a la ley), según la interpretación posterior de Pablo (Gálatas 4).</p>
                 
@@ -1012,6 +1568,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Renovación del Pacto:</strong> Dios reafirma solemnemente la promesa de bendición</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: El Sacrificio de Isaac y el Monte Moriah</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Fe Pura</h5>
+<ul>
+    <li><strong>La Prueba:</strong> Dios pone a prueba la fe de Abraham pidiéndole el sacrificio de su único hijo de la promesa.</li>
+    <li><strong>Lugar de Culto:</strong> El Monte Moriah se convierte en un lugar sagrado. Más tarde, el Templo de Jerusalén se construiría cerca de este lugar.</li>
+    <li><strong>El Sacrificio Sustitutivo:</strong> Dios provee un carnero enredado en un zarzal para el sacrificio, reafirmando el principio del sacrificio animal en lugar del humano.</li>
+    <li><strong>El Juramento Divino:</strong> Dios jura por Sí mismo, un juramento legal que da la máxima certeza al pacto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Sacrificios Humanos</h5>
+<ul>
+    <li><strong>Sacrificio de Primogénitos:</strong> Los pueblos vecinos (moabitas, cananeos) practicaban el sacrificio de niños primogénitos (especialmente en crisis) como la ofrenda máxima a sus dioses (ej. Moloc) para asegurar bendiciones o ganar guerras.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Requisito del Sacrificio:</strong> Israel: Dios prohíbe el sacrificio humano y provee el sustituto | Enemigos: Los dioses exigen vidas humanas (primogénitos).</li>
+    <li><strong>Nombre de Dios:</strong> Se revela **Jehová-Jireh** ("El Señor Proveerá"), enfatizando la provisión de Dios en el momento de la necesidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo es el punto de inflexión. Dios prueba si Abraham está dispuesto a entregar la promesa y prohíbe la práctica más atroz de los paganos, sentando la base moral de Israel.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo es un tipo o <span class="highlight">símbolo profético</span> de la redención futura: Dios, en última instancia, proveería a su propio hijo (Jesús) como sacrificio.</p>
                 
@@ -1045,6 +1627,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Honra:</strong> Abraham es respetado como "príncipe de Dios"</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Entierro y Transacciones de Tierra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Entierro y la Propiedad</h5>
+<ul>
+    <li><strong>Luto y Sepultura:</strong> Sara muere a los 127 años. El luto era un proceso público y solemne.</li>
+    <li><strong>Adquisición Legal de Tierras:</strong> Abraham, aunque ya tenía la promesa de la tierra, insiste en comprar el campo de Efrón a los hititas para la tumba familiar.</li>
+    <li><strong>Transacción en la Puerta de la Ciudad:</strong> Las transacciones legales y los negocios se realizaban públicamente en la puerta de la ciudad, ante testigos, para garantizar la validez.</li>
+    <li><strong>La Cueva de Macpela:</strong> Se convierte en el primer centro de propiedad legal en Canaán y el lugar de entierro de los Patriarcas, cimentando el reclamo a la Tierra.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Hititas (Hijos de Het)</h5>
+<ul>
+    <li><strong>Regateo Formal:</strong> Efrón insiste en "regalar" la tierra, para luego exigir un precio exagerado, que se pagaba inmediatamente con plata.</li>
+    <li><strong>Pago de Plata:</strong> Se pesa la plata para asegurar la honestidad de la transacción (400 siclos de plata, una suma considerable).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Posesión de la Tierra:</strong> Israel: Posee la tierra por promesa, pero la adquisición legal por compra (sin guerra) subraya la fe en la herencia futura. | Hititas: Basado en el derecho de residencia y el poder económico.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El acto de comprar la cueva es una declaración de fe: el patriarca es un extranjero, pero está estableciendo su derecho de entierro en la Tierra Prometida.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La cueva de Macpela se convierte en el lugar de entierro de los patriarcas, simbolizando que, aunque vivieron como extranjeros, su <span class="highlight">identidad y destino</span> están intrínsecamente ligados a la tierra prometida.</p>
                 
@@ -1079,6 +1687,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Rol de la Mujer:</strong> Rebeca debe consentir en ir</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Matrimonio por Arreglo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Casamiento del Heredero</h5>
+<ul>
+    <li><strong>Juramento:</strong> El siervo principal jura poniendo la mano bajo el muslo de Abraham (un juramento formal y solemne).</li>
+    <li><strong>Matrimonio Endogámico:</strong> Se insiste en casar al heredero (Isaac) con alguien del clan de Abraham en Mesopotamia (su tierra natal) para preservar la pureza de la línea de la promesa.</li>
+    <li><strong>Señales Divinas:</strong> La oración por una "señal" específica (que la mujer ofrezca agua tanto a él como a sus camellos) es una forma de buscar la dirección divina en una decisión vital.</li>
+    <li><strong>Dote y Regalos Nupciales:</strong> El siervo presenta joyas de oro y plata (anillo de nariz, pulseras) a Rebeca y regalos a su familia. La dote sellaba el compromiso.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Familia Mesopotámica</h5>
+<ul>
+    <li><strong>Autoridad Paterna:</strong> El padre y el hermano (Labán) tenían la autoridad legal para negociar y aprobar el matrimonio.</li>
+    <li><strong>Consentimiento de la Novia:</strong> Aunque el matrimonio era arreglado, se le preguntó a Rebeca si quería ir con el siervo, indicando un grado de consentimiento personal.</li>
+    <li><strong>Velo Nupcial:</strong> Rebeca se cubre el rostro con el velo al ver a Isaac, una señal de respeto y sumisión al futuro esposo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fuente de la Decisión:</strong> Abraham: Confía en que el Ángel del Señor guiará la búsqueda (intervención divina) | Clan de Labán: Busca la confirmación de la voluntad humana y los beneficios materiales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este es un modelo de obediencia a la promesa, donde cada paso (la misión, la oración, la señal) se guía por la fe en la Providencia, asegurando la continuidad de la línea mesiánica.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La historia ejemplifica cómo la <span class="highlight">providencia de Dios</span> guía los asuntos humanos, especialmente aquellos relacionados con la continuación del pacto. El encuentro de Isaac y Rebeca es un modelo de matrimonio divinamente ordenado.</p>
                 
@@ -1112,6 +1747,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Primogenitura:</strong> Esaú vende su derecho de primogenitura por un plato de lentejas (muestra su falta de valor espiritual)</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Muerte de Abraham y Primogenitura</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Herencia y el Entierro</h5>
+<ul>
+    <li><strong>Regalos a Concubinas:</strong> Abraham se casa con Cetura (y tiene más hijos), pero da regalos a estos hijos y los envía lejos para asegurar que Isaac sea el **único** heredero del pacto.</li>
+    <li><strong>Entierro Patriarcal:</strong> Isaac e Ismael se unen para enterrar a su padre en la Cueva de Macpela, mostrando el respeto familiar, a pesar de la separación de los linajes.</li>
+    <li><strong>Primogenitura (Derecho de Nacimiento):</strong> El primogénito (Esaú) tenía derecho a una doble porción de la herencia y el liderazgo espiritual/familiar.</li>
+    <li><strong>El Guiso de Lentejas:</strong> La venta de la primogenitura por comida es un acto legalmente vinculante, aunque muestra el desprecio de Esaú por su herencia espiritual.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Tribu</h5>
+<ul>
+    <li><strong>Estilos de Vida Opuestos:</strong> Esaú es un cazador del campo (un estilo más salvaje/libre), mientras que Jacob es un hombre quieto, que habita en tiendas (un estilo sedentario/pastor).</li>
+    <li><strong>Vínculo con la Comida:</strong> La fuerte conexión entre el hombre del campo/cazador y la satisfacción inmediata del hambre.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Valoración de la Herencia:</strong> Isaac/Jacob: Valora la primogenitura como un tesoro espiritual y legal (futuro) | Esaú: La desprecia por una satisfacción inmediata (presente).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La venta de la primogenitura es el rechazo legal y moral de Esaú a su posición en la línea del pacto, que es transferida a Jacob. Esto sienta las bases para el conflicto de las dos naciones (Edom e Israel).
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El contraste entre Jacob y Esaú subraya el principio de que la elección de Dios no se basa en el mérito humano (ser el primero o el más fuerte), sino en la <span class="highlight">soberana voluntad divina</span> ("al mayor servirá el menor").</p>
                 
@@ -1146,6 +1807,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pacto de Paz:</strong> Isaac hace un pacto con Abimelec en Beerseba</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Isaac y el Pacto Reafirmado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto de Isaac</h5>
+<ul>
+    <li><strong>El Hambre y la Migración:</strong> Isaac se mueve a Gerar por el hambre (como Abraham), pero Dios le prohíbe ir a Egipto, obligándolo a permanecer en Canaán para cumplir el pacto.</li>
+    <li><strong>Reafirmación de la Promesa:</strong> Dios se aparece a Isaac y le reitera el Pacto Abrahámico de la tierra y la descendencia, demostrando que la alianza no murió con Abraham.</li>
+    <li><strong>Resolución de Conflictos de Agua:</strong> Isaac desentierra y nombra los pozos de su padre, un acto de reafirmación de su derecho territorial. Los conflictos por los pozos (contienda, enemistad) se resuelven a través de la paciencia hasta alcanzar el lugar de la paz (Rehobot).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Engaño y la Prostitución Pagana</h5>
+<ul>
+    <li><strong>Engaño Repetido:</strong> Isaac repite el engaño de su padre, diciendo que Rebeca es su hermana, por miedo a ser asesinado por el rey filisteo.</li>
+    <li><strong>Fertilidad Pagana:</strong> Las mujeres filisteas se casan con hititas. Esto resulta en dolor para Rebeca, ya que estas nueras paganas traen costumbres ajenas al clan.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Protección Divina:</strong> Isaac es protegido directamente, a diferencia de Abraham, donde el Faraón se entera por plagas. Dios asegura la bendición sobre Isaac, a pesar de su falta de fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se establece que Dios es el "Dios de Isaac" tanto como el "Dios de Abraham". La bendición divina se manifiesta en la prosperidad extrema (*"al ciento por uno"*), incluso entre la hostilidad filistea.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad de Dios</span> es evidente, ya que renueva el pacto de forma incondicional con Isaac. Dios protege al portador de la promesa a pesar de su debilidad e incredulidad.</p>
                 
@@ -1181,6 +1867,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Elección Divina:</strong> El propósito de Dios (el mayor servirá al menor) se cumple</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Isaac y el Pacto Reafirmado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto de Isaac</h5>
+<ul>
+    <li><strong>El Hambre y la Migración:</strong> Isaac se mueve a Gerar por el hambre (como Abraham), pero Dios le prohíbe ir a Egipto, obligándolo a permanecer en Canaán para cumplir el pacto.</li>
+    <li><strong>Reafirmación de la Promesa:</strong> Dios se aparece a Isaac y le reitera el Pacto Abrahámico de la tierra y la descendencia, demostrando que la alianza no murió con Abraham.</li>
+    <li><strong>Resolución de Conflictos de Agua:</strong> Isaac desentierra y nombra los pozos de su padre, un acto de reafirmación de su derecho territorial. Los conflictos por los pozos (contienda, enemistad) se resuelven a través de la paciencia hasta alcanzar el lugar de la paz (Rehobot).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Engaño y la Prostitución Pagana</h5>
+<ul>
+    <li><strong>Engaño Repetido:</strong> Isaac repite el engaño de su padre, diciendo que Rebeca es su hermana, por miedo a ser asesinado por el rey filisteo.</li>
+    <li><strong>Fertilidad Pagana:</strong> Las mujeres filisteas se casan con hititas. Esto resulta en dolor para Rebeca, ya que estas nueras paganas traen costumbres ajenas al clan.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Protección Divina:</strong> Isaac es protegido directamente, a diferencia de Abraham, donde el Faraón se entera por plagas. Dios asegura la bendición sobre Isaac, a pesar de su falta de fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se establece que Dios es el "Dios de Isaac" tanto como el "Dios de Abraham". La bendición divina se manifiesta en la prosperidad extrema (*"al ciento por uno"*), incluso entre la hostilidad filistea.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo demuestra que la <span class="highlight">soberanía de Dios</span> es suprema: Él puede usar incluso el pecado y el error humano para cumplir sus propósitos. Sin embargo, el engaño trae dolorosas consecuencias.</p>
                 
@@ -1214,6 +1925,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exilio:</strong> El período de formación y maduración de Jacob lejos de Canaán</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Huida y Visión del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Viajero y el Voto</h5>
+<ul>
+    <li><strong>Exogamia Prohibida:</strong> Isaac prohíbe a Jacob casarse con las hijas de Canaán (como lo hicieron las esposas hititas de Esaú), forzándolo a casarse con el clan de Abraham en Padán-aram.</li>
+    <li><strong>Sueño como Revelación:</strong> La visión de la escalera (la conexión cielo-tierra) en Bet-el es la forma en que Dios se revela al viajero solitario.</li>
+    <li><strong>Pacto de Voto (Votum):</strong> Jacob establece una columna de piedra (un **Massebah**) y derrama aceite sobre ella, consagrándola. El voto es un compromiso de fidelidad y diezmo (décima parte) a cambio de la protección divina en el camino.</li>
+    <li><strong>Cambio de Nombre del Lugar:</strong> De Luz a **Bet-el** ("Casa de Dios"), marcando un lugar sagrado y de encuentro con lo divino.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Santuario Pagano</h5>
+<ul>
+    <li><strong>Piedras de Culto:</strong> La colocación de piedras sagradas (massebah) era común en Canaán, a menudo asociadas a deidades locales o espíritus de la fertilidad.</li>
+    <li><strong>Ritual de Aceite:</strong> Derramar aceite sobre un monumento era un acto de consagración pagana, pero Jacob lo redefine bajo el pacto de Yahvé.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito del Voto:</strong> Jacob: Un compromiso condicional de obediencia a Dios que lo guíe y lo proteja | Paganismo: Para asegurar la bendición de un dios territorial.</li>
+    <li><strong>Revelación Divina:</strong> Dios se revela a Jacob como el "Dios de Abraham y el Dios de Isaac," vinculando la promesa al heredero fugitivo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Jacob, un fugitivo que robó la bendición, recibe la promesa del pacto de forma incondicional. El encuentro en Bet-el le da la seguridad y la misión de su vida.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El sueño de la escalera afirma que Dios no está limitado a Canaán y que ha establecido un <span class="highlight">puente de comunicación</span> con Jacob (y con la humanidad). La huida de Jacob se convierte en un encuentro sagrado.</p>
                 
@@ -1249,6 +1987,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Maternidad:</strong> Dios "abre el vientre" de Lía y la consuela</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Matrimonio, Engaño y Servicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Noviazgo y el Trabajo por la Esposa</h5>
+<ul>
+    <li><strong>Prueba de la Fuerza:</strong> Jacob demuestra su fuerza moviendo la gran piedra del pozo. El control de los pozos de agua en Harán era comunitario y requería esfuerzo.</li>
+    <li><strong>Beso de Bienvenida:</strong> El beso era una señal de reconocimiento familiar.</li>
+    <li><strong>Trabajo por la Dote:</strong> Jacob trabaja siete años para Labán por Raquel. Esto era una forma de "dote laboral" en lugar de un pago en plata.</li>
+    <li><strong>Leyes de Primacía Matrimonial:</strong> Labán exige que la hija mayor, Lea, se case primero, citando una "costumbre del lugar" para justificar su engaño.</li>
+    <li><strong>Semana de Fiesta Nupcial:</strong> Las bodas se celebraban con una semana de festejos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Mesopotamia (Harán/Labán)</h5>
+<ul>
+    <li><strong>Engaño y Manipulación:</strong> Labán es el maestro del engaño, pagando a Jacob con la hija equivocada. La astucia era un valor en esta cultura.</li>
+    <li><strong>Matrimonio con Hermanas:</strong> El matrimonio con dos hermanas (Lea y Raquel) era una práctica rara y a menudo condenada, pero aquí se justifica por el engaño.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Engañador Engañado:</strong> Jacob (el engañador) es engañado por Labán. Esto es un castigo poético por el robo de la bendición.</li>
+    <li><strong>La Bendición y la Esterilidad:</strong> Dios interviene y bendice a la "aborrecida" Lea con hijos, mientras que la "amada" Raquel es estéril temporalmente, mostrando que Dios controla la fertilidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El conflicto entre las dos esposas es la fuente inmediata de las 12 tribus. Dios usa la fe (aunque imperfecta) de Lea, quien nombra a sus hijos en honor a la bondad de Dios.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La rivalidad entre Lía y Raquel subraya que Dios puede obrar y cumplir su promesa de <span class="highlight">descendencia numerosa</span> incluso a través de las relaciones familiares más imperfectas y dolorosas.</p>
                 
@@ -1282,6 +2048,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Enriquecimiento:</strong> Jacob negocia ingeniosamente para enriquecerse con el ganado de Labán</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Más Hijos y Estrategias Nupciales</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Competencia y la Subrogación</h5>
+<ul>
+    <li><strong>Rivalidad Matrimonial:</strong> Las esposas compiten por el amor de Jacob y por darle hijos, ya que el estatus social y la importancia de la mujer se medían por la descendencia.</li>
+    <li><strong>Subrogación Repetida:</strong> Raquel (estéril) y Lea (que dejó de dar a luz) usan a sus siervas (Bilhá y Zilpa) para tener hijos en su nombre. Los hijos nacidos eran legalmente de la esposa principal.</li>
+    <li><strong>Mandraques (Dudaím):</strong> Raquel usa los mandrágoras (frutos con supuestas propiedades afrodisíacas o para la fertilidad) de Lea para "comprar" una noche con Jacob. Muestra la mezcla de fe y superstición.</li>
+    <li><strong>Estipulación Laboral:</strong> Jacob y Labán acuerdan un nuevo sistema de pago: Jacob se queda con todo el ganado manchado, rayado o de color oscuro.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Brujería y el Ganado</h5>
+<ul>
+    <li><strong>Creencias Folclóricas:</strong> El uso de mandrágoras es un reflejo de las creencias paganas de la época sobre la fertilidad.</li>
+    <li><strong>Manipulación del Ganado:</strong> La estrategia de Jacob de usar varas peladas frente al agua donde bebían los animales es una técnica folclórica de la época, que la Biblia atribuye al plan de Dios para bendecirlo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fuente de la Riqueza:</strong> Labán: Usa el engaño y el salario injusto | Jacob: Confía en la justicia de Dios, quien interviene en el sistema de reproducción del ganado para enriquecerlo.</li>
+    <li><strong>El Poder de Nombrar:</strong> Las esposas nombran a sus hijos con nombres que reflejan su gratitud a Dios (ej. Judá: "Alabaré a Jehová"), incluso en medio de la rivalidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios demuestra Su soberanía al construir el pueblo de Israel (las 12 tribus) a través de los celos, la manipulación y los acuerdos humanos. La fe de Lea en nombrar a sus hijos es el punto culminante de la fe en este capítulo.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>A pesar del caos, el egoísmo y la superstición (las mandrágoras), Dios estaba <span class="highlight">supervisando el proceso</span> para construir las "doce tribus" y cumplir la promesa de una gran nación.</p>
                 
@@ -1316,6 +2109,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Pacto de Atalaya:</strong> Labán y Jacob hacen un pacto de no agresión (Mizpa)</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Huida y los Terafim</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Clan de Jacob</h5>
+<ul>
+    <li><strong>El Servicio Compensado:</strong> Jacob recibe el ganado manchado y rayado como su pago, una forma de salario estipulado que luego Dios usa para bendecirlo.</li>
+    <li><strong>El Juramento por Dios:</strong> Jacob jura por el "Dios de su padre Isaac" (El Pavor de Isaac), diferenciando su deidad del dios(es) de Labán.</li>
+    <li><strong>El Mojón de Testimonio:</strong> La creación del montón de piedras (**Galeed**) y del pilar (**Mitzpa**) como testimonio legal de la alianza y el límite entre dos clanes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Mesopotamia (Labán)</h5>
+<ul>
+    <li><strong>Los Terafim (Ídolos Domésticos):</strong> Raquel roba los ídolos de la casa de su padre. En la cultura Nuzi, estos ídolos podían ser títulos legales de propiedad o el derecho del poseedor a heredar.</li>
+    <li><strong>Búsqueda y Acusación:</strong> Labán persigue a Jacob para recuperar los ídolos, pues su posesión era un asunto de herencia y legitimidad familiar.</li>
+    <li><strong>El Engaño en la Mesa:</strong> Labán usa el conocimiento de su hija (que está en su período menstrual, o *costumbre de mujeres*) para evitar ser descubierto, mostrando la superstición de la época.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Herencia:</strong> Jacob: Basada en el pacto y la bendición de Dios | Labán: Basada en la posesión de ídolos y títulos de propiedad terrenales.</li>
+    <li><strong>Deidad:</strong> Jacob: Un Dios invisible y pactal | Labán: Dioses asociados a imágenes y objetos físicos (teraflm).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La soberanía de Dios se manifiesta en la protección de Jacob contra el engaño de Labán (que cambió su salario diez veces). El episodio del robo de Raquel subraya la mezcla de Jacob con prácticas paganas.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo muestra que Dios actúa como <span class="highlight">Juez y Protector</span> de Jacob contra la explotación. El pacto de Galaad establece la paz, permitiendo a Jacob regresar a la Tierra Prometida.</p>
                 
@@ -1350,6 +2170,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Cojo:</strong> La lesión de Jacob como marca permanente de su encuentro con Dios</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Encuentro con Esaú y el Cambio de Nombre</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Viajero y la Oración</h5>
+<ul>
+    <li><strong>Preparación para la Paz:</strong> Jacob usa la estrategia de la división de bienes y el envío de regalos para apaciguar la ira de su hermano (**la propiciación**).</li>
+    <li><strong>Postración ante el Superior:</strong> El envío de olas de regalos y la instrucción a sus siervos de postrarse ante Esaú era el protocolo para un vasallo o inferior ante un superior.</li>
+    <li><strong>Lucha Nocturna y Herida:</strong> El hombre (Ángel) que lucha con Jacob en el vado de Jaboc lo hiere en la articulación del muslo, simbolizando la debilidad humana.</li>
+    <li><strong>Cambio de Nombre por el Pacto:</strong> Jacob (Engañador/Suplantador) es cambiado a **Israel** (El que lucha con Dios), marcando una nueva identidad espiritual.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra y la Vendetta</h5>
+<ul>
+    <li><strong>Ejército de Hombres:</strong> Esaú viene con 400 hombres, una comitiva militar que indica la intención de la guerra o el prestigio tribal.</li>
+    <li><strong>Vínculo al Muslo (Tendón):</strong> La prohibición de comer el nervio que se encoge del muslo era una costumbre conmemorativa de la lucha y la lesión de Jacob.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fuente de la Fuerza:</strong> Jacob: Su poder se manifiesta a través de la oración y la humildad, no de la fuerza física. | Esaú: La fuerza física y el número de seguidores.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La lucha en Peniel es la prueba de fe de Jacob. Es un hombre que se enfrenta a Dios y a su hermano, y recibe la bendición en la debilidad.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La lucha en Peniel es el momento decisivo donde Jacob se enfrenta a Dios y a sí mismo. El cambio de nombre simboliza que la <span class="highlight">identidad de Israel</span> es la de alguien que prevalece (lucha) con Dios.</p>
                 
@@ -1382,6 +2228,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Altar:</strong> Jacob establece un altar en Siquem ("El Dios de Israel")</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Reconciliación Fraternal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Postración y la Humildad</h5>
+<ul>
+    <li><strong>Protocolo de Reunión Familiar:</strong> Jacob se postra siete veces ante Esaú, el número simbólico de perfección y sumisión.</li>
+    <li><strong>La Paz sobre la Venganza:</strong> El beso y el llanto de Esaú y Jacob indican una reconciliación genuina, superando la vendetta familiar por el robo de la bendición.</li>
+    <li><strong>El Regalo Aceptado:</strong> Esaú intenta rechazar los regalos (*minjá*), pero Jacob insiste en dárselos, diciendo que ver el rostro de Esaú es "como ver el rostro de Dios" (porque Dios lo había apaciguado).</li>
+    <li><strong>Adquisición de Tierras Pacífica:</strong> Jacob compra una porción de tierra en Siquem, estableciendo una vez más una reclamación legal por compra, no por conquista.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Pueblos de la Montaña</h5>
+<ul>
+    <li><strong>El Viaje y la Residencia:</strong> Esaú regresa a Seir (Edom), mostrando que la división territorial entre las dos naciones (Israel y Edom) es permanente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito del Viaje:</strong> Esaú: Se establece en la tierra que elige (Seir) | Jacob: Permanece como peregrino en la tierra prometida (Canaán).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El encuentro es un acto de gracia divina. Jacob erige un altar a **El-Elohe-Israel** ("Dios, el Dios de Israel"), cimentando su nuevo nombre y el nombre de su pueblo en la tierra.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La reconciliación de los hermanos es una imagen de la <span class="highlight">restauración divina</span> y el poder del perdón. Jacob reconoce que el favor de Esaú es como "ver el rostro de Dios" (33:10).</p>
                 
@@ -1416,6 +2287,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reprobación:</strong> Jacob condena la crueldad de sus hijos</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Deshonra y Venganza por Honor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Honor de la Hija</h5>
+<ul>
+    <li><strong>El Valor de la Virginidad:</strong> La violación de Dina (que *salió a ver* a las hijas de la tierra) es un deshonor severo para toda la familia y para la reputación de la muchacha.</li>
+    <li><strong>La Dote (Móhar) y el Matrimonio:</strong> La familia de Siquem intenta reparar la ofensa pagando la dote y aceptando casar a Dina con él. La dote era el precio de la novia pagado al padre.</li>
+    <li><strong>La Circuncisión como Condición:</strong> Simeón y Leví usan la circuncisión, el signo sagrado del pacto, como un engaño para neutralizar a los hombres de Siquem.</li>
+    <li><strong>Venganza por la Sangre:</strong> La venganza de los hermanos es un acto brutal de limpieza del honor familiar, castigando a toda la ciudad por el crimen.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Canaán</h5>
+<ul>
+    <li><strong>Matrimonio Interracial (Mixto):</strong> La propuesta de la familia de Siquem de matrimonio y mezcla de pueblos era común entre los clanes vecinos.</li>
+    <li><strong>Ley del Talión (Anticipo):</strong> La familia de Siquem no tenía una ley escrita, sino una cultura basada en la autoridad del príncipe (Jamor y Siquem).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Uso del Pacto:</strong> Jacob: Usa la circuncisión con fines espirituales | Simeón/Leví: La usan como arma para la traición y la venganza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Muestra la profunda corrupción del pueblo de Jacob. El celo por el honor (aparentemente religioso) se convierte en una masacre que pone en peligro a todo el clan.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo es una advertencia sobre el <span class="highlight">riesgo de asimilación</span> cultural y la maldad que acecha a la familia del pacto. La venganza descontrolada es tan pecaminosa como el crimen original.</p>
                 
@@ -1450,6 +2347,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Muerte del Patriarca:</strong> Isaac, el portador de la promesa, es enterrado</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Purificación y Muerte de Raquel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Renovación del Pacto</h5>
+<ul>
+    <li><strong>Purificación Ritual:</strong> Jacob ordena a su casa que quite los dioses ajenos y se limpien (simbolizando la remoción de los terafim de Raquel y otros ídolos).</li>
+    <li><strong>Entierro de Ídolos:</strong> Los ídolos son enterrados bajo un roble, un acto de repudio formal a las prácticas politeístas.</li>
+    <li><strong>Muerte en el Parto:</strong> Raquel muere dando a luz a su segundo hijo, un evento común en la Antigüedad que simboliza el alto costo de la promesa.</li>
+    <li><strong>Nombre de Despedida:</strong> Raquel llama a su hijo **Ben-oni** (Hijo de mi dolor), pero Jacob lo cambia a **Benjamín** (Hijo de la diestra/fortuna), reafirmando su autoridad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Culturas Vecinas</h5>
+<ul>
+    <li><strong>Lugares Sagrados:</strong> Los cananeos usaban árboles y montes como lugares sagrados para adorar a sus dioses (el roble de Bet-el).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Culto:</strong> Jacob: Elige el monoteísmo radical y el repudio de la idolatría | Vecinos: Idolatría asociada a lugares y objetos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios se aparece de nuevo a Jacob, reafirmando su nombre (Israel) y el pacto de la tierra. La muerte de Raquel y la llegada de Benjamín completan el nacimiento de las 12 tribus.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El regreso a Betel representa un <span class="highlight">nuevo comienzo espiritual</span> y la consolidación de la familia del pacto. Las muertes de Raquel e Isaac cierran la era patriarcal directa y preparan el escenario para la historia de José.</p>
                 
@@ -1482,6 +2404,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Contraste:</strong> Muestra que Edom ya tenía reyes establecidos antes que Israel</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: La Genealogía de Esaú (Edom)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Registro Tribal</h5>
+<ul>
+    <li><strong>División Geográfica:</strong> Esaú se asienta en el monte Seir (Edom) y Jacob en Canaán, cimentando la división entre las dos naciones.</li>
+    <li><strong>Las Genealogías como Historia:</strong> El registro de los hijos, esposas y nietos establece la historia de la nación de Edom.</li>
+    <li><strong>Jefes y Reyes:</strong> Se nombran los "jefes" y los "reyes" que gobernaron Edom antes de que Israel tuviera un rey, indicando una estructura política organizada.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza Pre-Israelita</h5>
+<ul>
+    <li><strong>Sucesión Monárquica:</strong> Los reyes de Edom tenían un sistema de sucesión regular, reflejando una civilización avanzada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Estructura Política:</strong> Edom: Tenía reyes y una estructura de poder centralizada | Israel: Todavía era un clan trashumante bajo el liderazgo de los patriarcas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo muestra que Esaú también fue bendecido con riqueza y descendencia, cumpliendo la bendición de Isaac. Sin embargo, su linaje se establece fuera de la tierra de la promesa.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>A pesar de la elección de Jacob, Dios también bendice a Esaú. Esta genealogía establece la legitimidad del Edomita como un <span class="highlight">pueblo hermano</span>, pero separado del destino del pacto.</p>
                 
@@ -1516,6 +2462,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Engaño:</strong> Presentan la túnica ensangrentada a Jacob</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: José y la Esclavitud</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pastor y el Vidente</h5>
+<ul>
+    <li><strong>Túnica Larga (Ketonet Passim):</strong> La túnica de colores/larga dada a José lo identificaba como el hijo amado, libre de trabajo manual, y quizás como el heredero principal (primogenitura).</li>
+    <li><strong>Pastoreo y Reporte:</strong> Los hijos mayores eran pastores (una ocupación peligrosa y de baja estima social), mientras que José reportaba sus malas acciones a Jacob, aumentando la tensión.</li>
+    <li><strong>Sueños como Profecía:</strong> La creencia de que los sueños predicen el futuro era común. José sueña con gavillas y estrellas postrándose ante él.</li>
+    <li><strong>Venta de Esclavos:</strong> La venta a los ismaelitas (comerciantes) por **veinte siclos de plata** era el precio estándar de un esclavo varón joven de la época.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Comerciantes y la Esclavitud</h5>
+<ul>
+    <li><strong>Tráfico de Personas:</strong> Los comerciantes madianitas/ismaelitas cruzaban Canaán hacia Egipto, vendiendo especias y esclavos.</li>
+    <li><strong>Pozo Seco:</strong> El pozo (cisterna) seco era una prisión temporal común para los secuestrados antes de venderlos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Liderazgo:</strong> José: Liderazgo espiritual (profecía por sueños) y favor | Hermanos: Liderazgo basado en la fuerza física y la envidia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La túnica de José se mancha de sangre, un eco de la ropa de Caín. La venta es el medio por el cual Dios mueve a José para la salvación futura de Israel.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La venta de José, aunque motivada por el pecado, se convierte en el <span class="highlight">mecanismo divino</span> para llevar a Israel a Egipto y preservarlos de la hambruna. El sufrimiento de José es parte del plan de Dios.</p>
                 
@@ -1549,6 +2521,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Linaje:</strong> La línea mesiánica se establece a través de Fares (la línea de David)</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Judá y Tamar</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Matrimonio de Levirato</h5>
+<ul>
+    <li><strong>Matrimonio de Levirato:</strong> Si un hombre moría sin hijos, su hermano (Onán y luego Sela) debía casarse con la viuda (**Tamar**) para levantar descendencia para el hermano difunto. Esto era una obligación legal.</li>
+    <li><strong>Simiente Propia:</strong> Onán practicaba el *coitus interruptus* para evitar dar descendencia a su hermano, un acto de desafío al deber social y a Dios.</li>
+    <li><strong>La Vestidura de Viudez:</strong> Tamar se quita el vestido de viudez para pretender ser una prostituta, un signo de que estaba fuera del duelo.</li>
+    <li><strong>Garantía (Prenda):</strong> El sello, el cordón y el bastón eran los artículos de identificación personal y títulos de propiedad más valiosos de un hombre. Eran la garantía legal.</li>
+</ul>
+
+<h<h5>style="color: #ff6b6b;">⚔️ Costumbres de la Prostitución de Camino</h5>
+<ul>
+    <li><strong>Prostitución Sagrada:</strong> La prostitución en los caminos (*kadeshá*) era una práctica común en Canaán, asociada a ritos de fertilidad. Judá cree que Tamar es una de ellas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> Judá: Rompe el pacto al no entregar a su tercer hijo | Tamar: Usa el engaño para forzar el cumplimiento de la ley del levirato y asegurar su linaje.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios castiga a los hijos impíos de Judá. El capítulo legitima la línea de Judá (Peres y Zera), de la cual nacería el Mesías, a través de la astucia de Tamar, que era "más justa" que Judá.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>Este oscuro episodio resalta que el linaje de la promesa se caracteriza por la <span class="highlight">gracia de Dios</span>, no por la pureza moral de sus ancestros. Fares entra en la genealogía de Jesús (Mateo 1).</p>
                 
@@ -1583,6 +2580,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falsa Acusación:</strong> José es encarcelado injustamente</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: José en Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Esclavo Fiel</h5>
+<ul>
+    <li><strong>Ascenso en el Hogar:</strong> José, por su habilidad y el favor de Dios, asciende a ser el administrador (*gobernador*) del hogar de Potifar, una posición de confianza total.</li>
+    <li><strong>El Poder de la Tentación:</strong> José se niega a pecar, invocando el temor a Dios ("¿Cómo, pues, haría yo este grande mal, y pecaría contra Dios?").</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias</h5>
+<ul>
+    <li><strong>Potifar:</strong> Un oficial del Faraón y capitán de la guardia (policía/ejecutor real). Una posición de gran poder.</li>
+    <li><strong>Calumnia Sexual:</strong> La esposa de Potifar usa la prenda de José como evidencia de la supuesta violación, un método común para culpar a un esclavo.</li>
+    <li><strong>Prisión Real:</strong> José es puesto en la cárcel de la casa del capitán de la guardia, una prisión de alta seguridad para los oficiales del Faraón.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Motivación Moral:</strong> José: Su moralidad está ligada a Dios y al respeto por su amo | Esclavitud/Egipto: Moralidad ligada al miedo al castigo y al poder.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El favor de Dios (**Yahvé está con él**) es la clave del éxito de José, tanto en la casa de Potifar como en la prisión. La fidelidad de José es un testimonio mudo del monoteísmo.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La vida de José demuestra que la <span class="highlight">fidelidad a Dios</span> trae bendición (éxito en todo lo que hace) y que la piedad tiene un costo (la cárcel), pero que Dios está presente en ambas situaciones.</p>
                 
@@ -1615,6 +2637,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esperanza:</strong> José espera en Dios su liberación, aunque la ayuda humana falle</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Interpretación de Sueños en la Cárcel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Vidente Cautivo</h5>
+<ul>
+    <li><strong>Servicio a los Oficiales:</strong> José, aunque es prisionero, es puesto a servir a los oficiales del Faraón, mostrando la continuidad de su habilidad administrativa.</li>
+    <li><strong>Interpretación de Sueños:</strong> José se rehúsa a tomar crédito por la interpretación, atribuyéndola a Dios ("¿No son de Dios las interpretaciones?").</li>
+    <li><strong>Petición de Recuerdo:</strong> José pide al copero que lo "recuerde" y lo mencione ante el Faraón, un reconocimiento de su necesidad de intercesión.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Corte</h5>
+<ul>
+    <li><strong>El Copero y el Panadero:</strong> Posiciones de alta confianza en la corte (el copero probaba la bebida para evitar veneno, el panadero la comida). Su encarcelamiento era por ofender al Faraón.</li>
+    <li><strong>Interpretación de Sueños:</strong> En Egipto, la interpretación era una profesión altamente respetada, practicada por magos y sacerdotes.</li>
+    <li><strong>Juicio Rápido:</strong> El Faraón ejecuta al panadero y restaura al copero exactamente a los tres días, como José predijo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fuente de la Interpretación:</strong> José: Dios revela el significado | Magos Egipcios: Usan su propio conocimiento o magia para adivinar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La habilidad de José se establece como superior a las habilidades mágicas de los egipcios, preparando el escenario para su ascenso.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo muestra que el <span class="highlight">tiempo de Dios</span> es perfecto. La traición del copero asegura que José permanezca en prisión hasta el momento preciso en que Faraón lo necesite directamente.</p>
                 
@@ -1650,6 +2698,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Asimilación Cultural:</strong> José se casa con una egipcia y recibe nombres egipcios</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: José como Visir de Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Preparación Divina</h5>
+<ul>
+    <li><strong>Voz de Dios:</strong> José insiste ante el Faraón: "No está en mí; Dios dará respuesta de paz a Faraón." (Génesis 41:16).</li>
+    <li><strong>Adopción y Ascenso:</strong> José es sacado de la prisión, rasurado, y vestido con ropas finas de lino, un rito de purificación y nobleza.</li>
+    <li><strong>El Anillo del Sello:</strong> El Faraón da a José su anillo del sello, el símbolo supremo de la autoridad delegada, dándole el poder para actuar en nombre del rey.</li>
+    <li><strong>Almacenamiento de Grano:</strong> José aplica un sistema de planificación central y almacenamiento, recolectando el 20% de la producción en años de abundancia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias Reales</h5>
+<ul>
+    <li><strong>Faraón como Dios Vivo:</strong> El Faraón era considerado una deidad, la fuente de vida y orden. Sus sueños eran divinos y cruciales para la nación.</li>
+    <li><strong>Nombre y Matrimonio Egipcio:</strong> A José se le da un nombre egipcio (**Zafnat-panea**) y se casa con Asenat, hija de Potifera, sacerdote de On (Heliópolis, un centro religioso clave).</li>
+    <li><strong>El Visir (Primer Ministro):</strong> José se convierte en la posición más alta del imperio después del Faraón, responsable de la tesorería y la administración total.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Sabiduría:</strong> José: Su sabiduría proviene de un Dios trascendente y único | Sabios Egipcios: Su sabiduría es terrenal y limitada, centrada en sus propias deidades.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo es el cumplimiento de los sueños de José. Un hebreo esclavo es puesto a cargo de la nación más poderosa del mundo para salvar a Su pueblo de la hambruna.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El ascenso de José demuestra que Dios puede poner a sus siervos en las <span class="highlight">posiciones más altas de poder</span> para influir en los asuntos mundiales y asegurar la supervivencia de su pueblo.</p>
                 
@@ -1683,6 +2758,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Prueba:</strong> José exige que traigan a Benjamín para probar la honestidad de su familia</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Primer Viaje a Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Hambruna y la Dependencia</h5>
+<ul>
+    <li><strong>Viaje por Comida:</strong> La hambruna obligó a los clanes a viajar a Egipto, el único lugar conocido con grano.</li>
+    <li><strong>Postración ante la Autoridad:</strong> Los diez hermanos se postran ante José, cumpliendo sin saberlo el primer sueño. La postración era un acto de respeto total al visir.</li>
+    <li><strong>Lazo de Dinero y Culpa:</strong> José prueba a sus hermanos devolviéndoles el dinero en los costales, lo que aumenta su terror y su conciencia de culpa por su pecado pasado.</li>
+    <li><strong>Retención de Rehenes:</strong> Simeón es retenido como rehén para obligar a los hermanos a traer a Benjamín. Esto era una táctica común para asegurar la cooperación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Frontera</h5>
+<ul>
+    <li><strong>Venta Centralizada:</strong> El grano se vendía solo a través del Visir (José) o sus delegados, lo que garantizaba el control real.</li>
+    <li><strong>Acusación de Espionaje:</strong> La acusación de ser espías era una táctica común para desconfiar de los visitantes de la frontera.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> José: Su "crueldad" es una prueba para ver si los hermanos se han arrepentido y son responsables por Benjamín. | Hermanos: Ven todo como el pago de la justicia divina por su pecado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El plan de Dios se revela a través de la hambruna. La confrontación con José obliga a los hermanos a reflexionar sobre su traición de hace 20 años.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El sufrimiento de los hermanos es un proceso de <span class="highlight">arrepentimiento forzado</span>. El recuerdo de su pecado demuestra que la conciencia no los ha abandonado, preparando el terreno para la reconciliación.</p>
                 
@@ -1717,6 +2818,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Prueba Continúa:</strong> José observa a sus hermanos, en particular cómo tratan a Benjamín</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Segundo Viaje y Cena Ritual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Suplica y la Intercesión</h5>
+<ul>
+    <li><strong>Doble Pago:</strong> Los hermanos llevan el dinero que les fue devuelto más el doble para asegurar la transacción.</li>
+    <li><strong>Regalos:</strong> Llevan regalos de los mejores productos de Canaán (bálsamo, miel, nueces) como ofrenda al poderoso gobernador egipcio.</li>
+    <li><strong>Lavado Ritual:</strong> Lavarse los pies antes de la comida era la costumbre para los viajeros, en señal de purificación y cortesía.</li>
+    <li><strong>Posición en la Mesa:</strong> José ordena que los hermanos se sienten según su edad (el primogénito en su lugar), lo que los asombra, ya que esto era imposible de saber.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Comida</h5>
+<ul>
+    <li><strong>Separación a la Mesa:</strong> Los egipcios comían aparte de los hebreos porque la práctica de los pastores era abominable para ellos.</li>
+    <li><strong>Porciones de Honor:</strong> Benjamín recibe una porción cinco veces mayor que la de sus hermanos, una señal de honor y favoritismo egipcio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Comida:</strong> Israel: Comida como unidad familiar | Egipto: Comida con estrictas separaciones de clase y ocupación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La demostración de conocimiento sobrenatural (el orden de los asientos) siembra la duda y el miedo en los hermanos, preparándolos para la siguiente prueba.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El ofrecimiento de Judá es un acto de <span class="highlight">sacrificio y amor fraternal</span>, demostrando su redención y marcándolo como el líder ético entre los hermanos, de cuya línea vendría el Redentor.</p>
                 
@@ -1750,6 +2877,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Arrepentimiento:</strong> Judá expresa el temor de matar a su padre con dolor, mostrando su cambio de corazón</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: La Copa de la Prueba</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio Fraternal</h5>
+<ul>
+    <li><strong>La Copa como Prueba:</strong> José ordena poner su copa de plata en el costal de Benjamín para probar la lealtad de los hermanos.</li>
+    <li><strong>Petición de Esclavitud:</strong> Judá, en un discurso apasionado, se ofrece como esclavo en lugar de Benjamín. Esto demuestra el arrepentimiento y la responsabilidad fraternal que faltó al vender a José.</li>
+    <li><strong>Juramento por el Juez:</strong> Judá afirma que el "Dios ha hallado la maldad de tus siervos," aceptando que la justicia divina los ha alcanzado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Adivinación</h5>
+<ul>
+    <li><strong>Copa de Adivinación:</strong> Se creía que las copas de plata podían usarse para la adivinación o la magia (a través de reflejos en el agua). José finge usarla para justificar su "conocimiento".</li>
+    <li><strong>Castigo por Robo:</strong> El robo en la Antigüedad se castigaba con la esclavitud. Al ser encontrado con la copa, Benjamín es sentenciado a ser esclavo de José.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Valoración del Hermano:</strong> Judá: Disposición a morir o ser esclavo para proteger al joven | Hace 20 años: Venta del hermano por 20 siclos. La transformación moral es evidente.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La prueba de la copa permite que Judá (el líder del linaje mesiánico) demuestre el arrepentimiento total, preparando el escenario para la revelación de José.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">intercesión sustitutiva</span> de Judá es la prueba de que han cambiado: han pasado de vender a un hermano a ofrecerse por otro. Esta es la señal que José necesitaba para revelar su identidad.</p>
                 
@@ -1784,6 +2936,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reunificación:</strong> José invita a toda su familia a venir a Egipto</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: La Revelación y la Soberanía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Revelación Familiar</h5>
+<ul>
+    <li><strong>Expresión de Emociones:</strong> José llora en voz alta (un grito audible para los egipcios), mostrando la intensa carga emocional del momento.</li>
+    <li><strong>El Abrazo y la Reconciliación:</strong> El beso y el abrazo eran la forma de sellar la reconciliación total en la familia.</li>
+    <li><strong>La Teología de la Soberanía:</strong> José explica el evento no como el mal de sus hermanos, sino como el plan de Dios ("Dios me envió delante de vosotros para preservaros vida").</li>
+    <li><strong>Carros Reales:</strong> El Faraón provee carros para llevar a Jacob y sus familias a Egipto. Los carros (medio de transporte de élite) eran un signo de honor.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Migración</h5>
+<ul>
+    <li><strong>Permiso Real:</strong> La migración de un gran clan a Egipto requería el permiso formal del Faraón.</li>
+    <li><strong>Provisión del Reino:</strong> El Faraón provee las provisiones del viaje y los mejores bienes de Egipto para el asentamiento.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Motivación de la Vida:</strong> José: Todo está gobernado por el plan divino para la salvación | Hermanos: Vieron la vida como una serie de castigos y desgracias.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La reconciliación familiar es el clímax de la historia, permitiendo a Jacob y su familia descender a Egipto bajo la protección de un pacto.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El perdón de José, basado en su visión de la <span class="highlight">soberanía divina</span> (la creencia de que Dios usó el mal para un bien mayor), es un modelo de reconciliación bíblica.</p>
                 
@@ -1817,6 +2995,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Identidad Nacional:</strong> El censo de las 70 almas establece la unidad de Israel</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: El Descenso a Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Viaje y el Sacrificio</h5>
+<ul>
+    <li><strong>Sacrificio en Beerseba:</strong> Jacob se detiene para ofrecer sacrificios a Dios en Beerseba (el lugar de su abuelo Isaac), pidiendo la bendición y confirmación del viaje.</li>
+    <li><strong>La Visión Nocturna:</strong> Dios le aparece a Jacob para confirmarle que es Su voluntad que descienda a Egipto y que allí lo convertirá en una gran nación.</li>
+    <li><strong>El Censo del Clan:</strong> Se enumeran las 70 personas del clan de Jacob. Este número es simbólico (las 70 naciones de la Tabla de Naciones), sugiriendo que Israel es la nación clave.</li>
+    <li><strong>Separación por Ocupación:</strong> Jacob envía a Judá a Gosén, una tierra de pastoreo (cercana al Nilo, pero alejada de los centros urbanos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Ganadería</h5>
+<ul>
+    <li><strong>Gosén (Tierra de Ramsés):</strong> Una región fértil pero alejada de los principales centros, ideal para que los pastores (abominables para los egipcios) vivan separados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito del Viaje:</strong> Israel: Viaje con propósito divino (para ser una gran nación) | Migrantes comunes: Viaje por supervivencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El patriarca, Jacob, obedece la palabra de Dios, aunque esto signifique dejar la Tierra Prometida. El número de 70 es el total de la descendencia que se multiplicaría en Egipto.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El descenso a Egipto es un <span class="highlight">paso de fe</span>. La familia del pacto entra en un lugar seguro (Gosén) para crecer de una familia a una nación, preparándose para el Éxodo futuro.</p>
                 
@@ -1851,6 +3054,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juramento Final:</strong> Jacob pide ser enterrado en Canaán</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Asentamiento y Ley de Tierras</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Bendición Patriarcal</h5>
+<ul>
+    <li><strong>Presentación al Faraón:</strong> Jacob y sus hijos son presentados al rey. El acto de **Jacob bendiciendo al Faraón** (el más grande bendice al menor) es un acto teológico que afirma la superioridad espiritual del patriarca.</li>
+    <li><strong>Humildad:</strong> Jacob describe su vida como un peregrinaje de **pocos y malos** años, contrastando la piedad nómada con la grandeza egipcia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de Propiedad y Economía</h5>
+<ul>
+    <li><strong>La Ley del Quinto:</strong> José nacionaliza toda la tierra de Egipto (excepto la de los sacerdotes) a cambio de grano. La ley establece que el 20% de la cosecha de la tierra es para el Faraón (impuesto o diezmo).</li>
+    <li><strong>Adquisición de Esclavos:</strong> La gente se vendió a sí misma al Faraón a cambio de comida, convirtiéndose en siervos permanentes de la realeza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Riqueza:</strong> Israel: A pesar de ser pastores (una ocupación menospreciada), se les da la mejor tierra y "poseen" la tierra en Gosén | Egipto: El pueblo se convierte en siervo permanente del rey.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> José salva al pueblo de Egipto de la inanición y establece una estructura económica que beneficia al Faraón, pero mantiene a su familia separada y bendecida.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">bendición de Jacob</span> sobre el Faraón simboliza la autoridad espiritual que Israel, a través del pacto, tiene sobre las naciones. Jacob pide ser enterrado en Canaán, asegurando la esperanza de un regreso futuro.</p>
                 
@@ -1885,6 +3112,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Continuidad:</strong> Jacob asegura que la promesa de la tierra y el pacto pasan a sus nietos</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Adopción y Bendición del Clan</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adopción y la Primogenitura</h5>
+<ul>
+    <li><strong>Juramento de Entierro:</strong> Jacob hace jurar a José que no lo enterrará en Egipto, sino en la tumba familiar en Canaán, reafirmando su fe en la promesa de la tierra.</li>
+    <li><strong>Adopción Formal:</strong> Jacob adopta a los dos hijos de José (**Manasés y Efraín**) como propios, asegurando que José tendrá dos tribus y una doble porción de la herencia (la porción del primogénito).</li>
+    <li><strong>Cruce de Manos:</strong> Jacob deliberadamente cruza sus manos para poner la derecha (la mano de la bendición superior) sobre **Efraín** (el menor) en lugar de Manasés (el mayor).</li>
+    <li><strong>El Traspaso de la Bendición:</strong> Este acto es la transferencia de la bendición del primogénito de Rubén (quien pecó) y Manasés a Efraín, previendo el surgimiento de las tribus del norte.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Hijo Mayor</h5>
+<ul>
+    <li><strong>Derecho de la Derecha:</strong> En la antigüedad, la mano derecha era la posición de honor y autoridad. La bendición se daba poniendo la mano derecha sobre la cabeza del primogénito.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Elección Divina:</strong> Jacob, guiado por Dios, confirma la elección de Dios del menor sobre el mayor (Efraín sobre Manasés), continuando el patrón de Isaac sobre Ismael, y Jacob sobre Esaú.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La bendición de Jacob invoca al "Dios que me ha pastoreado" y al "Ángel que me rescata", reafirmando el pacto hasta la tercera generación.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cruce de manos es una declaración poderosa de que la <span class="highlight">elección de Dios</span> es soberana y no se rige por las reglas humanas de la primogenitura. Dios sigue eligiendo al que no es el primero.</p>
                 
@@ -1918,6 +3170,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Fin de la Promesa:</strong> Jacob pide ser enterrado en Macpela (Canaán)</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: La Bendición Profética de Jacob</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Bendición Final</h5>
+<ul>
+    <li><strong>Reunión de los Hijos:</strong> El patriarca moribundo convoca a todos sus hijos para dar una bendición profética que determinará el destino de cada tribu.</li>
+    <li><strong>Poder de las Palabras:</strong> Las palabras de Jacob son profecías con consecuencias sociales y políticas a largo plazo.</li>
+    <li><strong>Castigo por el Pecado:</strong> Rubén, Simeón y Leví son castigados por sus transgresiones (incesto y asesinato), perdiendo su primogenitura y su estatus tribal.</li>
+    <li><strong>La Profecía Mesiánica (Judá):</strong> Se promete que el cetro y la ley no se apartarán de Judá hasta la llegada del **Shiloh** (el Mesías), cimentando el liderazgo de Judá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Luto y la Profecía</h5>
+<ul>
+    <li><strong>Maldición o Juicio:</strong> Las palabras de Jacob son más un juicio profético que una bendición.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Legado:</strong> Las bendiciones se centran en el futuro espiritual y político del clan de Israel | Culturas: Las bendiciones se centran solo en la riqueza y el éxito inmediato.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El capítulo establece el fundamento tribal de Israel. La profecía de Judá es el ancla de la esperanza, indicando que el líder (el Mesías) vendría de esta línea.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La bendición de Judá es una de las primeras <span class="highlight">profecías mesiánicas</span> de la Biblia, asegurando que el liderazgo y el rey final (Siloh) vendrían de su linaje. Muestra que la gracia de Dios escoge a Judá a pesar del juicio sobre sus hermanos mayores.</p>
                 
@@ -1952,6 +3229,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Conclusión:</strong> El libro termina con Israel en Egipto, preparándose para crecer en una nación</li>
                 </ul>
                 
+                <h4>🏛️ Costumbres de la Época: Muerte, Luto y Entierro Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Entierro en Canaán</h5>
+<ul>
+    <li><strong>El Juramento Cumplido:</strong> José cumple el juramento de enterrar a su padre en la Tierra Prometida, a pesar de su posición en Egipto.</li>
+    <li><strong>Procesión Fúnebre:</strong> El entierro de Jacob fue una gran procesión a Canaán, con egipcios y el clan de Jacob, mostrando el honor al patriarca.</li>
+    <li><strong>El Miedo a la Venganza:</strong> Después de la muerte de Jacob, los hermanos temen la venganza de José, una costumbre tribal común.</li>
+    <li><strong>La Promesa de José:</strong> José jura por Dios que Dios los visitará y los sacará de Egipto, pidiendo que sus huesos sean llevados con ellos (la fe en el Éxodo futuro).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de Muerte</h5>
+<ul>
+    <li><strong>Embalsamamiento:</strong> El cuerpo de Jacob fue embalsamado (40 días) y llorado (70 días), un rito funerario egipcio de alto honor, reservado para la realeza y los grandes oficiales.</li>
+    <li><strong>Luto Público:</strong> El luto público de 70 días era la norma para un Faraón o Visir.</li>
+    <li><strong>Adivinación:</strong> José es embalsamado a la manera egipcia y puesto en un ataúd, un signo de su asimilación y estatus.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Destino Final:</strong> Jacob: Su cuerpo regresa a Canaán por fe | José: Su cuerpo permanece temporalmente en Egipto por la promesa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La promesa de José sobre sus huesos cierra el Génesis: la historia de Israel no terminará en la riqueza de Egipto, sino en el cumplimiento del pacto en la Tierra Prometida.
+</div>
+                
+
                 <h4>✨ Significado Espiritual</h4>
                 <p>La gran declaración de José ("Vosotros pensasteis el mal contra mí, mas Dios lo encaminó a bien") es la <span class="highlight">tesis teológica</span> de toda la historia de José y del Génesis. La petición de José de ser enterrado en Canaán demuestra su fe en el cumplimiento futuro del pacto.</p>
                 
@@ -1988,6 +3292,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Genocidio:</strong> El decreto del Faraón de matar a todos los varones hebreos</li>
                     <li><strong>Resistencia Pasiva:</strong> Las parteras temen a Dios y frustran el plan del Faraón</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Esclavitud Egipcia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de Israel en Gosén</h5>
+<ul>
+    <li><strong>Asentamiento Separado:</strong> La familia de Jacob (Israel) vive en la región de Gosén, inicialmente aislada y permitida a prosperar.</li>
+    <li><strong>Crecimiento Demográfico:</strong> La fertilidad y el rápido crecimiento de Israel son vistos como una señal de la bendición de Dios.</li>
+    <li><strong>Trabajo Forzado:</strong> Los israelitas son obligados a construir ciudades de almacenamiento (Pitón y Ramsés), un trabajo de esclavos común bajo el Faraón.</li>
+    <li><strong>Resistencia Pasiva:</strong> Las parteras temen más a Dios que al Faraón, desobedeciendo la orden de matar a los bebés varones.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza Egipcia</h5>
+<ul>
+    <li><strong>Xenofobia y Miedo:</strong> El Faraón (un nuevo rey que no conoció a José) teme que una población extranjera crezca demasiado y se una a un enemigo.</li>
+    <li><strong>Esclavitud Institucional:</strong> Uso de esclavos para proyectos de construcción masivos (ladrillos de barro y paja) y trabajos forzados.</li>
+    <li><strong>Infanticidio Selectivo:</strong> La orden de arrojar a los varones hebreos al Nilo, una forma de control de la población masculina.</li>
+    <li><strong>Adoración al Faraón:</strong> La autoridad absoluta del rey se basa en su deificación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Motivación de la Obediencia:</strong> Israel: Obediencia a Dios (por las parteras) | Egipto: Obediencia al miedo y al poder del Faraón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La bendición de Dios prevalece sobre el edicto del Faraón, y el sufrimiento del pueblo se convierte en el grito que inicia la historia de la redención.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad de Dios</span> es evidente: cuanto más los oprimían, más crecían. La fe de las parteras es el primer acto de resistencia en nombre de Dios, priorizando la ley divina sobre la humana.</p>
@@ -2022,6 +3352,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fracaso:</strong> Moisés intenta liberar a su pueblo con su propia fuerza y fracasa (asesinato del egipcio)</li>
                     <li><strong>Dios Oye:</strong> El capítulo termina con Dios escuchando el clamor de Israel</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Nacimiento y Exilio de Moisés</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Clan Levita</h5>
+<ul>
+    <li><strong>La Cesta de Junco:</strong> El uso de una cesta de papiro impermeabilizada con brea era un método de protección y ocultación en la cultura del Nilo.</li>
+    <li><strong>Vínculo Fraternal:</strong> Miriam, la hermana mayor, cuida y observa a su hermano para asegurar su seguridad y proponer a una nodriza hebrea.</li>
+    <li><strong>Pastoreo en Madián:</strong> Moisés huye y se convierte en pastor, un estilo de vida nómada y humilde, lejos del poder egipcio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias y de Madián</h5>
+<ul>
+    <li><strong>El Nilo como Deidad:</strong> El río era central para la vida egipcia y el Nilo era visto como un dios, por lo que arrojar a los bebés al río era un acto ritual.</li>
+    <li><strong>Adopción Real:</strong> La hija del Faraón adopta a Moisés, un privilegio de la realeza egipcia.</li>
+    <li><strong>Hospitalidad Nómada:</strong> Reuel (Jetro), sacerdote de Madián, acoge a Moisés después de que este defiende a sus hijas en el pozo.</li>
+    <li><strong>Matrimonio por Sierva:</strong> Moisés se casa con Séfora. Las hijas del sacerdote de Madián estaban acostumbradas al pastoreo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Identidad:</strong> Moisés: Criado como egipcio, pero con un sentido de su pueblo hebreo | Egipcios: Sentido de superioridad cultural sobre los esclavos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El plan de Dios se revela: el futuro libertador es criado en el centro del poder enemigo, adquiriendo el conocimiento y la educación egipcia.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La vida de Moisés es un testimonio de la <span class="highlight">provisión divina</span> en la adversidad. Su huida y exilio son necesarios para desaprender la mentalidad de príncipe y ser moldeado como pastor y líder humilde.</p>
@@ -2055,6 +3410,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Comisión:</strong> Dios encarga a Moisés liberar a Israel</li>
                     <li><strong>Duda:</strong> Moisés expresa su primera objeción ("¿quién soy yo?")</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Llamamiento y el Nombre Divino</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Vidente y el Lugar Santo</h5>
+<ul>
+    <li><strong>Lugar Santo:</strong> La orden de quitarse las sandalias indica la santidad del lugar (terreno sagrado). Los pastores se descalzaban ante lo sagrado.</li>
+    <li><strong>La Zarza Ardiente:</strong> La manifestación de Dios en un fuego que no consume. El fuego es un símbolo común de la presencia divina.</li>
+    <li><strong>El Nombre Inefable:</strong> Dios se revela como **YHWH** (Yo Soy el que Soy/Seré), un nombre que enfatiza Su existencia activa, eterna e inmutable, en contraste con los dioses paganos limitados.</li>
+    <li><strong>Señal para Israel:</strong> El propósito final es adorar a Dios en el mismo monte (Horeb/Sinaí), vinculando la liberación al culto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Deidades de Madián y Egipto</h5>
+<ul>
+    <li><strong>Dioses Territoriales:</strong> Moisés pregunta por el nombre para que el pueblo sepa qué dios de los muchos (posiblemente) los está liberando.</li>
+    <li><strong>Magia y Signos:</strong> Los egipcios esperaban que los dioses se manifestaran con signos poderosos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Naturaleza de Dios:</strong> YHWH: Eterno, Inmutable, sin forma visible | Dioses Egipcios: Tienen formas físicas (animales, humanos) y son limitados en poder.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios se revela como el **Dios de Abraham, Isaac y Jacob**, conectando Su acto de liberación con el pacto hecho a los patriarcas.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La zarza ardiente simboliza la <span class="highlight">presencia inagotable y santa de Dios</span> que llama a la acción. El nombre YHWH promete la presencia activa y redentora de Dios para cumplir sus promesas.</p>
@@ -2089,6 +3468,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Provisión de Ayuda:</strong> Dios nombra a Aarón como compañero y orador</li>
                     <li><strong>Circuncisión:</strong> La urgencia del cumplimiento del pacto (el incidente de Séfora)</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Las Señales de Autoridad y la Circuncisión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Demostración de Poder</h5>
+<ul>
+    <li><strong>Señales (Milagros):</strong> Dios le da a Moisés tres señales (vara en serpiente, mano leprosa, agua en sangre) como prueba de su autoridad para presentar a los ancianos de Israel.</li>
+    <li><strong>La Voz de Dios:</strong> Aarón es escogido como la boca (*portavoz*) de Moisés, indicando que el sacerdocio levítico está vinculado al liderazgo.</li>
+    <li><strong>Circuncisión de Emergencia:</strong> Séfora circuncida a su hijo con una piedra de sílex (una práctica arcaica), salvando la vida de Moisés al cumplir el pacto ante Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Vara y la Magia</h5>
+<ul>
+    <li><strong>El Cetro/Vara:</strong> Un símbolo de autoridad y poder para los magos egipcios y el Faraón. La transformación de la vara de Moisés es un desafío directo a este simbolismo.</li>
+    <li><strong>La Brujería (Hekau):</strong> La magia era una parte vital de la religión egipcia, utilizada para controlar las fuerzas naturales y el destino.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder:</strong> El poder de Moisés es divino y absoluto | El poder de los magos egipcios es limitado (luego se demuestra en las plagas).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La circuncisión en el camino es una advertencia: el líder del pacto debe cumplir primero el pacto, incluso en medio de la misión.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las señales son necesarias para inspirar <span class="highlight">fe en el pueblo</span> y obligar al Faraón a escuchar. El incidente en la posada subraya que el libertador mismo debe estar bajo la ley del pacto (la circuncisión).</p>
@@ -2123,6 +3525,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Desánimo:</strong> Israel, en lugar de tener fe, culpa a Moisés por su sufrimiento</li>
                     <li><strong>Oración:</strong> Moisés se vuelve a Dios con frustración</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Primer Enfrentamiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Súplica</h5>
+<ul>
+    <li><strong>Petición de Viaje:</strong> Moisés pide un viaje de tres días al desierto para celebrar una fiesta y ofrecer sacrificios a Dios (una súplica común en la Antigüedad).</li>
+    <li><strong>Queja:</strong> Los capataces israelitas se quejan a Moisés y Aarón por empeorar su situación, mostrando la desconfianza del pueblo en sus líderes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Esclavitud</h5>
+<ul>
+    <li><strong>Respuesta del Faraón:</strong> El Faraón niega el conocimiento de YHWH y desestima la petición, ya que solo reconocía a los dioses del Nilo y del sol.</li>
+    <li><strong>Cargas Laborales:</strong> La orden de no dar más paja para los ladrillos, pero exigir la misma cuota, es una táctica brutal para aumentar la opresión.</li>
+    <li><strong>Capacitación de Esclavos:</strong> Los capataces hebreos eran golpeados por no cumplir las cuotas, mostrando la jerarquía de castigo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Concepto de Dios:</strong> Moisés: YHWH es un Dios que exige adoración | Faraón: YHWH es un dios local irrelevante.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El primer enfrentamiento no produce liberación, sino una opresión intensificada, que prueba la fe de Moisés y del pueblo.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">opresión aumentada</span> sirve a un doble propósito: probar la fe de Israel y demostrar el poder de Dios al liberar al pueblo en su punto más bajo, haciendo que el milagro sea innegable.</p>
@@ -2156,6 +3581,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Respuesta de Israel:</strong> El pueblo no escucha a Moisés por el desánimo y la dureza del trabajo</li>
                     <li><strong>Legitimación:</strong> La genealogía establece el derecho de Moisés y Aarón a liderar</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Reafirmación del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Alianza</h5>
+<ul>
+    <li><strong>Revelación Formal:</strong> Dios se revela a Moisés usando Su nombre formal, **YHWH**, contrastando con el nombre **El-Shaddai** usado con los patriarcas.</li>
+    <li><strong>El Doble Anuncio:</strong> Dios promete: 1) Liberación de la esclavitud; 2) La Tierra de Canaán. Esto es la estructura central de todo el Pacto Abrahámico.</li>
+    <li><strong>Genealogía de los Líderes:</strong> Se inserta la genealogía de Moisés y Aarón (del linaje de Leví) para establecer su legitimidad divina ante el pueblo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Nombres Divinos</h5>
+<ul>
+    <li><strong>Incomprensión:</strong> Los israelitas no escuchan a Moisés por la "angustia de espíritu y la dura servidumbre," indicando que la opresión ahoga la fe.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder Divino:</strong> YHWH es el Dios que no solo promete, sino que actúa con "brazo extendido y grandes juicios."</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo reafirma que la liberación no se basa en el mérito del pueblo, sino en la fidelidad de Dios a Su promesa hecha a los patriarcas.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La revelación del nombre YHWH es la base de la esperanza de Israel. Demuestra que la liberación de Israel está asegurada por el <span class="highlight">carácter inmutable y la omnipotencia</span> de Dios, no por su propia fuerza.</p>
@@ -2189,6 +3636,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Endurecimiento del Corazón:</strong> El Faraón es obstinado por su propia voluntad, pero Dios permite y amplifica esa obstinación</li>
                     <li><strong>Juicio sobre los Dioses:</strong> La primera plaga golpea la deidad del río</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: La Vara y la Primera Plaga</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Encuentro Divino</h5>
+<ul>
+    <li><strong>Moisés como Dios:</strong> Dios dice que Moisés será como "Dios para el Faraón," dándole autoridad divina delegada.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Magia de la Corte</h5>
+<ul>
+    <li><strong>Magos Egipcios:</strong> El Faraón llama a sus "sabios y hechiceros" para replicar el milagro. Sus nombres (Janes y Jambres, según tradiciones posteriores) eran famosos.</li>
+    <li><strong>Superioridad de la Vara:</strong> La vara de Aarón se traga las varas de los magos, un acto de burla a la superioridad de la magia egipcia.</li>
+    <li><strong>El Nilo Ensangrentado:</strong> La primera plaga golpea al dios del Nilo (**Hapi**) y al dios cocodrilo (**Sobek**), volviendo el agua, la fuente de vida egipcia, putrefacta. </li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Autoridad:</strong> La autoridad de YHWH es absoluta y su poder es total, superando la habilidad de los magos de Egipto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La batalla comienza como una "guerra de dioses." La primera plaga ataca al corazón de la vida y el culto egipcio.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La plaga del Nilo a sangre es una manifestación de la <span class="highlight">autoridad absoluta de YHWH</span> sobre los elementos y las deidades egipcias. El endurecimiento del Faraón sirve al propósito de magnificar el nombre de Dios.</p>
@@ -2222,6 +3691,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Separación del Juicio:</strong> La plaga de moscas no cae sobre Gosén, diferenciando a Israel de Egipto</li>
                     <li><strong>Engaño del Corazón:</strong> El Faraón endurece su corazón repetidamente (siete veces en total en Éxodo)</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Plagas de Ranas, Piojos y Moscas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Separación</h5>
+<ul>
+    <li><strong>Poder de la Oración:</strong> Moisés pide a Dios que quite las ranas, demostrando que YHWH controla el tiempo y la duración del juicio.</li>
+    <li><strong>Identificación de Israel:</strong> La plaga de moscas se excluye específicamente de Gosén, demostrando que YHWH puede juzgar selectivamente.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de Adoración Animal</h5>
+<ul>
+    <li><strong>Ranas:</strong> La plaga ataca a **Heket**, la diosa de la fertilidad y la resurrección, a menudo representada con cabeza de rana.</li>
+    <li><strong>Piojos y Moscas:</strong> Los piojos y las moscas eran una ofensa contra la pureza ritual. Los sacerdotes debían permanecer impecablemente limpios y afeitados.</li>
+    <li><strong>La Admisión de la Magia:</strong> Los magos fallan en replicar la plaga de piojos y dicen: **"Dedo de Dios es este."**</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Control:</strong> Los magos pueden imitar, pero no pueden detener. YHWH controla la vida y la muerte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Las plagas se vuelven progresivamente más serias y localizadas. El Faraón endurece su corazón por primera vez sin intervención directa de Dios.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La distinción entre Gosén y el resto de Egipto es crucial, ya que establece la <span class="highlight">separación del pueblo del pacto</span>. Muestra que el juicio de Dios es selectivo y tiene un propósito redentor para Israel.</p>
@@ -2254,6 +3746,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder sobre la Naturaleza:</strong> Dios controla la vida animal, la enfermedad y los elementos climáticos</li>
                     <li><strong>Arrepentimiento Falso:</strong> El Faraón confiesa: "El Señor es justo", pero su corazón no cambia</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Plagas de Ganado, Úlceras y Granizo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Exclusión</h5>
+<ul>
+    <li><strong>Protección del Ganado:</strong> El ganado de Israel se salva, enfatizando nuevamente la separación.</li>
+    <li><strong>Advertencia:</strong> Moisés advierte al Faraón sobre la severidad del granizo, dando una oportunidad de arrepentimiento.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Medicina y el Clima</h5>
+<ul>
+    <li><strong>Muerte del Ganado:</strong> Ataca a dioses como **Apis** (el toro sagrado) y **Hathor** (diosa del amor, representada como vaca).</li>
+    <li><strong>Úlceras:</strong> La plaga ataca a **Imhotep**, el dios de la medicina. Los magos son afectados y no pueden presentarse ante Moisés.</li>
+    <li><strong>Granizo:</strong> Golpea a los dioses del cielo y el clima, como **Nut** (cielo) y **Shu** (aire). El granizo en Egipto era extremadamente raro. </li>
+    <li><strong>Endurecimiento del Corazón:</strong> Dios endurece el corazón del Faraón por primera vez, un acto que revela Su soberanía sobre los reyes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> Las plagas atacan los pilares de la economía (ganado) y la religión (dioses-animales) egipcia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La gente de Egipto comienza a temer a YHWH. El Faraón admite por primera vez: "Yo he pecado esta vez; YHWH es justo, y yo y mi pueblo impíos."
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La plaga de úlceras se aplica tanto a los egipcios como a los magos restantes, eliminando toda la <span class="highlight">resistencia oculta</span>. El granizo prueba que YHWH gobierna sobre el cielo y la tierra.</p>
@@ -2287,6 +3803,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Negociación Fútil:</strong> El Faraón sigue intentando limitar la obediencia de Israel</li>
                     <li><strong>Endurecimiento Final:</strong> El Faraón rechaza ver el rostro de Moisés nuevamente</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Plagas de Langostas y Tinieblas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Retención</h5>
+<ul>
+    <li><strong>Retención de Niños:</strong> El Faraón intenta negociar, ofreciendo dejar ir a los hombres, pero no a los niños. Moisés insiste en que todo el pueblo debe ir, con sus posesiones.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Agricultura y el Sol</h5>
+<ul>
+    <li><strong>Langostas:</strong> Las langostas devoran lo poco que quedaba tras el granizo, golpeando la fuente de vida de los campesinos y a la diosa de la cosecha, **Renunet**.</li>
+    <li><strong>Tinieblas:</strong> La plaga más seria contra el culto egipcio. Ataca a **Ra/Amón-Ra**, el dios Sol, la deidad suprema de Egipto. Las tinieblas simbolizan el caos y la aniquilación. </li>
+    <li><strong>Desafío de Autoridad:</strong> El Faraón prohíbe a Moisés y Aarón volver a ver su rostro, bajo pena de muerte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dominio:</strong> YHWH demuestra dominio total sobre las fuerzas cósmicas (sol) y la Tierra, desmantelando la mitología egipcia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Las tinieblas son la máxima humillación de los dioses de Egipto. La liberación está cerca, pero el Faraón se aferra a su orgullo y a los dioses derrotados.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La plaga de tinieblas es una victoria simbólica: el <span class="highlight">Dios de Israel derrota al dios sol Ra</span>. La negativa del Faraón a ceder el ganado es rechazar la adoración de Israel, lo que lo lleva al juicio irreversible.</p>
@@ -2320,6 +3858,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Separación Absoluta:</strong> No morirán ni el hombre ni el animal de Israel (la plaga no los tocará)</li>
                     <li><strong>El Último Encuentro:</strong> Moisés se despide del Faraón con gran ira</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Anuncio de la Última Plaga</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Preparación para la Partida</h5>
+<ul>
+    <li><strong>Pedir Joyas:</strong> Dios manda a los israelitas a pedir a los egipcios objetos de plata, oro y vestidos. Esto no es robo, sino la paga atrasada por siglos de esclavitud.</li>
+    <li><strong>Gran Fama:</strong> Moisés es tenido en alta estima por los siervos del Faraón y por el pueblo de Egipto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Sucesión</h5>
+<ul>
+    <li><strong>Muerte del Primogénito:</strong> La plaga final ataca la ley de sucesión egipcia: la muerte del primogénito del Faraón, el heredero al trono (que era un dios en vida).</li>
+    <li><strong>Luto Nacional:</strong> El Faraón perderá a su propio hijo, causando un luto generalizado.</li>
+    <li><strong>Castigo Selectivo:</strong> La plaga se limitará al primogénito del hombre y del animal, sin tocar a Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Juicio:</strong> El juicio es tan selectivo que "ni un perro ladrará contra los hijos de Israel." El contraste es total.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La plaga final no es contra un dios, sino contra la vida misma. Es la humillación total del Faraón como dios, al perder a su propio hijo.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La plaga del primogénito es el juicio más severo, ya que ataca la <span class="highlight">continuidad y la deidad misma del Faraón</span>. Demuestra que la vida del primogénito de Israel es valiosa a los ojos de Dios.</p>
@@ -2354,6 +3915,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Final:</strong> La muerte de todos los primogénitos egipcios (animales y hombres)</li>
                     <li><strong>El Éxodo:</strong> La salida apresurada y poderosa de Israel de Egipto</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: La Pascua y el Éxodo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Pascua y la Sangre del Pacto</h5>
+<ul>
+    <li><strong>Calendario Sagrado:</strong> El mes de la Pascua se convierte en el principio de los meses, reordenando el calendario de Israel alrededor de la redención.</li>
+    <li><strong>Sacrificio de la Pascua:</strong> Se sacrifica un cordero (sin defecto, de un año) por cada familia. Este animal era a menudo adorado en Egipto.</li>
+    <li><strong>La Marca de la Sangre:</strong> La sangre del cordero se aplica a los dinteles y postes de las casas, una señal de protección contra el ángel de la muerte.</li>
+    <li><strong>Comida Ritual:</strong> Se come el cordero asado, con pan sin levadura (simbólica de la prisa) y hierbas amargas (simbólica de la esclavitud).</li>
+    <li><strong>Pan sin Levadura:</strong> El mandamiento de comer pan sin levadura (**Matzá**) durante siete días para conmemorar la prisa de la huida.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias del Éxodo</h5>
+<ul>
+    <li><strong>Terror Nocturno:</strong> El grito en Egipto por la muerte de los primogénitos es una señal de la catástrofe nacional.</li>
+    <li><strong>Expulsión:</strong> Los egipcios ruegan a Israel que se vaya, temiendo morir todos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Redención:</strong> Israel es redimido por la sangre del sustituto, no por su propia fuerza. | Egipto es juzgado por su orgullo y rechazo a YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Pascua es el acto fundacional de la nación, que establece el principio de la salvación por gracia a través de la sangre. Es un memorial anual.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Pascua es la <span class="highlight">imagen de la redención futura</span>. La liberación se logra no por la fuerza, sino por la fe obediente en la sangre del cordero, la cual desvía la ira de Dios (un tipo de la obra de Cristo).</p>
@@ -2387,6 +3973,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Guía Divina:</strong> La Columna de Nube/Fuego guía a Israel por el desierto</li>
                     <li><strong>Fidelidad:</strong> Los israelitas cumplen el deseo de José de llevar sus huesos a Canaán</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Consagración y Guía Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Dedicación y el Recuerdo</h5>
+<ul>
+    <li><strong>Consagración del Primogénito:</strong> Se establece la ley de que todo primogénito (animal y humano) debe ser consagrado a Dios, ya sea sacrificado o redimido.</li>
+    <li><strong>Señales de Recuerdo:</strong> Se ordena el uso de filacterias (cajas con escrituras) en la mano y la frente, y la enseñanza a los hijos como un acto constante de recuerdo.</li>
+    <li><strong>Guía Sobrenatural:</strong> Dios guía al pueblo con una columna de nube (de día) y una columna de fuego (de noche), demostrando una presencia física y constante.</li>
+    <li><strong>Huesos de José:</strong> El cumplimiento del juramento de llevar los huesos de José a Canaán es un acto de fe en la promesa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Guerra</h5>
+<ul>
+    <li><strong>El Camino más Corto:</strong> Dios no guía a Israel por el camino de la tierra de los filisteos (más corto), temiendo que el pueblo se arrepienta y regrese a Egipto al enfrentarse a la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Liderazgo:</strong> Israel: Liderazgo directo e inconfundible de Dios | Naciones: Liderazgo militar y humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La nube y el fuego reafirman que Dios no es un dios territorial, sino un Dios que viaja con Su pueblo. La ley del primogénito es un recordatorio constante de la redención.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La columna es la <span class="highlight">presencia física de Dios</span> (Shejiná) guiando y protegiendo a su pueblo. La consagración del primogénito es una deuda de gratitud por haber sido perdonados en la Pascua.</p>
@@ -2421,6 +4030,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Definitivo:</strong> El poder militar de Egipto es completamente aniquilado</li>
                     <li><strong>El Bautismo de Israel:</strong> El paso a través del agua es visto como un bautismo (1 Co. 10:2)</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Cruce del Mar Rojo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra y la Fe</h5>
+<ul>
+    <li><strong>Pánico:</strong> El pueblo cae en la desesperación al ver al ejército egipcio, anhelando la esclavitud por encima de la muerte en el desierto.</li>
+    <li><strong>El Milagro del Mar:</strong> Moisés extiende su vara y Dios usa un fuerte viento oriental para dividir el Mar Rojo. </li>
+    <li><strong>El Paso a Pie:</strong> El pueblo cruza el mar por tierra seca, una manifestación total del poder de YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Guerra de Carros</h5>
+<ul>
+    <li><strong>Carros de Guerra:</strong> El ejército egipcio, con 600 carros escogidos, era el más poderoso del mundo. Su estrategia era la persecución rápida en el desierto.</li>
+    <li><strong>Desorden:</strong> Dios desordena las ruedas de los carros, obstaculizando la tecnología militar egipcia.</li>
+    <li><strong>Destrucción Total:</strong> El mar cubre y ahoga a todo el ejército egipcio, eliminando para siempre la amenaza de regreso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Armamento:</strong> Israel: Fe en la palabra de Moisés | Egipto: Confianza en los carros y la fuerza militar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este es el acto redentor más grande de la historia de Israel. El Mar Rojo simboliza el bautismo de Israel y su total separación de Egipto.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Mar Rojo es el <span class="highlight">acto de salvación y juicio</span> más grande. Simboliza la muerte del pasado esclavizador (Egipto) y el nacimiento de Israel como un pueblo libre y dedicado a Dios.</p>
@@ -2454,6 +4087,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prueba y Queja:</strong> Israel se queja por la falta de agua potable en Mará</li>
                     <li><strong>Sanidad:</strong> Dios sana las aguas y promete ser "Jehová, tu Sanador"</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Canto de Victoria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adoración y el Canto</h5>
+<ul>
+    <li><strong>El Canto de Moisés:</strong> El primer gran canto litúrgico de la Biblia, que celebra la victoria militar de Dios.</li>
+    <li><strong>La Música y la Danza:</strong> Miriam y las mujeres toman panderos y salen a danzar, un rito de celebración de la victoria común en el Cercano Oriente.</li>
+    <li><strong>La Provisión de Agua:</strong> En Mara, el agua amarga es milagrosamente endulzada con un árbol, demostrando la provisión de Dios en el desierto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Derrota y el Caos</h5>
+<ul>
+    <li><strong>Terror de las Naciones:</strong> El canto profetiza que los pueblos vecinos (Filisteos, Edom, Moab, Canaán) se llenarán de terror al escuchar la noticia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Celebración:</strong> Israel: Celebra a YHWH como su guerrero personal | Paganos: Celebraban a guerreros humanos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El canto establece que YHWH es el único **Guerrero Santo**. El milagro del agua de Mara es la primera prueba de la fidelidad de Israel en el desierto.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cántico consagra la liberación. El episodio de Mará enseña que Dios, quien salva, también <span class="highlight">prueba y provee</span>. Las pruebas sirven para establecer la ley de Dios en el corazón del pueblo.</p>
@@ -2487,6 +4142,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obediencia Condicional:</strong> Deben recoger solo lo suficiente para el día</li>
                     <li><strong>Queja:</strong> Israel desea volver a la esclavitud con comida abundante</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Maná y el Sábado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sábado y la Provisión</h5>
+<ul>
+    <li><strong>Queja en el Desierto:</strong> El pueblo se queja por la falta de comida. La queja es contra Moisés y Aarón, pero en realidad es contra Dios.</li>
+    <li><strong>El Maná:</strong> Dios provee maná (pan del cielo) y codornices. El maná era un alimento milagroso que debía recogerse diariamente (excepto el sábado).</li>
+    <li><strong>La Regla del Sábado:</strong> Se establece la regla de no salir a recoger el maná en sábado, probando la obediencia del pueblo.</li>
+    <li><strong>El Ómer:</strong> Se guarda un ómer de maná para las futuras generaciones, como recuerdo de la provisión.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Nómadas de Acumulación</h5>
+<ul>
+    <li><strong>Acumulación de Comida:</strong> La tentación de acumular maná para el día siguiente, mostrando la falta de confianza en la provisión diaria.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Alimento:</strong> Israel: Dependencia total de la provisión diaria y la ley del sábado | Paganos: Acumulación por temor y autosuficiencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ley del maná es la primera prueba de la obediencia de Israel antes de la Ley del Sinaí. El maná es un símbolo de la Palabra de Dios.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El maná es la <span class="highlight">demostración diaria de la fidelidad de Dios</span> y la dependencia de Israel. Es también un tipo profético de Jesús, el "pan de vida" (Juan 6).</p>
@@ -2521,6 +4199,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Intercesión:</strong> La victoria militar depende de la oración constante de Moisés</li>
                     <li><strong>Guerra Perpetua:</strong> Dios jura guerra eterna contra Amalec por su ataque no provocado</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Agua de la Roca y Guerra con Amalec</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Prueba y la Guerra Sagrada</h5>
+<ul>
+    <li><strong>La Prueba en Masa:</strong> El pueblo prueba a Dios con su incredulidad por la falta de agua en Refidim.</li>
+    <li><strong>Agua de la Roca:</strong> Moisés golpea la roca de Horeb, y fluye agua, demostrando la provisión en el desierto (la roca es la presencia de Dios).</li>
+    <li><strong>Guerra Sagrada:</strong> Josué (el futuro líder) es elegido para dirigir la batalla contra los amalecitas.</li>
+    <li><strong>Oración y Victoria:</strong> Israel vence solo mientras Moisés tiene los brazos levantados. La victoria depende de la intercesión, no de la fuerza.</li>
+    <li><strong>El Altar Conmemorativo:</strong> Moisés construye un altar llamado **YHWH-Nisi** ("El Señor es mi Estandarte").</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Amalecitas</h5>
+<ul>
+    <li><strong>Ataque por la Retaguardia:</strong> Amalec ataca a Israel de forma cruel, golpeando a los débiles y rezagados, mostrando su falta de honor en la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Victoria:</strong> Israel: Victoria asegurada por la oración y la intercesión | Amalec: Confianza en el ataque furtivo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La batalla contra Amalec es el primer acto de guerra de Israel, estableciendo el principio de que la guerra es santa y ganada por Dios.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El incidente de la roca demuestra que Dios está presente <span class="highlight">incluso en la queja</span>, proveyendo misericordiosamente. La batalla de Amalec enseña que la vida en el pacto es una batalla espiritual que requiere la intercesión continua.</p>
@@ -2554,6 +4256,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Organización:</strong> La necesidad de una estructura de gobierno para la nación en crecimiento</li>
                     <li><strong>Delegación:</strong> Establecimiento de jueces para casos menores, liberando a Moisés para casos mayores</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Consejo de Jetro y la Administración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Hospitalidad y el Sacrificio</h5>
+<ul>
+    <li><strong>Consejo de Ancianos:</strong> Jetro (sacerdote de Madián y suegro de Moisés) visita el campamento y ofrece un sacrificio a YHWH junto a los ancianos.</li>
+    <li><strong>Organización Judicial:</strong> Jetro aconseja a Moisés delegar la autoridad, estableciendo jueces sobre miles, cientos, cincuenta y diez.</li>
+    <li><strong>Separación de Poderes:</strong> Se establece una jerarquía judicial para que los asuntos pequeños no consuman el tiempo del líder.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Liderazgos Tribales</h5>
+<ul>
+    <li><strong>Autoridad Tribal:</strong> Los líderes tribales y jueces eran comunes en las sociedades nómadas para resolver disputas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fuente del Consejo:</strong> El consejo de organización administrativa viene de un sacerdote de Madián, mostrando que la sabiduría no es exclusiva de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El capítulo muestra la necesidad de una estructura de gobierno para el pueblo. La partida de Jetro simboliza que Israel está listo para recibir la Ley sin influencias externas.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo muestra que la <span class="highlight">sabiduría práctica y administrativa</span> no es exclusiva de Israel, sino que puede ser aplicada para el bienestar del pueblo de Dios. Jetro es el primer gentil en reconocer plenamente a YHWH después de los juicios.</p>
@@ -2587,6 +4311,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad Requerida:</strong> El pueblo debe purificarse antes de acercarse al monte</li>
                     <li><strong>Manifestación de la Gloria:</strong> Truenos, relámpagos, fuego y humo cubren el monte</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Monte Sinaí y la Santidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Consagración y el Pacto</h5>
+<ul>
+    <li><strong>Llegada al Sinaí:</strong> El lugar donde Dios había prometido a Moisés que adorarían.</li>
+    <li><strong>El Pacto Matrimonial:</strong> Dios ofrece hacer de Israel un "reino de sacerdotes y nación santa" a través de un pacto basado en la obediencia.</li>
+    <li><strong>Purificación:</strong> El pueblo debe santificarse, lavar sus vestidos y abstenerse de relaciones sexuales para el encuentro con Dios.</li>
+    <li><strong>Límites Sagrados:</strong> Se colocan límites alrededor del monte. Tocar el monte es castigado con la muerte.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Teófono Pagano</h5>
+<ul>
+    <li><strong>Montes Sagrados:</strong> Las culturas vecinas creían que los dioses habitaban en montes y fenómenos naturales, pero se acercaban sin reverencia moral.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Acceso a Dios:</strong> Israel: El acceso es posible por el pacto, pero requiere santidad rigurosa | Paganos: Acceso por rituales sin implicación moral.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La manifestación de Dios en el monte (truenos, relámpagos, nube densa) es aterradora, destacando Su majestad y la seriedad del pacto.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>Dios rescata a Israel de la esclavitud (Éxodo) para establecer un <span class="highlight">Pacto de Obra</span> basado en la Ley. El Monte Sinaí representa la majestad, el terror y la santidad de Dios, que requiere respeto y distancia.</p>
@@ -2620,6 +4367,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Sábado:</strong> El mandamiento del descanso como señal del pacto</li>
                     <li><strong>Moralidad Social:</strong> Prohibición de matar, adulterio, robo, falso testimonio y codicia</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Los Diez Mandamientos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley Moral Universal</h5>
+<ul>
+    <li><strong>Los Diez Mandamientos:</strong> La base de la ley moral y social de Israel, única en la Antigüedad.</li>
+    <li><strong>Monoteísmo:</strong> La prohibición de otros dioses y de imágenes de culto es una ruptura radical con el politeísmo circundante.</li>
+    <li><strong>Sábado:</strong> La observancia del séptimo día como descanso y recuerdo de la creación.</li>
+    <li><strong>Honor Parental:</strong> La promesa de longevidad si se honra a los padres era una base para la estabilidad social.</li>
+    <li><strong>Ley de Propiedad y Vida:</strong> Los mandamientos contra el asesinato, el adulterio, el robo, el falso testimonio y la codicia son los fundamentos de la ley civil.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Códigos de Leyes Vecinos</h5>
+<ul>
+    <li><strong>Código de Hammurabi:</strong> Leyes con base social (*ojo por ojo*), pero no tenían una base teológica monoteísta.</li>
+    <li><strong>Idolatría:</strong> Uso de ídolos de dioses con forma animal o humana.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Base de la Ley:</strong> Israel: Basada en el carácter de Dios y la relación de pacto | Vecinos: Basada en la jerarquía social y la autoridad real.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley es el centro del pacto. El temor de Dios impulsa al pueblo a pedir que Moisés sea el intermediario, estableciendo su rol.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Decálogo es una <span class="highlight">revelación del carácter santo de Dios</span> y el estándar moral que debe regir a su pueblo redimido. La Ley no es un medio de salvación, sino una guía para la vida en respuesta a la salvación (comenzando con "Yo soy tu Dios que te saqué de la tierra de Egipto...").</p>
@@ -2652,6 +4424,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Protección de la Vida:</strong> Leyes sobre el homicidio, el secuestro y la violencia física (incluida la ley del *lex talionis*: "ojo por ojo")</li>
                     <li><strong>Justicia para la Mujer:</strong> Leyes sobre la esposa comprada y las esclavas</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Leyes de Siervos y Violencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Justicia Social</h5>
+<ul>
+    <li><strong>Leyes de Esclavos Hebreos:</strong> La esclavitud es regulada. Un siervo hebreo debe ser liberado al séptimo año (año sabático).</li>
+    <li><strong>Marcado de Esclavos:</strong> Si un esclavo elige quedarse, debe ser marcado permanentemente en la oreja con un punzón ante los jueces.</li>
+    <li><strong>Pena Capital:</strong> La pena de muerte se aplica estrictamente al asesinato premeditado, el secuestro y el maltrato a los padres.</li>
+    <li><strong>La Ley del Talión:</strong> La ley de *ojo por ojo, diente por diente* (compensación equivalente y justa), destinada a limitar la venganza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Esclavitud Extrema</h5>
+<ul>
+    <li><strong>Esclavitud Permanente:</strong> En las culturas vecinas, la esclavitud solía ser permanente y hereditaria, sin liberación obligatoria.</li>
+    <li><strong>Venganza Sin Fin:</strong> Las vendettas se extendían sin límite ni proporcionalidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Esclavitud:</strong> Israel: Temporal, regulada, y con liberación obligatoria | Vecinos: Permanente y sin regulación moral.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley de Moisés intenta humanizar y regular la esclavitud y la violencia, elevando el valor de la vida humana.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley regula la vida social para proteger a los vulnerables, especialmente a los siervos. El principio del <span class="highlight">lex talionis</span> (medida por medida) no era una ley de venganza personal, sino un límite impuesto a la retribución (proporcionalidad legal).</p>
@@ -2684,6 +4480,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad Religiosa:</strong> Prohibición de la hechicería y la idolatría (la condena a muerte)</li>
                     <li><strong>Relaciones Sociales:</strong> El respeto a los magistrados y la prohibición de la calumnia</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Leyes de Propiedad y Culto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Restitución y la Moralidad</h5>
+<ul>
+    <li><strong>Restitución:</strong> Las leyes de robo requieren una restitución múltiple (hasta el quíntuple) para compensar a la víctima.</li>
+    <li><strong>Protección de Viudas y Huérfanos:</strong> Se prohíbe afligir a los más vulnerables de la sociedad, un mandato de justicia social.</li>
+    <li><strong>Prohibición de la Magia:</strong> La prohibición de la hechicería y de acostarse con animales era una ruptura con las prácticas cananeas de culto a la fertilidad.</li>
+    <li><strong>Primeros Frutos:</strong> La consagración de los primeros frutos y primogénitos a Dios como reconocimiento de Su soberanía.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Brujería y el Culto</h5>
+<ul>
+    <li><strong>Hechicería:</strong> Las prácticas mágicas eran comunes en la cultura egipcia y cananea.</li>
+    <li><strong>Sacrificios Humanos:</strong> Se prohíbe sacrificar a los hijos a los dioses (referencia a Moloc).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> Israel: Protección de los pobres y restitución | Vecinos: Justicia que favorece a los ricos y poderosos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El castigo contra el hechicero se basa en la idea de que solo Dios tiene el poder de actuar en lo sobrenatural.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las leyes de restitución son un reflejo de la <span class="highlight">justicia reparadora</span>. La prohibición de oprimir al extranjero se basa en el recuerdo de la propia esclavitud de Israel en Egipto.</p>
@@ -2716,6 +4536,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Los Tres Festivales:</strong> Fiestas obligatorias de peregrinación anual</li>
                     <li><strong>La Conquista:</strong> Dios promete expulsar gradualmente a los cananeos</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Leyes de Testimonio y Fiestas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Verdad y la Adoración</h5>
+<ul>
+    <li><strong>Testimonio Imparcial:</strong> Se prohíbe seguir a la multitud para hacer el mal y torcer el derecho en el juicio.</li>
+    <li><strong>Ley Agraria:</strong> La ley del **Año Sabático** (dejar la tierra en barbecho cada siete años) y el descanso del siervo y el animal el sábado.</li>
+    <li><strong>Las Tres Fiestas Anuales:</strong>
+        <ul>
+            <li><strong>Panes sin Levadura:</strong> El recuerdo de la Pascua y la salida de Egipto.</li>
+            <li><strong>Cosecha/Pentecostés:</strong> La celebración de los primeros frutos.</li>
+            <li><strong>Cabañas/Tabernáculos:</strong> El recuerdo de la vida en tiendas en el desierto.</li>
+        </ul>
+    </li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Culto Cananeo</h5>
+<ul>
+    <li><strong>Ídolos y Altares:</strong> Dios ordena destruir los altares y las imágenes de los cananeos.</li>
+    <li><strong>Ofrendas Prohibidas:</strong> No se permite ofrecer la sangre del sacrificio de YHWH con pan con levadura.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Adoración:</strong> Israel: Fiestas vinculadas a la historia de la redención | Paganos: Fiestas vinculadas a ciclos naturales y deidades de la fertilidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ética de la verdad y la justicia se extiende incluso a los enemigos. La promesa de la Tierra está condicionada a la obediencia a estas leyes.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">adoración de Israel</span> está intrínsecamente ligada al calendario agrícola. La justicia debe ser impartida sin sesgos, reflejando el carácter de YHWH, quien es justo con todos.</p>
@@ -2750,6 +4599,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Las Tablas de la Ley:</strong> Moisés sube al monte para recibir el Decálogo escrito por el "dedo de Dios"</li>
                     <li><strong>Retiro:</strong> Moisés pasa 40 días y 40 noches en el monte</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Sellado del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ceremonia de Pacto</h5>
+<ul>
+    <li><strong>Lectura de la Ley:</strong> Moisés lee el "Libro del Pacto" al pueblo para asegurar su consentimiento informado.</li>
+    <li><strong>Sacrificio de Pacto:</strong> Se sacrifican animales, y su sangre es derramada sobre el altar y rociada sobre el pueblo. La sangre sella el acuerdo legal.</li>
+    <li><strong>La Comida Sagrada:</strong> Setenta ancianos y Aarón y Hur suben al monte, donde ven a Dios y comen y beben en Su presencia (comida de comunión).</li>
+    <li><strong>Subida de Moisés:</strong> Moisés sube al monte por 40 días y 40 noches para recibir las Tablas de la Ley.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Juramento Pagano</h5>
+<ul>
+    <li><strong>Juramento por Animales:</strong> Los pactos entre reinos a menudo se sellaban con sangre y el sacrificio de animales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Comunión:</strong> Israel: La sangre media el acceso y la comida con Dios | Paganos: El sacrificio busca apaciguar a dioses distantes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo es la ratificación formal de la alianza, haciendo de Israel el pueblo legal de YHWH.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El pacto es <span class="highlight">ratificado con sangre</span>, indicando que es un acuerdo de vida o muerte. Ver la gloria de Dios (el "pavimento de zafiro") y vivir para contarlo es una señal de la misericordia de Dios en el pacto.</p>
@@ -2783,6 +4655,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Arca del Pacto:</strong> El mueble más sagrado, contiene la Ley</li>
                     <li><strong>El Propiciatorio:</strong> La tapa del Arca, el lugar de la expiación</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Ofrenda para el Tabernáculo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto en el Desierto</h5>
+<ul>
+    <li><strong>La Ofrenda Voluntaria:</strong> Dios ordena al pueblo traer una ofrenda voluntaria (oro, plata, bronce, telas, pieles, aceites, especias) para la construcción del santuario.</li>
+    <li><strong>El Tabernáculo (Mishkan):</strong> El concepto de un "Santuario portátil" para que Dios "more en medio de ellos."</li>
+    <li><strong>El Arca del Pacto:</strong> El mueble más sagrado, un cofre de madera cubierto de oro, que contenía las Tablas de la Ley (el testimonio).</li>
+    <li><strong>El Propiciatorio (Kapporet):</strong> La cubierta del Arca, con dos querubines, donde Dios se encontraría con Moisés.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Templos Fijos</h5>
+<ul>
+    <li><strong>Templos Egipcios:</strong> Faraón construía templos de piedra masivos, fijos y dedicados a deidades específicas.</li>
+    <li><strong>Idolatría:</strong> Uso de estatuas de dioses. El Arca solo tiene las Tablas (la Ley).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Naturaleza del Templo:</strong> Israel: Portátil, para un Dios que viaja con Su pueblo | Vecinos: Fijos, para dioses ligados a un lugar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Tabernáculo es el centro del campamento, recordando a Israel que la presencia de Dios está en medio de ellos.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Tabernáculo es una representación física de la <span class="highlight">presencia mediadora de Dios</span> en un mundo impuro. Su diseño y materiales reflejan la santidad y gloria divinas.</p>
@@ -2815,6 +4711,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Velo:</strong> Separa el Lugar Santo del Lugar Santísimo (donde habita Dios)</li>
                     <li><strong>Portabilidad:</strong> Diseñado para ser desmontado y transportado durante el viaje</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Diseño Estructural del Tabernáculo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Arquitectura Sagrada</h5>
+<ul>
+    <li><strong>La Tienda de Reunión:</strong> El Tabernáculo es una tienda, reflejando el estilo de vida nómada de Israel.</li>
+    <li><strong>Velo de Separación:</strong> El velo que divide el Lugar Santo del Lugar Santísimo (**Kodesh HaKodashim**) para proteger al pueblo de la santidad excesiva de Dios.</li>
+    <li><strong>Materiales Preciosos:</strong> El uso de oro y plata simboliza la riqueza y la santidad, contrastando con la pobreza del desierto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Templos Egipcios</h5>
+<ul>
+    <li><strong>Diseño Interior:</strong> Los templos egipcios tenían cámaras internas, pero no la separación estricta entre Dios y el hombre.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Acceso:</strong> Solo el Sumo Sacerdote una vez al año puede cruzar el velo | Templos: Los sacerdotes tenían acceso diario a la estatua del dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Cada detalle del Tabernáculo es una lección de teología: Dios es santo (separado), pero habita entre Su pueblo.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Velo que separa los dos lugares sagrados simboliza la <span class="highlight">separación absoluta</span> entre el Dios santo y el hombre pecador. La estructura estaba diseñada para ser una réplica terrenal de la morada celestial (Heb. 8:5).</p>
@@ -2847,6 +4765,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Límite Sagrado:</strong> Las cortinas de lino delimitan el atrio</li>
                     <li><strong>Servicio:</strong> Se establecen provisiones para el aceite de la lámpara (servicio continuo)</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Altar del Holocausto y el Atrio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio y la Luz</h5>
+<ul>
+    <li><strong>El Altar de Bronce:</strong> El gran altar de bronce en el atrio exterior, donde se quemaban las ofrendas. El bronce simboliza el juicio.</li>
+    <li><strong>El Atrio Exterior:</strong> El área alrededor del Tabernáculo, que establece un espacio sagrado que separa lo profano de lo santo.</li>
+    <li><strong>El Aceite para la Lámpara:</strong> Aceite de oliva puro para la lámpara que arde continuamente, simbolizando la presencia y la palabra de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios Pagana</h5>
+<ul>
+    <li><strong>Sacrificio en la Puerta:</strong> Los altares paganos a menudo se colocaban fuera de los templos, pero sin la regulación de la Ley.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Rito:</strong> El sacrificio es un acto de expiación y redención por el pecado | Paganos: El sacrificio es una forma de negociación con el dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Luz (la lámpara) simboliza la instrucción constante que sale del santuario. El sacrificio es la puerta de entrada para la adoración.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Altar es el punto de entrada para el adorador; simboliza la <span class="highlight">muerte necesaria</span> para la expiación del pecado. El bronce, material del altar, contrasta con el oro interior, reflejando el juicio de Dios sobre la carne.</p>
@@ -2880,6 +4820,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Urim y Tumim:</strong> Elementos de juicio y revelación divina en el pectoral</li>
                     <li><strong>Santidad:</strong> La placa de oro en la frente del Sumo Sacerdote ("Santidad a YHWH")</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Vestiduras Sacerdotales</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Mediación</h5>
+<ul>
+    <li><strong>Sacerdocio Aarónico:</strong> Aarón y sus hijos son apartados para el servicio sacerdotal.</li>
+    <li><strong>El Efod y el Pectoral:</strong> Vestiduras de lino fino y oro, que simbolizan la posición única del Sumo Sacerdote como mediador.</li>
+    <li><strong>Las Piedras de Memoria:</strong> El pectoral con 12 piedras preciosas (una por cada tribu) y dos piedras de ónice en los hombros. El sacerdote lleva a Israel ante Dios.</li>
+    <li><strong>Urim y Tumim:</strong> Dos objetos (posiblemente piedras) usados para la adivinación divina (sí/no) para tomar decisiones importantes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacerdotes Egipcios</h5>
+<ul>
+    <li><strong>Sacerdotes Afeitados:</strong> Los sacerdotes egipcios se afeitaban todo el cuerpo como signo de pureza. Sus vestiduras eran principalmente de lino blanco.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Función:</strong> Sacerdote de Israel: Mediador entre Dios y el pueblo, llevando las tribus ante Dios | Sacerdote Pagano: Sirviente de la estatua del dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Sumo Sacerdote, con su santidad visible, es el representante del pueblo y el único autorizado para el culto.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Sumo Sacerdote es la figura central de la mediación. Sus vestiduras simbolizan que él lleva a toda la <span class="highlight">nación de Israel sobre su corazón y sus hombros</span> ante la presencia de Dios.</p>
@@ -2913,6 +4876,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sacrificio de Consagración:</strong> La aplicación de la sangre en las orejas, manos y pies (dedicación total al servicio)</li>
                     <li><strong>Ofrenda Diaria:</strong> Se establece el sacrificio continuo de la mañana y la tarde</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Consagración de Sacerdotes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rito de Iniciación</h5>
+<ul>
+    <li><strong>Lavado y Vestidura:</strong> Aarón y sus hijos son lavados con agua y vestidos con las vestiduras sagradas, un rito de purificación y separación.</li>
+    <li><strong>Unción:</strong> Se usa aceite de unción para consagrar a Aarón. El aceite simboliza la bendición y el Espíritu de Dios.</li>
+    <li><strong>Sacrificio de Consagración:</strong> Se ofrece un toro (expiación) y dos carneros (holocausto y ofrenda de paz) en una ceremonia de siete días.</li>
+    <li><strong>Sangre en las Extremidades:</strong> La sangre del carnero es aplicada al lóbulo de la oreja, el pulgar derecho y el dedo gordo del pie derecho, simbolizando que el sacerdote está dedicado a Dios en el oír, el obrar y el caminar.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Ordenaciones Paganas</h5>
+<ul>
+    <li><strong>Iniciación por Esoterismo:</strong> Los sacerdotes paganos eran iniciados a través de rituales esotéricos y secretos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Base del Sacerdocio:</strong> Israel: Basado en el sacrificio y la sangre del pacto | Paganos: Basado en el poder mágico o la herencia familiar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La consagración establece que el servicio sacerdotal requiere un proceso de purificación y separación.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La aplicación de la sangre simboliza que todo el ser del sacerdote (oído, acción, caminar) está <span class="highlight">dedicado al servicio de Dios</span>. El sacrificio continuo asegura la presencia de Dios en el santuario.</p>
@@ -2945,6 +4931,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Igualdad:</strong> El impuesto de rescate (medio siclo) es el mismo para ricos y pobres</li>
                     <li><strong>Santidad:</strong> El aceite y el incienso están prohibidos para el uso común</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Altar del Incienso y el Rescate</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Incienso y la Expiación</h5>
+<ul>
+    <li><strong>Altar del Incienso:</strong> El altar de oro, donde el sacerdote quema incienso aromático continuo. El humo simboliza las oraciones del pueblo.</li>
+    <li><strong>El Incienso Prohibido:</strong> La mezcla sagrada de incienso no puede replicarse para uso personal.</li>
+    <li><strong>Medio Siclo (Rescate):</strong> Todo varón adulto debe pagar un **rescate por su alma** (medio siclo de plata) para expiar su vida, independientemente de su riqueza.</li>
+    <li><strong>La Fuente de Bronce:</strong> La fuente de bronce para que los sacerdotes se laven las manos y los pies antes de ministrar, un requisito de limpieza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Impuestos del Templo</h5>
+<ul>
+    <li><strong>Impuestos Basados en Ingresos:</strong> Los templos paganos cobraban impuestos basados en la riqueza o el estatus.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Rescate:</strong> La vida de todos tiene el mismo valor (medio siclo) | Paganos: El valor de la persona depende de su clase.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El rescate (medio siclo) establece el principio de que la vida pertenece a Dios y que Su pueblo es redimido.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La fuente de bronce simboliza la <span class="highlight">purificación continua</span> requerida para ministrar a Dios. El Altar del Incienso recuerda que el sacerdocio es un ministerio de oración.</p>
@@ -2977,6 +4986,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> La pena de muerte por profanar el sábado</li>
                     <li><strong>Las Tablas:</strong> Dios entrega a Moisés las dos tablas de piedra escritas por Él mismo</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Artesanos Divinamente Inspirados</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Artesanado y el Sábado</h5>
+<ul>
+    <li><strong>Inspiración Divina:</strong> Bezalel y Aholiab son nombrados artesanos principales, llenos del "Espíritu de Dios" para trabajar en oro, plata, bronce, tallado de madera y telas.</li>
+    <li><strong>El Sábado como Señal:</strong> El mandamiento del sábado es reiterado como una "señal perpetua" entre Dios e Israel. El trabajo de construcción del Tabernáculo debe detenerse por el sábado.</li>
+    <li><strong>Las Tablas de Piedra:</strong> Moisés recibe las dos tablas del testimonio, escritas por el "dedo de Dios."</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Artesanos Egipcios</h5>
+<ul>
+    <li><strong>Maestros de Obra:</strong> Los egipcios tenían una alta estima por los artesanos, pero su habilidad era vista como un talento humano, no una dotación divina.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Habilidad:</strong> Israel: La habilidad artística es un don del Espíritu de Dios para Su servicio | Paganos: La habilidad es para la gloria del Faraón y sus dioses.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley (las tablas) y el Templo (el diseño) se completan simultáneamente. El Sábado tiene prioridad incluso sobre la construcción del santuario.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La habilidad artística para el servicio divino es un <span class="highlight">don del Espíritu Santo</span>. El Sábado es la prueba de fuego de la obediencia de Israel: deben honrar el descanso de Dios sobre la urgencia de la construcción.</p>
@@ -3011,6 +5042,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ruptura del Pacto:</strong> Moisés rompe las tablas, simbolizando la ruptura del pacto</li>
                     <li><strong>Juicio:</strong> Muerte de 3,000 personas por la espada de los levitas</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: El Becerro de Oro y la Apostasía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Mediación Fallida y el Castigo</h5>
+<ul>
+    <li><strong>El Becerro de Oro:</strong> Aarón funde un ídolo en forma de becerro. Esto era una ofensa capital, una fusión del culto a YHWH con la iconografía egipcia (**Apis** o **Mnevis**).</li>
+    <li><strong>Fiesta a YHWH:</strong> El pueblo declara "Mañana será fiesta a YHWH," intentando apropiarse del becerro como una forma visible de su dios liberador.</li>
+    <li><strong>Destrucción de la Ley:</strong> Moisés rompe las tablas del testimonio en señal de que el pacto ha sido quebrantado.</li>
+    <li><strong>El Castigo:</strong> Moisés muele el becerro, lo quema, y lo hace beber al pueblo. Los levitas castigan a los transgresores (3.000 hombres).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Egipcias de la Iconografía Animal</h5>
+<ul>
+    <li><strong>Becerro Sagrado:</strong> El becerro de Apis era una deidad de fertilidad y poder, común en el culto egipcio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Concepto de Dios:</strong> Israel: Quiere un dios visible y controlable | YHWH: Es un Dios invisible, trascendente y que prohíbe las imágenes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El incidente es la crisis de fe más grande. La intercesión de Moisés es lo único que salva a la nación de ser destruida.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Becerro de Oro revela la <span class="highlight">fragilidad de la fe</span> de Israel. La intercesión de Moisés, arriesgando su propia vida, es un poderoso acto de mediación que prefigura a Cristo.</p>
@@ -3043,6 +5097,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Intimidad con Dios:</strong> La relación de Moisés con Dios es única ("como habla cualquiera a su amigo")</li>
                     <li><strong>La Revelación de la Gloria:</strong> Dios revela su bondad y su nombre a Moisés</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: La Tienda de Reunión y la Presencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Intercesión Personal</h5>
+<ul>
+    <li><strong>Remoción de Adornos:</strong> Dios ordena al pueblo quitarse sus joyas y adornos en señal de arrepentimiento.</li>
+    <li><strong>La Tienda de Reunión Temporal:</strong> Moisés mueve la tienda de reunión fuera del campamento profano.</li>
+    <li><strong>El Rostro de Dios:</strong> Moisés pide ver la "Gloria" de Dios. Dios le permite ver Su "espalda" (una manifestación indirecta de Su presencia).</li>
+    <li><strong>Súplica de la Presencia:</strong> Moisés intercede para que Dios siga viajando con Israel a pesar de su pecado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Tiendas de Adivinación</h5>
+<ul>
+    <li><strong>Tienda-Santuario:</strong> Otras tribus nómadas usaban tiendas como santuarios para la adivinación o el culto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Acceso:</strong> Moisés tiene un acceso único a Dios (cara a cara, como un amigo) | El pueblo adora a distancia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La presencia continua de Dios se convierte en la única diferencia entre Israel y cualquier otra nación.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El "rostro de Dios" representa su ser completo, mientras que su "espalda" es su bondad y fidelidad. La intercesión de Moisés es un acto de <span class="highlight">dependencia absoluta</span>: no pueden avanzar sin Dios.</p>
@@ -3076,6 +5153,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Renovación:</strong> El pacto se reestablece, con la prohibición de hacer alianzas con los cananeos</li>
                     <li><strong>El Velo de Moisés:</strong> Moisés debe cubrir su rostro para que el pueblo pueda acercarse</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Renovación del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Carácter Divino y las Nuevas Tablas</h5>
+<ul>
+    <li><strong>Nuevas Tablas:</strong> Moisés debe tallar dos nuevas tablas de piedra. La Ley es inmutable, pero el material no.</li>
+    <li><strong>Revelación del Carácter:</strong> Dios se revela como "misericordioso y clemente, tardo para la ira, y grande en misericordia y verdad..." (la declaración central de Su carácter).</li>
+    <li><strong>Prohibición de Alianza:</strong> Se prohíbe expresamente hacer alianzas con los cananeos y casarse con sus hijas.</li>
+    <li><strong>El Resplandor de Moisés:</strong> El rostro de Moisés resplandece después de hablar con Dios. Debe usar un velo para que el pueblo no se asuste.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Símbolos Cananeos</h5>
+<ul>
+    <li><strong>Aseras y Altares:</strong> Dios reitera la orden de destruir los árboles y altares de culto cananeo (Aseras).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Perdón:</strong> Dios es justo (castiga el pecado) y misericordioso (perdona el pecado) | Paganos: Los dioses son caprichosos e impredecibles.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El pacto se renueva por la gracia de Dios, no por el mérito de Israel. El velo de Moisés simboliza la distancia entre la gloria y el pueblo.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">renovación del pacto</span> es un acto de gracia inmerecida. El resplandor de Moisés simboliza la gloria mediadora de la antigua alianza, que era temporal y debía ser cubierta.</p>
@@ -3108,6 +5208,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Generosidad:</strong> El pueblo da más de lo necesario para la obra</li>
                     <li><strong>Llamamiento a los Artesanos:</strong> Moisés nombra a Bezaleel y Aholiab ante el pueblo</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Renovación del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Carácter Divino y las Nuevas Tablas</h5>
+<ul>
+    <li><strong>Nuevas Tablas:</strong> Moisés debe tallar dos nuevas tablas de piedra. La Ley es inmutable, pero el material no.</li>
+    <li><strong>Revelación del Carácter:</strong> Dios se revela como "misericordioso y clemente, tardo para la ira, y grande en misericordia y verdad..." (la declaración central de Su carácter).</li>
+    <li><strong>Prohibición de Alianza:</strong> Se prohíbe expresamente hacer alianzas con los cananeos y casarse con sus hijas.</li>
+    <li><strong>El Resplandor de Moisés:</strong> El rostro de Moisés resplandece después de hablar con Dios. Debe usar un velo para que el pueblo no se asuste.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Símbolos Cananeos</h5>
+<ul>
+    <li><strong>Aseras y Altares:</strong> Dios reitera la orden de destruir los árboles y altares de culto cananeo (Aseras).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Perdón:</strong> Dios es justo (castiga el pecado) y misericordioso (perdona el pecado) | Paganos: Los dioses son caprichosos e impredecibles.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El pacto se renueva por la gracia de Dios, no por el mérito de Israel. El velo de Moisés simboliza la distancia entre la gloria y el pueblo.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La generosidad del pueblo es una <span class="highlight">respuesta de amor y gratitud</span> por el pacto renovado. El Tabernáculo se construye con la voluntad del pueblo y el poder del Espíritu.</p>
@@ -3139,6 +5262,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad al Plano:</strong> La construcción sigue exactamente el modelo dado por Dios</li>
                     <li><strong>La Obra de los Hábiles:</strong> Los artesanos utilizan sus dones dados por Dios</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Recolección y Fabricación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ingeniería y la Colaboración</h5>
+<ul>
+    <li><strong>Detención de la Ofrenda:</strong> La gente trae tantos materiales que Moisés debe detener la recolección.</li>
+    <li><strong>Habilidad y Sabiduría:</strong> Los artesanos usan sus habilidades divinamente inspiradas para tejer, fundir y construir los marcos del Tabernáculo.</li>
+    <li><strong>Cortinas y Cubiertas:</strong> La confección de las cortinas del Tabernáculo con intrincados bordados de querubines.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Proyectos Reales</h5>
+<ul>
+    <li><strong>Trabajo Forzado:</strong> Los grandes proyectos de construcción (como las pirámides) en Egipto se basaban en la esclavitud y el trabajo forzado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Mano de Obra:</strong> Israel: Habilidad voluntaria dada por Dios | Egipto: Esclavitud forzada por el Faraón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El fervor por construir el santuario contrasta con la apatía que tenían por la adoración a YHWH bajo la esclavitud.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El informe de que hay "demasiado" es un raro testimonio de la <span class="highlight">generosidad del corazón humano</span>, contrastando fuertemente con la avaricia mostrada por el Becerro de Oro.</p>
@@ -3170,6 +5315,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Detalle:</strong> La fidelidad a los detalles del plano (la corona, los aros, las varas)</li>
                     <li><strong>La Luz:</strong> El candelabro (Menorá) provee la única luz en el Lugar Santo</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Construcción de los Muebles</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Orfebrería y la Santidad</h5>
+<ul>
+    <li><strong>El Arca de Testimonio:</strong> El mueble más sagrado se construye primero, enfatizando la Ley y el Pacto como el centro del culto.</li>
+    <li><strong>La Mesa de la Proposición:</strong> La mesa para el pan de la proposición (pan que se exhibía semanalmente).</li>
+    <li><strong>El Candelabro (Menorá):</strong> El candelabro de oro puro, con siete brazos, tallado a martillo, simbolizando la luz de Dios en el mundo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Estatuas de Dioses</h5>
+<ul>
+    <li><strong>Ídolos de Oro:</strong> Los templos paganos contenían estatuas de oro de sus dioses. El Arca no contiene ninguna estatua, solo la Ley.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Símbolo de Culto:</strong> Israel: La Palabra de Dios (la Ley) | Paganos: La imagen física.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El detalle en el mobiliario refleja la seriedad y la perfección que Dios exige en Su culto.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Candelabro es el símbolo de la <span class="highlight">luz de Dios</span> en el Lugar Santo. El Arca (con el Propiciatorio) es el lugar de la misericordia, donde la Ley rota (el juicio) se encuentra con la gracia (la sangre).</p>
@@ -3201,6 +5368,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fuente de Bronce:</strong> Fabricada con espejos (reflejando el juicio y la purificación)</li>
                     <li><strong>Censo de Materiales:</strong> Se incluye un inventario final del oro, plata y bronce utilizados, que da autenticidad histórica al relato</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Atrio y Plata de Rescate</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Censo y el Uso de Materiales</h5>
+<ul>
+    <li><strong>El Altar de Bronce:</strong> La construcción del altar de bronce, donde el fuego nunca debe apagarse.</li>
+    <li><strong>Fuente de Lavamiento:</strong> La fuente de bronce hecha de los espejos de las mujeres, un símbolo de purificación de la vanidad.</li>
+    <li><strong>Uso de Plata:</strong> La plata recogida del censo (el rescate del alma) se utiliza para hacer los zócalos de las columnas y los capiteles del Tabernáculo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Impureza</h5>
+<ul>
+    <li><strong>Impureza Ritual:</strong> Los sacerdotes paganos se purificaban de forma externa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito de la Purificación:</strong> Israel: Purificación moral antes del servicio | Paganos: Purificación mágica.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La base del santuario se apoya en la plata del rescate, un recordatorio constante de que la morada de Dios se basa en la redención.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La fuente, hecha de espejos, insta a los sacerdotes a la <span class="highlight">auto-examinación y la purificación</span> antes de acercarse a Dios. El bronce es el metal del juicio divino (números).</p>
@@ -3232,6 +5421,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mediación Visual:</strong> Las 12 piedras preciosas en el pectoral representan a Israel ante Dios</li>
                     <li><strong>Santidad:</strong> La placa de oro ("Santidad a YHWH") es la culminación del atuendo</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Confección de Vestiduras Sacerdotales</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Vestido para el Culto</h5>
+<ul>
+    <li><strong>Pectoral y Efod:</strong> La confección meticulosa de las vestiduras del Sumo Sacerdote y las piedras preciosas con los nombres de las tribus.</li>
+    <li><strong>La Placa de Oro:</strong> La placa de oro puro con la inscripción **"Santidad a YHWH"** que lleva Aarón en la frente.</li>
+    <li><strong>Cinturón:</strong> La vestimenta se asegura con un cinturón, reflejando el estado de preparación para el servicio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Togas Reales</h5>
+<ul>
+    <li><strong>Vestiduras Reales:</strong> Los reyes y sacerdotes egipcios usaban vestiduras elaboradas, pero sin el simbolismo expiatorio del efod.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Santidad:</strong> El vestido subraya la santidad del mediador, necesaria para acercarse a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El capítulo subraya que todo fue hecho "tal como YHWH había mandado a Moisés," demostrando la obediencia total.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>La vestidura del Sumo Sacerdote es un <span class="highlight">símbolo de la intercesión</span>. Al llevar los nombres de Israel en los hombros y el corazón, el sacerdote mediaba en nombre de toda la nación.</p>
@@ -3265,6 +5476,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Presencia Continuada:</strong> La nube guía al pueblo durante todo su viaje</li>
                     <li><strong>Propósito Cumplido:</strong> El libro termina con Dios habitando en medio de Israel</li>
                 </ul>
+                <h4>🏛️ Costumbres de la Época: Erección y Consagración del Tabernáculo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Instalación y la Gloria</h5>
+<ul>
+    <li><strong>El Primer Día:</strong> El Tabernáculo se erige el primer día del primer mes del segundo año después del Éxodo.</li>
+    <li><strong>Unción:</strong> Moisés unge el Tabernáculo y los muebles con el aceite de la unción, consagrándolos.</li>
+    <li><strong>Instalación de Sacerdotes:</strong> Aarón y sus hijos son lavados y vestidos con sus vestiduras, listos para el servicio.</li>
+    <li><strong>La Columna de Nube:</strong> La **Gloria de YHWH** (la Shejiná) desciende y llena el Tabernáculo, haciendo que Moisés no pueda entrar.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Dedicación de Templos</h5>
+<ul>
+    <li><strong>Ritos de Dedicación:</strong> Los templos paganos se dedicaban con ritos de sacrificio y procesiones.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Presencia:</strong> La presencia de Dios no es la estatua de un dios, sino una nube visible (Shejiná) que reside sobre la estructura.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro de Éxodo termina con el éxito de la redención: Dios ha liberado a Su pueblo, ha hecho un pacto con él y ahora mora físicamente en medio de él.
+</div>
                 
                 <h4>✨ Significado Espiritual</h4>
                 <p>El descenso de la gloria es la <span class="highlight">confirmación de la redención</span>: el Dios santo ahora mora con su pueblo pecador. La Nube y el Fuego, que guiaron el Éxodo, ahora guían desde el Santuario.</p>
@@ -3301,7 +5535,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Expiación:</strong> La sangre del animal hace expiación por el pecado</li>
                     <li><strong>Consagración Total:</strong> El sacrificio es consumido completamente por el fuego</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Holocausto (Olah)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio de Expiación Total</h5>
+<ul>
+    <li><strong>Tipo de Ofrenda:</strong> El **Holocausto** (*Olah* o "lo que sube") era la ofrenda principal. Un animal (toro, cordero o ave) sin defecto.</li>
+    <li><strong>Motivación:</strong> Expiación general y dedicación total a Dios. El humo de la ofrenda es un "olor grato" para YHWH.</li>
+    <li><strong>Rito:</strong> El oferente impone sus manos sobre la cabeza del animal (transferencia de identidad y pecado) y lo mata.</li>
+    <li><strong>El Fuego:</strong> Toda la ofrenda (excepto la piel) se quemaba completamente en el altar, simbolizando la entrega total.</li>
+    <li><strong>La Piel:</strong> La piel del animal sacrificado era propiedad del sacerdote, una forma de ingreso sacerdotal.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios Pagana</h5>
+<ul>
+    <li><strong>Sacrificio Parcial:</strong> Las culturas vecinas sacrificaban animales, pero el propósito principal era compartir la comida con la deidad o adivinar el futuro examinando las entrañas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Consumo:</strong> Israel: El sacrificio se consume totalmente en el altar (dedicación total) | Paganos: Gran parte se consume por los participantes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ofrenda es una renuncia voluntaria a la propiedad para asegurar el perdón y la comunión, donde la vida del animal sustituye a la del oferente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Holocausto es un acto de <span class="highlight">consagración total</span>. Su fuego perpetuo simboliza la aceptación de la ofrenda por parte de Dios y la necesidad de una dedicación completa para el acercamiento.</p>
                 
@@ -3334,7 +5591,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Uso de la Sal:</strong> La "sal del pacto" simboliza la permanencia e incorruptibilidad de la relación</li>
                     <li><strong>Sustento Sacerdotal:</strong> Parte de la ofrenda sustenta a los sacerdotes</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Ofrenda de Cereal (Minjá)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Reconocimiento Agrícola</h5>
+<ul>
+    <li><strong>Tipo de Ofrenda:</strong> La **Ofrenda de Cereal** (*Minjá*), hecha de harina fina, cocida o cruda. Es la ofrenda de los pobres o de aquellos que no podían pagar un animal.</li>
+    <li><strong>Ingredientes Prohibidos:</strong> Se prohíbe el uso de **levadura** (símbolo de corrupción o pecado) y **miel** (podría fermentar) en el altar.</li>
+    <li><strong>Ingredientes Obligatorios:</strong> El **aceite** (símbolo de unción/consagración) y el **incienso** (*Leboná*) son obligatorios.</li>
+    <li><strong>Sal del Pacto:</strong> Se requiere **sal** en cada ofrenda, un símbolo universal de permanencia, fidelidad, y la inmutabilidad del pacto.</li>
+    <li><strong>Porción del Sacerdote:</strong> Una porción es quemada como "memorial," y el resto era comido por los sacerdotes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Rituales de Fertilidad</h5>
+<ul>
+    <li><strong>Culto a Baal:</strong> Las ofrendas a Baal se mezclaban con rituales de fermentación (levadura/vino) y miel para asegurar la fertilidad de la tierra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Pureza:</strong> La ley prohíbe la levadura y la miel, enfatizando la pureza del acto | Paganos: Aceptaban la fermentación como parte de los ciclos de la naturaleza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El pan y la sal recuerdan que el sustento y la prosperidad son un don directo de Dios, no de los dioses de la cosecha.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Ofrenda de Cereal dedica los frutos del trabajo del hombre a Dios, reconociendo que toda <span class="highlight">provisión y sustento</span> provienen de Él. La ausencia de levadura y la presencia de sal son claves para la santidad.</p>
                 
@@ -3367,7 +5647,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paz y Gozo:</strong> La celebración de un estado de relación correcta con Dios</li>
                     <li><strong>Prohibición de la Sangre:</strong> La sangre, que representa la vida, pertenece solo a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ofrenda de Paz (Shelamim)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Comunión y la Alegría</h5>
+<ul>
+    <li><strong>Tipo de Ofrenda:</strong> La **Ofrenda de Paz** (*Shelamim*), destinada a la comunión y la acción de gracias. El único sacrificio que se compartía con el oferente.</li>
+    <li><strong>Motivación:</strong> Expresar gratitud, cumplir un voto o celebrar la paz con Dios.</li>
+    <li><strong>Rito:</strong> Se quema la grasa (considerada la "mejor" parte) y el riñón en el altar para Dios.</li>
+    <li><strong>La Comida:</strong> El resto del animal se cocinaba y se consumía en una comida sagrada por el oferente, su familia y los sacerdotes, dentro del atrio del Tabernáculo.</li>
+    <li><strong>Prohibición de la Grasa/Sangre:</strong> Se prohíbe estrictamente comer la grasa y la sangre, ya que la vida está en la sangre y la grasa es la porción de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Sangre y la Magia</h5>
+<ul>
+    <li><strong>Rituales de Sangre:</strong> Los pueblos vecinos a menudo bebían la sangre de los animales sacrificados o la usaban en rituales mágicos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Compartir:</strong> Israel: El animal es compartido, simbolizando la paz y la amistad con Dios | Paganos: Las ofrendas eran para ganar favor, no para una comida familiar con la deidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ofrenda de paz ilustra que la reconciliación con Dios conduce a la alegría y la celebración compartida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Sacrificio de Paz es una celebración de la <span class="highlight">unidad y la comunión</span> restaurada. La comida compartida es un símbolo de la aceptación y la paz en la relación de pacto.</p>
                 
@@ -3398,7 +5701,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Expiación Proporcional:</strong> El valor del sacrificio depende de la posición social del pecador</li>
                     <li><strong>Uso de la Sangre:</strong> La sangre se rocía en lugares más sagrados (interior del Tabernáculo) para purificar la morada de Dios del pecado acumulado del pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ofrenda por el Pecado (Jattat)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Expiación por Error</h5>
+<ul>
+    <li><strong>Tipo de Ofrenda:</strong> La **Ofrenda por el Pecado** (*Jattat*), específicamente para expiar pecados cometidos por error o ignorancia.</li>
+    <li><strong>Grado de Pecado:</strong> El tipo de animal ofrecido depende del estatus del pecador:
+        <ul>
+            <li>**Sumo Sacerdote/Comunidad:** Un becerro.</li>
+            <li>**Príncipe:** Un macho cabrío.</li>
+            <li>**Miembro Común:** Una cabra o cordero.</li>
+        </ul>
+    </li>
+    <li><strong>Uso de la Sangre:</strong> La sangre no solo se derrama en el altar, sino que se rocía en el **Velo** y en los **Cuernos del Altar del Incienso** (para pecados del sacerdote o la nación), para limpiar el santuario de la impureza.</li>
+    <li><strong>Quema Fuera del Campamento:</strong> La carne y la piel del sacrificio por el pecado (si es por el Sumo Sacerdote o la comunidad) se queman **fuera del campamento** (lugar inmundo) para simbolizar el pecado siendo llevado lejos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Responsabilidad Individual</h5>
+<ul>
+    <li><strong>Responsabilidad Colectiva:</strong> Muchas culturas no distinguían el pecado por ignorancia del pecado intencional, y el castigo era automático.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Limpieza:</strong> El sacrificio no solo perdona al individuo, sino que también limpia el santuario de la contaminación del pecado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Muestra que el pecado, incluso el inconsciente, contamina la relación con Dios y Su morada, requiriendo un ritual específico de limpieza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Sacrificio por el Pecado limpia la <span class="highlight">contaminación ritual y moral</span>. La sangre se rocía para santificar la presencia de Dios de los pecados que inevitablemente comete el pueblo.</p>
                 
@@ -3430,7 +5761,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Culpa Material:</strong> La Ofrenda por la Culpa se enfoca en la reparación de un daño tangible (a la propiedad o a lo sagrado)</li>
                     <li><strong>Escala de Sacrificio:</strong> Se permite una ofrenda de harina para los más pobres</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ofrenda por la Culpa (Asham)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Reparación y la Restitución</h5>
+<ul>
+    <li><strong>Tipo de Ofrenda:</strong> La **Ofrenda por la Culpa** (*Asham*), para pecados que requieren restitución, generalmente violaciones de derechos de propiedad.</li>
+    <li><strong>Pecados de Culpa:</strong> Incluye no testificar, tocar algo inmundo, o defraudar al prójimo en cosas sagradas o monetarias.</li>
+    <li><strong>Escalera del Sacrificio:</strong> Si el oferente es pobre, puede ofrecer palomas o, si es extremadamente pobre, harina (la ofrenda de cereal). Dios regula el culto para ser accesible a todos.</li>
+    <li><strong>Regla de Restitución:</strong> El oferente debe restituir lo robado o dañado **más un 20%** de su valor, asegurando que el daño se repare completamente y con penalización.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza y la Deuda</h5>
+<ul>
+    <li><strong>Deuda por Esclavitud:</strong> En muchos códigos de ley, el robo o la deuda podían conducir a la esclavitud.</li>
+    <li><strong>Venganza Personal:</strong> La víctima de un robo tenía derecho a una venganza sin regulación moral.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia Económica:</strong> Israel: El énfasis está en la reparación y la penalización económica, sin esclavitud forzada | Vecinos: El castigo a menudo era físico o la esclavitud.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ofrenda por la culpa une el ritual (sacrificio) con la ética (restitución). El perdón divino no anula la responsabilidad civil.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Ofrenda por la Culpa enseña que el arrepentimiento genuino requiere <span class="highlight">reparación material</span>. El perdón de Dios va acompañado de la obligación de corregir el daño causado al prójimo.</p>
                 
@@ -3462,7 +5816,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad del Lugar:</strong> La ofrenda de expiación debe comerse en un lugar santo</li>
                     <li><strong>Ofrendas de los Sacerdotes:</strong> Los sacerdotes también deben ofrecer un sacrificio diario</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes del Sacrificio para Sacerdotes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Fuego Perpetuo y la Porción Sacerdotal</h5>
+<ul>
+    <li><strong>El Fuego Perpetuo:</strong> El fuego del altar del holocausto debe mantenerse ardiendo continuamente (noche y día), simbolizando la constante mediación.</li>
+    <li><strong>Vestido de los Sacerdotes:</strong> El sacerdote debe usar vestiduras de lino y quitar las cenizas (un acto de limpieza diario) antes de cambiarse a ropa común.</li>
+    <li><strong>Porción del Sacerdote:</strong> El sacerdote tiene derecho a comer la porción de los sacrificios de cereal y de pecado en un lugar santo.</li>
+    <li><strong>Leyes de Santidad:</strong> La carne de los sacrificios se vuelve "santa" y debe ser tratada con cuidado y comida por los varones de la familia sacerdotal.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Limpieza en Templos</h5>
+<ul>
+    <li><strong>Limpieza Mágica:</strong> La limpieza en templos paganos a menudo se hacía con rituales mágicos, no con un sentido de orden y santidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Servicio:</strong> El sacerdote debe ser tan consciente de la santidad al desechar las cenizas como al ofrendar | Paganos: El servicio se limitaba a los rituales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La permanencia del fuego simboliza la presencia continua de Dios y Su disposición a recibir la expiación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El fuego perpetuo en el altar simboliza la <span class="highlight">adoración ininterrumpida</span> y la disponibilidad constante de la expiación. Los sacerdotes deben ser aún más rigurosos con la santidad.</p>
                 
@@ -3494,7 +5870,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reiteración de la Ley:</strong> Se prohíbe comer sangre o grasa (recordando su santidad)</li>
                     <li><strong>Consecuencias:</strong> La pena de exclusión (ser cortado) por violar estas leyes</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Reglamentos para Ofrendas y Paz</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Distribución de la Carne y el Consumo</h5>
+<ul>
+    <li><strong>Ley de la Ofrenda de Culpa:</strong> Los sacerdotes tienen derecho a la carne de la ofrenda de culpa.</li>
+    <li><strong>Prohibición de Comer Sangre/Grasa:</strong> Se reitera la prohibición absoluta de comer grasa y sangre, ya que la grasa pertenece a Dios y la vida está en la sangre.</li>
+    <li><strong>Plazo para Comer la Ofrenda de Paz:</strong> La carne debe consumirse el mismo día del sacrificio o al día siguiente; lo que quede al tercer día debe ser quemado para evitar la putrefacción (impureza).</li>
+    <li><strong>Consumo Ritual:</strong> La carne solo puede ser comida por aquellos que están ritualmente limpios. Comer estando impuro es pecado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Magia con Sangre</h5>
+<ul>
+    <li><strong>Beber Sangre:</strong> Los ritos paganos a menudo incluían beber sangre para adquirir la fuerza del animal sacrificado o usarla para adivinación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Tiempo:</strong> El límite de tiempo para comer la ofrenda (dos días) enfatiza la necesidad de una rápida y fresca comunión con Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ofrenda de paz, diseñada para la comunión, se convierte en un riesgo si se profana por la impureza o se deja más tiempo del permitido.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La prohibición de la sangre se basa en que "la vida de la carne en la sangre está" (17:11). Por lo tanto, la vida pertenece a Dios. La sangre es el <span class="highlight">agente de expiación</span> que no debe ser consumido por el hombre.</p>
                 
@@ -3528,7 +5926,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Aplicación de Sangre:</strong> La sangre en la oreja, el pulgar y el pie de los sacerdotes (consagración total)</li>
                     <li><strong>Purificación de Siete Días:</strong> El sacerdocio se inicia con una semana de dedicación ritual</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Consagración de Aarón y sus Hijos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rito de Ordenación</h5>
+<ul>
+    <li><strong>Ceremonia de 7 Días:</strong> La consagración del sacerdocio es un proceso de una semana, enfatizando la importancia y permanencia del rol.</li>
+    <li><strong>Lavado y Unción:</strong> Moisés lava a Aarón y a sus hijos, y los unge con aceite, un rito que marca la separación y la santificación para el servicio.</li>
+    <li><strong>Sacrificio de Consagración:</strong> Se sacrifican un becerro (por el pecado) y dos carneros (holocausto y ordenación).</li>
+    <li><strong>Aplicación de Sangre:</strong> Moisés aplica sangre del carnero de la ordenación al lóbulo de la oreja, el pulgar derecho y el dedo gordo del pie derecho de Aarón y sus hijos, simbolizando la total dedicación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Proclamación Real</h5>
+<ul>
+    <li><strong>Instalación:</strong> Los reyes y los sacerdotes en Egipto eran instalados con ceremonias elaboradas, pero sin el componente expiatorio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Mediador:</strong> La unción y la sangre indican que el sacerdote es un intermediario, no una deidad en sí mismo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La consagración sella el pacto levítico y establece el medio legal por el cual Dios se relaciona con el pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La consagración establece que el sacerdocio es un oficio de <span class="highlight">santidad absoluta</span>, separado del pueblo y ungido por Dios para mediar entre la nación y la presencia divina.</p>
                 
@@ -3562,7 +5982,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Bendición:</strong> Aarón bendice al pueblo, ejerciendo su rol mediador</li>
                     <li><strong>Gozo:</strong> El pueblo cae de rodillas y alaba al ver la gloria de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Inicio del Ministerio Sacerdotal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Fuego Divino y el Servicio</h5>
+<ul>
+    <li><strong>Primer Acto Oficial:</strong> Al octavo día, Aarón ofrece sacrificios por sí mismo y por el pueblo. El sacerdote debe estar limpio antes de ministrar.</li>
+    <li><strong>La Bendición:</strong> Aarón levanta sus manos y bendice al pueblo después de ofrecer el sacrificio por el pecado.</li>
+    <li><strong>Manifestación de la Gloria:</strong> El fuego de YHWH desciende y consume el holocausto en el altar, simbolizando la aceptación divina del sacerdocio y el santuario.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Aprobación Ritual</h5>
+<ul>
+    <li><strong>Fuego Mágico:</strong> Los sacerdotes paganos a menudo intentaban producir fuego de forma ritual para impresionar al pueblo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Aprobación:</strong> El fuego desciende de Dios como señal de aprobación de Su orden, no es un fuego creado por ritual humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La gloria de Dios (la Shejiná) se manifiesta, confirmando que el ritual es divinamente ordenado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La manifestación de la gloria es la <span class="highlight">aceptación visible de Dios</span> de todo el sistema de culto. El fuego establece el precedente de que solo el fuego divino es aceptable en el altar.</p>
                 
@@ -3596,7 +6037,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Duelo Prohibido:</strong> Los sacerdotes tienen prohibido el luto público por los muertos por juicio divino</li>
                     <li><strong>Ley de la Embriaguez:</strong> Se prohíbe a los sacerdotes beber vino o licor antes de ministrar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Fuego Extraño y la Santidad Sacerdotal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Castigo Inmediato y la Devoción</h5>
+<ul>
+    <li><strong>Fuego Extraño:</strong> Nadab y Abiú (hijos de Aarón) ofrecen "fuego extraño" delante de YHWH, muriendo instantáneamente.</li>
+    <li><strong>Santidad Absoluta:</strong> El incidente subraya la seriedad de seguir el ritual al pie de la letra (**Santidad a YHWH**). El fuego que no vino de Dios (extraño) es castigado con el fuego de Dios.</li>
+    <li><strong>Prohibición del Luto:</strong> Aarón y sus hijos supervivientes no pueden rasgar sus ropas ni mostrar luto por la muerte de sus hermanos mientras están de servicio.</li>
+    <li><strong>Prohibición de Alcohol:</strong> Se prohíbe a los sacerdotes beber vino o licor antes de entrar al Tabernáculo para poder distinguir entre lo santo y lo profano.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Entusiasmo Pagano</h5>
+<ul>
+    <li><strong>Trance:</strong> Los sacerdotes paganos a menudo entraban en estados de trance o embriaguez para su servicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Reverencia:</strong> El servicio a YHWH exige sobriedad, conciencia y obediencia estricta, no un fervor emocional descontrolado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La santidad de Dios es mortal. El sacerdote debe estar completamente separado de lo común, incluso de los lazos familiares.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La muerte de los hijos de Aarón es una lección de que la <span class="highlight">obediencia estricta es obligatoria</span> en el servicio a Dios. La santidad es peligrosa si no se respeta su majestad.</p>
                 
@@ -3628,7 +6091,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Distinción:</strong> La necesidad de Israel de ser "santo" a través de la distinción dietética</li>
                     <li><strong>Contaminación:</strong> Las leyes sobre tocar la carroña de animales impuros</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes Dietéticas (Kashrut)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Separación Alimentaria</h5>
+<ul>
+    <li><strong>Animales Limpios:</strong> Se permite comer animales que tienen la pezuña hendida y rumian (bueyes, cabras, ovejas).</li>
+    <li><strong>Animales Inmundos:</strong> Se prohíben el cerdo, el camello y el conejo (no cumplen las dos características). Peces sin aletas ni escamas. Aves de rapiña.</li>
+    <li><strong>Propósito de la Ley:</strong> Distinguir a Israel de las naciones, manteniendo la santidad. La comida es una extensión del culto.</li>
+    <li><strong>Inmundicia por Contacto:</strong> El contacto con el cadáver de un animal inmundo produce impureza ritual hasta el anochecer.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Dietéticas Vecinas</h5>
+<ul>
+    <li><strong>Consumo de Cerdo:</strong> El cerdo era consumido en Canaán y Egipto.</li>
+    <li><strong>Animales Sagrados:</strong> En Egipto, algunos animales (como la vaca o el cocodrilo) eran sagrados y prohibidos, pero por mitología, no por santidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Base de la Ley:</strong> Israel: La ley se basa en la santidad de YHWH | Vecinos: La ley se basa en la magia, la salud o la superstición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La santidad impregna la vida diaria. La cocina se convierte en un lugar de adoración.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las leyes de kashrut (dieta) son un <span class="highlight">ejercicio diario de obediencia</span> que recuerdan al israelita su condición de pueblo separado. La santidad se aplica a la vida cotidiana.</p>
                 
@@ -3659,7 +6145,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Doble Período:</strong> La impureza es más larga después del nacimiento de una niña</li>
                     <li><strong>Sacrificio de Purificación:</strong> La madre ofrece un holocausto y un sacrificio por el pecado al final del período</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes de la Parturienta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Impureza Posparto y la Purificación</h5>
+<ul>
+    <li><strong>Impureza Ritual Femenina:</strong> Después de dar a luz, la mujer entra en un período de impureza ritual (7 días por un varón, 14 días por una niña).</li>
+    <li><strong>Días de Limpieza:</strong> Un período de "limpieza" de sangre (33 días por varón, 66 días por niña), donde no puede tocar cosa santa ni ir al santuario.</li>
+    <li><strong>Ofrenda de Purificación:</strong> Al final del período, se ofrece un cordero (Holocausto) y una paloma o tórtola (Sacrificio por el pecado), para expiar el proceso de la vida.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Impureza Mágica</h5>
+<ul>
+    <li><strong>Aislamiento Total:</strong> Muchas culturas aislaban a la mujer después del parto por miedo a los espíritus malignos o la magia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Enfoque:</strong> La ley trata la impureza como un estado ritual, no como un pecado moral. La purificación siempre conduce a la reincorporación al culto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El ciclo de la vida (nacimiento y muerte) es una fuente de impureza ritual. La ley permite a los pobres cumplir con la purificación (tórtolas en lugar de corderos).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley recuerda la <span class="highlight">fragilidad de la vida</span> y la conexión de la sangre con el ciclo natural. El ritual de purificación permite el reingreso de la mujer a la vida de pacto y adoración.</p>
                 
@@ -3691,7 +6198,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Aislamiento:</strong> El leproso es separado del campamento (excluido de la vida de pacto)</li>
                     <li><strong>Impureza en Objetos:</strong> La lepra también puede aparecer en la ropa</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes de la Lepra (Tsara'at)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Diagnóstico y la Cuarentena</h5>
+<ul>
+    <li><strong>El Sacerdote como Médico:</strong> El sacerdote actúa como el único diagnóstico autorizado de la lepra (*tsara'at*), que no es solo la enfermedad de Hansen, sino un término para aflicciones en la piel, la ropa o la casa.</li>
+    <li><strong>Cuarentena y Aislamiento:</strong> Se imponen períodos de cuarentena (7 días) y aislamiento si se confirma la aflicción.</li>
+    <li><strong>Aviso Público:</strong> El leproso debe gritar "¡Inmundo! ¡Inmundo!" para advertir a los demás.</li>
+    <li><strong>Ropa y Vivienda:</strong> La lepra en la ropa o las casas requiere la destrucción o quema de los objetos afectados.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Impureza Mágica</h5>
+<ul>
+    <li><strong>Exilio y Rechazo:</strong> Las sociedades antiguas simplemente exiliaban a los leprosos sin protocolo de diagnóstico ni esperanza de retorno.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Autoridad:</strong> El sacerdote (religioso) tiene autoridad médica y sanitaria | Vecinos: El médico o hechicero tenían autoridad secular.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La lepra es la manifestación visible del pecado y la impureza en el cuerpo social. El propósito es proteger la santidad del campamento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La lepra simboliza el <span class="highlight">pecado en manifestación física</span>. La separación del leproso subraya que el pecado y la enfermedad (impureza) no pueden vivir en la presencia de un Dios santo.</p>
                 
@@ -3722,7 +6251,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sangre y Aceite:</strong> La aplicación de sangre y aceite en la oreja, el pulgar y el pie del curado</li>
                     <li><strong>Restitución:</strong> Se ofrecen sacrificios por la culpa, el pecado y el holocausto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Purificación del Leproso</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ritual de Reincorporación</h5>
+<ul>
+    <li><strong>Ceremonia de Dos Etapas:</strong> La purificación se realiza en dos etapas, una fuera y otra dentro del campamento.</li>
+    <li><strong>Las Aves, la Sangre y el Agua:</strong> Se usan dos pájaros; uno se sacrifica en vasija de barro con agua y el otro se libera. La sangre se rocía siete veces (número de perfección).</li>
+    <li><strong>Unción del Curado:</strong> El sacerdote aplica aceite en el lóbulo de la oreja, el pulgar y el dedo gordo del pie del curado (similar a la consagración sacerdotal), un rito de re-dedicación.</li>
+    <li><strong>Purificación de la Casa:</strong> Si una casa se ha contaminado, debe ser purificada con el mismo rito de aves, agua y sangre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Exclusión Permanente</h5>
+<ul>
+    <li><strong>Estatus Perdido:</strong> Una vez excluido, era casi imposible volver a ser aceptado en la sociedad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Esperanza:</strong> La Ley provee un protocolo para la total reincorporación del leproso a la comunidad y al culto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El rito de las aves (uno muerto, uno libre) simboliza la muerte del pasado y la nueva vida. La ley restaura completamente al individuo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El ritual simboliza el <span class="highlight">milagro de la curación</span> y la gracia que permite al excluido regresar a la comunión. El aceite aplicado sobre la sangre es un símbolo de la vida del Espíritu sobre la expiación.</p>
                 
@@ -3753,7 +6304,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Proceso de Purificación:</strong> La persona impura debe lavarse y esperar hasta el atardecer</li>
                     <li><strong>Sacrificio:</strong> La descarga anormal requiere un sacrificio de expiación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Flujos Corporales (Zav)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Impureza por Fluidos</h5>
+<ul>
+    <li><strong>Flujos Anormales:</strong> Los flujos genitales anormales (masculinos y femeninos) causan impureza ritual (**Zav**).</li>
+    <li><strong>Contagio por Contacto:</strong> La impureza se contagia a cualquier persona u objeto que toque el impuro (camas, asientos).</li>
+    <li><strong>Flujo Menstrual:</strong> El flujo menstrual produce impureza temporal (7 días) y la hace contagiosa.</li>
+    <li><strong>Purificación:</strong> Después de que el flujo cesa, se requieren 7 días de limpieza y un sacrificio de aves para la expiación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Magia Sexual</h5>
+<ul>
+    <li><strong>Secreción como Poder:</strong> Algunas culturas creían que los fluidos corporales tenían poder mágico.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Racionalidad:</strong> La ley no atribuye poder mágico a los fluidos, sino que los trata como una fuente de impureza que debe ser regulada para proteger la morada de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El capítulo subraya que la vida (la fuente de impureza) debe ser regulada para proteger el Santuario.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley enfatiza que incluso las funciones normales de la vida pueden <span class="highlight">contaminar lo sagrado</span>. El propósito es inculcar el respeto por la santidad de Dios y del Tabernáculo.</p>
                 
@@ -3787,7 +6360,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Sangre en el Propiciatorio:</strong> La aplicación de sangre para hacer expiación sobre el Arca</li>
                     <li><strong>Ayuno:</strong> El pueblo debe afligir sus almas ese día</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Día de Expiación (Yom Kippur)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Expiación Nacional Anual</h5>
+<ul>
+    <li><strong>Día Único:</strong> El único día del año en que el Sumo Sacerdote puede entrar en el Lugar Santísimo (la presencia de Dios).</li>
+    <li><strong>Ropa Especial:</strong> El sacerdote no usa sus vestiduras de oro, sino ropa simple de lino blanco (símbolo de humildad y pureza).</li>
+    <li><strong>Doble Macho Cabrío:</strong>
+        <ul>
+            <li>**YHWH:** Un macho cabrío se sacrifica para expiar los pecados de Israel.</li>
+            <li>**Azazel:** El otro macho cabrío (**Chivo Expiatorio**) se carga con los pecados confesados y se envía vivo al desierto, simbolizando el pecado siendo llevado lejos de la presencia de Dios.</li>
+        </ul>
+    </li>
+    <li><strong>El Humo del Incienso:</strong> El humo debe cubrir el propiciatorio para que el sacerdote no muera al entrar.</li>
+    <li><strong>Ayuno:</strong> El pueblo debe afligir sus almas (ayuno total) durante este día.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ritos de Purificación</h5>
+<ul>
+    <li><strong>Azazel:</strong> Algunos mitos hablaban de demonios del desierto. Enviar el macho cabrío a Azazel era una forma de desvincular el ritual de cualquier creencia demoníaca.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Expiación:</strong> La expiación es un acto divino y total, garantizado por Dios, no por el esfuerzo humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este día expía los pecados de la nación y purifica el Santuario de toda la contaminación acumulada durante el año. Es la cumbre del culto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Yom Kippur es la <span class="highlight">culminación del sistema sacrificial</span>. El chivo expiatorio es el símbolo más claro de la transferencia y la eliminación del pecado. Es un tipo profético de la obra redentora de Cristo (Hebreos 9).</p>
                 
@@ -3818,7 +6419,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prohibición de la Sangre:</strong> "Porque la vida de la carne en la sangre está"</li>
                     <li><strong>Uso Exclusivo de la Sangre:</strong> La sangre es dada para hacer expiación sobre el altar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Sacrificio fuera del Tabernáculo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Altar Centralizado y la Sangre</h5>
+<ul>
+    <li><strong>Prohibición de Sacrificio Silvestre:</strong> Se prohíbe sacrificar animales fuera del Tabernáculo. Todo sacrificio debe hacerse en el altar centralizado.</li>
+    <li><strong>Propósito:</strong> Evitar la idolatría y el sacrificio a los **demonios** (*seirim* o "machos cabríos").</li>
+    <li><strong>Ley de la Sangre:</strong> La vida está en la sangre. Se prohíbe comerla. La sangre debe ser derramada en el altar o en la tierra y cubierta con polvo.</li>
+    <li><strong>La Caza:</strong> La sangre de los animales cazados debe ser derramada en la tierra y cubierta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Culto a Demonios</h5>
+<ul>
+    <li><strong>Sacrificio a los Seirim:</strong> Las culturas vecinas a menudo ofrecían sacrificios a demonios del campo o espíritus en lugares altos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Autoridad:</strong> El culto debe ser centralizado y bajo la autoridad sacerdotal para evitar la asimilación pagana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se establece que la sangre debe usarse para la expiación en el altar, no para el consumo o la magia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La centralización del sacrificio asegura la pureza teológica del culto. La prohibición de la sangre es una <span class="highlight">declaración de la soberanía de Dios sobre la vida</span> y la base de la expiación.</p>
                 
@@ -3850,7 +6473,37 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sacrificio de Niños:</strong> Prohibición de sacrificar a Moloc</li>
                     <li><strong>La Tierra Vomita:</strong> La tierra cananea es contaminada por estas prácticas</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Prohibiciones Sexuales (Inmoralidad)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Santidad Sexual y Familiar</h5>
+<ul>
+    <li><strong>Matrimonio Endogámico:</strong> Se prohíbe el matrimonio con parientes cercanos (incesto) para proteger la pureza del linaje familiar.</li>
+    <li><strong>Inmoralidad:</strong> Prohibición de:
+        <ul>
+            <li>Relaciones con la mujer en su impureza menstrual.</li>
+            <li>Adulterio.</li>
+            <li>Sacrificios de niños a **Moloc**.</li>
+            <li>Homosexualidad.</li>
+            <li>Bestialismo.</li>
+        </ul>
+    </li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Canaán y Egipto</h5>
+<ul>
+    <li><strong>Prostitución Sagrada:</strong> El uso de la sexualidad en el culto (prostitución sagrada) era común en Canaán.</li>
+    <li><strong>Sacrificio de Niños:</strong> El culto a Moloc (Amón) exigía el sacrificio de bebés.</li>
+    <li><strong>Incesto:</strong> El matrimonio entre hermanos era común en la realeza egipcia para preservar la pureza de la línea de sangre.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Moralidad:</strong> Israel debe ser moralmente distinto de las naciones que lo rodean. El pecado sexual contamina la tierra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La santidad se extiende al ámbito sexual. El libro establece que la obediencia moral es la única forma de habitar la Tierra Prometida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La moralidad sexual es fundamental para la <span class="highlight">santidad nacional</span>. Las prácticas prohibidas contaminan la tierra, y el juicio divino las expulsará (como a los cananeos).</p>
                 
@@ -3882,7 +6535,36 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Amarás a tu Prójimo:</strong> El resumen de las leyes de relación (19:18)</li>
                     <li><strong>Trato al Extranjero:</strong> Se le debe amar como a uno mismo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ley de Santidad Práctica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ética del Vecino</h5>
+<ul>
+    <li><strong>El Mandato Central:</strong> "Santos seréis, porque Yo YHWH vuestro Dios soy santo." La ética se basa en el carácter de Dios.</li>
+    <li><strong>Justicia Social:</strong>
+        <ul>
+            <li>No robar ni mentir.</li>
+            <li>Pago de salarios a tiempo.</li>
+            <li>Justicia imparcial en el juicio.</li>
+            <li>Dejar espigas para los pobres y extranjeros (rebusco).</li>
+        </ul>
+    </li>
+    <li><strong>Prohibiciones:</strong> No adivinación, no tatuajes o cortes en el cuerpo (ritos paganos de luto).</li>
+    <li><strong>El Gran Mandamiento:</strong> "Amarás a tu prójimo como a ti mismo." (Génesis 19:18)</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza y la Idolatría</h5>
+<ul>
+    <li><strong>Tatuajes y Cortes:</strong> Las culturas paganas se cortaban y tatuaban en ritos de luto o para dedicarse a sus dioses.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ley Positiva:</strong> La ley no solo prohíbe el mal, sino que exige el amor activo hacia el prójimo y el extranjero.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La santidad no es solo ritual (sacrificios), sino que debe manifestarse en el trato diario y la vida ética.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La santidad es tanto ritual (no comer con sangre) como ética (no robar). La ética de Israel se centra en la <span class="highlight">imitación del carácter de Dios</span>, especialmente su justicia y amor.</p>
                 
@@ -3913,7 +6595,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad Sacerdotal:</strong> Se reitera la necesidad de ser separados de los gentiles</li>
                     <li><strong>Purificación:</strong> La pena de muerte limpia el campamento de la contaminación mortal</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Penas por la Inmoralidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Castigo Judicial</h5>
+<ul>
+    <li><strong>Pena de Muerte por Moloc:</strong> La pena capital para cualquiera que ofrezca a sus hijos a Moloc (lapidación).</li>
+    <li><strong>Sanciones por Incesto y Adulterio:</strong> La lapidación para el adulterio y el incesto.</li>
+    <li><strong>Separación por la Ley:</strong> Dios establece el principio: "Yo os he apartado de los pueblos para que seáis míos."</li>
+    <li><strong>Adivinación:</strong> La pena de muerte para el espiritista y el adivino.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adivinación y la Hechicería</h5>
+<ul>
+    <li><strong>Práctica Común:</strong> La adivinación y la comunicación con los muertos eran una práctica socialmente aceptada en Canaán.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Juicio:</strong> Las transgresiones sexuales y rituales tienen graves consecuencias penales porque contaminan la comunidad y la tierra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El rigor de la ley subraya que la presencia de Dios es incompatible con la inmoralidad pagana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La dureza de las penas tiene como objetivo "quitar el mal de en medio de Israel", preservando la <span class="highlight">santidad del campamento</span> donde mora Dios. El pecado mortal contamina a toda la comunidad.</p>
                 
@@ -3945,7 +6649,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Restricciones Matrimoniales:</strong> Prohibición de casarse con prostitutas, divorciadas o profanadas</li>
                     <li><strong>La Unción:</strong> La unción de Aarón requiere un estándar más alto de santidad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Santidad de los Sacerdotes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Separación Sacerdotal</h5>
+<ul>
+    <li><strong>Prohibición de Luto:</strong> Los sacerdotes tienen prohibido contaminarse con muertos (excepto sus parientes cercanos). Tienen prohibido el luto ceremonial pagano (cortes, rasurarse la cabeza/barba).</li>
+    <li><strong>Matrimonio Prohibido:</strong> Los sacerdotes tienen prohibido casarse con prostitutas o mujeres divorciadas para mantener la pureza de la línea.</li>
+    <li><strong>Perfección Física:</strong> Los sacerdotes con defectos físicos (ciego, cojo, etc.) no pueden oficiar en el altar, ya que el servicio a Dios exige perfección.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacerdotes Pagana</h5>
+<ul>
+    <li><strong>Castración:</strong> Algunos cultos paganos exigían la castración para el servicio.</li>
+    <li><strong>Prostitución Sagrada:</strong> Algunos templos paganos usaban prostitutas sagradas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Pureza:</strong> La pureza del sacerdote es mucho más estricta que la del pueblo, porque son los mediadores entre lo santo y lo profano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El sacerdote es el modelo de santidad de Israel. Su vida debe reflejar la perfección de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El sacerdocio es un oficio de <span class="highlight">separación extrema</span>. La santidad del sacerdote asegura la validez de su mediación entre el pueblo pecador y el Dios santo.</p>
                 
@@ -3977,7 +6703,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Defecto en el Sacrificio:</strong> La ofrenda misma no debe tener defecto físico, honrando a Dios con lo mejor</li>
                     <li><strong>Bendición:</strong> La ley de ofrecer acción de gracias</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ofrendas y Cosas Santas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Regulación de la Ofrenda</h5>
+<ul>
+    <li><strong>Comer las Cosas Santas:</strong> Los sacerdotes solo pueden comer de las ofrendas santas si están ritualmente limpios. Los laicos y los sacerdotes inmundos están prohibidos.</li>
+    <li><strong>Animales Aptos para Sacrificio:</strong> Se prohíbe sacrificar animales con defecto (ciego, cojo, enfermo). El sacrificio debe ser perfecto.</li>
+    <li><strong>Plazo para la Ofrenda:</strong> Un animal debe tener al menos siete días de nacido para ser apto para el sacrificio.</li>
+    <li><strong>Accidente:</strong> Se prohíbe sacrificar a la madre y a su cría el mismo día.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Sacrificio Defectuoso</h5>
+<ul>
+    <li><strong>Sacrificio por Desesperación:</strong> Los paganos a menudo sacrificaban animales defectuosos o robados por desesperación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Perfección:</strong> El culto de YHWH requiere la máxima perfección en la ofrenda.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El respeto por las "cosas santas" es un reflejo del respeto por Dios mismo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad se exige en la ofrenda</span>, así como en el ofrendante. Dios es honrado solo cuando se le da lo mejor, sin defecto (la base para los sacrificios de animales sin mancha).</p>
                 
@@ -4009,7 +6757,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Primicias (Pentecostés):</strong> Celebración de la primera cosecha y la Ley</li>
                     <li><strong>Día de la Expiación y Tabernáculos:</strong> Arrepentimiento y recuerdo del viaje por el desierto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Calendario Sagrado (Fiestas)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de las Fiestas Anuales (Mo'adim)</h5>
+<ul>
+    <li><strong>El Sábado:</strong> El día de reposo semanal como la primera de las convocatorias santas.</li>
+    <li><strong>Pascua/Panes sin Levadura:</strong> El recuerdo de la liberación.</li>
+    <li><strong>Primicias:</strong> La ofrenda de los primeros frutos de la cosecha (la dedicación de la prosperidad).</li>
+    <li><strong>Semanas/Pentecostés:</strong> La celebración del final de la cosecha.</li>
+    <li><strong>Trompetas:</strong> El toque de trompetas como anuncio solemne del nuevo año.</li>
+    <li>**Día de Expiación (**Yom Kippur**):** El ayuno y la expiación nacional.</li>
+    <li><strong>Tabernáculos/Cabañas (Sukkot):</strong> El recuerdo de la vida en tiendas en el desierto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ciclos Naturales</h5>
+<ul>
+    <li><strong>Fiestas de la Cosecha:</strong> Las fiestas paganas se centraban solo en los ciclos naturales para apaciguar a los dioses de la lluvia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Enfoque:</strong> Las fiestas de Israel están ligadas a la historia de la redención (Pascua, Sukkot) y al pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El tiempo de Israel es un tiempo redimido, marcado por el recuerdo de la obra de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las fiestas son <span class="highlight">memorias rituales</span> que unen al israelita con el pasado redentor de Dios. Todas las fiestas, desde la Pascua hasta los Tabernáculos, tienen un cumplimiento profético en Cristo y la Iglesia.</p>
                 
@@ -4041,7 +6814,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Blasfemia:</strong> El castigo por maldecir el nombre de Dios (pena capital)</li>
                     <li><strong>Lex Talionis:</strong> La justicia del ojo por ojo, diente por diente (igualdad en la pena)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pan y la Luz y la Blasfemia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Iluminación y el Castigo</h5>
+<ul>
+    <li><strong>Aceite para la Menorá:</strong> Se requiere aceite de oliva puro para la lámpara que debe arder continuamente en el Tabernáculo.</li>
+    <li><strong>El Pan de la Proposición:</strong> Doce panes (uno por cada tribu) se colocan semanalmente en la mesa, simbolizando la presencia de todas las tribus.</li>
+    <li><strong>Blasfemia:</strong> El castigo capital (lapidación) para aquel que blasfeme el nombre de YHWH.</li>
+    <li><strong>Ley del Talión (Ojo por Ojo):</strong> Se reitera la ley de la justicia equitativa por heridas físicas graves.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza y el Lenguaje</h5>
+<ul>
+    <li><strong>Venganza Sin Proporción:</strong> La justicia pagana era a menudo desproporcionada.</li>
+    <li><strong>Blasfemia Impune:</strong> Los paganos podían maldecir a sus dioses con poca o ninguna consecuencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Nombre de Dios:</strong> El nombre de YHWH es sagrado y debe ser protegido de la profanación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Luz y el Pan simbolizan la presencia constante de Dios y la comunión con Su pueblo, contrastando con la gravedad de Su blasfemia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">nombre de Dios es sagrado</span>, y la blasfemia es una ofensa directa contra su autoridad. La ley del *lex talionis* establece la justicia legal para todos, sin distinción.</p>
                 
@@ -4073,7 +6869,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Redención:</strong> La ley de que un pariente debe redimir la propiedad o al familiar endeudado</li>
                     <li><strong>Soberanía de Dios:</strong> La tierra no puede venderse permanentemente, "porque la tierra mía es"</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Año Sabático y el Jubileo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Redención y la Propiedad</h5>
+<ul>
+    <li><strong>Año Sabático (Shemitá):</strong> La tierra debe descansar cada 7 años (no sembrar, no cosechar). Una prueba de fe en la provisión de Dios.</li>
+    <li><strong>Año del Jubileo (Yovel):</strong> Cada 50 años, se proclama la libertad:
+        <ul>
+            <li>Toda tierra regresa a su dueño original.</li>
+            <li>Todos los esclavos hebreos son liberados.</li>
+        </ul>
+    </li>
+    <li><strong>Redención del Pariente:</strong> Si un hombre se empobrece, su pariente debe redimirlo o su tierra.</li>
+    <li><strong>Prohibición de Esclavitud Permanente:</strong> Un hebreo no puede ser tratado como esclavo permanente, ya que "Míos son los hijos de Israel, porque ellos son Mis siervos."</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deuda Perpetua</h5>
+<ul>
+    <li><strong>Esclavitud por Deuda:</strong> En muchas culturas, la deuda y la pérdida de tierras eran permanentes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Libertad:</strong> La Ley de Israel garantiza la restauración periódica de la libertad y la propiedad, previniendo la acumulación de riqueza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ley del Jubileo establece que la tierra pertenece a Dios y que la liberación es un ciclo divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Jubileo es el acto final de <span class="highlight">redención socioeconómica</span>, una manifestación profética del reino de Dios que restaura la igualdad y la libertad. Enseña que Israel es peregrino y siervo de Dios.</p>
                 
@@ -4105,7 +6928,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Maldiciones:</strong> Enfermedad, guerra, esterilidad, hambruna y, en última instancia, el exilio</li>
                     <li><strong>Esperanza:</strong> La promesa de que Dios se acordará del pacto y restaurará al pueblo arrepentido</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Bendiciones y Maldiciones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto Condicional</h5>
+<ul>
+    <li><strong>Bendiciones por Obediencia:</strong> Promesas de lluvia, cosechas abundantes, paz, aumento de la población y la permanencia de Dios en medio de ellos.</li>
+    <li><strong>Maldiciones por Desobediencia:</strong> Amenazas de enfermedad, sequía, derrota militar, canibalismo (extremo) y el exilio de la Tierra.</li>
+    <li><strong>El Castigo Progresivo:</strong> La desobediencia conlleva un castigo progresivo (siete veces más severo).</li>
+    <li><strong>El Recuerdo de la Alianza:</strong> En el exilio, Dios promete recordar Su pacto con los patriarcas, impidiendo la destrucción total de Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Tratados Hititas</h5>
+<ul>
+    <li><strong>Cláusulas de Tratados:</strong> Los tratados de vasallaje hititas tenían cláusulas de bendición y maldición similares a esta estructura.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fuente del Castigo:</strong> La maldición no proviene de dioses caprichosos, sino del Dios justo que cumple los términos de Su pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El capítulo es la conclusión teológica del libro. La vida en la Tierra Prometida está directamente ligada a la santidad y la obediencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo es la declaración más clara de <span class="highlight">causa y efecto del pacto</span>. La historia futura de Israel (monarquía, división, exilio) está profetizada en las maldiciones.</p>
                 
@@ -4137,7 +6982,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Redención:</strong> El derecho a recomprar lo votado (pagando el valor más un 20%)</li>
                     <li><strong>El Diezmo:</strong> La décima parte de la tierra, el ganado y los frutos pertenece a YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes de Votos y Cosas Consagradas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rescate de Votos</h5>
+<ul>
+    <li><strong>El Voto por Personas:</strong> Si alguien hace un voto a Dios de dedicar a una persona, puede redimirla pagando una suma de dinero basada en la edad y el género (valoraciones estándar).</li>
+    <li><strong>Voto por Animales:</strong> Si un animal sin defecto es votado a Dios, no puede ser cambiado por uno malo.</li>
+    <li><strong>El Diezmo:</strong> El diezmo de la tierra, el grano y el ganado pertenece a Dios y no puede redimirse fácilmente (solo con un 20% adicional).</li>
+    <li><strong>Lo Consagrado Irredimible:</strong> Las tierras dedicadas (anatema) a Dios no podían ser redimidas ni vendidas, incluyendo el primogénito.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Votos y las Promesas</h5>
+<ul>
+    <li><strong>Promesas Condicionales:</strong> Las promesas a los dioses paganos a menudo se hacían con la intención de ser rotas si el dios no cumplía.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Valoración del Voto:</strong> La Ley regula el valor del voto para que no sea impulsivo, sino un acto de compromiso calculado y serio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo finaliza con regulaciones que aseguran que el compromiso con Dios, una vez hecho, se cumpla seriamente a través de la redención o el cumplimiento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley del voto enseña que, si bien la consagración voluntaria es bienvenida, la <span class="highlight">fidelidad en la promesa</span> es esencial. El diezmo afirma la soberanía de Dios sobre todo lo que Israel posee.</p>
                 
@@ -4171,7 +7038,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Censo:</strong> El conteo y registro de los varones de cada tribu</li>
                     <li><strong>Separación de Leví:</strong> La tribu de Leví es excluida del censo militar (dedicada al servicio del Tabernáculo)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Primer Censo y la Organización Militar</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Censo y la Milicia</h5>
+<ul>
+    <li><strong>El Propósito:</strong> El censo se realiza para organizar la nación en un **ejército** y para la asignación de tareas. Solo se cuenta a los hombres mayores de 20 años aptos para la guerra.</li>
+    <li><strong>El 'Ejército de YHWH':</strong> La organización en el desierto es más militar que civil. Israel se considera un ejército en marcha.</li>
+    <li><strong>Exclusión de Leví:</strong> La tribu de Leví no se cuenta para el servicio militar. Se les asigna el servicio al Tabernáculo y son el ejército espiritual.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Censos en la Antigüedad</h5>
+<ul>
+    <li><strong>Impuestos y Esclavitud:</strong> Los imperios (Egipto, Mesopotamia) realizaban censos para el cobro de impuestos, el reclutamiento forzoso y la esclavitud.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Divino:</strong> El censo es ordenado por Dios, no por un rey humano. El propósito es el servicio sagrado y la guerra santa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Muestra que Dios organiza a Su pueblo de manera precisa y funcional, centrado en el Tabernáculo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El censo demuestra que Israel, aunque es una nación del pacto, es también un <span class="highlight">ejército organizado</span>. La separación de Leví subraya la prioridad del culto y la santidad sobre la guerra.</p>
                 
@@ -4202,7 +7090,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Los Estándares:</strong> Cada división marcha bajo un estandarte tribal</li>
                     <li><strong>Marcha y Desplazamiento:</strong> El orden en que las tribus se movían en el desierto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Disposición del Campamento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Concentración Ritual</h5>
+<ul>
+    <li><strong>El Centro:</strong> El **Tabernáculo** (la presencia de Dios) está en el centro.</li>
+    <li><strong>Las Tribus:</strong> Se organizan en cuatro grupos de tres tribus, cada uno con su estandarte y su jefe.
+        <ul>
+            <li>**Este:** Judá (el grupo más grande, el de la realeza)</li>
+            <li>**Sur:** Rubén</li>
+            <li>**Oeste:** Efraín</li>
+            <li>**Norte:** Dan</li>
+        </ul>
+    </li>
+    <li><strong>Levitas:</strong> Rodean inmediatamente el Tabernáculo, creando una barrera entre la santidad y el pueblo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Distribución de Ejércitos</h5>
+<ul>
+    <li><strong>Ejércitos Desorganizados:</strong> Los ejércitos tribales eran a menudo desorganizados y se movían sin un orden fijo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Patrón de Santidad:</strong> La disposición refleja un "mandala" o patrón de santidad, donde la distancia del centro indica el grado de santidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La organización física del campamento subraya que la vida de Israel debe girar en torno a la presencia de Dios. 
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El orden del campamento es un símbolo de la <span class="highlight">santidad de Dios</span>. La distancia entre el campamento y el Tabernáculo se regula para evitar que la impureza humana contamine la morada de Dios.</p>
                 
@@ -4234,7 +7150,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Responsabilidades:</strong> Coat lleva los objetos sagrados (Arca), Gersón las cortinas, Merari los marcos y bases</li>
                     <li><strong>Riesgo de Santidad:</strong> Los levitas previenen que el pueblo toque lo sagrado y muera</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Los Levitas y la Sustitución del Primogénito</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Servicio Sacerdotal</h5>
+<ul>
+    <li><strong>La Sustitución:</strong> Los Levitas son tomados como **sustitutos** de los primogénitos de Israel. Esto honra el pacto de Dios en la Pascua, donde el primogénito fue salvado.</li>
+    <li><strong>Las Familias Levitas:</strong>
+        <ul>
+            <li>**Coat:** Carga de los objetos más sagrados (Arca, Mesa).</li>
+            <li>**Gersón:** Carga de las cortinas y coberturas.</li>
+            <li>**Merari:** Carga de las estructuras, tablas y postes.</li>
+        </ul>
+    </li>
+    <li><strong>Redención del Excedente:</strong> Los primogénitos que exceden en número a los levitas deben ser **redimidos** con cinco siclos de plata cada uno.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Castración en Templos</h5>
+<ul>
+    <li><strong>Eunucos en Templos:</strong> En muchas culturas, los siervos de los templos eran eunucos o esclavos dedicados por la fuerza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Voluntad:</strong> El servicio Levita es por orden divina y sustitución, no por coerción.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La tribu de Leví cumple la función de mediación, asegurando que la santidad no destruya al pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La tribu de Leví actúa como un <span class="highlight">mediador de la santidad</span>, sirviendo como amortiguador entre el pueblo pecador y la presencia divina, protegiendo a ambos.</p>
                 
@@ -4265,7 +7208,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reglas para el Transporte:</strong> Los sacerdotes deben cubrir los objetos sagrados antes de que los levitas los lleven</li>
                     <li><strong>Riesgo de Muerte:</strong> La ley protege a los coatitas de la muerte por tocar lo sagrado descubierto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Transporte del Tabernáculo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Cobertura y la Carga</h5>
+<ul>
+    <li><strong>Regulación por Edad:</strong> El servicio activo de los Levitas se limita a hombres de 30 a 50 años.</li>
+    <li><strong>Prohibición a los Levitas:</strong> Se prohíbe estrictamente a los Levitas tocar o incluso mirar los objetos sagrados hasta que hayan sido cubiertos por los sacerdotes (Coatíes).</li>
+    <li>**Protocolo de Cobertura:** Los sacerdotes (Aarón y sus hijos) deben cubrir los objetos más sagrados (Arca, mesa) con pieles y telas de diferentes colores para protegerlos de la profanación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Templos Móviles</h5>
+<ul>
+    <li><strong>Templos Egipcios:</strong> Los egipcios a veces transportaban imágenes de sus dioses en barcazas ceremoniales, pero el rito no requería la cobertura estricta.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Separación:</strong> Se enfatiza la extrema peligrosidad de la santidad divina, que requiere una separación estricta incluso durante el movimiento.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Detalla la logística del campamento. La santidad es un concepto físico que debe ser manejado con el máximo cuidado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El manejo de lo sagrado es peligroso. El ritual de cubrir los objetos subraya que la <span class="highlight">santidad de Dios</span> es inaccesible y que la mediación de los sacerdotes es indispensable.</p>
                 
@@ -4296,7 +7260,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Restitución:</strong> Si no hay a quién restituir, la restitución es para el sacerdote</li>
                     <li><strong>La Ley de los Celos:</strong> Un ritual para probar el adulterio de una mujer, apelando al juicio de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes de Pureza y Sospecha (Sotah)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Purificación del Campamento</h5>
+<ul>
+    <li><strong>Expulsión de Impuros:</strong> Cualquier persona con lepra, flujo o que haya tocado un muerto debe ser expulsada temporalmente del campamento para proteger la santidad central.</li>
+    <li>**Ley de Restitución:** Si un hombre defrauda a otro y el defraudado muere, la restitución (más 20%) debe ir al sacerdote, ya que Dios es el heredero de la tierra.</li>
+    <li>**Ley de la Sospecha (**Sotah**):** Si un hombre sospecha de adulterio en su esposa, la mujer debe beber **agua amarga** (agua bendita mezclada con polvo del Tabernáculo y tintas de la maldición).</li>
+    <li><strong>Juicio Divino:</strong> Si es culpable, su cuerpo se hincha y es maldecida. Si es inocente, queda limpia y fértil.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Juicios de Dios</h5>
+<ul>
+    <li>**Juicio por Ordalía:** Muchas culturas usaban el "juicio de Dios" (ordalías), como caminar sobre fuego, para determinar la culpabilidad, pero eran riesgosos y a menudo manipulados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Proceso:</strong> El proceso es ritual y es Dios quien determina la culpabilidad, no la fuerza física.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ley Sotah asegura que la sospecha y la justicia estén sujetas a la autoridad del Santuario y al juicio divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La necesidad de pureza en el campamento se basa en que Dios "habita en medio de ellos". La <span class="highlight">santidad moral y ritual</span> es necesaria para mantener la presencia divina y evitar el juicio.</p>
                 
@@ -4328,7 +7314,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reglas del Nazareato:</strong> Abstención de la vid, no cortar el cabello, evitar cadáveres</li>
                     <li><strong>La Bendición Sacerdotal:</strong> Una fórmula tripartita para invocar la paz y la presencia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Voto del Nazareo y la Bendición Sacerdotal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Consagración Voluntaria</h5>
+<ul>
+    <li>**Voto Nazareo:** Un voto de **consagración temporal** (o permanente, como Sansón/Samuel) a Dios. Implica:
+        <ul>
+            <li>No beber vino ni licor.</li>
+            <li>No cortarse el cabello.</li>
+            <li>No acercarse a ningún cadáver.</li>
+        </ul>
+    </li>
+    <li>**Fin del Voto:** Al final, el nazareo se afeita la cabeza, quema el cabello y ofrece sacrificios (holocausto y ofrenda por el pecado).</li>
+    <li>**La Bendición Sacerdotal:** La fórmula trina que Aarón y sus hijos deben usar para bendecir al pueblo, invocando el "Nombre de YHWH".</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Ascetismo Pagano</h5>
+<ul>
+    <li>**Ascetas Griegos:** Los votos de ascetismo en el mundo antiguo a menudo eran para obtener poder místico o hacer contacto con un dios menor.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Propósito:** El voto Nazareo es una dedicación *voluntaria* y temporal, accesible a todos, no solo a los sacerdotes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El voto permite a cualquier israelita vivir un período con la santidad de un sacerdote.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Nazareato es un recordatorio de que la <span class="highlight">santidad es una vocación</span> a la que todo israelita puede aspirar. La bendición invoca el "rostro de Dios" para otorgar paz.</p>
                 
@@ -4359,7 +7372,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Igualdad:</strong> Las ofrendas son idénticas, simbolizando que todas las tribus tienen el mismo valor ante Dios</li>
                     <li><strong>Sustento Levita:</strong> Carros y bueyes son donados a los levitas para el transporte</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ofrendas de los Príncipes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Dedicación y la Generosidad</h5>
+<ul>
+    <li>**La Dedicación:** Los príncipes (líderes tribales) ofrecen regalos para la dedicación del Tabernáculo (terminado en Éxodo 40).</li>
+    <li>**Los Regalos:** Consisten en carros y bueyes para el transporte de las partes del Tabernáculo (dados a los levitas Gersonitas y Meraritas) y vajilla de oro/plata.</li>
+    <li>**Ritual Diario:** La ofrenda se realiza durante 12 días, un día por cada tribu, con la misma cantidad y tipo de ofrenda, enfatizando la igualdad tribal.</li>
+    <li>**Voz de Dios:** Moisés oye la voz de Dios que le habla desde el propiciatorio del Arca.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Corrupción de Líderes</h5>
+<ul>
+    <li>**Regalos Asimétricos:** Los líderes en culturas vecinas a menudo ofrecían regalos para asegurar favores o exhibir su riqueza de manera desigual.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Unidad:** La repetición de las ofrendas subraya la unidad de Israel en la adoración, a pesar de las diferencias de posición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La generosidad de los príncipes es un acto de adoración y provisión para el servicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ofrenda de los príncipes es un acto de <span class="highlight">unión y compromiso</span> con el culto. La repetición de las ofrendas valida que el Tabernáculo pertenece a todas las tribus por igual.</p>
                 
@@ -4391,7 +7426,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Purificación:</strong> Los levitas se purifican con agua y se afeitan todo el cuerpo</li>
                     <li><strong>Imposición de Manos:</strong> Los líderes transfieren simbólicamente los derechos de los primogénitos a los levitas</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Dedicación de los Levitas y su Servicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Purificación Sacerdotal</h5>
+<ul>
+    <li>**La Iluminación:** Se dan instrucciones a Aarón sobre la disposición de la Menorá (el candelabro de siete brazos), cuya luz debe arder hacia el frente.</li>
+    <li>**Rito de Limpieza Levita:** Los levitas son purificados mediante:
+        <ul>
+            <li>Rociado con agua de expiación.</li>
+            <li>Afeitarse todo el cuerpo.</li>
+            <li>Lavar sus ropas.</li>
+        </ul>
+    </li>
+    <li>**Imposición de Manos:** El pueblo impone sus manos sobre los levitas (un acto de transferencia y dedicación).</li>
+    <li>**Límite de Edad:** Se reitera que el servicio activo es de 25 a 50 años.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Magia con Pelo</h5>
+<ul>
+    <li>**Afeitarse:** Las culturas paganas a menudo afeitaban a los esclavos del templo como marca de propiedad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Mediación:** Los Levitas son "ofrecidos" a Dios por el pueblo (imposición de manos) y cumplen la función de mediadores entre el pueblo y Aarón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La purificación de los levitas subraya que nadie puede acercarse a Dios sin un rito de limpieza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La imposición de manos es el <span class="highlight">acto de sustitución y delegación</span>. Los levitas son formalmente tomados por Dios para servir, liberando al resto de Israel de esa obligación.</p>
                 
@@ -4422,7 +7485,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obediencia:</strong> La ley establece que todos deben celebrar la Pascua</li>
                     <li><strong>La Nube de Guía:</strong> La nube sobre el Tabernáculo indica cuándo acampar y cuándo marchar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Segunda Pascua y la Nube de Guía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Fiesta y la Dirección Divina</h5>
+<ul>
+    <li>**La Segunda Pascua (Pésaj Sheni):** Se instituye una segunda Pascua para aquellos que estaban impuros o de viaje durante la Pascua original. Esto permite que nadie se pierda la fiesta fundamental.</li>
+    <li>**Protocolo de Viaje:** El movimiento es regulado por la **Nube de Gloria** (de día) y el **Fuego** (de noche) sobre el Tabernáculo.</li>
+    <li>**El Estandarte de Dios:** La Nube sobre el Santuario simboliza la presencia constante de YHWH y es el estandarte que guía al pueblo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adivinación para Viajes</h5>
+<ul>
+    <li>**Oráculos y Augurios:** Los pueblos antiguos usaban oráculos, augurios (observación de aves) o sueños para determinar cuándo y dónde viajar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Guía Directa:** La guía de Israel es directa, visible y constante, sin ambigüedades.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios provee una solución legal para la impureza (Segunda Pascua) y una guía física visible para el viaje.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Pascua es esencial para la identidad de Israel. La ley de la segunda Pascua subraya que la <span class="highlight">participación en el pacto</span> es prioritaria y que la misericordia de Dios se extiende a aquellos que están ritualmente impedidos.</p>
                 
@@ -4454,7 +7538,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Orden:</strong> La nube guía, pero el orden de marcha es militar y organizado</li>
                     <li><strong>Oración de Viaje:</strong> Las oraciones de Moisés al partir y acampar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Las Trompetas de Plata y la Partida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Señalización Militar y Ritual</h5>
+<ul>
+    <li>**Las Trompetas de Plata:** Se ordenan dos trompetas para:
+        <ul>
+            <li>**Convocar** a la asamblea.</li>
+            <li>**Dar la señal de marcha** al campamento (las tribus orientales primero, luego las del sur, etc.).</li>
+            <li>**Tocar alarma** en tiempos de guerra.</li>
+            <li>**Señalar** las fiestas solemnes.</li>
+        </ul>
+    </li>
+    <li>**La Marcha:** El orden de la marcha es estricto, con el Arca del Pacto (llevada por los Coatíes) a la cabeza.</li>
+    <li>**Hobab:** Moisés invita a su cuñado Hobab (madianita) a unirse a ellos como guía en el desierto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Cuernos de Guerra</h5>
+<ul>
+    <li>**Cuernos de Carnero:** Muchas culturas usaban cuernos de carnero (shofares) para la guerra, pero las trompetas de plata tenían un uso puramente ritual.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Mando:** Las trompetas son un símbolo de mando que procede del Santuario (sacerdotes).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La acción de Dios (la Nube) y la acción humana (las trompetas) se combinan para iniciar el movimiento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las trompetas simbolizan la <span class="highlight">voz autorizada de Dios</span> convocando a su pueblo. La partida del Sinaí marca la transición de la fase legal a la fase de acción (la marcha).</p>
                 
@@ -4486,7 +7598,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Delegación de Liderazgo:</strong> El Espíritu se reparte a 70 ancianos para ayudar a Moisés</li>
                     <li><strong>Juicio y Saciación:</strong> Dios da la carne que piden, pero con plaga (mueren por su glotonería)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Carne y el Espíritu Profético</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Cólera Divina y la Mediación</h5>
+<ul>
+    <li>**Quejas del Pueblo:** El pueblo se queja de la comida ("maná ligero") y de la falta de carne.</li>
+    <li>**Castigo y Mediación:** Dios envía fuego (Tabera) en castigo, pero Moisés intercede.</li>
+    <li>**Designación de Ancianos:** Moisés se queja del peso de la carga. Dios toma parte del Espíritu de Moisés y lo pone sobre 70 ancianos para que compartan la carga administrativa.</li>
+    <li>**Codornices:** Dios provee codornices en gran cantidad. El pueblo, al comerlas con glotonería, es castigado con una plaga (Kibrot-Hataava).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Gula y la Idolatría</h5>
+<ul>
+    <li>**Fiestas de Exceso:** Las fiestas paganas a menudo se caracterizaban por el exceso de comida y bebida, y terminaban en inmoralidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Liderazgo Compartido:** El don del Espíritu es compartido para el liderazgo, no una posesión exclusiva.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La queja por la comida (falta de fe en la provisión) trae un juicio severo. La carne es un deseo que se les da con una consecuencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las quejas de Israel demuestran una <span class="highlight">falta de fe crónica</span> y un anhelo por la vida de Egipto. El juicio en Kibrot-Hataava castiga la codicia y el rechazo del maná (la provisión diaria de Dios).</p>
                 
@@ -4518,7 +7652,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Castigo:</strong> María es castigada con lepra por su rebelión</li>
                     <li><strong>Intercesión:</strong> Moisés intercede inmediatamente por María</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Rebelión y Profecía de Moisés</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Liderazgo Profético</h5>
+<ul>
+    <li>**Crítica al Liderazgo:** Miriam y Aarón critican a Moisés por su esposa cusita/etíope y su autoridad.</li>
+    <li>**Moisés como Único:** Dios defiende a Moisés, estableciendo que él es **único** en Israel (el profeta que habla con Dios "cara a cara", no por sueños o visiones).</li>
+    <li>**Castigo y Purificación:** Miriam es castigada con **lepra** (*tsara'at*) y es aislada por 7 días. Aarón (como sacerdote) es perdonado.</li>
+    <li>**Parada del Campamento:** El campamento no puede moverse mientras Miriam (la fuente de impureza) está fuera.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Liderazgo de Clan</h5>
+<ul>
+    <li>**Autoridad por Sangre:** En muchas tribus, la autoridad era hereditaria y el desafío era común.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Autoridad: ** La autoridad de Moisés no se basa en el linaje (como Aarón) sino en una relación personal con YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El desafío a Moisés (el mediador) es un desafío a Dios mismo, lo que justifica un castigo inmediato.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El castigo de María con lepra simboliza la <span class="highlight">gravedad de desafiar a un líder ungido</span> por Dios. La intercesión de Moisés subraya su mansedumbre y su rol como mediador.</p>
                 
@@ -4550,7 +7706,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Tarea de Espiar:</strong> Verificar la fertilidad de la tierra y la fuerza de los habitantes</li>
                     <li><strong>Los Gigantes (Anacitas):</strong> El informe del miedo que paraliza al pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Espionaje de la Tierra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Reconquista Militar</h5>
+<ul>
+    <li>**La Exploración:** Se envía a un espía de cada tribu (12 hombres) para reconocer Canaán antes de la invasión.</li>
+    <li>**El Informe:** Los espías traen un informe sobre la fertilidad de la tierra (uvas gigantes) y la fuerza de los habitantes (ciudades fortificadas y gigantes - **Anaquitas**).</li>
+    <li>**Confianza Dividida:** Diez espías siembran el pánico, mientras que Josué y Caleb instan a la confianza en la promesa de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra de Conquista</h5>
+<ul>
+    <li>**El Botín y el Miedo:** En la guerra antigua, el miedo a los "gigantes" era común y a menudo paralizaba a los ejércitos pequeños.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Fe: ** La posesión de la tierra no depende de la fuerza militar de Israel, sino de la fidelidad de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe de Josué y Caleb es el contraste del pánico de la mayoría. La desobediencia es en realidad una falta de fe en la promesa de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El informe de los diez espías es un acto de <span class="highlight">rechazo a la promesa de Dios</span>. El miedo es el opuesto de la fe, y este evento se convierte en el pecado generacional que define el resto del libro.</p>
                 
@@ -4583,7 +7760,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> La muerte en el desierto por 40 años; los hijos de los rebeldes entrarán</li>
                     <li><strong>Arrepentimiento Falso:</strong> El intento fallido de atacar a los cananeos después de la sentencia</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Juicio de 40 Años en el Desierto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Castigo Colectivo</h5>
+<ul>
+    <li>**Rechazo del Pacto:** El pueblo intenta apedrear a Josué y Caleb y planea nombrar a un nuevo líder para regresar a Egipto.</li>
+    <li>**La Sentencia:** Dios castiga a la generación desobediente (mayores de 20 años) con la muerte en el desierto. Solo Josué y Caleb entrarán.</li>
+    <li>**Cuarenta Años:** Se establece un año de vagar por cada día que los espías reconocieron la tierra (40 días = 40 años).</li>
+    <li>**La Derrota:** Los que intentan subir a la tierra inmediatamente después del juicio son derrotados.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ejecución y el Exilio</h5>
+<ul>
+    <li>**Exilio y Destino:** El exilio era la forma más común de castigo de un imperio a un pueblo rebelde.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Propósito:** El castigo no es la destrucción, sino la purificación de la generación desobediente para que la promesa se cumpla en la nueva generación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo marca un punto de inflexión. La incredulidad se castiga con la dilación del pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Este es el pecado definitorio de la generación del desierto: <span class="highlight">rechazar el regalo de Dios</span> (la tierra) por miedo. El juicio de Dios es justo, pero su misericordia perdura al salvar a la nación por la intercesión de Moisés.</p>
                 
@@ -4615,7 +7814,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Fleco (Tzitzit):</strong> El mandamiento de usar flecos para recordar los mandamientos de Dios</li>
                     <li><strong>Pecado con Dolo:</strong> El que peca con "mano alzada" (intencionalmente) es cortado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes de Ofrendas y el Recuerdo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de los Sacrificios y los Errores</h5>
+<ul>
+    <li>**Ofrendas Adicionales:** Se dan leyes sobre las ofrendas que se realizarán cuando el pueblo finalmente entre en Canaán (especialmente ofrendas de bebida con los holocaustos).</li>
+    <li>**Pecado por Error:** Se diferencia el pecado "por error" del pecado "con mano alta" (intencional). El pecado por error se expía con sacrificio.</li>
+    <li>**Castigo por Desafío:** El que peca "con mano alta" (desafía abiertamente a Dios) es cortado de su pueblo.</li>
+    <li>**Los Flecos (**Tzitzit**):** El pueblo debe usar flecos/cordones en los bordes de sus vestidos para recordar los mandamientos.</li>
+</ul>
+
+<h<h5>style="color: #ff6b6b;">⚔️ Costumbres del Olvido de la Ley</h5>
+<ul>
+    <li>**Ley Oral:** La ley se transmitía oralmente, lo que facilitaba su olvido o la corrupción de los preceptos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Memoria: ** Los flecos son un recordatorio físico y visible de la Ley de YHWH, en contraste con los amuletos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> A pesar del juicio, Dios da leyes para la vida futura en la tierra, reafirmando la promesa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las leyes son dadas para una tierra que aún no poseen, lo que subraya la <span class="highlight">certeza de la promesa de Dios</span>. El fleco es un símbolo externo de la necesidad de la santidad interior y la obediencia.</p>
                 
@@ -4647,7 +7868,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Divino:</strong> La tierra se abre y el fuego consume a los rebeldes</li>
                     <li><strong>Santidad Sacerdotal:</strong> Dios defiende el sacerdocio exclusivo de Aarón</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Rebelión de Coré (Korah)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Desafío a la Autoridad</h5>
+<ul>
+    <li>**El Desafío:** Coré (Levita) se rebela junto a Datán y Abiram (Rubenitas), desafiando el sacerdocio de Aarón y el liderazgo de Moisés.</li>
+    <li>**Argumento:** "Toda la congregación es santa, ¿por qué os eleváis vosotros?"</li>
+    <li>**El Juicio:** Dios castiga la rebelión de dos maneras:
+        <ul>
+            <li>**Coré:** El suelo se abre y se traga a Coré, Datán, Abiram y sus familias.</li>
+            <li>**250 Hombres:** Los 250 hombres que ofrecieron incienso con Coré son consumidos por el fuego divino.</li>
+        </ul>
+    </li>
+    <li>**La Plaga:** Después, una plaga mata a 14.700 israelitas que murmuraron.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Golpes de Estado</h5>
+<ul>
+    <li>**Usurpación: ** Los golpes de estado y la usurpación de cargos (militares o sacerdotales) eran comunes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Defensa Divina:** Dios mismo defiende la estructura de autoridad que Él ha establecido.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La santidad es peligrosa. El intento de apropiarse del sacerdocio conduce a la muerte instantánea.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La rebelión de Coré es un rechazo de la <span class="highlight">estructura jerárquica de la autoridad</span> establecida por Dios. El juicio es total porque el desafío es directo contra Dios.</p>
                 
@@ -4678,7 +7926,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paz:</strong> La vara se coloca en el Arca como "señal para los rebeldes" (para evitar futuras murmuraciones)</li>
                     <li><strong>Vida de la Muerte:</strong> La vara seca que produce vida simboliza la elección divina</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Vara de Aarón que Florece</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Confirmación Sacerdotal</h5>
+<ul>
+    <li>**La Prueba:** Se toma una vara de cada líder tribal y la vara de Aarón. Se colocan en el Tabernáculo ante el Arca.</li>
+    <li>**El Milagro:** Al día siguiente, la **vara de Aarón** (por la casa de Leví) florece y produce almendras, simbolizando que el sacerdocio ha sido confirmado divinamente.</li>
+    <li>**El Propósito:** La vara debe ser guardada en el Tabernáculo como una "señal" para los rebeldes, poniendo fin a la murmuración.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Oráculos Falsos</h5>
+<ul>
+    <li>**Varas Adivinadoras:** El uso de varas y bastones para la adivinación o para hacer magia era común en muchas culturas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Autoridad Sacerdotal:** La autoridad de Aarón es establecida por un milagro de vida, no por la fuerza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La vida milagrosa de la vara muerta demuestra el poder de Dios para elegir a Sus siervos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La vara florecida es la <span class="highlight">prueba visible de la autoridad sacerdotal</span>. Simboliza que el sacerdocio (mediación) es una cuestión de vida que Dios mismo establece.</p>
                 
@@ -4710,7 +7979,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Herencia:</strong> Dios es la herencia de los sacerdotes y levitas (no tienen tierra)</li>
                     <li><strong>El Diezmo:</strong> La décima parte es el sustento fijo para la tribu levita</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Deberes y Sustento de los Sacerdotes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Responsabilidad y el Diezmo</h5>
+<ul>
+    <li>**Carga de la Culpa:** Se reitera que Aarón y sus hijos (sacerdotes) tienen la responsabilidad exclusiva del santuario.</li>
+    <li>**Sustento Sacerdotal:** Los sacerdotes no reciben herencia de tierra. Su sustento proviene de:
+        <ul>
+            <li>Las ofrendas del pueblo (la porción del altar).</li>
+            <li>El diezmo de los diezmos (los levitas dan un diezmo a los sacerdotes).</li>
+        </ul>
+    </li>
+    <li>**Sustento Levita:** Los levitas reciben el **diezmo** del pueblo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Propiedad del Templo</h5>
+<ul>
+    <li>**Tierras de los Templos:** Los templos paganos a menudo poseían vastas extensiones de tierra, con sacerdotes que eran grandes terratenientes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Dependencia Total:** El sacerdocio es totalmente dependiente de Dios y del pueblo para su sustento, asegurando su enfoque en el servicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios es la herencia de los sacerdotes. La ley establece una cadena de bendición y santidad: Pueblo -> Levitas -> Sacerdotes -> Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley de la herencia subraya que la <span class="highlight">dedicación total al servicio de Dios</span> es la vocación de estas tribus. Israel honra a Dios a través del diezmo, que sustenta a sus ministros.</p>
                 
@@ -4741,7 +8036,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Agua de Purificación:</strong> Las cenizas de la vaca mezcladas con agua viva se usan para limpiar</li>
                     <li><strong>Paradoja:</strong> La persona que realiza el rito de limpieza se vuelve ritualmente impura</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Rito de la Vaca Roja (Pará Adumá)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Purificación de la Muerte</h5>
+<ul>
+    <li>**La Necesidad:** El contacto con un cadáver produce la máxima impureza.</li>
+    <li>**El Rito:** Una **Vaca Roja** (perfecta, sin defecto, sin haber llevado yugo) se sacrifica y se quema por completo. Sus cenizas se mezclan con agua viva para crear el "agua de impureza".</li>
+    <li>**El Agua:** Esta agua es rociada sobre el impuro para limpiarlo.</li>
+    <li>**Paradoja:** La persona que realiza el rito de limpieza se vuelve ritualmente **impura**, ilustrando la naturaleza paradójica de la expiación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Rituales de Muerte</h5>
+<ul>
+    <li>**Magia Necromántica:** Las culturas vecinas usaban ritos mágicos o la brujería para evitar la impureza de la muerte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Medio de Limpieza:** Las cenizas y el agua son el medio divino para limpiar la impureza de la muerte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Vaca Roja proporciona un medio de limpieza continuo a medida que la generación del desierto muere.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Vaca Roja es un tipo de la <span class="highlight">purificación de Cristo</span>. Sus cenizas (su obra) ofrecen limpieza continua para aquellos que están contaminados por el pecado (la muerte). La paradoja muestra que la santidad tiene un costo (el purificador se vuelve impuro).</p>
                 
@@ -4775,7 +8092,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Muerte de Aarón:</strong> El sacerdocio pasa a su hijo Eleazar</li>
                     <li><strong>Hostilidad:</strong> Edom (descendientes de Esaú) niega el paso a su hermano Israel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Meriba y las Muertes Reales</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Desconfianza y el Castigo Profético</h5>
+<ul>
+    <li>**Muerte de Miriam:** La hermana de Moisés muere y es sepultada.</li>
+    <li>**Agua en Cades:** El pueblo murmura por falta de agua (**Meriba**). Dios ordena a Moisés **hablarle** a la roca.</li>
+    <li>**El Error de Moisés:** Moisés golpea la roca dos veces en lugar de hablarle, mostrando ira y desconfianza.</li>
+    <li>**Castigo de Moisés y Aarón:** Se les prohíbe entrar en Canaán por este acto.</li>
+    <li>**Muerte de Aarón:** Aarón muere en el Monte Hor. Sus vestiduras sacerdotales son transferidas a su hijo Eleazar (sucesión sacerdotal).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Sucesión en el Liderazgo</h5>
+<ul>
+    <li>**Sucesión por Batalla:** La sucesión en el liderazgo a menudo se decidía por la fuerza o por intriga.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Santidad Pública:** El pecado del líder es más grave debido a su posición pública.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La desconfianza de Moisés niega la santidad de Dios ante el pueblo. La muerte de Aarón asegura la sucesión sacerdotal antes de la entrada.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El fracaso de Moisés y Aarón demuestra que <span class="highlight">ni siquiera los líderes más grandes</span> pueden satisfacer el requisito de santidad de la Ley y llevar al pueblo a la promesa. Esto apunta a la necesidad de un líder mejor (Jesús).</p>
                 
@@ -4807,7 +8147,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Serpiente de Bronce:</strong> La cura milagrosa por obediencia (será un ídolo más tarde)</li>
                     <li><strong>Victorias Clave:</strong> La conquista de la tierra al este del Jordán</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Serpiente de Bronce y las Victorias</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio y la Sanación Milagrosa</h5>
+<ul>
+    <li>**Serpientes Venenosas:** El pueblo murmura de nuevo contra Dios y Moisés. Dios envía serpientes ardientes para castigarlos.</li>
+    <li>**La Serpiente de Bronce:** Moisés hace una serpiente de bronce y la pone en un poste. Quien la mira es sanado (una forma de fe y arrepentimiento).</li>
+    <li>**Guerra y Victoria:** Israel derrota al rey de Arad y luego a los reyes amorreos (Sehón y Og).</li>
+    <li>**Cantos:** Se incluye el **Cántico del Pozo**, una celebración de la provisión de agua.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ídolos de Sanación</h5>
+<ul>
+    <li>**Esculapio:** El dios griego de la medicina se representaba con serpientes, y muchos paganos tenían amuletos con serpientes para sanar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Sanación por Fe:** El objeto (serpiente) no tiene poder inherente; la sanación es un acto de fe y obediencia a la orden de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio y la provisión van de la mano. La fe es el único medio de sanación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La serpiente de bronce es un <span class="highlight">tipo mesiánico</span>: la fe en un objeto levantado (Cristo en la cruz) es la única cura para el veneno del pecado. Las victorias militares son la confirmación de que Dios está con la nueva generación.</p>
                 
@@ -4840,7 +8202,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Asna:</strong> El milagro para mostrar la necedad del profeta</li>
                     <li><strong>Obediencia Forzada:</strong> Balaam solo puede decir lo que Dios pone en su boca</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Balaac, Balaam y la Burra Parlante</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Profecía y la Maldición</h5>
+<ul>
+    <li>**Balaac, Rey de Moab:** Temeroso de Israel, contrata a **Balaam**, un famoso adivino/profeta, para maldecir al pueblo.</li>
+    <li>**El Mensajero de Dios:** Dios prohíbe a Balaam maldecir. Balaam intenta ir de todas formas.</li>
+    <li>**La Burra Parlante:** En el camino, un ángel se interpone, y la burra de Balaam lo ve y habla, advirtiéndole.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adivinación y la Maldición</h5>
+<ul>
+    <li>**Maldición a Sueldo:** Era común que reyes o tribus contrataran a adivinos para lanzar hechizos o maldiciones sobre sus enemigos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Control Divino:** Incluso un profeta pagano está bajo el control de YHWH, que convierte la maldición en bendición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La burra parlante humilla a Balaam, demostrando que Dios puede usar a cualquiera, incluso un animal, para frustrar los planes humanos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El episodio demuestra que Israel no puede ser maldecido porque está <span class="highlight">bajo la bendición irrevocable del pacto</span>. Incluso la criatura más humilde (el asna) tiene mayor discernimiento espiritual que el profeta pagano.</p>
                 
@@ -4871,7 +8254,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Separación:</strong> Israel es un pueblo único, contado aparte de las naciones</li>
                     <li><strong>Poder:</strong> El poder de Dios es la fuente de la fuerza de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Los Primeros Oráculos de Balaam</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de los Sacrificios y la Profecía</h5>
+<ul>
+    <li>**El Ritual:** Balaac construye siete altares. Balaam ofrece sacrificios e intenta maldecir.</li>
+    <li>**El Mensaje:** Balaam solo puede profetizar lo que Dios le da. En lugar de maldecir, proclama que Israel es un pueblo separado, incontable e indestructible.</li>
+    <li>**La Naturaleza de Dios:** Balaam declara: "Dios no es hombre, para que mienta, ni hijo de hombre, para que se arrepienta."</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Magia de la Palabra</h5>
+<ul>
+    <li>**Hechizos: ** En el mundo antiguo, se creía que las palabras tenían un poder mágico intrínseco.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Soberanía:** La soberanía de YHWH es absoluta, anula la intención de Balaac y la magia de Balaam.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La profecía revela el destino inmutable de Israel, establecido por el carácter fiel de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La declaración de que Dios "no es hombre para mentir" es fundamental. La bendición de Israel es <span class="highlight">irrevocable</span> y se basa en la fidelidad del carácter de Dios.</p>
                 
@@ -4902,7 +8306,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dominio:</strong> Israel será como un león, fuerte y victorioso</li>
                     <li><strong>Bendición Condicional:</strong> "Benditos los que te bendijeren, y malditos los que te maldijeren"</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Los Últimos Oráculos de Balaam</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Visión Mesiánica</h5>
+<ul>
+    <li>**Bendición Continua:** Balaam continúa bendiciendo a Israel, profetizando su victoria y su prosperidad futura.</li>
+    <li>**La Estrella y el Cetro:** Balaam profetiza una figura mesiánica: "Saldrá **Estrella** de Jacob, y se levantará **Cetro** de Israel".</li>
+    <li>**Derrota de las Naciones:** Balaam profetiza la derrota de las naciones vecinas (Moab, Edom, Amalec, los Cenitas).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Héroes Míticos</h5>
+<ul>
+    <li>**Héroes Salvadores:** Muchas naciones esperaban un héroe mítico que los liberaría.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Profecía Cautiva:** El intento de maldecir resulta en una de las profecías más claras del Mesías venidero.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La profecía de la Estrella de Jacob se cumple en la realeza de David y, finalmente, en el Mesías.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La profecía del "Cetro" establece que la bendición de Israel culminará en un <span class="highlight">rey glorioso y conquistador</span> (el Mesías), cuya autoridad será universal y definitiva.</p>
                 
@@ -4935,7 +8360,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Celoso Sacerdote:</strong> Finees ejecuta el juicio, haciendo "paz" para Israel</li>
                     <li><strong>Pacto de Paz:</strong> Dios da a Finees un pacto de sacerdocio perpetuo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pecado en Peor (Baal-Peor)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Idolatría y la Inmoralidad</h5>
+<ul>
+    <li>**El Cebo:** Balaam aconseja a Moab y Madián que tienten a Israel a través de la **prostitución sagrada** y la **idolatría** (Baal-Peor).</li>
+    <li>**La Prostitución Sagrada:** Israel se une a las mujeres moabitas y madianitas, participando en el culto de Baal-Peor (un dios de la fertilidad).</li>
+    <li>**El Castigo:** Dios envía una plaga.</li>
+    <li>**La Acción de Finees:** Finees (hijo de Eleazar) toma una lanza y mata a un israelita y una madianita mientras están juntos, deteniendo la plaga.</li>
+    <li>**El Pacto de Paz:** Dios le da a Finees un "pacto de paz" y el sacerdocio perpetuo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Prostitución en el Templo</h5>
+<ul>
+    <li>**Culto a la Fertilidad:** La prostitución ritual era común en los cultos de Baal y Astarté.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Celos Divinos:** La fidelidad a YHWH no tolera la mezcla de Su culto con la idolatría o la inmoralidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El celo de Finees por la santidad restablece el honor de Dios y detiene el juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El celo de Finees es un <span class="highlight">acto de expiación inmediata</span> que detiene la ira de Dios. Demuestra que la santidad es requerida, y la piedad debe manifestarse en la defensa de la gloria de Dios.</p>
                 
@@ -4966,7 +8414,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Herencia:</strong> El censo es para repartir la tierra por el número de guerreros</li>
                     <li><strong>Juicio Cumplido:</strong> Solo Josué y Caleb quedan de la generación anterior</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Segundo Censo y el Fin de una Era</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Nueva Generación y la Herencia</h5>
+<ul>
+    <li>**Propósito:** Se realiza un segundo censo (40 años después del primero) para contar a la nueva generación (mayores de 20 años) que entrará en Canaán.</li>
+    <li>**El Juicio Cumplido:** El censo revela que todos los hombres contados en el primer censo (excepto Josué y Caleb) han muerto.</li>
+    <li>**Organización para la Tierra:** El número de personas en cada tribu determinará la **extensión de la herencia** en la Tierra Prometida.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Botín de Guerra</h5>
+<ul>
+    <li>**División Desigual:** En la mayoría de las culturas, la tierra conquistada se dividía por favoritismo o rango militar, no por censo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Justicia en la Herencia:** La tierra se divide según el tamaño de la familia (justicia demográfica) para la nueva generación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La muerte de la generación incrédula es el cierre de un ciclo, abriendo el camino para que la generación fiel herede la promesa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El segundo censo demuestra la <span class="highlight">fidelidad inquebrantable de Dios</span>: la nación ha sido purificada a través del desierto y ahora está lista para el pacto y la conquista.</p>
                 
@@ -4998,7 +8467,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Traspaso de Liderazgo:</strong> Moisés es el profeta de la Ley; Josué es el general de la Conquista</li>
                     <li><strong>Autoridad:</strong> Josué debe consultar el juicio de los Urim del sacerdote Eleazar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes de Herencia y la Sucesión de Josué</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley Familiar y el Liderazgo</h5>
+<ul>
+    <li>**Hijas de Zelofehad:** Las cinco hijas de Zelofehad piden herencia, ya que su padre murió sin hijos varones.</li>
+    <li>**Nueva Ley de Herencia:** Dios establece una ley para garantizar que el linaje familiar mantenga su propiedad si no hay hijos varones.</li>
+    <li>**Sucesión de Moisés:** Moisés pide un sucesor antes de su muerte. Dios elige a **Josué**.</li>
+    <li>**Rito de Instalación:** Moisés impone sus manos sobre Josué para transferirle la autoridad (ordenación). Josué recibe autoridad militar, pero el sacerdote Eleazar (Urim y Tumim) tiene la autoridad de consulta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Exclusión Femenina</h5>
+<ul>
+    <li>**Patrimonio Masculino:** En la mayoría de las culturas antiguas, las mujeres no podían heredar tierras.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Derecho Femenino:** La ley de Dios protege el derecho de las mujeres a mantener la propiedad familiar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se asegura tanto la continuidad de la familia como la continuidad del liderazgo de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Ley demuestra que la <span class="highlight">herencia es fundamental</span> para el pacto, y se debe asegurar para las mujeres. Josué, el nuevo líder, depende del sacerdocio y la revelación divina (Urim) para guiar al pueblo.</p>
                 
@@ -5029,7 +8520,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad del Sábado:</strong> Una ofrenda adicional para el día de descanso</li>
                     <li><strong>Inicio de Mes:</strong> Sacrificios especiales para el novilunio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ofrendas Diarias y de Sábado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio Periódico</h5>
+<ul>
+    <li>**La Ofrenda Perpetua:** Se reitera la ofrenda diaria (un cordero por la mañana y uno por la tarde) con su ofrenda de harina y bebida.</li>
+    <li>**Sábado:** En el sábado, se añade un sacrificio de dos corderos al sacrificio perpetuo.</li>
+    <li>**Luna Nueva:** En la Luna Nueva, se añade una ofrenda aún mayor de toros, carneros y corderos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Calendario Pagano</h5>
+<ul>
+    <li>**Adivinación Lunar:** En muchas culturas, la Luna Nueva era un momento para la adivinación o la magia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Ritmo Constante:** El culto de Israel está regido por un ritmo constante, semanal, mensual y anual, que refleja la santidad del tiempo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ofrenda es un acto de adoración constante que mantiene la comunión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley de la ofrenda continua simboliza la <span class="highlight">adoración ininterrumpida</span> y el reconocimiento de la fidelidad de Dios. El culto estructura el tiempo de Israel, haciéndolo sagrado.</p>
                 
@@ -5060,7 +8572,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Día de la Expiación (Yom Kippur):</strong> El día de ayuno y expiación más solemne</li>
                     <li><strong>Fiesta de los Tabernáculos:</strong> La fiesta más larga, con un gran número de sacrificios de toros (70)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ofrendas de las Fiestas Anuales</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto en el Calendario</h5>
+<ul>
+    <li>**Fiesta de las Trompetas:** Se describe la ofrenda para la Fiesta de las Trompetas (Rosh Hashaná).</li>
+    <li>**Día de Expiación (**Yom Kippur**):** La ofrenda para el día de ayuno y expiación.</li>
+    <li>**Fiesta de los Tabernáculos (**Sukkot**):** La ofrenda más numerosa. Comienza con una gran cantidad de toros (13) que disminuye cada día durante la fiesta de siete días.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Ofrendas Desiguales</h5>
+<ul>
+    <li>**Ofrendas por Demanda:** Las ofrendas paganas a menudo se hacían de forma desigual, en respuesta a una demanda de la deidad o una crisis.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Precisión:** La precisión de la cantidad de ofrendas asegura que el culto se cumpla con la máxima obediencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El detalle de las ofrendas subraya la importancia de la adoración y el recuerdo de los actos de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Los sacrificios masivos en las fiestas (especialmente Tabernáculos) simbolizan la <span class="highlight">generosidad y la alegría</span>. El culto de Israel es un sistema caro, que enseña el alto costo de la comunión con Dios.</p>
                 
@@ -5092,7 +8625,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad Familiar:</strong> El voto de una mujer soltera o casada está sujeto a la cabeza de la familia</li>
                     <li><strong>Pecado por Incumplimiento:</strong> El incumplimiento del voto trae culpa sobre el que lo rompe</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes de los Votos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Compromiso y la Autoridad</h5>
+<ul>
+    <li>**Voto del Hombre:** El voto de un hombre es obligatorio e ineludible.</li>
+    <li>**Voto de la Mujer:** El voto de una mujer soltera o una mujer casada o viuda está sujeto a la **autoridad** del padre o el marido, respectivamente.</li>
+    <li>**Anulación del Voto:** El padre o el marido pueden anular un voto en el día en que lo oyen. Si no lo hacen, el voto se hace obligatorio.</li>
+    <li>**Propósito:** Proteger a las mujeres de votos imprudentes, sin liberar al hombre de su responsabilidad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Palabra no Fiable</h5>
+<ul>
+    <li>**Juramentos Falsos:** Los juramentos y votos a menudo se hacían con un compromiso mínimo en el mundo antiguo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Seriedad:** La ley confiere gran seriedad a la palabra hablada (voto) al exigir su cumplimiento o su anulación en el día.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ley enseña el respeto por el compromiso y la estructura de autoridad familiar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley del voto subraya la <span class="highlight">santidad de la palabra empeñada</span> ante Dios. La anulación del voto por el esposo/padre protege la jerarquía familiar, que es una imagen del orden divino.</p>
                 
@@ -5125,7 +8680,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Destino de Balaam:</strong> El profeta codicioso muere por su propia intriga</li>
                     <li><strong>Purificación del Botín:</strong> El botín debe purificarse con fuego y agua antes de entrar al campamento</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Guerra contra Madián</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Venganza y la Purificación de la Guerra</h5>
+<ul>
+    <li>**Venganza:** Dios ordena a Israel que ejecute la "venganza de YHWH" contra Madián por el pecado de Baal-Peor.</li>
+    <li>**El Botín de Guerra:** Se mata a todos los varones, incluyendo a los cinco reyes de Madián y a Balaam.</li>
+    <li>**Purificación del Botín:** Los soldados y el botín deben someterse a un riguroso rito de purificación (lavado y pasar por el fuego) para eliminar la impureza de la muerte y el paganismo.</li>
+    <li>**Distribución del Botín:** El botín se divide entre los soldados, el pueblo y una porción para los sacerdotes y levitas (tributo sagrado).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Saqueo y la Violación</h5>
+<ul>
+    <li>**Saqueo Sin Ley:** Los ejércitos antiguos saqueaban y violaban sin restricciones.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Guerra Santa:** La guerra de Israel tiene un propósito moral (juicio contra el pecado) y está sujeta a leyes de pureza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se enfatiza que Israel no lucha por ambición, sino para llevar a cabo el juicio de Dios contra el pecado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La guerra contra Madián es un <span class="highlight">acto de justicia divina</span> contra los que corrompen a Israel. Muestra que la obediencia al pacto requiere la eliminación de la contaminación de los enemigos.</p>
                 
@@ -5157,7 +8734,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza:</strong> Moisés advierte contra la incredulidad (recordando el pecado de los espías)</li>
                     <li><strong>Fidelidad:</strong> Las tribus prometen cumplir su parte del trato</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Asentamiento en Transjordania</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Compromiso y la Tierra</h5>
+<ul>
+    <li>**La Petición:** Las tribus de Rubén, Gad y la media tribu de Manasés, ricas en ganado, piden quedarse en la tierra al este del Jordán.</li>
+    <li>**La Condición:** Moisés acepta bajo la condición de que sus hombres armados crucen el Jordán y luchen con sus hermanos hasta que la conquista esté completa.</li>
+    <li>**La Lealtad:** Este compromiso garantiza la **unidad** de Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deserción</h5>
+<ul>
+    <li>**Deserción de Tropas:** Los ejércitos tribales a menudo se separaban después de una campaña exitosa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Responsabilidad Colectiva:** La ley exige que la responsabilidad y el riesgo de la conquista sean compartidos por todo Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fidelidad a los hermanos es tan importante como la fidelidad a la Ley.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo subraya que la <span class="highlight">unidad de la nación</span> es crucial: la herencia individual no puede separarse del compromiso colectivo con la promesa de Dios.</p>
                 
@@ -5188,7 +8786,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autenticidad Histórica:</strong> El registro detallado sirve para validar la narrativa</li>
                     <li><strong>Mandato Final:</strong> La orden de exterminar a los cananeos y destruir sus ídolos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Crónica de las Jornadas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Historia y la Memoria</h5>
+<ul>
+    <li>**El Registro:** Una lista detallada de los 42 lugares donde Israel acampó desde la salida de Egipto.</li>
+    <li>**Propósito:** Sirve como un registro histórico de la fidelidad de Dios y la prueba del vagar de 40 años.</li>
+    <li>**La Tierra:** Se reitera el mandato de expulsar a los cananeos y destruir sus ídolos para evitar la asimilación religiosa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Destrucción de Ídolos</h5>
+<ul>
+    <li>**Asimilación:** Los pueblos conquistadores a menudo adoptaban los dioses de los pueblos que conquistaban.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Purificación de la Tierra:** La tierra debe ser purificada del paganismo para que la Presencia de Dios pueda morar con el pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La larga lista de paradas demuestra que la vida de Israel fue un viaje de obediencia guiada por Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El registro subraya que la <span class="highlight">fidelidad de Dios</span> es evidente en cada etapa del viaje, guiándolos fielmente de la esclavitud a la promesa. El mandato de destruir los ídolos asegura la pureza del pacto.</p>
                 
@@ -5220,7 +8839,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cumplimiento de la Promesa:</strong> El territorio prometido es formalmente delimitado</li>
                     <li><strong>Comisión:</strong> Se nombra a los líderes que heredarán la tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Fronteras y Líderes de la Tierra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Delimitación Geográfica</h5>
+<ul>
+    <li>**Fronteras:** Se establecen los límites exactos de la Tierra Prometida de Canaán, desde el Mar Mediterráneo hasta el Mar Salado (Mar Muerto) y el Río Jordán.</li>
+    <li>**Líderes de la Repartición:** Se nombra a un príncipe de cada tribu para supervisar la división y el reparto de la tierra por suerte.</li>
+    <li>**Propósito:** Prevenir conflictos territoriales futuros entre las tribus.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra por el Territorio</h5>
+<ul>
+    <li>**Disputas Limítrofes:** Las disputas territoriales eran la principal causa de guerra entre reinos antiguos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**División Ordenada:** La tierra es un don de Dios, y su división está estrictamente regulada por la ley y la guía divina.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El detalle de las fronteras subraya la certeza de que la promesa de la tierra se cumplirá.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las fronteras demuestran que la promesa de Dios es <span class="highlight">concreta y específica</span>. La tierra es el centro del pacto, y su posesión es la culminación de la liberación.</p>
                 
@@ -5252,7 +8892,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ciudades de Refugio:</strong> El sistema legal que distingue el homicidio intencional del no intencional</li>
                     <li><strong>Justicia:</strong> El homicida intencional debe ser condenado a muerte</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ciudades de Refugio y Ciudades Levitas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Justicia por Homicidio</h5>
+<ul>
+    <li>**Ciudades Levitas:** Se asignan 48 ciudades esparcidas por todo el territorio de Israel para los levitas, quienes no recibieron herencia de tierra.</li>
+    <li>**Ciudades de Refugio:** De esas 48 ciudades, 6 son designadas como **Ciudades de Refugio** (3 al este del Jordán, 3 al oeste).</li>
+    <li>**El Homicida:** Quien mata accidentalmente a alguien puede huir a una de estas ciudades para protegerse del **Vengador de la Sangre** (el pariente más cercano del difunto).</li>
+    <li>**El Juicio:** El homicida permanece en la ciudad hasta la muerte del Sumo Sacerdote, cuando es libre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza de Sangre</h5>
+<ul>
+    <li>**Venganza Inmediata:** La venganza de sangre era la norma en las sociedades tribales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Justicia y Misericordia:** La ley distingue entre homicidio y asesinato, proporcionando un refugio justo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Las ciudades de refugio son un ejemplo de la ley que modera la venganza y proporciona misericordia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las Ciudades de Refugio son un <span class="highlight">acto de misericordia legal</span>, que provee protección contra la venganza, pero exige que el homicida permanezca allí hasta la muerte del Sumo Sacerdote. Los levitas, dispersos, actúan como maestros y guías en todo Israel.</p>
                 
@@ -5283,7 +8945,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Equilibrio Legal:</strong> Se mantiene el derecho de heredar, pero se restringe el matrimonio para proteger a la tribu</li>
                     <li><strong>Final de la Ley:</strong> El registro de la Ley Mosaica es completado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes Finales de la Herencia de las Mujeres</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Matrimonio de Propietarias de Tierras</h5>
+<ul>
+    <li>**El Problema:** Los líderes de la tribu de Manasés (a la que pertenecían las hijas de Zelofehad) se preocupan de que si estas mujeres se casan fuera de su tribu, su tierra pasará a la otra tribu.</li>
+    <li>**Regla Final:** Se ordena a las hijas de Zelofehad que se casen **dentro de su propio clan tribal** (dentro de la tribu de Manasés).</li>
+    <li>**El Propósito:** Mantener la integridad de las porciones de tierra asignadas a cada tribu.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Fusión de Propiedades</h5>
+<ul>
+    <li>**Matrimonios por Conquista:** Los matrimonios a menudo servían para consolidar la propiedad o expandir un territorio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Equilibrio:** La ley equilibra el derecho individual de las mujeres a heredar con la estructura tribal de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro cierra con una regulación legal precisa, asegurando que el diseño de Dios para la distribución de la tierra sea permanente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo subraya que la <span class="highlight">integridad del patrimonio tribal</span> es crucial. La herencia es un eslabón tangible del pacto de Dios con la nación.</p>
                 
@@ -5317,7 +9000,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Pecado de Cades:</strong> La incredulidad del pueblo selló su destino</li>
                     <li><strong>Autoridad:</strong> El establecimiento de jueces para delegar la autoridad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Discurso de Despedida y Recuento Histórico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Orador Público y la Memoria</h5>
+<ul>
+    <li><strong>El Discurso de Despedida:</strong> Moisés pronuncia una serie de discursos (típicos de los líderes antiguos antes de morir) que resumen la Ley y la historia.</li>
+    <li><strong>Geografía del Discurso:</strong> El discurso se da al este del Jordán, preparando al pueblo para la transición.</li>
+    <li><strong>El Recuerdo:</strong> Moisés recuerda el nombramiento de jueces (consejo de Jetro, Éxodo 18) y el envío de los espías.</li>
+    <li><strong>La Incredulidad:</strong> Se enfatiza la desobediencia de la generación anterior que llevó al vagar de 40 años.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Tratados de Vasallaje</h5>
+<ul>
+    <li><strong>Preámbulo Histórico:</strong> Los tratados hititas y asirios comenzaban con un recuento de los actos benéficos del gran rey (YHWH) hacia el vasallo (Israel).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Autoridad:</strong> El discurso no es una nueva ley, sino una **reafirmación** y explicación de la Ley dada en el Sinaí.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La historia se repite como una advertencia: la obediencia trae bendición; la desobediencia trae juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El repaso histórico enseña que la <span class="highlight">desobediencia al llamado de Dios</span> (por miedo e incredulidad) resulta en la pérdida de la promesa. La nueva generación es advertida con el ejemplo de sus padres.</p>
                 
@@ -5349,7 +9054,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Respeto a las Fronteras:</strong> Israel debe respetar el derecho territorial de otras naciones</li>
                     <li><strong>Inicio de la Conquista:</strong> La derrota de Sihón como señal de la victoria futura</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Viaje en el Desierto y las Restricciones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra Regulada</h5>
+<ul>
+    <li><strong>Respeto a los Hermanos:</strong> Dios prohíbe a Israel atacar o provocar a los descendientes de Esaú (Edom), Moab y Amón (descendientes de Lot), ya que Dios les había dado esas tierras.</li>
+    <li><strong>El Camino de Paso:</strong> Israel debe comprar comida y agua a estas naciones, demostrando respeto por sus fronteras.</li>
+    <li><strong>La Conquista Justificada:</strong> Se recuerdan las victorias sobre los amorreos, Sehón y Og, para demostrar que la conquista es un juicio de Dios sobre los pueblos impíos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Invasión Total</h5>
+<ul>
+    <li><strong>Invasión y Saqueo:</strong> Los ejércitos antiguos invadían y saqueaban cualquier territorio que encontraban.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Moralidad en la Guerra:</strong> Las guerras de Israel están sujetas a restricciones morales y divinas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios es el soberano de toda la Tierra, no solo de Israel. Él decide qué naciones heredan qué tierras.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El desvío demuestra que la <span class="highlight">fidelidad de Dios</span> a su pacto es total, proveyendo por 40 años. Las victorias sobre Sihón y Og son la confirmación de que la nueva generación está lista para la guerra.</p>
                 
@@ -5381,7 +9107,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Herencia del Este:</strong> La asignación de tierra a las tribus de Transjordania</li>
                     <li><strong>Juicio de Moisés:</strong> El fracaso de Moisés en Meribá sella su prohibición de entrar a la tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Reparto de las Tierras de Transjordania</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Herencia y la Guerra</h5>
+<ul>
+    <li><strong>Victoria sobre Og:</strong> Se enfatiza la derrota de Og, rey de Basán, un gigante (descendiente de los refaítas), para demostrar que Dios puede vencer incluso a los enemigos más temidos.</li>
+    <li><strong>Reparto de la Tierra:</strong> Se ratifica el reparto de las tierras de Sehón y Og a las tribus de Rubén, Gad y la media tribu de Manasés.</li>
+    <li><strong>El Exhorto a Josué:</strong> Moisés transfiere el liderazgo a Josué, exhortándolo a no temer a los reyes de Canaán.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Refaítas</h5>
+<ul>
+    <li><strong>Gigantes:</strong> La creencia en pueblos de estatura gigantesca era común en la tradición del Cercano Oriente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Liderazgo:</strong> El liderazgo se transfiere por mandato divino e imposición de manos, no por derecho de sangre (como en las monarquías).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La prohibición de Moisés de entrar en Canaán es un recordatorio de que la Ley es inmutable, incluso para el líder.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La prohibición a Moisés subraya que <span class="highlight">nadie está por encima de la Ley</span> y el castigo de Dios. La victoria sobre Og es la confirmación de que Dios entrega la tierra y de que el miedo de los espías era injustificado.</p>
                 
@@ -5413,7 +9160,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Consecuencias del Exilio:</strong> La desobediencia llevará a Israel al exilio, pero Dios los restaurará (profecía)</li>
                     <li><strong>Las Leyes como Sabiduría:</strong> La Ley hace a Israel una nación sabia y entendida</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Advertencia contra la Idolatría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley como Sabiduría</h5>
+<ul>
+    <li><strong>Ley Escrita:</strong> La obediencia a la Ley es presentada como la **sabiduría** y la inteligencia de Israel ante las naciones.</li>
+    <li><strong>El Monoteísmo:</strong> Moisés reitera que Dios habló desde el fuego, pero no se vio ninguna forma (prohibición de la imagen).</li>
+    <li><strong>Consecuencias del Pecado:</strong> Se advierte del exilio y la dispersión si el pueblo se desvía hacia la idolatría.</li>
+    <li><strong>Asignación de Ciudades:</strong> Moisés aparta tres ciudades de refugio al este del Jordán.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Dioses Visibles</h5>
+<ul>
+    <li><strong>Imágenes Divinas:</strong> Todas las naciones adoraban a dioses con forma visible (Baal, Astarté, etc.).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Conocimiento:</strong> La Ley de Israel es única, justa y completa, superior a los códigos de leyes de las naciones.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La adoración de YHWH es pura y no permite la representación física, lo que separa totalmente a Israel del paganismo circundante.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ausencia de forma de Dios en Horeb exige que Israel le adore en <span class="highlight">espíritu y verdad</span>, no con imágenes. La obediencia a la Ley es la sabiduría y la vida de la nación.</p>
                 
@@ -5444,7 +9213,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Esclavitud Recordada:</strong> El Sábado se observa para recordar que fueron siervos y Dios los liberó</li>
                     <li><strong>Mediación de Moisés:</strong> El pueblo teme y pide a Moisés que escuche por ellos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Reafirmación de los Diez Mandamientos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Renovación del Pacto</h5>
+<ul>
+    <li><strong>La Audiencia:</strong> Moisés habla directamente a la nueva generación, actuando como el mediador.</li>
+    <li><strong>El Pacto en Horeb:</strong> Se repiten los Diez Mandamientos (con ligeras modificaciones), adaptados a la audiencia que está a punto de entrar a la tierra.</li>
+    <li><strong>El Énfasis del Sábado:</strong> El motivo del sábado se cambia del descanso en la creación (Génesis) a la **liberación de la esclavitud** en Egipto (la redención).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Tablas de Leyes</h5>
+<ul>
+    <li><strong>Estelas de Leyes:</strong> Las leyes antiguas se grababan en estelas de piedra (como el Código de Hammurabi). Las Tablas de la Ley eran las *estelas del pacto*.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fundamento:</strong> El fundamento de la Ley es la redención ("Yo soy YHWH tu Dios, que te saqué de la tierra de Egipto").</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ley no es una carga, sino una forma de vida que recuerda constantemente la liberación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La repetición de los Mandamientos afirma la <span class="highlight">continuidad del Pacto</span>. La Ley es un regalo de Dios que revela su voluntad para la vida justa, no una simple lista de prohibiciones.</p>
                 
@@ -5476,7 +9266,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Instrucción a los Hijos:</strong> La Ley debe ser enseñada continuamente (en la casa, en el camino)</li>
                     <li><strong>Advertencia contra la Prosperidad:</strong> El peligro de olvidar a Dios en la riqueza de Canaán</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Shemá y la Enseñanza a los Hijos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Monoteísmo y la Educación</h5>
+<ul>
+    <li><strong>El Shemá:</strong> "Oye, Israel: YHWH nuestro Dios, YHWH uno es." (Génesis 6:4). Esta es la declaración central del monoteísmo de Israel.</li>
+    <li><strong>Filacterias y Mezuzot:</strong> Se ordena atar las palabras de la Ley a las manos y la frente (filacterias) y escribirlas en los postes de las casas (mezuzot), para recordar constantemente el pacto.</li>
+    <li><strong>Educación de los Hijos:</strong> Los padres tienen el deber de enseñar la Ley a los hijos de forma constante, asegurando la transmisión de la fe.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Amuletos y la Magia</h5>
+<ul>
+    <li><strong>Amuletos:</strong> Los egipcios y cananeos usaban amuletos y hechizos escritos para la protección.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Motivación:</strong> El uso de la Ley en la mano y la frente no es mágico, sino un recordatorio de la obediencia en el pensamiento y la acción.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe de Israel se vive en la esfera pública y privada, siendo una fe activa, no pasiva.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Shemá es el <span class="highlight">corazón del Pacto</span>. La obediencia no es solo un acto, sino el resultado del amor total a Dios. La Ley debe impregnar todos los aspectos de la vida diaria.</p>
                 
@@ -5507,7 +9318,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Separación:</strong> Prohibición de matrimonios y pactos con los cananeos</li>
                     <li><strong>Propósito de la Elección:</strong> Israel es escogido no por ser numeroso, sino por el amor y la fidelidad de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pueblo Escogido y la Destrucción de Ídolos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto Exclusivo</h5>
+<ul>
+    <li><strong>La Elección:</strong> Israel es elegido no por ser más numeroso, sino por el amor de Dios y Su fidelidad al juramento de los patriarcas.</li>
+    <li><strong>Prohibición de Alianza:</strong> Se prohíbe hacer pactos o matrimonios con las siete naciones de Canaán.</li>
+    <li><strong>Destrucción Total:</strong> Se ordena la destrucción de todos los pilares, imágenes y altares paganos para evitar la asimilación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Sincretismo Religioso</h5>
+<ul>
+    <li><strong>Sincretismo:</strong> Era común que los conquistadores adoptaran a los dioses de la tierra conquistada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Santidad:</strong> La santidad requiere la separación total de las costumbres religiosas de Canaán.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La elección de Israel se basa únicamente en la gracia y la fidelidad de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El exterminio de los cananeos simboliza la <span class="highlight">necesidad de erradicar el mal y la idolatría</span> de la vida de pacto. La elección de Israel es por gracia, no por mérito, basada en el juramento a los patriarcas.</p>
                 
@@ -5538,7 +9370,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Prueba:</strong> El desierto fue una prueba de obediencia y corazón</li>
                     <li><strong>Advertencia del Olvido:</strong> El peligro de atribuir la prosperidad a la propia fuerza</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Desierto como Prueba</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Reconocimiento de la Provisión</h5>
+<ul>
+    <li><strong>El Propósito del Desierto:</strong> El desierto fue una prueba para enseñar al pueblo a depender de la Palabra de Dios ("no solo de pan vivirá el hombre").</li>
+    <li><strong>El Maná:</strong> El recuerdo del maná como alimento sobrenatural.</li>
+    <li><strong>La Advertencia:</strong> Se advierte al pueblo que no olvide a Dios al entrar en la prosperidad de Canaán y que no piense que fue su propia "fuerza" la que les dio la riqueza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Autosuficiencia Pagana</h5>
+<ul>
+    <li><strong>Deificación de la Fuerza:</strong> Los reyes y pueblos paganos atribuían sus victorias y riquezas a su propia fuerza militar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dependencia:</strong> La verdadera fuerza de Israel reside en la Palabra de Dios y en la dependencia continua.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La memoria de la humildad del desierto es esencial para la obediencia en la riqueza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo es la teología del sufrimiento: la dificultad (el desierto) es un <span class="highlight">acto de amor de Dios</span> para enseñar la humildad y la dependencia. La prosperidad es una bendición, pero también una prueba de fe.</p>
                 
@@ -5569,7 +9422,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pueblo Rebelde:</strong> La historia de Israel está marcada por la terquedad</li>
                     <li><strong>El Becerro de Oro:</strong> El ejemplo más grave de idolatría y traición al pacto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Justificación por la Gracia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Autocrítica Histórica</h5>
+<ul>
+    <li><strong>Rechazo del Mérito:</strong> Moisés advierte a Israel que no piensen que la conquista es por su "justicia" o "rectitud."</li>
+    <li><strong>El Recuerdo de la Rebelión:</strong> Se recuerdan los pecados más graves (el becerro de oro, Tabera, Masá) para demostrar que Israel es un pueblo de "cerviz dura."</li>
+    <li><strong>El Desafío a Canaán:</strong> La expulsión de las naciones cananeas es un juicio divino sobre su propia maldad, no un premio al mérito de Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Gloria Personal</h5>
+<ul>
+    <li><strong>Monumentos a la Victoria:</strong> Los reyes erigían estelas (monumentos) para glorificar su propia justicia y poder militar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Base de la Conquista:</strong> La conquista es un acto de gracia y de juicio, no de recompensa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El pacto se basa en la fidelidad de Dios (por Abraham) y no en el desempeño de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Este capítulo establece el principio de que la <span class="highlight">justicia viene solo de Dios</span>. El éxito de Israel se basa en la fidelidad de Dios al pacto abrahámico, no en la obediencia mosaica.</p>
                 
@@ -5600,7 +9474,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia Social:</strong> Dios ama al extranjero, al huérfano y a la viuda (Israel debe hacer lo mismo)</li>
                     <li><strong>Circuncisión del Corazón:</strong> La exigencia interior de la Ley, no solo el ritual externo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Sacerdocio Levítico y el Temor a Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Elección Incondicional</h5>
+<ul>
+    <li><strong>Las Nuevas Tablas:</strong> Moisés recuerda cómo talló las segundas tablas de la Ley y cómo fueron puestas en el Arca.</li>
+    <li><strong>La Elección de Leví:</strong> Se recuerda la separación de Leví (el sacerdocio) como un acto de gracia de Dios, a pesar de sus transgresiones.</li>
+    <li><strong>El Mandamiento:</strong> El mandamiento principal es circuncidar el "prepucio del corazón" (obediencia interna y no solo externa).</li>
+    <li><strong>Justicia Universal:</strong> Dios se revela como el que "hace justicia al huérfano y a la viuda, y ama al extranjero."</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Justicia Excluyente</h5>
+<ul>
+    <li><strong>Exclusión Legal:</strong> Los códigos de ley antiguos a menudo excluían a huérfanos, viudas y extranjeros de la protección legal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ética del Extranjero:</strong> La justicia de Israel se extiende al extranjero porque Israel fue extranjero en Egipto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La obediencia requerida por el nuevo pacto debe ser del corazón (interna), no solo de la carne (circuncisión).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Ley es, en última instancia, una demanda de amor</span>. El requisito de la circuncisión del corazón (arrepentimiento y obediencia interna) anticipa la obra del Espíritu y la profecía de la nueva alianza (Jer. 31).</p>
                 
@@ -5631,7 +9527,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Palabra en la Vida:</strong> La Ley debe estar atada en la mano y puesta en los postes de la casa (mezuzot)</li>
                     <li><strong>Geografía Sagrada:</strong> La bendición y la maldición se vinculan a dos montes específicos de la tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Recompensa y Consecuencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Condicionalidad del Pacto</h5>
+<ul>
+    <li><strong>La Prueba del Ojo:</strong> Moisés pide al pueblo que recuerde lo que sus propios ojos han visto (las obras de Dios, no de sus padres).</li>
+    <li><strong>Tierra de Riego:</strong> Canaán se contrasta con Egipto (que requería riego por pie), ya que Canaán depende de la **lluvia del cielo**.</li>
+    <li><strong>Bendición y Maldición:</strong> El pueblo debe elegir entre la **bendición** (prosperidad, lluvia) o la **maldición** (sequía, exilio).</li>
+    <li><strong>Los Hitos:</strong> La bendición y la maldición deben ser pronunciadas en el Monte Guerizim y el Monte Ebal al entrar a Canaán.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Deidades de la Lluvia</h5>
+<ul>
+    <li><strong>Baal:</strong> El dios de la lluvia y la tormenta. Si Israel falla, se sentirá tentado a adorar a Baal para asegurar la lluvia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fuente de Vida:</strong> La prosperidad de Israel depende directamente de YHWH, no de la irrigación o las deidades locales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La geografía de la tierra está ligada a la moralidad. El acto de pronunciar las bendiciones y maldiciones es un juramento público.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo establece la teología de la <span class="highlight">supervisión divina sobre el clima</span>. La vida en la tierra es condicional a la obediencia, lo que demuestra que Dios es el Señor del cielo y de la tierra.</p>
                 
@@ -5662,7 +9580,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Centralización:</strong> Prohibición de sacrificar en "todo lugar alto" (culto sin supervisión)</li>
                     <li><strong>Comer Carne:</strong> Se permite comer carne en la casa (no solo en el altar), pero la sangre está prohibida</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Lugar Central de Culto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto Centralizado</h5>
+<ul>
+    <li><strong>Destrucción de Lugares de Culto:</strong> Se ordena la destrucción total de todos los lugares de culto cananeos (montes altos, árboles, altares).</li>
+    <li><strong>Lugar Elegido:</strong> Se establece que Israel debe adorar y sacrificar solo en el "lugar que YHWH elija" (anticipando Jerusalén).</li>
+    <li><strong>Propósito:</strong> Evitar la contaminación religiosa. Los israelitas deben comer la carne de la caza en sus casas (uso secular).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Lugares Altos (Bamot)</h5>
+<ul>
+    <li><strong>Bamot:</strong> Los cananeos adoraban en "lugares altos" (*bamot*), construidos en colinas, dedicados a Baal y Astarté.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Unidad:</strong> La centralización del culto garantiza la unidad teológica y ritual de todas las tribus.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La vida diaria (la caza) es separada de la vida ritual (el sacrificio) para preservar la santidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La centralización protege al pueblo del sincretismo y subraya que la <span class="highlight">adoración de Dios es única</span> y no puede ser diluida por las prácticas paganas. Se democratiza el consumo de carne (no religiosa), pero se sacraliza el sacrificio.</p>
                 
@@ -5693,7 +9632,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad Absoluta:</strong> La fidelidad a YHWH no se negocia con ningún dios</li>
                     <li><strong>Destrucción de la Ciudad:</strong> El castigo por apostasía total (el juicio más severo)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Prueba de Profetas y la Ciudad Apostata</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Falsa Profecía y la Sanción</h5>
+<ul>
+    <li><strong>Prueba del Profeta:</strong> La prueba de un profeta: si sus profecías se cumplen, pero incita a la idolatría, debe ser ejecutado.</li>
+    <li><strong>Castigo Familiar:</strong> Si un pariente cercano intenta secretamente desviar a la idolatría, la persona debe ser denunciada y castigada.</li>
+    <li><strong>Ciudad Apostata:</strong> Si una ciudad entera cae en la idolatría, debe ser destruida por completo y sus bienes quemados (un anatema).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Tolerancia Religiosa</h5>
+<ul>
+    <li><strong>Tolerancia:</strong> Los imperios (Persia, Roma) a menudo permitían la adoración de múltiples dioses.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Intolerancia Sagrada:</strong> La fe en YHWH exige la intolerancia absoluta a la idolatría dentro de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El celo por la pureza teológica es tan importante que anula lazos familiares y comunitarios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley establece que la <span class="highlight">fuente de la enseñanza</span> es más importante que los milagros. El objetivo final de la ley es el amor y la obediencia total a Dios, no el espectáculo.</p>
                 
@@ -5725,7 +9685,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Diezmo de Fiesta:</strong> El diezmo para celebrar en el "lugar escogido"</li>
                     <li><strong>Justicia Social:</strong> El diezmo del tercer año como red de seguridad para los pobres</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ritos de Luto y Leyes Dietéticas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Identidad Única</h5>
+<ul>
+    <li><strong>Luto Prohibido:</strong> Se prohíbe cortarse o raparse la cabeza o hacerse cortes en el cuerpo por los muertos (ritos de luto paganos).</li>
+    <li><strong>Leyes Dietéticas (Kashrut):</strong> Se reitera la distinción entre animales limpios e inmundos (similar a Levítico 11), como signo de la separación de Israel.</li>
+    <li><strong>El Segundo Diezmo:</strong> Se ordena un diezmo (un segundo diezmo) que debe comerse en el lugar central de culto.</li>
+    <li><strong>Diezmo del Tercer Año:</strong> Cada tercer año, el diezmo se da a los levitas, huérfanos y viudas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Culto a los Muertos</h5>
+<ul>
+    <li><strong>Ritos de Luto:</strong> Los cananeos y otros pueblos hacían cortes o se rapaban en ritos de dedicación a dioses del inframundo o en luto extremo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Cuerpo Sagrado:</strong> El cuerpo del israelita es sagrado y no puede ser desfigurado por ritos paganos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Las leyes dietéticas y de luto refuerzan la identidad como "propiedad peculiar" de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La pureza ritual (dieta) y el <span class="highlight">sostenimiento de los necesitados</span> son manifestaciones inseparables de la santidad. El diezmo afirma que la riqueza de Israel es un regalo de Dios y debe ser compartida.</p>
                 
@@ -5758,7 +9740,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Liberación de Esclavos:</strong> El esclavo debe ser liberado con provisiones (recuerdo del Éxodo)</li>
                     <li><strong>Primogénito:</strong> Leyes del primogénito de los animales (consagrado a Dios)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Año de Remisión y Liberación de Esclavos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley Económica Sabática</h5>
+<ul>
+    <li><strong>Año de Remisión (Shemitá):</strong> Cada siete años, se cancelan las deudas (entre israelitas).</li>
+    <li><strong>Liberación de Esclavos:</strong> Los siervos hebreos deben ser liberados al séptimo año (con provisión generosa).</li>
+    <li><strong>Provisión para el Liberado:</strong> Se ordena que el siervo no sea liberado con las manos vacías, sino con una provisión generosa de ganado y productos.</li>
+    <li><strong>Esclavo Voluntario:</strong> Si el siervo desea quedarse, se le perfora la oreja en la puerta de la ciudad (un rito público) como marca de servicio permanente.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Esclavitud Permanente</h5>
+<ul>
+    <li><strong>Esclavitud de por Vida:</strong> La esclavitud por deuda era permanente en Egipto y Mesopotamia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia Social:</strong> La ley protege a los pobres y promueve la igualdad social con el ciclo de liberación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La generosidad en la liberación es un recuerdo de la liberación de Israel de la esclavitud.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El año sabático es una <span class="highlight">declaración de la soberanía de Dios</span> sobre el tiempo y la economía. La liberación de esclavos recuerda que Israel fue liberado por Dios y debe extender la gracia.</p>
                 
@@ -5790,7 +9794,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo:</strong> La celebración debe incluir a los levitas, extranjeros, huérfanos y viudas</li>
                     <li><strong>Justicia en las Puertas:</strong> El mandamiento de establecer jueces en todas las ciudades</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Las Tres Fiestas de Peregrinación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Peregrinación Centralizada</h5>
+<ul>
+    <li><strong>Peregrinación Obligatoria:</strong> Se ordena que todos los varones israelitas se presenten tres veces al año en el lugar central de culto:
+        <ul>
+            <li><strong>Pascua/Panes sin Levadura.</strong></li>
+            <li><strong>Semanas/Pentecostés.</strong></li>
+            <li><strong>Tabernáculos/Cabañas.</strong></li>
+        </ul>
+    </li>
+    <li><strong>Ofrenda Voluntaria:</strong> Nadie debe presentarse con las manos vacías; deben traer una ofrenda proporcional a la bendición recibida.</li>
+    <li><strong>Justicia en el Gobierno:</strong> Se ordena el nombramiento de jueces y oficiales para administrar la justicia en las ciudades.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración Local</h5>
+<ul>
+    <li><strong>Adoración en Lugares Altos:</strong> El culto pagano se hacía en altares locales (Bamot), sin un centro unificado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Unidad Tribal:</strong> La peregrinación forzosa refuerza la unidad tribal y la identidad nacional.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El acto de adoración pública es una parte esencial del cumplimiento del pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las fiestas son el <span class="highlight">ritmo de la vida de Israel</span>, asegurando que la nación se una continuamente en el recuerdo de la liberación y la provisión de Dios.</p>
                 
@@ -5822,7 +9853,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Limitaciones Reales:</strong> El rey debe escribir una copia de la Ley y leerla todos los días</li>
                     <li><strong>Humildad Real:</strong> El rey no debe elevar su corazón sobre sus hermanos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Idolatría, Juicio y la Ley del Rey</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio Legal y la Monarquía Regulada</h5>
+<ul>
+    <li><strong>Sacrificio Puro:</strong> Se prohíbe ofrecer animales defectuosos en sacrificio.</li>
+    <li><strong>Testigos:</strong> La pena de muerte requiere el testimonio de dos o tres testigos.</li>
+    <li><strong>Monarquía (futura):</strong> Se regula la figura del rey que Israel pedirá más tarde:
+        <ul>
+            <li>No debe ser extranjero.</li>
+            <li>No debe acumular caballos (poder militar) ni esposas (alianzas).</li>
+            <li>Debe escribir una copia de la Ley y leerla diariamente.</li>
+        </ul>
+    </li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza Absoluta</h5>
+<ul>
+    <li><strong>Reyes Divinos:</strong> Los reyes en el Cercano Oriente eran considerados divinos o semidivinos, con poder absoluto.</li>
+    <li><strong>Acumulación de Poder:</strong> La fuerza militar y el harén eran símbolos de la autoridad real.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Monarquía Limitada:</strong> El rey de Israel está sujeto a la Ley de Dios, no es la fuente de la ley.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Incluso el más alto líder humano está bajo la autoridad de la Palabra de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Ley del Rey es una <span class="highlight">limitación a la monarquía absoluta</span>: el rey es siervo de Dios y está sujeto a la Ley, no por encima de ella. El estudio diario de la Ley es vital para el liderazgo.</p>
                 
@@ -5854,7 +9913,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Gran Profeta:</strong> Dios levantará a un profeta (como Moisés) para guiar al pueblo</li>
                     <li><strong>Prueba del Profeta:</strong> Si la profecía no se cumple, el profeta es falso</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Sacerdocio, Profecía y Adivinación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sustento Sacerdotal y el Profeta Verdadero</h5>
+<ul>
+    <li><strong>Sustento del Sacerdocio:</strong> Los sacerdotes reciben partes específicas de los sacrificios y las primicias, no herencia de tierra.</li>
+    <li><strong>Prohibición Pagana:</strong> Se prohíben estrictamente las prácticas de las naciones vecinas: adivinación, magia, hechicería, nigromancia, etc.</li>
+    <li><strong>El Profeta como Guía:</strong> Dios promete levantar un profeta "como Moisés" al que deben escuchar (anticipando el Mesías).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Magia y la Comunicación con los Muertos</h5>
+<ul>
+    <li><strong>Adivinación:</strong> La consulta de adivinos y la hechicería eran prácticas cotidianas en Canaán.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Comunicación con Dios:</strong> La única forma legítima de conocer la voluntad de Dios es a través del profeta autorizado por Él.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley prohíbe la búsqueda de conocimiento en fuentes oscuras, ligando toda la verdad a YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La promesa de un Profeta como Moisés es una de las profecías mesiánicas más importantes (<span class="highlight">Cristo es el cumplimiento</span>). Este profeta será la fuente autorizada de la revelación de Dios después de Moisés.</p>
                 
@@ -5887,7 +9967,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lex Talionis:</strong> La justicia del "ojo por ojo, diente por diente" (solo en el tribunal)</li>
                     <li><strong>Juicio Justo:</strong> El juez debe investigar diligentemente el testimonio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ciudades de Refugio y Límites</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Delimitación y la Venganza</h5>
+<ul>
+    <li><strong>Ciudades de Refugio:</strong> Se reitera el establecimiento de tres ciudades de refugio para el homicida involuntario.</li>
+    <li><strong>Aumento de Ciudades:</strong> Dios promete tres ciudades de refugio adicionales si Israel expande su territorio.</li>
+    <li><strong>Límite de Propiedad:</strong> Se prohíbe mover la "mojonera" o límite de propiedad del vecino (una violación grave de los derechos).</li>
+    <li><strong>Falso Testimonio:</strong> El falso testigo debe recibir el castigo que intentó imponer al acusado (ley de la reciprocidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Vendetta y la Opresión de Tierras</h5>
+<ul>
+    <li><strong>Venganza de Sangre:</strong> La venganza de sangre era la única justicia en sociedades sin ley.</li>
+    <li><strong>Robo de Tierras:</strong> Mover los límites para apoderarse de la tierra del vecino era un crimen social común.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Protección Legal:</strong> La Ley protege los derechos de propiedad y ofrece un proceso legal para la misericordia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La justicia de Dios se aplica tanto a la propiedad como a la vida humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley de refugio equilibra la <span class="highlight">justicia y la misericordia</span>. El requisito de múltiples testigos protege contra la injusticia, asegurando que la verdad sea el fundamento de la ley.</p>
                 
@@ -5919,7 +10022,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hérem (Exterminio):</strong> Se aplica a las ciudades de Canaán para evitar la contaminación</li>
                     <li><strong>Asedio Ético:</strong> Prohibición de cortar árboles frutales durante el asedio a ciudades lejanas</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Leyes de la Guerra Santa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Alistamiento y la Destrucción</h5>
+<ul>
+    <li><strong>Exención Militar:</strong> Se exime de la guerra a hombres que:
+        <ul>
+            <li>Acaban de construir una casa.</li>
+            <li>Acaban de plantar una viña.</li>
+            <li>Acaban de desposar a una mujer.</li>
+            <li>Son miedosos.</li>
+        </ul>
+    </li>
+    <li><strong>Asedio y el Árbol:</strong> En el asedio, se prohíbe cortar árboles frutales, promoviendo la conservación de recursos.</li>
+    <li><strong>Guerra del Anatema:</strong> La destrucción total de las siete naciones cananeas (Anatema/Jerem) para evitar la asimilación religiosa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Destrucción Total y el Saqueo</h5>
+<ul>
+    <li><strong>Destrucción Ecológica:</strong> Los ejércitos enemigos a menudo cortaban árboles frutales para desmoralizar al enemigo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Confianza:</strong> La confianza debe estar en Dios, no en la fuerza militar, lo que permite exenciones inusuales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El celo religioso se aplica a la guerra, pero con límites éticos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las leyes demuestran que la <span class="highlight">guerra de Israel es una "guerra santa"</span>, un acto de obediencia que requiere purificación. El asedio ético valora la vida y el futuro sobre la destrucción total (salvo en el juicio cananeo).</p>
                 
@@ -5952,7 +10083,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Primogenitura:</strong> El padre no puede anular el derecho del primogénito por favoritismo</li>
                     <li><strong>Entierro Inmediato:</strong> La maldición asociada a un cuerpo colgado ("maldito por Dios")</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ritos de Expiación y Leyes Familiares</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Responsabilidad y el Matrimonio</h5>
+<ul>
+    <li><strong>Expiación de Homicidio no Resuelto:</strong> Si se encuentra un cuerpo y no se conoce al asesino, los ancianos de la ciudad más cercana realizan un rito de expiación con una becerra para limpiar la culpa de sangre.</li>
+    <li><strong>Prisionera de Guerra:</strong> Regulaciones para casarse con una prisionera de guerra: debe ser honrada y pasar un mes de luto antes del matrimonio.</li>
+    <li><strong>Derecho del Primogénito:</strong> El hijo primogénito (incluso de una esposa menos amada) tiene derecho a la doble porción de la herencia.</li>
+    <li><strong>Hijo Rebelde:</strong> El castigo capital para un hijo incorregible y rebelde se aplica solo con el testimonio de los ancianos en la puerta de la ciudad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra</h5>
+<ul>
+    <li><strong>Castigo Rápido:</strong> Los padres tenían poder absoluto sobre la vida de sus hijos en muchas culturas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Protección Legal:</strong> La ley protege el derecho de la prisionera de guerra y del primogénito, y limita el poder parental.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La tierra es contaminada por la sangre derramada, y el ritual de expiación asegura la limpieza de la comunidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley del cuerpo colgado es un tipo profético de Cristo (Gálatas 3:13). La ley se enfoca en la <span class="highlight">purificación de la tierra</span>, que no puede tolerar la contaminación de la sangre sin resolver ni la maldición.</p>
                 
@@ -5984,7 +10137,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Leyes de Adulterio:</strong> La pena capital para ambos infractores (limpieza total)</li>
                     <li><strong>Prueba de Virginidad:</strong> Si se prueba la calumnia, el hombre es castigado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ritos de Expiación y Leyes Familiares</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Responsabilidad y el Matrimonio</h5>
+<ul>
+    <li><strong>Expiación de Homicidio no Resuelto:</strong> Si se encuentra un cuerpo y no se conoce al asesino, los ancianos de la ciudad más cercana realizan un rito de expiación con una becerra para limpiar la culpa de sangre.</li>
+    <li><strong>Prisionera de Guerra:</strong> Regulaciones para casarse con una prisionera de guerra: debe ser honrada y pasar un mes de luto antes del matrimonio.</li>
+    <li><strong>Derecho del Primogénito:</strong> El hijo primogénito (incluso de una esposa menos amada) tiene derecho a la doble porción de la herencia.</li>
+    <li><strong>Hijo Rebelde:</strong> El castigo capital para un hijo incorregible y rebelde se aplica solo con el testimonio de los ancianos en la puerta de la ciudad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra</h5>
+<ul>
+    <li><strong>Castigo Rápido:</strong> Los padres tenían poder absoluto sobre la vida de sus hijos en muchas culturas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Protección Legal:</strong> La ley protege el derecho de la prisionera de guerra y del primogénito, y limita el poder parental.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La tierra es contaminada por la sangre derramada, y el ritual de expiación asegura la limpieza de la comunidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ley enseña que la <span class="highlight">santidad es integral</span>: se aplica a la propiedad, el vestuario y la sexualidad. El rigor de las leyes sexuales protege la institución del matrimonio y la pureza del pueblo.</p>
                 
@@ -6016,7 +10191,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Usura:</strong> Prohibición de cobrar intereses a los hermanos israelitas</li>
                     <li><strong>Votos:</strong> El requisito de cumplir los votos hechos a Dios sin demora</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ritos de Expiación y Leyes Familiares</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Responsabilidad y el Matrimonio</h5>
+<ul>
+    <li><strong>Expiación de Homicidio no Resuelto:</strong> Si se encuentra un cuerpo y no se conoce al asesino, los ancianos de la ciudad más cercana realizan un rito de expiación con una becerra para limpiar la culpa de sangre.</li>
+    <li><strong>Prisionera de Guerra:</strong> Regulaciones para casarse con una prisionera de guerra: debe ser honrada y pasar un mes de luto antes del matrimonio.</li>
+    <li><strong>Derecho del Primogénito:</strong> El hijo primogénito (incluso de una esposa menos amada) tiene derecho a la doble porción de la herencia.</li>
+    <li><strong>Hijo Rebelde:</strong> El castigo capital para un hijo incorregible y rebelde se aplica solo con el testimonio de los ancianos en la puerta de la ciudad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra</h5>
+<ul>
+    <li><strong>Castigo Rápido:</strong> Los padres tenían poder absoluto sobre la vida de sus hijos en muchas culturas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Protección Legal:</strong> La ley protege el derecho de la prisionera de guerra y del primogénito, y limita el poder parental.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La tierra es contaminada por la sangre derramada, y el ritual de expiación asegura la limpieza de la comunidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La pureza del campamento es crucial porque <span class="highlight">Dios "anda en medio" del campamento</span>. La exclusión se basa en principios rituales y en la historia de la hostilidad contra Israel (Moab y Amón).</p>
                 
@@ -6048,7 +10245,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Salario Justo:</strong> Pagar al jornalero al final del día (no retener el salario)</li>
                     <li><strong>Espigamiento:</strong> La ley que permite a los pobres recoger el remanente de la cosecha (amor práctico)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Divorcio, Prenda y Cosecha</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Matrimonio y la Justicia Laboral</h5>
+<ul>
+    <li><strong>Divorcio:</strong> Un hombre puede dar a su esposa un "certificado de divorcio" si encuentra "algo indecente" en ella.</li>
+    <li><strong>Ley de la Prenda:</strong> Si se toma una prenda como garantía de deuda, no debe ser el molino (instrumento de sustento) ni la ropa del pobre que necesita en la noche.</li>
+    <li><strong>Salario Justo:</strong> El salario del jornalero debe pagarse el mismo día antes del atardecer.</li>
+    <li><strong>Justicia en la Cosecha:</strong> Se ordena dejar algo en el campo (rebusco) para el extranjero, la viuda y el huérfano.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Desprecio al Trabajador</h5>
+<ul>
+    <li><strong>Esclavitud por Deuda:</strong> El impago de un préstamo podía resultar en la pérdida total de los bienes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Humanidad:</strong> La Ley modera el poder masculino (divorcio) y protege los derechos humanos básicos del pobre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El recuerdo de la esclavitud en Egipto obliga a la justicia y la misericordia hacia los vulnerables.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las leyes sociales demuestran que la <span class="highlight">justicia está ligada a la memoria</span>. Israel debe tratar a los pobres con justicia, recordando que fueron esclavos en Egipto y Dios los liberó.</p>
                 
@@ -6081,7 +10300,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Integridad Comercial:</strong> El requisito de pesas y medidas justas</li>
                     <li><strong>Recuerdo de Amalec:</strong> El mandato de borrar el recuerdo de Amalec por su ataque cobarde</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Castigo Corporal y Levirato</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Límite al Castigo y la Herencia</h5>
+<ul>
+    <li><strong>Límite de Azotes:</strong> El castigo corporal se limita a 40 azotes (para evitar la deshonra).</li>
+    <li><strong>Levirato:</strong> Si un hombre muere sin hijos, su hermano debe casarse con la viuda para levantar descendencia para el muerto (continuidad del linaje).</li>
+    <li><strong>Rito del Zapato:</strong> Si el hermano se niega al levirato, la viuda le quita el zapato y le escupe en la cara (una deshonra pública).</li>
+    <li><strong>Pesos y Medidas:</strong> La estricta prohibición de usar pesas y medidas desiguales (fraude).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra y el Fraude</h5>
+<ul>
+    <li><strong>Deshonra Sin Límites:</strong> El castigo corporal sin límites para mostrar el poder del juez.</li>
+    <li><strong>Fraude en el Mercado:</strong> El uso de pesas fraudulentas era un medio común de engaño en los mercados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dignidad:</strong> La Ley protege la dignidad del criminal y del pobre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La justicia se aplica con honor, y la fidelidad de YHWH se invoca contra el ataque de Amalec (el ataque por la espalda).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia y la ética</span> deben aplicarse en el ámbito público y privado (comercio). El matrimonio levirato es un medio legal para mantener la continuidad familiar y la herencia territorial (centrales para el pacto).</p>
                 
@@ -6113,7 +10355,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad Final:</strong> El juramento de que Israel ha cumplido la Ley</li>
                     <li><strong>Pueblo Santo:</strong> La nación es declarada el "pueblo propio" de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Las Primicias y el Diezmo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Reconocimiento de la Redención</h5>
+<ul>
+    <li><strong>Ofrenda de las Primicias:</strong> El oferente debe llevar los primeros frutos de la cosecha al lugar central de culto y hacer una **confesión histórica** (mi padre fue arameo errante, Dios nos liberó de Egipto).</li>
+    <li><strong>El Diezmo de los Pobres:</strong> El diezmo del tercer año se consagra a Dios y se distribuye entre los levitas, el extranjero, la viuda y el huérfano.</li>
+    <li><strong>Juramento del Pacto:</strong> El pueblo hace un juramento de fidelidad, y Dios declara a Israel como Su pueblo especial.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Rito Agrícola</h5>
+<ul>
+    <li><strong>Ofrenda Silenciosa:</strong> Las ofrendas a los dioses de la cosecha a menudo eran silenciosas, sin una confesión histórica.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Adoración Histórica:</strong> La adoración de Israel está ligada a su historia de redención (el Éxodo), no a los ciclos naturales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El acto de dar las primicias es un recuerdo de que toda la prosperidad proviene de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La confesión de los primeros frutos ata la <span class="highlight">adoración a la historia de la salvación</span>. El pueblo no debe olvidar de dónde vino. La santidad es la respuesta a la gracia de Dios.</p>
                 
@@ -6145,7 +10408,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Las Doce Maldiciones:</strong> Contra la idolatría secreta, el incesto, el soborno y la injusticia social</li>
                     <li><strong>Amén:</strong> La aceptación pública y solemne de las consecuencias del Pacto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Altar de Piedra y las Maldiciones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juramento Público y la Escritura de la Ley</h5>
+<ul>
+    <li><strong>Altar de Piedra:</strong> Al cruzar el Jordán, se ordena construir un altar de piedras **sin labrar** (naturales) y escribir la Ley sobre ellas.</li>
+    <li><strong>Bendición/Maldición Pública:</strong> Seis tribus se paran en el Monte Guerizim para la bendición y seis en el Monte Ebal para la maldición.</li>
+    <li><strong>Las Doce Maldiciones:</strong> Los levitas pronuncian 12 maldiciones solemnes sobre pecados específicos (ídolos, incesto, mover límites, etc.). El pueblo responde "Amén."</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Textos Mágicos</h5>
+<ul>
+    <li><strong>Tablas de Maldición:</strong> El uso de textos mágicos para invocar maldiciones sobre los enemigos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ley Natural:</strong> El altar de piedras sin labrar simboliza que la Ley es una realidad natural e inmutable, no una obra humana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El acto de escribir la Ley en grandes piedras es un acto público de compromiso con el pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ceremonia es la <span class="highlight">ratificación pública y voluntaria del Pacto</span>. El "Amén" obliga a toda la nación a las consecuencias de la obediencia y la desobediencia.</p>
                 
@@ -6177,7 +10461,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Exilio:</strong> La peor maldición es el exilio a una tierra extranjera (la dispersión)</li>
                     <li><strong>Advertencia Profética:</strong> El sitio de la ciudad (Jerusalén) y el canibalismo como signo de la desesperación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Bendiciones y Maldiciones del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto Total</h5>
+<ul>
+    <li><strong>Estructura de Consecuencias:</strong> Este capítulo es la culminación de los tratados del Cercano Oriente, con bendiciones para la obediencia y extensas maldiciones para la desobediencia.</li>
+    <li><strong>Bendiciones:</strong> Promesas de prosperidad en la ciudad, en el campo, en los hijos, en la victoria militar.</li>
+    <li><strong>Maldiciones:</strong> Advertencias de enfermedad, sequía, derrota total, canibalismo (extremo), humillación y el exilio (dispersión entre las naciones).</li>
+    <li><strong>El Yugo de Hierro:</strong> Dios predice que la desobediencia llevará a la opresión bajo un "yugo de hierro."</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Padecimientos</h5>
+<ul>
+    <li><strong>Catástrofes:</strong> Los paganos atribuían las catástrofes (sequía, peste) a dioses ofendidos o a la mala suerte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Relación Directa:</strong> Las consecuencias son directas y previsibles: la obediencia trae la presencia de Dios; la desobediencia trae juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El capítulo subraya la seriedad de vivir bajo el pacto de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo establece la <span class="highlight">teología histórica de Israel</span>: toda su fortuna (y desgracia) será el resultado directo de su relación de pacto con Dios. El exilio es la negación de la tierra prometida.</p>
                 
@@ -6209,7 +10515,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Responsabilidad Colectiva:</strong> El castigo será para toda la tierra si la nación se corrompe</li>
                     <li><strong>Lo Secreto y lo Revelado:</strong> "Las cosas secretas pertenecen a Jehová... mas las reveladas son para nosotros y para nuestros hijos"</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Renovación del Pacto en Moab</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juramento y la Responsabilidad</h5>
+<ul>
+    <li><strong>Pacto en Moab:</strong> Moisés establece un nuevo pacto con la nueva generación, separado del pacto original del Sinaí, enfatizando su responsabilidad personal.</li>
+    <li><strong>El Castigo de la Idolatría:</strong> Se advierte del castigo que caerá sobre el que "esconda" la idolatría en su corazón.</li>
+    <li><strong>Responsabilidad Colectiva:</strong> El pacto une a toda la comunidad (jefes, ancianos, niños, y el que corta la leña).</li>
+    <li><strong>Lo Oculto y lo Revelado:</strong> El secreto pertenece a Dios, pero la Ley revelada es para el hombre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Idolatría Privada</h5>
+<ul>
+    <li><strong>Ídolos Personales:</strong> Era común tener ídolos personales o amuletos escondidos en la casa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Intención:</strong> El pacto juzga la intención secreta del corazón, no solo el acto público.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El pacto se renueva con la nueva generación justo antes de la entrada a la tierra, asegurando la continuidad del compromiso.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La renovación del Pacto asegura que la <span class="highlight">responsabilidad del Pacto</span> es tanto corporativa como individual. El pacto no es solo para el presente, sino que ata a las generaciones futuras.</p>
                 
@@ -6241,7 +10569,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Elección:</strong> La vida es el amor a Dios y la obediencia a Su voz</li>
                     <li><strong>Circuncisión de Corazón:</strong> Dios circuncidará el corazón de Israel para que lo amen (promesa del Nuevo Pacto)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Arrepentimiento y Restauración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y el Retorno</h5>
+<ul>
+    <li><strong>La Promesa del Retorno:</strong> Se profetiza que, después del exilio, si el pueblo se arrepiente de corazón, Dios los reunirá de nuevo.</li>
+    <li><strong>La Ley en el Corazón:</strong> Dios promete la "circuncisión del corazón" (un cambio interno) para que puedan amarle de verdad.</li>
+    <li><strong>La Elección:</strong> El pueblo debe elegir entre la **vida** y la **muerte**, la **bendición** y la **maldición**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Destino Inmutable</h5>
+<ul>
+    <li><strong>Fatalismo:</strong> Muchas religiones antiguas creían en el destino inmutable o en la predestinación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Esperanza:</strong> La Ley no condena a la desesperación, sino que ofrece la promesa de la restauración incondicional después del arrepentimiento.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley es el camino hacia la vida. La restauración del pacto es la esperanza final.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo ofrece la <span class="highlight">esperanza de restauración</span> que trasciende la maldición. El verdadero cumplimiento del Pacto requiere una transformación interior (circuncisión de corazón) que solo Dios puede obrar.</p>
                 
@@ -6274,7 +10623,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lectura Pública:</strong> La Ley debe ser leída a toda la nación cada siete años (hombres, mujeres y niños)</li>
                     <li><strong>Canto como Testigo:</strong> Dios ordena a Moisés y Josué que escriban un Canto para que sirva de testigo contra Israel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Transición de Liderazgo y Cuidado de la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sucesión y la Lectura Pública</h5>
+<ul>
+    <li><strong>Josué como Sucesor:</strong> Moisés transfiere públicamente el liderazgo a Josué, exhortándolo a no temer.</li>
+    <li><strong>Depósito de la Ley:</strong> Moisés entrega la Ley escrita a los sacerdotes levitas para que la guarden al lado del Arca del Pacto.</li>
+    <li><strong>Lectura Pública:</strong> Se ordena la lectura pública de la Ley cada siete años durante la Fiesta de los Tabernáculos (para instruir a toda la nación, incluyendo a mujeres y niños).</li>
+    <li><strong>La Canción:</strong> Moisés escribe la Canción de Deuteronomio como un "testigo" contra Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Archivos Reales</h5>
+<ul>
+    <li><strong>Registros Reales:</strong> Los reyes guardaban los tratados en templos o archivos, pero a menudo solo los leían los escribas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Acceso:</strong> La Ley es para todos, no solo para la clase sacerdotal o real.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley de Dios (la Palabra) es el verdadero líder, y el acceso a ella es vital para el pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Palabra de Dios (la Ley) es el verdadero líder</span> de Israel, no el hombre. El traspaso de autoridad de Moisés a Josué es un acto público que se basa en el cumplimiento de la Palabra.</p>
                 
@@ -6307,7 +10678,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Restauración y Venganza:</strong> Dios se arrepentirá y vengará a sus siervos</li>
                     <li><strong>Universalidad:</strong> Las naciones se regocijan con el pueblo de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Cántico de Moisés (Testigo)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Canto Profético</h5>
+<ul>
+    <li><strong>El Cántico:</strong> La Canción de Moisés es un poema didáctico que servirá de **testigo** (acusación) contra Israel después de su apostasía.</li>
+    <li><strong>Contenido:</strong> Narra la bondad de Dios (la Roca), el fracaso de Israel, el juicio (exilio), y la promesa de restauración final.</li>
+    <li><strong>Venganza de YHWH:</strong> El cántico proclama que Dios se vengará de los enemigos de Israel y de los que oprimieron a Su pueblo.</li>
+    <li><strong>Liderazgo Divino:</strong> El canto subraya que Israel solo tiene un Dios, y no hay otro.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Canciones Históricas</h5>
+<ul>
+    <li><strong>Épica:</strong> Las culturas antiguas usaban canciones épicas para recordar eventos importantes, a menudo glorificando la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito:</strong> La canción es una profecía, no una glorificación militar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La canción de Moisés es la explicación teológica de la historia futura de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Canto es un <span class="highlight">registro profético</span>. Asegura que el pecado de Israel será predicho y castigado, pero también que la misericordia de Dios perdurará hasta el final, restaurando a su pueblo.</p>
                 
@@ -6340,7 +10733,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Elogio a José:</strong> La bendición de la fertilidad y la riqueza para Efraín y Manasés</li>
                     <li><strong>Seguridad de Israel:</strong> La alabanza final a Israel como nación invencible bajo Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Bendiciones de Moisés a las Tribus</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Bendición Patriarcal</h5>
+<ul>
+    <li><strong>Bendición Final:</strong> Moisés bendice a las tribus individualmente (excepto Simeón), similar a la bendición de Jacob en Génesis 49.</li>
+    <li><strong>Levi y el Sacerdocio:</strong> Se destaca a Leví por su fidelidad durante el becerro de oro.</li>
+    <li><strong>Judá y la Monarquía:</strong> Se pide la bendición de Dios para Judá, la tribu de donde vendría la realeza.</li>
+    <li><strong>José (Efraín y Manasés):</strong> Se bendice a las tribus de José con una porción abundante de la tierra.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Oráculos Favorables</h5>
+<ul>
+    <li><strong>Oráculos:</strong> Los oráculos a menudo se daban para favorecer a una tribu o región sobre otra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Bendición Condicional:</strong> La bendición se basa en el carácter de cada tribu y su fidelidad al pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La bendición final de Moisés es un testamento de fe, recordando la gracia de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La bendición final afirma la <span class="highlight">unidad de Israel</span> bajo Dios y profetiza el destino y la fuerza de cada tribu. El honor especial a Leví destaca el sacerdocio como el corazón espiritual de la nación.</p>
                 
@@ -6373,7 +10788,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Grandeza de Moisés:</strong> Jamás se levantó otro profeta como él</li>
                     <li><strong>Continuidad:</strong> Josué, ya comisionado, lidera al pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Muerte de Moisés</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Entierro Secreto y el Nuevo Profeta</h5>
+<ul>
+    <li><strong>Visión de la Tierra:</strong> Dios permite a Moisés ver toda la Tierra Prometida desde el Monte Nebo, pero no le permite entrar.</li>
+    <li><strong>Muerte y Entierro Secreto:</strong> Moisés muere en Moab y es enterrado por Dios en un lugar secreto.</li>
+    <li><strong>Luto:</strong> Israel guarda 30 días de luto por Moisés, un período de luto tradicional.</li>
+    <li><strong>El Sucesor:</strong> Josué está lleno del espíritu de sabiduría (transferencia de autoridad) y toma el liderazgo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Tumba del Fundador</h5>
+<ul>
+    <li><strong>Culto al Héroe:</strong> Las tumbas de los fundadores eran a menudo lugares de peregrinación y culto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Tumba Desconocida:</strong> La tumba secreta de Moisés evita que el pueblo caiga en el culto al héroe o la idolatría.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Deuteronomio cierra la Torá con el fin de la era de Moisés, pero con el inicio de la era de la Ley, preparando la entrada a la tierra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La muerte de Moisés es el <span class="highlight">punto final de la Ley</span> como guía para la Tierra. El profeta que trajo la Ley no pudo llevar al pueblo a la promesa, señalando la limitación de la Ley y la necesidad de la gracia de Josué/Jesús.</p>
                 
@@ -6408,7 +10845,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Promesa de la Tierra:</strong> Dios reitera el regalo de la Tierra Prometida</li>
                     <li><strong>Exhortación a la Fortaleza:</strong> El mandato de ser fuerte y valiente (repetido tres veces)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Muerte de Moisés</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Entierro Secreto y el Nuevo Profeta</h5>
+<ul>
+    <li><strong>Visión de la Tierra:</strong> Dios permite a Moisés ver toda la Tierra Prometida desde el Monte Nebo, pero no le permite entrar.</li>
+    <li><strong>Muerte y Entierro Secreto:</strong> Moisés muere en Moab y es enterrado por Dios en un lugar secreto.</li>
+    <li><strong>Luto:</strong> Israel guarda 30 días de luto por Moisés, un período de luto tradicional.</li>
+    <li><strong>El Sucesor:</strong> Josué está lleno del espíritu de sabiduría (transferencia de autoridad) y toma el liderazgo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Tumba del Fundador</h5>
+<ul>
+    <li><strong>Culto al Héroe:</strong> Las tumbas de los fundadores eran a menudo lugares de peregrinación y culto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Tumba Desconocida:</strong> La tumba secreta de Moisés evita que el pueblo caiga en el culto al héroe o la idolatría.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Deuteronomio cierra la Torá con el fin de la era de Moisés, pero con el inicio de la era de la Ley, preparando la entrada a la tierra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El libro de Josué subraya que el <span class="highlight">cumplimiento de la promesa de la Tierra</span> es inminente. La clave para tomarla no es la fuerza militar, sino la adhesión a la Palabra de Dios.</p>
                 
@@ -6440,7 +10899,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juramento y Pacto:</strong> El cordón de grana como señal de la promesa de salvación</li>
                     <li><strong>Reconocimiento:</strong> Los cananeos ya temen a Israel (su corazón se ha "derretido")</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Espionaje y Hospitalidad en Canaán</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Reconocimiento Secreto y el Juramento</h5>
+<ul>
+    <li><strong>El Espionaje:</strong> Josué envía espías a Jericó (la primera ciudad clave) para reconocer el terreno.</li>
+    <li><strong>El Miedo Cananeo:</strong> Rahab (prostituta) confiesa que el terror de Israel ha caído sobre los cananeos debido a las historias del Mar Rojo y de los reyes amorreos.</li>
+    <li><strong>El Juramento de Sangre:</strong> Rahab y los espías hacen un juramento para salvar a su familia. El **cordón de grana** (rojo) que cuelga de la ventana es la señal de protección.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Prostitución y la Hospitalidad</h5>
+<ul>
+    <li><strong>Hospitalidad Obligatoria:</strong> Los viajeros a menudo buscaban refugio en posadas, que a veces funcionaban como prostíbulos. Rahab usa su casa como cobertura para los espías.</li>
+    <li><strong>Juramentos Pagano:</strong> Los juramentos se sellaban con la vida (si se rompe, que su vida sea como la mía).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fe Cananea:</strong> Rahab, una pagana, es la única que muestra fe en el Dios de Israel al actuar basándose en el poder de YHWH sobre el Mar Rojo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El pacto de Rahab es una prefiguración de la gracia. La fe en YHWH puede salvar incluso a los cananeos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Rahab es un ejemplo de que la <span class="highlight">gracia de Dios</span> se extiende a los gentiles que demuestran fe. Ella entra en el linaje de Jesús (Mateo 1:5).</p>
                 
@@ -6472,7 +10953,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Presencia de Dios:</strong> El Arca del Pacto debe ir delante del pueblo</li>
                     <li><strong>Fe y Acción:</strong> El agua solo se detiene cuando los pies de los sacerdotes tocan el río</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Cruce del Jordán y el Arca</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rito de Iniciación a la Tierra</h5>
+<ul>
+    <li><strong>El Arca como Guía:</strong> El **Arca del Pacto** (la presencia de Dios) precede al pueblo en la marcha.</li>
+    <li><strong>Santificación:</strong> El pueblo debe santificarse para que Dios haga maravillas.</li>
+    <li><strong>El Milagro del Río:</strong> El Jordán se detiene cuando los sacerdotes (Coatíes) tocan el agua con los pies (símbolo del dominio de Dios sobre el territorio).</li>
+    <li><strong>El Tiempo de Crecida:</strong> El milagro ocurre en la época de la siega, cuando el Jordán estaba crecido (máxima dificultad), maximizando el poder del milagro.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Símbolos Territoriales</h5>
+<ul>
+    <li><strong>Ríos Sagrados:</strong> Los ríos eran a menudo deidades o símbolos de dioses territoriales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder del Arca:</strong> El Arca no es un amuleto mágico, sino el trono de YHWH, cuyo poder detiene el río.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El cruce del Jordán es un segundo Mar Rojo, un acto de fundación que establece la autoridad de Josué.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cruce del Jordán simboliza la <span class="highlight">entrada a una nueva vida de pacto</span>. Es el milagro final de la era del desierto, demostrando que el Dios del Éxodo aún obra con poder.</p>
                 
@@ -6503,7 +11006,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unidad:</strong> Las doce piedras simbolizan a todas las tribus en el pacto</li>
                     <li><strong>Enseñanza:</strong> Los padres deben usar las piedras para enseñar a las futuras generaciones</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Los Hitos Conmemorativos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Memorial y la Instrucción</h5>
+<ul>
+    <li><strong>Piedras Conmemorativas:</strong> Doce hombres (uno de cada tribu) toman una piedra del medio del río Jordán para construir un monumento en **Gilgal**.</li>
+    <li><strong>Propósito Didáctico:</strong> El monumento sirve para que las futuras generaciones pregunten: "¿Qué significan estas piedras?" (un medio de transmitir la historia del pacto).</li>
+    <li><strong>El Milagro Ratificado:</strong> Josué erige un segundo conjunto de 12 piedras en el lecho del río.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Lugares Sagrados Naturales</h5>
+<ul>
+    <li><strong>Monumentos Pagana:</strong> Los pueblos antiguos erigían piedras (mojones) como marcadores territoriales o como altares a deidades locales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Recuerdo:</strong> El monumento es un recordatorio de la historia de la redención de YHWH, no de la gloria de los hombres.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La memoria es central para la fe de Israel. El monumento es una prueba física del milagro.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El memorial de piedras subraya la importancia de la <span class="highlight">memoria ritual</span>. La historia de la redención debe ser contada y registrada físicamente para la posteridad.</p>
                 
@@ -6535,7 +11059,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Guerra Santa:</strong> El Comandante afirma que la conquista es la guerra de Dios</li>
                     <li><strong>Santidad:</strong> El lugar donde está el Comandante es tierra santa</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Renovación del Pacto en Gilgal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Circuncisión, la Pascua y el Maná</h5>
+<ul>
+    <li><strong>El Miedo Cananeo:</strong> El corazón de los cananeos se derrite por el miedo al milagro del Jordán.</li>
+    <li><strong>Circuncisión Masiva:</strong> Josué circuncida a todos los hombres nacidos en el desierto (**Gilgal**). Esto era un acto arriesgado antes de la batalla, restaurando la señal del pacto.</li>
+    <li><strong>Observancia de la Pascua:</strong> El pueblo observa la Pascua en Gilgal, un acto de fe.</li>
+    <li><strong>Cese del Maná:</strong> El maná cesa al día siguiente de que el pueblo come del fruto de la tierra, simbolizando la entrada a una nueva era de provisión.</li>
+    <li><strong>Príncipe del Ejército:</strong> Josué se encuentra con un "Príncipe del Ejército de YHWH" (un ángel o una teofanía), quien le da instrucciones sobre la batalla.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ritos de Iniciación</h5>
+<ul>
+    <li><strong>Iniciación por la Guerra:</strong> Los ritos de iniciación para los jóvenes se centraban a menudo en la prueba de fuerza y el valor en la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Prioridad:</strong> El acto religioso (circuncisión) precede al acto militar, enfatizando que la fe es lo primero.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El cese del maná y la observancia de la Pascua marcan el final del peregrinaje del desierto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La cesación del maná simboliza el fin de la era del desierto. El Comandante de YHWH subraya que la conquista no es liderada por Josué, sino por <span class="highlight">Dios Mismo</span>. </p>
                 
@@ -6568,7 +11115,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obediencia Absoluta:</strong> La obediencia al método inusual de Dios trae la victoria</li>
                     <li><strong>Juicio:</strong> La maldición sobre quien reconstruya Jericó</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Batalla de Jericó (Guerra Ritual)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra del Anatema y el Poder del Arca</h5>
+<ul>
+    <li><strong>Guerra Ritual:</strong> Dios ordena un método de asedio totalmente inusual: marchar alrededor de la ciudad seis días.</li>
+    <li><strong>El Cuerno de Carnero (Shofar):</strong> Los sacerdotes tocan el **Shofar** (cuerno de carnero), un instrumento ceremonial, no militar.</li>
+    <li><strong>El Anatema (Herem):</strong> Se decreta la destrucción total de la ciudad y de sus habitantes, con una prohibición estricta de tomar objetos (oro, plata, bronce y hierro van al tesoro del Santuario).</li>
+    <li><strong>La Maldición de Reconstrucción:</strong> Se impone una maldición a cualquiera que intente reconstruir Jericó (castigo de la vida del constructor y su primogénito).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra de Asedio</h5>
+<ul>
+    <li><strong>Asedio Estándar:</strong> El asedio normal implicaba el uso de arietes, escaleras y túneles.</li>
+    <li><strong>Ciudades Fortificadas:</strong> Jericó tenía un doble muro masivo (típico de las ciudades cananeas).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Victoria:</strong> La victoria se logra por la obediencia al ritual y el poder de YHWH, no por la fuerza humana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La destrucción de Jericó es el juicio de Dios sobre el pecado cananeo. La salvación de Rahab subraya que el juicio es selectivo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La caída de Jericó demuestra que <span class="highlight">el poder de la Palabra de Dios</span> (y el sonido de las trompetas del jubileo) es superior a las fortalezas humanas. La obediencia es la única estrategia.</p>
                 
@@ -6600,7 +11170,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio del Anatema:</strong> La seriedad de la desobediencia al mandato del Hérem</li>
                     <li><strong>Purificación:</strong> La eliminación del pecado de Acán para restaurar la presencia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pecado de Acán y el Juicio Colectivo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Anatema Quebrantado</h5>
+<ul>
+    <li><strong>El Fracaso en Hai:</strong> Israel es derrotado por la pequeña ciudad de Hai porque el anatema fue quebrantado.</li>
+    <li><strong>El Pecado Colectivo:</strong> El pecado de **Acán** (tomar tesoro prohibido de Jericó) se considera el pecado de todo Israel ("Israel ha pecado").</li>
+    <li><strong>El Urim y Tumim:</strong> Josué consulta a Dios por medio del Urim y Tumim (mecanismo sacerdotal) para identificar al culpable por sorteo (tribu, familia, varón).</li>
+    <li><strong>Lapidación:</strong> Acán y toda su familia son lapidados, y sus bienes quemados (el castigo por violar la ley de anatema).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Responsabilidad Individual</h5>
+<ul>
+    <li><strong>Responsabilidad Personal:</strong> Las leyes antiguas se centraban más en la responsabilidad individual que en la colectiva.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Santidad del Campamento:</strong> El pecado de un individuo contamina a toda la comunidad, lo que requiere un juicio severo para restaurar la pureza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley de Anatema es crucial: la obediencia total es la condición para el éxito en la conquista.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El incidente de Acán subraya la <span class="highlight">naturaleza corporativa del pacto</span>: el pecado en el campamento detiene el poder de Dios. La purificación es necesaria para continuar la conquista.</p>
                 
@@ -6631,7 +11223,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Rey de Hai:</strong> Es colgado como un anatema</li>
                     <li><strong>Renovación del Pacto:</strong> La lectura solemne de la Ley (Deuteronomio 27)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Estrategia en Hai y la Ley en Ebal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Emboscada y la Reafirmación de la Ley</h5>
+<ul>
+    <li><strong>La Estrategia:</strong> Josué usa una **emboscada** (estrategia militar común), pero ordenada por Dios, para tomar Hai.</li>
+    <li><strong>El Botín:</strong> Esta vez, se permite a Israel tomar el botín de la ciudad (a diferencia de Jericó).</li>
+    <li><strong>Altar y la Ley:</strong> Josué construye un altar de piedras sin labrar en el Monte Ebal y escribe una copia de la Ley de Moisés.</li>
+    <li><strong>Bendición/Maldición:</strong> El pueblo se para entre el Monte Guerizim y el Monte Ebal para pronunciar las bendiciones y las maldiciones, como fue ordenado en Deuteronomio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Guerras de Saqueo</h5>
+<ul>
+    <li><strong>Saqueo Libre:</strong> Los ejércitos paganos a menudo saqueaban inmediatamente cualquier ciudad conquistada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder de la Ley:</strong> La reafirmación del pacto (la Ley) es más importante que la victoria militar. La conquista es un medio para el fin de la obediencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El cumplimiento del ritual (Ebal/Guerizim) es una declaración pública de la soberanía de YHWH sobre la tierra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La renovación del pacto en Siquem establece que la <span class="highlight">Ley de Dios es la primera prioridad</span>. La victoria militar no es un fin en sí mismo, sino un medio para el culto y la obediencia.</p>
                 
@@ -6663,7 +11277,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Consecuencias del Engaño:</strong> Los gabaonitas son reducidos a siervos (leñadores y aguadores)</li>
                     <li><strong>Fidelidad al Juramento:</strong> El pacto, aunque hecho bajo engaño, debe ser respetado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Engaño de Gabaón y el Pacto Roto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Tratado de Paz y el Juramento Sagrado</h5>
+<ul>
+    <li><strong>El Engaño:</strong> Los habitantes de Gabaón se disfrazan con ropas viejas y provisiones mohosas, fingiendo venir de un país lejano, para evitar la destrucción.</li>
+    <li><strong>El Juramento Roto:</strong> Los líderes de Israel hacen un **pacto de paz** con los gabaonitas sin consultar a YHWH.</li>
+    <li><strong>La Obligación:</strong> El juramento hecho en el nombre de YHWH es inviolable, incluso si se hizo bajo engaño.</li>
+    <li><strong>Castigo:</strong> Los gabaonitas son convertidos en "leñadores y aguadores" perpetuos para el servicio del santuario.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra por Eliminación</h5>
+<ul>
+    <li><strong>Traición:</strong> Los pactos rotos eran comunes en la política de guerra, pero se castigaban con la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fidelidad al Juramento:</strong> La fidelidad a la palabra dada, incluso a un enemigo engañoso, es esencial para la santidad de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El incidente sirve de advertencia de que la prudencia humana no debe reemplazar la consulta divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El error de Josué subraya que la <span class="highlight">consulta a Dios</span> es indispensable para el liderazgo. El respeto al juramento, incluso engañoso, muestra la santidad de la palabra empeñada en el pacto.</p>
                 
@@ -6696,7 +11332,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Victoria Total:</strong> La derrota y ejecución de los cinco reyes del sur</li>
                     <li><strong>Soberanía de Dios:</strong> El sol se detiene para asegurar que la guerra de YHWH se complete</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Batalla del Sol y la Liga del Sur</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Milagro y la Conquista</h5>
+<ul>
+    <li><strong>La Alianza Cananea:</strong> Cinco reyes amorreos del sur (incluido el rey de Jerusalén) se unen para atacar a Gabaón (el nuevo aliado de Israel).</li>
+    <li><strong>El Milagro Cósmico:</strong> Dios lanza granizo masivo sobre los enemigos y, a petición de Josué, detiene el sol sobre Gabaón y la luna sobre el valle de Ajalón.</li>
+    <li><strong>El Castigo:</strong> Los cinco reyes son capturados y colgados de un árbol (una muerte deshonrosa).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ejecución y los Sacrificios</h5>
+<ul>
+    <li><strong>Reyes Colgados:</strong> Colgar a un enemigo de un árbol era una señal de maldición y desprecio.</li>
+    <li><strong>El Ciclo de la Batalla:</strong> Las batallas se interrumpían al anochecer. La prolongación del día era una ventaja militar milagrosa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dominio Total:</strong> Dios demuestra dominio total sobre el cosmos y el clima, luchando activamente por Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La batalla es una prueba de que YHWH lucha en alianza con Su pueblo. Se logra la conquista total del sur de Canaán.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La detención del sol demuestra que <span class="highlight">Dios es el Señor de los cielos y de la tierra</span>, luchando contra los dioses de los cananeos y extendiendo el día para asegurar la justicia completa.</p>
                 
@@ -6727,7 +11385,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hérem Selectivo:</strong> Hazor es quemada; otras ciudades en colinas no</li>
                     <li><strong>Descanso de la Tierra:</strong> La tierra entra en un período de paz después de las grandes batallas</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Conquista del Norte y la Destrucción de Carros</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Destrucción Militar</h5>
+<ul>
+    <li><strong>La Liga del Norte:</strong> Un gran ejército, liderado por Jabín, rey de Hazor, se une en el norte. Esta liga era superior en **caballos y carros**.</li>
+    <li><strong>Inutilización Militar:</strong> Dios ordena a Josué desjarretar los caballos y quemar los carros, inutilizando la tecnología militar avanzada.</li>
+    <li><strong>Destrucción de Hazor:</strong> Hazor (la ciudad más importante del norte) es completamente quemada y destruida, siendo un ejemplo del juicio de Dios.</li>
+    <li><strong>El Mandato Cumplido:</strong> Se subraya que Josué cumplió **exactamente** la orden de Moisés (el Anatema).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra con Carros</h5>
+<ul>
+    <li><strong>Carros:</strong> Los carros de hierro eran el arma de guerra más avanzada de la época y daban una gran ventaja.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dependencia de YHWH:</strong> Se prohíbe a Israel confiar en la tecnología militar, forzando la dependencia de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La destrucción de carros simboliza el rechazo a la autosuficiencia humana en la guerra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La conquista del norte sella el cumplimiento de la promesa. El "descanso de la guerra" significa que Israel puede comenzar ahora la <span class="highlight">fase de posesión y herencia</span> de la tierra.</p>
                 
@@ -6758,7 +11438,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad de Josué:</strong> Josué es el ejecutor exitoso del mandato de Dios</li>
                     <li><strong>Documento Legal:</strong> La base para la repartición de la tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Registro de Reyes Derrotados</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Crónica Militar</h5>
+<ul>
+    <li><strong>Doble Conquista:</strong> Se enumeran los reyes derrotados:
+        <ul>
+            <li>Reyes derrotados por Moisés (Sehón y Og) al este del Jordán (2 reyes).</li>
+            <li>Reyes derrotados por Josué al oeste del Jordán (31 reyes).</li>
+        </ul>
+    </li>
+    <li><strong>El Total:</strong> El número de 33 reyes es un registro de la magnitud de la conquista.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Listas de Reyes</h5>
+<ul>
+    <li><strong>Anales Reales:</strong> Los reyes hititas, asirios y egipcios llevaban registros detallados de sus victorias y los reyes que habían humillado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Autoría de la Victoria:</strong> La lista se presenta como la prueba del poder de YHWH, no de la habilidad de Josué.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El registro cierra la fase militar y prepara la fase de reparto de la tierra, reafirmando que "ni una sola cosa faltó de todas las buenas promesas".
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La lista de reyes es un testimonio de la <span class="highlight">fidelidad de Dios</span> para entregar la tierra a Israel. Sirve como un documento legal que legitima la posesión de la tierra por parte de Israel.</p>
                 
@@ -6790,7 +11495,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad al Juramento:</strong> La promesa de Moisés a las tribus del este es honrada</li>
                     <li><strong>Herencia de Leví:</strong> Dios prohíbe dar tierra a Leví (su herencia son las ofrendas)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Tierras No Conquistadas y el Reparto Inicial</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Herencia y la Exclusión</h5>
+<ul>
+    <li><strong>El Desafío Restante:</strong> Josué (ya anciano) recibe el encargo de repartir la tierra, a pesar de que aún quedaban grandes extensiones sin conquistar (el desafío para las futuras generaciones).</li>
+    <li><strong>Reparto por Fe:</strong> Las tierras son repartidas por sorteo y por promesa, antes de ser totalmente poseídas.</li>
+    <li><strong>Exclusión de Leví:</strong> La tribu de Leví no recibe herencia de tierra. Su herencia son los sacrificios de YHWH.</li>
+    <li><strong>Reparto de Transjordania:</strong> Se repite el reparto de las tierras al este del Jordán.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la División del Botín</h5>
+<ul>
+    <li><strong>División por Mérito:</strong> Los territorios se dividían entre los líderes militares más exitosos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Herencia de YHWH:</strong> El reparto se basa en la promesa, no en el poder militar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La posesión de la Tierra depende de la obediencia continua, no de la promesa en sí.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El mandato de que "aún queda mucha tierra" enseña que el <span class="highlight">descanso del pacto</span> requiere esfuerzo humano. El levita, sin tierra, simboliza la dependencia total de Dios.</p>
                 
@@ -6822,7 +11549,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fuerza Continua:</strong> Caleb aún tiene la fuerza para pelear contra los gigantes (Anacitas)</li>
                     <li><strong>Cumplimiento de la Promesa:</strong> El juramento de Moisés a Caleb se cumple</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Caleb, Hebrón y el Cumplimiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Reconocimiento de la Fidelidad</h5>
+<ul>
+    <li><strong>El Sorteo:</strong> El reparto se realiza mediante sorteo (la suerte se echaba para determinar la voluntad divina).</li>
+    <li><strong>Caleb y la Promesa:</strong> Caleb (ya de 85 años) reclama la herencia de Hebrón (la zona de los gigantes Anaquitas), que Moisés le había prometido 45 años antes.</li>
+    <li><strong>Reclamación por Fidelidad:</strong> Caleb recibe la tierra debido a su fidelidad y su "entereza" al creer en la promesa.</li>
+    <li><strong>Hebrón:</strong> La ciudad de Hebrón era históricamente importante como el lugar de entierro de los Patriarcas (Macpela).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Retiro Militar</h5>
+<ul>
+    <li><strong>Recompensa:</strong> Los guerreros ancianos recibían tierras por su servicio, pero rara vez enfrentaban a los enemigos más duros (gigantes).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Recompensa de la Fe:</strong> La recompensa de Caleb se basa en su fe persistente, no solo en su rango militar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El relato de Caleb es un ejemplo vivo de la recompensa de la fe para la nueva generación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El acto de Caleb es un testimonio de la <span class="highlight">recompensa de la fidelidad y la perseverancia</span>. El milagro de la conquista requiere el coraje de la fe.</p>
                 
@@ -6853,7 +11602,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Detalle Geográfico:</strong> La minuciosidad de la descripción de los límites</li>
                     <li><strong>Posesión Incompleta:</strong> Los Jebuseos (en Jerusalén) no son expulsados completamente (un fracaso futuro)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Delimitación y Herencia (Tribus)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la División por Suerte</h5>
+<ul>
+    <li><strong>Sorteo (Goral):</strong> El territorio se divide por sorteo ante YHWH, lo que se considera la voluntad divina, eliminando el conflicto tribal.</li>
+    <li><strong>Judá:</strong> Recibe una de las porciones más grandes, lo que presagia su futuro papel de liderazgo.</li>
+    <li><strong>Incompletitud:</strong> Varias tribus no expulsan completamente a los cananeos de sus límites (incluyendo a Judá y Efraín). Esto deja "bolsillos" de resistencia pagana.</li>
+    <li><strong>Doble Porción:</strong> La casa de José (Efraín y Manasés) recibe dos porciones, como fue bendecido por Jacob.</li>
+    <li><strong>La Tienda de Reunión:</strong> Se establece la Tienda de Reunión en **Silo** (en Efraín) como el centro religioso para la adoración y la consulta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Disputa por la Tierra</h5>
+<ul>
+    <li><strong>Disputa por Límites:</strong> Las delimitaciones eran la principal causa de disputa entre las tribus vecinas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> La tierra se asigna por un sistema divino, no por un acuerdo humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La posesión de la herencia está ligada al esfuerzo de desalojar a los cananeos. La falta de expulsión es una falta de fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La extensión del territorio de Judá presagia su <span class="highlight">rol dominante</span> en la futura historia de Israel (la tribu de donde vendría el Cetro de Israel).</p>
                 
@@ -6884,7 +11656,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gezer:</strong> El fracaso en expulsar a los cananeos de la ciudad de Gezer</li>
                     <li><strong>Fronteras:</strong> Las fronteras entre Efraín y el resto de Manasés</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Delimitación y Herencia (Tribus)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la División por Suerte</h5>
+<ul>
+    <li><strong>Sorteo (Goral):</strong> El territorio se divide por sorteo ante YHWH, lo que se considera la voluntad divina, eliminando el conflicto tribal.</li>
+    <li><strong>Judá:</strong> Recibe una de las porciones más grandes, lo que presagia su futuro papel de liderazgo.</li>
+    <li><strong>Incompletitud:</strong> Varias tribus no expulsan completamente a los cananeos de sus límites (incluyendo a Judá y Efraín). Esto deja "bolsillos" de resistencia pagana.</li>
+    <li><strong>Doble Porción:</strong> La casa de José (Efraín y Manasés) recibe dos porciones, como fue bendecido por Jacob.</li>
+    <li><strong>La Tienda de Reunión:</strong> Se establece la Tienda de Reunión en **Silo** (en Efraín) como el centro religioso para la adoración y la consulta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Disputa por la Tierra</h5>
+<ul>
+    <li><strong>Disputa por Límites:</strong> Las delimitaciones eran la principal causa de disputa entre las tribus vecinas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> La tierra se asigna por un sistema divino, no por un acuerdo humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La posesión de la herencia está ligada al esfuerzo de desalojar a los cananeos. La falta de expulsión es una falta de fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El territorio central de Efraín refleja la <span class="highlight">preeminencia profética</span> que Jacob le había dado. Su fracaso en Gezer, sin embargo, es una advertencia de la debilidad futura.</p>
                 
@@ -6916,7 +11711,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia para las Mujeres:</strong> El derecho de herencia de las hijas es respetado</li>
                     <li><strong>Invasión Parcial:</strong> Manasés tampoco expulsa completamente a los cananeos de su tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Delimitación y Herencia (Tribus)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la División por Suerte</h5>
+<ul>
+    <li><strong>Sorteo (Goral):</strong> El territorio se divide por sorteo ante YHWH, lo que se considera la voluntad divina, eliminando el conflicto tribal.</li>
+    <li><strong>Judá:</strong> Recibe una de las porciones más grandes, lo que presagia su futuro papel de liderazgo.</li>
+    <li><strong>Incompletitud:</strong> Varias tribus no expulsan completamente a los cananeos de sus límites (incluyendo a Judá y Efraín). Esto deja "bolsillos" de resistencia pagana.</li>
+    <li><strong>Doble Porción:</strong> La casa de José (Efraín y Manasés) recibe dos porciones, como fue bendecido por Jacob.</li>
+    <li><strong>La Tienda de Reunión:</strong> Se establece la Tienda de Reunión en **Silo** (en Efraín) como el centro religioso para la adoración y la consulta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Disputa por la Tierra</h5>
+<ul>
+    <li><strong>Disputa por Límites:</strong> Las delimitaciones eran la principal causa de disputa entre las tribus vecinas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> La tierra se asigna por un sistema divino, no por un acuerdo humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La posesión de la herencia está ligada al esfuerzo de desalojar a los cananeos. La falta de expulsión es una falta de fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reconocimiento de la herencia de las hijas reafirma la <span class="highlight">justicia y la adaptabilidad de la Ley</span>. Sin embargo, el fracaso en la expulsión de los cananeos continúa.</p>
                 
@@ -6949,7 +11767,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cartografía:</strong> El levantamiento de un mapa para la división justa</li>
                     <li><strong>Sorteo:</strong> La tierra se asigna por sorteo bajo la guía de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Delimitación y Herencia (Tribus)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la División por Suerte</h5>
+<ul>
+    <li><strong>Sorteo (Goral):</strong> El territorio se divide por sorteo ante YHWH, lo que se considera la voluntad divina, eliminando el conflicto tribal.</li>
+    <li><strong>Judá:</strong> Recibe una de las porciones más grandes, lo que presagia su futuro papel de liderazgo.</li>
+    <li><strong>Incompletitud:</strong> Varias tribus no expulsan completamente a los cananeos de sus límites (incluyendo a Judá y Efraín). Esto deja "bolsillos" de resistencia pagana.</li>
+    <li><strong>Doble Porción:</strong> La casa de José (Efraín y Manasés) recibe dos porciones, como fue bendecido por Jacob.</li>
+    <li><strong>La Tienda de Reunión:</strong> Se establece la Tienda de Reunión en **Silo** (en Efraín) como el centro religioso para la adoración y la consulta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Disputa por la Tierra</h5>
+<ul>
+    <li><strong>Disputa por Límites:</strong> Las delimitaciones eran la principal causa de disputa entre las tribus vecinas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> La tierra se asigna por un sistema divino, no por un acuerdo humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La posesión de la herencia está ligada al esfuerzo de desalojar a los cananeos. La falta de expulsión es una falta de fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El establecimiento del Tabernáculo en Silo asegura un <span class="highlight">centro de culto y gobierno</span> para la nación. El sorteo demuestra que la herencia es una decisión divina.</p>
                 
@@ -6981,7 +11822,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dan:</strong> Su territorio es difícil y, al final, migran al norte</li>
                     <li><strong>Recompensa de Josué:</strong> Recibe su tierra al final, después de servir a todos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Delimitación y Herencia (Tribus)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la División por Suerte</h5>
+<ul>
+    <li><strong>Sorteo (Goral):</strong> El territorio se divide por sorteo ante YHWH, lo que se considera la voluntad divina, eliminando el conflicto tribal.</li>
+    <li><strong>Judá:</strong> Recibe una de las porciones más grandes, lo que presagia su futuro papel de liderazgo.</li>
+    <li><strong>Incompletitud:</strong> Varias tribus no expulsan completamente a los cananeos de sus límites (incluyendo a Judá y Efraín). Esto deja "bolsillos" de resistencia pagana.</li>
+    <li><strong>Doble Porción:</strong> La casa de José (Efraín y Manasés) recibe dos porciones, como fue bendecido por Jacob.</li>
+    <li><strong>La Tienda de Reunión:</strong> Se establece la Tienda de Reunión en **Silo** (en Efraín) como el centro religioso para la adoración y la consulta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Disputa por la Tierra</h5>
+<ul>
+    <li><strong>Disputa por Límites:</strong> Las delimitaciones eran la principal causa de disputa entre las tribus vecinas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> La tierra se asigna por un sistema divino, no por un acuerdo humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La posesión de la herencia está ligada al esfuerzo de desalojar a los cananeos. La falta de expulsión es una falta de fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cumplimiento de las profecías de Jacob (Simeón y Leví, y la bendición de José) subraya la <span class="highlight">autoridad de la palabra profética</span>. Josué es un ejemplo de líder que sirve primero y recibe después.</p>
                 
@@ -7013,7 +11877,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misericordia:</strong> Las ciudades son un asilo de gracia</li>
                     <li><strong>Juicio:</strong> La liberación del homicida está ligada a la muerte del Sumo Sacerdote</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ciudades de Refugio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Santuario y la Venganza Moderada</h5>
+<ul>
+    <li><strong>Reiteración de la Ley:</strong> Josué establece formalmente las seis **Ciudades de Refugio**, como fue ordenado en Números y Deuteronomio.</li>
+    <li><strong>Propósito:</strong> Ofrecer un lugar seguro al homicida accidental para protegerlo del **Vengador de la Sangre** (el pariente más cercano).</li>
+    <li><strong>Juicio Justo:</strong> El homicida debe tener un juicio en la puerta de la ciudad para probar que la muerte fue un accidente.</li>
+    <li><strong>Liberación:</strong> El homicida está seguro dentro de la ciudad hasta la muerte del **Sumo Sacerdote**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza de Sangre</h5>
+<ul>
+    <li><strong>Venganza:</strong> El derecho a la venganza de sangre era absoluto en la mayoría de las culturas tribales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Misericordia:</strong> La ley modera la venganza y proporciona un mecanismo para la misericordia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La misericordia y la justicia coexisten. La muerte del Sumo Sacerdote simboliza la expiación que permite la liberación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las Ciudades de Refugio son un símbolo de la <span class="highlight">misericordia y la mediación</span>. La liberación del homicida a la muerte del Sumo Sacerdote es un poderoso tipo profético de la liberación del pecado a través de la muerte de Cristo (el Sumo Sacerdote final).</p>
                 
@@ -7044,7 +11930,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Distribución:</strong> Sus ciudades están distribuidas por las 12 tribus (incluyendo las Ciudades de Refugio)</li>
                     <li><strong>Fidelidad de Dios:</strong> El cumplimiento total de la promesa de darles un lugar para vivir</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ciudades Levitas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sustento y la Dispersión</h5>
+<ul>
+    <li><strong>Tierras Consagradas:</strong> Se asignan 48 ciudades a la tribu de Leví (quienes no recibieron herencia tribal).</li>
+    <li><strong>Distribución:</strong> Las ciudades levitas están dispersas por todas las tribus, lo que asegura su presencia religiosa y de instrucción en toda la nación.</li>
+    <li><strong>Sacerdotes:</strong> Los sacerdotes (hijos de Aarón) reciben 13 ciudades, incluyendo las ciudades de refugio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Tierras de los Templos</h5>
+<ul>
+    <li><strong>Propiedad:</strong> Los templos paganos acumulaban grandes propiedades de tierra y riqueza centralizada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dispersión:</strong> La dispersión de los levitas asegura que la Ley y la instrucción religiosa estén accesibles a todas las tribus.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se reitera que Dios es la herencia de Leví. El cumplimiento de todas las promesas de Dios es verificado al final del capítulo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La dispersión de los levitas subraya su <span class="highlight">rol de maestros y sacerdotes</span> en toda la nación. Su sustento es asegurado por todas las tribus, lo que mantiene la unidad de Israel.</p>
                 
@@ -7076,7 +11983,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Altar de Testimonio:</strong> Un memorial de que el Señor es Dios, no un lugar de sacrificio</li>
                     <li><strong>Fidelidad:</strong> Las tribus del este cumplieron su promesa de luchar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Altar de Testimonio (Transjordania)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Retorno y la Unidad</h5>
+<ul>
+    <li><strong>Juramento Cumplido:</strong> Josué libera a los hombres de las tribus de Transjordania (Rubén, Gad, media Manasés) para que regresen a sus hogares, habiendo cumplido su juramento.</li>
+    <li><strong>Construcción del Altar:</strong> Al cruzar el Jordán, estas tribus construyen un gran altar, no para sacrificio, sino como **testimonio** (**Ed**).</li>
+    <li><strong>Malentendido:</strong> Las tribus de Canaán malinterpretan el altar como una secesión religiosa e inician una investigación militar.</li>
+    <li><strong>La Paz:</strong> El conflicto se resuelve cuando las tribus de Transjordania explican que el altar es para asegurar que sus hijos no sean excluidos del culto central.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Secesión y la Guerra Religiosa</h5>
+<ul>
+    <li><strong>Guerra:</strong> Las diferencias religiosas o el establecimiento de un nuevo culto a menudo conducían a guerras civiles.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Unidad Teológica:</strong> La unidad de Israel es más importante que la geografía. El altar simboliza la lealtad al centro de culto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La rápida resolución del conflicto evita una guerra civil, reafirmando la primacía de la Ley.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El incidente subraya la <span class="highlight">importancia de la centralización del culto</span> (un solo altar de sacrificio en Silo) y la necesidad de la comunicación para evitar la división y la sospecha.</p>
                 
@@ -7108,7 +12037,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Condición del Pacto:</strong> La permanencia en la tierra depende de la obediencia a la Ley</li>
                     <li><strong>Juicio:</strong> Las maldiciones de Deuteronomio se cumplirán si son infieles</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Discurso de Despedida de Josué</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exhorto Final y el Pacto</h5>
+<ul>
+    <li><strong>La Advertencia:</strong> Josué (anciano) convoca a los líderes para un discurso de despedida, exhortándolos a no desviarse ni asimilarse.</li>
+    <li><strong>Prohibición de Alianza:</strong> Se prohíbe hacer alianzas o matrimonios mixtos con los cananeos restantes.</li>
+    <li><strong>Asimilación:</strong> La asimilación traerá la maldición y la derrota, revirtiendo el éxito de la conquista.</li>
+    <li><strong>La Fidelidad de YHWH:</strong> Josué testifica que ni una sola promesa de Dios ha fallado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Alianza con Vencidos</h5>
+<ul>
+    <li><strong>Alianza:</strong> Era común hacer alianzas con los pueblos restantes para la estabilidad política.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Condicionalidad:</strong> La bendición de la tierra es condicional a la pureza religiosa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La advertencia de Josué anticipa el período de los Jueces, donde la asimilación conduciría a la derrota.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El discurso de Josué es una <span class="highlight">última advertencia profética</span>. Les recuerda que la victoria fue de Dios, y la posesión de la tierra es condicional a la santidad.</p>
                 
@@ -7141,7 +12092,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Muerte y Entierro:</strong> La muerte de Josué y el entierro de los huesos de José</li>
                     <li><strong>Fidelidad:</strong> El pueblo sirvió a Dios mientras Josué vivió</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Renovación del Pacto en Siquem</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto de Siquem y el Entierro</h5>
+<ul>
+    <li><strong>Pacto de Siquem:</strong> La asamblea final donde Josué recuerda la historia de la redención (desde Abraham hasta la conquista).</li>
+    <li><strong>Elección:</strong> Josué reta al pueblo a elegir entre YHWH y los dioses de Mesopotamia y Canaán (un rito de elección pública).</li>
+    <li>**El Testigo:** Josué escribe las palabras de la Ley y las graba en una **gran piedra** bajo el roble de Siquem como testimonio.</li>
+    <li><strong>Entierros:</strong> Se cumplen las promesas finales:
+        <ul>
+            <li>Los **huesos de José** son enterrados en Siquem.</li>
+            <li>Josué muere y es enterrado en su herencia.</li>
+        </ul>
+    </li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Idolatría de los Ancestros</h5>
+<ul>
+    <li><strong>Terafim:</strong> Se advierte al pueblo sobre los dioses "extraños" (ídolos) que sus padres adoraban en Mesopotamia (una alusión a los terafim).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Elección Moral:</strong> La adoración a YHWH es una elección moral activa y consciente, no una herencia pasiva.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro cierra con el cumplimiento total de la promesa de Dios (la tierra y la herencia), y el compromiso del pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El entierro de los huesos de José simboliza el <span class="highlight">cumplimiento total de la promesa de Génesis</span>. El libro termina con la nota de que el pueblo es fiel, pero la elección es un desafío constante.</p>
                 
@@ -7175,7 +12153,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Asimilación:</strong> Las tribus viven junto a los cananeos (fuente de futura idolatría)</li>
                     <li><strong>Justicia Retributiva:</strong> El castigo de Adoni-bezec refleja el principio de "ojo por ojo"</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Conquista Incompleta y Asimilación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra Tribal Post-Josué</h5>
+<ul>
+    <li><strong>Liderazgo de Judá:</strong> Después de la muerte de Josué, Judá (la tribu líder) toma la iniciativa para continuar la conquista.</li>
+    <li><strong>Adonibezec:</strong> Se le cortan los pulgares y los dedos gordos de los pies, una práctica de mutilación común para deshonrar y neutralizar a los reyes derrotados.</li>
+    <li><strong>Matrimonio Intertribal/Conquista:</strong> Caleb promete su hija Acsa a Otoniel como recompensa por tomar Debir, combinando el matrimonio con la conquista.</li>
+    <li><strong>El Fracaso del Carro de Hierro:</strong> Las tribus fallan en desalojar a los cananeos de las llanuras debido a los **carros de hierro** (tecnología militar superior), mostrando una falta de fe en el poder de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Militares Cananeas</h5>
+<ul>
+    <li><strong>Carros de Hierro:</strong> El uso de carros era la tecnología militar dominante en la Edad del Bronce Tardío y el Hierro Temprano (1550 a.C. - 1000 a.C.).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Confianza vs. Tecnología:</strong> El fracaso se debe a la confianza en la fuerza militar (o la falta de ella), en lugar de confiar en el mandato de Dios de desterrar a los cananeos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La desobediencia al mandato del anatema (destrucción total de los cananeos) lleva a la futura opresión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El fracaso en expulsar completamente al enemigo cananeo significa que Israel no se separó de la idolatría, creando la <span class="highlight">semilla de la futura opresión</span>. La historia comienza con una nota de incumplimiento.</p>
                 
@@ -7207,7 +12207,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Ciclo de Jueces:</strong> La estructura literaria y teológica del libro</li>
                     <li><strong>Prueba Divina:</strong> Dios deja a los cananeos para "probar" a Israel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Ciclo de Apostasía y la Generación Desobediente</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto Roto</h5>
+<ul>
+    <li><strong>El Ángel de YHWH en Boquim:</strong> El mensajero divino aparece en Boquim (que significa "los que lloran") para reprender a Israel por hacer pactos con los cananeos.</li>
+    <li><strong>La Nueva Generación:</strong> Una generación que no conoció a YHWH ni Sus obras comienza a adorar a los dioses cananeos.</li>
+    <li><strong>El Ciclo de Jueces:</strong> Se presenta el patrón recurrente del libro: Israel peca (**aposta/sin**), Dios los entrega a opresores (**servidumbre/subjugation**), el pueblo clama a Dios (**súplica/supplication**), Dios levanta un Juez (**salvación/deliverance**), y la tierra descansa (**silencio/peace**).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Religiosas Cananeas</h5>
+<ul>
+    <li><strong>Baal y Astarté:</strong> Los dioses cananeos (Baal, dios de la tormenta y la fertilidad; Astarté, diosa de la fertilidad y la guerra) eran atractivos en una sociedad agrícola por su promesa de lluvia y cosechas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Juicio por Retención:</strong> Dios deja a las naciones cananeas como "aguijones" o prueba para la fidelidad de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El castigo divino es pedagógico. La opresión es el recordatorio para volver al pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ceguera espiritual de la nueva generación al olvidar la obra de Dios es la razón del ciclo. La opresión es la <span class="highlight">disciplina de Dios</span>, diseñada para llevarlos al arrepentimiento.</p>
                 
@@ -7240,7 +12261,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Uso de la Debilidad:</strong> La habilidad de Aod (zurdo) es utilizada por Dios</li>
                     <li><strong>Paz a Largo Plazo:</strong> El resultado de la obediencia y la liberación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Los Primeros Jueces</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de los Líderes Carismáticos</h5>
+<ul>
+    <li><strong>Otoniel:</strong> El primer juez, representante del ideal de obediencia. Libera a Israel de Cusán-Risataim (rey de Mesopotamia).</li>
+    <li>**Ehud y el Engaño:** Ehud (zurdo de Benjamín) usa su mano izquierda para ocultar una espada corta de doble filo, un truco que le permite asesinar a Eglón (rey de Moab).</li>
+    <li>**El Retrete (Mecedá):** La escena del asesinato en la "sala fresca" (o retrete) de Eglón muestra el desprecio por el rey y su muerte ignominiosa.</li>
+    <li>**Samgar y la Aguijada:** Samgar usa una **aguijada de bueyes** (una vara larga con punta de metal usada para guiar el arado), mostrando que la liberación no depende de armas sofisticadas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra y la Política</h5>
+<ul>
+    <li>**Tributo y Sumisión:** Los moabitas dominaron a Israel durante 18 años, forzando un tributo. El asesinato del rey tributario era el primer paso para la rebelión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Justificación de la Guerra:** La guerra de Israel es un acto de liberación divina, a menudo a través de medios poco convencionales (un arma oculta, un instrumento agrícola).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios usa a líderes inusuales, como Ehud el zurdo, para mostrar que el poder viene de Él.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Los jueces son <span class="highlight">héroes inesperados</span>. Dios usa personas, habilidades y métodos inusuales (como el engaño de Aod o la mano izquierda) para mostrar que la victoria es Suya.</p>
                 
@@ -7273,7 +12316,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Cobardía de Barac:</strong> Barac no irá a menos que Débora vaya con él</li>
                     <li><strong>Traición:</strong> Sísara es traicionado por Jael en su refugio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Débora, Barac y el Liderazgo Femenino</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Profeta y el Juez</h5>
+<ul>
+    <li><strong>Débora (Profetisa/Juez):</strong> Débora es la única mujer que ejerce las tres funciones de Juez (caudillo militar), Profetisa y consejera legal. Administra justicia bajo una **palmera** (un lugar público de juicio).</li>
+    <li><strong>Dependencia Militar:</strong> Barac se niega a ir a la batalla sin Débora, mostrando su dependencia de la autoridad profética.</li>
+    <li>**El Carro de Hierro de Sísara:** Sísara, comandante cananeo, tiene 900 carros de hierro (la fuerza militar más avanzada), mostrando la disparidad de fuerzas.</li>
+    <li>**Jael y la Hospitalidad:** Jael (una quenita) invita a Sísara a su tienda. El asesinato ocurre durante la sagrada protección de la hospitalidad, haciendo que el acto sea tanto valiente como sorprendente. El **martillo y la estaca** de la tienda son herramientas domésticas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Roles de Género</h5>
+<ul>
+    <li><strong>Liderazgo Masculino:</strong> El liderazgo militar y legal estaba reservado a los hombres en Canaán e Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dios elige a una mujer:</strong> Dios humilla al enemigo cananeo a manos de dos mujeres (Débora y Jael), demostrando que el poder viene solo de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El acto de Jael es un ejemplo de "lealtad del pacto" que supera la hospitalidad tribal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La victoria se logra por la fe de las mujeres, humillando la arrogancia masculina de Barac y Sísara. El papel de la mujer subraya que el <span class="highlight">Espíritu de Dios</span> capacita a cualquiera que lo siga.</p>
                 
@@ -7304,7 +12369,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Crítica Tribal:</strong> El juicio sobre las tribus que se mantuvieron al margen del conflicto</li>
                     <li><strong>Heroísmo de Jael:</strong> La alabanza detallada a la mujer que asesinó a Sísara</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Cántico de Débora (Literatura Antigua)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Crónica en Verso</h5>
+<ul>
+    <li>**Cántico de Victoria:** El cántico de Débora es uno de los poemas más antiguos de la Biblia. Se utiliza para alabar a Dios y conmemorar la victoria.</li>
+    <li>**Tribus Fieles e Infieles:** El cántico critica abiertamente a las tribus que se negaron a participar en la batalla (Rubén, Galaad, Dan, Aser) y alaba a las que lucharon fielmente (Efraín, Benjamín, Zabulón, Isacar, Neftalí).</li>
+    <li>**Bendición a Jael:** Jael es bendecida por su acto, y se describe la espera de la madre de Sísara por su hijo (un contraste dramático).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Poesía Épica</h5>
+<ul>
+    <li>**Narrativas Épicas:** Las culturas cananea y mesopotámica utilizaban narrativas épicas para celebrar los logros de los reyes y héroes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Celebración Teológica:** La canción celebra la victoria de YHWH, el "Rey de Israel," no la fuerza de los hombres.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El cántico es un recordatorio de que la unidad y la fidelidad tribal son necesarias para el cumplimiento del pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cántico consagra la liberación. Demuestra que la <span class="highlight">unidad nacional en la guerra de Dios</span> es obligatoria, y la inacción es vista como traición.</p>
                 
@@ -7336,7 +12422,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Escepticismo:</strong> Gedeón pide señales por su duda</li>
                     <li><strong>La Destrucción del Ídolo:</strong> Gedeón destruye el altar de Baal (Jerubaal)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Gedeón, Baal y la Opresión Madianita</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juez Tímido y la Ofrenda Aceptada</h5>
+<ul>
+    <li>**Opresión Madianita:** Los madianitas, nómadas beduinos (con apoyo amalecita), invaden y saquean la cosecha anualmente, obligando a Israel a esconderse en cuevas.</li>
+    <li>**Gedeón y el Lagar:** Gedeón es llamado mientras esconde y trilla el trigo en un **lagar** (un lugar típicamente usado para pisar uvas), demostrando su temor.</li>
+    <li>**El Ángel y la Ofrenda:** Gedeón prepara una ofrenda de carne y tortas. El fuego que consume la ofrenda (que brota de la roca) es la señal de aceptación divina.</li>
+    <li>**El Altar de Baal:** El primer acto de Gedeón es derribar el altar de Baal y la asera (poste de culto a Astarté) de su padre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios a los Dioses de la Cosecha</h5>
+<ul>
+    <li>**Sacrificios Agrícolas:** Los cananeos ofrecían sacrificios a Baal para asegurar buenas cosechas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Fe Práctica:** La fe de Gedeón se demuestra con el acto público de derribar los ídolos antes de la batalla.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios se revela como "YHWH-Shalom" (El Señor es Paz) en medio de la guerra y la opresión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El llamado de Gedeón ilustra que <span class="highlight">Dios llama a los más improbables</span> y temerosos para cumplir su obra. La primera batalla de Gedeón es espiritual (contra Baal) antes que militar.</p>
                 
@@ -7368,7 +12476,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Victoria Milagrosa:</strong> El pánico y el error del enemigo traen la victoria</li>
                     <li><strong>Guerra Psicológica:</strong> El uso de ruido y luz para confundir</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Examen de la Fuerza Militar</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Dependencia Extrema</h5>
+<ul>
+    <li>**Reducción del Ejército:** Dios reduce el ejército de 32,000 a 300 hombres para que Israel no pueda gloriarse de su propia fuerza.</li>
+    <li>**El Test del Agua (Lamido):**
+        <ul>
+            <li>**300 hombres:** Los que bebieron agua del río lamiéndola con la mano (manteniéndose vigilantes).</li>
+            <li>**Resto:** Los que se arrodillaron para beber (no vigilantes).</li>
+        </ul>
+    </li>
+    <li>**Guerra Psicológica:** El ataque nocturno utiliza **cántaros rotos** (para la luz repentina), **antorchas** y el sonido de **trompetas** (shofar).</li>
+    <li>**Caos en el Campamento:** El ruido y la luz repentina hacen que los madianitas se maten entre sí (un pánico inducido por el Señor).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Superioridad Numérica</h5>
+<ul>
+    <li>**Superioridad:** La victoria en la guerra se aseguraba por el número de soldados y la tecnología militar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Gloria de YHWH:** La victoria se atribuye directamente a YHWH, haciendo que el poder humano sea irrelevante.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe es la verdadera arma, no el número de soldados.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La victoria con 300 hombres es un testimonio de que <span class="highlight">la fuerza de Dios se perfecciona en la debilidad</span>. El ejército es reducido para enseñar que la liberación es Suya.</p>
                 
@@ -7399,7 +12534,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Efod de Oro:</strong> Gedeón crea un ídolo (sincretismo)</li>
                     <li><strong>Relapso:</strong> Israel vuelve a la idolatría después de la muerte de Gedeón</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Retribución y la Semilla de la Monarquía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Venganza y la Idolatría</h5>
+<ul>
+    <li>**Efraín y el Conflicto Tribal:** Efraín se queja de no haber sido llamado a la batalla. Gedeón los calma con diplomacia.</li>
+    <li>**Retribución a Sucot y Penuel:** Gedeón castiga a estas ciudades por negarse a proveer comida a sus hombres (un acto de traición).</li>
+    <li>**Rechazo de la Monarquía:** El pueblo intenta hacer a Gedeón rey, y él se niega, reafirmando que **"YHWH reinará sobre vosotros."**</li>
+    <li>**El Efod de Oro:** Gedeón pide las joyas de oro del botín y hace un **Efod** (vestidura sacerdotal). Esto se convierte en un ídolo y una trampa para él y su familia, introduciendo la idolatría.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li>**Regalo de Oro:** El botín de guerra se usaba para establecer un reino y un centro de culto dinástico.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Idolatría/Sincretismo:** El efod no era necesariamente un ídolo cananeo, sino un intento de centralizar un culto no autorizado, una mezcla peligrosa de lo israelita y lo pagano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El rechazo verbal de Gedeón a la monarquía es sabio, pero su acción (el efod) es un acto de idolatría.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El fracaso de Gedeón muestra que la <span class="highlight">victoria no garantiza la santidad</span>. El deseo de Gedeón de crear un centro de culto privado (el efod) corrompe a la nación.</p>
                 
@@ -7431,7 +12588,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fábula de Jotam:</strong> La crítica a la realeza (el árbol útil se niega a reinar)</li>
                     <li><strong>Juicio Retributivo:</strong> Siquem y Abimelec se destruyen mutuamente</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Primer Intento de Monarquía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Asesinato y la Fábula de Jotam</h5>
+<ul>
+    <li>**Abimelec y el Fratricidio:** Abimelec (hijo de Gedeón y una concubina de Siquem) mata a sus 70 hermanos para consolidar el poder y establecerse como rey.</li>
+    <li>**La Elección de Siquem:** Abimelec es coronado rey en Siquem, una antigua ciudad del pacto, marcando el inicio de la realeza tribal.</li>
+    <li>**La Fábula de Jotam:** Jotam, el único hermano sobreviviente, pronuncia una **fábula** (un género literario común) sobre árboles que eligen un rey. Los árboles útiles se niegan, y eligen la zarza (Abimelec) (simboliza la inutilidad y la destrucción del rey).</li>
+    <li>**Muerte de Abimelec:** Muere a manos de una mujer que le lanza una piedra de molino desde el muro, negándose a morir por una espada masculina (una muerte deshonrosa).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Consolidación de Poder</h5>
+<ul>
+    <li>**Asesinato Real:** El asesinato de posibles rivales al trono era una práctica común en las monarquías.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Juicio por Juicio:** El final violento de Abimelec y Siquem es el juicio de Dios por el fratricidio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La monarquía humana, cuando no está sujeta a YHWH, solo trae violencia y maldición.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La historia de Abimelec es una advertencia de que <span class="highlight">el hombre indigno busca el poder</span>. El castigo final de Abimelec (muerto por una mujer) subraya el juicio de Dios contra su arrogancia.</p>
                 
@@ -7462,7 +12641,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dios se Niega:</strong> Dios les recuerda su infidelidad, preguntando por qué claman a Él</li>
                     <li><strong>Arrepentimiento Humilde:</strong> Israel finalmente se humilla y se deshace de los ídolos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Jueces Menores y el Arrepentimiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de los Líderes Menores y la Idolatría Sincretista</h5>
+<ul>
+    <li>**Jueces Menores:** Tola de Isacar y Jaír de Galaad (Transjordania) son mencionados brevemente. Jaír es notable por tener 30 hijos que montaban 30 asnos y poseían 30 ciudades (símbolo de riqueza y poder tribal).</li>
+    <li>**Idolatría Extendida:** Israel adora a los dioses de los arameos, sidonios, moabitas, amonitas y filisteos (una mezcla de sincretismo regional).</li>
+    <li>**Rechazo Inicial:** Dios se niega inicialmente a salvar a Israel debido a su persistente idolatría ("Id y clamad a los dioses que habéis elegido").</li>
+    <li>**Arrepentimiento Práctico:** El pueblo se deshace de sus dioses extraños, un acto de arrepentimiento genuino que mueve a Dios a la compasión.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Sincretismo Político</h5>
+<ul>
+    <li>**Adopción de Dioses:** Los pueblos adoptaban a los dioses de sus vecinos o conquistadores para asegurar su protección o éxito.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Arrepentimiento con Obras:** El arrepentimiento requiere un acto visible (deshacerse de los ídolos).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La compasión de Dios prevalece a pesar de Su justo juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La paciencia de Dios se pone a prueba: a pesar de su rechazo inicial, su amor paternal <span class="highlight">no puede soportar el sufrimiento de Israel</span> y promete librarlos. La apostasía es un problema recurrente.</p>
                 
@@ -7494,7 +12695,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Voto:</strong> Un acto de celo religioso mal informado y pagano</li>
                     <li><strong>Guerra Civil:</strong> Jefté lucha contra Efraín por celos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Jefté y el Voto Temerario</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Forajido y la Ley Internacional</h5>
+<ul>
+    <li>**El Forajido:** Jefté (hijo de una prostituta) es expulsado por sus hermanos y se convierte en jefe de una banda de "hombres ociosos" (una figura de bandido social).</li>
+    <li>**Pacto de Liderazgo:** Los ancianos de Galaad (Transjordania) hacen un pacto con Jefté, prometiéndole el liderazgo militar si gana la guerra contra Amón.</li>
+    <li>**Ley de Propiedad:** Jefté intenta resolver el conflicto con los amonitas basándose en la Ley Internacional de la época: la tierra pertenece a quienes la poseen.</li>
+    <li>**Voto Humano:** Jefté hace un **voto temerario** a YHWH: si le da la victoria, ofrecerá lo primero que salga de su casa a su regreso (siendo su hija, su única hija, la primera en salir).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios Humanos</h5>
+<ul>
+    <li>**Sacrificio Humano:** Los cananeos (incluidos los moabitas y amonitas) practicaban el sacrificio de niños a Moloc y Quemos.</li>
+</ul>
+
+<h<h5>style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Condenación:** El voto de Jefté (cumplido) es un acto que va en contra de la Ley Mosaica (Deuteronomio 18) que prohíbe el sacrificio humano, mostrando la decadencia moral.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La hija de Jefté llora por su virginidad (no por su vida), indicando la importancia de la descendencia y el linaje.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El voto de Jefté demuestra la <span class="highlight">contaminación de la cultura cananea</span> en Israel (el sacrificio humano está prohibido). Muestra que un líder poderoso puede estar espiritualmente ciego.</p>
                 
@@ -7525,7 +12748,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Prueba del Lenguaje:</strong> La masacre de Efraín basada en la pronunciación</li>
                     <li><strong>Anarquía:</strong> La falta de una autoridad central lleva a la matanza tribal</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Guerra Civil y la Prueba Lingüística</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Conflicto Tribal y la Disputa Fronteriza</h5>
+<ul>
+    <li>**Conflicto con Efraín:** Efraín, una vez más (como con Gedeón), se queja por no haber sido llamado a la batalla, lo que lleva a la guerra civil.</li>
+    <li>**La Masacre de Efraín:** Los hombres de Galaad (liderados por Jefté) capturan los vados del Jordán para evitar el escape de los efraimitas.</li>
+    <li>**El Shibboleth:** La prueba lingüística. Los efraimitas no podían pronunciar la "sh" (shibboleth), sino que decían "sibboleth," revelando su identidad y llevando a su ejecución.</li>
+    <li>**Jueces Menores (Ibzán, Elón, Abdón):** Se mencionan jueces menores, notables por su prole y riqueza (Ibzán con 30 hijos y 30 hijas; Abdón con 40 hijos y 30 nietos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Dialectos</h5>
+<ul>
+    <li>**Dialectos Tribales:** Los dialectos eran comunes en la región, y las diferencias de pronunciación podían ser usadas para identificar y clasificar a la gente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Decadencia: La guerra civil por orgullo (Efraín) y el asesinato masivo (Galaad) muestran la máxima ruptura del pacto.**</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El uso del *shibboleth* es un símbolo de cómo la identidad tribal ha reemplazado a la identidad de pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La guerra civil es un signo de la <span class="highlight">profunda desintegración ética y política</span> de Israel. La incapacidad de la nación para unirse y resolver conflictos sin violencia presagia el fracaso del período de los jueces.</p>
                 
@@ -7558,7 +12803,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nazareato Perpetuo:</strong> El voto de nazareo es la fuente de la fuerza de Sansón</li>
                     <li><strong>Fidelidad:</strong> Los padres de Sansón demuestran un gran temor a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Nacimiento de Sansón y el Voto Nazareo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Nazareato y la Teofanía</h5>
+<ul>
+    <li>**Opresión Filistea:** Israel es oprimido por los **filisteos** (un pueblo del mar, tecnológicamente avanzado) por 40 años.</li>
+    <li>**Anunciación:** Un ángel de YHWH aparece a la esposa estéril de Manoa (de Dan) para anunciarle el nacimiento de un hijo.</li>
+    <li>**Voto Nazareo:** El hijo debe ser un **Nazareo** desde el vientre:
+        <ul>
+            <li>No beber alcohol.</li>
+            <li>No cortar su cabello (la fuerza reside en el pacto, simbolizado por el cabello).</li>
+            <li>No tocar cadáveres (mantener la pureza ritual).</li>
+        </ul>
+    </li>
+    <li>**El Sacrificio: **El ángel se revela a sí mismo a través del sacrificio que Manoa y su esposa ofrecen.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Esterilidad y los Ritos</h5>
+<ul>
+    <li>**Oráculos:** La esterilidad era a menudo motivo de consulta a oráculos o deidades de la fertilidad (Astarté).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Voto Permanente:** El voto nazareo era temporal. El de Sansón es permanente y divino.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La vida de Sansón está dedicada a Dios desde el principio, pero su propia debilidad lo definirá.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El nazareato de Sansón simboliza la <span class="highlight">santidad requerida para la liberación</span>. Sin embargo, su historia mostrará que el compromiso ritual no garantiza la obediencia moral.</p>
                 
@@ -7590,7 +12863,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fuerza Divina:</strong> El Espíritu de Dios desciende sobre él para darle fuerza</li>
                     <li><strong>El Acertijo:</strong> La fuente de su conflicto con los filisteos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Matrimonio Mixto y Enigma</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de las Alianzas Matrimoniales y el Enigma</h5>
+<ul>
+    <li>**Matrimonio Prohibido:** Sansón insiste en casarse con una mujer **filistea** (de Timnat), un matrimonio prohibido.</li>
+    <li>**Prueba del León:** Sansón mata un león con sus manos. Un tiempo después, encuentra miel en el cuerpo del león (un acto impuro, violando su voto).</li>
+    <li>**El Enigma (Acertijo):** En la fiesta nupcial, Sansón propone un enigma con una apuesta (un desafío de ingenio común en las bodas).</li>
+    <li>**Furia y Venganza:** Sansón mata a 30 hombres filisteos para obtener las ropas necesarias para pagar su apuesta (un acto de venganza descontrolada).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Boda y la Dote</h5>
+<ul>
+    <li>**Dote:** Las bodas incluían una dote y a menudo competiciones. La traición de la esposa era motivo de anulación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**El Espíritu de YHWH:** El espíritu de YHWH se manifiesta en Sansón no como sabiduría, sino como fuerza bruta, utilizada a menudo para su propia satisfacción.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Sansón rompe su voto con su impureza y su matrimonio, mostrando la falta de respeto por su llamado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las fallas morales de Sansón (deseo carnal, falta de autocontrol) contrastan con el <span class="highlight">poder del Espíritu de Dios</span> que lo capacita. El Señor lo usa a pesar de sus debilidades.</p>
                 
@@ -7622,7 +12917,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Quijada de Asno:</strong> El uso de herramientas inusuales para la victoria</li>
                     <li><strong>Cobardía de Israel:</strong> Los hombres de Judá entregan a su propio libertador</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Venganza Personal y Esfuerzo de Guerra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Venganza y la No-Intervención Tribal</h5>
+<ul>
+    <li>**Venganza por el Matrimonio:** La venganza de Sansón por el rechazo de su esposa: quema los cultivos filisteos usando **300 zorras atadas por la cola** con antorchas.</li>
+    <li>**Guerra Privada:** La guerra de Sansón es principalmente una vendetta personal, no un acto coordinado de liberación nacional.</li>
+    <li>**No-Intervención:** Los hombres de Judá (sus propios compatriotas) atan a Sansón y lo entregan a los filisteos para evitar un conflicto.</li>
+    <li>**Mandíbula de Asno:** Sansón mata a 1,000 hombres filisteos con la **mandíbula de un asno** (un arma improvisada y deshonrosa).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Armas Improvisadas</h5>
+<ul>
+    <li>**Armamento: Los filisteos tenían el monopolio del hierro y las armas avanzadas.**</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Debilidad Israelita:** La cobardía de Judá al entregar a su libertador muestra el nivel de miedo y asimilación al poder filisteo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La oración de Sansón por sed después de la victoria es un recordatorio de que su fuerza es prestada.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Sansón, un hombre dedicado a Dios, actúa por ira y pasión, reflejando el estado de Israel. Su fuerza es un recordatorio de que <span class="highlight">Dios puede obrar la liberación</span> incluso a través de un instrumento defectuoso y motivado por la carne.</p>
                 
@@ -7656,7 +12973,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrepentimiento Final:</strong> Sansón clama a Dios por una última vez</li>
                     <li><strong>Victoria en la Muerte:</strong> El templo de Dagón es derribado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Sansón, Dalila y la Muerte en el Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Cabello Nazareo y la Prisión</h5>
+<ul>
+    <li>**La Prostituta de Gaza:** Sansón es seducido por una prostituta, un acto que viola su pureza. Se lleva las puertas de la ciudad de Gaza, humillando a los filisteos.</li>
+    <li>**Dalila y la Traición:** Los filisteos sobornan a Dalila para que descubra el secreto de su fuerza.</li>
+    <li>**El Cabello Cortado:** La pérdida de su cabello es la pérdida de la **señal** de su voto, y el espíritu de YHWH lo abandona.</li>
+    <li>**Ojos Arrancados:** La ceguera era un castigo común para un prisionero de guerra que había causado daño (y la burla de los dioses).</li>
+    <li>**Dagon y la Venganza:** Los filisteos atribuyen la captura de Sansón a su dios, **Dagón** (dios de la cosecha/pez).</li>
+    <li>**Muerte Final:** Sansón es llevado al templo de Dagón y derriba los pilares (estructuras de los templos de la época) en un acto final de fuerza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Templos Pagano</h5>
+<ul>
+    <li>**Estructuras de Pilares:** Los templos filisteos a menudo tenían un techo sostenido por dos pilares centrales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**La Muerte del Héroe:** Sansón logra su mayor acto de liberación en su muerte (mata a más personas en su muerte que en su vida).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La vida de Sansón, marcada por el fracaso personal, termina con la reafirmación del poder de Dios sobre el dios Dagón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El destino de Sansón es una advertencia sobre el peligro de la <span class="highlight">tentación sexual y la traición a los votos sagrados</span>. Su último acto demuestra que, a pesar de sus fracasos, el poder de Dios se manifiesta en su arrepentimiento final.</p>
                 
@@ -7688,7 +13029,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sincretismo:</strong> El culto a YHWH a través de imágenes y sacerdocios ilegales</li>
                     <li><strong>Anarquía Religiosa:</strong> La falta de un centro de culto y la violación de las leyes levíticas</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Anarquía Religiosa (Idolatría Doméstica)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Santuario Privado</h5>
+<ul>
+    <li>**Micaía y el Dinero Robado:** Micaía roba plata a su madre y luego la devuelve. Ella consagra la plata a YHWH y hace un **ídolo fundido y tallado**.</li>
+    <li>**El Santuario Privado:** Micaía construye un santuario en su casa con un efod y terafim (ídolos domésticos/protectores).</li>
+    <li>**Sacerdocio No-Levita:** Micaía consagra a uno de sus hijos como sacerdote (un acto ilegal, ya que solo los levitas podían ser sacerdotes).</li>
+    <li>**El Levita Errante:** Micaía contrata a un levita errante (un sacerdote legítimo pero sin sustento) para que sirva en su santuario privado por un salario.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ídolos Domésticos (Terafim)</h5>
+<ul>
+    <li>**Terafim:** Eran pequeñas figuras de dioses domésticos, a menudo asociados con la herencia familiar y la prosperidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Sincretismo y Anarquía:** El capítulo ilustra el lema final del libro: **"En aquellos días no había rey en Israel; cada uno hacía lo que bien le parecía."** La religión se convierte en un asunto personal y pragmático.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La idolatría es justificada como "servicio a YHWH" (sincretismo).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El santuario de Micaía es un microcosmos del <span class="highlight">fracaso de la centralización del culto</span>. El sacerdote levita, sin guía ni santidad, vende su servicio, reflejando la corrupción del oficio.</p>
                 
@@ -7719,7 +13082,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Robo de Ídolos:</strong> Dan roba el culto ilegal de Micaía y lo establece como su propio culto tribal</li>
                     <li><strong>Nueva Capital:</strong> Dan se establece como centro de idolatría en el extremo norte</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Migración Tribal y el Robo del Santuario</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Fracaso Tribal</h5>
+<ul>
+    <li>**Fracaso de Dan:** La tribu de Dan no logra asegurar su herencia en el sur de Judá (debido a los filisteos) y envía espías al norte.</li>
+    <li>**El Robo de Ídolos:** Los 600 hombres de Dan roban el efod, los terafim, el ídolo fundido y al sacerdote levita del santuario privado de Micaía.</li>
+    <li>**Nuevo Centro de Culto:** Dan establece los ídolos en la ciudad de Lais (renombrada Dan). El levita de Micaía se convierte en sacerdote de la tribu de Dan.</li>
+    <li>**Duración de la Idolatría:** Este culto idolátrico continuó hasta el cautiverio de la tierra.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Migración y el Reasentamiento</h5>
+<ul>
+    <li>**Invasión y Desplazamiento:** Las tribus a menudo se movían buscando tierras menos pobladas o más fáciles de conquistar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Corrupción Institucional:** Una tribu entera adopta la idolatría y un culto privado robado, marcando un punto bajo en la corrupción institucional.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El levita que sirve por dinero se convierte en el sacerdote de la idolatría tribal, simbolizando el colapso moral del sacerdocio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La migración de Dan simboliza el <span class="highlight">fracaso en la posesión de la tierra</span> por falta de fe. La tribu cae en la idolatría institucionalizada, demostrando el declive espiritual de la nación.</p>
                 
@@ -7750,7 +13135,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falta de Hospitalidad:</strong> Solo un anciano muestra bondad</li>
                     <li><strong>Llamada a la Acción:</strong> El desmembramiento como un llamado a la guerra civil</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Inmoralidad en Gabaa (El Levita y la Concubina)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Hospitalidad Quebrantada</h5>
+<ul>
+    <li>**El Levita y su Concubina:** Un levita viaja con su concubina a Efraín y luego a Gabaa (en Benjamín).</li>
+    <li>**La Prostitución y la Agresión:** La gente de Gabaa (hombres perversos) exige al viejo que les entregue al levita para abusar de él (un crimen similar al de Sodoma).</li>
+    <li>**Sacrificio de la Concubina:** El levita entrega a su concubina a la multitud para salvarse, un acto de cobardía y desprecio por la mujer.</li>
+    <li>**El Desmembramiento:** El levita desmiembra el cuerpo de la concubina en **12 pedazos** y los envía a las tribus de Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Heraldo de Guerra</h5>
+<ul>
+    <li>**El Mensaje:** El desmembramiento era un método de heraldos antiguos para convocar a la guerra o para mostrar la gravedad de un crimen.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Crimen Contra el Pacto:** El crimen es la máxima violación de la hospitalidad y la moralidad del pacto. La mujer es el objeto pasivo de la violencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Gabaa es llamada "la segunda Sodoma". El horror del crimen convoca a la nación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La historia es un espejo de la maldad del mundo cananeo. La maldad en Guibeá (el futuro centro del reino de Saúl) demuestra el <span class="highlight">colapso total de la ley y la moralidad</span> en Israel.</p>
                 
@@ -7783,7 +13190,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Presencia de Dios:</strong> Israel consulta a Dios antes y durante la batalla</li>
                     <li><strong>Derrota:</strong> Benjamín es casi exterminado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Guerra Civil de Israel contra Benjamín</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio Comunitario y la Guerra Santa</h5>
+<ul>
+    <li>**Convocatoria de la Asamblea:** La nación se reúne en **Mizpa** (lugar de pacto) para buscar justicia por el crimen de Gabaa.</li>
+    <li>**Negativa a Entregar:** La tribu de Benjamín se niega a entregar a los culpables, defendiendo el crimen (un acto de orgullo y desprecio por la Ley).</li>
+    <li>**Consulta a YHWH:** Las tribus consultan a Dios a través del sumo sacerdote Fineas antes de ir a la guerra (reconocimiento de la autoridad divina).</li>
+    <li>**Guerra Santa:** A pesar de la aprobación de Dios, Israel es derrotado dos veces, mostrando la seriedad de la guerra civil. La tercera vez, Dios da la victoria.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Batalla Sorpresa</h5>
+<ul>
+    <li>**La Emboscada:** Israel usa una emboscada (una táctica común) para derrotar a los benjamitas, mostrando que incluso en la guerra civil se usa la estrategia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Juicio Doloroso:** La guerra civil es un juicio divino sobre el pecado de toda la nación, forzando la purificación, incluso a costa de grandes pérdidas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La obediencia en la guerra requiere más que solo la bendición divina; requiere una purificación de la propia actitud (ayuno y llanto).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La guerra civil demuestra que <span class="highlight">el pecado contamina la tierra y al pueblo</span>. La necesidad de la guerra es un juicio de Dios sobre la anarquía de Israel, incluso si es una guerra fratricida.</p>
                 
@@ -7814,7 +13243,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Votos Incumplibles:</strong> El rapto de mujeres es una forma de romper un voto imprudente</li>
                     <li><strong>Anarquía Final:</strong> La frase conclusiva subraya la necesidad de la realeza justa</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Solución a la Aniquilación Tribal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Exterminación y la Promesa Rota</h5>
+<ul>
+    <li>**El Voto:** Los hombres de Israel hacen un voto temerario: **no dar a sus hijas en matrimonio a Benjamín** (amenazando con la extinción tribal).</li>
+    <li>**Masacre de Jabes de Galaad:** Se masacra a la gente de Jabes de Galaad por no participar en la guerra contra Benjamín. Se les quitan 400 vírgenes para Benjamín.</li>
+    <li>**Rapto de Silo:** La solución final es permitir que los benjamitas **rapten mujeres** durante la fiesta anual de YHWH en Silo.</li>
+    <li>**El Perdón del Voto:** Los ancianos aconsejan a los benjamitas robar las mujeres, rompiendo el espíritu del voto para salvar a una tribu.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Endogamia y el Rapto</h5>
+<ul>
+    <li>**Rapto de Mujeres:** El rapto de mujeres (como en el mito romano del Rapto de las Sabinas) era un método para el matrimonio en casos de escasez.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Decadencia Final:** El libro termina con una solución pragmática y violenta (masacre y rapto) para resolver un problema causado por un voto imprudente, mostrando que Israel ha caído en prácticas paganas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro termina con la frase: "En aquellos días no había rey en Israel; cada uno hacía lo que bien le parecía," subrayando la necesidad de una autoridad central y divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El fin del libro subraya la desesperada necesidad de <span class="highlight">autoridad y orden</span>. La repetición de la frase final es el clamor del escritor por el establecimiento de la monarquía (el reino de David).</p>
                 
@@ -7850,7 +13301,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Redención Gentil:</strong> Una mujer moabita se une al pueblo de Dios</li>
                     <li><strong>Hambruna y Miseria:</strong> El contexto de la época de los jueces</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Migración, Luto y Juramento de Lealtad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Luto y la Viudez</h5>
+<ul>
+    <li><strong>Migración por Hambre:</strong> Elimelec y Noemí migran de Belén (Judá) a **Moab** debido a la hambruna. Este era un movimiento común en tiempos de escasez (como con Abraham y Jacob), aunque Moab era una nación enemiga.</li>
+    <li><strong>Matrimonio Mixto:</strong> Los hijos (Mahlón y Quelión) se casan con mujeres moabitas (Rut y Orfa), un matrimonio desaconsejado, pero tolerado en el exilio.</li>
+    <li><strong>La Viudez:</strong> Noemí, Rut y Orfa quedan viudas y son totalmente dependientes, ya que la mujer no podía heredar tierras.</li>
+    <li><strong>El Retorno:</strong> Noemí regresa a Judá para buscar seguridad. Ella pide ser llamada **Mara** ("amargura") debido a su desgracia.</li>
+    <li><strong>Juramento de Rut:</strong> Rut jura una lealtad absoluta y un compromiso religioso: "Tu pueblo será mi pueblo, y tu Dios mi Dios" (una conversión por lealtad familiar).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Moab y el Retorno</h5>
+<ul>
+    <li><strong>Seguridad en la Patria:</strong> Noemí anima a sus nueras a regresar a sus casas para encontrar seguridad y un nuevo marido dentro de su propia cultura.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fe Inquebrantable:</strong> Rut, la moabita, demuestra la lealtad al pacto (hesed) al jurar fidelidad a YHWH y al linaje familiar judío.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El regreso de Noemí y la elección de Rut marcan el inicio de la restauración divina en medio de la amargura.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La decisión de Rut es un <span class="highlight">acto de conversión radical</span>: renuncia a su hogar, su familia y sus dioses para abrazar a YHWH. Su lealtad es un contraste positivo con la apostasía de Israel en la época de los jueces.</p>
                 
@@ -7883,7 +13357,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hospitalidad y Protección:</strong> Booz provee comida y seguridad a Rut</li>
                     <li><strong>Go'el (Redentor):</strong> Booz es identificado como pariente cercano</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Espigueo y la Protección del Pariente</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Justicia Social y la Cosecha</h5>
+<ul>
+    <li><strong>Espigueo (Leket):</strong> Rut utiliza la ley de Levítico y Deuteronomio, que ordena dejar las espigas caídas y los bordes sin cosechar para que los pobres, los huérfanos y los extranjeros puedan recoger.</li>
+    <li><strong>El Campo de Booz:</strong> Rut "encuentra" el campo de Booz, un pariente cercano (redentor/goel) de su difunto suegro.</li>
+    <li><strong>Hospitalidad Extendida:</strong> Booz extiende una hospitalidad inusual a Rut: le permite espigar en el mejor lugar y le da comida y agua directamente.</li>
+    <li><strong>Goel (Pariente Redentor):</strong> Booz, como pariente (goel), tiene una obligación moral de cuidar la línea familiar de Elimelec.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Miseria</h5>
+<ul>
+    <li><strong>Esclavitud por Deuda:</strong> Sin tierras, una viuda podía ser fácilmente reducida a la esclavitud o la mendicidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Hesed:</strong> Booz actúa con **hesed** (amor inquebrantable, bondad del pacto) hacia una mujer moabita, superando las restricciones sociales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La provisión de Dios se manifiesta a través de la estricta observancia de las leyes de la cosecha y la generosidad de Booz.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El encuentro con Booz no es una coincidencia, sino un acto de <span class="highlight">providencia activa de Dios</span>. Booz ejemplifica el Hesed y la justicia que Israel estaba destinado a practicar según la Ley.</p>
                 
@@ -7915,7 +13411,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Manto:</strong> La petición de Rut de que Booz la "cubra con su manto" (protección y matrimonio)</li>
                     <li><strong>Dignidad:</strong> Booz asegura que el rito se realice sin deshonra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Rito de la Solicitud Matrimonial</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Levirato y el Matrimonio por Reemplazo</h5>
+<ul>
+    <li><strong>El Plan de Noemí:</strong> Noemí idea un plan para que Rut solicite a Booz el matrimonio bajo la ley del **Levirato** (aunque Booz no es un hermano, se le aplica el principio de la redención familiar).</li>
+    <li><strong>El Rito del Umbral (Dormir a los Pies):</strong> Rut se acuesta a los pies de Booz en el lagar después de que él ha comido y bebido. Este acto simboliza la sumisión y la petición de protección y matrimonio.</li>
+    <li><strong>El Manto (Ala):</strong> Booz extiende su manto sobre Rut, un gesto simbólico que significa tomarla bajo su **protección** (Ezequiel 16:8) y comprometerse a casarse con ella.</li>
+    <li><strong>El Otro Goel:</strong> Booz reconoce que hay un pariente más cercano que tiene la primera obligación de ser el redentor.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Solicitud Sexual</h5>
+<ul>
+    <li><strong>Riesgo de la Noche:</strong> Rut corre el riesgo de ser malinterpretada como una prostituta o una seductora.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Honor:</strong> Booz asegura el honor de Rut al enviarla de regreso con seis medidas de cebada antes del amanecer.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El "lugar seguro" de Rut se convierte en el manto de Booz, un símbolo de la protección de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El acto de Rut es un <span class="highlight">acto de fe y vulnerabilidad</span>. El Go'el es un tipo profético de Cristo, el pariente más cercano que tiene el derecho y el deber de redimir al necesitado y restaurar su herencia.</p>
                 
@@ -7949,7 +13467,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Nacimiento del Redentor:</strong> El hijo de Rut restaura la línea de Elimelec</li>
                     <li><strong>Linaje de David:</strong> Rut se inserta en el linaje mesiánico</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Redención de la Tierra y Matrimonio Legal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Transacción en la Puerta</h5>
+<ul>
+    <li><strong>La Puerta de la Ciudad:</strong> La puerta de la ciudad es el centro legal y judicial donde se reunían los ancianos (10 testigos) para validar las transacciones de propiedad.</li>
+    <li><strong>El Derecho de Redención:</strong> El pariente más cercano (goel) tiene el derecho de redimir la tierra de Elimelec para mantenerla dentro de la familia.</li>
+    <li><strong>La Condición de Rut:</strong> La redención de la tierra viene con la condición de casarse con Rut para **levantar descendencia** al difunto (la ley del levirato).</li>
+    <li>**El Rito del Zapato:** El pariente más cercano se quita el zapato y se lo entrega a Booz. Esto sella legalmente la transferencia de derechos y la renuncia a la redención.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Escritura Legal</h5>
+<ul>
+    <li><strong>Contratos Orales:</strong> La entrega del zapato y el testimonio de los ancianos servían como contrato legal, ya que los contratos escritos eran menos comunes para transacciones de este tipo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Redención Completa:</strong> Booz redime no solo la tierra, sino también la línea de sangre familiar, asegurando el futuro de Noemí y Rut.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La historia culmina con el nacimiento de Obed, el abuelo de David, asegurando que la moabita Rut se convierta en una figura central de la línea mesiánica de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El libro de Rut es una lección de <span class="highlight">gracia y universalidad</span>. Muestra que la gracia de Dios incluye a los forasteros (Rut la moabita) en el linaje del rey y, en última instancia, del Mesías.</p>
                 
@@ -7984,7 +13524,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Voto y Dedicación:</strong> El voto de nazareato y la dedicación de Samuel al templo</li>
                     <li><strong>Disfunción:</strong> El contraste entre el piadoso Samuel y los hijos corruptos de Elí</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Esterilidad, el Voto y la Peregrinación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Peregrinación Anual y el Nazareato</h5>
+<ul>
+    <li><strong>La Esterilidad:</strong> La esterilidad (Ana) era considerada una gran desgracia y una vergüenza social. Tener hijos era la principal fuente de seguridad para la vejez.</li>
+    <li><strong>La Peregrinación a Silo:</strong> La familia de Elcana viaja anualmente a **Silo**, donde se encuentra el Tabernáculo y el Arca del Pacto (el centro de culto de Israel).</li>
+    <li><strong>Voto Nazareo:</strong> Ana hace un voto a YHWH: si le da un hijo, lo dedicará como **nazareo** (no cortará su cabello, será consagrado al servicio).</li>
+    <li><strong>Múltiples Esposas:</strong> Elcana tiene dos esposas (Ana y Penina), una práctica común que a menudo causaba rivalidad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ofrenda y la Reproche</h5>
+<ul>
+    <li><strong>La Ofrenda Compartida:</strong> El marido repartía las porciones del sacrificio de paz. El doble honor a Ana era un signo de amor compensatorio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Oración de Ana:</strong> Elí reprende a Ana por orar en voz baja, creyendo que está ebria, mostrando la decadencia de la percepción espiritual en el sacerdocio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe y la oración privada de Ana contrastan con el corrupto culto oficial.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El nacimiento de Samuel es un <span class="highlight">acto de providencia divina</span> que responde a la necesidad espiritual de la nación. Su dedicación es el primer signo de un retorno a la fe genuina en medio de la corrupción sacerdotal.</p>
                 
@@ -8016,7 +13578,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Sacerdotal:</strong> La condena contra la corrupción en el sacerdocio</li>
                     <li><strong>Ungido de Dios:</strong> El cántico menciona al "ungido" de Dios (preludio a la monarquía)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Sacerdocio Corrupto y la Profecía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio y la Pobreza del Templo</h5>
+<ul>
+    <li><strong>El Cántico de Ana:</strong> Un himno de alabanza que establece un principio teológico clave: Dios levanta a los humildes y derriba a los poderosos.</li>
+    <li><strong>Corrupción Sacerdotal:</strong> Los hijos de Elí (Hofni y Finees) se llevan la carne antes de que la grasa sea quemada (la parte de Dios). Usan un **gancho de tres dientes** para robar la carne.</li>
+    <li><strong>Profecía Anónima:</strong> Un varón de Dios (profeta anónimo) pronuncia un juicio contra la casa de Elí: morirán en un día y el sacerdocio les será quitado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ofrenda</h5>
+<ul>
+    <li><strong>El Sacerdote Gula:</strong> La carne era valiosa. Robar la porción de la ofrenda para comerla cruda o asada era un acto de desprecio por la Ley y por Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Liderazgo Piadoso vs. Carnal:</strong> La piedad del niño Samuel (sirviendo con un efod de lino) contrasta con la maldad de los hijos del Sumo Sacerdote.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El castigo de la casa de Elí demuestra que la santidad es más importante que la tradición o el linaje.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cántico es un oráculo profético que anuncia la <span class="highlight">justicia y la inversión divina</span>. La corrupción del sacerdocio de Elí hace necesario el cambio de liderazgo que culminará con el rey ungido.</p>
                 
@@ -8048,7 +13631,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Transición:</strong> Samuel es el nuevo mediador profético, reemplazando el sacerdocio fallido</li>
                     <li><strong>Juicio Irreversible:</strong> El castigo contra Elí se anuncia a través de Samuel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Llamado Profético</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Revelación en el Santuario</h5>
+<ul>
+    <li><strong>La Lámpara de Dios:</strong> El pasaje indica que "la palabra de YHWH era escasa en aquellos días". El llamado ocurre "antes de que la lámpara de Dios se apagara" (es decir, al amanecer o al final de la noche).</li>
+    <li><strong>El Profeta Niño:</strong> Samuel (un niño) recibe el mensaje directo de Dios. La palabra de Dios se salta al Sumo Sacerdote (Elí).</li>
+    <li><strong>La Confirmación:</strong> Elí le enseña a Samuel el ritual para responder a la voz de Dios ("Habla, porque tu siervo escucha").</li>
+    <li><strong>Autoridad Profética:</strong> El mensaje de Samuel (el juicio sobre Elí) establece su autoridad como profeta en Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Oráculo</h5>
+<ul>
+    <li><strong>Mensajero Divino:</strong> En las culturas circundantes, los mensajes divinos se recibían a través de oráculos, sueños o rituales elaborados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Palabra es Soberana:</strong> Elí debe aceptar el mensaje de juicio del profeta niño, demostrando la superioridad de la palabra de Dios sobre el oficio sacerdotal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El llamado de Samuel marca el inicio de una nueva era de liderazgo profético.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El llamado de Samuel es un recordatorio de que <span class="highlight">Dios se comunica directamente</span>, especialmente en tiempos de oscuridad espiritual. El joven profeta se convierte en la voz de la autoridad divina.</p>
                 
@@ -8081,7 +13686,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Cumplido:</strong> La muerte de Hofni y Finees y el fin del sacerdocio de Elí</li>
                     <li><strong>Pérdida de la Gloria:</strong> La captura del Arca (la presencia visible de Dios)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Arca como Amuleto de Guerra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Batalla y el Juicio Divino</h5>
+<ul>
+    <li><strong>Guerra contra los Filisteos:</strong> Israel es derrotado en Ebenezer.</li>
+    <li>**El Arca Traída:** Israel trae el **Arca del Pacto** de Silo, tratándola como un amuleto mágico o una garantía de victoria (creyendo que la presencia física del Arca aseguraría el éxito).</li>
+    <li><strong>El Juicio Cumplido:</strong> Los hijos de Elí mueren en la batalla (cumpliendo la profecía).</li>
+    <li>**Icabod:** La nuera de Elí nombra a su hijo **Icabod** ("La gloria se ha ido") al morir ella y su suegro al enterarse de la captura del Arca.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deidad Protectora</h5>
+<ul>
+    <li><strong>Ídolos de Guerra:</strong> Las naciones llevaban las imágenes de sus dioses a la batalla para asegurar la victoria.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Gloria se va:</strong> El Arca es capturada, demostrando que la presencia de Dios no se limita a un objeto, y que Él permite el juicio cuando el pacto es violado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El colapso de Elí al caer y morir simboliza el fin de la era sacerdotal en Silo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La pérdida del Arca demuestra que la <span class="highlight">presencia de Dios no está ligada a un objeto</span>, sino a la obediencia al Pacto. La gloria se va (Icabod) debido al pecado del sacerdocio.</p>
                 
@@ -8112,7 +13739,33 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Divino:</strong> Las plagas enviadas contra los filisteos</li>
                     <li><strong>El Poder de YHWH:</strong> El Arca demuestra su poder en tierra enemiga sin mediador</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Dagón se Postra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Soberanía de YHWH sobre los Ídolos</h5>
+<ul>
+    <li>**El Arca en Asdod:** Los filisteos llevan el Arca al templo de su dios, **Dagón** (dios mitad pez/mitad hombre, asociado con la fertilidad y la agricultura).</li>
+    <li>**La Postración de Dagón:** El ídolo de Dagón cae dos veces:
+        <ul>
+            <li>La primera vez, cae de cara ante el Arca (un gesto de sumisión).</li>
+            <li>La segunda vez, cae y se le rompen las manos y la cabeza.</li>
+        </ul>
+    </li>
+    <li>**Plaga Filistea:** Dios castiga a los filisteos con una plaga de **tumores** o bubones (posiblemente la peste bubónica) y ratones.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Captura de Dioses</h5>
+<ul>
+    <li><strong>Trofeos de Guerra:</strong> Era común que los vencedores capturaran los ídolos de los vencidos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Juicio sin un Ejército:</strong> YHWH demuestra Su poder sin necesidad de un ejército, humillando al principal dios filisteo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La presencia de Dios es incontrolable y trae juicio a quienes la deshonran, sean ellos israelitas o paganos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El episodio demuestra que la <span class="highlight">soberanía de YHWH</span> es absoluta, incluso sobre los dioses paganos. Los filisteos aprenden que el Dios que no lucha por Israel, lucha contra ellos.</p>
                 
@@ -8143,7 +13796,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Milagro de las Vacas:</strong> El movimiento no guiado de las vacas confirma el juicio</li>
                     <li><strong>Santidad Irrespetada:</strong> Los hombres de Bet-semes son castigados por mirar el Arca</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Retorno del Arca y la Ofrenda por la Culpa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio de Reparación y la Vaca Sin Yugo</h5>
+<ul>
+    <li>**Consulta a Adivinos:** Los filisteos consultan a sus sacerdotes y adivinos para saber qué hacer con el Arca (una práctica pagana).</li>
+    <li>**Ofrendas por la Culpa:** Se envían **cinco tumores de oro y cinco ratones de oro** (uno por cada ciudad filistea) como una ofrenda para aplacar a YHWH.</li>
+    <li>**El Carro de Prueba:** Se pone el Arca en un carro tirado por dos vacas que nunca habían tenido yugo y sin guía humana (una prueba de que fue YHWH, y no la casualidad, quien lo envió).</li>
+    <li>**La Profanación:** La gente de Bet-semes mira dentro del Arca (violando la Ley Mosaica) y son castigados con la muerte.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Ofrendas Votivas</h5>
+<ul>
+    <li><strong>Ofrendas Votivas:</strong> Los paganos ofrecían a sus dioses réplicas de la enfermedad que buscaban curar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Santidad Absoluta:</strong> La Ley de Dios prohíbe mirar el Arca, incluso después de su retorno, reafirmando que Su santidad debe ser respetada.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Arca permanece en la casa de Abinadab (en Quiriat-jearim) por 20 años, marcando un período de sequía espiritual.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El castigo a los israelitas en Bet-semes es tan severo como el castigo a los filisteos. Esto subraya que la <span class="highlight">santidad de Dios</span> debe ser respetada por Su pueblo más que por los gentiles.</p>
                 
@@ -8175,7 +13850,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder de la Oración:</strong> La oración de Samuel detiene al enemigo</li>
                     <li><strong>Ebenezer:</strong> Un memorial de la ayuda de Dios ("Hasta aquí nos ayudó Jehová")</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Arrepentimiento y la Victoria de Samuel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Arrepentimiento Colectivo y el Juez</h5>
+<ul>
+    <li>**Arrepentimiento en Mizpa:** Samuel llama a Israel a un arrepentimiento nacional: quitan los ídolos de Baal y Astarot y ayunan.</li>
+    <li>**El Juez (Samuel):** Samuel sirve como Juez (líder militar), profeta y sacerdote (aunque no de linaje aarónico), marcando la cúspide de su liderazgo.</li>
+    <li>**El Sacrificio de Holocausto:** Samuel ofrece un cordero lechal como holocausto (sacrificio de expiación) antes de la batalla.</li>
+    <li>**Eben-ezer (Piedra de Ayuda):** Samuel erige una piedra conmemorativa después de que YHWH interviene con un gran trueno.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ritos de Guerra</h5>
+<ul>
+    <li><strong>Adivinación:</strong> Las naciones consultaban oráculos y hacían sacrificios para predecir el resultado de la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Victoria por la Oración:</strong> La victoria sobre los filisteos es lograda por la intervención divina (trueno), en respuesta al arrepentimiento y la oración de Samuel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo muestra el ciclo de Jueces en su mejor momento: arrepentimiento genuino lleva a la liberación divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El arrepentimiento de Israel y la victoria en Mizpa demuestran que la <span class="highlight">restauración es posible</span> a través de un liderazgo piadoso. El éxito militar depende de la relación de pacto con Dios.</p>
                 
@@ -8207,7 +13904,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Advertencia Monárquica:</strong> La ley del rey (reclutamiento, impuestos, pérdida de libertad)</li>
                     <li><strong>El Motivo:</strong> Quieren un rey "como todas las naciones", no uno bajo el mandato de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Demanda de un Rey</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rechazo a la Teocracia</h5>
+<ul>
+    <li><strong>Hijos Corruptos:</strong> Los hijos de Samuel (Joel y Abías) son nombrados jueces en Beerseba, pero son corruptos, al igual que los hijos de Elí.</li>
+    <li>**Demanda de un Rey:** El pueblo exige un rey "como todas las naciones" (un modelo de monarquía absoluta/secular).</li>
+    <li>**La Advertencia:** Samuel explica los "derechos" del rey (el **mishpat**): impuestos forzosos, servicio militar obligatorio, confiscación de tierras y cosechas, lo que resultará en servidumbre.</li>
+    <li>**El Rechazo a YHWH:** La demanda de un rey es entendida por Dios como un rechazo a Su reinado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Monarquía Absoluta</h5>
+<ul>
+    <li><strong>Monarquía Egipcia/Mesopotámica:</strong> Estos reyes eran vistos como semidioses y tenían poder absoluto sobre la vida y la propiedad de sus súbditos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Modelo Divino:</strong> Dios había permitido un rey (Deuteronomio 17), pero el pueblo lo exige con el motivo equivocado: imitar a las naciones.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La demanda del pueblo muestra su falta de fe en la provisión de YHWH y su deseo de seguridad visible.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La monarquía se establece por la <span class="highlight">terquedad y el deseo carnal</span> de Israel de parecerse al mundo. Dios accede a su petición como un acto de juicio, aunque también como un acto de providencia (el rey había sido prometido en Deuteronomio 17).</p>
                 
@@ -8239,7 +13958,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unción Privada:</strong> Saúl es ungido en secreto por el profeta</li>
                     <li><strong>Apariencia Física:</strong> Saúl es elegido en parte por su altura y buena presencia (lo que el pueblo buscaba)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Búsqueda y la Unción Secreta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Consulta a Videntes</h5>
+<ul>
+    <li><strong>Saúl de Benjamín:</strong> Saúl es de la tribu de Benjamín (la más pequeña), alto y apuesto (un rey elegido por su apariencia).</li>
+    <li><strong>El "Vidente":</strong> Samuel es llamado un "vidente" (roeh), un término antiguo para profeta, consultado para asuntos triviales (como la búsqueda de las asnas perdidas).</li>
+    <li><strong>La Comida en el Lugar Alto:</strong> Samuel invita a Saúl a un banquete de honor en el "lugar alto" (sitio de sacrificio) y le da el lugar de honor y la porción reservada.</li>
+    <li>**La Unción Secreta:** Samuel unge a Saúl con aceite, un ritual que lo consagra como rey (el **ungido** de YHWH), antes de que el pueblo lo sepa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Banquete y el Honor</h5>
+<ul>
+    <li><strong>Honor a Invitados:</strong> Los anfitriones mostraban respeto al invitado dándole la mejor porción de comida.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Elección de Dios:</strong> Dios usa una circunstancia trivial (la búsqueda de asnas) para llevar a cabo Su plan.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El verdadero poder del vidente (Samuel) es revelar la voluntad de Dios, no solo encontrar objetos perdidos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La elección de Saúl demuestra la <span class="highlight">soberanía de Dios</span>: Dios usa las circunstancias más mundanas (unas asnas perdidas) para cumplir su plan. La unción lo separa para el oficio.</p>
                 
@@ -8271,7 +14012,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unción Pública:</strong> Saúl es elegido por sorteo (divinamente guiado)</li>
                     <li><strong>Humildad de Saúl:</strong> Se esconde antes de ser proclamado rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Las Señales de la Realeza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Éxtasis Profético y el Sorteo Público</h5>
+<ul>
+    <li><strong>Tres Señales Proféticas:</strong> Samuel da tres señales a Saúl para confirmar su autoridad, incluyendo el encuentro con un grupo de profetas.</li>
+    <li>**Éxtasis Profético:** Saúl se une al grupo de profetas y **"profetiza"** (entra en éxtasis) cuando el Espíritu de Dios viene sobre él. Esto confiere un carisma visible.</li>
+    <li>**La Cueva de la Escondida:** Saúl se esconde entre el equipaje, mostrando su humildad inicial (o su timidez).</li>
+    <li>**El Sorteo Público:** Samuel reúne al pueblo en Mizpa y echa suertes para elegir al rey (la forma de asegurar que la elección sea divina).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Elección de Reyes</h5>
+<ul>
+    <li><strong>Aclamación:</strong> Los reyes eran elegidos por aclamación, linaje o a menudo por la fuerza militar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Elección y Carisma:** El sorteo legitima públicamente a Saúl, y el éxtasis profético le da autoridad carismática (el Espíritu de Dios).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La frase "Saúl también está entre los profetas" sugiere que la unción profética no es exclusiva de los líderes religiosos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La profecía de Saúl establece un precedente: el **rey debe ser lleno del Espíritu** para gobernar. El Espíritu le da el "corazón nuevo" (autoridad) que necesita para el liderazgo.</p>
                 
@@ -8303,7 +14066,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder del Espíritu:</strong> Saúl es lleno del Espíritu para la acción militar</li>
                     <li><strong>Unificación:</strong> El peligro une a las tribus bajo el nuevo rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Llamado a la Guerra Santa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Heraldo de Guerra y la Venganza</h5>
+<ul>
+    <li>**Asedio de Jabes de Galaad:** Nahás el amonita asedia Jabes de Galaad.</li>
+    <li>**El Oprobio (Burla):** Nahás exige sacar el ojo derecho a los hombres de Jabes como condición de rendición (un acto de burla y deshonra que también los inutilizaba para la guerra).</li>
+    <li>**El Heraldo de Guerra:** Saúl (llevado por el Espíritu de Dios) corta un **par de bueyes** y envía los pedazos a todas las tribus como un heraldo, convocándolos a la guerra.</li>
+    <li>**Consolidación del Reino:** La victoria sobre Amón consolida la realeza de Saúl y disipa las dudas de quienes lo habían despreciado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra Militar</h5>
+<ul>
+    <li><strong>Mutilación:</strong> Mutilar o deshonrar a los prisioneros o a los rendidos era una práctica común de terror militar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Unción y Carisma:** El Espíritu de Dios da a Saúl la ira y la autoridad necesarias para actuar como líder militar, no solo como un rey.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El rey es la herramienta de Dios para defender a Su pueblo de la amenaza extranjera.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La victoria de Saúl demuestra que la <span class="highlight">autoridad real viene con el poder de Dios</span> para librar a Israel de los enemigos. El acto de liberación sella el compromiso del pueblo con Saúl.</p>
                 
@@ -8335,7 +14120,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oración:</strong> Samuel promete no cesar de orar por el pueblo</li>
                     <li><strong>Señal:</strong> Dios envía lluvia en el tiempo de la siega (milagro) para validar las palabras de Samuel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Discurso de Despedida de Samuel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Rendición de Cuentas</h5>
+<ul>
+    <li>**Justificación de Samuel:** Samuel (ahora anciano) hace un juramento público de que nunca tomó dinero, propiedad o buey de nadie, pidiendo a Israel que testifique (una rendición de cuentas).</li>
+    <li>**La Alianza Reafirmada:** Samuel les recuerda la historia de la redención y cómo su demanda de un rey fue un pecado.</li>
+    <li>**Señal del Trueno:** Samuel pide a Dios que envíe **trueno y lluvia en la época de la cosecha** (en verano, cuando no llovía) como prueba de que la monarquía fue un error.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Traspaso de Poder</h5>
+<ul>
+    <li><strong>Elogio de los Ancianos:</strong> Los líderes a menudo usaban discursos de despedida para asegurar su legado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**La Oración Eficaz:** El trueno y la lluvia demuestran que YHWH sigue siendo el Señor del clima y que Su autoridad es mayor que la del rey recién nombrado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Samuel se compromete a seguir intercediendo por ellos, pues el rey no elimina la necesidad del profeta.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El discurso establece que el <span class="highlight">profeta siempre tiene una autoridad superior</span> a la del rey. El rey está sujeto al mandato de Dios, y Samuel continuará su rol de intercesor y profeta.</p>
                 
@@ -8368,7 +14174,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> El reino de Saúl será quitado</li>
                     <li><strong>Desarme:</strong> Los filisteos desarman a Israel, dejándolos vulnerables</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Impaciencia y Sacrificio Ilegal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio Presidencial</h5>
+<ul>
+    <li>**Guerra y Desesperación:** Los filisteos atacan con un ejército masivo, e Israel se esconde en cuevas y fosos, y los soldados desertan.</li>
+    <li>**El Retraso de Samuel:** Samuel le dijo a Saúl que esperara siete días para ofrecer el sacrificio.</li>
+    <li>**El Pecado de Saúl:** Por impaciencia, Saúl ofrece el holocausto él mismo, asumiendo una función sacerdotal que no le correspondía (solo Samuel/sacerdotes podían hacerlo).</li>
+    <li>**Consecuencia: **Samuel anuncia el rechazo de Saúl como fundador de una dinastía real.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Monopolio de Armas</h5>
+<ul>
+    <li>**Monopolio de Hierro:** Los filisteos tenían el monopolio del hierro y obligaban a los israelitas a depender de ellos para afilar sus herramientas. Israel solo tenía espadas de bronce y herramientas agrícolas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Obediencia sobre el Ritual:** La impaciencia y desobediencia de Saúl (poner el ritual antes de la obediencia) es el primer acto de su caída.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Saúl opera por la razón militar y humana, mientras que Dios exige fe incondicional.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La desobediencia de Saúl demuestra su <span class="highlight">falta de fe y su arrogancia</span> al no esperar a Dios. La obediencia es más importante que el ritual o la urgencia militar.</p>
                 
@@ -8401,7 +14229,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Voz del Pueblo:</strong> El pueblo salva a Jonatán del juramento de Saúl</li>
                     <li><strong>Actividad de Saúl:</strong> Saúl comienza su carrera de guerra continua</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Juramento Temerario y Consulta Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juramento y el Sorteo de la Culpa</h5>
+<ul>
+    <li>**El Desafío de Jonatán:** Jonatán (hijo de Saúl) ataca sin autorización la guarnición filistea.</li>
+    <li>**Juramento de Ayuno:** Saúl pronuncia un **juramento temerario** que prohíbe a sus hombres comer hasta la noche (un voto para forzar una victoria rápida).</li>
+    <li>**El Pecado del Pueblo:** Los hombres, exhaustos y hambrientos, comen carne con sangre (violando la Ley Mosaica).</li>
+    <li>**El Sorteo de la Culpa:** Saúl usa el Urim y Tumim (mecanismo sacerdotal) para identificar al culpable del pecado (Jonatán). Jonatán es condenado a muerte por el voto de su padre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza Divina</h5>
+<ul>
+    <li><strong>Juramentos Reales:</strong> Los reyes a menudo hacían juramentos para apelar a la deidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**El Pueblo Salva al Héroe:** El pueblo rescata a Jonatán, demostrando que un juramento real debe ser anulado si amenaza al benefactor de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La piedad legalista de Saúl casi destruye la victoria que Dios había dado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Jonatán es un contraste positivo con Saúl: su <span class="highlight">fe trae la victoria</span>. La ley impuesta por Saúl (el juramento) demuestra que su liderazgo está guiado por la propia voluntad, no por la sabiduría divina.</p>
                 
@@ -8434,7 +14284,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Rechazo Total:</strong> Dios quita la unción de Saúl</li>
                     <li><strong>Duelo:</strong> Samuel llora por Saúl, pero obedece el juicio de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Anatema Quebrantado y el Rechazo Definitivo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra del Anatema (Herem)</h5>
+<ul>
+    <li>**Guerra contra Amalec:** Dios ordena a Saúl la destrucción total de los amalecitas (**anatema** o *herem*), incluyendo todo el ganado (un juicio por su ataque a Israel en el desierto).</li>
+    <li>**La Desobediencia de Saúl:** Saúl perdona a Agag (el rey) y el mejor ganado.</li>
+    <li>**El Pretexto:** Saúl justifica su desobediencia alegando que el ganado sería sacrificado a YHWH.</li>
+    <li>**La Sentencia:** Samuel pronuncia la famosa sentencia: **"Ciertamente, el obedecer es mejor que el sacrificar, y el prestar atención que la grosura de los carneros."**</li>
+    <li>**El Desgarro del Manto:** Saúl agarra el manto de Samuel, y este se rasga, simbolizando el desgarro del reino.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Saqueo</h5>
+<ul>
+    <li>**Saqueo:** Los reyes a menudo guardaban el mejor botín (incluido el rey enemigo) para su desfile de victoria personal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Rechazo Final:** Saúl es rechazado definitivamente como rey de Israel por su desobediencia y su intento de anteponer su piedad personal a la orden divina.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La obediencia total y sin reservas es la máxima forma de adoración a YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La desobediencia de Saúl es vista como <span class="highlight">rebelión, adivinación e idolatría</span> (15:23). El principio de que la obediencia es superior al ritual es el mensaje central del profeta al rey.</p>
                 
@@ -8466,7 +14339,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unción Profética:</strong> David es ungido en secreto por el profeta</li>
                     <li><strong>Transferencia del Espíritu:</strong> El Espíritu de Dios abandona a Saúl y viene a David</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Unción de David y el Uso de la Música</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Unción Secreta y el Espíritu</h5>
+<ul>
+    <li>**La Unción Secreta:** Samuel unge a David (el más joven de los hijos de Jesé, un pastor) en un acto secreto ante su familia, para que el pueblo no lo sepa.</li>
+    <li>**Criterio Divino:** Dios le dice a Samuel: **"YHWH no mira lo que el hombre mira; pues el hombre mira la apariencia exterior, pero YHWH mira el corazón."**</li>
+    <li>**El Espíritu de YHWH:** El Espíritu de YHWH se aparta de Saúl y viene sobre David.</li>
+    <li>**El Mal Espíritu:** Un **"mal espíritu de parte de YHWH"** atormenta a Saúl (posiblemente un estado de depresión profunda o locura, usado como juicio).</li>
+    <li>**Música Terapéutica:** Los siervos de Saúl le recomiendan buscar a alguien que toque el arpa para calmar su espíritu.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Música y la Realeza</h5>
+<ul>
+    <li>**Músicos de la Corte:** Era común que los reyes tuvieran músicos y poetas para entretenerlos y elevar su moral.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**El Pastor-Rey:** La elección de David (un pastor humilde) rompe el molde de la realeza basada en la fuerza y la apariencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El contraste entre el espíritu que abandona a Saúl y el que se posa en David marca la transferencia de la autoridad real.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El contraste es claro: Saúl fue elegido por la apariencia; David por el corazón. La elección de David es el <span class="highlight">triunfo del espíritu sobre la carne</span>. </p>
                 
@@ -8499,7 +14395,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Honra de Dios:</strong> David lucha para que el mundo sepa que "hay Dios en Israel"</li>
                     <li><strong>Rechazo a Saúl:</strong> David rechaza la armadura de Saúl (su método humano de guerra)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Duelo de Campeones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Confianza en YHWH</h5>
+<ul>
+    <li>**El Desafío de Campeones:** El filisteo Goliat (un gigante) desafía a Israel a un duelo. Esto era común para evitar una batalla masiva (reducir bajas).</li>
+    <li>**Armas de Goliat:** Goliat usa armadura de **bronce/cobre** y una pesada lanza (la tecnología militar más avanzada).</li>
+    <li>**El Arma de David:** David se niega a usar la armadura de Saúl. Usa una **honda** y cinco piedras (arma de pastor o cazador) y su fe en el Dios de Israel.</li>
+    <li>**El Juramento de David:** David declara que "toda la tierra sabrá que hay Dios en Israel" y que la batalla es de YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Duelo y la Honda</h5>
+<ul>
+    <li>**La Honda:** Era un arma de precisión muy letal, capaz de golpear a un objetivo con gran fuerza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Fe sobre la Fuerza:** David no lucha por su propia gloria, sino por el honor de YHWH, haciendo de esta una guerra teológica.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La victoria de David establece su credibilidad como líder y la evidencia del poder de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La victoria de David es un poderoso acto de <span class="highlight">fe en el nombre de Dios</span>. Demuestra que el poder espiritual es mayor que la fuerza militar o la lógica humana.</p>
                 
@@ -8532,7 +14450,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad de David:</strong> David actúa prudentemente y con éxito</li>
                     <li><strong>Matrimonio:</strong> David se casa con Mical, hija de Saúl</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Celos Reales y el Pacto de Amistad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto de Lealtad</h5>
+<ul>
+    <li>**Pacto de Jonatán:** Jonatán (hijo de Saúl) y David hacen un pacto de lealtad. Jonatán da a David su **manto, túnica, espada y arco** (un acto simbólico de transferencia de estatus y respeto).</li>
+    <li>**Celos Reales:** Saúl se vuelve celoso por la popularidad de David ("diez miles").</li>
+    <li>**La Dote (Mical):** Saúl promete a David su hija Mical a cambio de **100 prepucios filisteos** (un precio de dote inusual y peligroso, un intento de que David muriera).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza y el Matrimonio</h5>
+<ul>
+    <li>**Dote de Guerra:** Las dotes se pagaban con bienes o riquezas. La exigencia de prepucios era una burla a los incircuncisos filisteos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Fidelidad de Jonatán:** La amistad de Jonatán y David (un pacto de por vida) es más fuerte que la lealtad real.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La bendición de Dios sobre David se manifiesta en su éxito y la fidelidad de sus amigos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La amistad de Jonatán es un acto de <span class="highlight">sumisión al plan de Dios</span>, renunciando a su propio derecho al trono. El odio de Saúl demuestra que ha perdido el Espíritu y el favor divino.</p>
                 
@@ -8564,7 +14503,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Poder Profético:</strong> El Espíritu de Dios impide que Saúl cumpla su plan de asesinato</li>
                     <li><strong>La Paradoja de Saúl:</strong> Aún con el Espíritu de Dios profetizando, no se arrepiente</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Huida y el Ídolo Doméstico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Profecía y el Santuario</h5>
+<ul>
+    <li>**Mical y el Terafim:** Mical (esposa de David, hija de Saúl) lo ayuda a escapar, poniendo un **terafim** (ídolo doméstico, a menudo del tamaño de un hombre) en la cama para simular que David está enfermo.</li>
+    <li>**La Persecución:** La persecución de Saúl se vuelve pública y violenta.</li>
+    <li>**La Escuela de Profetas:** David se une a Samuel en **Naiot de Ramá** (un centro profético).</li>
+    <li>**La Locura de Saúl:** Los mensajeros de Saúl y luego él mismo son afectados por el Espíritu de Dios y **profetizan** (entran en éxtasis) en presencia de Samuel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ídolos Domésticos (Terafim)</h5>
+<ul>
+    <li>**Terafim:** Eran usados para asegurar la herencia y la prosperidad, incluso en la casa de la hija del rey (sincretismo religioso).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**El Espíritu Protege:** La presencia del Espíritu de Dios en la escuela de profetas protege a David de la persecución de Saúl.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La realeza de Saúl no le da inmunidad a la influencia del profeta y el Espíritu de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El hecho de que Saúl profetice subraya que el <span class="highlight">don del Espíritu no garantiza la piedad</span> ni el arrepentimiento. El exilio de David lo prepara para ser rey mediante el sufrimiento.</p>
                 
@@ -8597,7 +14558,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Furia de Saúl:</strong> Saúl intenta matar a su propio hijo por defender a David</li>
                     <li><strong>Separación:</strong> La despedida final de los dos amigos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pacto de Sangre y la Mesa del Rey</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Fiesta de la Luna Nueva y el Juramento</h5>
+<ul>
+    <li>**Fiesta de la Luna Nueva:** Saúl esperaba que David estuviera en la mesa real para esta fiesta religiosa anual.</li>
+    <li>**La Mentira de Jonatán:** Jonatán miente a su padre sobre la ausencia de David, diciendo que fue a un sacrificio familiar en Belén.</li>
+    <li>**El Ritual de la Flecha:** Jonatán y David diseñan una señal secreta utilizando flechas: si el sirviente las encuentra más allá de él, David debe huir.</li>
+    <li>**Pacto de Amistad Duradero:** El pacto entre Jonatán y David se extiende a sus descendientes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Pactos</h5>
+<ul>
+    <li><strong>Vínculo Familiar:</strong> Los pactos de amistad se sellaban con juramentos formales para asegurar la lealtad mutua.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Lealtad al Ungido:** Jonatán elige la lealtad al ungido de YHWH (David) sobre la lealtad a su propio padre y el derecho a su trono.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El amor de Jonatán por David es un reflejo del *hesed* (lealtad del pacto) que debe existir entre el pueblo de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El pacto de Jonatán es un acto de <span class="highlight">obediencia a la voluntad de Dios</span>, valorando la vida de David por encima de su propia ambición. Es un modelo de lealtad sacrificial.</p>
                 
@@ -8629,7 +14612,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Simulación:</strong> David finge locura para salvar su vida</li>
                     <li><strong>Arma:</strong> David recupera la espada de Goliat (símbolo de su victoria)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pan de la Proposición y la Locura</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pan Sagrado</h5>
+<ul>
+    <li>**El Pan de la Proposición:** David huye a Nob y se encuentra con el sacerdote Ahimelec. Pide comida y el sacerdote le da el pan sagrado (el pan de la proposición), que solo los sacerdotes podían comer.</li>
+    <li>**Condición de Pureza:** El pan se entrega con la condición de que los hombres de David se hayan mantenido ritualmente puros (sin contacto con mujeres).</li>
+    <li>**La Espada de Goliat:** David toma la espada de Goliat (guardada como trofeo en el santuario).</li>
+    <li>**La Simulación de Locura:** David huye a Gat (la ciudad de Goliat) y simula locura (babear, rascar la pared) para escapar del rey Aquis.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Trofeos y la Locura</h5>
+<ul>
+    <li><strong>La Locura:</strong> Los locos a menudo eran protegidos o vistos como personas bendecidas/malditas por los dioses, y la ley no los castigaba.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Necesidad Humana vs. Ley:** Jesús luego citaría el acto de David como un ejemplo de que la necesidad humana puede tomar precedencia sobre la ley ceremonial.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La vida de David se convierte en la de un fugitivo, marcada por el peligro y la necesidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El acto de David al comer el pan sagrado (legalmente prohibido) subraya el principio de que la <span class="highlight">misericordia es superior a la ley ceremonial</span> cuando se trata de la necesidad de vida.</p>
                 
@@ -8662,7 +14667,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio de Saúl:</strong> La masacre de los sacerdotes es el clímax de la maldad de Saúl</li>
                     <li><strong>El Sacerdocio en Exilio:</strong> Abiatar trae el Efod a David (legitimidad sacerdotal)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Cueva de Adulam y la Masacre del Sacerdocio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Bandidaje y la Venganza</h5>
+<ul>
+    <li>**La Cueva de Adulam:** David se convierte en líder de un grupo de **400 hombres** (forajidos, endeudados, descontentos). Esto forma el núcleo de su futuro ejército.</li>
+    <li>**Masacre de Nob:** Saúl se entera de la ayuda del sacerdote Ahimelec a David y ordena la masacre de 85 sacerdotes de Nob.</li>
+    <li>**El Perro Guardián:** Doeg el edomita (un extranjero) es el único que obedece la orden de Saúl.</li>
+    <li>**Escape de Abiatar:** Abiatar, hijo de Ahimelec, escapa y se une a David, llevando el **efod** (el instrumento para consultar a YHWH).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Grupos de Forajidos</h5>
+<ul>
+    <li>**Bandas de Lucha:** El liderazgo de David de un grupo de forajidos es similar al de los *hapiru* (grupos de bandidos itinerantes) mencionados en documentos egipcios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Juicio y Fidelidad:** La masacre de Nob cumple el juicio profetizado contra la casa de Elí. La fidelidad de Abiatar asegura que David tenga acceso al consejo divino.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> David se convierte en el protector del sacerdocio fiel, mientras que Saúl se convierte en el enemigo del sacerdocio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El ataque a los sacerdotes de Nob es el <span class="highlight">peor crimen de Saúl</span> y sella su destino. David, ahora con un sacerdote y un ejército de marginados, se convierte en el verdadero rey en el exilio.</p>
                 
@@ -8695,7 +14722,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad de Jonatán:</strong> Anima a David con la esperanza de que reinará</li>
                     <li><strong>Persecución Extrema:</strong> Saúl busca a David "día tras día"</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Efod y la Traición</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Consulta Divina</h5>
+<ul>
+    <li>**Consulta del Efod:** David consulta a YHWH usando el **efod** (traído por Abiatar) para saber si debe liberar a Keila de los filisteos.</li>
+    <li>**Liberación de Keila:** David libera a Keila. Luego consulta el efod para saber si la gente de Keila lo traicionará y lo entregará a Saúl.</li>
+    <li>**Traición de Zif:** La gente de Zif intenta traicionar a David, informando a Saúl de su paradero.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Entrega de Fugitivos</h5>
+<ul>
+    <li>**Protección de la Ciudad:** El asilo en una ciudad implicaba que la gente lo protegería; la intención de Keila y Zif de entregarlo muestra la corrupción.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Guía Divina:** David opera exclusivamente bajo la guía directa de YHWH, utilizando el efod para tomar decisiones.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La traición humana (Keila y Zif) contrasta con la fidelidad y el consejo de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La dependencia de David del Efod demuestra que el <span class="highlight">liderazgo ungido se guía por la Palabra de Dios</span>, no por la astucia o el poder. La fidelidad de Jonatán es el único rayo de luz en la corte de Saúl.</p>
                 
@@ -8728,7 +14776,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Magnanimidad:</strong> David perdona a su enemigo</li>
                     <li><strong>Profecía:</strong> Saúl reconoce que David será rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Respeto por el Ungido</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ungido de YHWH y el Manto</h5>
+<ul>
+    <li>**La Cueva de En-gadi:** Saúl entra en la cueva donde David y sus hombres están escondidos.</li>
+    <li>**El Respeto por el Rey:** David se niega a matar a Saúl, porque es **"el ungido de YHWH"** (la consagración es inviolable, incluso si el ungido es malvado).</li>
+    <li>**El Rito de Cortar el Manto:** David corta secretamente el borde del manto de Saúl (el *kanaf*). Esto es una prueba de que tuvo la vida del rey en sus manos.</li>
+    <li>**El Juramento de David:** Saúl hace jurar a David que no exterminará a su descendencia (reconociendo la futura realeza de David).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Honor Real</h5>
+<ul>
+    <li>**La Venganza: **Era común matar al enemigo cuando se tenía la oportunidad (la ley del talión).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Justicia en las Manos de Dios:** David deja el juicio y la vindicación en manos de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La paciencia de David al esperar el tiempo de Dios contrasta con la impaciencia de Saúl.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El acto de David es el sello de su <span class="highlight">integridad moral</span>, probando que no tomará el trono por la fuerza. El respeto por el ungido de Dios es un principio fundamental de la monarquía davídica.</p>
                 
@@ -8762,7 +14832,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sabiduría:</strong> Abigail convence a David de no pecar</li>
                     <li><strong>Matrimonio:</strong> David se casa con Abigail (su sabiduría la salva)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Banquete de Esquila y la Dote</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Banquete, la Viuda y el Matrimonio</h5>
+<ul>
+    <li>**Muerte de Samuel:** La muerte de Samuel (el profeta) marca el fin de una era.</li>
+    <li>**El Banquete de Esquila:** La esquila de ovejas era una época de fiesta (similar a una cosecha) donde se daban regalos y provisiones. David pide una contribución.</li>
+    <li>**La Insensibilidad de Nabal:** Nabal (rico pero "insensato") se niega a reconocer o pagar el "servicio de protección" de David.</li>
+    <li>**La Intervención de Abigail:** Abigail (la esposa de Nabal) interviene con un gran regalo de comida, asumiendo la responsabilidad de su esposo.</li>
+    <li>**Matrimonio por Servicio:** David se casa con Abigail después de la muerte de Nabal (un matrimonio por la seguridad que ella le proporcionó).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Protección Mafiosa</h5>
+<ul>
+    <li>**Protección: **Los grupos de bandidos a menudo exigían pago por proteger los rebaños de otros (protección o extorsión).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Sabiduría Femenina:** La sabiduría y la piedad de Abigail evitan que David cometa un pecado de venganza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios interviene con juicio directo sobre Nabal, salvando a David de tomar venganza personal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Abigail intercede para que David no cometa el pecado de la venganza por su propia mano. Ella es un <span class="highlight">instrumento de Dios</span> que preserva la integridad moral del futuro rey.</p>
                 
@@ -8794,7 +14887,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prueba de Integridad:</strong> David demuestra que no tomará el trono por la fuerza</li>
                     <li><strong>Despertar de Saúl:</strong> Saúl se arrepiente momentáneamente y reconoce su pecado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Cántaro y la Lanza (Segundo Perdón)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ungido Inviolable</h5>
+<ul>
+    <li>**El Voto de Silencio:** David vuelve a tener la oportunidad de matar a Saúl, esta vez en el campamento mientras duerme.</li>
+    <li>**El Lance y el Cántaro:** David toma la **lanza y el cántaro de agua** del lado de Saúl. Estos objetos eran símbolos del poder real.</li>
+    <li>**La Prueba del Perdón:** Al tomar estos objetos, David demuestra que pudo haber matado al rey, pero no lo hizo.</li>
+    <li>**La Condena:** David reitera que Saúl será castigado por la mano de YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Botín Simbólico</h5>
+<ul>
+    <li>**Trofeos Personales:** Tomar un objeto personal del enemigo era la prueba definitiva de la victoria o el dominio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Pacto Inquebrantable:** David mantiene el respeto por la consagración de Saúl, incluso cuando Saúl le persigue por segunda vez.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> David es un ejemplo de cómo esperar el tiempo de Dios para la venganza y la justicia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La lanza y la jarra de agua que David toma simbolizan la <span class="highlight">autoridad y la vida de Saúl</span> que estaban en la mano de David. David entrega el juicio a Dios.</p>
                 
@@ -8826,7 +14941,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vida de Engaño:</strong> David miente para mantener la confianza de Aquis</li>
                     <li><strong>Incursiones:</strong> David ataca a enemigos de Israel, no de Filistea</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: David se convierte en Vasallo Filisteo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Doble Vida y el Asilo Político</h5>
+<ul>
+    <li>**El Vasallaje:** David huye a Gat con su compañía (600 hombres) y se convierte en vasallo del rey Aquis de Gat (un acto de desesperación).</li>
+    <li>**La Ciudad de Siclag:** Aquis le da a David la ciudad de **Siclag** como base.</li>
+    <li>**Engaño de David:** David le miente a Aquis sobre dónde está atacando. Le dice que ataca al sur de Judá (sus propios parientes), pero en realidad ataca a los gesuritas y amalecitas.</li>
+    <li>**El Falso Juramento:** David mata a todos los habitantes para que no quede nadie que pueda delatarlo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Lealtad al Señor</h5>
+<ul>
+    <li>**Vasallaje:** Los vasallos prometían fidelidad militar al señor a cambio de protección y territorio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Compromiso Moral:** David, el futuro rey de Israel, se ve forzado a un compromiso moral y estratégico para sobrevivir a la persecución de Saúl.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Incluso en la necesidad, la mentira y el engaño de David muestran un momento de debilidad moral.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La huida a Ziclag es un signo de <span class="highlight">debilidad en la fe de David</span>. Aunque su engaño es pragmático, demuestra que no está completamente libre de la manipulación y el temor.</p>
                 
@@ -8859,7 +14996,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Profecía de Muerte:</strong> Samuel confirma el juicio de Dios contra Saúl</li>
                     <li><strong>Desesperación:</strong> El estado de Saúl, desesperado por la falta de guía divina</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Saúl y la Nigromancia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Prohibición del Contacto con Espíritus</h5>
+<ul>
+    <li>**Abandono de Dios:** Saúl consulta a YHWH y no recibe respuesta (ni por sueños, ni por el Urim y Tumim, ni por profetas).</li>
+    <li>**Prohibición de la Nigromancia:** La Ley Mosaica prohíbe estrictamente la **nigromancia** (consulta de los muertos) y las hechiceras.</li>
+    <li>**La Adivina de Endor:** Saúl se disfraza y consulta a la adivina de Endor para invocar al espíritu de Samuel.</li>
+    <li>**La Aparición de Samuel:** El espíritu de Samuel se aparece y anuncia el inminente juicio (la muerte de Saúl y la derrota de Israel).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adivinación y la Hechicería</h5>
+<ul>
+    <li>**Oráculos Necrománticos:** La consulta a los espíritus de los muertos era común para predecir el futuro en las culturas circundantes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Desesperación de Saúl:** El acto de Saúl es la manifestación de su total desesperación y su rechazo final a la Ley de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La desobediencia de Saúl al prohibir y luego practicar la nigromancia sella su destino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El acto de Saúl es la <span class="highlight">culminación de su apostasía</span>, recurriendo al pecado más grave contra el Pacto. La desesperación de Saúl es el juicio de Dios por su desobediencia.</p>
                 
@@ -8891,7 +15050,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Conflicto Moral:</strong> David se salva de luchar contra su propio pueblo y contra el ungido de Dios</li>
                     <li><strong>Engaño:</strong> Aquis todavía cree las mentiras de David</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Desconfianza y Vasallaje</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Lealtad Cuestionable</h5>
+<ul>
+    <li>**La Guerra Filistea:** Los filisteos se reúnen para atacar a Israel. David y sus 600 hombres (como vasallos de Aquis) deben participar en la batalla.</li>
+    <li>**Desconfianza de los Príncipes:** Los otros príncipes filisteos (sátrapas) desconfían de David, temiendo que se vuelva contra ellos en la batalla para reconciliarse con Saúl.</li>
+    <li>**La Despedida:** Aquis, a regañadientes, envía a David de vuelta a Siclag.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Fuerza Mercenaria</h5>
+<ul>
+    <li>**Mercenarios:** Los ejércitos a menudo empleaban mercenarios (como David y su compañía). La lealtad era siempre cuestionable.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Provocación Divina:** La desconfianza de los filisteos salva a David de tener que luchar contra su propio pueblo y su ungido.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios usa la desconfianza pagana para proteger a Su futuro rey.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La desconfianza filistea es la <span class="highlight">providencia de Dios</span> que protege la integridad moral de David. Dios usa a los enemigos de Israel para evitar que David mate al ungido.</p>
                 
@@ -8924,7 +15104,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Consulta al Efod:</strong> David consulta a Dios antes de la acción militar</li>
                     <li><strong>Reparto Equitativo:</strong> La ley de que los que se quedan con el equipo reciben la misma porción que los que van a la batalla</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Saqueo y la División del Botín</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Consulta y la Justicia Militar</h5>
+<ul>
+    <li>**Saqueo Amalecita:** Los amalecitas atacan Siclag, quemándola y llevando cautivas a las familias.</li>
+    <li>**Consulta del Efod:** David consulta inmediatamente el efod (a través de Abiatar) para saber si debe perseguir a los amalecitas.</li>
+    <li>**División del Botín:** Después de la victoria, David establece una ley militar: aquellos que se quedan a cuidar el equipaje reciben la misma parte del botín que los que fueron a la batalla.</li>
+    <li>**Regalos a los Ancianos:** David envía parte del botín a los ancianos de Judá (sus futuros súbditos) para asegurar su lealtad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Botín Desigual</h5>
+<ul>
+    <li>**División Desigual:** En la mayoría de los ejércitos, los soldados que luchaban obtenían una parte mayor del botín que los que no luchaban.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Justicia y Equidad:** La ley de David sobre la división del botín establece un precedente de equidad y justicia en su futuro reino.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La consulta de Dios por medio del efod asegura que la victoria y la justicia vengan de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La victoria de Ziclag es un <span class="highlight">triunfo del liderazgo de David</span> sobre su debilidad anterior. La ley del reparto equitativo es un principio de justicia y unidad para su futuro reino.</p>
                 
@@ -8957,7 +15159,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Suicidio Real:</strong> Saúl se mata para no ser humillado por los filisteos</li>
                     <li><strong>Lealtad:</strong> Los hombres de Jabes honran al rey que los liberó</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Muerte en la Batalla y Deshonra del Cuerpo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio Cumplido y el Respeto Final</h5>
+<ul>
+    <li>**Derrota en Gilboa:** Israel es derrotado por los filisteos en el monte Gilboa. Los hijos de Saúl mueren.</li>
+    <li>**El Suicidio Asistido:** Saúl pide a su escudero que lo mate para no caer en manos de los filisteos incircuncisos (un acto de desesperación para evitar la tortura).</li>
+    <li>**Deshonra Post-Muerte:** Los filisteos cortan la cabeza de Saúl y cuelgan su cuerpo y los de sus hijos en el muro de **Bet-sán** (un acto de deshonra y terror público).</li>
+    <li>**Recuperación del Cuerpo:** Los hombres de Jabes de Galaad (a quienes Saúl había salvado al principio de su reinado) recuperan los cuerpos y los queman.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra</h5>
+<ul>
+    <li>**Exhibición:** Exhibir el cuerpo del rey enemigo era una señal de victoria total.</li>
+    <li>**Incineración:** Los israelitas generalmente enterraban los cuerpos. La quema se hacía para evitar una mayor deshonra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li>**Lealtad al Ungido:** La lealtad final de Jabes de Galaad honra el inicio de la realeza de Saúl, a pesar de su trágico final.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro cierra con el cumplimiento del juicio profético sobre Saúl, abriendo el camino para la ascensión de David.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La muerte de Saúl es el <span class="highlight">juicio final de Dios</span> por su desobediencia y su intento de destruir a David. El libro termina en la desesperación para Israel, preparando el ascenso de David.</p>
                 
@@ -8991,7 +15216,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lamento Poético:</strong> El canto de David es una de las grandes obras poéticas de la Biblia</li>
                     <li><strong>Duelo Genuino:</strong> David lamenta la pérdida de su amigo Jonatán y de su rey Saúl</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Luto Real y el Heraldo de la Muerte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Luto Real</h5>
+<ul>
+    <li><strong>La Noticia:</strong> Un amalecita (un enemigo hereditario) trae la noticia de la muerte de Saúl y Jonatán a David en Siclag.</li>
+    <li><strong>El Trofeo:</strong> El amalecita toma la corona (diadema) y el brazalete de Saúl. Estos eran símbolos de la realeza y su posesión era prueba de la muerte del rey.</li>
+    <li><strong>El Luto de David:</strong> David y sus hombres rasgan sus ropas y ayunan hasta la noche. Estos eran los ritos de luto más profundos en la cultura israelita.</li>
+    <li><strong>La Ejecución:</strong> David ejecuta al amalecita por "extender su mano contra el ungido de YHWH".</li>
+    <li><strong>La Elegía (Endecha de David):</strong> David entona una elegía por Saúl y Jonatán (el Cántico del Arco), un género literario de lamento común para conmemorar a los grandes líderes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Militares del Heraldo</h5>
+<ul>
+    <li><strong>Recompensa:</strong> Los heraldos esperaban una gran recompensa por traer noticias al nuevo aspirante al trono.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Respeto al Ungido:</strong> David demuestra que el respeto por la unción de Saúl es absoluto, incluso después de su muerte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> David establece su legitimidad honrando a su predecesor y castigando a quien afirmó haberlo matado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El acto de David de ejecutar al amalecita sella su <span class="highlight">integridad moral</span>: no obtendrá el trono por la fuerza, y el ungido de Dios es sagrado incluso en la muerte.</p>
                 
@@ -9025,7 +15273,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ungimiento:</strong> David es reconocido por su propia tribu</li>
                     <li><strong>Guerra Civil:</strong> El conflicto entre los leales a Saúl y los leales a David</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Coronación Tribal y Guerra Civil</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sucesión</h5>
+<ul>
+    <li><strong>Consulta a YHWH:</strong> David consulta a YHWH antes de ir a cualquier lugar (una práctica constante que lo diferencia de Saúl).</li>
+    <li><strong>Coronación en Hebrón:</strong> David es ungido rey **solo de Judá** en Hebrón (la antigua ciudad de los patriarcas).</li>
+    <li><strong>Recompensa:</strong> David honra a los hombres de Jabes de Galaad por haber recuperado y enterrado dignamente los cuerpos de Saúl y sus hijos.</li>
+    <li><strong>El Rival (Is-boset):</strong> Abner (comandante del ejército de Saúl) corona a **Is-boset** (hijo de Saúl) como rey de Israel en Mahanaim (Transjordania).</li>
+    <li><strong>El Duelo de Doce:</strong> Los hombres de Abner y Joab se enfrentan en Gabaón, decidiendo el liderazgo con un "juego" mortal de 12 contra 12 (un duelo de campeones).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra Civil</h5>
+<ul>
+    <li><strong>Asesinato de Asahel:</strong> Asahel (hermano de Joab) es asesinado por Abner en defensa propia (aunque bajo la ley de venganza de sangre, Joab es libre de buscar justicia).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Reino Dividido:</strong> La coronación dual establece una guerra civil de siete años y medio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> David espera el tiempo de Dios para unificar el reino, mientras que Abner fuerza la continuación de la casa de Saúl.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La guerra civil es una manifestación del <span class="highlight">juicio de Dios</span> sobre la casa de Saúl. La unificación de Israel se retrasará por el orgullo y la lealtad a la antigua dinastía.</p>
                 
@@ -9058,7 +15329,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Violencia de Joab:</strong> Joab actúa por venganza, complicando la política de David</li>
                     <li><strong>Integridad de David:</strong> David se lamenta por Abner, demostrando inocencia</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Alianzas por Matrimonio y Venganza de Sangre</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Harem y la Transferencia de Poder</h5>
+<ul>
+    <li><strong>El Harem de David:</strong> David toma más esposas e hijos nacen en Hebrón. La toma de concubinas y esposas era una práctica para asegurar alianzas políticas.</li>
+    <li><strong>La Posesión de Concubinas:</strong> Abner toma a Rizpa (concubina de Saúl). Tomar las esposas o concubinas del rey predecesor era un acto simbólico de reclamar el trono.</li>
+    <li><strong>La Negociación:</strong> Abner negocia con David para entregarle el reino a cambio de inmunidad. David exige la devolución de **Mical** (su esposa, hija de Saúl) para legitimar su reclamo.</li>
+    <li><strong>La Venganza de Sangre:</strong> Joab asesina a Abner en la puerta de Hebrón (un acto deshonroso) en venganza por la muerte de su hermano Asahel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Asesinato Político</h5>
+<ul>
+    <li><strong>Asilo en la Puerta:</strong> La puerta de la ciudad era un lugar de juicio y asilo; asesinar allí era una profanación de la justicia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Luto y Desaprobación:</strong> David realiza un luto público por Abner y se niega a comer, para que el pueblo sepa que no aprobó el asesinato de Joab.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> David debe equilibrar la ley de la venganza de sangre de Joab con la necesidad de paz en el reino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El asesinato de Abner muestra que la <span class="highlight">violencia y el pecado</span> (el juicio sobre la casa de Saúl) siguen presentes incluso en la casa de David. David debe lidiar con la maldad de sus propios generales.</p>
                 
@@ -9090,7 +15383,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia de David:</strong> David castiga el asesinato de un hombre inocente</li>
                     <li><strong>Unificación Inminente:</strong> La ausencia de un sucesor de Saúl acelera la unificación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Regicidio y la Ley del Sucesor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Justicia del Rey</h5>
+<ul>
+    <li><strong>El Asesinato de Is-boset:</strong> Recab y Baana (jefes de bandas) asesinan a Is-boset (rey de Israel) mientras duerme la siesta (un momento de vulnerabilidad).</li>
+    <li><strong>La Recompensa Esperada:</strong> Llevan la cabeza de Is-boset a David, esperando ser recompensados por poner fin a la guerra civil.</li>
+    <li><strong>El Castigo:</strong> David ejecuta a los asesinos.</li>
+    <li><strong>La Lección:</strong> El castigo por el regicidio es el mismo que para el amalecita que afirmó matar a Saúl: nadie debe tocar al ungido de YHWH, ni a su sucesor.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Terror</h5>
+<ul>
+    <li><strong>Exposición:</strong> Las manos y los pies de los asesinos son cortados y colgados para servir de advertencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia Imparcial:</strong> David consolida su trono al demostrar que su justicia está por encima de la ventaja política personal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El trono de David se establece sobre la justicia y el respeto por el oficio real, no sobre la intriga.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ejecución de los asesinos subraya la <span class="highlight">integridad de David</span> como un líder que castiga el regicidio (asesinato de reyes) y no toma el trono por el crimen, sino por la voluntad de Dios.</p>
                 
@@ -9122,7 +15437,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Jerusalén:</strong> La captura y establecimiento como capital central y neutral</li>
                     <li><strong>Expansión Militar:</strong> David derrota a los filisteos en Baal-perazim</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Rey de Todo Israel y la Conquista de Sión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Unificación y la Capital</h5>
+<ul>
+    <li><strong>Unción por Todo Israel:</strong> Las tribus de Israel vienen a David en Hebrón para hacer un pacto y ungirlo rey (la tercera unción).</li>
+    <li><strong>El Pacto:</strong> El pacto se basa en el reconocimiento de que YHWH ha designado a David como pastor de Su pueblo.</li>
+    <li><strong>La Ciudad de Jebús:</strong> David conquista **Jerusalén** (entonces Jebús, en manos de los jebuseos).</li>
+    <li><strong>La Conquista:</strong> Se conquista la ciudad subiendo por el "canal de agua" (posiblemente un túnel de agua).</li>
+    <li><strong>La Capital:</strong> Jerusalén es neutral (no pertenece a ninguna tribu) y es fortificada. Se convierte en la **Ciudad de David** (centro político y, más tarde, religioso).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Inexpugnabilidad</h5>
+<ul>
+    <li><strong>Fortalezas:</strong> Las ciudades importantes (como Sión) eran fortalezas naturales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Soberanía de YHWH:</strong> David atribuye todas sus victorias a YHWH (ej. "Baal-perazim," YHWH de las Brechas).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El establecimiento de la capital es un paso clave en el plan de Dios para centralizar Su adoración y gobierno.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La captura de Jerusalén es fundamental: el rey ungido establece la ciudad que se convertirá en el <span class="highlight">centro espiritual del mundo</span>. El éxito de David se debe a que "Jehová Dios de los ejércitos estaba con él."</p>
                 
@@ -9155,7 +15493,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Adoración Apasionada:</strong> La danza de David (humildad)</li>
                     <li><strong>Juicio:</strong> Mical es castigada con la esterilidad por despreciar la adoración</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Arca en Jerusalén y la Danza Extática</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adoración y la Pureza</h5>
+<ul>
+    <li><strong>El Arca Devuelta:</strong> David intenta llevar el Arca a Jerusalén, siguiendo el modelo filisteo (en un carro nuevo) en lugar del mandato mosaico (llevado por sacerdotes levitas).</li>
+    <li><strong>Uza y la Muerte:</strong> Uza toca el Arca (violando la Ley Mosaica) y muere. Esto interrumpe la fiesta.</li>
+    <li><strong>El Éxito:</strong> El Arca es llevada correctamente la segunda vez. David celebra con un **efod de lino** (vestimenta sacerdotal) y danza "con todas sus fuerzas".</li>
+    <li><strong>La Reproche de Mical:</strong> Mical (hija de Saúl) desprecia la danza de David (su exposición pública), argumentando que era indigno para un rey.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>Dignidad Real:</strong> La realeza se asociaba con la dignidad y la contención en público.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Adoración Apasionada:</strong> David pone la adoración a YHWH por encima de la dignidad real, afirmando que Su celebración era ante YHWH, no ante el pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La esterilidad de Mical es el castigo por su desprecio a la adoración de David.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La danza de David es un <span class="highlight">acto de humildad y adoración genuina</span>. La burla de Mical simboliza el rechazo de la casa de Saúl al espíritu del nuevo pacto davídico.</p>
                 
@@ -9187,7 +15547,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Templo Futuro:</strong> El hijo de David (Salomón) lo construirá</li>
                     <li><strong>Casa de David:</strong> Dios construirá la "casa" (dinastía) de David, no David la de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pacto Davídico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Templo y la Dinastía</h5>
+<ul>
+    <li><strong>La Idea del Templo:</strong> David quiere construir un "casa" (templo) para YHWH.</li>
+    <li>**La Promesa de Natán (El Pacto Davídico):** El profeta Natán le transmite la palabra de YHWH:
+        <ul>
+            <li>Dios no necesita una casa (templo) de David.</li>
+            <li>Dios hará de David una "casa" (dinastía).</li>
+            <li>Su linaje reinará para siempre (**trono eterno**).</li>
+            <li>Su hijo construirá la casa (templo) para YHWH.</li>
+        </ul>
+    </li>
+    <li><strong>Oración de David:</strong> David responde con humildad y agradecimiento por la promesa dinástica.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Alianza Real</h5>
+<ul>
+    <li><strong>Alianzas Vasallas:</strong> Los reyes aseguraban su poder mediante alianzas. Este pacto es incondicional y divino.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Gracia Dinástica:</strong> El pacto es unilateral y basado en la gracia de YHWH, no en la obediencia de David.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este capítulo es el fundamento teológico de la monarquía en Israel y apunta directamente al Mesías.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Pacto Davídico es la <span class="highlight">confirmación mesiánica</span>. El Mesías (Cristo) será el cumplimiento de esta promesa de un trono eterno. El pacto se basa en la gracia, no en las obras.</p>
                 
@@ -9219,7 +15607,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Tesoro:</strong> La riqueza recolectada de los enemigos derrotados</li>
                     <li><strong>Liderazgo Justo:</strong> David reina "haciendo justicia y equidad a todo su pueblo"</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Victorias y Expansión Imperial</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra y el Botín</h5>
+<ul>
+    <li><strong>Victorias Militares:</strong> David derrota a los filisteos, moabitas, sirios (Hadad-ezer) y edomitas.</li>
+    <li><strong>Tributo y Guarniciones:</strong> David establece guarniciones y obliga a las naciones a pagar tributo, expandiendo el reino a sus fronteras más grandes (promesa a Abraham).</li>
+    <li><strong>La Medida de la Soga:</strong> David mata a dos tercios de los moabitas que mide con una cuerda y perdona al otro tercio (una brutalidad que era común en la guerra).</li>
+    <li><strong>El Botín:</strong> David consagra el botín de oro, plata y bronce a YHWH.</li>
+    <li><strong>Ministros de la Corte:</strong> Se nombra a los oficiales del reino: Joab (ejército), Josafat (cronista), Sadoc y Abiatar (sacerdotes), y Seraías (secretario).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza</h5>
+<ul>
+    <li><strong>Venganza:</strong> Las guerras eran a menudo por venganza o expansión económica.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Reinado de Justicia:</strong> El reinado de David se caracteriza por el establecimiento de "juicio y justicia" a todo el pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La consagración del botín muestra que David reconoce a YHWH como la fuente de sus victorias.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las victorias y el dominio de David demuestran el <span class="highlight">cumplimiento de la promesa de la Tierra</span> y la bendición del Pacto Davídico. La justicia es la marca de su gobierno.</p>
                 
@@ -9251,7 +15662,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gracia Inmerecida:</strong> Mefiboset, un posible rival, recibe el favor real</li>
                     <li><strong>Mesa Real:</strong> Mefiboset es tratado como un hijo del rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pacto de Misericordia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Trato a los Rival</h5>
+<ul>
+    <li><strong>Pregunta por la Casa de Saúl:</strong> David busca a alguien de la casa de Saúl para mostrarle bondad (*hesed*).</li>
+    <li><strong>Mefiboset:</strong> Hijo de Jonatán, lisiado de ambos pies (una lesión que lo descalificaba para el trono).</li>
+    <li><strong>La Restauración:</strong> David le devuelve las tierras de Saúl y lo invita a **comer siempre a la mesa del rey**.</li>
+    <li><strong>El Honor de la Mesa:</strong> Comer a la mesa del rey era el mayor honor, el símbolo de ser aceptado como parte de la familia real, no como una amenaza.</li>
+    <li><strong>Ziba:</strong> Se nombra a Ziba, un siervo de Saúl con 15 hijos, para que administre la tierra para Mefiboset.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Exterminación</h5>
+<ul>
+    <li><strong>Amenaza Dinástica:</strong> Los reyes a menudo exterminaban a todos los herederos potenciales del linaje anterior para asegurar su trono.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fidelidad al Pacto:</strong> David honra su pacto con Jonatán, mostrando que la lealtad va más allá de la política.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La misericordia de David (hesed) es un espejo de la misericordia de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El trato de David a Mefiboset es un <span class="highlight">símbolo de la gracia de Dios</span>. El lisiado (pecador) es traído de la miseria (Lodebar) a la comunión y herencia real por un pacto de amor.</p>
                 
@@ -9283,7 +15717,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Estrategia Militar:</strong> La división del ejército de Joab y Abisai</li>
                     <li><strong>Victoria:</strong> El reino de David se expande aún más</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Insulto a la Realeza y Guerra de Coalición</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres Diplomáticas</h5>
+<ul>
+    <li><strong>Mensajeros de Paz:</strong> David envía mensajeros para consolar a Hanún, rey de Amón, por la muerte de su padre (un gesto de diplomacia).</li>
+    <li><strong>El Insulto:</strong> Hanún (creyendo que son espías) rapa la mitad de la barba a los mensajeros y les corta la ropa por la mitad (exponiendo sus nalgas).</li>
+    <li><strong>El Oprobio (Deshonra):</strong> El vello facial y la ropa eran símbolos de estatus y dignidad. Este es el peor insulto diplomático.</li>
+    <li><strong>Coalición:</strong> Los amonitas contratan a mercenarios arameos (sirios) de varias ciudades para luchar contra David.</li>
+</ul>
+
+<h<h5>style="color: #ff6b6b;">⚔️ Costumbres de la Guerra Mercenaria</h5>
+<ul>
+    <li><strong>Contratación:</strong> Era común que los reinos pequeños contrataran a mercenarios para defenderse de potencias más grandes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justificación de la Guerra:</strong> La guerra es totalmente justificable como respuesta a una flagrante deshonra diplomática.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El insulto diplomático conduce a la victoria de David sobre sus enemigos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La victoria es la <span class="highlight">demostración de la justicia de David</span> contra la humillación. El éxito militar continuo sienta las bases para el fatal error de David en el capítulo siguiente (la complacencia).</p>
                 
@@ -9316,7 +15772,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad vs. Traición:</strong> La fidelidad de Urías contrasta con la traición de David</li>
                     <li><strong>Encubrimiento:</strong> El plan de David para ocultar su pecado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Adulterio y Abuso de Poder</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rey Ausente</h5>
+<ul>
+    <li><strong>El Rey Ausente:</strong> David se queda en Jerusalén mientras sus ejércitos están en guerra ("en el tiempo que los reyes salen a la guerra").</li>
+    <li><strong>El Adulterio:</strong> David ve a Betsabé bañándose (un acto privado, pero visto desde la atalaya real).</li>
+    <li><strong>El Engaño:</strong> David llama a Urías (marido de Betsabé, uno de sus hombres valientes, un hitita fiel) de la batalla para que duerma con su esposa y oculte el embarazo.</li>
+    <li><strong>Fidelidad de Urías:</strong> Urías se niega a dormir en su casa mientras el Arca y Joab están en el campo de batalla.</li>
+    <li><strong>El Asesinato:</strong> David envía la orden de asesinato de Urías a Joab (su comandante) por medio del propio Urías (un plan maestro de intriga).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Autoridad Real</h5>
+<ul>
+    <li><strong>Absolutismo:</strong> El rey tenía el poder de tomar a cualquier mujer que deseara (un abuso de poder real).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fidelidad de Urías:</strong> La fidelidad de Urías a la Ley de la Guerra (pureza ritual) contrasta con la traición del rey.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El capítulo se abre con la guerra y se cierra con el matrimonio de David con Betsabé, ocultando un doble crimen.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El pecado de David es el <span class="highlight">gran fracaso moral de su reinado</span>. Su adulterio y asesinato rompen el Pacto y traen la profecía de que la espada no se apartará de su casa.</p>
                 
@@ -9350,7 +15829,36 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Divino:</strong> La muerte del niño y la profecía de problemas familiares</li>
                     <li><strong>Gracia:</strong> Dios perdona a David, pero el castigo se mantiene</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Profeta en la Corte y el Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Función Profética</h5>
+<ul>
+    <li><strong>La Parábola de Natán:</strong> El profeta Natán confronta a David con una parábola sobre el hombre rico que roba la oveja del hombre pobre (un método común para confrontar al rey sin ser ejecutado).</li>
+    <li><strong>La Sentencia de David:</strong> David pronuncia su propia condena ("el hombre que hizo esto debe morir").</li>
+    <li><strong>El Juicio:</strong> Natán anuncia la cuádruple maldición:
+        <ul>
+            <li>La espada nunca se apartará de la casa de David.</li>
+            <li>Se levantará mal de su propia casa.</li>
+            <li>Sus esposas serán tomadas públicamente.</li>
+            <li>El hijo (primero) morirá.</li>
+        </ul>
+    </li>
+    <li><strong>El Nombre (Jedidías):</strong> El segundo hijo de Betsabé se llama Salomón, pero Natán lo llama **Jedidías** ("amado de YHWH").</li>
+</ul>
+
+<h<h5>style="color: #ff6b6b;">⚔️ Costumbres de la Ejecución de Profetas</h5>
+<ul>
+    <li><strong>Ejecución:</strong> La confrontación directa con el rey a menudo conducía a la muerte del profeta.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Arrepentimiento:</strong> La confesión simple y sincera de David: "He pecado contra YHWH" resulta en el perdón del juicio de muerte sobre él.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El poder de la palabra del profeta Natán es superior al poder absoluto del rey.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El arrepentimiento de David es su <span class="highlight">mayor acto de fe</span>. La gracia de Dios es evidente en que su vida se salva, pero la justicia exige consecuencias por el pecado.</p>
                 
@@ -9383,7 +15891,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Violación y Vergüenza:</strong> El crimen de Amnón</li>
                     <li><strong>Falta de Justicia:</strong> David no castiga a Amnón, lo que perpetúa el ciclo de violencia</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Incesto, Deshonra y Venganza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Pureza Familiar</h5>
+<ul>
+    <li><strong>El Engaño:</strong> Jonadab aconseja a Amnón (hijo de David) fingir enfermedad para atraer a Tamar (su media hermana).</li>
+    <li><strong>El Crimen:</strong> Amnón viola a Tamar. Esto era un crimen capital.</li>
+    <li><strong>El Matrimonio Obligatorio:</strong> La ley exigía que el violador de una virgen no desposada se casara con ella. Amnón la echa, duplicando la deshonra.</li>
+    <li><strong>La Deshonra Pública:</strong> Tamar se rasga la vestidura de colores (vestido de hija de rey virgen) y se pone ceniza en la cabeza (luto).</li>
+    <li><strong>Venganza de Absalón:</strong> Absalón (hermano de Tamar) planea la venganza. Mata a Amnón dos años después en la fiesta de la esquila.</li>
+</ul>
+
+<h<h5>style="color: #ff6b6b;">⚔️ Costumbres de la Venganza Privada</h5>
+<ul>
+    <li><strong>Venganza:</strong> La venganza de sangre era permitida si no se hacía justicia legal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fracaso Paternal:</strong> David se enoja, pero no actúa. Su falta de acción para castigar el crimen de Amnón lleva a la venganza de Absalón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La promesa de la espada en la casa de David (juicio de Natán) comienza a cumplirse.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">violencia en la casa de David</span> es la manifestación directa del juicio de Dios. La inacción de David refleja su propia culpabilidad y debilidad moral como padre.</p>
                 
@@ -9415,7 +15946,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Manipulación:</strong> Joab usa el engaño para ablandar a David</li>
                     <li><strong>Amor Paternal:</strong> David cede a su amor por su hijo, a pesar de las consecuencias</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Intriga Legal y Retorno del Exilio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley y el Exilio</h5>
+<ul>
+    <li><strong>El Exilio de Absalón:</strong> Absalón huye a Guesur (tierra de su madre, un exilio de tres años).</li>
+    <li><strong>La Mujer Sabia de Tecoa:</strong> Joab contrata a una mujer vestida de luto para contar una parábola al rey David (sobre un hijo que mata a su hermano, el único heredero) para persuadirlo de traer a Absalón.</li>
+    <li><strong>La Justicia de Piedad:</strong> La parábola apela a la ley de David de "no aumentar el mal" (piedad sobre la estricta ley).</li>
+    <li><strong>El Retorno a Jerusalén:</strong> David permite el regreso de Absalón, pero le prohíbe ver el rostro del rey (un exilio parcial de dos años).</li>
+    <li><strong>El Cabello de Absalón:</strong> El cabello de Absalón era tan abundante que debía cortarlo anualmente, pesando 200 siclos (símbolo de su belleza y orgullo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Apariencia</h5>
+<ul>
+    <li><strong>Cabello Largo:</strong> El cabello largo y grueso era un signo de fuerza y belleza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Manipulación de Joab:</strong> Joab utiliza la ley y la emoción para manipular la decisión de David y traer de vuelta al potencial rival.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El amor y la debilidad de David como padre complican el juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El beso de David a Absalón es un <span class="highlight">acto de amor paternal y restauración</span>, pero carece de justicia. El perdón sin consecuencias (o disciplina) allana el camino para la traición de Absalón.</p>
                 
@@ -9448,7 +16002,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lealtad:</strong> La fidelidad de los sacerdotes y los extranjeros (Itai)</li>
                     <li><strong>Humillación:</strong> David huye a pie y se humilla ante Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Rebelión y Huida del Rey</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Usurpación y la Ceremonia</h5>
+<ul>
+    <li><strong>El Carro y la Guardia:</strong> Absalón se establece con carros, caballos y 50 hombres que corren delante de él (una pompa real).</li>
+    <li><strong>La Adquisición de la Lealtad:</strong> Absalón se sienta en la puerta de la ciudad, interrumpe el juicio y le roba el corazón al pueblo con falsas promesas de justicia.</li>
+    <li><strong>El Pretexto:</strong> Absalón pide permiso para ir a Hebrón para cumplir un voto falso (sacrificio) y se proclama rey allí.</li>
+    <li><strong>Huida de David:</strong> David huye de Jerusalén a pie. Manda al sacerdote Sadoc de vuelta con el Arca.</li>
+    <li><strong>El Espía (Husai):</strong> David envía a Husai (su amigo, el arquita) para que se infiltre en la corte de Absalón como espía.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Coronación</h5>
+<ul>
+    <li><strong>Hebrón:</strong> La elección de Hebrón (donde David fue ungido por primera vez) busca legitimar la rebelión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fe en el Destierro:</strong> David se somete a la voluntad de Dios en la huida ("que haga conmigo lo que le parezca bien").</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> David rechaza el uso del Arca como talismán de guerra y confía en el plan de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La huida de David es el <span class="highlight">juicio de Dios</span> cumpliéndose: sus propios hijos se levantan contra él. La fidelidad de los extranjeros (Itai) contrasta con la traición de su propia sangre.</p>
                 
@@ -9481,7 +16058,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> David acepta la maldición como voluntad de Dios</li>
                     <li><strong>Contrainteligencia:</strong> Husai se convierte en un espía para David</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Slander, Maldición y el Harem Deshonrado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Maldición Pública</h5>
+<ul>
+    <li><strong>La Traición de Ziba:</strong> Ziba trae comida a David y calumnia a Mefiboset, afirmando que está buscando el trono de Saúl. David le entrega la propiedad de Mefiboset.</li>
+    <li><strong>La Maldición de Simei:</strong> Simei (de la casa de Saúl) maldice a David y le arroja piedras y polvo.</li>
+    <li><strong>El Respeto al Juicio:</strong> David se niega a permitir que lo maten, afirmando que es el juicio de YHWH sobre él.</li>
+    <li><strong>Ahimelec (Consejero):</strong> El consejero de David, Ahimelec, se une a Absalón.</li>
+    <li><strong>El Harem Deshonrado:</strong> Absalón, aconsejado por Ahitofel, tiene relaciones sexuales con las concubinas que David dejó atrás.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Proclamación Real</h5>
+<ul>
+    <li><strong>Proclamación:</strong> Este acto público con el harem del rey predecesor es la máxima afirmación de que Absalón es el nuevo rey.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Humildad de David:</strong> David acepta la maldición de Simei como parte del castigo divino por su pecado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La maldición de Natán ("tomarán tus mujeres") se cumple en público.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La humildad de David al aceptar la maldición de Simei demuestra que <span class="highlight">reconoce el juicio de Dios</span> sobre su vida. La mentira de Siba muestra la corrupción humana.</p>
                 
@@ -9513,7 +16113,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Traición:</strong> El suicidio de Ahitofel (el traidor)</li>
                     <li><strong>La Palabra es Vida:</strong> El plan de David depende de la información de los sacerdotes</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Duelo de Estrategias</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Consejo y la Guerra Psicológica</h5>
+<ul>
+    <li><strong>El Consejo de Ahitofel:</strong> Ahitofel (ex-consejero de David) aconseja un ataque rápido y nocturno para matar solo a David.</li>
+    <li><strong>El Consejo de Husai:</strong> Husai (espía de David) aconseja un ataque lento con un gran ejército, lo que le da tiempo a David para reagruparse.</li>
+    <li><strong>El Engaño:</strong> El consejo de Husai es aceptado porque suena más grandioso (apela al ego de Absalón).</li>
+    <li><strong>Ahitofel y el Suicidio:</strong> Ahitofel se ahorca al ver que su sabio consejo fue rechazado (un reconocimiento de que la rebelión fracasaría).</li>
+    <li><strong>Mensajeros:</strong> Los sacerdotes Sadoc y Abiatar (leales a David) usan a sus hijos para llevar mensajes en secreto.</li>
+</ul>
+
+<h<h5>style="color: #ff6b6b;">⚔️ Costumbres de la Estrategia Militar</h5>
+<ul>
+    <li><strong>Estrategia:</strong> El consejo de Ahitofel era militarmente superior (ataque sorpresa).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Intervención Divina:</strong> El rechazo del sabio consejo de Ahitofel es el medio por el cual YHWH frustra el plan de Absalón para proteger a David.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La sabiduría humana es manipulada por el plan divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La intervención de Dios al hacer que Absalón elija el consejo de Husai es la <span class="highlight">prueba de la fidelidad de Dios</span> a Su pacto con David. Dios lucha indirectamente por el rey.</p>
                 
@@ -9546,7 +16169,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Desobediencia de Joab:</strong> Joab actúa brutalmente, pero políticamente correcto</li>
                     <li><strong>Dolor Paternal:</strong> El profundo lamento de David por su hijo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Batalla y la Muerte del Heredero</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Cabello y la Suspensión</h5>
+<ul>
+    <li><strong>El Bosque de Efraín:</strong> La batalla se lleva a cabo en un bosque donde el terreno y el pánico causan más bajas que el combate.</li>
+    <li><strong>El Mandato de David:</strong> David ordena a sus comandantes (Joab, Abisai, Itai) que traten "amablemente" a Absalón.</li>
+    <li><strong>La Muerte de Absalón:</strong> Absalón es atrapado por su cabello en una rama, y Joab (desobedeciendo a David) lo mata con tres dardos.</li>
+    <li><strong>El Monumento de Absalón:</strong> Absalón había erigido un pilar para sí mismo, ya que no tenía hijos (un acto para asegurar su legado).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Muerte del Líder</h5>
+<ul>
+    <li><strong>Fin de la Rebelión:</strong> Matar al líder enemigo garantizaba el fin inmediato de la rebelión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Dolor del Rey:</strong> David lamenta profundamente a Absalón ("Hijo mío, Absalón, hijo mío, hijo mío Absalón"), a pesar de su traición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La desobediencia de Joab salva el reino, pero rompe el corazón de David.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La muerte de Absalón es el clímax del <span class="highlight">juicio profetizado</span> por Natán. El orgullo de Absalón (su cabello y apariencia) es la causa de su caída.</p>
                 
@@ -9578,7 +16223,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Perdón Político:</strong> David perdona a sus enemigos para asegurar la paz</li>
                     <li><strong>Justicia Incompleta:</strong> David no resuelve la disputa entre Siba y Mefiboset</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Luto Excesivo y Restauración Real</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Retirada y la Amnistía</h5>
+<ul>
+    <li><strong>La Reprimenda de Joab:</strong> El luto excesivo de David desmoraliza al ejército. Joab confronta a David, advirtiéndole que el ejército lo abandonará.</li>
+    <li><strong>El Retorno a la Puerta:</strong> David se sienta en la puerta de la ciudad (lugar de justicia y autoridad) para reafirmar su reinado.</li>
+    <li><strong>La Amnistía de Simei:</strong> David perdona públicamente a Simei (quien lo maldijo), afirmando que "no morirá nadie hoy en Israel" (un día de nueva realeza).</li>
+    <li><strong>Mefiboset Reivindicado:</strong> Mefiboset (con ropas andrajosas) se encuentra con David. David divide la tierra entre Mefiboset y Ziba.</li>
+    <li><strong>Barzilai:</strong> El anciano Barzilai es honrado por haber ayudado a David en el exilio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza en Crisis</h5>
+<ul>
+    <li><strong>Liderazgo:</strong> Un rey debe mostrar fuerza y gratitud para asegurar la lealtad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Reconciliación:</strong> David busca la reconciliación con todas las tribus (Judá y Benjamín) para unificar el reino de nuevo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> David demuestra su arrepentimiento al perdonar a quienes lo injuriaron, aunque la paz es frágil.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El perdón de David a Simei es un <span class="highlight">acto de gracia y sabiduría política</span>, consolidando su reino en la misericordia. Joab, sin embargo, demuestra que el poder del ejército es una amenaza para el rey.</p>
                 
@@ -9611,7 +16279,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Brutalidad de Joab:</strong> El asesinato de Amasá demuestra el poder de Joab</li>
                     <li><strong>Paz por Sabiduría:</strong> La mujer sabia negocia la paz</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Rebelión Tribal y Asesinato de Comandantes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Deslealtad Tribal</h5>
+<ul>
+    <li><strong>La Rebelión de Seba:</strong> Seba (de Benjamín) proclama una secesión ("No tenemos parte con David"). El resentimiento tribal resurge.</li>
+    <li><strong>Las Concubinas Apartadas:</strong> David encierra a las concubinas que Absalón deshonró. Viven como viudas hasta su muerte (pureza ritual, castigo por la deshonra).</li>
+    <li><strong>Asesinato de Amasa:</strong> David nombra a Amasa (comandante de Absalón) como su nuevo comandante. Joab (celoso) lo mata con un engaño (fingiendo un beso de saludo).</li>
+    <li><strong>La Mujer Sabia de Abel:</strong> Una mujer sabia negocia con Joab, evitando la destrucción de su ciudad al entregar a Seba.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ejecución y la Negociación</h5>
+<ul>
+    <li><strong>Decapitación:</strong> La cabeza del rebelde es entregada al ejército real como prueba de la rendición y el fin de la revuelta.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Continuidad de Joab:</strong> Joab, a pesar de su desobediencia y asesinatos, es demasiado poderoso para que David lo castigue.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La sabiduría de una mujer salva una ciudad entera de la violencia militar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El libro muestra que la <span class="highlight">unidad de Israel es frágil</span> y está constantemente amenazada por las divisiones tribales. La sabiduría (la mujer) es una fuerza pacificadora.</p>
                 
@@ -9643,7 +16333,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Venganza Legal:</strong> La muerte de los descendientes de Saúl para reparar el juramento</li>
                     <li><strong>Los Gigantes:</strong> La derrota de los últimos descendientes de los Refaítas</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Expiación, Huesos y Gigantes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto Roto y la Venganza de Sangre</h5>
+<ul>
+    <li><strong>La Hambruna:</strong> Una hambruna de tres años se atribuye al pecado de Saúl (su matanza de los Gabaonitas).</li>
+    <li><strong>El Pacto Roto:</strong> La matanza de los Gabaonitas (un pueblo protegido por un juramento de Josué) trajo el juicio.</li>
+    <li><strong>Expiación (Venganza de Sangre):</strong> David pregunta a los Gabaonitas qué se necesita para la expiación. Ellos exigen la ejecución de siete descendientes varones de Saúl.</li>
+    <li><strong>La Exposición:</strong> Los cuerpos son colgados para la expiación (bajo la supervisión de Rizpa), hasta que YHWH envió la lluvia (el final de la hambruna).</li>
+    <li><strong>Entierro Real:</strong> David entierra los huesos de Saúl, Jonatán y los ejecutados en el sepulcro familiar.</li>
+</ul>
+
+<h<h5>style="color: #ff6b6b;">⚔️ Costumbres de la Guerra con los Gigantes</h5>
+<ul>
+    <li><strong>Refaim:</strong> Los filisteos tenían descendientes de los Refaim (gigantes), que luchaban en sus filas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fidelidad al Juramento:</strong> La fidelidad a un antiguo juramento (incluso con extranjeros) era más importante que la línea de sangre del rey.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La justicia del pacto de YHWH es la base para la paz en la tierra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo demuestra el <span class="highlight">principio de la retribución</span>: el pecado de una generación (Saúl) afecta a las siguientes, y el pacto (Josué 9) debe ser honrado para que la tierra sea purificada.</p>
                 
@@ -9675,7 +16388,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberanía:</strong> Dios es el guerrero divino que lucha por David</li>
                     <li><strong>Dominio:</strong> La promesa de reinar sobre los gentiles</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Liberación (Salmo 18)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Poesía Real y el Testimonio</h5>
+<ul>
+    <li><strong>Cántico de David:</strong> David entona un largo poema de acción de gracias. Este es casi idéntico al Salmo 18.</li>
+    <li><strong>Teología del Rey:</strong> El rey se ve a sí mismo como el protegido y el agente de YHWH.</li>
+    <li><strong>Justificación:</strong> El poema enfatiza la rectitud e inocencia de David en sus luchas contra Saúl y otros enemigos.</li>
+    <li><strong>Metáforas:</strong> El cántico utiliza metáforas comunes: Dios como Roca, Escudo, Cuerno de Salvación, y Fortaleza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Literatura Épica</h5>
+<ul>
+    <li><strong>Himnos de Victoria:</strong> Los reyes de las naciones vecinas también componían himnos para celebrar sus victorias y la protección de sus dioses.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>YHWH como Libertador:</strong> El cántico atribuye la victoria exclusivamente a la intervención de YHWH, no a la fuerza humana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este testimonio poético subraya que la base del trono de David es su justicia ante Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cántico es el <span class="highlight">testimonio de la fe de David</span>. Atribuye todo su éxito y supervivencia a la gracia y el poder de Dios, no a su propia fuerza.</p>
                 
@@ -9707,7 +16442,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pacto Eterno:</strong> La ratificación final del linaje de David</li>
                     <li><strong>Honor:</strong> El reconocimiento de la valentía de sus guerreros</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Últimas Palabras y la Guardia de Élite</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Testamento Real</h5>
+<ul>
+    <li><strong>Las Últimas Palabras de David:</strong> Un testamento poético que reafirma la base de su reinado: el Pacto Eterno de Dios.</li>
+    <li><strong>El Espíritu Profético:</strong> David afirma que su palabra es inspirada por el Espíritu de YHWH.</li>
+    <li><strong>Los Hombres Valientes (Gibborim):</strong> Una lista de 37 guerreros de élite que formaron el núcleo de la guardia personal y el ejército de David.</li>
+    <li><strong>Los Tres Jefes:</strong> El más valiente (Joseb-basebet) mata a 800 hombres en un solo encuentro (una hipérbole para la fuerza legendaria).</li>
+    <li><strong>El Acto de Devoción:</strong> Tres de los valientes arriesgan sus vidas para traer agua a David desde el pozo de Belén, y David la derrama como una ofrenda a YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guardia de Élite</h5>
+<ul>
+    <li><strong>Guardia Personal:</strong> Los reyes dependían de una guardia personal de guerreros probados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Pacto y Justicia:</strong> David reafirma que un rey justo debe reinar bajo el temor de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La lista de los valientes honra la fidelidad humana que Dios usó para establecer el reino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las últimas palabras de David son su <span class="highlight">testamento mesiánico</span>, expresando su fe en que Dios cumplirá su pacto. El honor a los valientes subraya la importancia de la lealtad y el servicio.</p>
                 
@@ -9740,7 +16498,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio y Expiación:</strong> La plaga cesa con el sacrificio en el altar</li>
                     <li><strong>El Sitio del Templo:</strong> El altar se establece en el lugar del futuro Templo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Censo y la Expiación de la Tierra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Censo Militar</h5>
+<ul>
+    <li><strong>El Censo Pecaminoso:</strong> David ordena un censo militar. El pecado es la confianza en la fuerza humana (números) en lugar de en la provisión de YHWH.</li>
+    <li><strong>La Plaga:</strong> Dios castiga con una plaga (70,000 mueren) de tres días.</li>
+    <li><strong>El Ángel de la Muerte:</strong> El ángel de YHWH detiene la plaga en la era de Arauna el jebuseo (el lugar que se convertiría en el Templo).</li>
+    <li><strong>El Sacrificio de Expiación:</strong> David compra la era y ofrece holocaustos y sacrificios de paz.</li>
+    <li><strong>El Principio del Costo:</strong> David se niega a tomar la era gratis, afirmando que no ofrecerá a YHWH un sacrificio que no le cuesta nada.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Propiedad</h5>
+<ul>
+    <li><strong>Compra de Tierra:</strong> David insiste en un precio justo, un precedente legal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Lugar del Templo:</strong> La era de Arauna (un jebuseo) se convierte en el lugar del altar y más tarde el Templo de Salomón, marcando la expiación y la inclusión.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro cierra con el arrepentimiento y la expiación, preparando la construcción del Templo y el reinado pacífico de Salomón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El censo es el último gran fracaso de David. La compra de la era establece que el <span class="highlight">lugar de la expiación</span> debe ser adquirido con un precio, no tomado gratuitamente. </p>
                 
