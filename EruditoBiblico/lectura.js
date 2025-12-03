@@ -16557,7 +16557,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Intervención Profética:</strong> Natán asegura el cumplimiento de la voluntad de Dios</li>
                     <li><strong>Ungimiento Real:</strong> Salomón es ungido en un acto de culto público</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Sucesión Real y el Golpe de Estado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Harem y la Unción de Reyes</h5>
+<ul>
+    <li><strong>La Cama de David:</strong> El anciano David es calentado por Abisag la sunamita (una joven). El trato a la sunamita indica el fin de la capacidad del rey para reinar y la necesidad de un sucesor.</li>
+    <li><strong>El Golpe de Adonías:</strong> Adonías (el hijo vivo más viejo) intenta un golpe de estado, reuniendo a los líderes militares (Joab) y sacerdotales (Abiatar) en un banquete de sacrificio.</li>
+    <li><strong>El Ritual de la Unción:</strong> Natán y Betsabé presionan a David. Salomón es ungido con aceite por el sacerdote Sadoc en Gihón, y se le proclama rey con el toque de trompeta (el ritual oficial de coronación).</li>
+    <li><strong>La Montura Real:</strong> Salomón cabalga sobre la mula de David, un acto simbólico de la transferencia de la realeza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Monarquía Oriental</h5>
+<ul>
+    <li><strong>Consolidación:</strong> El rey solo es seguro después de la muerte del predecesor. Las intrigas por la sucesión eran comunes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Voz del Profeta:</strong> La palabra del profeta Natán anula el golpe de estado militar, asegurando que se cumpla la promesa de David.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La unción de Salomón asegura que la promesa de David (el trono eterno) se mantenga, a pesar de las maniobras humanas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La unción de Salomón es la <span class="highlight">continuación del Pacto Davídico</span>, demostrando que la voluntad de Dios, y no la intriga política, determinará el linaje real. Salomón (que significa "Paz") comienza su reinado.</p>
                 
@@ -16590,7 +16612,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Transición de Poder:</strong> El trono se establece firmemente con sangre</li>
                     <li><strong>Obediencia al Pacto:</strong> El mandato de David de seguir la Ley</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Testamento de David y la Consolidación del Trono</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio y el Exilio</h5>
+<ul>
+    <li><strong>Testamento Real:</strong> David da su encargo final a Salomón, ordenándole seguir la Ley de Moisés.</li>
+    <li><strong>El Castigo Final:</strong> David aconseja a Salomón que ejecute a Joab (por sus asesinatos pasados) y a Simei (por su maldición).</li>
+    <li><strong>El Último Intento:</strong> Adonías pide a Abisag (la concubina de David). Tomar a la concubina del rey era el último acto simbólico de reclamar el trono.</li>
+    <li><strong>La Purga Política:</strong> Salomón ejecuta a Adonías y a Joab (por venganza de sangre de sus asesinatos). Abiatar (sacerdote) es desterrado. Simei es ejecutado por desobedecer el exilio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Asilo en el Altar</h5>
+<ul>
+    <li><strong>Asilo:</strong> Joab huye para agarrar los cuernos del altar (un rito de asilo). Salomón ordena matarlo allí, mostrando que la justicia del rey está por encima del rito.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Legitimación por la Sangre:</strong> Salomón consolida su trono eliminando a los enemigos de David, legitimándose por la justicia y el juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Salomón purifica el reino de los asesinos y los traidores, estableciendo un trono "firme".
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La purga del reino es necesaria para que el <span class="highlight">reinado de Salomón (Paz) sea justo y estable</span>. El juicio sobre los enemigos cumple las instrucciones finales de David.</p>
                 
@@ -16622,7 +16666,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Sabiduría de Dios:</strong> La sabiduría es el don supremo para gobernar</li>
                     <li><strong>Justicia Imparcial:</strong> El juicio de las dos mujeres muestra su discernimiento</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Alianza Extranjera y el Sueño en Gabaón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Lugar Alto y la Sabiduría</h5>
+<ul>
+    <li><strong>Alianza con Egipto:</strong> Salomón se casa con la hija del Faraón (una alianza política de alto nivel).</li>
+    <li><strong>Lugares Altos (**Bamot**):</strong> El pueblo aún sacrificaba en los lugares altos (altares locales, no en el Tabernáculo en Gabaón), una mezcla de culto que la Ley prohibía.</li>
+    <li><strong>El Sueño en Gabaón:</strong> Dios se aparece a Salomón en un sueño y le pide que pida lo que quiera. Salomón pide un **corazón entendido para juzgar** (sabiduría).</li>
+    <li><strong>El Juicio Famoso:</strong> El juicio de las dos prostitutas (la división del bebé) demuestra la sabiduría de Salomón.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza y la Endogamia</h5>
+<ul>
+    <li><strong>Matrimonio Real:</strong> Los matrimonios de las hijas del Faraón eran muy raros, lo que subraya el alto estatus de Salomón.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Petición:</strong> Salomón no pide riqueza, ni la vida de sus enemigos, sino la habilidad de juzgar a Su pueblo (una petición aprobada por Dios).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La sabiduría de Salomón (un don divino) es más valiosa que todo el poder militar y la riqueza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La sabiduría de Salomón es una <span class="highlight">evidencia de la bendición de Dios</span>, esencial para un liderazgo de pacto. Su deseo de gobernar con justicia le gana el favor divino.</p>
                 
@@ -16654,7 +16720,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Administración:</strong> El reino organizado en doce distritos de abastecimiento</li>
                     <li><strong>Fama de Sabiduría:</strong> Su conocimiento excede el de todas las naciones</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Administración y Extensión del Reino</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Gobierno Centralizado</h5>
+<ul>
+    <li><strong>Oficiales del Reino:</strong> Salomón establece un complejo sistema burocrático (capitanes, secretarios, tesoreros).</li>
+    <li><strong>Doce Provincias:</strong> El reino se divide en 12 provincias con sus oficiales, cada una responsable de proveer comida al rey y su casa durante un mes al año.</li>
+    <li><strong>La Paz de Salomón:</strong> El reino se extiende en paz (desde el Éufrates hasta la frontera de Egipto).</li>
+    <li><strong>La Sabiduría Literaria:</strong> Salomón compuso 3.000 proverbios y 1.005 cánticos. Su sabiduría es reconocida en el mundo antiguo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Burocracia Imperial</h5>
+<ul>
+    <li><strong>Administración:</strong> Los grandes imperios (Egipto, Asiria) requerían un complejo sistema de recolección de impuestos y sustento para el rey.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Sabiduría de la Realeza:</strong> La sabiduría de Salomón es mayor que la de todos los sabios orientales (incluidos los egipcios).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La paz y la prosperidad son el resultado directo de la sabiduría divina dada al rey.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Salomón es la <span class="highlight">realización de la promesa de bendición de Dios</span> a Israel (el descanso de la guerra). El sabio gobierna sobre un vasto imperio en paz (Shalom).</p>
                 
@@ -16685,7 +16773,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Alianza Extranjera:</strong> El pacto con Hiram es clave para los materiales</li>
                     <li><strong>Trabajo Forzado:</strong> El uso de trabajadores forzados (la primera señal de descontento)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Tratados Comerciales y Trabajo Forzado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Preparación para el Templo</h5>
+<ul>
+    <li><strong>Tratado con Tiro:</strong> Salomón y **Hiram**, rey de Tiro (Fenicia), hacen un tratado comercial para obtener madera de cedro (la mejor calidad) del Líbano para el Templo.</li>
+    <li><strong>Pago:</strong> Israel paga con trigo, aceite y vino (productos agrícolas).</li>
+    <li><strong>Trabajo Forzado:</strong> Salomón impone un reclutamiento de **trabajo forzado** (una leva) de 30.000 israelitas (turno mensual de 10.000).</li>
+    <li><strong>Trabajadores Extranjeros:</strong> Utiliza 150.000 cananeos y extranjeros para el trabajo pesado (cargadores y cortadores de piedra).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Tratados Comerciales</h5>
+<ul>
+    <li><strong>Tratados de Igualdad:</strong> El acuerdo con Hiram era un tratado de igualdad entre dos reyes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Violación de la Ley:</strong> La imposición de la leva sobre los israelitas es el primer paso hacia la monarquía opresora (tal como Samuel predijo).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La construcción del Templo (el pináculo de la adoración) se basa en el trabajo forzado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La construcción del Templo es el <span class="highlight">cumplimiento del plan de David</span>, que requiere de la paz de Salomón. La colaboración con un rey gentil muestra el alcance de la bendición de Israel a las naciones.</p>
                 
@@ -16716,7 +16826,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Silencio:</strong> La construcción en silencio simboliza la santidad del lugar</li>
                     <li><strong>Advertencia:</strong> El pacto de obediencia es el verdadero requisito para la presencia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Construcción del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Arquitectura Sagrada y la Precisión</h5>
+<ul>
+    <li><strong>Inicio de la Construcción:</strong> El Templo se comienza 480 años después del Éxodo.</li>
+    <li><strong>Arquitectura:</strong> El diseño es tripartito:
+        <ul>
+            <li>**Pórtico** (entrada).</li>
+            <li>**Lugar Santo** (donde ministraban los sacerdotes).</li>
+            <li>**Lugar Santísimo** (**Debir**, donde se colocaba el Arca).</li>
+        </ul>
+    </li>
+    <li><strong>Piedras Labradas:</strong> Las piedras se labran y se ajustan **antes** de ser traídas, para que no se escuche martillo ni hacha en la construcción del Santuario.</li>
+    <li><strong>Muebles:</strong> El Templo está revestido interiormente de madera de cedro y oro puro.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Templos Fenicios</h5>
+<ul>
+    <li><strong>Diseño:</strong> El diseño del Templo de Salomón comparte muchas características con los templos sirio-fenicios de la época.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Silencio Sagrado:</strong> La ausencia de ruido de herramientas en la obra es un símbolo de la santidad del lugar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Dios condiciona Su presencia a la obediencia continua de Salomón y Su pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Templo es el <span class="highlight">lugar de la morada de Dios</span> en la Tierra, un símbolo de la relación de Pacto. La advertencia enfatiza que la presencia de Dios no está ligada al edificio, sino a la fidelidad.</p>
                 
@@ -16747,7 +16885,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Magnificencia:</strong> La belleza y la riqueza de los objetos de culto</li>
                     <li><strong>Simbolismo:</strong> Las columnas (Jaquín y Boaz) representan la promesa de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Palacio y la Obra de Hiram</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Arquitectura Real y la Metalurgia</h5>
+<ul>
+    <li><strong>Palacio de Salomón:</strong> Salomón construye su palacio durante 13 años (el Templo tomó 7), lo que indica su prioridad en la vida.</li>
+    <li><strong>La Casa del Bosque del Líbano:</strong> Parte del complejo era un arsenal.</li>
+    <li><strong>Hiram de Tiro:</strong> El artesano jefe para la metalurgia del Templo (hijo de un tirio y una mujer de Neftalí), un maestro en bronce.</li>
+    <li><strong>Las Columnas (Jaquín y Boaz):</strong> Dos grandes columnas de bronce se colocan en el pórtico: **Jaquín** (Él establece) y **Boaz** (En él está la fuerza).</li>
+    <li><strong>El Mar de Bronce:</strong> Un gran lavacro circular sostenido por 12 bueyes de bronce.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Columnas de los Templos</h5>
+<ul>
+    <li><strong>Símbolos:</strong> Las columnas a la entrada eran comunes en los templos fenicios y egipcios, a menudo con nombres simbólicos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Prioridad de la Realeza:</strong> El palacio, aunque necesario, se enfoca más en el esplendor que el Templo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La metalurgia (característica cananea) se pone al servicio de la adoración de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La magnificencia de los objetos del Templo refleja la <span class="highlight">grandeza de Dios</span>. El enfoque desproporcionado en el palacio (13 años vs. 7) es el primer indicio de la lenta desviación de Salomón.</p>
                 
@@ -16779,7 +16940,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Oración de Intercesión:</strong> La oración de Salomón por Israel y los gentiles</li>
                     <li><strong>El Arca y las Tablas:</strong> El único contenido del Arca son las tablas de la Ley</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Dedicación del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rito de Dedicación y la Oración</h5>
+<ul>
+    <li><strong>Fecha:</strong> La dedicación ocurre en la Fiesta de los Tabernáculos (Sukkot), una fiesta de gran solemnidad.</li>
+    <li><strong>El Arca en el Santísimo:</strong> Los sacerdotes llevan el Arca del Pacto (que contenía las dos Tablas de la Ley) al Lugar Santísimo.</li>
+    <li><strong>La Nube de Gloria (Shejiná):</strong> Una nube llena el Templo, la manifestación visible de la presencia de Dios.</li>
+    <li><strong>La Oración de Salomón:</strong> Salomón se arrodilla ante el altar y ofrece la oración de dedicación, pidiendo la misericordia de Dios sobre Israel en el exilio o en la guerra.</li>
+    <li><strong>Sacrificio:</strong> Se ofrecen 22.000 bueyes y 120.000 ovejas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Bendición Real</h5>
+<ul>
+    <li><strong>Rezo:</strong> Los reyes a menudo invocaban a sus dioses en las dedicatorias, pero no se arrodillaban públicamente ante ellos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Presencia Sobrenatural:</strong> La nube de YHWH es la prueba de la aceptación divina, superior a cualquier templo pagano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Templo es el lugar donde Dios elige poner Su **Nombre**, haciendo que la adoración sea centralizada.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La dedicación es la <span class="highlight">realización de la promesa del Pacto</span>: Dios mora en medio de Su pueblo. La oración de Salomón se centra en el arrepentimiento y el perdón como medios para la restauración.</p>
                 
@@ -16810,7 +16994,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fallo de Salomón:</strong> Da ciudades israelitas a Hiram (un pago indigno)</li>
                     <li><strong>Trabajo Forzado:</strong> Salomón continúa usando trabajo forzado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pacto Condicional y la Esclavitud</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Monarquía Condicional</h5>
+<ul>
+    <li><strong>Respuesta de Dios:</strong> YHWH se aparece a Salomón y reitera el Pacto Davídico, pero lo hace **condicional** a la obediencia.</li>
+    <li><strong>Consecuencia:</strong> Si Salomón o sus hijos se desvían, Dios cortará a Israel de la tierra y el Templo se convertirá en un montón de ruinas.</li>
+    <li><strong>Ciudades Intercambiables:</strong> Salomón da 20 ciudades a Hiram de Tiro. Hiram las rechaza (llamándolas **Cabúl**, "tierra inútil").</li>
+    <li><strong>Trabajo Forzado:</strong> Salomón utiliza solo a los cananeos y los amorreos restantes para el trabajo forzado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Esclavitud Cananea</h5>
+<ul>
+    <li><strong>Esclavitud:</strong> La esclavitud de los pueblos conquistados era una práctica estándar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fidelidad:</strong> La fidelidad a YHWH es la única garantía de la permanencia de la dinastía y del Templo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La bendición material (riqueza y comercio) está supeditada al cumplimiento moral de la Ley.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La advertencia es una <span class="highlight">reafirmación del principio de la Ley</span>: la bendición depende de la obediencia. La condición de Dios contrasta con la gracia incondicional del Pacto Davídico (el linaje perdurará, pero será castigado).</p>
                 
@@ -16841,7 +17047,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fama Internacional:</strong> La gloria de Israel atrae a las naciones</li>
                     <li><strong>Reconocimiento Gentil:</strong> La reina alaba a YHWH por el rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Riqueza y Diplomacia Internacional</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Diplomacia y la Sabiduría</h5>
+<ul>
+    <li><strong>Reina de Saba:</strong> La reina de Saba viaja para poner a prueba la sabiduría de Salomón con enigmas y preguntas difíciles.</li>
+    <li><strong>El Enigma (Acertijos):</strong> Los acertijos eran un medio común en la diplomacia para medir la inteligencia del gobernante.</li>
+    <li><strong>Riqueza y Comercio:</strong> Se detalla la inmensa riqueza de Salomón (el oro, la plata eran abundantes). El comercio se hacía por mar (Tarís) y por tierra.</li>
+    <li><strong>El Trono de Marfil:</strong> Un trono real cubierto de marfil y oro (símbolo de lujo y poder).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Comercio y la Monarquía</h5>
+<ul>
+    <li><strong>Esplendor:</strong> Los reyes orientales utilizaban el esplendor arquitectónico y la riqueza como prueba de su poder.</li>
+    <li><strong>Monopolio:</strong> Salomón tenía el monopolio del comercio de caballos y carros con Egipto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Sabiduría es la Atracción:</strong> La fama de la sabiduría de Salomón atrae a los reyes (más que su poder militar).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La prosperidad material es el pináculo de la bendición, pero también es la semilla de la caída.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El relato muestra que la <span class="highlight">bendición de Israel estaba destinada a ser una luz para las naciones</span>. La Reina de Sabá es un ejemplo de la adoración gentil provocada por la sabiduría de Salomón.</p>
                 
@@ -16873,7 +17102,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Desviación:</strong> La desobediencia al mandato del rey (Deut. 17:17)</li>
                     <li><strong>División del Reino:</strong> El anuncio del juicio a través de la rasgadura del manto (profecía de Ahías)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Idolatría, Apostasía y Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Caída del Rey</h5>
+<ul>
+    <li><strong>Matrimonio Extranjero:</strong> Salomón toma 700 esposas y 300 concubinas (un acto de alianza política), rompiendo la Ley (Deuteronomio 17).</li>
+    <li><strong>Idolatría:</strong> Sus esposas desvían su corazón. Salomón construye lugares altos para **Astarté** (Sidón), **Quemos** (Moab) y **Moloc** (Amón).</li>
+    <li><strong>Castigo Divino:</strong> Dios levanta adversarios: Hadad el edomita (que busca restaurar Edom) y Rezón de Damasco (Siria).</li>
+    <li><strong>La Profecía de la División:</strong> El profeta Ahías rasga el manto nuevo de Jeroboam en 12 pedazos y le da 10, simbolizando la división del reino.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios Humanos</h5>
+<ul>
+    <li><strong>Moloc:</strong> El culto a Moloc requería el sacrificio de niños.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Fracaso de la Sabiduría:</strong> La sabiduría de Salomón no lo salva de la trampa más básica: la idolatría por alianza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La desobediencia de Salomón rompe la unidad de Israel y la paz.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La caída de Salomón subraya que la <span class="highlight">sabiduría no es un sustituto de la obediencia</span>. Su idolatría, el pecado más grave, causa la división y el juicio que perseguirá a Israel.</p>
                 
@@ -16905,7 +17156,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cisma Político:</strong> La separación de Israel (10 tribus) y Judá (2 tribus)</li>
                     <li><strong>Idolatría en el Norte:</strong> Jeroboam instituye el culto de los becerros de oro</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: División del Reino y Cisma Religioso</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sucesión Fallida y la Secesión</h5>
+<ul>
+    <li><strong>La Sucesión (Roboam):</strong> Roboam (hijo de Salomón) va a Siquem para ser coronado.</li>
+    <li><strong>El Consejo Fatuo:</strong> Roboam rechaza el consejo de los ancianos (aliviar la carga impositiva) y acepta el consejo de los jóvenes (aumentar el yugo).</li>
+    <li><strong>La Secesión:</strong> Las 10 tribus del norte se separan y coronan a **Jeroboam**. Solo Judá y Benjamín se quedan con Roboam (Judá).</li>
+    <li><strong>Idolatría del Estado:</strong> Jeroboam teme que el pueblo regrese a Jerusalén (centro de culto), por lo que erige **dos becerros de oro** en Bet-el y Dan.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Liderazgo Egipcio</h5>
+<ul>
+    <li><strong>Yugo Pesado:</strong> Roboam dice: "Mi padre os castigó con azotes, mas yo os castigaré con escorpiones" (un dicho de opresión).</li>
+    <li><strong>Becerros de Oro:</strong> Una imitación de la iconografía de Egipto (el dios Apis), vinculando el culto a los dioses de la fertilidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Cisma:</strong> La división es tanto política (impuestos) como religiosa (idolatría de los becerros).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La desobediencia de Roboam cumple la profecía, y la idolatría de Jeroboam corrompe fundamentalmente al reino del norte (Israel).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La división es el <span class="highlight">juicio de Dios</span> por el pecado de Salomón. La acción de Jeroboam es la repetición del pecado de Aarón (becerros de oro), lo que sella la condenación del Reino del Norte.</p>
                 
@@ -16938,7 +17212,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Desobediencia:</strong> El castigo por desobedecer el mandato directo de Dios</li>
                     <li><strong>Falsos Profetas:</strong> El viejo profeta usa una mentira para desviar al verdadero profeta</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Profeta Anónimo y el Altar Desacrado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio Profético</h5>
+<ul>
+    <li><strong>El Profeta de Judá:</strong> Un profeta anónimo es enviado para pronunciar juicio contra el altar de Jeroboam en Bet-el.</li>
+    <li><strong>El Signo:</strong> El altar se raja y las cenizas se derraman. La mano de Jeroboam se seca.</li>
+    <li><strong>La Prohibición:</strong> El profeta tiene prohibido comer o beber en el territorio, un signo de su pureza y la ilegitimidad del lugar.</li>
+    <li><strong>La Desobediencia Fatal:</strong> El profeta de Judá es engañado por un profeta más viejo y desobedece la orden de YHWH, siendo asesinado por un león.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Lealtad al Reino</h5>
+<ul>
+    <li><strong>Profetas Pagados:</strong> Los reyes a menudo tenían profetas de la corte que les decían lo que querían oír.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Santidad de la Palabra:</strong> La desobediencia a la palabra de Dios es castigada con la muerte, incluso en un profeta.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio sobre el altar de Jeroboam reafirma que el culto es inválido.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La historia subraya la <span class="highlight">gravedad de la desobediencia a la Palabra de Dios</span>, incluso cuando es instigada por un compañero. La lealtad a la palabra de Dios debe ser absoluta.</p>
                 
@@ -16970,7 +17266,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hipocresía:</strong> Jeroboam intenta engañar al profeta de Dios</li>
                     <li><strong>Saqueo del Templo:</strong> El juicio contra Judá por su propia idolatría</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Profecía de Ahías y la Invasión Egipcia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Profecía de la Dinastía</h5>
+<ul>
+    <li><strong>El Disfraz:</strong> La esposa de Jeroboam se disfraza para consultar al profeta Ahías.</li>
+    <li><strong>La Sentencia:</strong> Ahías predice la destrucción total de la casa de Jeroboam por su idolatría.</li>
+    <li><strong>Shishak de Egipto:</strong> Shishak, rey de Egipto, invade Judá y saquea Jerusalén, llevándose los tesoros del Templo y del palacio (cumplimiento del juicio).</li>
+    <li><strong>Santuario Siniestro:</strong> Judá también cae en el pecado, construyendo **aseras** (postes de culto a Astarté) en los lugares altos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Invasiones Egipcias</h5>
+<ul>
+    <li><strong>Invasión de Shishak:</strong> La invasión de Shishak está documentada en los registros egipcios (una confirmación histórica de la narración bíblica).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Juicio Histórico:</strong> La invasión egipcia es vista como el juicio de YHWH sobre la idolatría de Judá.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio es inminente sobre los dos reinos. La destrucción de la dinastía de Jeroboam es inevitable.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El castigo de Dios es seguro para las dinastías que <span class="highlight">institucionalizan la idolatría</span>. La obediencia es el único factor de estabilidad para ambos reinos. El robo de los tesoros del Templo es el castigo por el pecado del sur.</p>
                 
@@ -17002,7 +17320,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reforma:</strong> Asa es un rey fiel que elimina la idolatría</li>
                     <li><strong>Guerra Constante:</strong> La división provoca una guerra fronteriza continua</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Guerras Fronterizas y el Rey Fiel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Estabilidad Dinástica</h5>
+<ul>
+    <li><strong>Guerras Fronterizas:</strong> Hay una guerra constante entre Judá y el reino del norte (Israel) durante muchos años.</li>
+    <li><strong>Asa (Judá):</strong> Asa (un rey fiel) elimina la prostitución cultual y la idolatría, pero no destruye todos los lugares altos (la debilidad persistente).</li>
+    <li><strong>Pacto con Damasco:</strong> Asa soborna a Ben-hadad (rey de Siria/Aram) con tesoros del Templo para que rompa su alianza con Israel (Basa).</li>
+    <li><strong>Nadab y Basa (Israel):</strong> La dinastía de Jeroboam termina violentamente (por Nadab), pero Basa (el nuevo rey) repite el pecado de Jeroboam.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Prostitución Cultual</h5>
+<ul>
+    <li><strong>Kadesh:</strong> La prostitución en el templo (asociada con la fertilidad cananea) era una práctica que Asa luchó por eliminar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fidelidad y Estabilidad:</strong> La fidelidad de los reyes de Judá (como Asa) les da estabilidad dinástica, mientras que Israel sufre golpes de estado constantes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La purificación de la idolatría es el deber principal del rey.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El libro evalúa a cada rey en función de su <span class="highlight">obediencia o desobediencia al Pacto</span>. La fidelidad de Asa demuestra que la piedad individual aún puede preservar el Reino del Sur (Judá).</p>
                 
@@ -17035,7 +17375,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Idolatría Extrema:</strong> El culto a Baal es introducido por Jezabel y Acab</li>
                     <li><strong>Fundación de Samaria:</strong> Una nueva capital para una nueva dinastía (Omri)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Golpes de Estado y la Dinastía de Omri</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Profecía y la Sucesión</h5>
+<ul>
+    <li><strong>Anarquía:</strong> Se suceden varios golpes de estado rápidos: Elah es asesinado por Zimri. Zimri quema el palacio y muere a los siete días.</li>
+    <li><strong>Omri y la Nueva Dinastía:</strong> Omri (general del ejército) es aclamado rey. Derrota a su rival Tibni.</li>
+    <li><strong>Samaria:</strong> Omri compra una colina y construye una nueva capital, **Samaria** (un lugar neutral, como Jerusalén).</li>
+    <li><strong>El Pecado de Acab:</strong> Acab (hijo de Omri) es peor que todos. Se casa con **Jezabel** (princesa fenicia) e introduce el culto de **Baal-Melkart** (el Baal de Tiro).</li>
+    <li><strong>Reconstrucción de Jericó:</strong> Hiel reconstruye Jericó (violando la maldición de Josué) y pierde a sus hijos (cumpliendo la maldición).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Influencia Fenicia</h5>
+<ul>
+    <li><strong>Baalismo:</strong> El Baal de Tiro (Melkart) es introducido por Jezabel (princesa de Sidón), imponiendo un culto extranjero.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Idolatría Desenfrenada:</strong> La dinastía de Omri institucionaliza la idolatría de Baal en Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La reconstrucción de Jericó y la idolatría de Acab son la manifestación de la desobediencia total.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Acab marca el punto en el que el <span class="highlight">pecado de Israel amenaza con la extinción total</span> de la fe en YHWH. La respuesta de Dios a esta maldad es levantar al profeta Elías.</p>
                 
@@ -17068,7 +17431,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resurrección:</strong> Elías resucita al hijo de la viuda</li>
                     <li><strong>Fe Gentil:</strong> La viuda reconoce la palabra de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Elías, la Sequía y los Milagros</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Profeta Solitario y el Juicio del Clima</h5>
+<ul>
+    <li><strong>Elías el Profeta:</strong> Aparece de repente. El profeta se convierte en el principal adversario de la monarquía.</li>
+    <li><strong>La Sequía como Juicio:</strong> Elías declara la sequía (ni rocío ni lluvia), golpeando directamente a **Baal** (el dios de la tormenta y la lluvia).</li>
+    <li><strong>Provisión Milagrosa:</strong> Elías es alimentado por **cuervos** (aves inmundas) en el arroyo Querit.</li>
+    <li><strong>Viuda de Sarepta:</strong> Elías se refugia con una viuda extranjera (Sarepta, cerca de Tiro) y multiplica su harina y aceite.</li>
+    <li><strong>Resurrección:</strong> Elías resucita al hijo de la viuda.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ritos de Lluvia</h5>
+<ul>
+    <li><strong>Ritos:</strong> Los ritos de Baal se centraban en asegurar la lluvia. El fracaso de Baal ante la sequía de YHWH es la base del conflicto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Provisión en la Adversidad:</strong> Dios utiliza medios inusuales (cuervos, una viuda extranjera) para sustentar a Su profeta.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Elías demuestra que YHWH, y no Baal, controla los elementos y la vida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Elías es el <span class="highlight">profeta de la restauración radical</span> que confronta la idolatría. El milagro de la sequía demuestra que YHWH, no Baal, tiene control sobre la lluvia y la vida.</p>
                 
@@ -17102,7 +17488,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Retorno a la Fe:</strong> El pueblo confiesa a YHWH</li>
                     <li><strong>Fin de la Sequía:</strong> Elías ora, y la lluvia regresa</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Desafío en el Monte Carmelo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Altar y el Fuego Divino</h5>
+<ul>
+    <li><strong>El Desafío:</strong> Elías reta a 450 profetas de Baal y 400 profetas de Astarté a una prueba en el **Monte Carmelo** (lugar sagrado de los fenicios).</li>
+    <li><strong>El Rito de Baal:</strong> Los profetas de Baal claman a su dios y se cortan con cuchillos (un rito de sangre pagano) para forzar la respuesta de su deidad.</li>
+    <li><strong>La Burla de Elías:</strong> Elías se burla de ellos (su dios está durmiendo, de viaje, o está en el retrete).</li>
+    <li><strong>El Milagro del Fuego:</strong> Elías empapa el altar con 12 cántaros de agua, y el fuego de YHWH desciende del cielo, consumiendo el holocausto, la madera, las piedras y el agua.</li>
+    <li><strong>La Masacre:</strong> Elías ordena la ejecución de los 850 profetas paganos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios de Sangre</h5>
+<ul>
+    <li><strong>Autolesión:</strong> Los cultos de Baal y otros dioses de la fertilidad a menudo involucraban autolesiones para apelar a la deidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Respuesta de Dios:</strong> El fuego de YHWH es inmediato y absoluto, demostrando que Él es el Dios verdadero.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El altar de YHWH se reconstruye con 12 piedras (simbolizando la unidad de Israel). La lluvia regresa después de la masacre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Monte Carmelo es la <span class="highlight">prueba definitiva</span> de que YHWH es el único Dios de Israel. La fe genuina provoca la respuesta de Dios y el fin del juicio.</p>
                 
@@ -17134,7 +17543,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Silbo Apacible:</strong> Dios revela Su presencia no en el poder, sino en la calma</li>
                     <li><strong>Sucesor:</strong> Elías unge a Eliseo, asegurando la continuidad profética</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Depresión del Profeta y el Sucesor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Revelación Divina y el Manto</h5>
+<ul>
+    <li><strong>La Huida:</strong> A pesar del éxito en el Carmelo, Elías huye de la amenaza de Jezabel al Monte Horeb (Sinaí).</li>
+    <li><strong>La Depresión:</strong> Elías pide morir, mostrando el profundo agotamiento psicológico. Es alimentado por un ángel.</li>
+    <li><strong>El Encuentro en Horeb:</strong> Dios no se revela en el viento, el terremoto o el fuego, sino en un **"silbo apacible y delicado"** (una voz baja).</li>
+    <li><strong>El Manto de Profeta:</strong> Elías lanza su manto sobre Eliseo (que estaba arando), un gesto simbólico de la transferencia de la vocación profética.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Persecución Real</h5>
+<ul>
+    <li><strong>Persecución:</strong> Los reyes a menudo buscaban ejecutar a los profetas que se oponían a ellos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Voz de Dios:</strong> Dios se revela no en el poder espectacular (como en el Carmelo), sino en la intimidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La sucesión profética es clave para el plan de Dios, incluso cuando el profeta está en su punto más bajo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El encuentro en Horeb enseña que <span class="highlight">Dios no solo está en lo espectacular</span>, sino también en la calma y la intimidad. Dios asegura a Elías que siempre hay un remanente de 7,000 que no han doblado su rodilla ante Baal.</p>
                 
@@ -17166,7 +17597,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misericordia Equivocada:</strong> Acab perdona a su enemigo en lugar de ejecutar el juicio de Dios</li>
                     <li><strong>Reprensión Profética:</strong> Acab es condenado a muerte por su acción</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Guerras con Siria y la Misericordia Real</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra Justificada</h5>
+<ul>
+    <li><strong>Asedio de Samaria:</strong> Ben-hadad, rey de Siria (Aram), asedia Samaria.</li>
+    <li><strong>Guerra Profética:</strong> Un profeta anónimo le asegura a Acab la victoria, demostrando que YHWH también es Dios en las llanuras, no solo en los montes.</li>
+    <li><strong>La Derrota:</strong> Israel derrota a Siria dos veces.</li>
+    <li><strong>La Misericordia Ilegal:</strong> Acab perdona a Ben-hadad y hace un pacto con él (contrario a la orden de YHWH).</li>
+    <li><strong>El Profeta Herido:</strong> Un profeta le pide a un hombre que lo hiera para poder presentarse a Acab con un disfraz (un rito dramático de juicio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Paz Condicional</h5>
+<ul>
+    <li><strong>Pacto:</strong> Los reyes a menudo hacían pactos de paz con sus enemigos derrotados para asegurar el comercio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder Territorial:</strong> Los sirios creen que el Dios de Israel es un dios de las colinas. La victoria en la llanura refuta esta idea.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio de YHWH cae sobre Acab por su misericordia equivocada (perdonar a un enemigo que debía ser destruido).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La misericordia de Acab hacia Ben-hadad es una <span class="highlight">desobediencia al mandato de Dios</span>, valorando el beneficio político sobre la justicia. El rey de Dios debe ejecutar el juicio cuando le es ordenado.</p>
                 
@@ -17200,7 +17654,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrepentimiento Parcial:</strong> Acab se humilla temporalmente (retrasando el juicio)</li>
                     <li><strong>Juicio Inmutable:</strong> La profecía del fin de Acab y Jezabel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Viñedo de Nabot y el Asesinato Legal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Derecho de la Tierra</h5>
+<ul>
+    <li><strong>La Herencia:</strong> Nabot se niega a vender su viñedo a Acab, ya que la Ley prohíbe vender la herencia familiar (la tierra es de YHWH).</li>
+    <li><strong>El Fraude Legal:</strong> Jezabel usa un complot: soborna a dos "hijos de Belial" (hombres sin valor) para que den falso testimonio contra Nabot.</li>
+    <li><strong>Falso Testimonio:</strong> La acusación de maldecir a Dios y al rey (un crimen capital) lleva a la lapidación de Nabot.</li>
+    <li><strong>El Juicio:</strong> Elías predice la muerte de Acab, la destrucción de su casa y la muerte de Jezabel (que será comida por perros).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Conspiración</h5>
+<ul>
+    <li><strong>Lapidación:</strong> El castigo legal por blasfemia.</li>
+    <li><strong>Comida por Perros:</strong> Una muerte y entierro deshonroso (sin entierro adecuado).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Derecho Mosaico:</strong> Jezabel usa el sistema legal israelita para cometer un asesinato.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El crimen de Nabot es la máxima violación del derecho de propiedad y la Ley de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El pecado de Acab y Jezabel es la <span class="highlight">combinación de la codicia real y la manipulación idólatra</span>. Elías demuestra que la justicia de Dios condena el abuso de poder y la violación de la Ley.</p>
                 
@@ -17234,7 +17711,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Muerte como Juicio:</strong> La muerte de Acab cumple las palabras de Elías</li>
                     <li><strong>Providencia:</strong> La flecha al azar es la mano de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Falsos Profetas y la Muerte del Rey</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Profeta Fiel y la Disfraz</h5>
+<ul>
+    <li><strong>Alianza de Reyes:</strong> Acab y Josafat (rey de Judá) hacen una alianza militar para retomar Ramot de Galaad (territorio importante).</li>
+    <li><strong>Falsos Profetas:</strong> Acab reúne a 400 profetas de la corte que le profetizan la victoria (lo que el rey quiere escuchar).</li>
+    <li><strong>Micaías:</strong> Micaías (el profeta de YHWH) profetiza la derrota y la muerte de Acab. Es golpeado por un falso profeta.</li>
+    <li><strong>Disfraz:</strong> Acab se disfraza en la batalla (ocultando su realeza), mientras que Josafat usa su vestidura real.</li>
+    <li><strong>Muerte:</strong> Acab es alcanzado por una flecha lanzada al azar (la mano de Dios). Los perros lamen su sangre (cumpliendo la profecía de Elías).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Profecía Pagana</h5>
+<ul>
+    <li><strong>Golpe en la Cara:</strong> Golpear al profeta en la mejilla era un signo de desprecio y desafío.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Disfraz Inútil:</strong> La mano de YHWH encuentra al rey disfraza, demostrando que nadie puede escapar al juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio sobre Acab se cumple, y la palabra del profeta de YHWH prevalece sobre la mentira de los 400 profetas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El libro de 1 Reyes concluye con la <span class="highlight">certeza del juicio de Dios</span>. El rey que odia la verdad (Acab) es condenado. La Palabra de Dios se cumple incluso a través de eventos aparentemente aleatorios.</p>
                 
@@ -17268,7 +17768,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio con Fuego:</strong> Elías reafirma el señorío de YHWH (fuego) sobre Baal</li>
                     <li><strong>Muerte Profetizada:</strong> Ocozías muere como castigo por su falta de fe</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Juicio Profético y Adoración Extranjera</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Profeta y el Castigo</h5>
+<ul>
+    <li><strong>Consulta a Baal-zebub:</strong> Acazías (rey de Israel) consulta a **Baal-zebub** (dios filisteo de Ecrón) para saber si sanará, un acto de **apostasía directa**.</li>
+    <li><strong>Elías, el Juez:</strong> Elías confronta al rey. Los mensajeros describen a Elías por su **vestimenta de pelo y cinturón de cuero** (el uniforme del profeta).</li>
+    <li><strong>Fuego de YHWH:</strong> Elías invoca fuego del cielo para consumir a los capitanes y sus soldados, demostrando que **YHWH es el único Dios** y que el rey es un falso ungido.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adivinación y la Vestidura</h5>
+<ul>
+    <li><strong>Consulta Extranjera:</strong> Consultar dioses extranjeros era un acto común en la desesperación o para la adivinación.</li>
+    <li><strong>El Profeta Simple:</strong> La vestimenta simple de Elías contrastaba con la opulencia de la corte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Soberanía:</strong> Elías demuestra que la soberanía de YHWH se extiende incluso a las fronteras de los dioses filisteos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio sobre Acazías es la última confrontación de Elías contra el culto real de Baal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El uso del fuego por Elías es el <span class="highlight">juicio de Dios</span> contra la obstinada idolatría de la casa de Acab. El rechazo a buscar a YHWH sella el destino del rey.</p>
                 
@@ -17300,7 +17822,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder de Dios:</strong> El carro de fuego y el torbellino</li>
                     <li><strong>Doble Porción:</strong> La bendición de primogenitura para el ministerio de Eliseo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Ascensión de Elías y la Sucesión Profética</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Transferencia de Autoridad</h5>
+<ul>
+    <li><strong>La Ascensión:</strong> Elías es llevado al cielo en un **carro de fuego y caballos de fuego** (una teofanía).</li>
+    <li><strong>Doble Porción:</strong> Eliseo pide una **doble porción del espíritu de Elías** (la porción del primogénito), un rito de **sucesión espiritual**.</li>
+    <li><strong>Manto Profético:</strong> Elías y luego Eliseo golpean el Jordán con el **manto** (símbolo de la autoridad), dividiendo las aguas.</li>
+    <li><strong>Burla de Bet-el:</strong> Los jóvenes de Bet-el (un centro de idolatría) se burlan de Eliseo. Eliseo los maldice, y son atacados por osas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Profecía y la Deshonra</h5>
+<ul>
+    <li><strong>Sucesión:</strong> Los discípulos de los profetas (hijos de los profetas) eran una clase reconocida.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Manto:</strong> El manto de Elías es la prueba visible de que la **autoridad de YHWH** ha pasado a Eliseo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Eliseo es confirmado como el sucesor de Elías, y su ministerio (enfocado en la sanación) comienza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El traslado de Elías es la <span class="highlight">confirmación de su justicia</span> ante Dios. El manto de Elías (símbolo de autoridad) cae sobre Eliseo, quien realizará el doble de milagros que Elías.</p>
                 
@@ -17333,7 +17877,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Milagro de Provisión:</strong> Agua sin lluvia</li>
                     <li><strong>Victoria sobre Moab:</strong> El juicio contra el enemigo de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Guerra, Alianza y Sacrificio Humano</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Consulta y la Provisión</h5>
+<ul>
+    <li><strong>Alianza Militar:</strong> Joram (Israel), Josafat (Judá) y el rey de Edom atacan a **Moab**.</li>
+    <li><strong>Consulta al Profeta:</strong> Eliseo pide un **músico** para que la mano de YHWH venga sobre él.</li>
+    <li><strong>El Engaño de la Sangre:</strong> Eliseo profetiza que el valle se llenará de agua. La luz del sol hace que el agua se vea **roja** (como sangre) ante los moabitas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios Extremos</h5>
+<ul>
+    <li><strong>Sacrificio de Primogénito:</strong> El rey de Moab (Mesá) sacrifica a su **hijo primogénito** sobre el muro para que su dios (Quemos) le dé la victoria.</li>
+    <li><strong>Desesperación:</strong> El sacrificio humano es el clímax de la desesperación en la guerra, un rito pagano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Provisión vs. Sacrificio:</strong> YHWH provee milagrosamente agua y victoria, mientras que el dios de Moab exige la vida de un niño.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La victoria de Israel es un acto de gracia a Josafat, no al apóstata Joram.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El milagro de provisión demuestra que <span class="highlight">Dios aún interviene</span> por Su pueblo, incluso por la fe de un solo rey justo (Josafat), a pesar de la impiedad de Israel.</p>
                 
@@ -17365,7 +17931,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resurrección:</strong> El milagro más grande, el poder sobre la muerte</li>
                     <li><strong>Hospitalidad:</strong> La bendición recibida por la Sunamita</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Milagros de Provisión y Vida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Hospitalidad y la Multiplicación</h5>
+<ul>
+    <li><strong>Aceite de la Viuda:</strong> Eliseo multiplica el **aceite** de la viuda para pagar la deuda y evitar que sus hijos sean tomados como esclavos.</li>
+    <li><strong>La Sunamita:</strong> La mujer rica de **Sunem** construye una "cámara de paredes" (un cuarto en la azotea) para el profeta, un acto de **piedad y hospitalidad**.</li>
+    <li><strong>Muerte y Resurrección:</strong> Eliseo resucita al hijo de la sunamita.</li>
+    <li><strong>El Guiso Venenoso:</strong> Eliseo neutraliza un **guiso venenoso** para los hijos de los profetas con harina.</li>
+    <li><strong>Pan de Primicias:</strong> Eliseo alimenta a cien hombres con 20 panes (milagro de multiplicación).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Esclavitud por Deuda</h5>
+<ul>
+    <li><strong>Esclavitud:</strong> La deuda podía llevar a la **esclavitud de los hijos** o la familia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Gracia en la Vida Diaria:</strong> Los milagros de Eliseo son actos de **gracia y provisión**, centrados en la necesidad de los pobres y los justos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Eliseo demuestra el poder de YHWH sobre la escasez, la muerte y el veneno.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Los milagros de Eliseo son <span class="highlight">milagros de vida</span>, compasión y provisión, en contraste con los milagros de juicio de Elías (fuego). Reflejan la gracia de Dios en medio de un reino malvado.</p>
                 
@@ -17398,7 +17987,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gracia Gentil:</strong> La sanidad se extiende a un enemigo de Israel</li>
                     <li><strong>Codicia:</strong> El pecado de Giezi es castigado severamente</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lepra, Riqueza y el Honor del Profeta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Curación y el Rechazo del Soborno</h5>
+<ul>
+    <li><strong>Naamán, el Sirio:</strong> Naamán (un gran comandante sirio) tiene **lepra**. La fe de una esclava lleva a su búsqueda del profeta.</li>
+    <li><strong>El Test de la Humildad:</strong> Eliseo ordena a Naamán sumergirse **siete veces** en el **río Jordán** (un río menor, no el Abana de Damasco).</li>
+    <li><strong>Rechazo del Regalo:</strong> Eliseo se niega a aceptar el **regalo/soborno** de Naamán (oro, plata, vestiduras).</li>
+    <li><strong>El Pecado de Giezi:</strong> Giezi (el siervo) persigue a Naamán y acepta el soborno. Es castigado con la **lepra de Naamán**.</li>
+    <li><strong>La Tierra de Israel:</strong> Naamán pide llevarse un poco de la **tierra de Israel** (para adorar a YHWH).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Intercambio de Regalos</h5>
+<ul>
+    <li><strong>Soborno:</strong> Los regalos eran necesarios para recibir un favor o sanación en las culturas paganas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Gracia Gratuita:</strong> La sanación es un acto de gracia de YHWH, y no un bien comerciable.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La gracia de YHWH es para el enemigo extranjero, pero el juicio cae sobre el siervo avaro de Eliseo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La curación de Naamán demuestra que <span class="highlight">el poder de YHWH no se limita a Israel</span>, sino que se extiende a los gentiles. El requisito es la obediencia simple, no la pompa o la grandeza.</p>
                 
@@ -17430,7 +18042,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ejército Invisible:</strong> Los carros de fuego defienden al siervo de Dios</li>
                     <li><strong>Misericordia:</strong> El rey de Israel perdona al ejército sirio por orden de Eliseo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Milagros Militares y la Guerra Ciega</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra Invisible</h5>
+<ul>
+    <li><strong>El Hacha Flotante:</strong> Un profeta pierde su hacha de **hierro** (material valioso). Eliseo hace flotar el hierro.</li>
+    <li><strong>Espionaje Sobrenatural:</strong> Eliseo, por profecía, advierte al rey de Israel sobre las **emboscadas** sirias.</li>
+    <li><strong>Carros de Fuego:</strong> El siervo de Eliseo ve el **monte lleno de carros y caballos de fuego** (la protección angélica).</li>
+    <li><strong>Misericordia:</strong> Eliseo ciega al ejército sirio y los lleva a Samaria. El rey de Israel los alimenta y los deja ir.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra con Carros</h5>
+<ul>
+    <li><strong>Jerarquía:</strong> La protección de Eliseo sobre el rey de Israel es un medio para que el rey sirio sepa que **YHWH está con Israel**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Guerra No Letal:</strong> La guerra es ganada por la **intervención sobrenatural** y la misericordia, no por la sangre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Elías trajo juicio; Eliseo trae misericordia y protección constante.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La visión del ejército celestial reafirma que <span class="highlight">el profeta de Dios está bajo la protección divina</span>. La guerra de Israel se gana a través del poder profético, no de la fuerza militar.</p>
                 
@@ -17463,7 +18097,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Incredulidad Castigada:</strong> El oficial incrédulo no disfruta de la bendición</li>
                     <li><strong>Buena Nueva:</strong> Los leprosos anuncian la liberación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Asedio, Hambre y Profecía de Abundancia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Desesperación y la Provisión</h5>
+<ul>
+    <li><strong>Hambre Extrema:</strong> El asedio sirio lleva a un **hambre extrema** en Samaria. La cabeza de asno y el estiércol se venden. Una mujer come a su propio hijo (un cumplimiento de la maldición del pacto).</li>
+    <li><strong>Profecía de Eliseo:</strong> Eliseo profetiza que habrá **abundancia** de grano al día siguiente.</li>
+    <li><strong>Los Cuatro Leprosos:</strong> Cuatro leprosos (excluidos sociales) descubren que los sirios han huido.</li>
+    <li><strong>Juicio sobre la Incredulidad:</strong> El noble que dudó de la profecía de Eliseo es **aplastado** por la multitud.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Terror y la Huida</h5>
+<ul>
+    <li><strong>Asedio:</strong> El asedio era la forma más brutal de guerra para forzar la rendición.</li>
+    <li><strong>Saqueo:</strong> El campamento sirio abandonado se convierte en el **botín** del pueblo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>YHWH Provee:</strong> Dios usa el miedo del ejército sirio y a los **excluidos sociales** para liberar al pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La palabra profética de YHWH es la única certeza en medio del caos y el hambre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El milagro de la provisión es una <span class="highlight">demostración de la fidelidad de Dios</span> para librar a Su pueblo de la desesperación. El escéptico es condenado por dudar de la palabra de Dios.</p>
                 
@@ -17495,7 +18152,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Influencia de la Idolatría:</strong> Judá, por matrimonio, adopta las costumbres de Israel (casa de Acab)</li>
                     <li><strong>Linaje de David:</strong> Dios preserva el linaje de Judá por causa del pacto con David</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Restitución Real y Guerra con Judá</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley de la Propiedad</h5>
+<ul>
+    <li><strong>Restitución de Tierras:</strong> Eliseo advierte a la sunamita que huya de la hambruna de siete años. Al regresar, el rey ordena la **restitución de sus tierras**.</li>
+    <li><strong>La Influencia Profética:</strong> La palabra del siervo de Eliseo (Giezi) persuade al rey de Israel de restaurar la propiedad.</li>
+    <li><strong>Sucesión en Damasco:</strong> Eliseo profetiza a **Hazael** que será rey de Siria. Hazael asesina a Ben-hadad, usurpando el trono.</li>
+    <li><strong>Malos Reyes de Judá:</strong> Los reyes de Judá (Joram y Ocozías) siguen el **mal camino** de la casa de Acab (su suegro) debido a la influencia de Atalía.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Usurpación y la Hegemonía</h5>
+<ul>
+    <li><strong>Usurpación:</strong> El asesinato del rey por el sucesor era común en Siria (Hazael).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Protección de la Tierra:</strong> La tierra y la propiedad de los piadosos son protegidas por la palabra de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La maldad de Joram (Judá) es tan grande que el profeta tiene que rogar por la mujer piadosa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Sunamita (el remanente fiel) es <span class="highlight">recompensada con la restauración</span> en medio del caos. El linaje de David está al borde de la destrucción, pero se preserva por la fidelidad de Dios al pacto.</p>
                 
@@ -17527,7 +18206,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exterminio:</strong> La purga total de la casa de Acab</li>
                     <li><strong>Juicio Cumplido:</strong> La profecía de Elías sobre Acab, Jezabel y Joram se cumple con precisión</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Golpe de Jehú y la Muerte de Jezabel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Unción y la Venganza Divina</h5>
+<ul>
+    <li><strong>Unción de Jehú:</strong> Eliseo envía a un profeta para ungir a **Jehú** (capitán del ejército) como rey de Israel y juez de la casa de Acab.</li>
+    <li><strong>La Venganza:</strong> Jehú es ungido para ejecutar el **juicio de YHWH** sobre la dinastía de Acab por el asesinato de Nabot y la idolatría.</li>
+    <li><strong>La Muerte de Joram y Ocozías:</strong> Joram (Israel) y Ocozías (Judá) son asesinados. Joram muere en el **campo de Nabot**, cumpliendo la profecía.</li>
+    <li><strong>La Muerte de Jezabel:</strong> Jezabel es arrojada desde la ventana, y su cuerpo es **comido por perros**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra Post-Muerte</h5>
+<ul>
+    <li><strong>Deshonra:</strong> Ser devorada por perros (sin entierro) era la **máxima deshonra** y un símbolo de maldición.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Juicio es Absoluto:</strong> La violencia del golpe de Jehú es el instrumento de la **justicia y el juicio** de YHWH, cumpliendo la palabra de Elías.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La unción de Jehú demuestra que Dios utiliza a los hombres para llevar a cabo Su juicio soberano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El violento golpe de Jehú es el <span class="highlight">juicio de Dios</span> contra la obstinada idolatría institucionalizada por Acab y Jezabel. Muestra que Dios usa instrumentos humanos para ejecutar Su ira.</p>
                 
@@ -17558,7 +18259,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Destrucción de Baal:</strong> La eliminación total del culto a Baal en Israel</li>
                     <li><strong>Obediencia Parcial:</strong> Jehú no elimina la idolatría de Betel y Dan</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Purga Total y Matanza de Baal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Purificación Religiosa</h5>
+<ul>
+    <li><strong>Las Cabezas de los 70 Hijos:</strong> Jehú ordena que se envíen las cabezas de los 70 hijos de Acab a Samaria. | La **exhibición pública** de cabezas era una práctica para consolidar el poder.</li>
+    <li><strong>El Exterminio:</strong> Jehú mata a todos los parientes y oficiales de Acab. | La **purga total** elimina cualquier amenaza de venganza o sucesión.</li>
+    <li><strong>La Matanza de Baal:</strong> Jehú reúne a todos los adoradores de Baal en el **Templo de Baal**. | El Templo de Baal era el centro del culto estatal de Jezabel.</li>
+    <li><strong>Profanación del Templo:</strong> El Templo de Baal es **destruido y convertido en una letrina** (un acto de profanación total para anular el poder del dios).</li>
+    <li><strong>El Pecado de Jeroboam:</strong> A pesar de su fidelidad al juicio, Jehú **no se aparta** de los **becerros de oro**. | El pecado estatal de la **idolatría política** continúa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Consolidación de Poder</h5>
+<ul>
+    <li><strong>Regicidio:</strong> La muerte de un rey y toda su dinastía era la única forma de asegurar el nuevo reinado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Celo Incompleto:</strong> El celo de Jehú es recompensado con una dinastía de cuatro generaciones, aunque falla en la obediencia completa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La purga de Baal es la limpieza de Israel, pero la persistencia de la idolatría de Jeroboam condena al reino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La purga es un <span class="highlight">juicio selectivo</span>: la adoración a Baal es eliminada, pero el pecado original de Israel (los becerros de oro) permanece. La obediencia parcial es insuficiente para asegurar la bendición total.</p>
                 
@@ -17591,7 +18315,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Intervención Sacerdotal:</strong> El sacerdote Joiada salva la monarquía</li>
                     <li><strong>Preservación:</strong> Dios preserva milagrosamente el linaje de David por Su fidelidad al pacto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Usurpación, Escondite y Coronación del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Trono Davídico</h5>
+<ul>
+    <li><strong>Usurpación de Atalía:</strong> **Atalía** (hija de Jezabel) mata a toda la simiente real de Judá. | La matanza era un acto de **usurpación violenta** y paganismo.</li>
+    <li><strong>El Príncipe Oculto:</strong> El sacerdote Joiada esconde al infante **Joás** (el único heredero de David) en el Templo durante seis años. | La **supervivencia del heredero** asegura la promesa davídica.</li>
+    <li><strong>Coronación en el Templo:</strong> Joás es ungido y coronado en el Templo, con la guardia y el ejército en formación. | La **coronación religiosa y militar** legitima al rey.</li>
+    <li><strong>Muerte de Atalía:</strong> Atalía es sacada del Templo y ejecutada. | Ejecutarla fuera del Templo evita la **profanación** del lugar santo.</li>
+    <li><strong>Pacto:</strong> Joiada hace un pacto entre YHWH, el rey y el pueblo. | El pacto es la **base de la reforma** religiosa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guardia de la Corte</h5>
+<ul>
+    <li><strong>La Guardia de Élite:</strong> La guardia personal y los corredores eran esenciales para la protección del rey.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Refugio Davídico:</strong> El Templo (la casa de YHWH) se convierte en el **refugio del heredero** de David.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El linaje de David sobrevive por la fidelidad de Joiada, el sacerdote.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La historia de Joás es una <span class="highlight">prueba de la fidelidad de Dios</span>. Satanás (a través de Atalía) intenta aniquilar el linaje del Mesías, pero Dios lo protege en el Templo.</p>
                 
@@ -17623,7 +18370,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dependencia:</strong> La piedad de Joás dependía de Joiada</li>
                     <li><strong>Asesinato:</strong> El juicio contra Joás por su apostasía posterior</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Reparación del Templo y Tributo a Siria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Restauración</h5>
+<ul>
+    <li><strong>Reparación del Templo:</strong> El rey Joás (Judá) ordena que se repare el Templo (dañado por Atalía). | La restauración es la **prioridad de un rey fiel**.</li>
+    <li><strong>Sistema de Recolección:</strong> Se establece un sistema de **caja de donativos** en el Templo para recolectar el dinero, separándolo del cofre de los sacerdotes (una **reforma financiera**).</li>
+    <li><strong>La Muerte de Joiada:</strong> Joás no se mantiene fiel después de la muerte de Joiada (su mentor). | La estabilidad espiritual dependía a menudo de **profetas o sacerdotes rectos**.</li>
+    <li><strong>Tributo a Hazael:</strong> Hazael (rey de Siria) ataca. Joás le envía **todos los tesoros** del Templo y del palacio para que se retire. | El pago de tributo es un signo de **pérdida de soberanía**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Saqueo del Templo</h5>
+<ul>
+    <li><strong>Saqueo:</strong> Los templos eran objetivos primarios de los invasores debido a los tesoros acumulados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fracaso:</strong> La paz se compra con la riqueza del Templo, un acto que no detiene el ciclo de juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fidelidad externa (reparación) no garantiza la fidelidad interna del corazón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Joás demuestra que la <span class="highlight">verdadera piedad debe ser independiente de la guía humana</span>. El culto y la adoración deben ser mantenidos y respetados constantemente.</p>
                 
@@ -17655,7 +18424,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe Insuficiente:</strong> Joás golpea solo tres veces (limitando la victoria)</li>
                     <li><strong>Poder Póstumo:</strong> El milagro en el sepulcro de Eliseo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Muerte de Eliseo y el Milagro de los Huesos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Vidente y la Autoridad</h5>
+<ul>
+    <li><strong>Decadencia en Israel:</strong> Los reyes de Israel continúan siguiendo el pecado de Jeroboam (idolatría política), lo que lleva a la **debilidad y opresión** siria.</li>
+    <li><strong>El Rey Llora:</strong> El rey Joás de Israel llora ante el lecho de muerte de Eliseo: el **"carro de Israel y su caballería"** (el profeta es la verdadera protección militar).</li>
+    <li><strong>La Vara Profética:</strong> Eliseo pide a Joás que golpee el suelo con las flechas. El rey golpea solo tres veces. | El número de golpes es el **límite de la victoria** de Israel (solo tres victorias sobre Siria).</li>
+    <li><strong>El Milagro Post-Muerte:</strong> Un hombre es arrojado a la tumba de Eliseo. Al tocar los **huesos** del profeta, el hombre resucita. | Un milagro final que subraya el **poder continuo de la palabra y el espíritu** de Eliseo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Necromancia y la Guerra</h5>
+<ul>
+    <li><strong>El Campo de Batalla:</strong> Los profetas actuaban como consejeros militares de los reyes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder en la Muerte:</strong> Los huesos del profeta (un objeto que causa impureza ritual) se convierten en un **instrumento de vida**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La falta de fe del rey (solo tres golpes) limita la liberación que Dios había ofrecido.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El milagro de la resurrección en el sepulcro es la <span class="highlight">demostración final del poder de Dios</span> que habitó en Eliseo, y una señal de esperanza para Israel, incluso después de que la profecía cesa.</p>
                 
@@ -17687,7 +18478,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prosperidad Temporal:</strong> El éxito militar de Israel no implica piedad</li>
                     <li><strong>La Palabra del Profeta:</strong> La profecía de Jonás (el profeta) sobre Jeroboam II se cumple</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Venganza de Sangre y Guerra Intracivil</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra Regulada</h5>
+<ul>
+    <li><strong>Amasías (Judá):</strong> Amasías ejecuta a los asesinos de su padre, pero **no mata a sus hijos** (siguiendo la Ley Mosaica que prohíbe el castigo de los hijos por los pecados de los padres).</li>
+    <li><strong>El Proverbio de las Plantas:</strong> Amasías desafía a Joás de Israel a la batalla. Joás le responde con una fábula sobre el **cardo y el cedro** (una **burla diplomática**).</li>
+    <li><strong>La Derrota de Judá:</strong> Israel derrota a Judá, saquea el Templo, y rompe una parte del muro de Jerusalén.</li>
+    <li><strong>Jeroboam II:</strong> Jeroboam II de Israel (el más grande rey después de Salomón) trae **prosperidad y expansión territorial** (cumpliendo una profecía de Jonás).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Saqueo del Templo</h5>
+<ul>
+    <li><strong>Saqueo:</strong> El Templo es saqueado por el propio rey de Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ley:</strong> La justicia de Amasías al seguir la Ley Mosaica es rara en la época.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La prosperidad (Jeroboam II) es un acto de gracia de Dios para evitar la aniquilación total de Israel por parte de los sirios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El éxito de Jeroboam II es un <span class="highlight">último acto de misericordia de Dios</span> (por amor a Israel), pero no un signo de aprobación. El pecado de los becerros de oro persiste.</p>
                 
@@ -17719,7 +18532,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Invasión Asiria:</strong> La gran amenaza del exilio se hace realidad</li>
                     <li><strong>Pecado de Arrogancia:</strong> El castigo de Uzías por usurpar la función sacerdotal</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Anarquía, Lepra y la Amenaza Asiria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Inestabilidad y el Juicio</h5>
+<ul>
+    <li><strong>Uzías (Judá):</strong> Uzías es un buen rey de Judá, pero es golpeado con **lepra** y debe vivir en una casa separada. | El juicio fue por su **usurpación de los derechos sacerdotales**.</li>
+    <li><strong>Anarquía en Israel:</strong> Israel sufre **seis reyes en 40 años**, la mayoría asesinados por un golpe de estado. | La **inestabilidad** es la sentencia de YHWH sobre el reino apóstata.</li>
+    <li><strong>Tributo a Asiria:</strong> Manahem paga un **tributo de 1.000 talentos de plata** a **Tiglath-pileser III de Asiria**. | El pago es el primer gran signo de que Israel es un **estado vasallo**.</li>
+    <li><strong>Exilio Inicial:</strong> Tiglath-pileser toma territorios del Norte de Israel (Galaad, Galilea, Neftalí) y lleva a su gente al **exilio**. | El comienzo del exilio del Norte.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ejecución y el Tributo</h5>
+<ul>
+    <li><strong>Regicidio:</strong> La muerte del rey por conspiración era el método habitual de sucesión en el Reino del Norte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Advertencia:</strong> La lepra de Uzías es un recordatorio de que la Ley y el sacerdocio deben ser respetados.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La inestabilidad de Israel es el castigo por su idolatría y el rechazo a los profetas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La **anarquía en Israel** es el <span class="highlight">juicio de Dios</span> por la incesante idolatría y desobediencia. La arrogancia del rey de Judá (Uzías) es castigada severamente, demostrando la santidad de la ley del Templo.</p>
                 
@@ -17751,7 +18586,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Idolatría Extranjera:</strong> Acaz adapta el culto sirio al Templo de YHWH</li>
                     <li><strong>Dependencia Asiria:</strong> Judá pierde su soberanía e independencia en el Pacto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Templo de Damasco y la Influencia Asiria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Apostasía y la Profanación</h5>
+<ul>
+    <li><strong>El Rey Acaz (Judá):</strong> Acaz es el **peor rey de Judá** y practica **sacrificios humanos** (quemando a su hijo).</li>
+    <li><strong>Alianza con Asiria:</strong> Acaz se alía con **Tiglath-pileser III de Asiria** (traición a YHWH).</li>
+    <li><strong>El Altar de Damasco:</strong> Acaz ve un altar en Damasco y ordena al sacerdote Urías que construya una **copia exacta** en el Templo de Jerusalén. | La **profanación total del Templo** al reemplazar el altar de bronce con un altar pagano.</li>
+    <li><strong>El Carro y los Utensilios:</strong> Acaz retira y mutila los utensilios sagrados del Templo, para honrar al dios asirio. | Los símbolos sagrados son **disminuidos** por el rey.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Sincretismo y el Sacrificio</h5>
+<ul>
+    <li><strong>Sincretismo:</strong> La mezcla de la adoración a YHWH con los dioses paganos para asegurar la paz con Asiria.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Traición al Pacto:</strong> El Templo (el centro del pacto) es corrompido por el propio rey para complacer al poder extranjero.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio sobre Judá se acelera debido a la maldad de Acaz.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Acaz es la <span class="highlight">peor traición al pacto de David</span>, llevando la idolatría a los confines del Templo. Confiar en Asiria en lugar de YHWH sella la dependencia política y espiritual.</p>
                 
@@ -17783,7 +18640,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Causa de la Destrucción:</strong> La incesante idolatría y desobediencia al Pacto</li>
                     <li><strong>Origen de los Samaritanos:</strong> Mezcla de pueblos y religiones</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Caída de Samaria y el Sincretismo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio y el Exilio</h5>
+<ul>
+    <li><strong>Caída de Samaria:</strong> Salmanasar V de Asiria asedia **Samaria** durante tres años.</li>
+    <li><strong>El Exilio (Israel):</strong> El pueblo es exiliado al corazón del imperio asirio (Halah y Habor). | El exilio es la **sentencia divina** por la idolatría y el rechazo a los profetas.</li>
+    <li><strong>Razón Teológica:</strong> El texto explica que la caída no fue por la fuerza asiria, sino por el **abandono del pacto** y la adopción de costumbres paganas.</li>
+    <li><strong>Repoblación Asiria:</strong> Asiria repuebla Samaria con gente de Babilonia, Cuta, etc. | La mezcla de pueblos era una **política asiria** para romper el nacionalismo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Repoblación y la Asimilación</h5>
+<ul>
+    <li><strong>Samaritanos:</strong> La mezcla de los pueblos asirios con el culto a YHWH (por miedo a los leones) forma la base del **sincretismo samaritano**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fin de un Reino:</strong> El Reino del Norte es destruido permanentemente como un acto de juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El exilio de Israel es el cumplimiento final de las maldiciones del pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La caída de Samaria es el <span class="highlight">juicio de Dios</span> por 200 años de pecado e idolatría institucionalizada. Demuestra que Dios cumple Sus advertencias de juicio.</p>
                 
@@ -17816,7 +18695,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nehustán:</strong> La destrucción del objeto sagrado convertido en ídolo</li>
                     <li><strong>Conflicto con Asiria:</strong> La resistencia de Judá a la hegemonía asiria</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ezequías, Reforma y Asedio Asirio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Reforma y la Confianza</h5>
+<ul>
+    <li><strong>Ezequías (Judá):</strong> Ezequías (el mejor rey) lleva a cabo una **gran reforma religiosa**. | Destruye los lugares altos y rompe la **Serpiente de Bronce** (Nehustán) que era adorada.</li>
+    <li><strong>Rebelión:</strong> Ezequías se rebela contra Asiria (la fidelidad a YHWH le da valentía).</li>
+    <li><strong>Senaquerib:</strong> Senaquerib (el rey asirio) sitia las ciudades de Judá. | La invasión está documentada en los **registros asirios**.</li>
+    <li><strong>Guerra Psicológica:</strong> El oficial asirio, **Rabsaces**, se burla de Judá en **hebreo** (el idioma local) para desmoralizar a la gente.</li>
+    <li><strong>El Mensaje:</strong> Rabsaces insta al pueblo a no confiar en YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Humillación y la Burla</h5>
+<ul>
+    <li><strong>Burla:</strong> Usar la lengua nativa para la burla era una forma de guerra psicológica.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fe del Rey:</strong> Ezequías pone su confianza en YHWH y no en las alianzas militares.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La reforma de Ezequías es el medio por el cual Dios protege a Jerusalén.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La reforma de Ezequías es una <span class="highlight">restauración de la fe en YHWH</span>. Destruir el Nehustán demuestra que ningún objeto, por sagrado que sea, debe convertirse en objeto de adoración.</p>
                 
@@ -17850,7 +18752,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Liberación Milagrosa:</strong> La derrota asiria por un solo ángel</li>
                     <li><strong>Juicio sobre Senaquerib:</strong> El castigo por su blasfemia</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Intercesión y el Milagro de la Liberación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Oración y el Profeta</h5>
+<ul>
+    <li><strong>Consulta a Isaías:</strong> Ezequías rasga sus vestidos y consulta al profeta **Isaías**. | El rey reconoce que la esperanza está en la **palabra profética** de YHWH.</li>
+    <li><strong>Oración en el Templo:</strong> Ezequías ora en el Templo, reconociendo que los dioses de las naciones eran solo **obra de manos de hombres**.</li>
+    <li><strong>La Profecía de Isaías:</strong> Isaías profetiza que Senaquerib no disparará una sola flecha contra Jerusalén.</li>
+    <li><strong>Juicio Angelical:</strong> El **Ángel de YHWH** mata a 185.000 soldados asirios en una sola noche. | La intervención milagrosa de Dios.</li>
+    <li><strong>Muerte de Senaquerib:</strong> Senaquerib es **asesinado por sus propios hijos** en el templo de su dios, Nisroc. | El cumplimiento exacto de la profecía.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deidad Protectora</h5>
+<ul>
+    <li><strong>Asesinato en el Templo:</strong> El asesinato en un templo pagano era un acto de profanación, pero en el caso de Senaquerib, es el juicio divino.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder de la Oración:</strong> La oración de un solo hombre de fe y la palabra de un profeta son más poderosas que el ejército más grande del mundo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Templo y la ciudad de Jerusalén son protegidos para el cumplimiento de la promesa davídica.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La liberación de Jerusalén es la <span class="highlight">prueba del poder de Dios</span> y Su fidelidad a Su pacto con David. Dios protege Su ciudad y castiga a aquellos que se burlan de Su nombre.</p>
                 
@@ -17884,7 +18809,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrogancia:</strong> Ezequías peca al mostrar su riqueza a Babilonia</li>
                     <li><strong>Profecía de Exilio:</strong> El cambio de Asiria a Babilonia como ejecutor del juicio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Curación, Signos y Diplomacia con Babilonia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Curación y el Signo</h5>
+<ul>
+    <li><strong>Profecía de Muerte:</strong> Isaías le dice a Ezequías que su enfermedad es mortal. Ezequías llora, y la oración **revierte la sentencia divina**.</li>
+    <li><strong>El Signo del Sol:</strong> Dios da un signo a Ezequías: la **sombra regresa 10 grados** en el reloj de sol. | Un milagro astronómico que sella la promesa de curación.</li>
+    <li><strong>La Embajada de Babilonia:</strong> El rey de Babilonia envía mensajeros para felicitar a Ezequías por su curación.</li>
+    <li><strong>La Necedad:</strong> Ezequías muestra a los babilonios todo el **tesoro** y las armas (un acto de orgullo).</li>
+    <li><strong>Juicio Futuro:</strong> Isaías profetiza que todo será llevado a **Babilonia** (el futuro invasor) por la necedad de Ezequías.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Diplomacia y la Ostentación</h5>
+<ul>
+    <li><strong>Ostentación:</strong> Mostrar el tesoro era una forma de afirmar la riqueza y el poder ante los diplomáticos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Consecuencia:</strong> La necedad de Ezequías condena a Judá.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La soberbia de Ezequías opaca su fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El error de Ezequías demuestra la <span class="highlight">fragilidad de la fe humana</span>. La promesa de la vida debe ir acompañada de la humildad, no de la exhibición de orgullo nacional ante el enemigo.</p>
                 
@@ -17916,7 +18864,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Derramamiento de Sangre:</strong> Manasés asesina a profetas y justos</li>
                     <li><strong>Juicio Inmutable:</strong> Dios decide que el destino de Judá está sellado por su maldad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Manasés, Apostasía Real y Violencia Profética</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Apostasía Extrema</h5>
+<ul>
+    <li><strong>Manasés (Judá):</strong> Manasés (hijo de Ezequías) es el rey más malvado, reinando 55 años. | Reconstruye los lugares altos, erige un **poste de Astarté** en el Templo y consulta a los muertos.</li>
+    <li><strong>Sacrificio Humano:</strong> Manasés quema a su hijo como ofrenda (Moloc). | Un acto de **idolatría extrema**.</li>
+    <li><strong>Violencia Profética:</strong> Manasés **derrama mucha sangre inocente** (probablemente matando a los profetas de YHWH).</li>
+    <li><strong>Sentencia de la Regla de Medir:</strong> YHWH sentenció que mediría a Jerusalén con la **"regla de Samaria"** (el mismo juicio que cayó sobre Israel).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Sacrificio de Niños</h5>
+<ul>
+    <li><strong>Moloc:</strong> La quema de niños era una práctica cananea que se había infiltrado en Judá.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Irrevocabilidad:</strong> La maldad de Manasés es tan grande que el juicio sobre Judá se sella.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio sobre Judá es irrevocable debido a la perversión del corazón del pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Manasés es el <span class="highlight">punto de no retorno</span> para Judá. Su pecado, especialmente el derramamiento de sangre inocente, es imperdonable para el destino nacional.</p>
                 
@@ -17949,7 +18919,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrepentimiento Real:</strong> La reacción humilde de Josías</li>
                     <li><strong>Juicio Retrasado:</strong> La misericordia de Dios por la piedad del rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Rey Niño y el Libro de la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Reforma y la Autoridad de la Palabra</h5>
+<ul>
+    <li><strong>Josías (Judá):</strong> Josías es coronado a los **ocho años**. | Su reinado ocurre mientras Asiria se desmorona y Babilonia asciende.</li>
+    <li><strong>Reparación del Templo:</strong> Josías ordena la reparación del Templo, descuidado bajo Manasés. | La restauración física es el **primer paso** hacia la reforma religiosa.</li>
+    <li><strong>Descubrimiento de la Ley:</strong> El sacerdote Hilcías halla el **Libro de la Ley** (probablemente Deuteronomio) en el Templo. | El descubrimiento muestra lo lejos que se había desviado el pueblo.</li>
+    <li><strong>La Reacción:</strong> Josías **rasga sus ropas** (el rito de arrepentimiento) y consulta a la **profetisa Hulda**. | Josías se somete a la autoridad de la Palabra escrita.</li>
+    <li><strong>Profecía de Hulda:</strong> Hulda predice el **juicio total** sobre Judá, pero la paz para Josías porque su corazón es sensible. | El juicio se retrasa por el arrepentimiento.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Archivos del Templo</h5>
+<ul>
+    <li><strong>Archivos:</strong> Los templos eran los archivos donde se guardaban los documentos importantes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Hulda la Profetisa:</strong> Un profeta mujer es consultada, indicando que el Espíritu de Dios habla a través de hombres y mujeres.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Palabra de Dios es la fuente de la verdad y el arrepentimiento, lo que inspira la reforma de Josías.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El hallazgo del Libro de la Ley es la <span class="highlight">fuente de la verdadera reforma</span>. La humildad y el arrepentimiento de Josías son la última oportunidad de Judá antes del exilio.</p>
                 
@@ -17981,7 +18974,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pascua:</strong> La restauración del culto central</li>
                     <li><strong>Muerte Trágica:</strong> Josías muere antes del juicio profetizado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Purga de la Idolatría y la Pascua</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Purificación y el Juicio</h5>
+<ul>
+    <li><strong>El Pacto Público:</strong> Josías lee el Libro de la Ley y hace un **pacto solemne** para guardar los mandamientos.</li>
+    <li><strong>Purga de la Idolatría:</strong> Josías destruye los lugares altos, las aśeras y profana los lugares de culto. | El objetivo era la **purificación total** de la tierra.</li>
+    <li><strong>Profanación de Bet-el:</strong> Josías profana el altar de **Jeroboam en Bet-el**, cumpliendo la profecía de 1 Reyes 13.</li>
+    <li><strong>La Pascua:</strong> Josías celebra la **Pascua** como nunca antes se había hecho desde el tiempo de los Jueces. | Un acto de **restauración del culto levítico**.</li>
+    <li><strong>Muerte de Josías:</strong> Josías muere en una batalla contra el **Faraón Necao de Egipto** en Meguido. | Su muerte prematura es el cumplimiento de la profecía (no ver el juicio venidero).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Exterminación del Culto</h5>
+<ul>
+    <li><strong>Quema de Huesos:</strong> La quema de huesos humanos sobre un altar era un acto de **profanación final** para anular el poder del lugar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Piedad:</strong> La reforma de Josías es la manifestación de la piedad más grande en la historia de los reyes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El celo por la purificación demuestra que la vida de la nación está ligada a la santidad del pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La reforma de Josías demuestra que <span class="highlight">la obediencia a la Ley es la única forma de vida</span> para Israel. Su muerte prematura es el cumplimiento de la misericordia de Dios.</p>
                 
@@ -18014,7 +19030,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Primera Deportación:</strong> El exilio comienza con los líderes y el rey</li>
                     <li><strong>El Castigo por Manasés:</strong> El libro reitera que el pecado de Manasés es irreversible</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Invasión, Vasallaje y Primer Exilio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Vasallaje y la Profecía</h5>
+<ul>
+    <li><strong>Invasión Babilonia:</strong> **Nabucodonosor**, rey de Babilonia, invade Judá. | Babilonia es el **instrumento del juicio** de YHWH.</li>
+    <li><strong>El Primer Exilio (597 a.C.):</strong> Nabucodonosor se lleva al rey **Joaquín**, su madre, sus esposas y todos los nobles y guerreros al exilio. | Una **pérdida de liderazgo** y habilidad.</li>
+    <li><strong>Sedequías:</strong> Nabucodonosor pone a Sedequías (tío de Joaquín) como **rey títere** en Jerusalén. | Sedequías es el **último rey** de Judá.</li>
+    <li><strong>Cumplimiento de la Palabra:</strong> La destrucción es el resultado del pecado de **Manasés** y la incredulidad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Lealtad al Imperio</h5>
+<ul>
+    <li><strong>Reyes Títeres:</strong> Nombrar a un familiar del rey para gobernar era un método común para asegurar la lealtad al imperio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Juicio Comienza:</strong> El exilio es la ejecución de la sentencia profetizada.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La palabra de YHWH es la única autoridad que se cumple, incluso a través de un rey pagano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La deportación es el <span class="highlight">juicio inmutable</span> profetizado por Manasés y ratificado por Hulda. La paciencia de Dios se agota, y el exilio se vuelve inevitable.</p>
                 
@@ -18048,7 +19086,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Completo:</strong> La profecía del exilio se cumple totalmente</li>
                     <li><strong>Esperanza Mesiánica:</strong> La liberación de Joaquín asegura que el linaje de David sobrevive</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Caída de Jerusalén y el Exilio Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio Total y la Promesa</h5>
+<ul>
+    <li><strong>Destrucción del Templo:</strong> Los babilonios queman el **Templo de Salomón**, el palacio y todas las casas de Jerusalén. | La destrucción del Templo es el **fin del centro de culto**.</li>
+    <li><strong>Asedio y Hambre:</strong> El asedio de dos años y medio lleva a la **hambruna extrema**.</li>
+    <li><strong>Sedequías Cegado:</strong> Sedequías es capturado, sus **hijos son asesinados** ante sus ojos, y luego **es cegado**. | La muerte del último rey davídico en el trono es un símbolo de maldición.</li>
+    <li><strong>Gedalías:</strong> El gobernador Gedalías es nombrado, pero es asesinado. El resto del pueblo huye a Egipto. | La **dispersión total** del remanente.</li>
+    <li><strong>Gracia Final:</strong> El rey babilonio saca a **Joaquín** de la prisión y le permite comer en su mesa (un pequeño acto de gracia). | Una nota de **esperanza** para el linaje davídico.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra Total</h5>
+<ul>
+    <li><strong>Saqueo y Destrucción:</strong> La destrucción del Templo era un símbolo de la derrota total del dios de la nación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Trono de David:</strong> El acto final de gracia con Joaquín es la preservación de la línea davídica.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro cierra con el exilio, pero el acto de misericordia con Joaquín apunta a la **fidelidad de YHWH a Su pacto**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La caída de Jerusalén y la destrucción del Templo es la <span class="highlight">culminación del juicio de Dios</span>. El libro termina con la destrucción y el exilio, pero la liberación de Joaquín, que come en la mesa del rey, es un pequeño brote de esperanza que confirma que el **Pacto Davídico** no ha sido destruido, sino solo castigado.</p>
                 
@@ -18082,7 +19143,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Énfasis en la Elección:</strong> La línea de bendición pasa por Sem y Abraham</li>
                     <li><strong>Linaje de David:</strong> La genealogía es la base para el pacto real</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Genealogías de Adán a Abraham</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Linaje y la Identidad Tribal</h5>
+<ul>
+    <li><strong>La Genealogía Universal:</strong> El libro comienza con Adán, vinculando la historia de Israel con la **historia de la humanidad** (una perspectiva universalista).</li>
+    <li><strong>La Lista de los Hijos:</strong> El registro de la ascendencia es crucial para la **identidad post-exílica** (demostrar quién es legítimamente israelita).</li>
+    <li><strong>Énfasis en Sem:</strong> La línea se centra en los descendientes de Noé a través de **Sem**, la línea de la promesa.</li>
+    <li><strong>Líneas Extranjeras:</strong> Se incluyen las genealogías de los hijos de Noé (Jafet y Cam) y las genealogías de los hijos de Esaú, para establecer la **relación de parentesco** con las naciones vecinas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Crónicas Reales</h5>
+<ul>
+    <li><strong>Registros de Reyes:</strong> Las crónicas reales de la antigüedad a menudo comenzaban con los ancestros para legitimar el trono.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Sacerdote:</strong> El registro es una **lista de pureza**, para la organización del templo futuro.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La genealogía establece que la elección de Israel se basa en un acto de Dios que se remonta a la Creación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La genealogía asegura a los exiliados que <span class="highlight">son el mismo pueblo</span> del que habla la Escritura. Es una prueba de que Dios cumplió Sus promesas de multiplicación a los patriarcas.</p>
                 
@@ -18114,7 +19197,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pacto Davídico:</strong> La preparación genealógica para el rey ideal</li>
                     <li><strong>Unidad Tribal:</strong> La conexión de todas las tribus a través de Jacob</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Genealogía de Judá y la Casa de David</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Primogénito y la Preeminencia</h5>
+<ul>
+    <li><strong>Primacía de Judá:</strong> El enfoque salta directamente a la tribu de **Judá**, ya que esta tribu lleva el linaje de David (el rey legítimo y el Mesías futuro).</li>
+    <li><strong>Línea de Peretz:</strong> El registro se centra en la línea de **Peretz** (hijo de Judá), de donde proviene David.</li>
+    <li><strong>El Linaje de Caleb:</strong> Se presta especial atención a Caleb y sus hijos, destacando la **conexión con la tierra** (Hebrón) y la fidelidad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Honor Tribal</h5>
+<ul>
+    <li><strong>Honor:</strong> La posición de cada tribu se establecía por el registro, lo que aseguraba su lugar en el Israel restaurado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Genealogía Selectiva:</strong> El cronista omite la historia de Judá y Tamar (Génesis 38), centrándose solo en la **conexión con David**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Se establece la **legitimidad** del trono davídico sobre el cual se funda la esperanza post-exílica.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El enfoque en Judá confirma que la <span class="highlight">realeza y el Mesías</span> provienen de esta tribu. El cronista asegura que el pacto de David sigue vigente, a pesar del exilio.</p>
                 
@@ -18146,7 +19250,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Énfasis en Salomón:</strong> Preparación para la narración de la construcción del Templo</li>
                     <li><strong>Esperanza Mesiánica:</strong> El linaje real sigue vivo en el exilio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Linaje de la Casa Real</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sucesión Dinástica</h5>
+<ul>
+    <li><strong>Hijos de David:</strong> Se enumeran los hijos nacidos en Hebrón (durante la guerra civil) y los nacidos en Jerusalén (durante la paz).</li>
+    <li><strong>La Línea de Sucesión:</strong> La línea se centra en **Salomón**, el sucesor elegido por Dios y constructor del Templo.</li>
+    <li><strong>El Exilio:</strong> La lista continúa a través de los reyes de Judá hasta el **período del exilio** y la vida en Babilonia.</li>
+    <li><strong>Propósito:</strong> La genealogía hasta los tiempos del exilio mantiene viva la **esperanza mesiánica** en la restauración del trono.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Registro de Reyes</h5>
+<ul>
+    <li><strong>Anales:</strong> Los imperios mantenían registros detallados de las líneas de los reyes vasallos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Continuidad:</strong> El cronista se asegura de que el linaje real no se pierda, incluso cuando el trono ya no existe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La promesa de un trono eterno (el Pacto Davídico) se documenta a través de los siglos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El registro de la línea real de David, incluso después de la caída de Jerusalén, es un <span class="highlight">testimonio de la fidelidad de Dios</span> a Su promesa.</p>
                 
@@ -18177,7 +19303,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Intervención Divina:</strong> Dios responde a la oración de fe</li>
                     <li><strong>Territorio y Bendición:</strong> El deseo de vivir bajo la protección de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Genealogías Menores y la Oración de Jabez</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Bendición y la Herencia</h5>
+<ul>
+    <li><strong>La Oración de Jabez:</strong> El relato se interrumpe para una breve mención de **Jabez**, quien pide a Dios que lo **"bendiga, ensanche su territorio y lo libre del mal"**.</li>
+    <li><strong>Propósito:</strong> La oración muestra el poder de la **piedad personal** y la fe en Dios para la prosperidad, incluso en la oscuridad del linaje.</li>
+    <li><strong>El Valor del Nombre:</strong> El nombre de Jabez (que significa "pena/dolor") se contrasta con la bendición que él pide.</li>
+    <li><strong>Asentamiento:</strong> Se listan los asentamientos de Judá y Simeón.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Etnografía Tribal</h5>
+<ul>
+    <li><strong>Tierras:</strong> El registro tribal era vital para determinar la propiedad de la tierra después del exilio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Interrupción:</strong> La oración de Jabez es una interrupción didáctica para enseñar la dependencia de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe del individuo (Jabez) es honrada por Dios en medio de los registros tribales.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La oración de Jabes es un <span class="highlight">recordatorio de que la fe personal y la búsqueda de Dios</span> son más importantes que la ascendencia. Es una llamada a la piedad en la comunidad post-exilio.</p>
                 
@@ -18208,7 +19356,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio del Exilio:</strong> Las tribus de oriente caen primero por su infidelidad</li>
                     <li><strong>Guerra y Victoria:</strong> Las tribus son victoriosas solo cuando confían en Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Tribus de Transjordania y el Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Primogénito Perdido y el Exilio</h5>
+<ul>
+    <li><strong>Pérdida de la Primogenitura:</strong> Rubén, el primogénito, pierde su derecho por el incesto (Génesis 35), y la primogenitura pasa a **José** (doble porción) y el liderazgo a **Judá** (la realeza).</li>
+    <li><strong>Guerra y Asentamiento:</strong> Se detalla la conquista y el asentamiento de las tribus de Transjordania (Rubén, Gad y la media tribu de Manasés).</li>
+    <li><strong>La Causa del Exilio:</strong> El cronista subraya que estas tribus fueron exiliadas antes que el resto de Israel debido a su **idolatría** y la violación del pacto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Nómadas</h5>
+<ul>
+    <li><strong>Tribus Nómadas:</strong> Las tribus de Transjordania vivían en un estilo de vida más nómada, lo que las hacía más vulnerables a la asimilación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Historia como Enseñanza:</strong> El exilio se presenta como la consecuencia directa de la infidelidad religiosa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fidelidad a YHWH determina el destino, incluso para el primogénito.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La pérdida de la primogenitura de Rubén ilustra que <span class="highlight">el favor de Dios no es automático</span>; debe ir acompañado de la obediencia. El juicio sobre estas tribus es una advertencia para los que han regresado del exilio.</p>
                 
@@ -18239,7 +19408,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Orden de la Adoración:</strong> La legitimidad de la estructura del Templo</li>
                     <li><strong>Ciudades Levitas:</strong> Las porciones asignadas a los levitas en toda la tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Genealogía de Leví y el Sacerdocio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Santidad Sacerdotal</h5>
+<ul>
+    <li><strong>Primacía de Leví:</strong> El cronista dedica un capítulo extenso a la tribu de **Leví**, ya que es la tribu del sacerdocio y el culto.</li>
+    <li><strong>Línea de Aarón:</strong> Se rastrea la línea de **Aarón** hasta el exilio, legitimando el sumo sacerdocio.</li>
+    <li><strong>Oficio Sacerdotal:</strong> Se registran las familias de los levitas que sirvieron como **músicos del Templo** (Hemán, Asaf, Etán), destacando su rol en la adoración.</li>
+    <li><strong>Asentamiento:</strong> Se listan las **ciudades levitas** y las **ciudades de refugio**, subrayando su dispersión por toda la nación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Propiedad Eclesiástica</h5>
+<ul>
+    <li><strong>Ciudades Levitas:</strong> Los levitas no recibían herencia de tierra, sino ciudades esparcidas y los diezmos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Culto y Música:</strong> El cronista enfatiza la importancia de la música y el canto en el servicio del Templo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La validez del servicio del Templo en el Israel post-exílico depende de la pureza del linaje levítico.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El largo linaje levítico asegura a la comunidad que la <span class="highlight">adoración a YHWH es continua y legítima</span>, bajo el liderazgo de sacerdotes ordenados por Dios.</p>
                 
@@ -18269,7 +19460,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unidad de Israel:</strong> El objetivo del cronista de ver a un Israel completo</li>
                     <li><strong>Recuerdo de la Herencia:</strong> Asegurar que las tribus del norte no sean olvidadas</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Genealogías de las Tribus del Norte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Registro del Pueblo</h5>
+<ul>
+    <li><strong>Tribus del Norte:</strong> Se listan las genealogías de Isacar, Benjamín, Neftalí, Manasés, Efraín y Aser (las tribus que formaron el reino del norte, Israel).</li>
+    <li><strong>Enfoque:</strong> El cronista se enfoca en el **poder militar** de algunas tribus (hombres valientes listos para la guerra).</li>
+    <li><strong>Asentamiento:</strong> Se mencionan las fronteras y los asentamientos de cada tribu.</li>
+    <li><strong>Efraín:</strong> Se narra brevemente una derrota militar de Efraín por los habitantes de Gat.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Censos Militares</h5>
+<ul>
+    <li><strong>Registro:</strong> Los censos de la época a menudo se hacían para contar a los hombres en edad militar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Inclusión:</strong> La inclusión de las tribus del norte subraya la **visión de un Israel unificado**, a pesar del cisma histórico.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La genealogía mantiene viva la esperanza de la **reunificación** de todo Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La inclusión de las tribus perdidas del Norte es una <span class="highlight">oración por la reunificación</span> del pueblo de Dios. Dios es el Dios de todo Israel, no solo de Judá.</p>
                 
@@ -18300,7 +19513,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Realeza Fallida:</strong> Saúl es el contraste con el rey ideal, David</li>
                     <li><strong>Asentamiento:</strong> La lista de los que vivían en Jerusalén y sus alrededores</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Genealogía de Benjamín (Casa de Saúl)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Linaje de la Antigua Realeza</h5>
+<ul>
+    <li><strong>Benjamín:</strong> Se detalla la genealogía de Benjamín, la tribu del primer rey, **Saúl**.</li>
+    <li><strong>La Línea de Saúl:</strong> Se rastrea la línea de Saúl y sus descendientes.</li>
+    <li><strong>Propósito:</strong> Al incluir la línea de Saúl, el cronista reconoce la **legitimidad histórica** de la primera monarquía, pero la subordina a la dinastía de David.</li>
+    <li><strong>Asentamiento:</strong> El registro de Benjamín se enfoca en la gente que vivía en **Jerusalén** y sus alrededores.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza Derrocada</h5>
+<ul>
+    <li><strong>Exclusión:</strong> Los historiadores de la realeza a menudo omitían o minimizaban el registro de la dinastía derrocada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Inclusión:</strong> La inclusión de Saúl es un acto de **unidad nacional**, que ve a Benjamín como parte integral de Judá.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La genealogía de Saúl establece que el trono pasó legítimamente a David, por orden divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cronista usa a Saúl (apenas nombrado) para contrastar el <span class="highlight">gobierno fallido basado en la elección humana</span> con el gobierno ideal basado en la elección divina (David).</p>
                 
@@ -18331,7 +19566,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Organización del Templo:</strong> El enfoque en el culto y la liturgia</li>
                     <li><strong>Legitimidad:</strong> Los sirvientes post-exílicos son los verdaderos sucesores de los originales</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Los Habitantes de Jerusalén Post-Exilio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Repoblación y el Culto</h5>
+<ul>
+    <li><strong>Primer Censo de los Retornados:</strong> Se registra la primera lista de los que se asentaron en Jerusalén después del exilio.</li>
+    <li><strong>Prioridad Sacerdotal:</strong> El registro da prioridad a los **sacerdotes, levitas y porteros** que sirven en el Templo.</li>
+    <li><strong>Deberes:</strong> Se describen los deberes de los porteros (vigilancia del Templo) y el cuidado de los **utensilios y la harina** (la provisión).</li>
+    <li><strong>El Cuidado de las Especias:</strong> Se mencionan los encargados de las especias, el aceite y el incienso (elementos esenciales para el ritual).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Administración del Templo</h5>
+<ul>
+    <li><strong>Organización:</strong> Los templos grandes requerían un personal administrativo y de seguridad complejo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Servicio:</strong> La **organización del servicio** es más importante que la población total.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La restauración se centra en la **adoración** y la **santidad** del Templo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El regreso a la tierra y el reasentamiento es un <span class="highlight">cumplimiento parcial de la profecía</span> y un signo de la fidelidad de Dios. El Templo es el centro de la vida de Israel.</p>
                 
@@ -18362,7 +19619,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fin de una Era:</strong> La transición de la monarquía humana a la monarquía divina</li>
                     <li><strong>El Trono Vacante:</strong> Preparación para el ascenso de David</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Muerte de Saúl (La Venganza Divina)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Liderazgo Profético</h5>
+<ul>
+    <li><strong>Muerte en Gilboa:</strong> Se narra la derrota y muerte de Saúl y sus hijos a manos de los filisteos.</li>
+    <li><strong>La Deshonra:</strong> Los filisteos cuelgan la cabeza de Saúl en el templo de sus ídolos y exhiben su cuerpo en el muro de Bet-sán.</li>
+    <li><strong>Respeto Post-Mortem:</strong> Los hombres de Jabes de Galaad (a quienes Saúl había salvado) recuperan y entierran los huesos.</li>
+    <li><strong>La Razón de la Caída:</strong> El cronista establece que Saúl murió por su **infidelidad**, por no guardar la palabra de YHWH y por consultar a la **adivina de Endor**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Exhibición del Enemigo</h5>
+<ul>
+    <li><strong>Trofeo:</strong> La exhibición del cuerpo y las armas era un acto de **triunfo militar** para deshonrar al enemigo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Juicio Justificado:</strong> La caída de Saúl es totalmente justificada por su **pecado religioso** (nigromancia), legitimando el traspaso a David.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La muerte de Saúl es el juicio divino por su falta de fe y su **dependencia de la magia**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La muerte de Saúl demuestra que <span class="highlight">la desobediencia y la consulta a espíritus</span> atraen el juicio de Dios, sin importar la posición real.</p>
                 
@@ -18394,7 +19673,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sión/Jerusalén:</strong> La elección de la ciudad capital para el Templo y el trono</li>
                     <li><strong>Dios está con David:</strong> La razón de su éxito militar y político</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: David, Rey de Todo Israel y la Guardia de Élite</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Unificación y la Sión</h5>
+<ul>
+    <li><strong>Unción en Hebrón:</strong> Todas las tribus de Israel vienen a David en Hebrón para ungirlo rey (la tercera unción).</li>
+    <li><strong>El Pacto:</strong> Se hace un pacto delante de YHWH.</li>
+    <li><strong>Conquista de Sión:</strong> David conquista Jerusalén (la fortaleza de Jebús) y la llama **Ciudad de David**.</li>
+    <li><strong>Los Hombres Valientes (**Gibborim**):</strong> Se registra la lista de los guerreros de élite de David, destacando su valentía.</li>
+    <li><strong>La Devoción:</strong> Se narra la valentía de los tres guerreros que arriesgaron sus vidas para traer agua a David desde el pozo de Belén.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guardia de la Corte</h5>
+<ul>
+    <li><strong>Guardia Personal:</strong> Los reyes dependían de una guardia personal de guerreros probados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Título:</strong> David es reconocido como el rey designado por Dios para ser el **pastor de Su pueblo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La unificación del reino es la **realización política** de la promesa davídica.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La conquista de Jerusalén es clave, ya que se convierte en el <span class="highlight">centro espiritual y político</span> del reino. El éxito de David es por la elección y el favor de YHWH.</p>
                 
@@ -18426,7 +19728,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Providencia:</strong> La intervención de Dios para reunir a los guerreros</li>
                     <li><strong>Unidad y Fuerza:</strong> La consolidación del reino bajo David</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lealtad Militar y Apoyo Tribal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ejército Real y la Fe</h5>
+<ul>
+    <li><strong>Ejército de David:</strong> Se listan los guerreros que se unieron a David mientras huía de Saúl (en Siclag) y aquellos que lo ayudaron a tomar el trono.</li>
+    <li><strong>Habilidad Militar:</strong> Se destacan a los guerreros de Benjamín que podían usar la **honda y el arco** con ambas manos.</li>
+    <li><strong>Los de Zabulón:</strong> Hombres "expertos en guerra, diestros en el uso de toda arma de guerra, prestos para la batalla".</li>
+    <li><strong>Unción Final:</strong> Se detalla la gran asamblea en Hebrón donde todos vienen a ungir a David.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra Civil</h5>
+<ul>
+    <li><strong>Alianzas:</strong> Los caudillos dependían de la capacidad de atraer guerreros de las diferentes tribus.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Espíritu sobre las Tropas:</strong> Se menciona que el **Espíritu de Dios** vino sobre Amasai para que pudiera hablar con fervor.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La lealtad a David es la **voluntad divina** manifestada en la acción de las tribus.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La lista de guerreros es un recordatorio de que <span class="highlight">Dios prepara y reúne a Su pueblo</span> para servir a Su rey. La unidad es la base de la bendición nacional.</p>
                 
@@ -18458,7 +19782,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad de Dios:</strong> El Arca no debe tocarse</li>
                     <li><strong>Obediencia a la Ley:</strong> El buen fin no justifica el medio desobediente</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Primer Intento Fallido de Traer el Arca</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adoración y la Transgresión</h5>
+<ul>
+    <li><strong>El Objetivo:</strong> David decide llevar el Arca del Pacto a Jerusalén para centralizar la **adoración**.</li>
+    <li><strong>El Carro Nuevo:</strong> David transporta el Arca en un **carro nuevo** (siguiendo el modelo filisteo, no la Ley Mosaica).</li>
+    <li><strong>Uza y la Muerte:</strong> Uza toca el Arca (violando la Ley que prohibía el contacto a los que no eran levitas) y muere.</li>
+    <li><strong>El Miedo:</strong> David se enoja y se asusta. El Arca permanece en la casa de Obed-edom.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Procesión de Ídolos</h5>
+<ul>
+    <li><strong>Carro:</strong> Los dioses paganos eran transportados en carros lujosos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Santidad:</strong> El juicio sobre Uza es un recordatorio de que la **santidad de YHWH** debe ser respetada con la obediencia ritual.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La adoración a YHWH debe hacerse en la **manera correcta** (Ley), no con buenas intenciones.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La muerte de Uza es un recordatorio severo de que <span class="highlight">la adoración debe hacerse según las reglas de Dios</span>, no de manera conveniente o "bien intencionada". La santidad de Dios exige respeto.</p>
                 
@@ -18489,7 +19835,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fama de David:</strong> El poder del rey se extiende a todas las naciones</li>
                     <li><strong>Estrategia Divina:</strong> La necesidad de esperar la señal de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Palacio, Batalla y Estrategia Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Consulta y la Victoria</h5>
+<ul>
+    <li><strong>Hiram y el Palacio:</strong> Hiram, rey de Tiro, envía carpinteros, maderos de cedro y constructores a David para construir su palacio.</li>
+    <li><strong>Bendición Dinástica:</strong> David reconoce que su reino es levantado por la **bendición de YHWH** sobre Israel.</li>
+    <li><strong>Guerra contra Filistea:</strong> David consulta a YHWH antes de la batalla.</li>
+    <li><strong>Estrategia Divina:</strong> La estrategia de Dios es atacar cuando David escuche el **sonido de marcha en las copas de las moreras**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Estrategia Militar</h5>
+<ul>
+    <li><strong>Consulta:</strong> Los reyes consultaban oráculos o adivinos antes de ir a la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Obediencia Táctica:</strong> La obediencia a la estrategia divina (el sonido en los árboles) es la clave para el éxito militar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Templo (que su hijo construirá) es más importante que su palacio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las victorias de David demuestran que el <span class="highlight">poder militar es inútil sin la dirección de Dios</span>. El éxito del rey es resultado directo de su dependencia de YHWH.</p>
                 
@@ -18521,7 +19889,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Organización:</strong> El nombramiento de músicos y cantores levitas</li>
                     <li><strong>Gozo:</strong> El traslado se realiza con gran celebración y sacrificio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Arca Regresa Correctamente</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Servicio Levítico y el Rito de Pureza</h5>
+<ul>
+    <li><strong>Preparación del Lugar:</strong> David prepara un lugar para el Arca en una **tienda** en Jerusalén.</li>
+    <li><strong>Corrección Ritual:</strong> David reconoce que la **Ley Mosaica** exige que el Arca sea llevada solo por los **Levitas** (Coatíes) sobre sus hombros, usando varas, no en un carro.</li>
+    <li><strong>Música Sacra:</strong> Se nombra a los levitas **cantores** (Hemán, Asaf y Etán) para dirigir la música con salterios, arpas y címbalos.</li>
+    <li><strong>Vestiduras:</strong> Los levitas y David se visten con **efod de lino** (vestidura ritual) en la procesión.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Profanación Ritual</h5>
+<ul>
+    <li><strong>Transporte Pagano:</strong> El uso de carros para dioses.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Arrepentimiento:</strong> David corrige el error ritual anterior. La obediencia a la Ley prevalece.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Arca se establece en Jerusalén, uniendo el centro político con el centro de adoración.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El traslado exitoso del Arca es un <span class="highlight">momento de redención</span> para el reino y demuestra que Dios acepta la adoración cuando se hace con obediencia a Su Palabra.</p>
                 
@@ -18552,7 +19942,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Palabra en la Liturgia:</strong> El cántico de las hazañas de Dios</li>
                     <li><strong>Organización Sacerdotal:</strong> La estructura del culto perpetuo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Adoración Continua y Salmo Litúrgico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto en la Tienda</h5>
+<ul>
+    <li><strong>Sacrificio:</strong> Se ofrecen holocaustos y ofrendas de paz, y David bendice al pueblo.</li>
+    <li><strong>Salmo de Asaf:</strong> David asigna un salmo de acción de gracias (una compilación de Salmos 105, 96 y 106) para el servicio litúrgico.</li>
+    <li><strong>Adoración Continua:</strong> David establece un servicio continuo de levitas para **ministrar, alabar y agradecer** a YHWH ante el Arca.</li>
+    <li><strong>El Tabernáculo de Moisés:</strong> El Tabernáculo de Moisés (con el altar del holocausto) permanece en Gabaón, separado del Arca.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios Temporales</h5>
+<ul>
+    <li><strong>Sacrificio:</strong> Los sacrificios se hacían solo en festivales o por necesidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Adoración Perpetua:</strong> El establecimiento de la adoración continua enfatiza la centralidad del culto en la vida nacional.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La liturgia y la música son elementos esenciales del servicio del Templo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El salmo enfatiza la <span class="highlight">fidelidad de Dios al pacto</span> con Abraham, la liberación de Egipto, y Su poder sobre los dioses paganos. La adoración de Israel debe centrarse en la historia de Su redención.</p>
                 
@@ -18584,7 +19996,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Pacto Davídico:</strong> La promesa de un linaje eterno</li>
                     <li><strong>La Casa de Dios:</strong> El Templo y la Dinastía (casa de David)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pacto Davídico (Perspectiva del Cronista)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Trono Eterno</h5>
+<ul>
+    <li><strong>El Templo de Cedro:</strong> David quiere construir un "casa" (Templo) para YHWH porque él vive en un palacio de cedro.</li>
+    <li><strong>Profecía de Natán:</strong> Dios le prohíbe a David construir el Templo (porque ha derramado mucha sangre).</li>
+    <li><strong>El Pacto Davídico:</strong> Dios promete construir una "casa" (dinastía) para David: un **trono eterno**.</li>
+    <li><strong>Sucesión:</strong> El hijo de David (Salomón) construirá la casa de YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Alianza Real</h5>
+<ul>
+    <li><strong>Dinastías:</strong> Los reyes intentaban asegurar la permanencia de su linaje a través de la fuerza y las alianzas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Gracia Dinástica:</strong> El pacto es unilateral y basado en la gracia de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La promesa de un trono eterno (la esperanza mesiánica) es más importante que el Templo físico.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Pacto Davídico es la <span class="highlight">clave de toda la historia bíblica</span>. Asegura la venida del Mesías y el establecimiento de un reino eterno, cumpliendo la esperanza del pueblo post-exílico.</p>
                 
@@ -18616,7 +20050,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dedicatoria del Botín:</strong> La preparación de los materiales para el Templo</li>
                     <li><strong>Justicia y Equidad:</strong> El gobierno de David es caracterizado por la rectitud</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Victorias y Tesoros Consagrados</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Expansión y la Consagración</h5>
+<ul>
+    <li><strong>Victorias Militares:</strong> David derrota a los filisteos, moabitas, sirios (Hadad-ezer) y edomitas.</li>
+    <li><strong>Guarniciones:</strong> David establece guarniciones y obliga a las naciones a pagar tributo.</li>
+    <li><strong>El Botín:</strong> David consagra el botín de oro, plata y bronce de todas las naciones derrotadas al tesoro de YHWH para el Templo.</li>
+    <li><strong>Ministros de la Corte:</strong> Se nombra a los oficiales del reino (Joab como jefe del ejército, los sacerdotes).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra y el Tributo</h5>
+<ul>
+    <li><strong>Tributo:</strong> Las naciones derrotadas pagaban tributo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Tesoro del Templo:</strong> El propósito de las victorias es financiar la construcción del Templo futuro.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La guerra y la riqueza se ponen al servicio de la adoración y la paz.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las victorias y la paz de David son un <span class="highlight">tipo del reino mesiánico</span>. El rey piadoso derrota a los enemigos y establece la justicia en la tierra, llevando el botín a la casa de Dios.</p>
                 
@@ -18648,7 +20104,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza en Dios:</strong> El lema de Joab: **"Esfuérzate, y seamos valientes por nuestro pueblo, y por las ciudades de nuestro Dios; y haga Jehová lo que bien le pareciere."**</li>
                     <li><strong>Victoria Total:</strong> Siria es sometida y los amonitas son derrotados</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Insulto Diplomático y Guerra con Siria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres Diplomáticas y Militares</h5>
+<ul>
+    <li><strong>Mensajeros de Paz:</strong> David envía mensajeros para consolar a Hanún, rey de Amón.</li>
+    <li><strong>El Insulto:</strong> Hanún rapa la mitad de la **barba** (símbolo de honor) a los mensajeros y les corta la ropa por la mitad (una grave **deshonra diplomática**).</li>
+    <li><strong>Guerra de Coalición:</strong> Los amonitas contratan a mercenarios arameos (sirios) de varias ciudades para luchar contra David.</li>
+    <li><strong>División del Ejército:</strong> Joab y su hermano Abisai dividen al ejército para luchar en dos frentes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Oprobio</h5>
+<ul>
+    <li><strong>Oprobio:</strong> El vello facial y la ropa eran símbolos de estatus. La mutilación era un insulto diplomático grave.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justificación de la Guerra:</strong> La guerra es totalmente justificable como respuesta a una flagrante deshonra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La unidad de Israel bajo David vence a la coalición de naciones.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La confianza de Joab demuestra que <span class="highlight">la fe es el arma más fuerte</span> en la guerra. La humillación del rey de Dios lleva al juicio total sobre el enemigo.</p>
                 
@@ -18680,7 +20158,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Fin de la Amenaza:</strong> El exterminio de los filisteos y los gigantes</li>
                     <li><strong>Poder Mesiánico:</strong> El rey ideal trae paz al reino</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Guerras con Filistea y los Gigantes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Héroe y el Duelo</h5>
+<ul>
+    <li><strong>Asedio y Corona:</strong> Joab asedia a Rabá de Amón, y David toma la corona del rey (una corona muy pesada).</li>
+    <li><strong>La Lista de Gigantes:</strong> Se registran las batallas contra los filisteos, destacando la muerte de los **gigantes** (descendientes de los Refaítas).</li>
+    <li><strong>El Duelo:</strong> Las batallas se resuelven a menudo por duelos individuales (Duelos de Campeones).</li>
+    <li><strong>El Guerrero con 6 Dedos:</strong> Se destaca al guerrero filisteo con 6 dedos en cada mano y pie (una anomalía genética).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra con Armas Avanzadas</h5>
+<ul>
+    <li><strong>Armas:</strong> Los filisteos usaban armas superiores.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fin de la Amenaza:</strong> La victoria de David pone fin a la amenaza de los gigantes y los filisteos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La victoria sobre los gigantes simboliza la superación de las últimas amenazas del mundo cananeo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Las victorias de David tipifican el <span class="highlight">triunfo final de Cristo sobre el mal</span>. La eliminación de los gigantes demuestra que las promesas de la conquista de Canaán están cumplidas.</p>
                 
@@ -18713,7 +20213,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Misericordia del Juicio:</strong> David escoge caer en manos de Dios</li>
                     <li><strong>El Sitio del Templo:</strong> El altar de la expiación es el futuro Templo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Censo y el Altar del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pecado y la Expiación</h5>
+<ul>
+    <li><strong>El Censo Pecaminoso:</strong> **Satanás** incita a David a ordenar un censo militar. El pecado es la **confianza en la fuerza humana** (los números) en lugar de en Dios.</li>
+    <li><strong>La Plaga:</strong> Dios castiga con una plaga (70.000 mueren).</li>
+    <li><strong>La Era de Arauna:</strong> El ángel de YHWH detiene la plaga en la **era de Arauna el jebuseo**.</li>
+    <li><strong>Sacrificio de Expiación:</strong> David compra la era y ofrece sacrificios.</li>
+    <li><strong>El Principio del Costo:</strong> David se niega a tomar la era gratis, afirmando que no ofrecerá a YHWH un sacrificio que no le cuesta nada.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Compra de Propiedad</h5>
+<ul>
+    <li><strong>Era:</strong> La era era un lugar de trabajo y un altar natural.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Lugar del Templo:</strong> El lugar del pecado se convierte en el lugar de la **expiación** y el futuro **Templo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Templo (el centro del culto) se establece en el lugar exacto donde se detuvo el juicio de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El arrepentimiento de David y la construcción del altar en la era de Ornán es un <span class="highlight">acto de expiación</span> que santifica el lugar del Templo. El juicio de Dios debe ser satisfecho.</p>
                 
@@ -18745,7 +20268,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Instrucciones a Salomón:</strong> La construcción debe hacerse en obediencia al Pacto</li>
                     <li><strong>Paz y Descanso:</strong> Salomón (Paz) es el nombre de la era de la construcción</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Preparación del Templo y Mandato a Salomón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Planificación y la Paz</h5>
+<ul>
+    <li><strong>El Templo de YHWH:</strong> David declara que la era de Arauna será el lugar del Templo.</li>
+    <li><strong>Acumulación de Materiales:</strong> David reúne inmensas cantidades de **hierro, bronce y madera** para la construcción.</li>
+    <li><strong>Instrucción a Salomón:</strong> David instruye a su hijo Salomón para que **construya la casa de YHWH**.</li>
+    <li><strong>La Razón del Nombre:</strong> Salomón (que significa "Paz") debe construir el Templo porque David fue un **hombre de guerra** (derramó mucha sangre).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Materiales de Construcción</h5>
+<ul>
+    <li><strong>Metalurgia:</strong> La acumulación de metales preciosos era esencial para los grandes proyectos de construcción.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Paz:</strong> El Templo debe ser construido por un **hombre de paz**, no por un guerrero.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La gloria de David es su preparación para la obra de su hijo (la adoración).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">preparación exhaustiva de David</span> demuestra que el Templo es el proyecto más importante de la nación. La misión de David es la de preparar el camino para el Mesías (Salomón, un tipo de Cristo).</p>
                 
@@ -18776,7 +20321,35 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Música Sacra:</strong> El papel central de los levitas en la música</li>
                     <li><strong>Legitimidad Sacerdotal:</strong> La autoridad de los levitas para el Templo futuro</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Organización de los Levitas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Servicio del Templo</h5>
+<ul>
+    <li><strong>La Edad de Servicio:</strong> David organiza a los levitas para el servicio del Templo a partir de los **20 años** (una adaptación de la Ley Mosaica que requería 25/30 años).</li>
+    <li><strong>División de Deberes:</strong> Los levitas se dividen en grupos para:
+        <ul>
+            <li>**Servicio en el Templo** (ayuda a los sacerdotes).</li>
+            <li>**Guardia** (porteros).</li>
+            <li>**Música** (cantores).</li>
+            <li>**Administración** (oficiales y jueces).</li>
+        </ul>
+    </li>
+    <li><strong>Propósito:</strong> La organización de los levitas es clave para la **continuidad del culto**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Administración Pública</h5>
+<ul>
+    <li><strong>Organización:</strong> La organización militar y administrativa era esencial para el gobierno.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Ley Adaptada:</strong> La ley ritual es adaptada por la autoridad real para el nuevo entorno del Templo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La adoración es una operación compleja que requiere una gran cantidad de personal dedicado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La organización de los levitas subraya la <span class="highlight">importancia de un culto ordenado y gozoso</span>. El servicio a Dios exige dedicación y estructura, no la improvisación.</p>
                 
@@ -18808,7 +20381,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Continuidad:</strong> El servicio del Templo será ininterrumpido</li>
                     <li><strong>Equidad:</strong> La división justa de los deberes entre las familias</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Organización de los Sacerdotes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de los Turnos Sacerdotales</h5>
+<ul>
+    <li><strong>Las 24 Clases:</strong> Los sacerdotes (hijos de Aarón) se dividen en **24 clases o turnos**.</li>
+    <li><strong>El Sorteo:</strong> El orden de los turnos se decide por **sorteo** (la suerte echada delante de Dios).</li>
+    <li><strong>Propósito:</strong> La división asegura que el **servicio del Templo sea continuo** y que todos los sacerdotes participen equitativamente.</li>
+    <li><strong>El Linaje:</strong> La división se hace entre los descendientes de **Eleazar y de Itamar**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Sorteo</h5>
+<ul>
+    <li><strong>Sorteo:</strong> El sorteo era un método común en la Antigüedad para determinar la voluntad divina.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Legitimidad:</strong> La organización de los sacerdotes por sorteo garantiza su **legitimidad divina** y evita el conflicto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La organización del culto es un acto de **previsión** para el Templo futuro.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La división por sorteo indica que <span class="highlight">Dios es quien elige y ordena</span> a Sus siervos para el servicio. La adoración es asunto de todo el pueblo de Dios.</p>
                 
@@ -18839,7 +20434,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Organización Musical:</strong> El culto requiere excelencia y estructura musical</li>
                     <li><strong>Función del Músico:</strong> Dar gracias y alabar a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Organización de los Músicos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Canto Profético</h5>
+<ul>
+    <li><strong>Los Cantores Proféticos:</strong> Se organizan a los **músicos levitas** para el servicio, divididos en 24 turnos (igual que los sacerdotes).</li>
+    <li><strong>El Servicio:</strong> El servicio es con **címbalos, salterios y arpas**, para "profetizar" y "dar gracias" a YHWH.</li>
+    <li><strong>Los Jefes:</strong> Los jefes de los cantores son **Asaf, Hemán y Jedutún** (figuras litúrgicas clave).</li>
+    <li><strong>Función:</strong> La música era considerada una **forma de profecía** o inspiración divina.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Música de la Corte</h5>
+<ul>
+    <li><strong>Música:</strong> La música se usaba en las cortes para el entretenimiento o la adivinación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Música Sacra:</strong> La música es una parte esencial del culto y la profecía, no un entretenimiento.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El culto del Templo se organiza con el máximo detalle.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La organización de los músicos demuestra que <span class="highlight">la alabanza es una forma de ministerio profético</span> y que la música de adoración debe ser considerada una tarea sagrada.</p>
                 
@@ -18871,7 +20488,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Administración:</strong> La gestión de los recursos dedicados a Dios</li>
                     <li><strong>Integridad:</strong> La necesidad de líderes confiables para las finanzas del Templo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Organización de Porteros y Tesoreros</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Administración del Templo</h5>
+<ul>
+    <li><strong>Porteros:</strong> Los levitas se organizan en turnos como **porteros** (guardias de las puertas del Templo).</li>
+    <li><strong>El Sorteo:</strong> Las puertas a custodiar se reparten por sorteo.</li>
+    <li><strong>Tesoreros:</strong> Otros levitas se nombran como **tesoreros** y **oficiales** para supervisar los tesoros del Templo.</li>
+    <li><strong>Tesoro Consagrado:</strong> El tesoro incluye las cosas consagradas por David y los capitanes del ejército (el botín de guerra).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Seguridad del Templo</h5>
+<ul>
+    <li><strong>Seguridad:</strong> Los templos eran objetivos de robo, lo que requería una guardia permanente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Integridad:</strong> El manejo de los tesoros sagrados requiere una gran integridad y organización.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La organización de David es la base del culto post-exílico.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La importancia de los porteros enfatiza la <span class="highlight">santidad del espacio de adoración</span>. Solo los puros y autorizados pueden entrar. La administración fiel es también un servicio a Dios.</p>
                 
@@ -18903,7 +20542,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paz:</strong> El sistema de rotación mantenía al ejército listo y a los hombres en casa</li>
                     <li><strong>Liderazgo:</strong> La importancia de los consejeros sabios y los líderes tribales</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Organización Militar y Cívica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ejército Rotatorio</h5>
+<ul>
+    <li><strong>Ejército Rotatorio:</strong> David establece un ejército de **24.000 hombres** que sirve al rey por un mes al año (una rotación anual).</li>
+    <li><strong>Propósito:</strong> Esto asegura que el rey tenga una fuerza militar fuerte sin imponer una carga constante a las tribus.</li>
+    <li><strong>Líderes de las Tribus:</strong> Se listan los jefes de las 12 tribus (administración civil).</li>
+    <li><strong>Oficiales Reales:</strong> Se nombran los oficiales del rey (consejero, cronista, supervisor).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ejércitos Permanentes</h5>
+<ul>
+    <li><strong>Ejército Permanente:</strong> Los reyes grandes mantenían ejércitos permanentes, a menudo mercenarios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia:</strong> El sistema rotatorio es más justo para el pueblo que el reclutamiento forzoso permanente.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La organización del reino se basa en la Ley y el respeto por el pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El gobierno de David se presenta como el <span class="highlight">modelo ideal de un reino terrenal</span>. La estructura civil y militar también debe estar sujeta al orden y a la sabiduría.</p>
                 
@@ -18935,7 +20596,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mandato:</strong> La construcción del Templo es la misión primordial de Salomón</li>
                     <li><strong>Advertencia:</strong> La necesidad de obediencia total para la permanencia del trono</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Encargo Final y los Planos del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Testamento Real y la Arquitectura Divina</h5>
+<ul>
+    <li><strong>El Encargo Final:</strong> David convoca a todos los líderes para su discurso de despedida.</li>
+    <li><strong>Transmisión de la Autoridad:</strong> David reitera que Salomón es el constructor del Templo por **elección divina**.</li>
+    <li><strong>Planos Arquitectónicos:</strong> David entrega los **planos arquitectónicos** del Templo (medidas, materiales, diseño) que él recibió por **"escrito de la mano de YHWH"**.</li>
+    <li><strong>Instrucción:</strong> La construcción debe ser hecha según el patrón (mishpat) revelado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Arquitectos Reales</h5>
+<ul>
+    <li><strong>Arquitecto:</strong> Los templos se construían según los planos de arquitectos y sacerdotes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Autoría:</strong> El diseño del Templo no es humano, sino que fue **revelado por YHWH** a David.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La pureza del Templo se garantiza por su origen divino, no por su esplendor humano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Templo de Jerusalén no es una invención humana, sino una <span class="highlight">revelación del Espíritu de Dios</span>, lo que le da una autoridad suprema. La obediencia es el único requisito para la bendición.</p>
                 
@@ -18967,7 +20650,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oración de Reconocimiento:</strong> El principio de que todo pertenece a Dios</li>
                     <li><strong>Muerte Ideal:</strong> David, el rey conforme al corazón de Dios, tiene un final bendecido</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ofrendas Voluntarias y la Aclamación de Salomón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Generosidad y la Oración de Acción de Gracias</h5>
+<ul>
+    <li><strong>La Ofrenda Voluntaria:</strong> David y los líderes dan un ejemplo al hacer **enormes ofrendas voluntarias** de oro, plata y metales preciosos para el Templo.</li>
+    <li><strong>El Gozo del Pueblo:</strong> El pueblo se regocija por la **generosidad** de sus líderes y del rey.</li>
+    <li><strong>Oración de David:</strong> David ofrece una oración de alabanza que reconoce que **todo proviene de Dios** ("Tuya es, oh YHWH, la magnificencia y el poder... de ti proceden las riquezas y la gloria").</li>
+    <li><strong>Aclamación:</strong> Salomón es ungido rey por **segunda vez** y es aclamado con gran gozo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Aclamación</h5>
+<ul>
+    <li><strong>Banquete:</strong> La aclamación se sella con un banquete.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Humildad:</strong> La oración de David establece un principio de humildad: la riqueza no es propia, sino un regalo de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro cierra con el triunfo de la **adoración** y la **unidad** bajo el heredero elegido por Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La generosidad del pueblo demuestra que <span class="highlight">el Templo era un proyecto nacional de fe</span>. La oración de David es la teología central del cronista: YHWH es el Señor absoluto de la historia y el dueño de todo.</p>
                 
@@ -19000,7 +20705,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prioridades Correctas:</strong> Poner el servicio a Dios antes que la riqueza personal</li>
                     <li><strong>Riqueza y Gloria:</strong> La bendición añadida de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Trono de Salomón y la Sabiduría Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rey Ungido y el Altar Mayor</h5>
+<ul>
+    <li><strong>Asunción del Trono:</strong> Salomón es confirmado en el trono.</li>
+    <li><strong>El Gran Altar:</strong> Salomón va a **Gabaón** (donde estaba el Tabernáculo de Moisés y el Altar del Holocausto) para ofrecer mil holocaustos.</li>
+    <li><strong>El Sueño en Gabaón:</strong> Dios se aparece a Salomón en sueños y le pide lo que quiera. Salomón pide **sabiduría** para juzgar al pueblo.</li>
+    <li><strong>La Petición:</strong> La petición de sabiduría de Salomón (para gobernar) es considerada un acto de humildad y es recompensada.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza Real</h5>
+<ul>
+    <li><strong>Comercio de Caballos:</strong> Salomón acumula carros y caballería, un símbolo de poder militar que la Ley prohibía al rey.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Prioridad:</strong> El cronista omite el intento de usurpación de Adonías y se centra en la **legitimidad y piedad** de Salomón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La sabiduría de Salomón es una herramienta para el gobierno justo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La sabiduría de Salomón es la <span class="highlight">primera señal del Mesías</span>, quien es el Rey Sabio. Su elección demuestra que el gobierno piadoso requiere discernimiento divino.</p>
                 
@@ -19032,7 +20759,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Alianza Gentil:</strong> Uso de recursos y artesanos de Tiro</li>
                     <li><strong>El Templo es para YHWH:</strong> Reconocimiento de la grandeza de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Alianza para el Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Arquitectura y los Obreros</h5>
+<ul>
+    <li><strong>El Propósito del Templo:</strong> Salomón declara que el Templo será para **quemar incienso y ofrecer sacrificios** continuos.</li>
+    <li><strong>Acuerdo con Hiram:</strong> Salomón envía una solicitud a **Hiram, rey de Tiro**, para obtener **madera de cedro** y un artesano experto.</li>
+    <li><strong>Los Especialistas:</strong> Hiram envía a un hombre llamado **Huram-abi**, experto en todos los metales y tejidos (un artesano superior).</li>
+    <li><strong>Trabajadores Forzados:</strong> Salomón emplea a **extranjeros** como trabajadores (cananeos) para los trabajos pesados.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Construcción de Templos</h5>
+<ul>
+    <li><strong>Alianzas:</strong> Los reyes se asociaban para obtener materiales y mano de obra especializada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Mano de Obra:</strong> El cronista minimiza el trabajo forzado de los israelitas, destacando solo a los extranjeros.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La cooperación internacional se pone al servicio de la adoración a YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La cooperación de gentiles como Hiram prefigura el <span class="highlight">alcance universal de la adoración</span> a YHWH. El Templo es la prueba tangible de la fidelidad de Dios.</p>
                 
@@ -19063,7 +20812,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Riqueza y Gloria:</strong> La opulencia del Templo refleja la majestad de Dios</li>
                     <li><strong>El Lugar Santísimo:</strong> El centro de la presencia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Templo de Salomón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ubicación y el Diseño</h5>
+<ul>
+    <li><strong>Ubicación:</strong> El Templo se construye en el **Monte Moriah**, el lugar donde Abraham iba a sacrificar a Isaac (Génesis 22) y donde David detuvo la plaga (1 Crónicas 21).</li>
+    <li><strong>Medidas:</strong> La estructura sigue las medidas del **Tabernáculo de Moisés** (pero al doble de tamaño).</li>
+    <li><strong>Materiales:</strong> Uso de **oro puro** (revestimiento) y maderas preciosas (cedro y ciprés).</li>
+    <li><strong>El Velo:</strong> Se teje el velo con **azul, púrpura, carmesí y lino fino** (los colores del Tabernáculo).</li>
+    <li><strong>Los Querubines:</strong> Se colocan dos grandes **querubines** de oro en el Lugar Santísimo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Decoración Oriental</h5>
+<ul>
+    <li><strong>Decoración:</strong> El diseño (columnas, capiteles) refleja los estilos arquitectónicos de Fenicia y Siria.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Simbolismo:</strong> El Templo une las principales historias de fe de Israel (Abraham, David).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La magnificencia del Templo está diseñada para honrar a YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Monte Moriah es el lugar donde <span class="highlight">Isaac fue ofrecido</span> y donde la plaga se detuvo. El Templo se construye sobre el sitio de la prueba y la misericordia de Dios.</p>
                 
@@ -19094,7 +20866,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Mar de Fundición:</strong> El simbolismo de la purificación sacerdotal</li>
                     <li><strong>Abundancia:</strong> La provisión de Dios para la adoración</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Utensilios y Mobiliario del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Altar y la Purificación</h5>
+<ul>
+    <li><strong>El Altar de Bronce:</strong> Se construye un altar de bronce de grandes dimensiones para los sacrificios.</li>
+    <li><strong>El Mar de Bronce:</strong> Una gran pila de bronce (sobre 12 bueyes) que servía para la **purificación de los sacerdotes** (lavatorio ritual).</li>
+    <li><strong>Las Diez Fuentes:</strong> Diez fuentes menores para lavar los **holocaustos**.</li>
+    <li><strong>Menorot (Candelabros):</strong> Diez candelabros de oro (cinco a la derecha y cinco a la izquierda) en el Lugar Santo.</li>
+    <li><strong>La Mesa del Pan:</strong> Diez mesas para los **panes de la proposición**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Metalurgia</h5>
+<ul>
+    <li><strong>Fundición:</strong> Los utensilios se funden en el **Valle del Jordán** (tierra arcillosa) debido a la gran cantidad de bronce.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Multiplicación:</strong> A diferencia del Tabernáculo (un altar, una menorá), los utensilios se multiplican para el gran Templo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El diseño del Templo subraya la **necesidad constante de purificación** para el servicio a Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Los utensilios, especialmente el mar de fundición y las fuentes, enfatizan la <span class="highlight">necesidad de la purificación</span> constante para acercarse a un Dios santo.</p>
                 
@@ -19125,7 +20920,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Nube de Gloria:</strong> La manifestación de la presencia de Dios</li>
                     <li><strong>Adoración Musical:</strong> La música es clave en el culto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Dedicación del Templo (El Arca)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Fiesta y la Presencia Divina</h5>
+<ul>
+    <li><strong>El Tiempo:</strong> La dedicación ocurre durante la **Fiesta de los Tabernáculos** (la fiesta de la cosecha y la morada de Dios).</li>
+    <li><strong>La Procesión:</strong> Los levitas y sacerdotes llevan el **Arca del Pacto** al Lugar Santísimo.</li>
+    <li><strong>La Misa de Cantores:</strong> Los **cantores** (Asaf, Hemán, Jedutún) alaban a YHWH con un gran coro y música.</li>
+    <li><strong>La Gloria (Shekinah):</strong> La **nube de gloria de YHWH** (la Shekinah) llena el Templo, impidiendo que los sacerdotes ministren.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Éxito Real</h5>
+<ul>
+    <li><strong>Grandes Fiestas:</strong> La dedicación era un evento nacional para sellar el éxito del rey.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Presencia:</strong> El Templo es un éxito porque la **presencia visible de Dios** lo aprueba.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El templo es el lugar de encuentro donde la adoración humana es respondida por la Presencia Divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La nube de gloria es la <span class="highlight">confirmación de Dios</span> al proyecto de David y Salomón. El Templo es la morada de la presencia de Dios en la Tierra.</p>
                 
@@ -19156,7 +20973,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Intercesión:</strong> El Templo como lugar de perdón</li>
                     <li><strong>Profecía de Exilio:</strong> Salomón pide misericordia para el futuro exilio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Oración de Dedicación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto y la Intercesión</h5>
+<ul>
+    <li><strong>Posición de Oración:</strong> Salomón se arrodilla en la plataforma de bronce y extiende sus manos hacia el cielo.</li>
+    <li><strong>La Teología del Templo:</strong> Salomón reconoce que **el cielo no puede contener a YHWH**, y mucho menos un Templo hecho por el hombre.</li>
+    <li><strong>Intercesión:</strong> La oración pide a Dios que escuche las oraciones hechas **hacia** (en dirección al) Templo.</li>
+    <li><strong>Juicios y Súplica:</strong> Se pide a Dios que perdone a Israel en tiempos de **guerra, sequía, plaga, cautiverio** (los juicios del pacto).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Plegaria Real</h5>
+<ul>
+    <li><strong>Plegarias:</strong> Las oraciones reales eran registradas para la posteridad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Punto de Referencia:</strong> El Templo es un **punto de referencia** para la oración mundial, no el hogar de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La oración de Salomón se centra en el **arrepentimiento** como condición para el perdón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La oración de Salomón es la <span class="highlight">teología central de Crónicas</span>: el Templo es el lugar de donde procede la misericordia y donde el arrepentimiento asegura el retorno de la bendición.</p>
                 
@@ -19187,7 +21026,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Pacto Condicional:</strong> Bendición por obediencia, juicio por apostasía</li>
                     <li><strong>Humillación y Oración:</strong> La clave para el perdón y la sanidad nacional</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Aprobación Divina y Advertencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Fuego Consumidor y el Segundo Pacto</h5>
+<ul>
+    <li><strong>Fuego del Cielo:</strong> Un **fuego del cielo** consume los sacrificios ofrecidos por Salomón. | El fuego es el **signo de la aprobación divina** (como en el Tabernáculo).</li>
+    <li><strong>La Adoración:</strong> El pueblo se postra y adora al ver el fuego.</li>
+    <li><strong>Advertencia a Salomón:</strong> Dios se aparece de noche y establece un pacto de dedicación.</li>
+    <li><strong>La Condición:</strong> La promesa del trono eterno es **condicional** a la obediencia de Salomón.</li>
+    <li><strong>Juicio Irreversible:</strong> Si el pueblo se desvía, Dios **destruirá el Templo** y lo convertirá en un **montón de ruinas**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Soberanía Real</h5>
+<ul>
+    <li><strong>Condición:</strong> La soberanía de David es divina, pero su mantenimiento es condicional.</li>
+</ul>
+
+<h<h5><span style="color: var(--primary-color);">🔄 Principales Diferencias</span></h5>
+<ul>
+    <li><strong>Pacto de Destrucción:</strong> La advertencia de destrucción es tan poderosa como la promesa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fidelidad al pacto es el único seguro contra el exilio y la destrucción.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El fuego que consume el sacrificio es la <span class="highlight">aceptación de Dios</span>. La promesa de perdonar y sanar la tierra es el lema del libro para la comunidad post-exílica.</p>
                 
@@ -19218,7 +21080,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Servicio Cananeo:</strong> La subyugación de los pueblos no israelitas</li>
                     <li><strong>Obediencia a la Ley:</strong> Salomón sigue las ordenanzas de David y Moisés</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Actividades de Construcción de Salomón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Organización del Culto</h5>
+<ul>
+    <li><strong>Proyectos de Construcción:</strong> Salomón reconstruye y fortifica ciudades (Meguido, Hazor, Jezreel, entre otras).</li>
+    <li><strong>Organización Sacerdotal:</strong> Salomón organiza a los sacerdotes y levitas en sus turnos para el **servicio continuo** (siguiendo el plan de David).</li>
+    <li><strong>Días Sagrados:</strong> El servicio se centra en los días sagrados: **sábados, lunas nuevas y fiestas** (Panes sin Levadura, Semanas, Tabernáculos).</li>
+    <li><strong>Flota de Comercio:</strong> Salomón construye una **flota comercial** en Ezión-geber (en el Mar Rojo) para comerciar con Ofir (oro).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Estrategia Imperial</h5>
+<ul>
+    <li><strong>Fortificaciones:</strong> La fortificación de ciudades era clave para la defensa del imperio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Servicio:</strong> El cronista se enfoca en cómo Salomón **establece el culto continuo**, más que en sus logros políticos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El establecimiento del culto continuo es el legado más importante de Salomón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La organización del culto es esencial, ya que demuestra la <span class="highlight">importancia de la Ley y el orden</span> de David. El Templo es el centro de la nación.</p>
                 
@@ -19249,7 +21133,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Riqueza y Gloria:</strong> La bendición material de Dios</li>
                     <li><strong>Enfoque Cronístico:</strong> Eliminar el pecado de Salomón para mantener el modelo ideal</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Poder y la Riqueza de Salomón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Riqueza y la Adquisición</h5>
+<ul>
+    <li><strong>La Reina de Sabá:</strong> La reina visita a Salomón para poner a prueba su **sabiduría** con enigmas.</li>
+    <li><strong>Regalos:</strong> La reina de Sabá trae especias, oro y piedras preciosas. Salomón le devuelve regalos generosos.</li>
+    <li><strong>Riqueza sin Precedentes:</strong> El oro de Salomón es acumulado por el comercio y los tributos, lo que era un **acto de desobediencia** a la Ley.</li>
+    <li><strong>El Trono:</strong> El trono de marfil y oro con seis escalones, flanqueado por leones, simboliza el **poder absoluto**.</li>
+    <li><strong>Muerte y Entierro:</strong> Salomón muere y es enterrado en la **Ciudad de David**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Leyenda Real</h5>
+<ul>
+    <li><strong>Sabiduría:</strong> Los reyes eran juzgados por su sabiduría, astucia y riqueza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Caída:</strong> El cronista omite el pecado de Salomón (idolatría por sus esposas), sugiriendo que el juicio fue un castigo por el orgullo en la riqueza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La prosperidad de Salomón se convirtió en su perdición.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La sabiduría de Salomón atrae a los gentiles, prefigurando el <span class="highlight">reino universal del Mesías</span>. El ideal de David y Salomón es el punto de referencia para los reyes de Judá.</p>
                 
@@ -19281,7 +21188,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mal Consejo:</strong> La locura de escuchar a los jóvenes inmaduros</li>
                     <li><strong>Fin de la Unidad:</strong> El reino de David se divide</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Cisma de Israel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Tiranía y la Rebelión</h5>
+<ul>
+    <li><strong>La Coronación:</strong> Roboam va a **Siquem** para ser coronado (un lugar importante en el Norte).</li>
+    <li><strong>El Consejo:</strong> El pueblo pide a Roboam que alivie la **carga de los impuestos** de Salomón.</li>
+    <li><strong>Mal Consejo:</strong> Roboam rechaza el consejo de los **ancianos** y sigue el consejo de los **jóvenes** de la corte.</li>
+    <li><strong>La Respuesta:</strong> Roboam responde con arrogancia: "Mi dedo meñique es más grueso que los lomos de mi padre".</li>
+    <li><strong>El Cisma:</strong> Diez tribus se separan y aclaman a **Jeroboam**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Látigo Real</h5>
+<ul>
+    <li><strong>Tiranía:</strong> Los reyes mantenían el poder mediante impuestos, tributos y trabajos forzados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Voluntad Divina:</strong> El cronista enfatiza que el cisma es la **voluntad de Dios** para castigar la desobediencia de Salomón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La soberbia de Roboam sella el juicio profético.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La división del reino es un <span class="highlight">juicio de Dios</span>, pero asegura que el linaje davídico (en Judá) se mantenga, como prometió el Pacto de David.</p>
                 
@@ -19312,7 +21242,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Pueblo Fiel:</strong> Los que huyen a Judá por la verdadera adoración</li>
                     <li><strong>Fortaleza Espiritual:</strong> La presencia de los levitas legitima el reino de Judá</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Fortificación y Migración Levítica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rey de Judá y la Ley</h5>
+<ul>
+    <li><strong>Obediencia:</strong> Roboam reúne a un ejército para luchar contra Israel. El **profeta Semaías** lo detiene.</li>
+    <li><strong>Fortificaciones:</strong> Roboam fortifica ciudades clave para la defensa del reino (Judá y Benjamín).</li>
+    <li><strong>Migración Levítica:</strong> Los **sacerdotes y levitas** de todo Israel emigran a Judá porque Jeroboam ha establecido el culto a los **becerros de oro** (idolatría).</li>
+    <li><strong>El Impacto:</strong> Esta migración fortalece el Reino de Judá y legitima su culto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra Civil</h5>
+<ul>
+    <li><strong>Guerra:</strong> Los profetas a veces intervenían para evitar guerras civiles que dañarían al pueblo.</li>
+</ul>
+
+<h<h5><span style="color: var(--primary-color);">🔄 Principales Diferencias</span></h5>
+<ul>
+    <li><strong>Refugio:</strong> El reino de Judá se convierte en el **refugio de la ortodoxia** y la Ley.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Los levitas, por fidelidad a YHWH y al Templo, abandonan su herencia terrenal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El traslado de los levitas es el <span class="highlight">acto de fidelidad</span> que da la primacía espiritual a Judá. La verdadera adoración (el Templo) es el estándar de legitimidad.</p>
                 
@@ -19344,7 +21296,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humillación y Misericordia:</strong> El arrepentimiento sincero detiene el juicio total</li>
                     <li><strong>Pérdida de la Riqueza:</strong> La gloria de Salomón desaparece</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Invasión de Sisac y el Arrepentimiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Infidelidad y el Juicio</h5>
+<ul>
+    <li><strong>Infidelidad:</strong> Roboam y Judá abandonan la Ley de YHWH cinco años después del cisma.</li>
+    <li><strong>Invasión de Sisac:</strong> **Sisac (Shoshenq I) de Egipto** invade Judá y toma las ciudades fortificadas. | La invasión está documentada en los **registros egipcios**.</li>
+    <li><strong>El Profeta Semaías:</strong> El profeta anuncia que la invasión es un juicio por la infidelidad.</li>
+    <li><strong>Humillación:</strong> Roboam y los líderes **se humillan** (rito de arrepentimiento).</li>
+    <li><strong>El Saqueo:</strong> Sisac saquea el Templo y el palacio, tomando los **escudos de oro** de Salomón. Roboam los reemplaza con escudos de bronce.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Campaña Egipcia</h5>
+<ul>
+    <li><strong>Saqueo:</strong> Los tesoros de los templos eran el objetivo principal de las campañas militares.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Arrepentimiento:</strong> La humillación del rey detiene la destrucción total, mostrando la **misericordia de Dios**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Templo (que debía ser protegido por Dios) se convierte en el tesoro de Egipto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La humillación de Roboam demuestra que <span class="highlight">el arrepentimiento salva de la destrucción total</span>, aunque no de las consecuencias del pecado. El Templo es profanado por el pecado del rey.</p>
                 
@@ -19376,7 +21351,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Victoria por Oración:</strong> Judá clama a Dios en la batalla</li>
                     <li><strong>Pacto de Sal:</strong> La promesa dinástica de David es inquebrantable</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Guerra Fratricida y Fe en el Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra y el Sacerdocio</h5>
+<ul>
+    <li><strong>Abías de Judá:</strong> Abías (hijo de Roboam) se enfrenta a **Jeroboam de Israel**.</li>
+    <li><strong>Discurso de Guerra:</strong> Abías se dirige al ejército de Israel, denunciando su **idolatría** (los becerros de oro) y la **expulsión de los sacerdotes** levíticos.</li>
+    <li><strong>Legitimidad:</strong> Abías afirma que el reino de Judá es legítimo porque tiene el **Templo, el sacerdocio de Aarón y el culto correcto**.</li>
+    <li><strong>El Grito:</strong> Los hombres de Judá **gritan a YHWH** en la batalla.</li>
+    <li><strong>Resultado:</strong> Dios hiere a Jeroboam, y Judá mata a 500.000 soldados de Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Grito de Guerra</h5>
+<ul>
+    <li><strong>Grito:</strong> El grito de guerra era un rito para invocar la ayuda de la deidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Teología de la Guerra:</strong> La victoria se atribuye al **culto correcto** y la fidelidad religiosa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La dependencia del Templo y los sacerdotes es la clave para la victoria militar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Esta batalla demuestra que <span class="highlight">la legitimidad del reino se basa en el pacto dinástico y la ortodoxia del culto</span> (Templo, Arca, Sacerdocio).</p>
                 
@@ -19407,7 +21405,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dependencia en Dios:</strong> Asa confía en Dios, no en sus fuerzas</li>
                     <li><strong>Victoria Milagrosa:</strong> Dios derrota a un ejército inmensamente superior</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Reforma de Asa y Victoria sobre Cus</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Paz y la Reforma</h5>
+<ul>
+    <li><strong>Reforma de Asa:</strong> Asa (hijo de Abías) purga la idolatría: quita los altares paganos, los lugares altos y las aśeras.</li>
+    <li><strong>Paz:</strong> Judá experimenta **diez años de paz** gracias a la fidelidad del rey.</li>
+    <li><strong>Ejército y Fortificación:</strong> Asa usa el tiempo de paz para construir un ejército fuerte y fortificar ciudades.</li>
+    <li><strong>Invasión Etíope:</strong> **Zera el etíope** (Cus) invade con un millón de hombres.</li>
+    <li><strong>Oración:</strong> Asa ora a YHWH, reconociendo que Dios no hace acepción de personas ("no hay diferencia entre tú y el poderoso").</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra con Arcos</h5>
+<ul>
+    <li><strong>Ejército de Cus:</strong> Los etíopes eran conocidos por su gran habilidad con el arco.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fe y Números:</strong> La fe de Asa demuestra que la fuerza no está en los números, sino en YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La paz es una bendición directa de la obediencia al pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Asa es un <span class="highlight">modelo de rey piadoso</span>: busca a Dios, elimina la idolatría y es recompensado con paz y victoria divina.</p>
                 
@@ -19438,7 +21459,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Búsqueda de Dios:</strong> El llamado a la entrega total</li>
                     <li><strong>Renovación del Pacto:</strong> El pueblo se compromete a la fidelidad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Renovación del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Palabra Profética y el Juramento</h5>
+<ul>
+    <li><strong>El Profeta Azarías:</strong> El profeta amonesta a Asa con el principio: **"YHWH estará con vosotros, si vosotros estáis con él"**.</li>
+    <li><strong>Reforma Extendida:</strong> Asa destruye los ídolos de todo Judá, Benjamín y las ciudades conquistadas.</li>
+    <li><strong>Renovación del Pacto:</strong> El pueblo hace un **juramento solemne** para buscar a YHWH con todo su corazón.</li>
+    <li><strong>La Ley del Culto:</strong> Se establece que cualquiera que no buscara a YHWH **sería ejecutado** (Ley Mosaica para la idolatría).</li>
+    <li><strong>La Purga de Maaca:</strong> Asa depone a su abuela **Maaca** (la Reina Madre) por hacer un ídolo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Reina Madre</h5>
+<ul>
+    <li><strong>Reina Madre:</strong> La Reina Madre tenía un gran poder e influencia en la corte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Celo:</strong> El celo de Asa se extiende a su propia familia, mostrando que la fidelidad es total.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juramento del pueblo sella la promesa de una vida de pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La **fórmula del cronista** ("YHWH estará con vosotros...") se establece como la <span class="highlight">ley fundamental del reino</span>. La renovación del pacto trae paz y bendición.</p>
                 
@@ -19469,7 +21513,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Rechazo a la Reprensión:</strong> Asa encarcela al profeta</li>
                     <li><strong>Juicio Personal:</strong> Asa muere enfermo por no buscar a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Alianza Humana y Reprensión Profética</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Reprensión y la Enfermedad</h5>
+<ul>
+    <li><strong>Alianza con Siria:</strong> Baasa (rey de Israel) invade. Asa, sin consultar a YHWH, se alía con **Ben-hadad de Siria**.</li>
+    <li><strong>Reprensión de Hanani:</strong> El vidente **Hanani** amonesta a Asa por confiar en un rey humano y no en YHWH.</li>
+    <li><strong>El Castigo:</strong> Asa se enoja con el vidente y lo **pone en la cárcel**. | El encarcelamiento de profetas es un signo de apostasía.</li>
+    <li><strong>Enfermedad:</strong> Asa enferma de los pies. El cronista declara que **no buscó a YHWH** para su curación, sino a los médicos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Medicina</h5>
+<ul>
+    <li><strong>Médicos:</strong> La curación se buscaba a través de la medicina y los oráculos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fin de la Fe:</strong> El final de Asa es una advertencia de que la fe debe ser **constante** y no solo en la necesidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La dependencia del hombre trae el juicio, incluso después de un período de gran reforma.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El final de Asa demuestra que un <span class="highlight">largo historial de piedad no garantiza la fidelidad futura</span>. El pecado de la falta de confianza atrae el juicio personal y nacional.</p>
                 
@@ -19500,7 +21566,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Bendición y Seguridad:</strong> El resultado de la obediencia</li>
                     <li><strong>Poder Militar:</strong> Josafat tiene un gran ejército, pero su confianza está en Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Jehoshaphat, la Enseñanza de la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Instrucción y la Fidelidad</h5>
+<ul>
+    <li><strong>El Camino de David:</strong> Jehoshaphat (hijo de Asa) sigue el camino de su padre.</li>
+    <li><strong>La Gira de Enseñanza:</strong> Jehoshaphat envía a **sacerdotes, levitas y príncipes** a todas las ciudades de Judá para enseñar la **Ley de YHWH**.</li>
+    <li><strong>Fortaleza:</strong> La instrucción de la Ley trae el **temor de YHWH** sobre las naciones vecinas.</li>
+    <li><strong>Riqueza:</strong> Los filisteos y árabes le traen **tributo y regalos** a Judá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Enseñanza Pública</h5>
+<ul>
+    <li><strong>Ley:</strong> La enseñanza de la Ley era responsabilidad del rey, los sacerdotes y los levitas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder de la Palabra:</strong> La verdadera fuerza de Judá es la **palabra de Dios** enseñada y obedecida.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La obediencia a la Ley es la fuente de la prosperidad nacional.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Josafat es un <span class="highlight">ejemplo de gobierno teocrático ideal</span>: el rey es fiel, el pueblo es educado en la Ley, y Dios lo bendice con paz y prosperidad.</p>
                 
@@ -19533,7 +21621,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Profecía Falsa:</strong> Los 400 profetas mienten por espíritu maligno</li>
                     <li><strong>Juicio Cumplido:</strong> La profecía de Micaías es verdadera</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Alianza con Acab y el Profeta Miqueas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Profecía Verdadera y Falsa</h5>
+<ul>
+    <li><strong>Alianza Matrimonial:</strong> Jehoshaphat se alía con **Acab de Israel** (el apóstata) por matrimonio (su hijo se casa con Atalía, hija de Acab).</li>
+    <li><strong>Consulta a Profetas:</strong> Antes de ir a la guerra, Jehoshaphat insiste en consultar a un **profeta de YHWH**.</li>
+    <li><strong>Profetas Falsos:</strong> Cuatrocientos profetas profetizan la victoria. Sedequías hace **cuernos de hierro** como símbolo de conquista.</li>
+    <li><strong>Miqueas:</strong> El profeta Miqueas profetiza la **derrota** y revela que los profetas de Acab están mintiendo por un **espíritu engañador**.</li>
+    <li><strong>El Disfraz:</strong> Acab se disfraza en la batalla, pero una **flecha al azar** lo hiere y muere.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Disfraz Real</h5>
+<ul>
+    <li><strong>Disfraz:</strong> Los reyes se disfrazaban para evitar ser objetivos principales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Sincretismo:</strong> La alianza política con el mal (Acab) casi le cuesta la vida a Jehoshaphat.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera profecía** de YHWH prevalece sobre la mentira de 400 profetas falsos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo advierte sobre el <span class="highlight">peligro de las "malas compañías"</span>. La piedad personal no exime de las consecuencias de una alianza impía.</p>
                 
@@ -19564,7 +21675,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia en el Gobierno:</strong> El temor de Dios es la base del sistema judicial</li>
                     <li><strong>Integridad:</strong> La importancia de los jueces justos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Jueces, Levitas y Reforma Judicial</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio Justo y la Instrucción</h5>
+<ul>
+    <li><strong>Reprensión:</strong> El vidente **Jehú** reprende a Jehoshaphat por aliarse con el impío Acab.</li>
+    <li><strong>Reforma Judicial:</strong> Jehoshaphat establece **jueces** en todas las ciudades fortificadas.</li>
+    <li><strong>El Tribunal Superior:</strong> Se establece un tribunal superior en **Jerusalén** con sacerdotes, levitas y jefes de familia.</li>
+    <li><strong>El Principio del Juicio:</strong> Los jueces deben juzgar con la verdad y el **"temor de YHWH"**.</li>
+    <li><strong>La Advertencia:</strong> Se advierte a los jueces que el juicio que emitan no es humano, sino un **juicio de YHWH**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Tribunales</h5>
+<ul>
+    <li><strong>Justicia:</strong> Los reyes eran responsables de establecer un sistema de justicia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Teología Judicial:</strong> El cronista enfatiza que el rey establece el sistema de justicia porque le fue ordenado por YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El temor de YHWH es el fundamento de toda justicia y gobierno.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La reforma judicial demuestra que la <span class="highlight">verdadera piedad se extiende al gobierno civil</span> y a la administración de la justicia. El arrepentimiento lleva a una acción reformadora.</p>
                 
@@ -19597,7 +21731,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder de la Alabanza:</strong> La música es el arma más fuerte</li>
                     <li><strong>El Valle de Beraca:</strong> El lugar de la bendición (acción de gracias)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oración, Ayuno y la Batalla de la Alabanza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ayuno y el Coro de Guerra</h5>
+<ul>
+    <li><strong>Amenaza de Coalición:</strong> Moab, Amón y Edom invaden Judá.</li>
+    <li><strong>El Ayuno:</strong> Jehoshaphat proclama un **ayuno público** para buscar a YHWH. | El ayuno es el rito de súplica ante la necesidad extrema.</li>
+    <li><strong>Oración Pública:</strong> Jehoshaphat ora en el Templo, recordando el **Pacto de YHWH** y la promesa del Templo (2 Crónicas 6).</li>
+    <li><strong>Profeta Jahaziel:</strong> El profeta anuncia que la batalla no es suya, sino de YHWH.</li>
+    <li><strong>El Coro:</strong> Jehoshaphat pone a los **cantores** al frente del ejército. Al empezar a cantar, Dios pone **confusión** entre los enemigos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Saqueo</h5>
+<ul>
+    <li><strong>Botín:</strong> El ejército de Judá pasa tres días recogiendo el botín de la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Adoración como Arma:</strong> La batalla se gana a través de la **adoración** y la fe, no por la espada.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La intervención sobrenatural de Dios como respuesta a la fe es el centro de la historia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Este es el <span class="highlight">clímax de la teología del cronista</span>: el poder espiritual (oración y adoración) es superior al poder militar. La fe es acción.</p>
                 
@@ -19629,7 +21786,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio del Saqueo:</strong> Dios usa enemigos para castigar el pecado del rey</li>
                     <li><strong>Muerte por Enfermedad:</strong> Castigo por el derramamiento de sangre inocente</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Jehoram, Apostasía y Juicio por Elías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Asesinato y el Juicio Profético</h5>
+<ul>
+    <li><strong>El Rey Impío:</strong> Jehoram (hijo de Jehoshaphat) asesina a **todos sus hermanos** para asegurar el trono.</li>
+    <li><strong>Apostasía:</strong> Jehoram reinstala los **lugares altos** e idolatrías, obligando al pueblo de Judá a la apostasía.</li>
+    <li><strong>La Carta de Elías:</strong> Jehoram recibe una **carta de Elías** (aunque Elías ya había ascendido), profetizando el juicio. | La carta sella el juicio sobre la dinastía de Acab (de donde provenía su esposa).</li>
+    <li><strong>Muerte:</strong> Jehoram muere de una **enfermedad intestinal incurable**.</li>
+    <li><strong>Sin Honra:</strong> El pueblo **no le hizo honras** fúnebres como a sus padres, ni fue enterrado en la tumba de los reyes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra Post-Muerte</h5>
+<ul>
+    <li><strong>Entierro:</strong> Ser enterrado en la tumba real era un gran honor. No serlo era la deshonra máxima.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ausencia de Duelo:</strong> El juicio es tan grande que el pueblo no lo llora.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio sobre la casa real es una respuesta directa a su maldad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El juicio de Joram es el <span class="highlight">castigo por la alianza impía de Josafat</span> con Acab. Dios protege el linaje davídico (en parte) pero castiga al rey que lo profana.</p>
                 
@@ -19662,7 +21842,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Preservación:</strong> Dios protege milagrosamente al heredero legítimo</li>
                     <li><strong>Refugio en el Templo:</strong> El Templo salva el trono</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Influencia de Acab y la Usurpación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Consejo Malvado y el Escondite</h5>
+<ul>
+    <li><strong>Ocozías:</strong> Ocozías (el rey) sigue el **mal consejo** de su madre **Atalía** (hija de Acab).</li>
+    <li><strong>Juicio de Jehú:</strong> Ocozías es asesinado por Jehú, como parte del juicio de Dios sobre la casa de Acab.</li>
+    <li><strong>Usurpación de Atalía:</strong> Atalía, la reina madre, mata a toda la simiente real. | Un acto de **usurpación violenta** y paganismo.</li>
+    <li><strong>El Príncipe Oculto:</strong> La hermana del sacerdote Joiada esconde al infante **Joás** (el único heredero de David) en el Templo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Eliminación Dinástica</h5>
+<ul>
+    <li><strong>Matanza:</strong> El regicidio y la eliminación de la línea eran comunes para asegurar el poder.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Templo como Refugio:</strong> El Templo (la casa de YHWH) es el único lugar seguro para el heredero de David.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fidelidad de un sacerdote salva el linaje de David y la promesa mesiánica.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La preservación de Joás es un <span class="highlight">acto de fidelidad divina</span> al Pacto Davídico. La amenaza a la línea real es la máxima crisis espiritual.</p>
                 
@@ -19694,7 +21896,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Renovación del Pacto:</strong> El pueblo se compromete con YHWH y el rey legítimo</li>
                     <li><strong>Destrucción de Baal:</strong> La purga de la idolatría en Jerusalén</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Sacerdote Joiada y la Restauración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Unción y el Pacto</h5>
+<ul>
+    <li><strong>El Golpe de Joiada:</strong> El sacerdote **Joiada** hace un pacto con los capitanes del ejército.</li>
+    <li><strong>Coronación:</strong> El niño **Joás** es sacado del Templo y coronado rey. | El pueblo aclama "¡Viva el rey!".</li>
+    <li><strong>Muerte de Atalía:</strong> Atalía es ejecutada fuera del Templo.</li>
+    <li><strong>El Pacto de Reforma:</strong> Joiada establece un **pacto solemne** para que el pueblo sea **pueblo de YHWH**.</li>
+    <li><strong>Purga:</strong> Se destruyen los **altares y templos de Baal**, y se establece a los sacerdotes y levitas en sus turnos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guardia de la Corte</h5>
+<ul>
+    <li><strong>Corredores:</strong> La guardia real (los corredores) era la fuerza de élite para proteger al rey.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder Sacerdotal:</strong> El sacerdote, por un acto de fe, se convierte en el **regente** y el restaurador del reino.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El regreso a la Ley y al Templo es el acto de restauración política.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La restauración del rey es inseparable de la <span class="highlight">restauración del Templo y la adoración</span>. El sacerdocio es el protector del trono de David.</p>
                 
@@ -19726,7 +21951,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Martirio:</strong> El asesinato del hijo del salvador del rey</li>
                     <li><strong>Juicio Justo:</strong> Joás es asesinado como castigo por su crimen</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Reparación del Templo y la Apostasía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ofrenda y el Profeta Lapidado</h5>
+<ul>
+    <li><strong>Reparación del Templo:</strong> Joás, bajo la guía de Joiada, ordena la **reparación del Templo**.</li>
+    <li><strong>La Caja:</strong> Se establece una **caja de donativos** en el atrio del Templo para recolectar el dinero (una reforma financiera).</li>
+    <li><strong>Apostasía:</strong> Después de la muerte de Joiada, Joás es seducido por los **príncipes de Judá** y abandona a YHWH.</li>
+    <li><strong>Juicio:</strong> Joás ordena **lapidar** a Zacarías (hijo de Joiada), que profetizó contra el rey. | Un acto de **ingratitud extrema** y pecado imperdonable.</li>
+    <li><strong>Muerte:</strong> Joás es asesinado por sus propios siervos en su cama.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Castigo de Profetas</h5>
+<ul>
+    <li><strong>Lapidación:</strong> La lapidación era la pena máxima, generalmente por blasfemia o idolatría.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ingratitud:</strong> El asesinato del hijo de su benefactor sella el juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La piedad es fugaz si el corazón no está sujeto a la Palabra, no al hombre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El asesinato de Zacarías (el justo) en el Templo es un <span class="highlight">acto de impiedad extrema</span>. El Templo es el lugar de la vida, no de la muerte.</p>
                 
@@ -19757,7 +22005,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Idolatría Edomita:</strong> Adorar a los dioses del enemigo vencido</li>
                     <li><strong>Juicio Final:</strong> Amasías muere por su apostasía</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Mercenarios, Obediencia Parcial y Orgullo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley y la Advertencia</h5>
+<ul>
+    <li><strong>Amasías (Judá):</strong> Amasías ejecuta a los asesinos de su padre, pero **no mata a sus hijos** (siguiendo la Ley Mosaica).</li>
+    <li><strong>Mercenarios:</strong> Amasías contrata a **100.000 mercenarios de Israel** (idólatras) por 100 talentos de plata.</li>
+    <li><strong>El Profeta:</strong> Un profeta le advierte que YHWH no está con Israel. Amasías obedece y **los despide** (perdiendo el dinero).</li>
+    <li><strong>Orgullo:</strong> Amasías derrota a Edom y luego desafía a Joás de Israel a la guerra.</li>
+    <li><strong>Resultado:</strong> Judá es derrotada y el Templo es saqueado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Desafío Real</h5>
+<ul>
+    <li><strong>Desafío:</strong> El desafío a la batalla era un rito para resolver disputas territoriales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Obediencia Parcial:</strong> La obediencia de Amasías a despedir a los mercenarios es eclipsada por su orgullo posterior.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La obediencia a medias y el orgullo llevan a la destrucción.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo demuestra la <span class="highlight">locura de la idolatría</span>: un rey que adora a dioses que no pudieron salvar a su propio pueblo. La obediencia parcial es infidelidad.</p>
                 
@@ -19789,7 +22060,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Usurpación Sacerdotal:</strong> El rey no debe invadir la esfera de la adoración</li>
                     <li><strong>Castigo con Lepra:</strong> La exclusión de la presencia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Uzías, Prosperidad y Usurpación Sacerdotal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Soberbia y el Juicio del Sacerdocio</h5>
+<ul>
+    <li><strong>Prosperidad de Uzías:</strong> Uzías es exitoso en la guerra, construye fortificaciones y desarrolla la agricultura.</li>
+    <li><strong>Innovación Militar:</strong> Uzías inventa **máquinas de guerra** (catapultas) en las torres de Jerusalén.</li>
+    <li><strong>Soberbia:</strong> Uzías entra al Templo para **quemar incienso** (una función reservada a los sacerdotes de Aarón).</li>
+    <li><strong>Juicio:</strong> Uzías es golpeado con **lepra** y debe vivir aislado.</li>
+    <li><strong>La Ley:</strong> La lepra lo excluye del culto, y su hijo Jotham debe gobernar por él.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra de Asedio</h5>
+<ul>
+    <li><strong>Máquinas:</strong> La invención de máquinas de guerra (la tecnología) es alabada por el cronista.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder vs. Santidad:</strong> La bendición de la prosperidad no da derecho al rey a violar la **santidad del Templo** y el sacerdocio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La ofensa a la Ley Sacerdotal es un pecado grave para el rey.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La lepra de Uzías es un recordatorio severo de que <span class="highlight">el rey no está por encima de la Ley de Dios</span>, ni debe usurpar la función del sacerdocio. El orden de Dios debe ser respetado.</p>
                 
@@ -19820,7 +22114,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fortaleza por la Piedad:</strong> El éxito militar y político es resultado de buscar a Dios</li>
                     <li><strong>Respeto al Templo:</strong> La lección aprendida de Uzías</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Jotham, un Rey Fiel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Éxito por la Obediencia</h5>
+<ul>
+    <li><strong>Jotham:</strong> Jotham (hijo de Uzías) hace lo recto, pero **no entra en el Templo** (una lección aprendida de su padre).</li>
+    <li><strong>No Removió los Lugares:</strong> Jotham no elimina los lugares altos (la debilidad de su reinado).</li>
+    <li><strong>Construcción:</strong> Jotham construye la **Puerta Superior del Templo** y fortifica ciudades.</li>
+    <li><strong>Guerra:</strong> Jotham somete a los **amonitas**, obligándolos a pagar un gran tributo.</li>
+    <li><strong>Éxito:</strong> El éxito se atribuye a que Jotham **"preparó sus caminos delante de YHWH"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Tributo</h5>
+<ul>
+    <li><strong>Tributo:</strong> El pago de trigo, cebada y plata era una forma de vasallaje.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Prudencia:</strong> Jotham fue prudente al respetar el límite entre el rey y el sacerdote.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El servicio a Dios (preparar los caminos) es la fuente de la prosperidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Jotam es una <span class="highlight">demostración de la bendición que sigue a la obediencia</span>. Su piedad personal asegura la estabilidad nacional.</p>
                 
@@ -19852,7 +22169,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cierre del Templo:</strong> El acto de apostasía más grave</li>
                     <li><strong>Alianza Asiria:</strong> Confiar en un poder gentil en lugar de Dios, lo que trae más aflicción</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Acaz, Apostasía y Sacrificio de Niños</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio y la Profanación</h5>
+<ul>
+    <li><strong>Acaz:</strong> Acaz es el **peor rey de Judá**. Hace imágenes fundidas para los **Baales**.</li>
+    <li><strong>Sacrificio de Hijos:</strong> Acaz quema a sus hijos en el fuego (ofrenda a **Moloc**). | El acto más extremo de apostasía.</li>
+    <li><strong>Guerra:</strong> Judá sufre grandes pérdidas a manos de Israel y Siria.</li>
+    <li><strong>Alianza Asiria:</strong> Acaz paga un gran tributo a **Tiglath-pileser III de Asiria** para que lo ayude contra Siria e Israel.</li>
+    <li><strong>Profanación del Templo:</strong> Acaz cierra las puertas del Templo y hace altares a dioses paganos en toda Jerusalén.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Rehenes</h5>
+<ul>
+    <li><strong>Cautiverio:</strong> Israel (por orden de Dios) toma a Judá cautiva, pero luego los libera y los devuelve.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Traición:</strong> La alianza con Asiria trae más mal que bien. El rey traiciona a YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El juicio es tan grande que el rey desobedece la Ley Sacerdotal de forma extrema.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El reinado de Acaz es el <span class="highlight">punto más bajo</span> de Judá. El cierre del Templo es un rechazo directo a la adoración y al pacto de Dios.</p>
                 
@@ -19884,7 +22224,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Purificación:</strong> La remoción de la inmundicia física y espiritual</li>
                     <li><strong>Expiación:</strong> El sacrificio por el pecado de la nación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ezequías y la Limpieza del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Restauración y la Expiación</h5>
+<ul>
+    <li><strong>Ezequías:</strong> Ezequías comienza a reinar y abre las puertas del Templo (cerradas por Acaz).</li>
+    <li><strong>La Purificación:</strong> Ezequías manda a los **sacerdotes y levitas** a limpiar el Templo (sacar la inmundicia). | La limpieza dura 16 días.</li>
+    <li><strong>El Holocausto de Expiación:</strong> El rey ordena un **sacrificio de expiación** por todo Israel.</li>
+    <li><strong>Reactivación del Culto:</strong> Ezequías restablece el servicio de **canto y música** (el patrón de David).</li>
+    <li><strong>El Regocijo:</strong> El pueblo se regocija porque "Dios lo había dispuesto" (la rapidez y celo de la obra).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Reforma</h5>
+<ul>
+    <li><strong>Reforma:</strong> Los reyes piadosos debían deshacer rápidamente el daño de sus predecesores.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Prioridad:</strong> La **restauración del culto** es la máxima prioridad del rey.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El celo del rey abre el camino para que el pueblo regrese a YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La reapertura del Templo es el <span class="highlight">retorno a la fuente de la vida nacional</span>. La santificación de los levitas es esencial antes de que el culto pueda ser aceptado.</p>
                 
@@ -19915,7 +22278,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo de la Pascua:</strong> La celebración de la redención y la liberación</li>
                     <li><strong>Perdón por Oración:</strong> Dios perdona a los que no se santificaron por la oración del rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Gran Pascua de Ezequías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ritual y la Unidad Nacional</h5>
+<ul>
+    <li><strong>La Pascua Tardía:</strong> Ezequías convoca a la Pascua, pero se celebra en el **segundo mes** (porque no se había limpiado el Templo y no había suficientes sacerdotes).</li>
+    <li><strong>Invitación a Israel:</strong> Ezequías envía cartas a **todo Israel** (Norte y Sur), invitándolos a la Pascua.</li>
+    <li><strong>Burla y Conversión:</strong> Algunos se ríen de los mensajeros, pero otros se **humillan** y asisten.</li>
+    <li><strong>Purificación Sacerdotal:</strong> Muchos que vinieron no estaban limpios. Los **levitas** matan los corderos de la Pascua por ellos (adaptación de la Ley).</li>
+    <li><strong>La Oración de Ezequías:</strong> Ezequías ora por los que tienen el corazón recto, aunque no estén ritualmente limpios. Dios los escucha.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Peregrinación</h5>
+<ul>
+    <li><strong>Peregrinación:</strong> Las fiestas eran un momento para la peregrinación a Jerusalén.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Misericordia:</strong> La **misericordia de Dios** sobrepasa la ley ritual cuando el corazón está dispuesto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Pascua es un símbolo de la **reunificación** y el compromiso con YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Pascua es un <span class="highlight">símbolo de la unidad y la redención</span>. El deseo de Ezequías de incluir a Israel prefigura la visión de un solo pueblo de Dios.</p>
                 
@@ -19946,7 +22332,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Diezmos y Ofrendas:</strong> El sustento del ministerio</li>
                     <li><strong>Integridad:</strong> La administración honesta de los recursos del Templo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Destrucción de Ídolos y Sostén del Sacerdocio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Diezmo y la Generosidad</h5>
+<ul>
+    <li><strong>Destrucción de Ídolos:</strong> Después de la Pascua, el pueblo destruye todos los **lugares altos, ídolos y aśeras** en Judá e Israel.</li>
+    <li><strong>El Diezmo:</strong> Ezequías ordena al pueblo que traiga los **diezmos y primicias** para sostener a los sacerdotes y levitas.</li>
+    <li><strong>Abundancia:</strong> La ofrenda es tan grande que hay **abundancia y excedente**.</li>
+    <li><strong>Organización:</strong> Ezequías nombra tesoreros para supervisar las ofrendas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Destrucción de Santuarios</h5>
+<ul>
+    <li><strong>Profanación:</strong> La destrucción de los lugares altos era una purga total.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Sostén del Culto:</strong> La prosperidad del Templo y los sacerdotes es un reflejo de la **fidelidad del pueblo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe se demuestra no solo en el culto, sino en la generosidad material.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo demuestra que <span class="highlight">la fe del pueblo se manifiesta en su generosidad</span> para apoyar el culto. La prosperidad se debe a la obediencia en el dar.</p>
                 
@@ -19978,7 +22386,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad y Orgullo:</strong> El contraste en el carácter de Ezequías</li>
                     <li><strong>El Celo por el Templo:</strong> El entierro de Ezequías con honores por sus obras</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Asedio Asirio y la Oración de Ezequías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Fe y el Profeta</h5>
+<ul>
+    <li><strong>Preparación Militar:</strong> Ezequías se prepara para el asedio de **Senaquerib** (Asiria). Cierra fuentes de agua y fortalece el muro.</li>
+    <li><strong>Discurso de Ánimo:</strong> Ezequías anima al pueblo a no temer al rey asirio, sino a confiar en YHWH, cuyo poder es mayor que el de la carne.</li>
+    <li><strong>Blasfemia:</strong> Senaquerib se burla de YHWH, diciendo que el Dios de Judá no puede salvar al pueblo.</li>
+    <li><strong>Oración y Profeta:</strong> Ezequías y el profeta **Isaías** oran por la liberación.</li>
+    <li><strong>Juicio Angelical:</strong> El **Ángel de YHWH** mata a 185.000 soldados asirios. Senaquerib regresa y es asesinado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra Psicológica</h5>
+<ul>
+    <li><strong>Guerra Psicológica:</strong> La burla a la deidad enemiga era una práctica común.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Intervención:</strong> La liberación es totalmente **sobrenatural**, demostrando que YHWH lucha por Su pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El poder de la oración es mayor que la fuerza del imperio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La liberación de Jerusalén es la <span class="highlight">prueba de la fidelidad de Dios al Pacto Davídico</span>. La humillación de Ezequías ante la profecía aplaza el juicio de Dios.</p>
                 
@@ -20009,7 +22440,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrepentimiento Genuino:</strong> El cronista enfatiza la misericordia de Dios por la humillación personal</li>
                     <li><strong>Restauración:</strong> El rey es restaurado al trono después de la prueba</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Manasés, Apostasía, Arrepentimiento y Amón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y la Misericordia</h5>
+<ul>
+    <li><strong>Manasés (Malvado):</strong> Manasés revierte todas las reformas de Ezequías y comete la peor idolatría (Moloc, hechicería, ídolo en el Templo).</li>
+    <li><strong>Captura y Exilio:</strong> Los **asirios** capturan a Manasés con garfios y lo llevan a **Babilonia** (una ciudad de Asiria).</li>
+    <li><strong>Arrepentimiento:</strong> En cautiverio, Manasés **se humilla y ora** a YHWH.</li>
+    <li><strong>Restauración:</strong> Dios lo restaura al trono. Manasés intenta reformar la nación, pero el mal era profundo.</li>
+    <li><strong>Amón:</strong> Su hijo Amón continúa la maldad, pero **no se humilla**. Es asesinado por sus siervos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Castigo Asirio</h5>
+<ul>
+    <li><strong>Garra:</strong> El uso de anillos o ganchos en la nariz o labios era un castigo asirio para humillar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Arrepentimiento:</strong> El cronista incluye el **arrepentimiento de Manasés** (omitiendo su maldad persistente) para mostrar que incluso el mayor pecador puede ser perdonado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La misericordia de Dios se extiende incluso al rey más idólatra de Judá.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El arrepentimiento de Manasés es un <span class="highlight">ejemplo de la inmensa misericordia de Dios</span> con el pecador arrepentido. Sin embargo, su pecado fue demasiado grande para evitar el juicio nacional posterior.</p>
                 
@@ -20041,7 +22495,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Palabra Perdida:</strong> El re-descubrimiento de la Ley</li>
                     <li><strong>Humillación:</strong> Josías se arrepiente por el pecado de la nación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Josías, La Reforma y el Libro de la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ley y la Profetisa</h5>
+<ul>
+    <li><strong>Reforma a Temprana Edad:</strong> Josías comienza a reinar a los **ocho años**. A los 12 años, comienza a purificar a Judá de los ídolos.</li>
+    <li><strong>Purificación:</strong> Josías quema los huesos de los sacerdotes paganos en los altares de Bet-el, cumpliendo una profecía (1 Reyes 13).</li>
+    <li><strong>Descubrimiento de la Ley:</strong> Se halla el **Libro de la Ley** (probablemente Deuteronomio) en el Templo.</li>
+    <li><strong>El Velo Rasgado:</strong> Josías **rasga sus vestiduras** (rito de arrepentimiento) y consulta a la **profetisa Hulda**.</li>
+    <li><strong>Juicio Retrasado:</strong> Hulda confirma el juicio de Dios sobre la nación, pero lo retrasa por la **humildad** de Josías.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Autoridad de la Ley</h5>
+<ul>
+    <li><strong>La Ley:</strong> El descubrimiento es la **prueba** de la corrupción religiosa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Autoridad:</strong> La **autoridad final** no reside en el rey, sino en la **Palabra escrita**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La reforma es la respuesta del rey a la autoridad de la Palabra de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La reforma de Josías demuestra que <span class="highlight">la obediencia a la Ley</span> es el único camino para la vida. El arrepentimiento sincero del líder aplaza el juicio.</p>
                 
@@ -20074,7 +22551,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Muerte Trágica:</strong> Josías muere en una guerra que no era suya</li>
                     <li><strong>Consecuencias:</strong> La pérdida del rey piadoso abre la puerta al juicio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Última Gran Pascua</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Preparación Sacerdotal y la Tragedia</h5>
+<ul>
+    <li><strong>La Gran Pascua:</strong> Josías celebra una **Pascua sin precedentes** (siguiendo las reglas de David y Samuel).</li>
+    <li><strong>La Preparación:</strong> Se restaura el **orden levítico** y se establece la provisión de los corderos.</li>
+    <li><strong>La Muerte:</strong> Josías se enfrenta al **Faraón Necao de Egipto** en Meguido y es **mortalmente herido**.</li>
+    <li><strong>Lamentación:</strong> El pueblo hace **lamentaciones solemnes** por Josías. El profeta **Jeremías** escribe una endecha por él.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Batalla Fatal</h5>
+<ul>
+    <li><strong>Luto:</strong> Las lamentaciones y endecha eran un rito para honrar a un rey muerto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Tragedia:</strong> La muerte del mejor rey de Judá es un signo de que el **juicio sobre la nación es irrevocable**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fidelidad del rey no puede anular la sentencia de Dios sobre el pueblo impío.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El sacrificio de la Pascua es un <span class="highlight">símbolo de la redención</span>. La muerte de Josías es la remoción del último obstáculo al juicio profetizado.</p>
                 
@@ -20107,7 +22606,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Descanso de la Tierra:</strong> Los 70 años cumplen la profecía (Jeremías)</li>
                     <li><strong>El Decreto de Ciro:</strong> El cumplimiento final de la misericordia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Exilio Final y el Edicto de Ciro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y la Profecía Cumplida</h5>
+<ul>
+    <li><strong>Los Últimos Reyes:</strong> Reinados cortos de Joacaz, Joacim y Joaquín (títeres de Egipto y Babilonia).</li>
+    <li><strong>Burla de Profetas:</strong> El pueblo se burla de los **mensajeros de Dios** (profetas), lo que provoca la ira divina.</li>
+    <li><strong>Destrucción de Jerusalén (586 a.C.):</strong> **Nabucodonosor** quema el Templo y destruye la ciudad.</li>
+    <li><strong>La Tierra Descansa:</strong> El exilio de **70 años** es el cumplimiento de la profecía de Jeremías y la restauración de los **años sabáticos perdidos**.</li>
+    <li><strong>El Edicto de Ciro:</strong> El libro termina con el edicto de **Ciro, rey de Persia**, permitiendo a los judíos **regresar y reconstruir el Templo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Desolación</h5>
+<ul>
+    <li><strong>Destrucción:</strong> La destrucción del Templo era la derrota del dios de la nación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Esperanza:</strong> El libro (escrito después del exilio) termina con un **acto de fe y esperanza** en la Palabra de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fidelidad de Dios al pacto garantiza la posibilidad de un regreso y una restauración.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El exilio es la <span class="highlight">consecuencia inevitable del pecado</span>. El final del libro, sin embargo, se centra en la promesa de restauración a través de Ciro, dándole a los exiliados una **nota de esperanza** para la reconstrucción del Templo y la nación.</p>
                 
@@ -20141,7 +22663,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Decreto de Ciro:</strong> Dios usa a un rey pagano para Su propósito</li>
                     <li><strong>Restauración:</strong> El retorno de los utensilios del Templo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Edicto Persa y la Restitución de Objetos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Regreso y el Liderazgo</h5>
+<ul>
+    <li><strong>El Edicto de Ciro:</strong> Ciro el Grande (rey de Persia) emite un decreto para que los exiliados judíos regresen a Jerusalén y reconstruyan el Templo.</li>
+    <li><strong>Política Persa:</strong> El decreto es un ejemplo de la **política persa de tolerancia** y descentralización religiosa para mantener la paz en el vasto imperio.</li>
+    <li><strong>Restitución de Vasos:</strong> Ciro devuelve los **utensilios del Templo** que Nabucodonosor se había llevado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Monarquía Persa</h5>
+<ul>
+    <li><strong>Decreto Real:</strong> El decreto es una ley vinculante que permite el regreso y la financiación del Templo.</li>
+    <li><strong>El Tesoro:</strong> La devolución de los vasos sagrados (más de 5.400) era un acto de **legitimación** y de apoyo a la restauración del culto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Profecía Cumplida:</strong> YHWH usa a un **rey pagano** (Ciro) para cumplir la profecía de Jeremías (70 años de exilio).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La soberanía de Dios se extiende sobre los imperios paganos para cumplir Su palabra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Dios es el <span class="highlight">Señor de la Historia</span>, controlando incluso a los reyes gentiles (Ciro) para cumplir Sus promesas. El regreso y la devolución de los utensilios demuestran que la adoración será restaurada.</p>
                 
@@ -20174,7 +22718,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pureza Sacerdotal:</strong> La importancia de la genealogía levítica</li>
                     <li><strong>Organización:</strong> La preparación meticulosa para el reasentamiento</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Lista de los Retornados (Censo)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Genealogía y la Legitimidad</h5>
+<ul>
+    <li><strong>El Censo:</strong> Se registra una lista detallada de los que regresaron con Zorobabel (unos 42.360, más siervos y cantores).</li>
+    <li><strong>Propósito:</strong> El censo es crucial para establecer la **propiedad de la tierra** y la **legitimidad tribal** de los que restaurarían la comunidad.</li>
+    <li><strong>Dificultad de Identificación:</strong> Algunos que regresaron **no pudieron probar** su genealogía (sus registros se perdieron).</li>
+    <li><strong>Urim y Tumim:</strong> Los sacerdotes excluidos debían esperar hasta que hubiera un sacerdote con **Urim y Tumim** para consultar a Dios sobre su linaje.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Administración Persa</h5>
+<ul>
+    <li><strong>Registro:</strong> Los persas valoraban los registros detallados de los pueblos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Identidad:</strong> La identidad del pueblo de Dios está ligada a los **registros de pureza** del linaje y el sacerdocio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El regreso se basa en la **organización** y la **identidad del pacto**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La lista destaca la <span class="highlight">identidad y continuidad del pueblo de Dios</span>. El enfoque en los sacerdotes subraya que la adoración es la prioridad central de la restauración.</p>
                 
@@ -20206,7 +22772,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo y Lamento:</strong> La tensión entre la restauración y el recuerdo de la gloria pasada</li>
                     <li><strong>El Fundamento:</strong> Inicio formal de la reconstrucción</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Restauración del Altar y la Fundación del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adoración y la Fiesta</h5>
+<ul>
+    <li><strong>El Altar:</strong> La primera acción es construir el **altar de los holocaustos** y restaurar los sacrificios (antes de las paredes del Templo).</li>
+    <li><strong>Prioridad:</strong> La restauración del **sacrificio y el pacto de adoración** es la prioridad teológica.</li>
+    <li><strong>Fiesta de los Tabernáculos:</strong> Se celebra por primera vez la **Fiesta de los Tabernáculos** (Sukkot), reafirmando la identidad religiosa.</li>
+    <li><strong>Cimientos del Templo:</strong> Se ponen los cimientos del nuevo Templo (el Segundo Templo).</li>
+    <li><strong>El Lamento:</strong> Los ancianos que habían visto el **Templo de Salomón** lloran de tristeza por la diferencia de esplendor.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Arquitectura</h5>
+<ul>
+    <li><strong>Obreros Extranjeros:</strong> Se contrata a obreros de **Tiro y Sidón** (Fenicios) por la madera de cedro (una alianza económica).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Adoración sobre el Edificio:</strong> El culto (altar y sacrificios) es más importante que el edificio en sí.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **alegría y las lágrimas** se mezclan en la fundación del Templo; la fidelidad de YHWH es la causa del gozo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La reconstrucción del altar significa la <span class="highlight">restauración de la expiación</span> y la comunión con Dios como la base de la vida nacional. La ofrenda es el corazón del regreso.</p>
                 
@@ -20238,7 +22827,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Persecución Legal:</strong> El uso de la ley para detener la obra de Dios</li>
                     <li><strong>Frustración:</strong> La paralización del proyecto durante años</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oposición y Suspensión de la Obra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Pureza del Culto</h5>
+<ul>
+    <li><strong>Los Adversarios:</strong> Los "pueblos de la tierra" (samaritanos, la mezcla de pueblos) ofrecen **ayuda sincretista** en la construcción.</li>
+    <li><strong>El Rechazo:</strong> La ayuda es rechazada porque la adoración de YHWH debe ser **pura** y realizada solo por los hijos del exilio.</li>
+    <li><strong>Tácticas de Oposición:</strong> Los adversarios **sobornan a consejeros** en Persia y envían una carta oficial al rey persa (Artajerjes).</li>
+    <li><strong>Acusación Legal:</strong> La carta acusa a los judíos de ser un pueblo **rebelde** que, si se le permite construir, no pagará impuestos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Burocracia Imperial</h5>
+<ul>
+    <li><strong>El Idioma Oficial:</strong> La correspondencia se escribe en **arameo** (el idioma administrativo persa).</li>
+    <li><strong>Suspensión Real:</strong> El rey Artajerjes ordena el **cese total** de la obra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Precio de la Santidad:</strong> La **pureza de la adoración** se mantiene a pesar de que el costo es la suspensión de la obra por dos décadas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley de la Guerra (no hacer pactos) se aplica a la adoración.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La oposición muestra que la <span class="highlight">obra de Dios siempre será atacada</span> por aquellos que desean impedir el avance de Su reino. La fidelidad requiere resistencia.</p>
                 
@@ -20270,7 +22882,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Liderazgo Animado:</strong> Zorobabel y Jesúa responden a la profecía</li>
                     <li><strong>Investigación Persa:</strong> Dios controla la burocracia para proteger Su obra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Intervención Profética y la Ley Persa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Autoridad Profética</h5>
+<ul>
+    <li><strong>Intervención Profética:</strong> Los profetas **Hageo y Zacarías** alientan al pueblo a reanudar la construcción, a pesar del decreto de suspensión.</li>
+    <li><strong>La Soberanía de YHWH:</strong> El pueblo comienza a trabajar, confiando en la **autoridad divina** sobre el decreto real.</li>
+    <li><strong>Autoridad Persa:</strong> Tatnai, el gobernador persa, investiga a los constructores y envía una **consulta oficial** al rey **Darío**.</li>
+    <li><strong>La Pregunta Clave:</strong> La clave legal es el **decreto original** de Ciro, que se busca en los archivos.</li>
+    <li><strong>Afirmación:</strong> Los judíos afirman ser **siervos del Dios del cielo y de la tierra**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Administración Persa</h5>
+<ul>
+    <li><strong>Procedimiento:</strong> El gobernador actúa bajo el **procedimiento administrativo** normal para verificar la legitimidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Obediencia:</strong> El celo por la Palabra de YHWH (a través de Hageo y Zacarías) vence la **parálisis del miedo** y reanuda la construcción.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es la única autoridad que anula las órdenes reales.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La intervención de los profetas demuestra que la <span class="highlight">restauración espiritual debe preceder a la restauración física</span>. El pueblo necesitaba un llamado de Dios para vencer el miedo y la apatía.</p>
                 
@@ -20302,7 +22937,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Finalización:</strong> La obra se concluye por la fidelidad de Dios</li>
                     <li><strong>Gozo:</strong> La celebración de la Dedicación y la Pascua</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Confirmación del Decreto y la Dedicación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Finalización y la Fiesta</h5>
+<ul>
+    <li><strong>Confirmación de Darío:</strong> Darío ordena la búsqueda del decreto de Ciro, y es hallado en **Ecbatana** (la capital de verano).</li>
+    <li><strong>Apoyo Imperial:</strong> Darío confirma el decreto, ordena a los adversarios **no interferir** y que incluso **paguen los gastos** del Templo.</li>
+    <li><strong>Fin de la Construcción:</strong> El Templo se termina en el año sexto del reinado de Darío (alrededor del 515 a.C.).</li>
+    <li><strong>Dedicación:</strong> Se ofrece un gran **sacrificio de dedicación** y se organiza el **servicio sacerdotal** por turnos.</li>
+    <li><strong>Pascua:</strong> Se celebra la **Pascua** con gozo y se come pan sin levadura.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Archivos Reales</h5>
+<ul>
+    <li><strong>Archivos:</strong> La **rigurosidad de los archivos persas** es clave para la restauración legal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Paz:</strong> La dedicación ocurre en **paz total** bajo la protección del poder imperial.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Templo se termina por la **fidelidad de Dios** y el apoyo de los reyes paganos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La finalización del Templo marca el <span class="highlight">restablecimiento del centro de la adoración</span>. La celebración de la Pascua simboliza el nuevo comienzo del pueblo como nación redimida y consagrada.</p>
                 
@@ -20334,7 +22992,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad de la Ley:</strong> El decreto de Artajerjes le da a Esdras autoridad judicial</li>
                     <li><strong>Preparación Personal:</strong> Esdras se dedica primero a inquirir, luego a cumplir y finalmente a enseñar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Esdras, el Escriba, y el Segundo Retorno</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Autoridad de la Ley</h5>
+<ul>
+    <li><strong>Esdras, el Escriba:</strong> Esdras llega a Jerusalén 60 años después de la dedicación. Es un **escriba diestro** en la Ley de Moisés.</li>
+    <li><strong>El Decreto de Artajerjes:</strong> El rey persa **Artajerjes I** le da a Esdras una carta que le confiere **autoridad total** para administrar la Ley.</li>
+    <li><strong>Magistrado Religioso:</strong> Esdras actúa como un **magistrado religioso** con autoridad real para imponer la Ley Mosaica.</li>
+    <li><strong>Financiación:</strong> Artajerjes ordena proporcionar todos los fondos necesarios para el Templo y el sacrificio.</li>
+    <li><strong>Propósito de Esdras:</strong> Esdras se dedica a **estudiar, practicar y enseñar** la Ley.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ley Persa</h5>
+<ul>
+    <li><strong>Ley y Orden:</strong> Persia valoraba que los pueblos tuvieran leyes funcionales. La Ley Mosaica servía a este propósito.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder de la Ley:</strong> El segundo regreso se enfoca en la **autoridad de la Palabra de Dios** (la Ley), no solo en la estructura física del Templo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La mano de YHWH está sobre Esdras para restaurar la **verdadera adoración**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El enfoque se mueve del Templo (físico) a la <span class="highlight">Ley (espiritual)</span>. La restauración de la Palabra es la clave para la verdadera piedad en la comunidad.</p>
                 
@@ -20366,7 +23047,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe sobre la Fuerza:</strong> Rechazar la escolta militar por confianza en Dios</li>
                     <li><strong>Integridad:</strong> La meticulosa contabilidad del tesoro del Templo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Viaje Protegido y Responsabilidad Sacerdotal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ayuno y la Fe</h5>
+<ul>
+    <li><strong>Lista de Retornados:</strong> Esdras reúne a los exiliados, destacando la necesidad de **levitas** para el servicio.</li>
+    <li><strong>El Ayuno de Protección:</strong> Esdras proclama un **ayuno solemne** antes de partir para pedir protección en el camino.</li>
+    <li><strong>Rechazo a la Guardia Militar:</strong> Esdras se avergüenza de pedir una escolta militar al rey. | Confía en la **protección de YHWH** más que en la fuerza humana.</li>
+    <li><strong>Entrega de Tesoros:</strong> Los tesoros son pesados y entregados a los **sacerdotes** para que los lleven a Jerusalén. | La **responsabilidad ritual** de los sacerdotes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Viajes Peligrosos</h5>
+<ul>
+    <li><strong>Bandidos:</strong> El camino de regreso era largo y peligroso, lleno de bandidos. La escolta militar era común.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dependencia:</strong> La fe de Esdras en la **protección de Dios** durante el peligroso viaje es recompensada.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La oración y el ayuno son las armas más efectivas para el pueblo de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Esdras es un ejemplo de <span class="highlight">fe práctica</span>. La preparación para el ministerio no es solo académica (cap. 7), sino también espiritual (cap. 8), basada en la humillación y la oración.</p>
                 
@@ -20398,7 +23101,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confesión:</strong> Esdras asume la culpa en la oración</li>
                     <li><strong>Juicio Inminente:</strong> El miedo a atraer de nuevo el exilio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Matrimonio Mixto y la Oración de Confesión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Pureza de la Simiente</h5>
+<ul>
+    <li><strong>Matrimonios Mixtos:</strong> Esdras es informado de que el pueblo, los sacerdotes y los levitas se han casado con los **pueblos de la tierra** (violación directa de la Ley).</li>
+    <li><strong>Reacción de Esdras:</strong> Esdras **rasga su ropa, se arranca el cabello** y se sienta **asombrado** (en duelo) hasta la tarde. | Un rito de **vergüenza extrema** por la apostasía.</li>
+    <li><strong>La Oración de Confesión:</strong> Esdras ofrece una **larga oración de confesión**, reconociendo la **culpa colectiva** del pueblo.</li>
+    <li><strong>El Propósito del Exilio:</strong> Esdras recuerda que la **primera caída** fue por los pecados de las naciones, y teme el juicio total.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Asimilación Cultural</h5>
+<ul>
+    <li><strong>Alianzas:</strong> Los matrimonios a menudo se hacían por **alianzas económicas o políticas** con los vecinos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Santidad:</strong> La Ley exige la **separación total** de las naciones para mantener la santidad y evitar la repetición del juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El pecado sexual/matrimonial es la mayor amenaza para el remanente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El matrimonio mixto simboliza la <span class="highlight">contaminación de la pureza de la fe</span>. La oración de Esdras es un modelo de arrepentimiento vicario (en nombre de otros) y de dolor por el pecado de la comunidad.</p>
                 
@@ -20430,7 +23155,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pacto de Disolución:</strong> Una medida radical para preservar la pureza</li>
                     <li><strong>La Comisión:</strong> La aplicación ordenada de la Ley</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Pacto de Divorcio y la Reforma</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Obediencia Radical</h5>
+<ul>
+    <li><strong>Arrepentimiento Público:</strong> El pueblo **llora amargamente** y hace un pacto solemne para **despedir a las mujeres extranjeras** y a sus hijos.</li>
+    <li><strong>El Rito de Divorcio:</strong> El **divorcio forzado** es el medio radical de mantener la **pureza religiosa y étnica** del remanente del pacto.</li>
+    <li><strong>El Proceso Legal:</strong> Se establece un **comité de jueces** para investigar y resolver los casos de matrimonio mixto por ciudades (un proceso de tres meses).</li>
+    <li><strong>El Sacrificio de Expiación:</strong> Los culpables ofrecen un **carnero** como ofrenda por la culpa. | El rito sacrificial restaura la **limpieza ritual**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Jurisprudencia</h5>
+<ul>
+    <li><strong>Comités:</strong> La creación de comités para investigar crímenes era un método legal para garantizar la justicia en el imperio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Pureza sobre la Familia:</strong> La **obediencia radical** a la Ley Mosaica es la base de la restauración del remanente, incluso a costa de la unidad familiar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La acción de Esdras subraya que el **pueblo del pacto** debe ser un pueblo **separado y santo**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El arrepentimiento genuino requiere <span class="highlight">medidas radicales</span> para deshacer las transgresiones. La disolución de los matrimonios ilustra que la fidelidad al Pacto de Dios es más importante que lazos personales.</p>
                 
@@ -20463,7 +23210,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oración de Confesión:</strong> Nehemías se identifica con el pecado de su pueblo</li>
                     <li><strong>Súplica por el Favor:</strong> Nehemías invoca el pacto de Dios para el regreso</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Copero Real y la Oración Confesional</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Servicio de la Corte</h5>
+<ul>
+    <li><strong>Copero Real:</strong> Nehemías sirve como copero (el que prueba el vino) del rey Artajerjes I en **Susa** (la capital de invierno de Persia).</li>
+    <li><strong>Posición de Confianza:</strong> El copero era una posición de **gran influencia y confianza** por el temor al envenenamiento. Tenía acceso directo al rey.</li>
+    <li><strong>La Deshonra de Jerusalén:</strong> El muro de Jerusalén roto y las puertas quemadas significaban la **deshonra total** de la ciudad y su vulnerabilidad militar ante sus vecinos.</li>
+    <li><strong>El Rito de Luto:</strong> Nehemías se sienta y **llora, ayuna y ora**, un rito de luto por la ruina de la ciudad santa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Burocracia Imperial</h5>
+<ul>
+    <li><strong>El Rango:</strong> El rango de Nehemías le daba la plataforma para interceder por su pueblo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Oración Histórica:</strong> Nehemías confiesa el pecado de Israel a la luz de la Ley (Levítico 26 y Deuteronomio 30).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El dolor por la ruina de la ciudad y el Templo inspira la acción de restauración.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Nehemías es un modelo de <span class="highlight">liderazgo a través de la intercesión</span>. La oración de un siervo influyente abre el camino para la acción de Dios.</p>
                 
@@ -20496,7 +23265,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Planificación y Discreción:</strong> Nehemías evalúa la situación antes de actuar</li>
                     <li><strong>Llamada a la Acción:</strong> El desafío a reconstruir el muro</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Misión Real y la Autoridad Persa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Viaje Autorizado</h5>
+<ul>
+    <li><strong>El Rostro Triste:</strong> Un rostro triste en presencia del rey se consideraba una **ofensa capital**. Nehemías arriesga su vida al no ocultar su dolor.</li>
+    <li><strong>Cartas Reales:</strong> El rey da a Nehemías **cartas de paso** para los gobernadores de la provincia "del otro lado del río" (la autoridad del Eufrates).</li>
+    <li><strong>Madera del Bosque:</strong> Nehemías solicita una carta al **guardián del bosque real** para obtener madera para las puertas del Templo y la fortaleza.</li>
+    <li><strong>Autoridad de Gobernador:</strong> Nehemías viaja con **capitanes del ejército y caballería** (protección militar y estatus de enviado real).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Oposición Local</h5>
+<ul>
+    <li><strong>Los Adversarios:</strong> La oposición de **Sanbalat el horonita** (gobernador de Samaria) y **Tobías el amonita** (un funcionario de alto rango).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Inspección Nocturna:</strong> Nehemías inspecciona los muros **en secreto y de noche** para evitar la oposición inicial y evaluar la magnitud de la tarea.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **mano de Dios** está sobre Nehemías, transformando su pena en una misión real.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El favor del rey es una <span class="highlight">señal de la aprobación de Dios</span> a la misión. La inspección es la aplicación práctica de la fe: la oración debe ir seguida de la acción planificada.</p>
                 
@@ -20528,7 +23319,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Organización:</strong> La asignación de tareas específicas</li>
                     <li><strong>Compromiso:</strong> El pueblo tuvo la voluntad (el corazón) para trabajar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Organización de la Construcción Comunal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Trabajo en Equipo</h5>
+<ul>
+    <li><strong>Trabajo por Secciones:</strong> La reconstrucción se organiza por **gremios y familias**, cada uno asignado a la sección de muro más cercana a su propia casa.</li>
+    <li><strong>Participación de Sacerdotes:</strong> Los **sumos sacerdotes** (encabezados por Eliasib) construyen la Puerta de las Ovejas, mostrando que el sacerdocio participa en el trabajo secular.</li>
+    <li><strong>Gremios Específicos:</strong> Se mencionan gremios como los **orfebres** y los **perfumistas**, lo que demuestra la diversidad de la comunidad.</li>
+    <li><strong>La Puerta de los Pescados:</strong> El nombre de las puertas (Puerta de la Fuente, Puerta de los Pescados, Puerta Vieja) refleja la **geografía y las actividades** de esa área.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la División del Trabajo</h5>
+<ul>
+    <li><strong>Eficiencia:</strong> La división del trabajo por vecindarios era un método eficaz para completar una obra masiva rápidamente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Factor de la Fe:</strong> El éxito se debe a que el **pueblo tenía ánimo para trabajar**, más que a su habilidad técnica.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La unidad de la comunidad de Judá se expresa en el trabajo colaborativo en la muralla.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La reconstrucción es una <span class="highlight">tarea colectiva</span>. La iglesia (el pueblo de Dios) debe trabajar unida, donde cada miembro es vital en su "sección" asignada.</p>
                 
@@ -20559,7 +23372,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Constancia y Vigilancia:</strong> Trabajar con el arma en la mano</li>
                     <li><strong>El Desánimo:</strong> Superar el miedo al enemigo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Guerra Psicológica y Defensa Armada</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Defensa Comunal</h5>
+<ul>
+    <li><strong>Burlas y Desprecio:</strong> Los adversarios (Sanbalat, Tobías) usan la **burla** (guerra psicológica) para desanimar a los constructores.</li>
+    <li><strong>La Amenaza:</strong> Los enemigos planean **atacar de repente** a Jerusalén.</li>
+    <li><strong>Trabajo Armado:</strong> La gente trabaja con una **mano en la obra y otra en el arma** (espada o lanza), o la lleva al lado.</li>
+    <li><strong>Alerta de Trompeta:</strong> Se establece un sistema de **alerta por trompeta** (el toque del shofar) para que todos se reúnan en el lugar de ataque.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra del Asedio</h5>
+<ul>
+    <li><strong>Guerra Irregular:</strong> El objetivo de los enemigos no era el asedio total, sino las **incursiones y el sabotaje** para detener la construcción.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Oración y la Acción:</strong> Nehemías **ora a Dios** (dependencia divina) y **pone guardia** (responsabilidad humana).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La obra se protege por la mano de Dios y el **celo armado** del pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo es el ejemplo clásico de **"Trabajo y Oración"** o <span class="highlight">"Fe y Obras"</span>. La obra de Dios debe ser defendida de los ataques del enemigo mediante la vigilancia espiritual y física.</p>
                 
@@ -20591,7 +23426,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Usura y Opresión:</strong> El pecado de aprovecharse de los hermanos</li>
                     <li><strong>Liderazgo de Servicio:</strong> El desinterés y el ejemplo de Nehemías</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Crisis de Deuda y Reforma Social</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Usura y la Esclavitud</h5>
+<ul>
+    <li><strong>La Usura:</strong> El pueblo pobre se queja de que los nobles les cobran **usura** (intereses altos) por los préstamos de grano.</li>
+    <li><strong>Esclavitud por Deudas:</strong> Los pobres se ven obligados a **hipotecar sus campos y viñas** y vender a sus propios **hijos e hijas como esclavos**.</li>
+    <li><strong>La Ley Mosaica:</strong> La Ley de Moisés **prohibía la usura** entre israelitas. La práctica era una opresión flagrante.</li>
+    <li><strong>El Ejemlo de Nehemías:</strong> Nehemías, como gobernador, **no cobra su ración** (el pan del gobernador) y prohíbe la usura, exigiendo la **devolución de las tierras**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Liderazgo</h5>
+<ul>
+    <li><strong>Discurso Público:</strong> Nehemías reúne a los nobles y les da un discurso de **reproche público** para forzar el arrepentimiento y la reforma.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Sacudida:</strong> Nehemías **sacude su manto** como un rito para simbolizar que Dios "sacudiría" a los que no cumplieran el pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia social** es tan importante para YHWH como la construcción de los muros.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La restauración de la muralla no tiene sentido si la <span class="highlight">justicia social</span> está ausente. La piedad vertical (Dios) debe ir acompañada de la ética horizontal (el prójimo).</p>
                 
@@ -20623,7 +23480,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falsos Profetas:</strong> El peligro del uso de la religión para el mal</li>
                     <li><strong>Conclusión de la Obra:</strong> El resultado de la perseverancia</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Complots y Finalización del Muro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Traición y el Chantaje</h5>
+<ul>
+    <li><strong>Trampas:</strong> Sanbalat y Tobías intentan atraer a Nehemías a una reunión en **Ono** (un lugar neutral), con la intención de matarlo.</li>
+    <li><strong>Calumnias:</strong> Los enemigos le envían una **carta abierta** (una calumnia pública) acusándolo de planear una rebelión contra Persia.</li>
+    <li><strong>Profetas Sobornados:</strong> Los enemigos sobornan a un **profeta llamado Semaías** para que diga a Nehemías que se esconda en el Templo.</li>
+    <li><strong>Profanación del Templo:</strong> Entrar en el **Templo** (siendo un laico) era un acto de profanación, que lo desacreditaría.</li>
+    <li><strong>Terminación:</strong> El muro se termina en **52 días** (un tiempo notablemente corto para una obra tan masiva).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra Política</h5>
+<ul>
+    <li><strong>Desacreditación:</strong> El objetivo de los complots era **desacreditar la reputación** de Nehemías ante el pueblo y el rey persa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Poder de la Oración:</strong> Nehemías se defiende con la **oración** y el **celo** por no profanar el Templo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La finalización de la obra es reconocida por los enemigos como un **milagro de Dios**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La perseverancia de Nehemías ante la tentación y el soborno demuestra que el <span class="highlight">líder piadoso no se desvía de la misión</span> ni se doblega ante el miedo. El final de la obra glorifica a Dios.</p>
                 
@@ -20654,7 +23534,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Repoblación:</strong> El esfuerzo por llenar la ciudad</li>
                     <li><strong>Continuidad Histórica:</strong> La lista vincula la obra con el primer regreso</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Organización de la Ciudad y el Censo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Gobierno Local</h5>
+<ul>
+    <li><strong>Guardias:</strong> Nehemías establece a su hermano **Hananí** y a **Hananías** (comandante de la fortaleza) como líderes de la ciudad.</li>
+    <li><strong>Las Puertas:</strong> Se establecen **guardias para las puertas** de la ciudad, que deben abrirse solo después de que el sol haya calentado (para que la gente esté despierta) y cerrarse al atardecer.</li>
+    <li><strong>El Censo de Genealogía:</strong> Nehemías encuentra el **registro genealógico** de los primeros retornados (Esdras 2).</li>
+    <li><strong>Propósito:</strong> El censo es crucial para la **identificación legal**, la propiedad de la tierra y la legitimidad del **sacerdocio**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Administración Persa</h5>
+<ul>
+    <li><strong>Gobernador:</strong> Nehemías actúa con la autoridad de un gobernador, asegurando el orden y la defensa de la provincia persa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Pequeñez de Jerusalén:</strong> La ciudad reconstruida era grande, pero **pocas personas** vivían en ella, un problema que Nehemías resuelve más adelante.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La organización de la vida cívica y religiosa es un acto de **fidelidad** a la Ley de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El nombramiento de líderes basados en el <span class="highlight">temor de Dios</span> es la clave para una administración fiel. La reconstrucción física debe ir acompañada de la organización social.</p>
                 
@@ -20686,7 +23588,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo de YHWH:</strong> La fuente de la fortaleza del pueblo</li>
                     <li><strong>Restauración de la Fiesta:</strong> La obediencia en la celebración de las ordenanzas</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lectura de la Ley y el Gozo Restaurado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rito de la Ley</h5>
+<ul>
+    <li><strong>Lectura de la Ley:</strong> **Esdras, el escriba**, lee la Ley (probablemente el Pentateuco o Deuteronomio) desde una **plataforma de madera** en la plaza.</li>
+    <li><strong>El Idioma:</strong> La Ley se lee en el **hebreo** antiguo, y los levitas la **traducen y explican** (Targum) en **arameo** (el idioma hablado).</li>
+    <li><strong>La Reacción:</strong> El pueblo **llora** al entender la Ley y su propio pecado.</li>
+    <li><strong>La Fiesta de los Tabernáculos:</strong> El pueblo se muda a **cabañas** hechas de ramas para vivir durante siete días (cumpliendo el rito del desierto).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Asamblea Pública</h5>
+<ul>
+    <li><strong>Plataforma:</strong> La plataforma de madera elevaba al lector, lo que subraya la **autoridad de la Palabra**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Gozo de YHWH:</strong> Nehemías dice: "El **gozo de YHWH** es vuestra fuerza". El entendimiento de la Ley debe llevar al gozo, no solo a la tristeza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad final** no es el muro reconstruido, sino la Palabra de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El capítulo es el **clímax de la restauración espiritual**: la <span class="highlight">reconstrucción de la comunidad alrededor de la Palabra de Dios</span>. El gozo es la señal de la verdadera fe y obediencia.</p>
                 
@@ -20717,7 +23641,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Historia de la Salvación:</strong> Repaso de la fidelidad de Dios desde Abraham</li>
                     <li><strong>Misericordia y Justicia:</strong> Dios es justo al juzgar, pero inmensamente misericordioso</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Ayuno, Confesión y el Pacto Histórico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Arrepentimiento Solemne</h5>
+<ul>
+    <li><strong>Rito de Confesión:</strong> El pueblo se reúne con **ayuno, cilicio y ceniza** sobre sus cabezas.</li>
+    <li><strong>Separación:</strong> Se **separan de los extranjeros** antes de la confesión (un paso necesario para la pureza del pacto).</li>
+    <li><strong>La Gran Oración Levítica:</strong> Los levitas dirigen una oración que repasa la **historia del pacto** (Creación, Abrahám, Éxodo, desierto, Jueces).</li>
+    <li><strong>Reconocimiento:</strong> La oración se centra en la **fidelidad inmutable** de Dios y la **infidelidad constante** de Israel.</li>
+    <li><strong>El Sello:</strong> Los líderes sellan un **documento escrito** que confirma su compromiso de vivir según la Ley.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Juramento Formal</h5>
+<ul>
+    <li><strong>El Sello:</strong> El sello de los príncipes, levitas y sacerdotes hace que el pacto sea un **documento legal y vinculante**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Nuevo Comienzo:</strong> El pueblo reconoce que su miseria se debe a su propio pecado y no a la falta de poder de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La confesión y el pacto reafirman la **identidad teocrática** de Judá bajo la Ley.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La confesión histórica es una <span class="highlight">declaración teológica</span>: el pueblo reconoce que su sufrimiento es el resultado de su propia desobediencia, no de la injusticia de Dios.</p>
                 
@@ -20749,7 +23696,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad Financiera:</strong> El diezmo para el sostenimiento del Templo</li>
                     <li><strong>Santuario del Sábado:</strong> El compromiso de la santificación semanal</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Los Términos del Pacto Renovado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Compromiso Legal</h5>
+<ul>
+    <li><strong>Los Firmantes:</strong> La lista de los que sellaron el pacto (incluyendo a Nehemías, sacerdotes, levitas y líderes).</li>
+    <li><strong>El Compromiso Matrimonial:</strong> El pueblo jura **no dar sus hijas** a los pueblos de la tierra ni tomar sus hijas.</li>
+    <li><strong>El Sábado:</strong> Juran **no comprar mercancías** en sábado de los pueblos de la tierra.</li>
+    <li><strong>El Año Sabático:</strong> Se comprometen a **perdonar las deudas** y no labrar la tierra en el año sabático.</li>
+    <li><strong>El Sostén del Templo:</strong> Juran pagar el **diezmo** y la **ofrenda del madero** (para el fuego del altar) para el sostenimiento del servicio y los levitas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Economía Agrícola</h5>
+<ul>
+    <li><strong>Diezmo:</strong> El diezmo de la cosecha y el ganado era el **sistema de impuestos teocrático** para sostener el culto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Prioridad de la Ley:</strong> El pacto detalla las **prácticas más difíciles** de la Ley, mostrando un compromiso radical con ella.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La restauración del culto requiere un **compromiso económico** y ritual del pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El pacto es la <span class="highlight">aplicación práctica del arrepentimiento</span>. El pueblo se compromete a poner límites claros (matrimonio mixto) y a honrar a Dios con sus recursos (diezmos) y su tiempo (Sábado).</p>
                 
@@ -20780,7 +23750,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Listas y Genealogías:</strong> La importancia de la identidad</li>
                     <li><strong>Organización Civil:</strong> El establecimiento de la estructura de gobierno</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Repoblación y Redistribución de la Tierra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Vida en la Ciudad Amurallada</h5>
+<ul>
+    <li><strong>La Lotería (Echar Suertes):</strong> Para garantizar la protección y la vida cívica, se echan suertes para que **uno de cada diez** habitantes viva en Jerusalén.</li>
+    <li><strong>Voluntarios:</strong> Algunos se ofrecen **voluntariamente** a vivir en la ciudad, y el pueblo los bendice.</li>
+    <li><strong>Distribución Rural:</strong> Los demás viven en las **aldeas y pueblos** circundantes (Judá y Benjamín).</li>
+    <li><strong>Personal de Culto:</strong> Se detalla la lista de los **sacerdotes, levitas, porteros y cantores** que sirven en Jerusalén.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Defensa Urbana</h5>
+<ul>
+    <li><strong>Jerusalén como Centro:</strong> Una ciudad con murallas solo era útil si había suficiente gente dentro para **defenderla** en caso de asedio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Poder de la Voluntad:</strong> El acto de vivir en Jerusalén era una **carga económica**, pero se ve como un acto de fidelidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La restauración no solo es física, sino también la **restauración del centro demográfico** y espiritual.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La repoblación es un <span class="highlight">acto de fe y de sacrificio</span>. Vivir en Jerusalén era peligroso y costoso, y la reubicación demuestra la dedicación a la capital del pacto.</p>
                 
@@ -20812,7 +23804,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Adoración Pública:</strong> El cántico y la acción de gracias como parte central del culto</li>
                     <li><strong>Estructura Levítica:</strong> El orden de los sacerdotes y levitas para el servicio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Dedicación de los Muros y el Servicio del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Celebración y el Canto</h5>
+<ul>
+    <li><strong>Dedicación:</strong> Se organiza una gran ceremonia para la **dedicación de los muros**.</li>
+    <li><strong>Dos Coros:</strong> Se forman **dos grandes coros** (coros de acción de gracias). Uno va sobre el muro hacia la derecha, y el otro hacia la izquierda.</li>
+    <li><strong>Instrumentos Musicales:</strong> El sonido de la celebración incluye **címbalos, arpas y liras**, con gran **gozo y voz fuerte**.</li>
+    <li><strong>La Purificación:</strong> Los sacerdotes y levitas se **purifican** (a sí mismos y al pueblo) antes de la celebración.</li>
+    <li><strong>Organización del Sacerdocio:</strong> Se reestablece la **provisión para los sacerdotes y levitas** según lo ordenado por David.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Procesión Urbana</h5>
+<ul>
+    <li><strong>Desfile en la Muralla:</strong> El desfile sobre la muralla era un acto de **soberanía y triunfo** sobre los enemigos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Alegría de YHWH:</strong> El gozo es tan grande que **"se oía lejos de Jerusalén"**, un contraste con el lamento inicial.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El muro es un signo de la **fidelidad de YHWH** a Su pueblo, que se expresa en la adoración gozosa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La dedicación es la <span class="highlight">consagración de la obra a Dios</span>. El gozo público es una prueba de que Dios había intervenido, y que Su bendición se extendía a la vida cívica y religiosa.</p>
                 
@@ -20851,7 +23866,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Zelo por la Casa de Dios:</strong> Nehemías purga la corrupción del Templo</li>
                     <li><strong>La Oración Final:</strong> Nehemías busca el reconocimiento de Dios, no del hombre</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Segunda Reforma y el Celoso Gobernador</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Purificación del Templo y el Sábado</h5>
+<ul>
+    <li><strong>Exclusión de Extranjeros:</strong> Se lee la Ley (Deuteronomio 23) sobre la **exclusión de amonitas y moabitas** de la congregación.</li>
+    <li><strong>Profanación del Templo:</strong> **Tobías el amonita** (el adversario) vivía en un aposento del Templo, un lugar sagrado.</li>
+    <li><strong>Acción de Nehemías:</strong> Nehemías **expulsa a Tobías** y purifica los aposentos, mostrando su celo.</li>
+    <li><strong>Profanación del Sábado:</strong> El pueblo traficaba vino, uvas y mercancías en **sábado**.</li>
+    <li><strong>El Castigo Físico:</strong> Nehemías **riñe con los nobles** y hasta **tira del cabello** a los judíos que se casaron con extranjeras.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Comercio y la Violencia</h5>
+<ul>
+    <li><strong>Sábado:</strong> Guardar el Sábado era una de las **marcas de identidad** más importantes de Israel.</li>
+    <li><strong>Violencia Personal:</strong> El acto de tirar del cabello y maldecir a los hombres muestra el **celo extremo** de Nehemías.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Celo Post-Pacto:</strong> La reforma final muestra que el **pecado es persistente**, incluso después de la lectura de la Ley y el pacto solemne.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro termina con la **lucha constante** por mantener la santidad y la Ley en la vida diaria.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El libro demuestra la <span class="highlight">fragilidad de la fe humana</span> y la necesidad constante de vigilancia. La perseverancia en la obediencia, incluso sin el líder presente, es el desafío final.</p>
                 
@@ -20885,7 +23924,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Causa y Consecuencia:</strong> La deposición de Vasti abre el camino para Ester</li>
                     <li><strong>Orden Social:</strong> La necesidad de mantener la autoridad masculina en el imperio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Opulencia Persa y la Exclusión Real</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Monarquía Absoluta</h5>
+<ul>
+    <li><strong>Banquete Real:</strong> Asuero organiza un banquete de **180 días** para oficiales y uno de **7 días** para el pueblo en la fortaleza de **Susa**. Esta era una demostración de la **inmensa riqueza** y el poder del imperio.</li>
+    <li><strong>Vestiduras de Vasti:</strong> El rey exige que la reina Vasti se presente para mostrar su belleza, en violación del **protocolo real** y la dignidad femenina.</li>
+    <li><strong>La Ley Meda y Persa:</strong> El desafío de Vasti debe castigarse con una **ley irrevocable** (principio legal fundamental).</li>
+    <li><strong>Decreto Patriarcal:</strong> Se emite un decreto para que **"todo hombre sea señor en su casa"**, reafirmando la autoridad patriarcal después del desafío de la reina.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Corte Persa</h5>
+<ul>
+    <li><strong>Protocolo:</strong> El rey bebía de copas de oro y el vino se servía sin restricción, reflejando el lujo persa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ley y Capricho:</strong> El capricho del rey (mostrar a Vasti) se convierte en una **ley vinculante** para todo el imperio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La anarquía moral de la corte persa establece el escenario donde la vida judía se ve amenazada.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La deposición de Vasti es el <span class="highlight">primer acto providencial</span> que pone a Ester en posición para salvar a su pueblo. La vanidad del rey crea el vacío necesario para el plan de Dios.</p>
                 
@@ -20917,7 +23978,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Identidad Oculta:</strong> El secreto de Ester como judía</li>
                     <li><strong>Lealtad:</strong> Mardoqueo salva la vida del rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Harem Real y la Elección de la Reina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Identidad Oculta y el Servicio</h5>
+<ul>
+    <li><strong>La Elección de la Reina:</strong> Se establece un proceso de búsqueda de vírgenes bellas de todo el imperio para reemplazar a Vasti (un **concurso de belleza imperial**).</li>
+    <li><strong>El Harem (Casa de Mujeres):</strong> Las mujeres pasaban **un año de preparación ritual** con aceites y perfumes caros (un baño de purificación y embellecimiento).</li>
+    <li><strong>Mardoqueo y Ester:</strong> Mardoqueo instruye a Ester (su prima) a **no revelar su nacionalidad** ni su origen. Ocultar el origen era una estrategia de **supervivencia** para los judíos en el exilio.</li>
+    <li><strong>La Traición:</strong> Mardoqueo, sentado en la puerta del rey (lugar de los funcionarios), descubre un **complot de regicidio** y lo reporta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Esclavitud Sexual</h5>
+<ul>
+    <li><strong>Poder Absoluto:</strong> El rey tenía el **poder absoluto** sobre las mujeres de sus súbditos para el harén.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Provincia en la Corte:</strong> La obediencia de Ester y el servicio de Mardoqueo establecen la **deuda** del rey hacia el pueblo judío.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La obediencia y la belleza de Ester la llevan a una posición clave para la salvación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La elección de Ester es un <span class="highlight">acto de salvación preventiva</span> de Dios. El secreto de su identidad será esencial para su rol como defensora de su pueblo.</p>
                 
@@ -20949,7 +24032,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Origen de Purim:</strong> El echar suertes (Pur) para fijar la fecha</li>
                     <li><strong>Arrogancia:</strong> El orgullo de Amán es la causa de su odio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Honores Reales y Leyes de Aniquilación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Monoteísmo en la Corte</h5>
+<ul>
+    <li><strong>Ascenso de Amán:</strong> Amán el agagueo (posiblemente descendiente de los Amalecitas) es promovido sobre todos los príncipes.</li>
+    <li><strong>El Ritual de Postración:</strong> Amán exige que todos se **arrodillen y se postren** ante él. Mardoqueo se niega (un acto de **fidelidad monoteísta**).</li>
+    <li><strong>El Sortilegio (Pur):</strong> Amán echa **Pur** (suerte) para determinar el día más propicio para la masacre. El uso de la adivinación era común.</li>
+    <li><strong>El Edicto Genocida:</strong> Amán sella un decreto para **aniquilar a todos los judíos** en el imperio, basándose en la **ley persa inmutable**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ley Irrevocable</h5>
+<ul>
+    <li><strong>El Anillo Real:</strong> El rey sella el decreto con su **anillo real**. La ley persa no podía revocarse, solo compensarse.</li>
+    <li><strong>Oprobio:</strong> Amán ofrece una fortuna (10,000 talentos) para compensar la pérdida de impuestos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Conflicto Histórico:</strong> El conflicto se revela como la batalla entre la **simiente de Israel** (Mardoqueo) y el **odio amalecita** (Amán).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El odio racial se disfraza de razón de estado, usando la ley imperial como arma.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El conflicto es una <span class="highlight">guerra ancestral</span> (Amalecitas vs. Israel). El plan de Amán es el desafío más grande a la promesa de Dios de preservar a Su pueblo.</p>
                 
@@ -20981,7 +24087,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Coraje y Fe:</strong> Ester arriesga su vida por su pueblo</li>
                     <li><strong>Ayuno:</strong> El pueblo busca la intervención de Dios (a pesar de no mencionarlo)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Duelo Público y la Ley de la Reina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rito de Súplica y la Oración</h5>
+<ul>
+    <li><strong>Duelo Público:</strong> Mardoqueo se viste de **cilicio y ceniza** (el rito judío de duelo extremo y humillación) y clama en la plaza de la ciudad.</li>
+    <li><strong>Acceso a la Reina:</strong> Ester no puede ir al rey sin ser llamada, bajo **pena de muerte**. Solo si el rey extiende su **cetro de oro** es perdonada.</li>
+    <li><strong>El Mandato de la Historia:</strong> Mardoqueo le pregunta a Ester si no ha llegado a la realeza **"para esta hora"**. | Un llamado al **destino providencial**.</li>
+    <li><strong>El Ayuno (Rito de Súplica):</strong> Ester ordena un **ayuno de tres días** para toda la comunidad judía de Susa. | El ayuno era el principal **rito de súplica** ante YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Protección Real</h5>
+<ul>
+    <li><strong>Cetro:</strong> El cetro de oro protegía al rey de los complots y garantizaba su seguridad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Arma Espiritual:</strong> El pueblo confía en el **ayuno y la oración** como sus únicas armas contra un edicto imperial inmutable.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe en el tiempo de Dios (la "hora") es la motivación de Ester para arriesgar su vida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El ayuno y la oración (implicada) son la <span class="highlight">preparación para la acción</span>. La frase de Mardoqueo subraya que la providencia de Dios la puso en esa posición por una razón histórica.</p>
                 
@@ -21014,7 +24142,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrogancia de Amán:</strong> Su orgullo lo lleva a planificar la horca</li>
                     <li><strong>Trampa:</strong> La horca destinada a Mardoqueo será su propia perdición</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Cetro de Gracia y el Banquete Privado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Estrategia Silenciosa</h5>
+<ul>
+    <li><strong>El Cetro de Oro:</strong> Ester se viste con **vestiduras reales** y entra en la corte. El rey **extiende su cetro**, salvándole la vida.</li>
+    <li><strong>La Petición Retrasada:</strong> Ester no hace su petición de inmediato, sino que invita al rey y a Amán a un **banquete privado**. | Una forma de **diplomacia íntima** y para aumentar el favor real.</li>
+    <li><strong>El Árbol de Horca:</strong> Amán, orgulloso, ordena construir una **horca de 50 codos de alto** (unos 25 metros) para la ejecución pública de Mardoqueo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Horca y el Orgullo</h5>
+<ul>
+    <li><strong>Banquete:</strong> Los banquetes privados eran el mayor honor de la corte.</li>
+    <li><strong>Ejecución:</strong> La horca alta aseguraba que la ejecución fuera **visible** para toda la ciudad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Banquete como Cebo:</strong> Ester utiliza la hospitalidad persa como cebo para llevar a Amán a su juicio final.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El orgullo de Amán lo ciega al peligro, haciendo que su caída sea más dramática.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La arrogancia de Amán es su <span class="highlight">propia perdición</span>. Su celo por construir la horca es el medio por el cual Dios revertirá el juicio.</p>
                 
@@ -21047,7 +24197,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ironía:</strong> Amán planifica el honor para sí mismo, pero lo ejecuta para Mardoqueo</li>
                     <li><strong>El Honor de Dios:</strong> El justo es exaltado; el arrogante es humillado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Insomnio Real y la Ley de Recompensa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Providencia y el Honor</h5>
+<ul>
+    <li><strong>El Insomnio:</strong> El rey no puede dormir y pide que se le lea el **Libro de las Memorias** (los anales de la corte). | El insomnio es el **punto de inflexión** providencial de la historia.</li>
+    <li><strong>La Recompensa Pendiente:</strong> El rey descubre que Mardoqueo nunca fue recompensado por frustrar el complot de regicidio. | Los **anales** eran el **registro oficial** de los servicios a la corona.</li>
+    <li><strong>El Honor Persa:</strong> El rey le pregunta a Amán qué debe hacerse por el hombre que el rey desea honrar. Amán, orgulloso, describe el **máximo honor persa** (vestiduras reales, cabalgar el caballo del rey).</li>
+    <li><strong>La Humillación:</strong> Amán se ve obligado a **honrar públicamente** a Mardoqueo (su enemigo), guiando su caballo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Honor y el Vestido</h5>
+<ul>
+    <li><strong>Vestidura Real:</strong> Usar las vestiduras del rey y cabalgar su caballo era un acto simbólico de **autoridad delegada**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Ironía:</strong> La ironía dramática subraya que Dios usa el orgullo del enemigo para elevar a Su siervo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La justicia de YHWH se manifiesta a través del sistema legal y social persa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El insomnio del rey es la <span class="highlight">mano oculta de Dios</span> dirigiendo el destino del imperio. La humillación de Amán es el inicio de la reversión total del complot.</p>
                 
@@ -21079,7 +24251,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exposición:</strong> Ester revela la verdad para salvar a su pueblo</li>
                     <li><strong>Justicia Inmediata:</strong> La ejecución de Amán es rápida</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Juicio Final en el Banquete</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Revelación y la Acusación</h5>
+<ul>
+    <li><strong>La Petición:</strong> Ester revela su identidad judía y acusa a Amán de buscar la **destrucción del rey** al destruir a su pueblo (el argumento es político).</li>
+    <li><strong>La Identificación:</strong> La **identificación pública** de Ester como judía es un acto de gran valentía.</li>
+    <li><strong>La Sentencia:</strong> El rey se enfurece. Amán suplica ante el diván de Ester. El rey lo interpreta como un **asalto a la reina**.</li>
+    <li><strong>La Horca:</strong> Uno de los eunucos revela la horca que Amán preparó para Mardoqueo. Amán es **colgado en su propia horca**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>Asalto:</strong> Tocar a la reina sin permiso era un crimen capital.</li>
+    <li><strong>Ejecución Inmediata:</strong> El rey ordena la ejecución sin juicio formal debido al crimen contra su propia persona.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Venganza Inmediata:</strong> El banquete, un acto de opulencia, se convierte en el lugar del **juicio divino y la ejecución**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Amán recibe el castigo que planeó para su enemigo, la manifestación de la justicia retributiva.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La ejecución de Amán es una <span class="highlight">demostración del principio de la retribución divina</span>: el mal que el enemigo planea para el pueblo de Dios recae sobre él mismo.</p>
                 
@@ -21110,7 +24305,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Defensa Propia:</strong> El derecho a luchar por la vida</li>
                     <li><strong>Promoción:</strong> Mardoqueo es el segundo al mando en el imperio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Decreto Reversible y el Anillo Real</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Legislación y el Liderazgo</h5>
+<ul>
+    <li><strong>El Anillo de Amán:</strong> El rey le quita el anillo a Amán y se lo da a **Mardoqueo** (transferencia total de autoridad).</li>
+    <li><strong>La Ley Inmutable:</strong> El edicto genocida (sellado con el primer anillo) **no puede revocarse**, ya que la ley persa es inmutable.</li>
+    <li><strong>El Segundo Edicto:</strong> El rey permite a Mardoqueo escribir un segundo edicto que autoriza a los judíos a **defenderse** y **destruir** a sus enemigos. | Esto legaliza la **autodefensa armada**.</li>
+    <li><strong>El Cabalgar Real:</strong> Mardoqueo sale con vestiduras reales y un turbante de oro, la **ascensión** de un judío al poder.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ley Persa</h5>
+<ul>
+    <li><strong>Soberanía de la Ley:</strong> La inmutabilidad de la ley obligaba a compensar el decreto anterior con uno nuevo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Compensación:</strong> La ley inmutable es **subordinada a la voluntad de Dios**, que la compensa con una ley superior.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La providencia de Dios se manifiesta en la legislación para salvar a Su pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El ascenso de Mardoqueo y el contradecreto son la <span class="highlight">salvación de Dios orquestada a través del sistema legal</span>. La desesperación se convierte en esperanza y luz para los judíos.</p>
                 
@@ -21142,7 +24359,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Fiesta de Purim:</strong> La conmemoración anual de la liberación</li>
                     <li><strong>Filantropía:</strong> La fiesta se celebra con regalos a los pobres</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Venganza y la Fiesta de Purim</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Autodefensa y la Fiesta Conmemorativa</h5>
+<ul>
+    <li><strong>El Día de la Batalla:</strong> Los judíos se defienden y matan a sus enemigos (los que intentaron la masacre). | La **autodefensa** es ejercida bajo la ley real.</li>
+    <li><strong>Los Diez Hijos de Amán:</strong> Los diez hijos de Amán son ejecutados y sus cuerpos son **colgados para deshonra pública** (la venganza de sangre se extiende).</li>
+    <li><strong>El Reposo y la Celebración:</strong> Los judíos se toman un día de descanso y celebración después de la victoria.</li>
+    <li><strong>Purim (Suerte):</strong> Se establece la fiesta de **Purim** (nombrada por el sorteo que hizo Amán) como una conmemoración anual de la liberación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ejecución y el Miedo</h5>
+<ul>
+    <li><strong>Miedo:</strong> El temor a los judíos cae sobre las naciones del imperio, facilitando la autodefensa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Nombre de la Fiesta:</strong> La fiesta se nombra por el sorteo pagano ("Pur"), que Dios usó para Su plan.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **victoria total** sobre el enemigo Amalec (Amán) garantiza la supervivencia del pueblo judío.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Purim es la <span class="highlight">prueba histórica de la supervivencia de Israel</span>. La fiesta celebra que el designio de Amán se revirtió (el ayuno se convirtió en banquete).</p>
                 
@@ -21173,7 +24412,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Liderazgo Piadoso:</strong> Mardoqueo busca el bienestar de su pueblo</li>
                     <li><strong>Fama:</strong> La grandeza del pueblo judío en el exilio</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Gran Imperio y el Liderazgo Judío</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Liderazgo y la Paz</h5>
+<ul>
+    <li><strong>El Impuesto:</strong> El rey Asuero impone **tributo** sobre la tierra y las islas (el vasto imperio).</li>
+    <li><strong>El Gran Mardoqueo:</strong> Mardoqueo (judío) se convierte en el **segundo en autoridad** después del rey. | El ascenso de un judío al poder es la **máxima protección** para su pueblo.</li>
+    <li><strong>Función de Mardoqueo:</strong> Mardoqueo busca el **bien de su pueblo** y la paz (un líder justo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Administración Imperial</h5>
+<ul>
+    <li><strong>Registro:</strong> Los hechos del rey y la grandeza de Mardoqueo se registran en las **crónicas de los reyes de Media y Persia**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder Justo:</strong> El liderazgo se ejerce para el beneficio del pueblo del pacto, no para el enriquecimiento personal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro, que nunca menciona directamente el nombre de Dios, se cierra con el triunfo de la **providencia** y la esperanza del pueblo judío.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El final del libro asegura que la <span class="highlight">influencia de los judíos</span> en el exilio fue duradera y significativa. La supervivencia no fue solo física, sino también política.</p>
                 
@@ -21208,7 +24468,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberanía de Dios:</strong> Dios limita la acción de Satanás</li>
                     <li><strong>Reacción de Job:</strong> Piedad incondicional a pesar de la pérdida</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Piedad Patriarcal y la Pérdida Material</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto Familiar y la Integridad</h5>
+<ul>
+    <li><strong>Job el Justo:</strong> Job es el prototipo del hombre justo del mundo antiguo, valorado por su **integridad moral y su riqueza**.</li>
+    <li><strong>Riqueza por Ganado:</strong> La opulencia se mide por el número de **animales** (ovejas, camellos, bueyes y asnas), la moneda de la prosperidad en esa época.</li>
+    <li><strong>Holocaustos:</strong> Job ofrece **holocaustos** por sus hijos después de sus fiestas, un acto de **culto familiar** y precaución por el pecado (propio del periodo patriarcal).</li>
+    <li><strong>El Satán:</strong> El Satán (el Acusador) actúa en el **concilio celestial** bajo la soberanía de Dios, poniendo a prueba la fe humana.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra y el Asalto</h5>
+<ul>
+    <li><strong>Invasores:</strong> La pérdida de Job se produce por el asalto de los **sabeos** y los **caldeos** (tribus nómadas de bandidos).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Motivo Oculto:</strong> El sufrimiento no es por el pecado de Job, sino por un **misterio celestial** que el lector conoce.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La pérdida total de Job sirve para demostrar que su fe no estaba condicionada a la riqueza material.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El prólogo establece que el sufrimiento de Job no se debe a su pecado, sino a una <span class="highlight">disputa cósmica</span>. La fe de Job es incondicional.</p>
                 
@@ -21240,7 +24522,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Silencio Piadoso:</strong> Los amigos consuelan permaneciendo callados</li>
                     <li><strong>Fidelidad:</strong> Job se niega a pecar con sus labios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Aflicción Física y Ritos de Luto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Humillación y el Silencio</h5>
+<ul>
+    <li><strong>La Aflicción:</strong> Job es golpeado con **úlceras malignas** (sarpullido o forúnculos) desde la cabeza hasta los pies, una enfermedad que lo hace inmundo y doloroso.</li>
+    <li><strong>La Ceniza:</strong> Job se sienta en **medio de la ceniza** y se rasca con un tiesto (fragmento de cerámica), ritos de **humillación extrema** y desesperación.</li>
+    <li><strong>El Consejo de la Esposa:</strong> Su esposa le aconseja **maldecir a Dios y morir** (un acto de desesperación pagana).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Amistad y el Consuelo</h5>
+<ul>
+    <li><strong>La Amistad:</strong> Sus tres amigos vienen de sus lugares para **condolerse** con él.</li>
+    <li><strong>El Silencio:</strong> Se sientan con Job en **silencio por siete días y siete noches**, el máximo rito de **duelo y consuelo**, hasta que Job rompe el silencio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Integridad:</strong> Job se aferra a su integridad, mientras que su esposa se rinde a la desesperación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe de Job persiste incluso ante la enfermedad y la tentación de maldecir.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El silencio de los amigos (siete días) es un <span class="highlight">acto de compasión</span>. La paciencia de Job es probada a un nivel físico y emocional extremo.</p>
                 
@@ -21271,7 +24575,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pregunta por la Vida:</strong> La desesperación por el sufrimiento sin causa</li>
                     <li><strong>La Injusticia:</strong> Job no entiende por qué sigue vivo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Lamento y la Maldición del Nacimiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Lamento Poético</h5>
+<ul>
+    <li><strong>Ruptura del Silencio:</strong> El lamento poético es la **ruptura del rito de silencio**. Job maldice el día de su nacimiento (un género poético).</li>
+    <li><strong>La Noche:</strong> Job maldice la **noche** en que fue concebido, pidiendo que sea borrada del tiempo.</li>
+    <li><strong>El Deseo de la Muerte:</strong> Job expresa su deseo de haber muerto al nacer o de estar en el **Seol** (el lugar de los muertos, sin luz ni conciencia).</li>
+    <li><strong>El Sueño:</strong> En la muerte, solo hay **descanso**, liberado de los tiranos y los siervos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Liberación por la Muerte</h5>
+<ul>
+    <li><strong>Esclavitud:</strong> La muerte se ve como la liberación de los **esclavos** y la finalización del yugo del amo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Sentido del Dolor:</strong> Job pregunta por qué los infelices reciben la luz (la vida) cuando solo desean la muerte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El lamento es una expresión de la desesperación humana sin fe, que busca la anulación del tiempo y la existencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El lamento de Job es una <span class="highlight">búsqueda honesta de sentido</span> en el sufrimiento. La fe no siempre excluye la expresión profunda de la tristeza y la duda.</p>
                 
@@ -21302,7 +24628,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Inocencia y el Castigo:</strong> La afirmación de que el sufrimiento de Job es su prueba</li>
                     <li><strong>Mística:</strong> La fuente de su conocimiento (una visión nocturna)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Elifaz, la Experiencia y el Principio de Retribución</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Dogma Tradicional</h5>
+<ul>
+    <li><strong>Inicio del Debate:</strong> **Elifaz** el temanita (el más anciano) comienza el debate, siendo el más sutil.</li>
+    <li><strong>Principio de Retribución:</strong> Elifaz defiende la teología tradicional: **"¿Quién ha perecido siendo inocente?"** (El sufrimiento es prueba de pecado).</li>
+    <li><strong>El Linaje:</strong> Elifaz apela a la **fragilidad del hombre** ante el Creador (somos hechos de barro, indignos).</li>
+    <li><strong>La Visión Nocturna:</strong> Elifaz basa su argumento en una **revelación personal** que recibió en un sueño (una fuente de autoridad espiritual).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Autoridad Teológica</h5>
+<ul>
+    <li><strong>Experiencia Personal:</strong> Los amigos basan su autoridad en la experiencia y la tradición, no en la compasión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Consuelo Invertido:</strong> Lo que debía ser consuelo se convierte en una **acusación moral**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La sabiduría de los hombres no puede contener el misterio de la justicia de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Elifaz representa la <span class="highlight">ortodoxia rígida</span> que no permite excepciones a la doctrina. Su consuelo se vuelve acusación.</p>
                 
@@ -21333,7 +24681,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Promesa de Restauración:</strong> Si Job confiesa, Dios lo restaurará</li>
                     <li><strong>El Malvado:</strong> Es el único que debe temer a la calamidad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Elifaz y la Disciplina Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Oráculo y el Castigo</h5>
+<ul>
+    <li><strong>Juicio de los Necios:</strong> Elifaz declara que los necios son castigados por su propia envidia.</li>
+    <li><strong>Castigo/Bendición:</strong> Elifaz suaviza el argumento: el sufrimiento es la **disciplina de Dios**. Aceptarla lleva a la bendición.</li>
+    <li><strong>La Armonía:</strong> La obediencia y la disciplina llevan a una **vida armoniosa** con los elementos naturales (bestias, piedras).</li>
+    <li><strong>La Muerte del Justo:</strong> Elifaz promete que Job será enterrado en **"buena vejez"** (una muerte tranquila, el premio final de la piedad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Justicia Comunal</h5>
+<ul>
+    <li><strong>El Consejo:</strong> Elifaz aconseja a Job que busque a Dios y no se aferre a su propia justicia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Propósito:</strong> El sufrimiento tiene un propósito pedagógico (disciplina), no solo punitivo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Elifaz cree que Job solo necesita confesar un pecado genérico para ser restaurado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Elifaz no es un enemigo, sino que busca un <span class="highlight">camino de escape teológico</span> para Job. Su error es asumir la culpa de Job como la única posible explicación.</p>
                 
@@ -21364,7 +24734,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Amigos Decepcionantes:</strong> La falta de compasión de sus amigos</li>
                     <li><strong>Integridad Mantenida:</strong> Job no ha negado la Palabra de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job Responde, la Queja y el Deseo de Muerte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Lamento y el Juramento</h5>
+<ul>
+    <li><strong>La Comparación:</strong> Job compara su dolor con el **peso de la arena del mar** (una hipérbole de su desesperación).</li>
+    <li><strong>Amargura:</strong> Job se queja de que su dolor es insoportable porque las **flechas del Todopoderoso** están en él.</li>
+    <li><strong>El Desafío a la Ira:</strong> Job pide que Dios lo mate para poner fin a su dolor.</li>
+    <li><strong>Los Amigos Desleales:</strong> Job compara a sus amigos con un **arroyo que se seca** en el verano, traicionando la esperanza de los viajeros (una traición a la ley de la hospitalidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Hospitalidad del Desierto</h5>
+<ul>
+    <li><strong>Arroyo Seco:</strong> En el desierto, la promesa de agua y sombra era vital; un arroyo seco era la máxima traición a los viajeros.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Consuelo Ineficaz:</strong> Job lamenta que sus amigos no le ofrecen consuelo, sino palabras que agravan su dolor.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Job se siente atacado directamente por Dios, no solo por la casualidad o el Satán.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job defiende su <span class="highlight">integridad y rechaza la simplificación</span> del sufrimiento. El verdadero consuelo es la empatía, no la justificación doctrinal.</p>
                 
@@ -21395,7 +24787,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Servicio Forzado:</strong> La vida es una lucha constante</li>
                     <li><strong>Petición de Liberación:</strong> El deseo de morir</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Brevedad de la Vida y el Servicio Forzado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Hombre Afligido</h5>
+<ul>
+    <li><strong>La Vida como Servicio:</strong> Job compara la vida con el **trabajo forzado** de un siervo o el servicio de un jornalero (sujeto al tiempo y al capricho del amo).</li>
+    <li><strong>El Siervo y la Sombra:</strong> El siervo anhela la **sombra** (el descanso al final del día) y el jornalero espera su **salario** (el final de su servicio).</li>
+    <li><strong>Terrores Nocturnos:</strong> El sueño, que debería ser un descanso, se convierte en una **fuente de terror y visiones**.</li>
+    <li><strong>La Súplica:</strong> Job pide a Dios que lo deje en paz, ya que su vida es breve y sin esperanza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Jornalero</h5>
+<ul>
+    <li><strong>Salario Diario:</strong> El jornalero debía ser pagado al final del día, ya que su subsistencia dependía de ello.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Mirar al Hombre:</strong> Job se queja de que Dios lo **vigila** constantemente (como un carcelero), sin darle descanso.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Job ve a Dios no como un padre amoroso, sino como un **vigilante implacable**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El profundo dolor de Job lo lleva a cuestionar la <span class="highlight">magnitud de la atención de Dios</span> sobre un ser tan pequeño. La fe de Job está en crisis con la teología.</p>
                 
@@ -21426,7 +24840,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio sobre los Hijos:</strong> La muerte de los hijos de Job como prueba de su pecado</li>
                     <li><strong>Integridad:</strong> El camino de la restauración es el arrepentimiento sincero</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Bildad, la Tradición y el Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sabiduría de los Ancestros</h5>
+<ul>
+    <li><strong>Bildad el Tradicionalista:</strong> **Bildad** el suhita (el más severo) defiende la justicia de Dios apelando a la **tradición y los ancestros**.</li>
+    <li><strong>El Principio de Retribución:</strong> Bildad es categórico: los hijos de Job perecieron por su propio pecado.</li>
+    <li><strong>Apelación a la Historia:</strong> Bildad insta a Job a **preguntar a la generación pasada** y aprender de la experiencia de los padres.</li>
+    <li><strong>La Metáfora de la Planta:</strong> La esperanza del impío se compara con una **planta de junco** o un **papiro** (que se seca sin agua), mientras que el justo es como una planta firmemente enraizada.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Propiedad</h5>
+<ul>
+    <li><strong>La Tienda:</strong> La **tienda del impío** será destruida, un símbolo de su inestabilidad y falta de herencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dogma Simple:</strong> Bildad ofrece una teología sencilla, sin espacio para el misterio o la inocencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe debe someterse al dogma tradicional, o será juzgada.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Bildad representa la <span class="highlight">teología de la tradición</span> que no admite excepciones. Su argumento es más duro que el de Elifaz, atacando a los hijos de Job.</p>
                 
@@ -21457,7 +24893,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Incomprensibilidad:</strong> La imposibilidad de entender o cuestionar a Dios</li>
                     <li><strong>Ausencia de Juez:</strong> No hay un árbitro que juzgue entre Job y Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Poder Ilimitado de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Litigio y la Imposibilidad</h5>
+<ul>
+    <li><strong>El Litigio Legal:</strong> Job reconoce que **Dios es justo**, pero es imposible que un hombre sea justificado en un **litigio legal** contra el Todopoderoso.</li>
+    <li><strong>Incomprensibilidad:</strong> Job declara que Dios es todopoderoso, quien mueve los montes, sacude la tierra y puede hacer lo que quiera.</li>
+    <li><strong>Las Constelaciones:</strong> Job menciona a **constelaciones** como la Osa Mayor, Orión y las Pléyades, demostrando la **sabiduría de Dios** sobre la creación.</li>
+    <li><strong>La Venganza Divina:</strong> Job lamenta que Dios no mira la inocencia ni escucha su causa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Teología del Caos</h5>
+<ul>
+    <li><strong>Fuerza Divina:</strong> El poder de Dios se describe en términos que recuerdan a las **deidades de la tormenta** del Cercano Oriente (terremotos, tormentas).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Injusticia Aparente:</strong> Job ve la fuerza de Dios como una fuente de terror, no de consuelo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El poder absoluto de Dios anula la posibilidad de justicia humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job cree que su única esperanza es que Dios lo trate con <span class="highlight">misericordia y gracia</span>, no con justicia estricta, ya que nadie podría resistirla.</p>
                 
@@ -21488,7 +24946,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ausencia de Paz:</strong> La falta de descanso del sufrimiento</li>
                     <li><strong>Lamento:</strong> Job expresa su desesperación de ser un blanco</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Arcilla, el Alfarero y el Propósito</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Creación y el Destino</h5>
+<ul>
+    <li><strong>La Arcilla y el Alfarero:</strong> Job se compara con la **arcilla** moldeada por Dios (el Alfarero). Se pregunta por qué Dios, que lo formó, lo persigue.</li>
+    <li><strong>El Castigo:</strong> Job se siente atacado por Dios, quien lo **busca como un león** (imagen de depredación y castigo).</li>
+    <li><strong>La Duda de la Creación:</strong> Job pregunta por qué Dios le dio la vida si solo iba a ser destruido.</li>
+    <li><strong>El Descanso:</strong> Job suplica por un breve **descanso** antes de morir e ir al Seol (la tierra de la oscuridad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Prisioneros</h5>
+<ul>
+    <li><strong>Yugo:</strong> Job se siente vigilado y encadenado, como un prisionero bajo un yugo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Propósito Invertido:</strong> El acto amoroso de la Creación (formar al hombre) se ha convertido en un acto de juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Job no puede reconciliar al Dios amoroso de la Creación con el Dios de su aflicción.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La queja de Job se basa en el <span class="highlight">recuerdo de la relación</span>. Su desesperación proviene del sentimiento de que Dios se ha convertido en su enemigo.</p>
                 
@@ -21519,7 +24999,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Omnisciencia de Dios:</strong> Dios sabe lo que Job ha hecho</li>
                     <li><strong>Arrepentimiento Urgente:</strong> La necesidad inmediata de confesar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Zofar, el Dogma y el Secreto de la Sabiduría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio Dogmático</h5>
+<ul>
+    <li><strong>Zofar el Dogmático:</strong> **Zofar** de Naama (el más agresivo) interviene, acusando directamente a Job de **mentiroso** y pecador.</li>
+    <li><strong>Sabiduría Secreta:</strong> Zofar desafía a Job a que Dios le muestre el **secreto de la sabiduría** (que Job es un pecador).</li>
+    <li><strong>Castigo Suavizado:</strong> Zofar afirma que el castigo de Job es incluso **menor** de lo que merece.</li>
+    <li><strong>El Reto:</strong> Zofar reta a Job a **"poner en orden su corazón"** (confesar y arrepentirse).</li>
+    <li><strong>Promesa de Prosperidad:</strong> Si Job confiesa, Zofar le promete **restauración** total y una vida de seguridad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Profecía Fallida</h5>
+<ul>
+    <li><strong>La Ley:</strong> Zofar no puede tolerar que el sufrimiento de Job contradiga su dogma de retribución simple.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Límite de la Comprensión:</strong> Zofar cree que la mente humana puede comprender perfectamente la justicia de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El dogma de Zofar se convierte en una **trampa legalista** que impide el verdadero consuelo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Zofar representa la <span class="highlight">teología superficial</span> que ofrece una solución simplista y rápida: si sufres, mientes. Su consuelo es cruel e infundado.</p>
                 
@@ -21550,7 +25053,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Crítica a la Sabiduría:</strong> Los amigos no han dicho nada nuevo</li>
                     <li><strong>Ironía:</strong> La burla a la auto-proclamada sabiduría de los amigos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job, el Sarcasmo y la Soberanía de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Soberanía Divina sobre los Reyes</h5>
+<ul>
+    <li><strong>El Sarcasmo:</strong> Job responde con **sarcasmo**, diciendo que la sabiduría de sus amigos es tan básica que **"la tienen hasta los animales"**.</li>
+    <li><strong>El Monopolio de la Sabiduría:</strong> Job ridiculiza la idea de que la sabiduría morirá con ellos.</li>
+    <li><strong>El Poder de Dios:</strong> Job afirma que el poder de Dios es evidente en la naturaleza y en la historia (Él da y quita la sabiduría, la fuerza).</li>
+    <li><strong>El Rey Humillado:</strong> Job destaca que Dios **quita el entendimiento a los sabios** y **humilla a los reyes** (los despoja y los lleva en cautiverio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Humillación Real</h5>
+<ul>
+    <li><strong>Cautiverio:</strong> La humillación de los reyes era un símbolo del poder absoluto del Dios de Israel sobre los gobernantes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Poder y la Justicia:</strong> Job separa el poder de Dios (que es innegable) de Su justicia (que es cuestionable desde el punto de vista humano).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La sabiduría del hombre es necedad ante la verdad de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job defiende su <span class="highlight">derecho a la queja</span>, pero reconoce la soberanía de Dios sobre todos los asuntos, incluida la vida y la muerte.</p>
                 
@@ -21581,7 +25106,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Apelación:</strong> Job busca un juicio justo ante Dios</li>
                     <li><strong>Fe:</strong> Confianza en Dios a pesar de que lo mate</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Desafío a Dios y el Riesgo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Litigio Judicial</h5>
+<ul>
+    <li><strong>Médicos Inútiles:</strong> Job desestima a sus amigos, llamándolos **"médicos nulos"** (que no dan curación ni consejo).</li>
+    <li><strong>El Desafío:</strong> Job confronta directamente a Dios, pidiéndole que le muestre su pecado y le revele la causa de su sufrimiento.</li>
+    <li><strong>Apelar al Rey:</strong> Job se atreve a **presentar su caso ante el Rey Supremo** (un acto de fe y desesperación).</li>
+    <li><strong>El Riesgo:</strong> Job se da cuenta del peligro, declarando **"He aquí, aunque él me matare, en él esperaré"** (un acto supremo de fe y sumisión en la adversidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Silencio</h5>
+<ul>
+    <li><strong>El Silencio:</strong> Job les pide a sus amigos que **guarden silencio**, pues su boca está llena de **mentiras y proverbios de ceniza**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Fe Audaz:</strong> La fe de Job lo lleva al borde de la blasfemia, pero su última palabra es de **confianza incondicional**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La piedad de Job no se basa en el entendimiento, sino en la **sumisión a la Soberanía**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La declaración de Job de que <span class="highlight">esperará en Dios aunque lo mate</span> es uno de los picos de fe en la Biblia. La fe no se basa en las circunstancias, sino en la relación.</p>
                 
@@ -21612,7 +25159,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esperanza en el Seol:</strong> El anhelo de un descanso de la ira de Dios</li>
                     <li><strong>Petición de Tregua:</strong> Job pide que Dios lo deje en paz</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Fragilidad de la Vida y la Esperanza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Brevedad y la Naturaleza</h5>
+<ul>
+    <li><strong>Fragilidad Humana:</strong> Job compara al hombre con una **flor** (que es cortada) y con una **sombra** (que no permanece).</li>
+    <li><strong>La Muerte:</strong> Job lamenta que el hombre, a diferencia de un **árbol** (que puede retoñar), no tiene esperanza de regresar después de morir.</li>
+    <li><strong>El Descanso:</strong> Job desea que Dios lo **esconda en el Seol** hasta que Su ira pase, pidiendo un tiempo de descanso y olvido.</li>
+    <li><strong>El Juramento Divino:</strong> Job ruega que Dios le fije un tiempo y le quite el ojo de encima.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Inmutabilidad de la Muerte</h5>
+<ul>
+    <li><strong>Sheol:</strong> El Seol es visto como el lugar de los muertos, sin actividad ni luz, un destino final y sin retorno.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Pregunta Central:</strong> Job se pregunta si el hombre, al morir, **volverá a vivir** (un destello de la esperanza de la resurrección).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La falta de esperanza en esta vida solo se resuelve con la esperanza de la intervención divina en la otra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job anhela la <span class="highlight">paz en el Seol</span> como liberación del sufrimiento. El hombre es tan frágil que no merece la atención constante de un Dios todopoderoso.</p>
                 
@@ -21643,7 +25212,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Malvado Jactancioso:</strong> Job es clasificado con los impíos</li>
                     <li><strong>Sabiduría Humana:</strong> Elifaz defiende la sabiduría antigua</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Elifaz, la Tradición y el Temor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Orador Tradicional</h5>
+<ul>
+    <li><strong>Elifaz Acusa:</strong> Elifaz retoma la palabra, acusando a Job de hablar con **"ciencia vana"** (sabiduría inútil).</li>
+    <li><strong>El Pecado Oculto:</strong> Elifaz insiste en que el **temor a Dios** de Job es falso y que su propia **boca lo condena**.</li>
+    <li><strong>La Tradición:</strong> Elifaz apela a la **sabiduría de los ancianos** y los padres, contra la que Job ha argumentado.</li>
+    <li><strong>El Destino del Impío:</strong> Elifaz describe con detalle el trágico fin del hombre malvado: tinieblas, dolor, sin descanso ni herencia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Soledad y la Maldición</h5>
+<ul>
+    <li><strong>Los Demonios:</strong> El impío morirá por el **aliento de la boca de Dios** y morará en ciudades desoladas, temido por los "espíritus del mal" (*seirim*).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Rechazo de la Experiencia:</strong> Elifaz se niega a aceptar la experiencia de Job y la refuta con el **dogma de la vejez**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La falta de temor de Job a Dios se convierte en la prueba final para Elifaz de su pecado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Elifaz insiste en que el sufrimiento es la <span class="highlight">marca del malvado</span>. Los amigos ya no consuelan, sino que intentan justificar la teología tradicional atacando la integridad de Job.</p>
                 
@@ -21674,7 +25265,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dios como Enemigo:</strong> Job siente el ataque de Dios</li>
                     <li><strong>Testigo en el Cielo:</strong> La esperanza de un mediador o testigo celestial</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job, el Consuelo Nulo y el Testigo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Amigo Inútil</h5>
+<ul>
+    <li><strong>El Consuelo Inútil:</strong> Job desprecia el consuelo de sus amigos, llamándolos **"consoladores molestos"**.</li>
+    <li><strong>Metáfora del Ataque:</strong> Job se siente atacado directamente por Dios, quien lo **"rasga y lo aprieta"** (lo maltrata físicamente).</li>
+    <li><strong>Luto y Deshonra:</strong> Job se **cubre de cilicio** y su rostro está **hinchado por el llanto** y la deshonra.</li>
+    <li><strong>El Testigo:</strong> Job clama por un **Testigo** en el cielo (un fiador) que pueda atestiguar su inocencia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra</h5>
+<ul>
+    <li><strong>La Burla:</strong> Los hombres se **burlan** y **abren la boca** contra Job, un acto de desprecio público.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Testigo Celestial:</strong> El clamor por un testigo en el cielo es un paso hacia la **esperanza de la mediación** divina.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El verdadero consuelo no puede venir de la teología humana, sino de la intervención divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job anhela un <span class="highlight">mediador o un testigo celestial</span> (lo que la tradición posterior identificará como el *Go'el* o Redentor) que pueda defender su caso ante Dios.</p>
                 
@@ -21705,7 +25318,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esperanza Perdida:</strong> Job no tiene más esperanza que el Seol</li>
                     <li><strong>Injusticia Terrenal:</strong> El justo no entiende el sufrimiento del justo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Desesperación y el Clamor por la Tumba</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Mofa y la Esperanza de la Muerte</h5>
+<ul>
+    <li><strong>La Desesperación:</strong> Job lamenta que su **espíritu se ha extinguido** y que solo le queda la **tumba** (el sepulcro).</li>
+    <li><strong>El Reproche de los Amigos:</strong> El dolor de Job se intensifica por el **desprecio** de sus amigos (la mofa).</li>
+    <li><strong>El Legado Quebrado:</strong> La esperanza de Job de dejar una **herencia** y un futuro se ha roto.</li>
+    <li><strong>El Polvo:</strong> Job invita al **polvo** a que sea su hogar y a los **gusanos** a que sean su familia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Cuerda</h5>
+<ul>
+    <li><strong>La Cuerda:</strong> La esperanza de Job es descrita como una **cuerda rota** (símbolo de la fragilidad).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Seol como Refugio:</strong> La tumba se convierte en la **única esperanza** de Job, contrastando la vida con el descanso final.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La falta de justicia en la vida solo puede ser resuelta por la llegada de la muerte.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La resignación de Job a la muerte es una <span class="highlight">aceptación de la justicia terrenal</span>. Su único refugio es el Seol, lejos del sufrimiento infligido por Dios.</p>
                 
@@ -21736,7 +25371,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Castigo:</strong> La ley infalible de Dios contra el pecador</li>
                     <li><strong>La Luz Apagada:</strong> La destrucción completa del impío</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Bildad y el Destino del Impío</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Destrucción del Legado</h5>
+<ul>
+    <li><strong>Bildad la Furia:</strong> Bildad se enoja por el desafío de Job a su sabiduría y arremete con una descripción **fría y sistemática** del destino del hombre malvado.</li>
+    <li><strong>La Extinción de la Luz:</strong> La **luz** (símbolo de la prosperidad y la vida) se extingue en la tienda del impío.</li>
+    <li><strong>La Trampa:</strong> Los impíos caen en sus propias trampas y son consumidos por el hambre y la enfermedad.</li>
+    <li><strong>La Deshonra:</strong> Su **memoria** será borrada y no dejará posteridad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Muerte Sin Honra</h5>
+<ul>
+    <li><strong>Memoria:</strong> En el mundo antiguo, la **continuidad del linaje y la memoria** eran la única forma de inmortalidad. Borrarlas era la máxima maldición.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Desaparición Total:</strong> El juicio sobre el impío no es solo la muerte, sino la **anulación total de su existencia** y linaje.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El castigo se extiende a la posteridad y la memoria, demostrando la justicia retributiva.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Bildad ya no es un amigo; su discurso es una <span class="highlight">condena total</span>. Su teología se convierte en un arma contra el sufriente, sin dejar espacio para la inocencia de Job.</p>
                 
@@ -21767,7 +25424,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Redentor (*Go'el*):</strong> La esperanza de un vindicador celestial</li>
                     <li><strong>Vindicación:</strong> Job será justificado por Dios después de la muerte</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Voto del Redentor (Goel) y la Esperanza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pariente Redentor y la Escritura</h5>
+<ul>
+    <li><strong>Lamento a la Traición:</strong> Job lamenta que su familia y amigos lo han traicionado y olvidado.</li>
+    <li><strong>La Súplica:</strong> Job suplica a sus amigos por compasión, pidiéndoles que **escriban su testimonio** en una roca con cincel de hierro.</li>
+    <li><strong>El Redentor (**Goel**):</strong> Job pronuncia su famosa confesión de fe: **"Yo sé que mi Redentor vive"** (Goel). | El Goel era el pariente más cercano que tenía la obligación de **vengar la sangre** o **redimir la propiedad** o la persona.</li>
+    <li><strong>La Resurrección:</strong> Job cree que, aun después de que su piel sea destruida, **verá a Dios en su propia carne**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Escultura en Roca</h5>
+<ul>
+    <li><strong>Registro:</strong> La escritura en la roca con plomo y cincel era la forma más permanente de dejar un registro histórico.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Esperanza Póstuma:</strong> La esperanza de Job no reside en esta vida, sino en la **intervención de su Redentor** después de la muerte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe de Job alcanza su punto culminante al confiar en la resurrección y la vindicación final.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La declaración sobre el Redentor es uno de los momentos cumbres de la fe en el Antiguo Testamento. Job cree en la <span class="highlight">resurrección y la vindicación final</span> por parte de Dios mismo.</p>
                 
@@ -21798,7 +25477,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Castigo Inevitable:</strong> La ira de Dios caerá sobre el pecador</li>
                     <li><strong>Pérdida de la Riqueza:</strong> El juicio destruye las posesiones del impío</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Zofar y la Prosperidad Efímera</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Alegría Breve</h5>
+<ul>
+    <li><strong>El Dogma:</strong> Zofar responde con enojo, insistiendo en que **la alegría del impío es momentánea**.</li>
+    <li><strong>La Metáfora del Sueño:</strong> La prosperidad del malvado es **corta como un sueño** que se desvanece.</li>
+    <li><strong>El Juicio de la Riqueza:</strong> El malvado debe devolver todas las riquezas que ha devorado y que ha acumulado con fraude.</li>
+    <li><strong>Castigo Divino:</strong> Dios mismo enviará Su furia contra el malvado (fuego no atizado, escondido en la oscuridad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza y la Usura</h5>
+<ul>
+    <li><strong>Restitución:</strong> El castigo se centra en la pérdida de la riqueza acumulada injustamente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Venganza:</strong> Zofar ignora la esperanza de Job en el Redentor y se centra en la **venganza material** como prueba de la justicia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Zofar cree que la justicia se manifestará rápidamente en el castigo terrenal del impío.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Zofar representa el <span class="highlight">juicio dogmático</span>. Su teología se ha vuelto una obsesión que no ve la evidencia de la inocencia de Job, sino solo la necesidad de que la doctrina se cumpla.</p>
                 
@@ -21829,7 +25530,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prosperidad del Impío:</strong> La excepción que rompe la teología tradicional</li>
                     <li><strong>Soberanía Misteriosa:</strong> Dios permite la prosperidad de los impíos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job Rechaza el Principio de Retribución</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Destino y la Prosperidad</h5>
+<ul>
+    <li><strong>Rechazo del Dogma:</strong> Job refuta la teología de sus amigos, demostrando que **los impíos a menudo prosperan** y mueren en paz, sin ser castigados visiblemente.</li>
+    <li><strong>La Muerte Pacífica:</strong> Job pregunta por qué el impío vive, envejece y es enterrado en el **sepulcro en paz**, sin dolor o juicio público.</li>
+    <li><strong>El Veredicto Final:</strong> Job insiste en que el juicio de la maldad no cae sobre el pecador, sino sobre **sus propios hijos** (castigo vicario), lo que refuta la justicia simple de sus amigos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra</h5>
+<ul>
+    <li><strong>El Cortejo Fúnebre:</strong> Job describe el cortejo fúnebre del impío, un signo de honor y respeto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Disparidad:</strong> La experiencia de Job y la observación del mundo contradicen directamente la teología que sus amigos insisten en imponer.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Job afirma que la justicia de Dios no puede limitarse a la manifestación inmediata en esta vida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job defiende la <span class="highlight">complejidad de la providencia divina</span>. El sufrimiento del justo y la prosperidad del impío son misterios que escapan a la lógica de la retribución simple.</p>
                 
@@ -21860,7 +25582,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reconciliación:</strong> La promesa de restauración si Job confiesa</li>
                     <li><strong>Justificación Doctrinal:</strong> La necesidad de que Job sea un pecador para que la teología funcione</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Elifaz Acusa de Pecado Social</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ética Social</h5>
+<ul>
+    <li><strong>La Acusación Directa:</strong> Elifaz abandona la sutileza y acusa directamente a Job de **pecados sociales** (que eran la base del juicio en el Deuteronomio).</li>
+    <li><strong>Pecados Sociales:</strong> Elifaz acusa a Job de: **no dar agua** al sediento, **robar prendas** al desnudo, **oprimir a la viuda** y **quebrar el brazo del huérfano**.</li>
+    <li><strong>La Consecuencia:</strong> Los sufrimientos de Job se explican ahora como un **juicio retributivo** por su falta de caridad social.</li>
+    <li><strong>El Reto:</strong> Elifaz exhorta a Job a **confesar su culpa** y a **hacer las paces** con Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Justicia Local</h5>
+<ul>
+    <li><strong>Protección Social:</strong> La justicia del Cercano Oriente protegía a los pobres y los débiles (viudas, huérfanos, extranjeros).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Pecado Oculto:</strong> Los amigos asumen que el dolor de Job prueba su hipocresía social.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La acusación de Elifaz es la negación de la vida anterior de Job como hombre justo y caritativo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La falsedad de Elifaz demuestra el <span class="highlight">peligro de la teología descompasiva</span>: el consuelo se convierte en mentira para proteger la creencia personal.</p>
                 
@@ -21891,7 +25635,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vindicación:</strong> Job será probado y saldrá como oro</li>
                     <li><strong>Fe:</strong> Job no se ha apartado del mandamiento de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job Desea el Litigio Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Tribunal Celestial</h5>
+<ul>
+    <li><strong>El Deseo del Juicio:</strong> Job anhela encontrar el **"asiento de Dios"** para poder presentar su causa judicial ante Él.</li>
+    <li><strong>La Preparación:</strong> Job insiste en que prepararía su causa y su defensa, sabiendo que su **inocencia** sería probada.</li>
+    <li><strong>La Ley en el Corazón:</strong> Job afirma que **"guardé las palabras de su boca más que mi comida"**, demostrando que su justicia era interior.</li>
+    <li><strong>La Naturaleza de Dios:</strong> Job se queja de que Dios es **inmutable** (v. 13), y no puede ser movido por la súplica humana.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Evidencia Legal</h5>
+<ul>
+    <li><strong>Evidencia:</strong> En los tribunales de la antigüedad, el litigante era responsable de presentar su propia causa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Inmutabilidad:</strong> La inmutabilidad de Dios es una fuente de desesperación, ya que Su juicio no puede ser alterado por la oración.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe de Job se manifiesta en su audacia al desafiar a Dios para ser vindicado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">búsqueda de la presencia de Dios</span> es el clamor central de Job. Sabe que solo Dios puede juzgarlo con verdad y restaurar su nombre.</p>
                 
@@ -21922,7 +25688,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misterio del Tiempo:</strong> Dios retrasa Su juicio</li>
                     <li><strong>Juicio Ciego:</strong> La aparente ceguera de Dios ante la maldad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Abandono de la Justicia Social</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Queja Social</h5>
+<ul>
+    <li><strong>La Denuncia:</strong> Job presenta una lista de **injusticias sociales** que quedan **impunes** en el mundo.</li>
+    <li><strong>Injusticia Terrenal:</strong> Se describe a los malvados que: **mueven los mojones** (roban tierra), **toman al huérfano** como prenda, **roban la mies** de los pobres, y **oprimen al desnudo**.</li>
+    <li><strong>El Vengador Ausente:</strong> Job se queja de que Dios parece ignorar el mal, permitiendo que el inicuo reine.</li>
+    <li><strong>El Secreto del Mal:</strong> Los ladrones y adúlteros operan bajo el **manto de la noche**, evitando la luz (el símbolo de la justicia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Seguridad del Viajero</h5>
+<ul>
+    <li><strong>El Ladrón de Caminos:</strong> Los malvados roban al viajero y saquean al pobre. La ley protegía al viajero.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Silencio de Dios:</strong> Job usa la **evidencia empírica** (el mal impune) para refutar la teología de la retribución inmediata.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La queja de Job es un clamor por la necesidad de un juicio futuro y trascendente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job defiende el misterio de la <span class="highlight">providencia de Dios</span>. El sufrimiento del justo y la prosperidad del impío son paradojas que la teología simple no puede resolver.</p>
                 
@@ -21953,7 +25741,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pequeñez del Hombre:</strong> La imposibilidad de ser justo ante Dios</li>
                     <li><strong>Redundancia:</strong> Bildad no aporta nada nuevo al debate</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Bildad, la Brevedad del Argumento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Majestad de Dios</h5>
+<ul>
+    <li><strong>Fin del Diálogo:</strong> Este es el discurso más corto del diálogo (solo 6 versos). Bildad ya no tiene argumentos nuevos.</li>
+    <li><strong>El Tema:</strong> Bildad se centra solo en la **absoluta majestad y poder de Dios**, en contraste con la insignificancia del hombre.</li>
+    <li><strong>El Ser Supremo:</strong> Bildad pregunta: "¿Cómo, pues, se justificará el hombre con Dios? ¿Y cómo será limpio el que nace de mujer?" (v. 4).</li>
+    <li><strong>La Inmundicia:</strong> Incluso la **luna y las estrellas** no son limpias a los ojos de Dios; mucho menos el hombre, comparado con un **gusano**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración Astral</h5>
+<ul>
+    <li><strong>Astros:</strong> La luna y las estrellas eran deidades importantes en el Cercano Oriente. Bildad las subordina a Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Fin de la Amistad:</strong> El silencio de Bildad marca el **fin de la argumentación** de los tres amigos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Bildad recurre al argumento del poder (Dios es demasiado grande para ser cuestionado) para evitar la justicia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El fracaso de Bildad demuestra que la <span class="highlight">teología sin compasión se agota</span>. La repetición de la doctrina básica no consuela ni resuelve el problema del sufrimiento inmerecido.</p>
                 
@@ -21984,7 +25794,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Creación:</strong> El poder de Dios sobre la naturaleza (la Tierra, las nubes)</li>
                     <li><strong>Voz de Dios:</strong> El poder que solo se escucha como un "susurro" (Job aún busca la voz completa)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job, el Dominio de Dios sobre el Caos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Teología del Caos</h5>
+<ul>
+    <li><strong>La Ironía:</strong> Job responde a Bildad con ironía, señalando que el poder de Dios es obvio, y los amigos no le han dicho nada nuevo.</li>
+    <li><strong>El Seol y el Caos:</strong> Job reconoce el poder de Dios sobre el **Seol** y el **Abadón** (destrucción).</li>
+    <li><strong>La Columna Celestial:</strong> Job afirma que Dios **suspende la tierra sobre nada** y envuelve las aguas en las nubes.</li>
+    <li><strong>Rahab:</strong> Job menciona a **Rahab** (el nombre de un monstruo mítico del caos primordial, similar a Tiamat), reconociendo que Dios lo domina.</li>
+    <li><strong>El Límite:</strong> Job declara que solo han visto el **"borde de Sus caminos"** (una pequeña parte de Su poder).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Deidades del Mar</h5>
+<ul>
+    <li><strong>Rahab:</strong> En la mitología cananea, las deidades del mar y el caos eran los enemigos de los dioses creadores.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder sobre el Caos:</strong> Job afirma que el poder de Dios es mucho mayor y más misterioso de lo que sus amigos pueden imaginar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La grandeza de Dios es un hecho, pero no resuelve el dilema moral de Job.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job se <span class="highlight">afirma como el verdadero sabio</span>, demostrando su conocimiento teológico. El poder de Dios es asombroso, y su misterio es la razón de su sufrimiento.</p>
                 
@@ -22015,7 +25848,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Destino del Impío:</strong> Job admite la doctrina, pero no en su caso</li>
                     <li><strong>Fidelidad:</strong> Job se niega a confesar lo que no ha hecho</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job Jura su Integridad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juramento de Inocencia</h5>
+<ul>
+    <li><strong>El Juramento:</strong> Job jura por **"la vida de Dios"** (el Todopoderoso) que su **integridad** (su justicia) se mantendrá hasta su último aliento.</li>
+    <li><strong>El Voto:</strong> Job hace un **voto solemne** de no reconocer la injusticia ni la maldad en su boca.</li>
+    <li><strong>El Destino del Impío:</strong> Job, para demostrar que no es un impío, describe el destino final del hombre malo (aunque prospere, su casa será destruida).</li>
+    <li><strong>El Fin de la Riqueza:</strong> El impío acumula riquezas, pero el **justo las heredará**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Litigio</h5>
+<ul>
+    <li><strong>Juramento:</strong> Un juramento solemne era el recurso final para establecer la verdad en la corte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Soledad:</strong> Job está solo, sin la aprobación de sus amigos, pero encuentra fortaleza en su propia conciencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La integridad personal es el único escudo que le queda a Job contra las acusaciones.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job se <span class="highlight">niega a ser un falso testigo</span> contra sí mismo. La integridad de Job es la prueba de que la teología de la retribución no es una explicación completa del sufrimiento.</p>
                 
@@ -22046,7 +25901,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Inaccesibilidad:</strong> El hombre no puede encontrar la fuente de la sabiduría</li>
                     <li><strong>Sabiduría Revelada:</strong> El temor de Dios es la única sabiduría para el hombre</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Himno a la Sabiduría Oculta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Minería y el Conocimiento</h5>
+<ul>
+    <li><strong>La Búsqueda Humana:</strong> Job describe los **grandes esfuerzos** que hace el hombre para extraer tesoros de la tierra (plata, oro, hierro, gemas).</li>
+    <li><strong>La Tecnología:</strong> El hombre conoce las rutas de la minería, la oscuridad y el agua subterránea.</li>
+    <li><strong>La Sabiduría Escondida:</strong> Job contrasta el **conocimiento técnico humano** con la **sabiduría de Dios**, que está escondida.</li>
+    <li><strong>La Fuente:</strong> Solo Dios conoce el camino de la sabiduría, pues Él la creó y la midió.</li>
+    <li><strong>La Verdad:</strong> La verdadera sabiduría es el **temor de YHWH** y la **separación del mal**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Metalurgia</h5>
+<ul>
+    <li><strong>Minería:</strong> La metalurgia y la minería eran tecnologías avanzadas y peligrosas de la época.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Sabiduría y Fe:</strong> La sabiduría del hombre es limitada a lo terrenal; la **verdadera sabiduría** es el temor a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La respuesta a la teodicea no está en el conocimiento, sino en la **reverencia** a Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El himno subraya que la <span class="highlight">verdadera sabiduría es un don de Dios</span>, no un descubrimiento humano. La solución al problema del sufrimiento no se encuentra en la lógica, sino en la reverencia a Dios.</p>
                 
@@ -22077,7 +25955,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia:</strong> La vida de Job fue de rectitud social y moral</li>
                     <li><strong>Honra:</strong> El respeto que tenía en la sociedad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job Recuerda su Honor Perdido</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juez en la Puerta</h5>
+<ul>
+    <li><strong>El Lamento del Pasado:</strong> Job recuerda el **honor, la riqueza y el respeto** que tenía antes de su aflicción.</li>
+    <li><strong>El Juez en la Puerta:</strong> El honor supremo de Job era su **rol como juez**. Se sentaba en la **puerta de la ciudad** (el lugar del tribunal) para administrar justicia.</li>
+    <li><strong>Justicia Social:</strong> Job recuerda que rescató al pobre, al huérfano, al ciego y al cojo (cumpliendo la **Ley de Protección Social**).</li>
+    <li><strong>La Bendición:</strong> Los hombres lo bendecían y escuchaban su consejo con silencio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Puerta de la Ciudad</h5>
+<ul>
+    <li><strong>La Puerta:</strong> Era el centro cívico, judicial y comercial de la ciudad antigua.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Vindicación:</strong> Job usa su vida pasada como **prueba irrefutable** de su justicia, lo que refuta la acusación de Elifaz (Job 22).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El dolor de Job se intensifica por el recuerdo de su **servicio piadoso** que ahora parece olvidado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Job demuestra que <span class="highlight">su vida pasada fue de justicia impecable</span>, lo que hace que su sufrimiento presente sea un misterio aún mayor.</p>
                 
@@ -22108,7 +26008,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dolor Físico:</strong> La descripción de su enfermedad</li>
                     <li><strong>Abandono Divino:</strong> El sentimiento de que Dios se ha retirado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job Lamenta su Deshonra Actual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Deshonra y el Exilio</h5>
+<ul>
+    <li><strong>La Humillación:</strong> Job lamenta que ahora es objeto de **burla y desprecio** por los más bajos de la sociedad (hijos de esclavos y forajidos).</li>
+    <li><strong>El Ataque Físico:</strong> Los jóvenes lo persiguen y lo escupen. Se sienten libres de maltratar al que ha perdido el favor.</li>
+    <li><strong>El Lamento:</strong> Job se compara con el sonido de la **avestruz** y el **chacal** (animales del desierto, asociados con la soledad y la maldición).</li>
+    <li><strong>La Destrucción por Dios:</strong> Job siente que Dios se ha convertido en su **enemigo**, lo ha arrojado a la suciedad y lo ha afligido con un dolor que arde como el fuego.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ostracismo</h5>
+<ul>
+    <li><strong>El Pueblo Bajo:</strong> Los hombres que se burlan de él eran considerados **indignos** de sentarse con los perros que cuidaban su rebaño.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Inversión de Roles:</strong> Job, el protector de los pobres, es ahora **perseguido por los más bajos** (una inversión del orden social).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El dolor de Job no es solo físico, sino la **pérdida de la posición** y el honor social.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La humillación de Job demuestra que <span class="highlight">el sufrimiento lo ha despojado de todo</span>, incluso de la dignidad social. El lamento se centra en el cambio de relación con Dios.</p>
                 
@@ -22139,7 +26061,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia Social:</strong> Job no ha oprimido a nadie</li>
                     <li><strong>Desafío:</strong> El llamado a Dios para que justifique el sufrimiento</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Juramento de Exculpación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Voto de Inocencia (Ordalía)</h5>
+<ul>
+    <li><strong>El Juramento Final:</strong> Job hace un **juramento de exculpación** (o auto-maldición) sobre su propia alma si es culpable de pecados específicos (el punto más alto de su defensa).</li>
+    <li><strong>Pecados Sexuales:</strong> Job jura no haber mirado con lujuria, no haber cometido adulterio (un pecado de la mente y el cuerpo).</li>
+    <li><strong>Pecados Sociales:</strong> Job jura no haber negado justicia a sus siervos, no haber oprimido al huérfano y no haber negado alimento al pobre.</li>
+    <li><strong>Pecados de Idolatría:</strong> Job jura no haber besado su mano al sol o la luna (un acto de **adoración astral**, una forma común de idolatría).</li>
+    <li><strong>El Desafío:</strong> Job desafía a su **adversario** (Dios) a escribir su acusación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ordalía</h5>
+<ul>
+    <li><strong>La Prueba:</strong> En la antigüedad, un juramento de autosevero castigo era la prueba final de la inocencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Corazón Justo:</strong> Job demuestra que su justicia fue en el **corazón y la intención**, no solo en el acto externo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Job afirma su pureza, cerrando la defensa. Su única esperanza es la vindicación de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El juramento de inocencia es el <span class="highlight">punto culminante de la defensa de Job</span>. El sufrimiento es inmerecido, y el silencio de Dios es el único problema que queda.</p>
                 
@@ -22170,7 +26115,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sabiduría en el Joven:</strong> La sabiduría no es exclusiva de la edad</li>
                     <li><strong>Justificación de Dios:</strong> El enfoque de Elihú es defender la justicia de YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Eliú Interviene y el Respeto a la Edad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sabiduría por el Espíritu</h5>
+<ul>
+    <li><strong>Fin del Diálogo:</strong> Los tres amigos se detienen, incapaces de responder a Job, ya que él se declara justo.</li>
+    <li><strong>Eliú (el Joven):</strong> Eliú interviene, enojado con Job por justificarse a sí mismo y con los amigos por no refutarlo.</li>
+    <li><strong>El Respeto a la Edad:</strong> Eliú se disculpa por hablar primero: **"Yo soy joven, y vosotros ancianos; por tanto, he temido y temblado"**.</li>
+    <li><strong>El Espíritu:</strong> Eliú argumenta que la **inspiración divina** (el espíritu) es lo que trae la sabiduría, no la edad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Retórica</h5>
+<ul>
+    <li><strong>El Reto:</strong> Eliú promete hablar sin ser parcial, basándose en la verdad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Nueva Generación:</strong> Eliú representa una **nueva generación** de teólogos que desafía la sabiduría estática de la tradición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La sabiduría viene por revelación, no por la acumulación de años.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Elihú trae una <span class="highlight">perspectiva fresca</span>: el sufrimiento no es castigo por el pecado pasado, sino una herramienta para prevenir el pecado futuro.</p>
                 
@@ -22201,7 +26168,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberbia:</strong> El dolor previene la arrogancia del hombre</li>
                     <li><strong>Ángel Intercesor:</strong> La esperanza de un mediador</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Eliú, el Sufrimiento como Advertencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Propósito Pedagógico</h5>
+<ul>
+    <li><strong>La Advertencia:</strong> Eliú reprende a Job por su desafío a Dios.</li>
+    <li><strong>Sufrimiento Educativo:</strong> Eliú introduce una nueva perspectiva: el sufrimiento no es castigo, sino una **advertencia o disciplina** para mantener al hombre alejado del pecado.</li>
+    <li><strong>Dios Habla:</strong> Dios habla al hombre de **dos maneras**: a través de **sueños y visiones** (advertencia silenciosa) o a través del **dolor y la enfermedad**.</li>
+    <li><strong>Mediación Angelical:</strong> Si un hombre se arrepiente, un **ángel mediador** (un intérprete) puede interceder por él para su restauración.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Curación</h5>
+<ul>
+    <li><strong>Restauración:</strong> El sufrimiento, si es aceptado, lleva a la curación y la restauración.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito:</strong> Eliú ve el dolor como un **acto de misericordia preventiva**, no de juicio, si se recibe con humildad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El sufrimiento es la herramienta de Dios para la **corrección y la redención**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El sufrimiento es un <span class="highlight">llamado a la atención de Dios</span>. No es retribución, sino prevención. El enfoque está en el amor y la prevención de Dios.</p>
                 
@@ -22232,7 +26221,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Omnipotencia y Justicia:</strong> El poder absoluto de Dios es justo</li>
                     <li><strong>Recompensa:</strong> Dios paga al hombre según su obra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Eliú Defiende la Justicia de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Imparcialidad Divina</h5>
+<ul>
+    <li><strong>Defensa de la Justicia:</strong> Eliú defiende la **justicia intrínseca** de Dios, argumentando que Dios no puede ser injusto.</li>
+    <li><strong>Imparcialidad:</strong> Dios es **imparcial**; no hace acepción de personas ni favorece al rico sobre el pobre.</li>
+    <li><strong>Soberanía:</strong> Eliú afirma que el **poder de Dios** es absoluto; si Él retirara Su Espíritu, toda la carne moriría instantáneamente.</li>
+    <li><strong>Juicio Silencioso:</strong> Dios puede castigar a los reyes y a los impíos **sin necesidad de investigación** (porque Él todo lo ve).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Trono Terrenal</h5>
+<ul>
+    <li><strong>Reyes:</strong> Dios quita a los reyes y los reemplaza sin que nadie lo sepa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Juicio Oculto:</strong> El juicio de Dios es a menudo **silencioso y oculto**, lo que explica por qué el hombre no lo percibe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La justicia de Dios es perfecta, y el error reside en la percepción humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La justicia de Dios no es cuestionable. Elíhú exige a Job que <span class="highlight">confíe en la justicia de Dios</span>, incluso cuando los caminos de Dios son misteriosos.</p>
                 
@@ -22263,7 +26274,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Clamor Falso:</strong> La queja no es una oración de fe</li>
                     <li><strong>Dios como Dueño:</strong> Dios es soberano y no necesita la justicia del hombre</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Eliú y la Trascendencia de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Trascendencia Divina</h5>
+<ul>
+    <li><strong>La Trascendencia:</strong> Eliú cuestiona si la justicia o el pecado del hombre **afecta a Dios** (ya que Él es trascendente).</li>
+    <li><strong>Futilidad de la Queja:</strong> Si Job es justo, su justicia no beneficia a Dios; si peca, su pecado no daña a Dios.</li>
+    <li><strong>La Causa de la Queja:</strong> Eliú argumenta que los hombres claman bajo la opresión, pero **no claman a Dios** pidiendo el conocimiento de su Hacedor.</li>
+    <li><strong>El Silencio:</strong> Dios no responde al clamor de los impíos porque su clamor está vacío (no es sincero).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Poder Humano</h5>
+<ul>
+    <li><strong>Poder del Hombre:</strong> El hombre ejerce el poder sobre otros, pero no tiene poder para afectar a Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Clamor Genuino:</strong> Eliú distingue entre la queja superficial y el **clamor genuino** por la verdad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La queja de Job es inválida porque confunde el efecto de su sufrimiento con la justicia de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El hombre debe buscar a Dios con <span class="highlight">fe, no con la expectativa de ser recompensado</span>. La oración debe ser de fe, no de queja.</p>
                 
@@ -22294,7 +26327,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Súplica de Obediencia:</strong> Job debe escuchar a Dios para ser restaurado</li>
                     <li><strong>Advertencia Final:</strong> La desobediencia atraerá el juicio final</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Eliú, el Poder y la Instrucción</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Misericordia y la Disciplina</h5>
+<ul>
+    <li><strong>La Sinceridad:</strong> Eliú afirma que sus palabras son **sinceras** y que no hay mentira en ellas.</li>
+    <li><strong>El Propósito del Dolor:</strong> Eliú insiste en que el dolor y la aflicción son para la **instrucción y la corrección**.</li>
+    <li><strong>El Rescate:</strong> Dios rescata al justo de la aflicción si se humilla y obedece.</li>
+    <li><strong>La Destrucción:</strong> Si los impíos no atienden, serán destruidos por la espada sin conocimiento.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza y el Yugo</h5>
+<ul>
+    <li><strong>Prosperidad:</strong> El que se humilla será bendecido con la **prosperidad y la paz**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Razón:</strong> Eliú argumenta que el sufrimiento tiene una **razón pedagógica** clara y que Job debe aceptarla.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La paciencia de Dios al enviar aflicción es una prueba de Su deseo de instruir y salvar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Elihú introduce el concepto de que el <span class="highlight">sufrimiento es una forma de comunicación</span>. La solución de Job está en el escuchar y la obediencia.</p>
                 
@@ -22325,7 +26380,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder sobre el Clima:</strong> La lluvia y el trueno como instrumentos de Dios</li>
                     <li><strong>Reverencia:</strong> El temor de Dios es la respuesta correcta a Su majestad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Eliú, la Majestad de Dios en el Clima</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Oráculo y el Temor</h5>
+<ul>
+    <li><strong>El Clima:</strong> Eliú describe el **terror** causado por el **trueno, el relámpago y el clima** como manifestación de la majestad de Dios.</li>
+    <li><strong>Fenómenos Naturales:</strong> El control de la **nieve, la lluvia y los vientos** es una prueba de la soberanía incomprensible de Dios.</li>
+    <li><strong>La Ropa:</strong> Dios calienta al hombre con Su ropa cuando la tierra está quieta por el viento del sur.</li>
+    <li><strong>El Silencio:</strong> Eliú concluye que la majestad de Dios es **inaccesible** y que el hombre debe guardar silencio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Teología del Clima</h5>
+<ul>
+    <li><strong>Adoración:</strong> Los fenómenos meteorológicos eran vistos como la manifestación de las **deidades de la tormenta** (como Baal).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Incomprensibilidad:</strong> La sabiduría de Dios es **inaccesible**; la única respuesta apropiada del hombre es el temor y el silencio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La voz de Dios (el trueno) es incomprensible para el hombre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La complejidad del mundo natural es una <span class="highlight">prueba de la sabiduría de Dios</span>. El hombre es demasiado pequeño para cuestionar a su Creador.</p>
                 
@@ -22356,7 +26433,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Creación:</strong> El poder de Dios en la fundación de la Tierra</li>
                     <li><strong>Límites del Conocimiento:</strong> La ignorancia de Job sobre los elementos básicos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: YHWH, el Creador, Responde desde el Torbellino</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Litigio y el Oráculo</h5>
+<ul>
+    <li><strong>La Teofanía:</strong> Dios responde a Job **desde el torbellino** (o tempestad), la forma tradicional de manifestación divina.</li>
+    <li><strong>El Desafío:</strong> Dios desafía a Job con una serie de **preguntas retóricas** sobre Su conocimiento de la Creación.</li>
+    <li><strong>La Arquitectura:</strong> Dios pregunta a Job dónde estaba cuando **fundó la tierra**, quién puso sus medidas, su cimiento y su piedra angular.</li>
+    <li><strong>El Mar y la Luz:</strong> Dios desafía el conocimiento de Job sobre los límites del **mar, la luz, las tinieblas** y el origen de la nieve, el granizo y la lluvia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Mitología de la Creación</h5>
+<ul>
+    <li><strong>El Torbellino:</strong> El torbellino era la manifestación del poder divino sobre las fuerzas naturales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Soberanía:</strong> Dios no justifica Su justicia, sino que demuestra Su **omnipotencia** y **omnisciencia** sobre la Creación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El conocimiento de la Creación es la prueba de la sabiduría de Dios, que el hombre no posee.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Dios afirma Su <span class="highlight">autoridad absoluta</span> sobre la creación. La solución al dilema del sufrimiento no se encuentra en la lógica, sino en la reverencia al Creador.</p>
                 
@@ -22387,7 +26486,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Instinto y Autonomía:</strong> Los animales salvajes no necesitan la guía del hombre</li>
                     <li><strong>Humildad:</strong> Job es menos que un animal para el control de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: YHWH, el Soberano sobre la Naturaleza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Soberanía sobre la Fauna</h5>
+<ul>
+    <li><strong>El Propósito:</strong> Dios desafía a Job a explicar la **razón del diseño** de los animales salvajes y su destino.</li>
+    <li><strong>Fauna Salvaje:</strong> Se describen las cabras montesas, las ciervas (que paren en el campo), el asno salvaje (libre), el búfalo (fuerte), el avestruz (necio) y el halcón (volador).</li>
+    <li><strong>Instinto:</strong> Dios pregunta si Job puede darles instinto o fuerza a los animales.</li>
+    <li><strong>El Caballo:</strong> Se describe la **fuerza, el coraje y el rugido** del caballo (un símbolo de poder militar).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra y el Caballo</h5>
+<ul>
+    <li><strong>Caballería:</strong> El caballo era un animal de guerra esencial, un símbolo de fuerza y terror.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Sabiduría en el Diseño:</strong> La sabiduría de Dios se revela en la **complejidad y la variedad** de la naturaleza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La incapacidad de Job para entender el mundo natural demuestra su incapacidad para entender el plan divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La libertad y la autonomía de las criaturas son un <span class="highlight">reflejo de la soberanía de Dios</span>. La falta de control de Job sobre el mundo natural demuestra su limitación para cuestionar el gobierno de Dios.</p>
                 
@@ -22419,7 +26540,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Behemot:</strong> La inmensidad del poder que Job no puede controlar</li>
                     <li><strong>Desafío a la Soberbia:</strong> Job no puede humillar al soberbio, solo Dios puede</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Job se Somete y la Descripción de Behemot</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Humillación y la Criatura del Caos</h5>
+<ul>
+    <li><strong>La Respuesta de Job:</strong> Job se humilla y se arrepiente de haber hablado, declarando: **"He aquí que yo soy vil; ¿qué te responderé?"**</li>
+    <li><strong>El Poder de Dios:</strong> Dios desafía a Job a **revestirse de gloria** y **humillar al orgulloso** (v. 10), es decir, a ejercer el poder de Dios.</li>
+    <li><strong>Behemot:</strong> Dios describe a **Behemot** (posiblemente un hipopótamo o un elefante), una criatura de inmensa fuerza y tamaño (símbolo del caos terrestre).</li>
+    <li><strong>Dominio:</strong> Solo Dios puede **dominio** a Behemot (cuya cola es como un cedro y sus huesos son como barras de hierro).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Caza y la Mitología</h5>
+<ul>
+    <li><strong>Caza:</strong> La descripción de Behemot es la del animal más fuerte y peligroso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Justificación:</strong> Job se somete porque reconoce la **imposibilidad** de gobernar el cosmos o de ser más justo que Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La criatura más fuerte de la Tierra está bajo el control de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Behemot es una <span class="highlight">prueba de la soberanía de Dios</span> sobre criaturas más allá del control del hombre. La respuesta correcta a Dios es el arrepentimiento y el silencio.</p>
                 
@@ -22450,7 +26593,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Caos Dominado:</strong> Dios es el único que controla las fuerzas del mal (simbólico)</li>
                     <li><strong>Reconocimiento:</strong> La imposibilidad de Job de someter al Leviatán</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Descripción de Leviatán</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Criatura Marina y la Fuerza Indomable</h5>
+<ul>
+    <li><strong>Leviatán:</strong> Dios describe a **Leviatán** (posiblemente un cocodrilo o una criatura mítica marina), el símbolo del **caos acuático** y la fuerza indomable.</li>
+    <li><strong>Fuerza Invencible:</strong> Dios pregunta si el hombre puede capturar o dominar a Leviatán (su armadura es impenetrable; su respiración es fuego).</li>
+    <li><strong>Dominio sobre el Terror:</strong> La descripción del terror de Leviatán es un símbolo de que el **poder de Dios es absoluto**, incluso sobre las fuerzas más aterradoras.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Mitología del Mar</h5>
+<ul>
+    <li><strong>Monstruos Marinos:</strong> En la mitología cananea (Ugarit), los monstruos marinos eran los enemigos de los dioses creadores.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder sin Par:</strong> Si el hombre no puede dominar a Leviatán, ¿cómo puede juzgar al Creador de Leviatán?</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La incapacidad de la humanidad para controlar el caos justifica la humildad ante Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Leviatán es la <span class="highlight">prueba de la superioridad de la sabiduría de Dios</span> sobre el intelecto humano. Dios no da una explicación a Job, sino una revelación de Sí mismo.</p>
                 
@@ -22482,7 +26646,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Recompensa:</strong> Job recibe el doble de sus bienes</li>
                     <li><strong>Justicia Divina:</strong> Dios reprende a los amigos por su dogma</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Arrepentimiento, la Mediación y la Restauración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Mediador y la Ofrenda</h5>
+<ul>
+    <li><strong>Arrepentimiento:</strong> Job se arrepiente de haber hablado con ignorancia, declarando: **"De oídas te había oído; mas ahora mis ojos te ven"**.</li>
+    <li><strong>El Sacrificio:</strong> Dios ordena a los amigos que ofrezcan un gran **sacrificio de siete becerros y siete carneros** (sacrificio por la culpa).</li>
+    <li><strong>La Mediación:</strong> Dios ordena que **Job ore por ellos**. La mediación de Job sella su justicia ante YHWH.</li>
+    <li><strong>Restauración:</strong> Dios restaura la fortuna de Job, dándole el **doble** de todo lo que poseía.</li>
+    <li><strong>Herederas:</strong> Job les da **herencia** a sus tres hijas (un acto de amor y justicia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Restauración de la Riqueza</h5>
+<ul>
+    <li><strong>Doble Porción:</strong> La restauración de la riqueza a la doble porción era una forma de **honra y bendición** en la tradición antigua.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Vindicación:</strong> El epílogo refuta la teología de los amigos y afirma la **justicia inmerecida** de Job, confirmando el veredicto del prólogo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe que persevera es recompensada. El sufrimiento del justo termina en el triunfo y la bendición.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El epílogo demuestra que <span class="highlight">la fe incondicional es recompensada</span>. Job no es restaurado por su arrepentimiento (ya que no pecó), sino porque se somete a la soberanía de Dios.</p>
                 
@@ -22510,7 +26697,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Contraste de Destinos:</strong> El justo prospera; el impío es como el tamo</li>
                     <li><strong>Juicio:</strong> El impío no resistirá el juicio final</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Ley y los Dos Caminos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Estudio y la Meditación</h5>
+<ul>
+    <li><strong>Género Sapiencial:</strong> Este salmo es la **introducción a todo el Salterio**, estableciendo el fundamento ético y la fuente de la vida: la **Torá (Ley)**.</li>
+    <li><strong>Meditación (*Hagah*):</strong> La Ley debe ser meditada o **"murmurada"** (el significado de *hagah*) de día y de noche, una práctica de **estudio personal y devocional**.</li>
+    <li><strong>Metáfora Agrícola:</strong> El justo se compara con un **árbol plantado** junto a arroyos, una imagen de **prosperidad y vida constante** en una cultura dependiente de la agricultura.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Impíos</h5>
+<ul>
+    <li><strong>El Juicio:</strong> Los impíos son como el **tamo** (la paja) que el viento dispersa en la era, sin permanencia ni sustancia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Destino Dual:</strong> La vida se presenta como una elección moral entre dos destinos irrevocables, contrastando la estabilidad del justo con la transitoriedad del impío.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fuente de la bendición no es la riqueza, sino el **amor y la obediencia a la Palabra de Dios**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 1 es una invitación a la vida de fe: la verdadera felicidad se encuentra en la <span class="highlight">meditación y la obediencia a la Palabra de Dios</span>.</p>
                 
@@ -22536,7 +26744,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberanía Divina:</strong> Dios se sienta en los cielos y establece a Su Rey</li>
                     <li><strong>El Hijo de Dios:</strong> El Rey davídico es llamado "Mi Hijo"</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Real, la Coronación y la Soberanía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto Davídico y la Realeza</h5>
+<ul>
+    <li><strong>Género Real/Mesiánico:</strong> Este salmo se utilizaba en la **coronación del rey davídico** en Jerusalén, pero proféticamente apunta al Mesías.</li>
+    <li><strong>Rebelión de Vasallos:</strong> Las "naciones" que se agitan son los **reyes vasallos** de David que intentan romper el tratado de sujeción (romper su yugo).</li>
+    <li><strong>Adopción Real:</strong> El rey ungido es llamado **"Mi Hijo"** (v. 7), una fórmula de **adopción real** que establece su estatus por decreto divino.</li>
+    <li><strong>El Cetro de Hierro:</strong> El rey tiene la autoridad para juzgar y **quebrar a las naciones con cetro de hierro** (símbolo de la fuerza real y la inmutabilidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Vasallaje</h5>
+<ul>
+    <li><strong>El Yugo:</strong> Los reyes rebeldes intentan "romper sus ligaduras" y "echar de sí sus cuerdas" (anular el tratado de vasallaje).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Soberanía Global:</strong> El reino davídico es el único cuya autoridad sobre las naciones es un **decreto inquebrantable de YHWH**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El verdadero poder no reside en la fuerza militar de los reyes, sino en la **unción divina**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 2 es una <span class="highlight">declaración de la soberanía de Dios</span> sobre la política mundial. El Mesías es el heredero universal, y la verdadera sabiduría es someterse a Él.</p>
                 
@@ -22562,7 +26792,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Escudo de Dios:</strong> La protección de YHWH en medio del peligro</li>
                     <li><strong>Sueño de Paz:</strong> La habilidad de David para dormir a pesar de los enemigos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento Individual y la Oración Matutina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Invocación y la Protección</h5>
+<ul>
+    <li><strong>Escenario Histórico:</strong> Atribuido a David cuando huía de su hijo **Absalón** (un momento de extrema crisis y traición, 2 Samuel 15).</li>
+    <li><strong>El Desafío Teológico:</strong> Los enemigos se burlan: **"No hay para él salvación en Dios"** (el máximo ataque a la fe del rey).</li>
+    <li><strong>Oración Ritual:</strong> El salmista describe que ora y es escuchado desde **"Su monte santo"** (Jerusalén). La oración es una práctica de **confianza al amanecer**, después de una noche de peligro.</li>
+    <li><strong>El Escudo:</strong> Dios es invocado como el **escudo** que lo rodea, una imagen militar de protección total.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra Civil</h5>
+<ul>
+    <li><strong>Multiplicidad de Enemigos:</strong> La traición y la rebelión multiplican los enemigos personales del rey.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Paz en el Peligro:</strong> A pesar de la amenaza de muerte, el salmista **duerme y despierta en paz**, porque su confianza está en YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La salvación personal es un acto directo de YHWH, no el resultado de la fuerza militar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 3 es un modelo de <span class="highlight">fe en la adversidad</span>. El creyente puede encontrar paz y descanso en Dios, incluso cuando el peligro es inminente.</p>
                 
@@ -22588,7 +26840,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo:</strong> La alegría de la presencia de Dios es mayor que la provisión material</li>
                     <li><strong>Paz:</strong> Seguridad al dormir bajo la protección de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oración Vespertina y la Santidad del Sacrificio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto Vespertino</h5>
+<ul>
+    <li><strong>Género:</strong> **Oración de Confianza/Súplica**, posiblemente utilizada en el **culto vespertino** o con el sacrificio diario.</li>
+    <li><strong>El Temor:</strong> El salmista exhorta a los que se burlan a **"temblar y no pecar"** (temor reverente).</li>
+    <li><strong>Sacrificios de Justicia:</strong> Se exhorta a ofrecer **sacrificios de justicia** y a confiar en YHWH. Esto se refiere a sacrificios hechos con rectitud moral.</li>
+    <li><strong>Luz del Rostro:</strong> El salmista pide que la **luz del rostro de YHWH** se alce sobre él, una referencia a la **bendición sacerdotal** (Números 6:25).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Búsqueda de Bienestar</h5>
+<ul>
+    <li><strong>Riqueza:</strong> Los enemigos y los incrédulos buscan la prosperidad material ("¿Quién nos mostrará el bien?").</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Paz Interior:</strong> La alegría de la bendición de Dios (paz) es mayor que la alegría que produce la cosecha (grano y vino).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El verdadero refugio se encuentra en la **confianza tranquila** en YHWH, no en la riqueza acumulada.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La fe se manifiesta en la capacidad de encontrar <span class="highlight">paz y gozo en la presencia de Dios</span>, independientemente de la prosperidad material o la amenaza externa.</p>
                 
@@ -22614,7 +26888,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad:</strong> El malvado no puede habitar con Dios</li>
                     <li><strong>Guía:</strong> La necesidad de que Dios dirija su camino</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oración Matutina y la Pureza del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Oración Formal</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** con énfasis litúrgico.</li>
+    <li><strong>El Tiempo:</strong> El salmista afirma que dirigirá su oración hacia el Templo **"por la mañana"** (un tiempo ritual de oración y sacrificio, el *Tamid* matutino).</li>
+    <li><strong>El Templo Santo:</strong> La oración se dirige hacia el **"santuario de Tu santidad"** (el Lugar Santo del Templo).</li>
+    <li><strong>La Ira de Dios:</strong> El salmista insiste en que Dios **no es un Dios que se complace en la maldad**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Mofa y la Mentira</h5>
+<ul>
+    <li><strong>Enemigos:</strong> Los enemigos se caracterizan por la **mentira, la traición** y el engaño, que el salmista detesta.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Santidad de Dios:</strong> El carácter de Dios es el fundamento de la ética humana. La maldad es incompatible con Su presencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La oración se dirige a un Dios moralmente puro, lo que justifica la petición de juicio sobre los impíos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">búsqueda diligente de Dios</span> (por la mañana) es la clave para la dirección en un mundo de enemigos. El justo se enfoca en la santidad de Dios.</p>
                 
@@ -22640,7 +26936,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Enfermedad y Debilidad:</strong> La aflicción física y emocional</li>
                     <li><strong>Motivo de la Alabanza:</strong> La vida es necesaria para dar gloria a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Enfermedad y el Seol</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Plegaria por la Vida</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento de Enfermedad y Arrepentimiento**. El salmista está al borde de la muerte, física y espiritualmente.</li>
+    <li><strong>La Ira:</strong> La súplica es para que Dios no lo castigue con Su **"furor"** o **"ira"**.</li>
+    <li><strong>Sheol (El Inframundo):</strong> El salmista argumenta que si muere, no podrá **alabar a YHWH** en el **Seol** (la tierra de los muertos, vista como un lugar de silencio y olvido).</li>
+    <li><strong>La Respuesta:</strong> El salmo termina con una nota de confianza, creyendo que Dios ha escuchado su ruego y que sus enemigos serán avergonzados.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Muerte</h5>
+<ul>
+    <li><strong>Motivación:</strong> La incapacidad de alabar a Dios en el Seol era un argumento común para que Dios preservara la vida.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Salvación Física:</strong> El ruego se centra en la **preservación de la vida terrenal** como la única esfera de la adoración.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La enfermedad es vista como una forma de juicio divino que amenaza la conexión del hombre con Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El salmo demuestra que el sufrimiento es a menudo interpretado como <span class="highlight">castigo por el pecado</span>. La oración por la misericordia es la única forma de escapar de la muerte.</p>
                 
@@ -22666,7 +26984,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Justo:</strong> Dios como el Juez que prueba el corazón</li>
                     <li><strong>Retribución:</strong> El malvado cae en su propia trampa (la fosa que cavó)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Apelación Judicial y Juicio Retributivo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juramento y la Justicia</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** e **Imprecatorio**. El salmista se enfrenta a un enemigo, pidiendo justicia.</li>
+    <li><strong>El Escenario:</strong> El salmo es una **apelación legal** o judicial a Dios, el Juez Supremo.</li>
+    <li><strong>Fórmula de Autocondenación:</strong> El salmista se somete a una **fórmula de autocondenación**: si he hecho mal, que el enemigo me persiga y pisotee mi vida hasta el polvo.</li>
+    <li><strong>El Juez Supremo:</strong> Dios se sienta en el cielo, con Su **arco tensado y Su espada afilada**, listo para el juicio.</li>
+    <li><strong>El Fruto del Mal:</strong> La maldad del impío se describe como un **trabajo infructuoso** (concibe iniquidad y pare engaño).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Asilo</h5>
+<ul>
+    <li><strong>Refugio en YHWH:</strong> El salmista busca refugio en YHWH de sus perseguidores, como en una ciudad de asilo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia Imparcial:</strong> El salmista cree que Dios juzga a las naciones con una justicia **imparcial y perfecta**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La confianza es tan fuerte que el salmista se somete al juicio de Dios para demostrar su inocencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 7 es la <span class="highlight">confianza en la justicia de Dios</span>: el mal que el enemigo planea, recaerá sobre él. La fe en el Juez es el refugio del perseguido.</p>
                 
@@ -22692,7 +27033,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dignidad Humana:</strong> El hombre, coronado con gloria y dominio</li>
                     <li><strong>Alabanza de los Niños:</strong> La alabanza simple que silencia al enemigo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de la Creación y el Hombre</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Alabanza y la Soberanía</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Alabanza y Creación**. El salmista alaba el nombre de Dios en toda la Tierra.</li>
+    <li><strong>La Luna y las Estrellas:</strong> El salmista observa el cielo (la obra de Dios) y se maravilla de la **insignificancia del hombre** en comparación con el cosmos.</li>
+    <li><strong>La Coronación del Hombre:</strong> El hombre fue hecho **"un poco menor que los ángeles"** (o que Dios) y fue **coronado** con gloria y honra.</li>
+    <li><strong>El Dominio:</strong> Dios dio al hombre **dominio** sobre toda la creación terrenal (animales, aves, peces), reflejando el mandato de Génesis 1.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración Astral</h5>
+<ul>
+    <li><strong>Estrellas:</strong> En el mundo antiguo, las estrellas y la luna eran a menudo adoradas como deidades. El salmo subordina estos astros a YHWH.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Papel del Hombre:</strong> El salmo es un reconocimiento del **honor y la responsabilidad** del hombre como virrey de Dios sobre la Tierra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La majestad de Dios se revela tanto en la **inmensidad del cosmos** como en la **humildad de la humanidad**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 8 es la <span class="highlight">teología del hombre y la creación</span>. El hombre es la corona de la creación de Dios, llamado a ejercer el dominio bajo la soberanía de YHWH (Citado por Pablo en Hebreos 2).</p>
                 
@@ -22718,7 +27081,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio de las Naciones:</strong> Dios castiga a los impíos y a los gentiles soberbios</li>
                     <li><strong>Refugio:</strong> Dios es refugio para el pobre y el oprimido</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Acción de Gracias Comunal y Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Liturgia de Guerra y el Templo</h5>
+<ul>
+    <li><strong>Género:</strong> **Acción de Gracias Comunal** (posiblemente después de una victoria militar).</li>
+    <li><strong>Dirección Musical:</strong> El salmo tiene la dirección musical **"Al Músico Principal; sobre Mut-Labben"** (un posible tono o melodía de la época).</li>
+    <li><strong>El Juez Justo:</strong> Dios se sienta en Su trono en el cielo como **Juez Justo**, manteniendo el juicio.</li>
+    <li><strong>Las Puertas de Sión:</strong> El salmista promete cantar las alabanzas de Dios en las **puertas de la hija de Sión** (las puertas del Templo).</li>
+    <li><strong>El Inframundo:</strong> Los impíos serán llevados al **Seol** (las puertas de la muerte).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza Divina</h5>
+<ul>
+    <li><strong>Naciones Olvidadas:</strong> El salmista pide que las **naciones se olviden** y que la memoria del impío perezca.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Refugio:</strong> YHWH es el **refugio de los oprimidos**, una torre en el tiempo de angustia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La victoria militar se convierte en un acto de adoración pública y en la proclamación del juicio final.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia de Dios es el fundamento de la fe</span>. El creyente confía en que Dios no solo ve la opresión, sino que interviene activamente para juzgar al malvado.</p>
                 
@@ -22744,7 +27130,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Silencio Divino:</strong> La pregunta de por qué Dios está lejos</li>
                     <li><strong>Juicio Social:</strong> La maldad es la opresión de los indefensos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento por la Injusticia Social</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Queja ante el Retiro de Dios</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (dirigido contra los opresores sociales).</li>
+    <li><strong>La Ausencia de Dios:</strong> El salmista comienza con una queja: **"¿Por qué estás lejos, oh YHWH?"** (La sensación de que Dios se ha retirado).</li>
+    <li><strong>El Impío Arrogante:</strong> El impío se enorgullece, persigue al pobre y al huérfano.</li>
+    <li><strong>La Negación de Dios:</strong> El impío dice en su corazón: **"Dios se ha olvidado, no castigará"** (la negación de la justicia divina).</li>
+    <li><strong>El Juicio Oculto:</strong> El salmista apela a Dios, que ve el dolor y la aflicción del huérfano, para que actúe.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Opresión Social</h5>
+<ul>
+    <li><strong>Acecho:</strong> El impío se describe como un león acechando al pobre y al indefenso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Clamor Social:</strong> El salmo es un clamor por la **justicia social y económica**, pidiendo a Dios que intervenga activamente en el mundo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La queja por la injusticia se resuelve con la afirmación de que **Dios es Rey para siempre**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 10 es la <span class="highlight">expresión honesta de la duda</span>: el sufrimiento y el mal llevan a cuestionar la presencia activa de Dios. La fe persevera en la oración a pesar del silencio.</p>
                 
@@ -22770,7 +27179,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza Absoluta:</strong> El rechazo a huir ante el peligro</li>
                     <li><strong>Juicio:</strong> Dios derramará juicio (fuego y azufre) sobre el impío</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Confianza en el Templo y el Arquero</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Estabilidad Divina</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo de Confianza Individual**.</li>
+    <li><strong>Consejo de Huida:</strong> El salmista recibe el consejo de huir a la montaña **"como pájaro"** (una señal de peligro inminente).</li>
+    <li><strong>La Simiente:</strong> El salmista se niega, afirmando que **YHWH está en Su templo** (la verdadera fuente de seguridad).</li>
+    <li><strong>La Prueba:</strong> Dios prueba al justo, pero aborrece al impío.</li>
+    <li><strong>El Arquero:</strong> Dios está en Su trono, y Sus **ojos están mirando** el mundo. Él usa el arco para castigar a los malvados.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra y la Flecha</h5>
+<ul>
+    <li><strong>El Arquero:</strong> Los impíos son comparados con los arqueros que preparan su flecha en la oscuridad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Roca:</strong> Si los **fundamentos** (la justicia y la Ley) son destruidos, solo YHWH puede actuar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe es el único refugio verdadero, incluso cuando la seguridad física es imposible.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 11 es una <span class="highlight">declaración de lealtad a Dios</span>. El creyente encuentra su refugio en el Señor, no en los recursos humanos o la huida.</p>
                 
@@ -22796,7 +27228,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pureza de la Palabra de Dios:</strong> La Ley de Dios es el único estándar de verdad</li>
                     <li><strong>Petición de Protección:</strong> La necesidad de que Dios guarde a Su pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento por la Mentira Social</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Corrupción y la Palabra Pura</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** con enfoque social.</li>
+    <li><strong>La Queja:</strong> La queja es por la **corrupción social**; la mentira y el engaño son rampantes.</li>
+    <li><strong>Labios Engañosos:</strong> Los hombres hablan con **labios lisonjeros** y con un **doble corazón** (símbolo de falsedad).</li>
+    <li><strong>La Palabra Pura:</strong> La **Palabra de YHWH** se contrasta con la mentira. Se compara con la plata purificada **siete veces** en el horno de barro.</li>
+    <li><strong>El Alto y Bajo:</strong> El salmista lamenta que el **"más vil de los hombres es exaltado"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Metalurgia</h5>
+<ul>
+    <li><strong>Purificación de la Plata:</strong> La plata se refinaba varias veces en un horno para eliminar las impurezas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Ley del Lenguaje:</strong> La fe exige un **lenguaje sincero** (que la palabra sea pura como la plata) en contraste con la hipocresía social.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La única verdad en un mundo de mentira es la Palabra de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 12 afirma que la <span class="highlight">Palabra de Dios es la única fuente de verdad</span> y pureza en un mundo lleno de engaño y falsedad.</p>
                 
@@ -22822,7 +27277,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Petición de Iluminación:</strong> Pedir que Dios quite la oscuridad</li>
                     <li><strong>Transición Rápida:</strong> El lamento se convierte en alabanza</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Transición Rápida del Lamento a la Confianza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Súplica y la Duración del Juicio</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** con una rápida transición a la confianza.</li>
+    <li><strong>La Pregunta de la Duración:</strong> El salmista pregunta: **"¿Hasta cuándo?"** (una queja profética sobre la duración del juicio o la ausencia de Dios).</li>
+    <li><strong>El Sueño de la Muerte:</strong> El salmista pide que Dios ilumine sus ojos para que no duerma el **"sueño de la muerte"** (el miedo a morir en la aflicción).</li>
+    <li><strong>La Burla del Enemigo:</strong> El salmista teme que si fracasa, sus enemigos se **gocen** y se alaben.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Victoria del Enemigo</h5>
+<ul>
+    <li><strong>Oprobio:</strong> La mayor humillación era que el enemigo se jactara de la derrota.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Cambio Súbito:</strong> El salmo pasa del lamento profundo a la **confianza absoluta** en la misericordia de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La oración transforma el miedo en la certeza de la liberación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 13 es un modelo de cómo la <span class="highlight">fe persevera a través de la duda</span>. La fe es un acto de la voluntad que recuerda la misericordia de Dios y la convierte en confianza.</p>
                 
@@ -22848,7 +27325,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corrupción Ética:</strong> La negación de Dios conduce a la injusticia social</li>
                     <li><strong>Salvación de Sion:</strong> El anhelo por la intervención final de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Sapiencial y la Necedad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Negación de Dios</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial** (similar al Salmo 53).</li>
+    <li><strong>El Necio:</strong> El salmista declara: **"Dice el necio en su corazón: No hay Dios"**. El necio no es necesariamente ateo, sino el que **vive como si Dios no existiera**.</li>
+    <li><strong>El Juicio Moral:</strong> El juicio de Dios es que **"no hay quien haga lo bueno"** (una descripción de la corrupción humana universal).</li>
+    <li><strong>El Ojo de Dios:</strong> Dios **mira desde el cielo** para ver si hay quien tenga entendimiento.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Opresor</h5>
+<ul>
+    <li><strong>Devorar al Pueblo:</strong> Los malvados son comparados con los que **"devoran a mi pueblo como si comieran pan"** (opresión económica).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Definición de Necio:</strong> La necedad es una **condición moral** (rechazo a la ley de Dios), no una falta de inteligencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe es la base de la sabiduría y la moralidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La **necedad** no es una falta de inteligencia, sino una <span class="highlight">falta de moralidad</span>. La negación de Dios es la raíz de la injusticia social.</p>
                 
@@ -22874,7 +27373,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Integridad:</strong> Decir la verdad y cumplir el juramento</li>
                     <li><strong>Justicia Social:</strong> No prestar con usura (intereses) al pobre</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Liturgia de Entrada al Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Santidad y el Santuario</h5>
+<ul>
+    <li><strong>Género:</strong> **Liturgia de Entrada** (para ser recitado al acercarse al Templo).</li>
+    <li><strong>El Tabernáculo y el Monte:</strong> El salmista pregunta: "¿Quién habitará en tu tabernáculo? ¿Quién morará en tu monte santo?" (las condiciones para entrar en la presencia de Dios).</li>
+    <li><strong>Condiciones Morales:</strong> Las condiciones son **éticas y morales** (hablar verdad, no calumniar, no prestar dinero a usura).</li>
+    <li><strong>El Juramento:</strong> La persona justa **jura con daño propio** y no cambia su palabra (el respeto por el voto).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Usura</h5>
+<ul>
+    <li><strong>Usura:</strong> El cobro de intereses a los pobres era una **práctica social** que la Ley Mosaica prohibía.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ética sobre el Ritual:</strong> La **pureza moral** es la condición primordial para acercarse a la presencia de Dios, más que el sacrificio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El verdadero culto se extiende desde el Templo hasta la **vida ética** del creyente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 15 enseña que <span class="highlight">la vida ética es inseparable de la adoración</span>. El hombre que se acerca a Dios debe tener un carácter irreprochable.</p>
                 
@@ -22900,7 +27421,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resurrección:</strong> La esperanza de que su alma no será dejada en la tumba</li>
                     <li><strong>Plenitud de Gozo:</strong> El gozo eterno en la presencia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Confianza Individual y la Herencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Porción (Goral) y el Destino</h5>
+<ul>
+    <li><strong>Género:</strong> **Mictam** (un posible término técnico o musical).</li>
+    <li><strong>Los Santos:</strong> El salmista se deleita en los **"santos"** (los piadosos) de la tierra.</li>
+    <li><strong>La Porción (**Goral**):</strong> El salmista declara que **YHWH es la porción de su herencia** y su copa. El término *Goral* se refiere al lote o la porción de tierra tribal.</li>
+    <li><strong>Cuerdas:</strong> La **"cuerdas le han caído en lugares deleitosos"** (su herencia es la mejor).</li>
+    <li><strong>La Esperanza Póstuma:</strong> El salmista expresa la esperanza de que su carne **descansará en seguridad** y que Dios no dejará su alma en el **Seol**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Idolatría</h5>
+<ul>
+    <li><strong>Libación:</strong> El salmista se niega a derramar libaciones de sangre a otros dioses.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Herencia Espiritual:</strong> La herencia del salmista no es la tierra, sino **YHWH mismo**, una afirmación revolucionaria.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La esperanza de la **resurrección** es la máxima expresión de confianza en el pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 16 es una <span class="highlight">poderosa esperanza en la vida después de la muerte</span> y en la comunión eterna con Dios. La herencia más valiosa es Dios mismo.</p>
                 
@@ -22926,7 +27470,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Protección:</strong> Ser guardado como la niña del ojo de Dios</li>
                     <li><strong>Contraste:</strong> La riqueza terrenal de los impíos versus la riqueza espiritual del justo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oración Judicial y la Protección Ocular</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Clamor ante el Juez</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (una súplica por justicia).</li>
+    <li><strong>La Prueba:</strong> El salmista pide que Dios lo **examine** para probar su inocencia ante el Juez Supremo.</li>
+    <li><strong>La Protección:</strong> El salmista pide ser guardado **"como la niña de Tus ojos"** (la pupila del ojo). Una imagen de la protección más preciada y sensible.</li>
+    <li><strong>La Sombra:</strong> Pide ser escondido **"bajo la sombra de Tus alas"** (una imagen del Arca del Pacto o las alas del Templo).</li>
+    <li><strong>El Despertar:</strong> El salmista tiene la esperanza de que al **despertar** (o ser resucitado), se saciará con la imagen de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza Terrenal</h5>
+<ul>
+    <li><strong>Riqueza Material:</strong> Los enemigos se jactan de su riqueza ("su porción es en esta vida").</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Recompensa Trascendente:</strong> La recompensa del salmista no es la riqueza terrenal, sino la **visión de Dios**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La justicia de YHWH es la única garantía contra la opresión terrenal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">confianza en el Juez divino</span> es el refugio del justo. La mayor esperanza de David es despertar a la semejanza de Dios, en lugar de la riqueza terrenal del impío.</p>
                 
@@ -22952,7 +27519,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Roca y Fortaleza:</strong> Dios es el refugio y la fuente de la fuerza</li>
                     <li><strong>Recompensa de la Rectitud:</strong> Dios salva a David por su integridad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno Real de Victoria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra Teocrática y la Intervención</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Acción de Gracias Real** (casi idéntico a 2 Samuel 22).</li>
+    <li><strong>La Teofanía:</strong> La intervención de Dios se describe con **imágenes del Sinaí** (humo, fuego, terremoto, nubes).</li>
+    <li><strong>La Invocación:</strong> Dios desciende del cielo, cabalgando sobre un **querubín** y volando sobre las alas del viento.</li>
+    <li><strong>El Combate:</strong> Las fuerzas de la naturaleza (rayos, granizo, fuego) son las **armas de YHWH** para la victoria.</li>
+    <li><strong>La Retribución Justa:</strong> Dios recompensa al salmista (el rey) según su **justicia y la limpieza de sus manos**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Batalla y el Botín</h5>
+<ul>
+    <li><strong>El Combate:</strong> Los enemigos son dispersados con el **soplo del aliento** de Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Guerra Divina:</strong> La guerra es totalmente una **guerra de YHWH**, que utiliza los elementos naturales para luchar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El rey es el **agente justo** de Dios, y su éxito es el resultado de su obediencia al pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 18 es la <span class="highlight">teología de la liberación de David</span>. El éxito del rey es una recompensa por su obediencia y una demostración del poder de Dios.</p>
                 
@@ -22978,7 +27568,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Revelación Especial:</strong> La Ley de YHWH es el mejor testimonio</li>
                     <li><strong>Integridad:</strong> Oración para ser guardado del pecado de soberbia</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Doble Revelación (Naturaleza y Ley)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Torá y la Astronomía</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial** (unión de la alabanza a la Creación y a la Ley).</li>
+    <li><strong>Revelación en la Naturaleza:</strong> Los cielos **"cuentan la gloria de Dios"** (revelación general), y el **sol** es comparado con un novio que sale de su cámara nupcial.</li>
+    <li><strong>Revelación en la Ley (Torá):</strong> La Ley de YHWH es **perfecta, fiel, justa, y dulce** (más que la miel).</li>
+    <li><strong>Pureza Ritual:</strong> El salmista pide ser **limpiado de los pecados secretos** (involuntarios).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración Astral</h5>
+<ul>
+    <li><strong>Sol:</strong> El sol era a menudo adorado como una deidad (Ra, Utu). El salmo lo subordina como siervo de YHWH.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Ley Escrita Superior:</strong> La **revelación escrita** (la Ley) es más específica y vital que la revelación general en la Creación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Palabra de Dios ilumina el alma y es la máxima fuente de sabiduría.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Palabra de Dios es más valiosa que el oro</span> y más dulce que la miel. La Ley es la guía perfecta para la vida y el antídoto contra el pecado.</p>
                 
@@ -23004,7 +27616,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza:</strong> El nombre de YHWH es la fortaleza de Israel</li>
                     <li><strong>Ofrenda Aceptada:</strong> La petición de que los sacrificios sean aceptados</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oración por el Rey antes de la Batalla</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Liturgia de Súplica</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo de Súplica Real** (utilizado por el sacerdote/pueblo para orar por el rey antes de una campaña militar).</li>
+    <li><strong>El Sacrificio:</strong> El salmista pide que YHWH **"se acuerde de todas tus ofrendas"** (los sacrificios hechos por el rey).</li>
+    <li><strong>El Nombre de YHWH:</strong> La confianza no está en los carros ni en los caballos, sino en la **invocación del nombre de YHWH**.</li>
+    <li><strong>El Templo:</strong> La súplica se eleva desde el Templo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra y la Tecnología</h5>
+<ul>
+    <li><strong>Carros y Caballos:</strong> Los carros de guerra y la caballería eran la **tecnología militar** más avanzada de la época.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fe Militar:</strong> La fe de Israel requiere que el rey y el pueblo confíen en el poder de Dios, no en la tecnología.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La oración por el rey es el acto de fe que garantiza la victoria sobre la fuerza militar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 20 enseña que la <span class="highlight">fuerza del rey reside en el nombre de Dios</span>, no en su poderío militar. La nación debe unirse en la oración por el líder.</p>
                 
@@ -23030,7 +27664,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vida Larga:</strong> La bendición de la longevidad del rey</li>
                     <li><strong>Victoria:</strong> Dios es quien entrega a los enemigos en Su mano</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno Real de Victoria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Coronación y la Bendición</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Real de Acción de Gracias** (se utiliza para alabar a Dios por una victoria concedida al rey).</li>
+    <li><strong>Corona:</strong> El salmista alaba a Dios por haber puesto una **corona de oro puro** sobre la cabeza del rey.</li>
+    <li><strong>Vida Larga:</strong> Se pide y se bendice al rey con **"largura de días"** (vida eterna o un reino duradero), el máximo deseo para un monarca.</li>
+    <li><strong>El Trono:</strong> El salmo afirma que el rey tiene una **confianza absoluta** en Dios, lo que asegura su estabilidad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>El Fuego:</strong> Los enemigos son consumidos por Dios, como en un **horno encendido**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Garantía de Reino:</strong> El salmo celebra la **autoridad** del rey, que es un reflejo de la soberanía de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fuerza del rey** no proviene de su ejército, sino de la bendición de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 21 es la <span class="highlight">respuesta a la oración del Salmo 20</span>. La alabanza por la victoria debe atribuir toda la gloria a Dios, el verdadero dador del éxito.</p>
                 
@@ -23057,7 +27713,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vindicación:</strong> El sufrimiento se convierte en alabanza</li>
                     <li><strong>Reino Universal:</strong> La profecía de que todas las naciones adorarán a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento y la Profecía Mesiánica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Abandono y el Lamento</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Profético Individual** (uno de los salmos más citados en el Nuevo Testamento).</li>
+    <li><strong>El Clamor:</strong> El salmista comienza con el grito de **"Dios mío, ¿por qué me has desamparado?"** (la máxima expresión de la angustia y el abandono).</li>
+    <li><strong>La Vergüenza:</strong> El salmista está en tal deshonra que la gente **"mueve la cabeza"** y **"se ríe"** de él.</li>
+    <li><strong>Reparto de Vestidos:</strong> La descripción del **reparto de las vestiduras** y el **sorteo de la ropa** es un detalle de la ejecución o despojo de un condenado.</li>
+    <li><strong>El Toro y el León:</strong> Los enemigos son descritos como **toros de Basán** y **leones rugientes** (símbolos de fuerza y depredación).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Muerte</h5>
+<ul>
+    <li><strong>Perforación:</strong> Se menciona la **perforación de manos y pies** (una práctica de castigo o ejecución).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Alcance Global:</strong> La salvación del salmista resultará en que **"todos los confines de la Tierra"** se convertirán a YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El dolor personal es la clave para la **redención global** y el establecimiento del reino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 22 es la <span class="highlight">profecía detallada del sufrimiento y la resurrección de Cristo</span>. El gozo de la victoria es el resultado de la agonía.</p>
                 
@@ -23084,7 +27763,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mesa en Presencia:</strong> La comunión con Dios en medio del peligro</li>
                     <li><strong>Vida Eterna:</strong> Morar en la casa de Dios para siempre</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Confianza, Hospitalidad y el Pastor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Vida Pastoril y el Santuario</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo de Confianza** (el más famoso).</li>
+    <li><strong>El Pastor:</strong> Dios es el **Pastor** que guía y provee para sus ovejas, una imagen fundamental en Israel.</li>
+    <li><strong>Aguas de Reposo:</strong> El pastor guía a sus ovejas a **"aguas de reposo"** (aguas tranquilas), esenciales para el ganado en el árido Cercano Oriente.</li>
+    <li><strong>La Vara y el Cayado:</strong> La **vara** (para defensa) y el **cayado** (para guiar) son las herramientas del pastor.</li>
+    <li><strong>Mesa y Aceite:</strong> El salmista transiciona de la metáfora del Pastor a la de un **Huésped** que es recibido con un **banquete** (mesa) y ungido con **aceite** (hospitalidad y honor).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Hospitalidad</h5>
+<ul>
+    <li><strong>Ungir la Cabeza:</strong> Ungir con aceite la cabeza del huésped era el **máximo signo de hospitalidad y honor**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Bien y Misericordia:</strong> La certeza de que la **bondad y la misericordia** de Dios seguirán al salmista toda su vida.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El creyente es el **huésped** de Dios, protegido incluso en presencia de sus enemigos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La certeza de que <span class="highlight">Dios es suficiente</span> para todas las circunstancias, incluso la muerte. Es una afirmación de la presencia ininterrumpida de Dios.</p>
                 
@@ -23110,7 +27812,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad:</strong> Manos limpias y corazón puro (requisito moral)</li>
                     <li><strong>Rey de Gloria:</strong> La entrada triunfal de YHWH como Rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Liturgia de Entrada al Templo y el Arca</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto Procesional</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Procesional** (liturgia de entrada al Templo, quizás cuando el Arca del Pacto era llevada al Monte Sión).</li>
+    <li><strong>La Creación:</strong> El salmo comienza con la **soberanía de Dios** sobre la Tierra y su plenitud.</li>
+    <li><strong>Manos y Corazón:</strong> Se pregunta: "¿Quién subirá al monte de YHWH?" (La respuesta es la **pureza ética** del adorador: manos limpias y corazón puro).</li>
+    <li><strong>Puertas Eternas:</strong> El clímax es el clamor: **"Alzad, oh puertas, vuestras cabezas"** (una personificación de las puertas del Templo que dan entrada a YHWH).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Idolatría</h5>
+<ul>
+    <li><strong>Alzar el Alma:</strong> La prohibición de alzar el alma a la falsedad (la idolatría).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Acceso:</strong> El salmo establece que el **acceso a la presencia de Dios** no es geográfico ni ritual, sino **moral y ético**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero adorador** es aquel cuya vida concuerda con la Ley de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El salmo enseña que <span class="highlight">la santidad y la rectitud moral</span> son necesarias para estar en la presencia de Dios. El Rey de Gloria es YHWH, el verdadero Señor de Jerusalén.</p>
                 
@@ -23136,7 +27860,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Perdón:</strong> La confesión de los pecados pasados</li>
                     <li><strong>Vergüenza:</strong> Pedir que no sea avergonzado por los enemigos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Acróstico de Instrucción y Lamento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Oración por Guía y el Pecado Juvenil</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento y Súplica Acróstica** (cada verso/sección comienza con una letra del alfabeto hebreo, un recurso mnemotécnico).</li>
+    <li><strong>Instrucción Divina:</strong> El salmista suplica: **"Muéstrame, oh YHWH, tus caminos"** (una oración por guía en la vida).</li>
+    <li><strong>Pecados de Juventud:</strong> El salmista pide perdón por los **"pecados de mi juventud"** (una referencia a la imprudencia temprana).</li>
+    <li><strong>El Pacto:</strong> El salmista se centra en la **misericordia y la verdad** de Dios (los atributos del Pacto).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Engaño</h5>
+<ul>
+    <li><strong>Enemigos:</strong> Los enemigos son los que persiguen **sin causa** y con falsedad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Orden y Estructura:</strong> El uso del acróstico refleja el deseo de **orden y estabilidad** en la vida.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **guía de Dios** es esencial en un mundo lleno de caminos confusos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">guía de Dios es inseparable de Su perdón</span>. El salmista no puede ser dirigido hasta que su pecado haya sido limpiado.</p>
                 
@@ -23162,7 +27908,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Comunión:</strong> El deseo de no ser contado con los pecadores</li>
                     <li><strong>Adoración Pública:</strong> El amor por el Templo y el culto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Apelación a la Inocencia y el Lavamiento Ritual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Ritual y la Pureza</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento y Apelación a la Inocencia** (una apelación judicial a Dios).</li>
+    <li><strong>La Inocencia:</strong> El salmista pide que Dios lo juzgue porque ha **"andado en su integridad"**.</li>
+    <li><strong>Lavamiento Ritual:</strong> El salmista promete **"lavar mis manos en inocencia"** antes de acercarse al altar de Dios (un acto de purificación).</li>
+    <li><strong>El Altar:</strong> El salmista se aferra al altar de Dios (el lugar de la comunión y el sacrificio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de las Congregaciones</h5>
+<ul>
+    <li><strong>Compañía:</strong> El salmista jura no sentarse con los mentirosos ni ir con los hipócritas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Integridad:</strong> La pureza de corazón y acción es la **única base** para la defensa ante Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **pureza moral** es la única ofrenda que Dios acepta.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">integridad moral</span> es el requisito fundamental para el culto. David desea acercarse a Dios solo con un corazón examinado y aprobado.</p>
                 
@@ -23188,7 +27956,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Casa de Dios:</strong> El anhelo de la comunión perpetua en el Templo</li>
                     <li><strong>Esperanza:</strong> Esperar en la bondad de Dios en la tierra de los vivientes</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Confianza, Luz y el Templo como Refugio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Refugio y la Luz</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo de Confianza** (expresa una fe intrépida ante el peligro).</li>
+    <li><strong>La Luz:</strong> YHWH es la **"luz y la salvación"** del salmista (la luz era un símbolo de presencia y vida).</li>
+    <li><strong>El Deseo Único:</strong> El salmista solo pide una cosa: **"que yo more en la casa de YHWH todos los días de mi vida"**.</li>
+    <li><strong>El Templo como Refugio:</strong> En tiempos de peligro, el salmista será **escondido en el tabernáculo** de Dios (el santuario como lugar de asilo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra y el Asedio</h5>
+<ul>
+    <li><strong>Ejército:</strong> Incluso si un ejército acampa contra él, su corazón no temerá.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Valor del Santuario:</strong> La **presencia de Dios** en el Templo es el mayor bien y la única seguridad duradera.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La vida de fe consiste en **esperar activamente** la bondad de Dios en la Tierra de los vivientes.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">luz de Dios es el antídoto contra el miedo</span>. El Templo es el refugio final y la fuente de la seguridad de David.</p>
                 
@@ -23214,7 +28004,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Justo:</strong> Pedir retribución contra los hipócritas</li>
                     <li><strong>Fuerza de YHWH:</strong> Dios es la fuente de la liberación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Juicio y la Roca</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Silencio y la Súplica</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (una súplica para ser escuchado y no morir).</li>
+    <li><strong>Silencio:</strong> El salmista teme que Dios guarde **silencio**, lo que sería igual a la muerte (el **Seol**).</li>
+    <li><strong>La Roca:</strong> Dios es la **"roca"** del salmista, un símbolo de **estabilidad y refugio** en el desierto.</li>
+    <li><strong>El Templo:</strong> El salmista alza sus manos hacia el **"santuario de Tu oráculo"** (el Lugar Santísimo del Templo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Juicio</h5>
+<ul>
+    <li><strong>Retribución:</strong> El salmista pide que el juicio caiga sobre los impíos de acuerdo a sus **obras y maldad**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Bendición del Pastor:</strong> El salmo termina bendiciendo a YHWH, el **pastor** que guía y salva a Su pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El poder de Dios se manifiesta en la **protección del rey** (Su ungido).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 28 demuestra que la <span class="highlight">confianza en Dios se manifiesta en la alabanza</span>, incluso antes de que se cumpla la petición.</p>
                 
@@ -23240,7 +28052,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberanía:</strong> Dios es Rey sobre la naturaleza y el caos</li>
                     <li><strong>Paz para Israel:</strong> Dios bendice a Su pueblo con la paz</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, la Voz de Dios y la Tormenta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Alabanza en la Asamblea</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Alabanza** (centrado en la majestad de Dios manifestada en la naturaleza).</li>
+    <li><strong>Hijos de los Fuertes (**Benei Elim**):</strong> Los seres celestiales deben dar **gloria y fuerza** a YHWH.</li>
+    <li><strong>La Voz de YHWH (**Qol YHWH**):</strong> El trueno y la tormenta son la **voz audible** de Dios (símbolo de poder inmenso).</li>
+    <li><strong>Fenómenos Naturales:</strong> La voz de Dios **rompe los cedros del Líbano** y hace temblar el desierto de Cades.</li>
+    <li><strong>El Trono:</strong> YHWH se sienta como Rey sobre el **diluvio** (el caos acuático), reinando para siempre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración a Baal</h5>
+<ul>
+    <li><strong>Tormenta:</strong> La descripción es similar a la forma en que los cananeos describían a **Baal** (dios de la tormenta). El salmo somete este poder a YHWH.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Paz en el Templo:</strong> La tormenta concluye en el **Templo**, donde Dios da **paz y fuerza** a Su pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El poder del caos natural está **subordinado** al trono de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">voz de Dios es todopoderosa</span> y visible en el mundo natural. El caos de la tormenta se calma para bendecir a Israel con la paz.</p>
                 
@@ -23266,7 +28101,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sanidad y Restauración:</strong> Dios preserva la vida del salmista</li>
                     <li><strong>Poder de la Alabanza:</strong> La vida es para alabar a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Acción de Gracias por la Dedicación del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Dedicación y el Luto</h5>
+<ul>
+    <li><strong>Género:</strong> **Acción de Gracias Individual** (Atribuido a la dedicación de la Casa de David o el Templo).</li>
+    <li><strong>El Pozo (**Bor**):</strong> El salmista agradece que Dios lo ha sacado del **pozo** (la fosa de la muerte).</li>
+    <li><strong>La Ira y el Favor:</strong> La **ira de Dios** dura un momento, pero Su **favor** es para toda la vida.</li>
+    <li><strong>El Luto:</strong> Dios convierte el **lamento en baile**, y el **cilicio** (la ropa de luto) en **alegría**.</li>
+    <li><strong>El Silencio del Seol:</strong> El salmista argumenta, como en otros salmos, que en el Seol no hay **alabanza** para Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Danza</h5>
+<ul>
+    <li><strong>Danza:</strong> La danza era una expresión común de **alegría religiosa** y liberación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito del Dolor:</strong> El dolor sirve para recordar que la **prosperidad no es eterna**, y así glorificar a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe trae una **transformación completa** del estado de luto al estado de fiesta.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 30 enseña que <span class="highlight">el lamento se convierte en danza</span>. El juicio y el sufrimiento son temporales, pero el favor de Dios es constante.</p>
                 
@@ -23292,7 +28150,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Entrega Total:</strong> La vida es encomendada a las manos de Dios</li>
                     <li><strong>Amor a Dios:</strong> La exhortación a la comunidad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Confianza y la Entrega del Espíritu</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Deshonra y la Súplica</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (la oración de un hombre perseguido).</li>
+    <li><strong>La Cueva:</strong> El salmista se siente atrapado, y su vida se consume por el **dolor y la tristeza**.</li>
+    <li><strong>La Entrega:</strong> El salmista pronuncia la frase: **"En tu mano encomiendo mi espíritu"** (una expresión de confianza suprema en el momento de la muerte o el colapso).</li>
+    <li><strong>El Desprecio:</strong> Es el **"oprobio de mis vecinos"** y el **"terror de mis conocidos"** (desprecio social y exilio).</li>
+    <li><strong>El Cesto Roto:</strong> El salmista se compara con una **vasija rota** (símbolo de inutilidad y desprecio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Cerco</h5>
+<ul>
+    <li><strong>Cerco:</strong> Los enemigos planean matarlo y están **"tramando"** para quitarle la vida.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Confianza Incondicional:</strong> La fe se mantiene, incluso cuando la vida y el honor se han perdido por completo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El amor de Dios es **"maravilloso"** por Su bondad, revelada en la protección.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La oración de David es la <span class="highlight">entrega absoluta de la vida a Dios</span>. La fe se mantiene en la certeza de que Dios es su roca y su fortaleza.</p>
                 
@@ -23318,7 +28199,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confesión:</strong> La única vía para la sanidad y el perdón</li>
                     <li><strong>Gozo:</strong> La alegría y el canto que siguen al arrepentimiento</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Penitencial y la Confesión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Silencio y la Instrucción</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Penitencial/Sapiencial** (el segundo de los siete salmos penitenciales).</li>
+    <li><strong>La Bendición:</strong> La felicidad (**Ashrey**) es para aquel a quien se le ha **perdonado la iniquidad** y cuyo espíritu **no tiene engaño**.</li>
+    <li><strong>El Silencio:</strong> El salmista relata que cuando **guardó silencio** (no confesó), su cuerpo se consumió por el dolor.</li>
+    <li><strong>La Confesión:</strong> El perdón llega inmediatamente después de la **confesión honesta** del pecado.</li>
+    <li><strong>El Freno y el Cabestro:</strong> La necesidad de ser **guiado por Dios**, no como un caballo o mula (animales irracionales que necesitan ser forzados).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deuda</h5>
+<ul>
+    <li><strong>Iniquidad Cubierta:</strong> El perdón se describe como la **"cobertura"** de la iniquidad, una metáfora de saldar una deuda.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Misericordia:</strong> La **misericordia de Dios** es el verdadero refugio que rodea al que confía.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salud física y emocional** está intrínsecamente ligada a la salud espiritual.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 32 es el <span class="highlight">gozo del evangelio en el Antiguo Testamento</span>. La confesión es la llave para la liberación de la culpa y la restauración física.</p>
                 
@@ -23344,7 +28248,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberanía Histórica:</strong> Dios frustra los planes de las naciones</li>
                     <li><strong>Bienaventuranza Nacional:</strong> La nación bajo el pacto de YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de la Creación y la Providencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Música y el Poder Creador</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Comunal** (alabanza a Dios por Su palabra y providencia).</li>
+    <li><strong>Instrumentos:</strong> El salmista exhorta a alabar a Dios con el **arpa, el salterio de diez cuerdas y el címbalo** (instrumentos comunes del Templo).</li>
+    <li><strong>La Palabra Creadora:</strong> Los cielos fueron hechos por la **"Palabra de YHWH"** (el poder creador).</li>
+    <li><strong>El Abismo:</strong> Dios junta las **aguas del mar** como en un **montón** (referencia a la Creación y el Éxodo).</li>
+    <li><strong>El Consejo:</strong> El **consejo de YHWH** es el único que permanece para siempre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Caballo de Guerra:</strong> El **caballo** es inútil para la salvación. La salvación viene solo de YHWH.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Elección de Israel:</strong> Israel es la **"nación cuyo Dios es YHWH"**, elegida por heredad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El plan de Dios prevalece sobre el **caos de las naciones** y los planes humanos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios</span> es la base de la estabilidad. Su Palabra es el poder creador y el agente de gobierno sobre la historia.</p>
                 
@@ -23370,7 +28297,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Temor de Dios:</strong> La exhortación a buscar la rectitud</li>
                     <li><strong>Ángel de Jehová:</strong> La protección alrededor de los que le temen</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Acróstico de Sabiduría y Testimonio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Búsqueda y la Enseñanza</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Acróstico/Sapiencial** (David cuando se hizo pasar por loco ante Abimelec).</li>
+    <li><strong>Bendición Continua:</strong> El salmista promete bendecir a YHWH **"continuamente"** (un compromiso de vida).</li>
+    <li><strong>Humildad:</strong> Los **"humildes"** o **"afligidos"** (los mansos) escucharán y se alegrarán de la liberación de Dios.</li>
+    <li><strong>El Miedo:</strong> El salmista declara que buscó a YHWH y **"Él me libró de todos mis temores"**.</li>
+    <li><strong>Los Ángeles:</strong> El **"ángel de YHWH acampa"** alrededor de los que le temen para protegerlos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>Prueba y Sabor:</strong> Se exhorta: **"Gustad y ved que es bueno YHWH"** (una invitación a experimentar la bondad de Dios).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Lengua:</strong> La **integridad moral** se centra en el **control de la lengua** (no hablar mal).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **alabanza pública** es el testimonio más fuerte de la fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 34 es un <span class="highlight">testimonio público de la fidelidad de Dios</span>. La fe se convierte en un evangelismo que invita a otros a "probar y ver que YHWH es bueno."</p>
                 
@@ -23396,7 +28346,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Imprecación:</strong> La oración por el castigo divino</li>
                     <li><strong>Petición de Vindicación:</strong> Que la justicia de Dios se manifieste</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Imprecatorio y la Traición Judicial</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Litigio y el Ayuno</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento e Imprecación** (petición de juicio sobre los enemigos).</li>
+    <li><strong>El Desafío Judicial:</strong> El salmista pide que Dios **"contienda"** con sus adversarios (un litigio legal).</li>
+    <li><strong>Armadura:</strong> El salmista pide que Dios tome el **escudo y el paves** (tipos de escudos de guerra).</li>
+    <li><strong>El Ayuno:</strong> El salmista se **humillaba con ayuno** cuando sus enemigos estaban enfermos, y ellos lo recompensaron con traición.</li>
+    <li><strong>El Velo:</strong> El salmista se **cubre de cilicio** y se aflige por el mal de otros.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Cacería</h5>
+<ul>
+    <li><strong>La Red:</strong> Los enemigos preparan una **red y una fosa** para cazar al salmista.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Traición:</strong> El dolor de la traición por aquellos a quienes ayudó es una **ofensa moral** grave.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **venganza se deja en manos de Dios**, el Juez Supremo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 35 es el <span class="highlight">llamado a la justicia de Dios</span> contra el mal. La oración imprecatoria es una renuncia a la venganza personal, entregándola a la mano de Dios.</p>
                 
@@ -23422,7 +28395,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Amor Inmensurable:</strong> La misericordia de Dios es hasta los cielos</li>
                     <li><strong>Fuente de la Vida:</strong> Dios es la luz y el manantial de la vida</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Sabiduría, Malvados y la Fuente de Vida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Confianza y la Misericordia</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial/De Confianza** (describe la maldad humana y la bondad de Dios).</li>
+    <li><strong>No Hay Temor:</strong> La **transgresión** del impío le habla al corazón. No hay **temor de Dios** en él.</li>
+    <li><strong>Los Cielos:</strong> La **misericordia de Dios** llega hasta los cielos, y Su **fidelidad** hasta las nubes.</li>
+    <li><strong>Manantiales:</strong> Dios es la **"fuente de la vida"**, y en Su luz vemos la luz.</li>
+    <li><strong>Banquete:</strong> Los justos son invitados a un **banquete de delicias** en el Templo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>Montañas:</strong> La justicia de Dios se compara con las **montañas de Dios** (símbolo de estabilidad).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Contraste Ético:</strong> El salmo presenta un **contraste total** entre el hombre malo (que se engaña) y el bien de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El verdadero refugio está en la **sombra de las alas de Dios**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Dios es la <span class="highlight">fuente de toda vida y luz</span>. El justo encuentra refugio en la misericordia de Dios, mientras que el impío se consume en su propia malicia.</p>
                 
@@ -23448,7 +28444,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Heredar la Tierra:</strong> La recompensa de la paciencia y la confianza</li>
                     <li><strong>Justicia Final:</strong> Dios vindicará al justo a su debido tiempo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Acróstico de Sabiduría y la Tierra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Paciencia y la Herencia</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Acróstico/Sapiencial** (enseña la paciencia ante la prosperidad del impío).</li>
+    <li><strong>No Irritarse:</strong> La exhortación principal es **"No te impacientes"** por los malhechores.</li>
+    <li><strong>Confiar y Hacer Bien:</strong> La solución es **"confiar en YHWH y hacer el bien"**.</li>
+    <li><strong>Heredar la Tierra:</strong> Los **"mansos"** (los humildes/pacientes) heredarán la **tierra** (una promesa central del pacto).</li>
+    <li><strong>La Brevedad:</strong> La prosperidad del impío es **efímera**, y pronto perecerá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Bendición</h5>
+<ul>
+    <li><strong>Bendición/Maldición:</strong> Los **bendecidos** heredarán la tierra; los **malditos** serán destruidos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito Final:</strong> El juicio de Dios es **gradual**, no inmediato. La paciencia es una virtud.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **plan de Dios** es más importante que la prosperidad momentánea.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 37 es el <span class="highlight">antídoto contra la impaciencia</span>. La fe debe tener una perspectiva de eternidad, confiando en el plan de Dios.</p>
                 
@@ -23474,7 +28493,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Abandono Social:</strong> Sus amigos se han alejado</li>
                     <li><strong>Confesión:</strong> Reconocimiento de su iniquidad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Penitencial, Enfermedad y Abandono</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio y la Aflicción</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Penitencial/Lamento** (el tercero de los siete penitenciales, por David en su aflicción).</li>
+    <li><strong>Ira y Corrección:</strong> El salmista pide que Dios no lo castigue en Su **ira**, sintiendo el dolor del juicio.</li>
+    <li><strong>Enfermedad:</strong> La **enfermedad física** (infecciones, dolor en los huesos) es vista como un **resultado directo del pecado**.</li>
+    <li><strong>Oprobio Social:</strong> Sus **amigos y parientes** se alejan de él debido a su enfermedad y desgracia (temor a la impureza).</li>
+    <li><strong>El Silencio:</strong> El salmista está en **silencio** para no responder al necio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Traición</h5>
+<ul>
+    <li><strong>El Cerco:</strong> Los enemigos lo rodean, buscando su mal y hablando falsedad.</li>
+</ul>
+
+<h<h5><span style="color: var(--primary-color);">🔄 Principales Diferencias</span></h5>
+<ul>
+    <li><strong>Confesión Total:</strong> El salmista **confiesa su iniquidad** y se duele por su pecado, reconociendo el juicio divino.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación** se centra en la liberación de la aflicción y el perdón del pecado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 38 demuestra que el <span class="highlight">sufrimiento físico es a menudo la manifestación de una angustia espiritual</span>. La sanidad comienza con el reconocimiento del pecado.</p>
                 
@@ -23500,7 +28542,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Voto de Silencio:</strong> El control de la lengua</li>
                     <li><strong>Petición de Respiro:</strong> El anhelo de paz antes de la muerte</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Brevedad de la Vida y la Medida del Tiempo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Lamento Silencioso y la Ira</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento y Sapiencial** (reflexión sobre la transitoriedad).</li>
+    <li><strong>La Mordaza:</strong> El salmista decide guardar **silencio y poner una mordaza** en su boca ante el impío.</li>
+    <li><strong>La Medida:</strong> El salmista pide a Dios que le muestre **"cuál es mi fin y cuál es la medida de mis días"** (la brevedad).</li>
+    <li><strong>El Aliento:</strong> El hombre es un **"aliento"** o **"soplo"** (*hevel*), y toda su prosperidad es vana.</li>
+    <li><strong>El Reproche:</strong> El dolor es una **"corrección"** de Dios que consume la belleza del hombre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza</h5>
+<ul>
+    <li><strong>Riqueza Vana:</strong> El hombre **acumula riquezas**, pero no sabe quién las recogerá (la vanidad del esfuerzo humano).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Propósito del Silencio:</strong> El salmista se calla ante Dios, reconociendo que **Su juicio es justo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El dolor lleva a la **reflexión profunda** sobre la fugacidad de la vida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">conciencia de la mortalidad</span> es un catalizador para la piedad. El hombre debe buscar a Dios porque la vida es corta y sin valor sin la presencia divina.</p>
                 
@@ -23526,7 +28591,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Voluntad de Dios:</strong> La obediencia es el verdadero sacrificio</li>
                     <li><strong>Nueva Canción:</strong> El testimonio de David atrae a muchos a la fe</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Acción de Gracias y el Sacrificio de Obediencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Nuevo Cántico y el Sacrificio</h5>
+<ul>
+    <li><strong>Género:</strong> **Acción de Gracias** (por la liberación) y **Lamento** (por la aflicción presente).</li>
+    <li><strong>El Pozo de la Desesperación:</strong> Dios sacó al salmista del **pozo de la desesperación** y del lodo (símbolo de la muerte inminente).</li>
+    <li><strong>El Nuevo Cántico:</strong> La liberación resulta en un **nuevo cántico de alabanza** que muchos verán.</li>
+    <li><strong>Sacrificios:</strong> Dios **no quiere sacrificios de animales** ni ofrenda, sino **obediencia y hacer Su voluntad** (una crítica profética al ritualismo vacío).</li>
+    <li><strong>El Oído Abierto:</strong> Dios **abrió Sus oídos** (le dio discernimiento o lo preparó para la obediencia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios</h5>
+<ul>
+    <li><strong>Holocausto:</strong> El holocausto y la ofrenda por el pecado eran los rituales centrales del Templo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Voluntad de Dios:</strong> La **obediencia de corazón** es la ofrenda más alta que el hombre puede dar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe se centra en la **entrega de la voluntad**, no en el ritual externo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 40 es la <span class="highlight">declaración de la obediencia de Cristo</span>, quien vino al mundo para hacer la voluntad de Su Padre. La obediencia es el sacrificio más alto.</p>
                 
@@ -23552,7 +28640,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Traición de Amigo:</strong> La angustia de la traición íntima</li>
                     <li><strong>Petición de Sanidad:</strong> La necesidad de ser restaurado para pagar a los enemigos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Enfermedad y la Traición de Amigo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Justicia Social y el Pan</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (el fin del Libro I).</li>
+    <li><strong>El Pobre:</strong> La bendición es para aquel que **atiende al pobre** y al necesitado (justicia social).</li>
+    <li><strong>La Enfermedad:</strong> El salmista está enfermo, y sus enemigos desean su muerte (el juicio final).</li>
+    <li><strong>El Amigo:</strong> El mayor dolor es la **traición del amigo** en quien confió, que **"alzó contra mí el calcañar"** (una metáfora de la traición después de haber compartido una comida).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Hospitalidad</h5>
+<ul>
+    <li><strong>Comer Pan:</strong> Compartir pan era el **sello de la hospitalidad y la alianza**. Alzarse contra el huésped era la máxima traición.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Bendición Final:</strong> El salmo termina con una **doxología**, sellando el primer libro del Salterio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es la única constante ante la deslealtad humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 41 es una profecía de la <span class="highlight">traición a Cristo</span>. El cierre del Libro I se logra con la confianza de David en la liberación final.</p>
                 
@@ -23578,7 +28688,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Distancia:</strong> Estar lejos del lugar de adoración</li>
                     <li><strong>Esperanza:</strong> La exhortación a la propia alma a confiar en Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento y la Sed del Exiliado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y la Memoria</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (el inicio del Libro II).</li>
+    <li><strong>El Ciervo:</strong> El alma del salmista **anhela a Dios** como el **ciervo brama por las corrientes de agua** (una metáfora de la sed en el desierto).</li>
+    <li><strong>El Oprobio:</strong> Los enemigos se burlan: **"¿Dónde está tu Dios?"** (el ataque teológico).</li>
+    <li><strong>El Recuerdo:</strong> El salmista se acuerda del **peregrinaje** a la casa de Dios con **"voces de alegría"** (el luto por la pérdida del Templo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Peregrinaje</h5>
+<ul>
+    <li><strong>Peregrinaje:</strong> El viaje anual a Jerusalén para las fiestas era un **deber religioso** de alegría.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Esperanza:</strong> El salmista se auto-exhorta a **"esperar en Dios"**, la única solución a su desesperación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El alma debe encontrar su refugio en **Dios**, no en la geografía o el ritual.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 42 es un modelo del <span class="highlight">anhelo espiritual</span>. La verdadera angustia es la ausencia de Dios, no la circunstancia externa.</p>
                 
@@ -23604,7 +28736,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Retorno al Culto:</strong> El deseo de adorar en el Templo</li>
                     <li><strong>Vindicación:</strong> Pedir que Dios lo defienda de la gente injusta</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Apelación y la Luz del Santuario</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio y la Guía</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (una continuación del Salmo 42).</li>
+    <li><strong>La Luz y la Verdad:</strong> El salmista pide que Dios envíe Su **"luz y Su verdad"** para guiarlo al **Monte Santo**.</li>
+    <li><strong>El Templo:</strong> El salmista desea ir al **altar de Dios** (el lugar de la reconciliación y la alegría).</li>
+    <li><strong>La Nación:</strong> Se pide ser liberado de una **"gente impía"** (una referencia a los enemigos de Israel).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Mofa</h5>
+<ul>
+    <li><strong>Tristeza:</strong> El salmista se pregunta: **"¿Por qué te abates, alma mía?"** (el diálogo interno de la fe).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Altar:</strong> El **altar de Dios** es la fuente de la mayor alegría y el final de la aflicción.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **alabanza con el arpa** es el resultado de la liberación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">luz y la verdad de Dios</span> son los agentes de la liberación y la guía. La fe del salmista se centra en la restauración de la comunión con Dios.</p>
                 
@@ -23630,7 +28784,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Derrota y Vergüenza:</strong> El sufrimiento inmerecido de la nación</li>
                     <li><strong>Integridad Nacional:</strong> El pueblo afirma que no ha olvidado a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento Comunal por la Derrota Nacional</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto y el Recuerdo</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal** (por la derrota y la vergüenza de la nación).</li>
+    <li><strong>El Recuerdo:</strong> El pueblo recuerda las **grandes hazañas de Dios** en el pasado (la conquista de Canaán) a través de los padres.</li>
+    <li><strong>No por Espada:</strong> Se afirma que la victoria pasada no fue por la **espada ni el brazo** del pueblo, sino por la **fuerza de Dios**.</li>
+    <li><strong>La Vergüenza:</strong> El pueblo es objeto de **burla y escarnio** entre las naciones.</li>
+    <li><strong>El Pacto Roto:</strong> El salmista jura que **no se han olvidado del pacto**, a pesar del juicio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Humillación</h5>
+<ul>
+    <li><strong>Comida:</strong> El pueblo es como **ovejas de matadero** y esparcido entre las naciones (el juicio del exilio).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dilema Teológico:</strong> El pueblo pide a Dios que despierte y **no se olvide** de su aflicción, a pesar de su fidelidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe en el pacto se **mantiene** incluso cuando Dios parece haberlo roto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 44 es una <span class="highlight">confesión de fe en la justicia de Dios</span>. La nación se siente justificada, y el juicio actual es un misterio que desafía la teología del pacto.</p>
                 
@@ -23656,7 +28833,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Eternidad del Trono:</strong> El cetro de Su reino es cetro de justicia</li>
                     <li><strong>Majestad:</strong> La gloria y el dominio del Rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Real, Boda y Profecía Mesiánica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Matrimonio Real y la Unción</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Real/Boda** (para el matrimonio de un rey).</li>
+    <li><strong>El Rey:</strong> El rey es **"más hermoso que los hijos de los hombres"** y está ungido con el **"óleo de alegría"**.</li>
+    <li><strong>La Espada y la Caballería:</strong> El rey debe cabalgar por la **verdad, la mansedumbre y la justicia**.</li>
+    <li><strong>La Reina:</strong> La reina se presenta en **oro de Ofir** y **vestidos bordados** de la realeza.</li>
+    <li><strong>El Linaje:</strong> Los hijos del rey serán príncipes en toda la Tierra (la promesa de una **descendencia eterna**).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>El Marfil:</strong> La música es deleitosa en los **palacios de marfil** (un material de lujo).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Eternidad:</strong> El **trono de Dios** es el trono del rey para siempre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **boda terrenal** del rey se convierte en un símbolo del pacto eterno de Dios con Su pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 45 profetiza la <span class="highlight">unión de Cristo con Su Iglesia</span> (la Esposa) y la justicia de Su reinado. El Rey es glorioso en Su justicia y Su poder.</p>
                 
@@ -23682,7 +28882,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Río de Vida:</strong> La bendición de Dios sobre Su ciudad</li>
                     <li><strong>Estad Quietos:</strong> La confianza que vence el miedo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Confianza, Sión y el Caos Cósmico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Refugio Urbano y la Guerra</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Confianza** (celebración de Dios como refugio de Su pueblo).</li>
+    <li><strong>El Refugio:</strong> Dios es nuestro **amparo y fortaleza**, nuestro pronto auxilio en las tribulaciones.</li>
+    <li><strong>Caos Natural:</strong> La confianza se mantiene incluso si la **tierra tiembla** y los **montes se caen al mar** (el caos cósmico).</li>
+    <li><strong>El Río:</strong> Hay un **río** (símbolo de vida) cuyas corrientes alegran la **Ciudad de Dios** (Jerusalén).</li>
+    <li><strong>El Juicio:</strong> Dios **"quebranta el arco, corta la lanza, y quema los carros en el fuego"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Carros:</strong> La destrucción de la tecnología militar (carros y lanzas) es el signo del fin de la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Quieta Seguridad:</strong> La orden final es **"Estad quietos, y conoced que yo soy Dios"** (la paz en la soberanía divina).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **paz interior** es el resultado de la confianza en medio del caos externo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios</span> es la base de la seguridad. El verdadero refugio no es la fortaleza física, sino la presencia de Dios en la ciudad santa.</p>
                 
@@ -23708,7 +28931,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dominio Global:</strong> Dios es Rey sobre todas las naciones</li>
                     <li><strong>Poder de las Naciones:</strong> Los príncipes se reúnen como pueblo de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Coronación Global</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Aclamación y la Ascensión</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Real** (celebración de YHWH como Rey de toda la Tierra).</li>
+    <li><strong>La Aclamación:</strong> Se exhorta a los pueblos a **batir las manos** y **cantar con voz de júbilo** (aclamación pública).</li>
+    <li><strong>La Ascensión:</strong> Dios **"subió"** con júbilo, una posible referencia a la **ascensión del Arca** al Templo o a la coronación.</li>
+    <li><strong>La Herencia:</strong> Dios eligió la **heredad de Jacob** (Israel) como Su orgullo.</li>
+    <li><strong>Los Príncipes:</strong> Los **príncipes de los pueblos** se reúnen para someterse al Dios de Abraham.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Conquista</h5>
+<ul>
+    <li><strong>Soberanía:</strong> Dios es el **Gran Rey** sobre toda la Tierra, el Vencedor de las naciones.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Reino Global:</strong> El salmo proclama que el **reinado de Dios** no se limita a Israel, sino a todo el mundo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La fe celebra el **triunfo de Dios** sobre todas las potestades.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 47 profetiza la <span class="highlight">soberanía universal de Dios</span> y la sujeción final de todas las naciones a Su reino.</p>
                 
@@ -23734,7 +28980,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Terror a los Reyes:</strong> Los enemigos se aterrorizan por la presencia de Dios</li>
                     <li><strong>Guía Continua:</strong> Dios guiará a Su pueblo para siempre</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Sión, la Ciudad de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Peregrinación y el Monte Santo</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Sión** (celebración de Jerusalén como la Ciudad de Dios).</li>
+    <li><strong>El Monte Santo:</strong> El monte Sión es el **"monte de Su santidad"** y la **"alegría de toda la Tierra"**.</li>
+    <li><strong>Los Reyes:</strong> Los **reyes de la Tierra** se reunieron para atacar Sión, pero fueron destruidos por el terror.</li>
+    <li><strong>Las Torres:</strong> Se pide a los adoradores que **anden alrededor de Sión** y **cuenten sus torres** (inspección de la seguridad).</li>
+    <li><strong>El Propósito:</strong> La estabilidad de la ciudad es para que las **generaciones futuras** lo cuenten.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Batalla Naval</h5>
+<ul>
+    <li><strong>Naves de Tarsis:</strong> El salmista menciona la destrucción de las **naves de Tarsis** por el viento del Este (símbolo del juicio).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Estabilidad:</strong> La **Ciudad de Dios** es el único lugar estable en un mundo de guerra e inestabilidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** se manifiesta en la protección de Su ciudad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Sion es el <span class="highlight">símbolo de la presencia y la protección de Dios</span> para Su pueblo. El verdadero refugio no es la muralla, sino Dios mismo en medio de la ciudad.</p>
                 
@@ -23760,7 +29029,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mortalidad:</strong> Ricos y pobres mueren de la misma manera</li>
                     <li><strong>Redención de la Tumba:</strong> Dios redimirá el alma del justo del Seol</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Sapiencial, la Muerte y la Riqueza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adquisición y la Vanidad</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial** (reflexión sobre la muerte y la inutilidad de la riqueza).</li>
+    <li><strong>El Acertijo:</strong> El salmista propone un **"proverbio"** y un **"acertijo"** (una enseñanza).</li>
+    <li><strong>El Rescate:</strong> El hombre no puede **rescatar** a su hermano de la muerte, ni pagar a Dios un **rescate** por su vida.</li>
+    <li><strong>El Seol y el Descanso:</strong> Los ricos mueren, y el **Seol** los pastorea.</li>
+    <li><strong>El Despertar:</strong> El salmista tiene esperanza en la **redención del alma** del poder del Seol.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Honra</h5>
+<ul>
+    <li><strong>Tumbas:</strong> Los ricos ponen sus **nombres a sus tierras** para que su memoria perdure.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Visión Trascendente:</strong> El hombre, aunque esté en honor, no entiende y es como las **bestias que perecen**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera herencia** no es la riqueza, sino la redención del alma.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 49 es una <span class="highlight">advertencia contra la confianza en el dinero</span>. El poder de la riqueza termina en la tumba; solo la redención de Dios es eterna.</p>
                 
@@ -23786,7 +29078,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Adoración Falsa:</strong> Cumplir el rito sin obediencia a la Ley</li>
                     <li><strong>Verdadero Sacrificio:</strong> La acción de gracias y el cumplimiento de los votos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Teofanía, Culto y el Verdadero Sacrificio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juicio y el Altar</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Profético/Cultual** (una escena de juicio en la asamblea).</li>
+    <li><strong>La Venida de Dios:</strong> Dios viene **"desde Sión"** (el Templo) con **fuego consumidor y gran tempestad**.</li>
+    <li><strong>El Pacto:</strong> Dios convoca a **"Sus santos"** (los que hicieron pacto con Él con sacrificio).</li>
+    <li><strong>El Sacrificio Nulo:</strong> Dios declara que **no necesita sacrificios** de animales, pues **"mío es todo animal"**.</li>
+    <li><strong>El Verdadero Culto:</strong> El verdadero sacrificio es el de **acción de gracias** y el **cumplimiento de los votos**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Crítica Profética</h5>
+<ul>
+    <li><strong>Ritualismo:</strong> El salmo critica a los que creen que el **ritual externo** es suficiente sin obediencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Honra de Dios:</strong> El que ofrece **acción de gracias** glorifica a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vida justa** y la **gratitud** son el culto que Dios demanda.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">adoración debe ir acompañada de la ética</span>. La hipocresía es condenada, ya que el sacrificio de Dios es un corazón arrepentido.</p>
                 
@@ -23812,7 +29127,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corazón Limpio:</strong> La necesidad de una purificación interna (regeneración)</li>
                     <li><strong>Verdadero Sacrificio:</strong> El espíritu contrito es más valioso que los holocaustos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Penitencial, David y el Corazón Puro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Confesión y el Perdón</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Penitencial** (el cuarto penitencial, atribuido a David después de su pecado con Betsabé).</li>
+    <li><strong>Lavamiento:</strong> El salmista pide ser **lavado** y **limpiado** de su pecado con **hisopo** (rama usada en rituales de purificación).</li>
+    <li><strong>El Espíritu Santo:</strong> El salmista pide que Dios **no le quite Su Espíritu Santo** (el temor a la pérdida de la presencia divina).</li>
+    <li><strong>El Sacrificio Aceptable:</strong> El verdadero sacrificio es un **"espíritu quebrantado"** y un **"corazón contrito y humillado"**.</li>
+    <li><strong>Pureza Radical:</strong> El salmista pide un **"corazón limpio"** y un **"espíritu recto"** (la creación de una nueva naturaleza).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Hisopo</h5>
+<ul>
+    <li><strong>Hisopo:</strong> Se usaba para rociar agua o sangre en rituales de purificación (Levítico 14).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Nacimiento:</strong> El salmista se reconoce **pecador desde el nacimiento** (una visión profunda de la depravación).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Templo y los sacrificios son secundarios a la **pureza interior** del alma.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 51 es el modelo de <span class="highlight">arrepentimiento genuino</span>. El reconocimiento de que el pecado es fundamentalmente contra Dios y la necesidad de una transformación interior (nuevo espíritu).</p>
                 
@@ -23838,7 +29176,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Retributivo:</strong> Dios destruirá al opresor por su engaño</li>
                     <li><strong>Confianza:</strong> La seguridad del justo en la misericordia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Imprecatorio, la Lengua y el Olivo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Engaño y la Confianza</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Imprecatorio** (contra Doeg el Edomita).</li>
+    <li><strong>La Lengua:</strong> El impío confía en su **maldad** y su **lengua** (el engaño y la calumnia).</li>
+    <li><strong>El Árbol:</strong> El impío será **arrancado de la tienda** y **desarraigado de la tierra de los vivientes**.</li>
+    <li><strong>El Olivo:</strong> El justo es como un **olivo verde** en la casa de Dios (símbolo de **vitalidad, prosperidad y permanencia**).</li>
+    <li><strong>El Ruido:</strong> El impío ama toda **"palabra destructora"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Agricultura</h5>
+<ul>
+    <li><strong>Olivo:</strong> El olivo era la base de la economía y la estabilidad a largo plazo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Permanencia:</strong> La **fidelidad de Dios** es la única fuente de permanencia y vida.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **bondad de Dios** es la base de la esperanza del justo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">integridad del lenguaje</span> es esencial para la piedad. Dios juzgará el engaño. El justo confía en la misericordia de Dios para siempre.</p>
                 
@@ -23864,7 +29225,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corrupción Ética:</strong> La injusticia social y la falta de moralidad</li>
                     <li><strong>Salvación:</strong> El anhelo por el retorno de la bendición de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Sapiencial, la Necedad y el Olvido</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Negación de Dios y la Observación</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial** (similar al Salmo 14, con pequeñas variantes).</li>
+    <li><strong>El Necio:</strong> La **necedad** es la negación práctica de Dios.</li>
+    <li><strong>La Observación:</strong> Dios **mira desde el cielo** para ver la moralidad humana.</li>
+    <li><strong>La Corrupción:</strong> La **corrupción humana es total** y no hay quien haga el bien.</li>
+    <li><strong>El Terror:</strong> Los impíos serán objeto de un **gran terror** de un momento a otro.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Opresión</h5>
+<ul>
+    <li><strong>Devorar:</strong> Los impíos **devoran al pueblo de Dios** (opresión económica).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Redención:</strong> El salmista anhela la **salvación de Israel desde Sión** (la restauración final).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera alegría** vendrá solo con la redención de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">negación de Dios lleva a la depravación</span>. La fe se mantiene en la esperanza de la intervención redentora final de Dios.</p>
                 
@@ -23890,7 +29274,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza en el Nombre:</strong> La salvación se basa en el poder del nombre de Dios</li>
                     <li><strong>Ofrenda Voluntaria:</strong> La promesa de dar gracias por la liberación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Juicio y el Nombre de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juez y la Súplica</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (David cuando los de Zif lo entregaron a Saúl).</li>
+    <li><strong>El Nombre:</strong> El salmista pide ser salvado y juzgado **"por Tu nombre"** (el carácter y el honor de Dios).</li>
+    <li><strong>El Ofrecimiento:</strong> El salmista promete un **sacrificio de ofrenda voluntaria** (un voto).</li>
+    <li><strong>Los Extranjeros:</strong> Los enemigos son descritos como **"extraños"** y **"violentos"** (gente sin alianza ni ley).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Traición</h5>
+<ul>
+    <li><strong>Entrega:</strong> La traición de la gente de Zif era un acto de **deslealtad tribal**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Testimonio:</strong> La **gratitud** por la liberación es el testimonio público de la fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia** se invoca en el nombre de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe se convierte en acción de gracias anticipada</span>. El creyente invoca el Nombre de Dios como el único poder que puede derrotar a sus enemigos.</p>
                 
@@ -23916,7 +29322,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hipocresía Urbana:</strong> La maldad en la ciudad de Dios</li>
                     <li><strong>Entrega de la Carga:</strong> Exhortación a echar la carga sobre Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Traición de Amigo y el Vuelo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Traición y la Desesperación</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (la traición de Ahitofel o Absalón).</li>
+    <li><strong>La Carga:</strong> El salmista pide poder **volar como una paloma** para huir y encontrar descanso en el desierto.</li>
+    <li><strong>El Amigo:</strong> El traidor es un **"hombre, mi igual, mi guía, y mi familiar"** (la máxima intimidad).</li>
+    <li><strong>Compartir la Mesa:</strong> El amigo fue el que **"juntos consultábamos dulcemente"** y **"andábamos en la casa de Dios en multitud"**.</li>
+    <li><strong>La Venganza:</strong> El salmista pide que la muerte caiga sobre sus enemigos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Vuelo</h5>
+<ul>
+    <li><strong>Escape:</strong> El deseo de huir del dolor social era común en el Cercano Oriente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Desahogo:</strong> El salmista encomienda su **carga** a Dios, creyendo que Él lo sustentará.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es la única cura para el corazón roto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 55 es una profecía del <span class="highlight">sufrimiento de Cristo por la traición de Judas</span>. El dolor de la traición es aliviado solo al entregar la carga a Dios.</p>
                 
@@ -23942,7 +29371,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Palabra de Dios:</strong> La Palabra es el objeto de la confianza</li>
                     <li><strong>Memoria:</strong> Pedir a Dios que recuerde el sufrimiento</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Confianza y la Botella de Lágrimas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Captura y la Oración</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (David cuando los filisteos lo apresaron en Gat).</li>
+    <li><strong>Miedo:</strong> La respuesta al miedo es la **confianza** en Dios.</li>
+    <li><strong>La Promesa:</strong> El salmista promete **alabar la Palabra de Dios** (un acto de fe).</li>
+    <li><strong>La Botella:</strong> Dios **"recoge mis lágrimas en Tu redoma"** o **botella** (un concepto de cuidado personal de Dios).</li>
+    <li><strong>El Voto:</strong> El salmista tiene **votos** que debe cumplir para Dios (sacrificios de acción de gracias).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Redoma</h5>
+<ul>
+    <li><strong>Redoma:</strong> La redoma se usaba para guardar perfumes o líquidos preciosos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Memoria:</strong> Dios **registra la aflicción** del salmista, lo que asegura Su intervención.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La vida es una **caminata en la luz de los vivientes** (la presencia de Dios).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 56 demuestra que la <span class="highlight">confianza en Dios desarma el miedo</span>. El creyente puede alabar a Dios antes de la liberación, porque Su palabra es segura.</p>
                 
@@ -23968,7 +29420,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misericordia:</strong> Pedir la ayuda y la bondad de Dios</li>
                     <li><strong>Gloria de Dios:</strong> La alabanza debe exaltar a Dios sobre todo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Confianza y la Sombra de las Alas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Refugio y la Gloria</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (David en la cueva, huyendo de Saúl).</li>
+    <li><strong>La Misericordia:</strong> El salmista pide misericordia **"a la sombra de Tus alas"** (una metáfora del Templo, donde el Arca estaba cubierta por los querubines).</li>
+    <li><strong>El León:</strong> Los enemigos son descritos como **leones** (símbolo de violencia y depredación).</li>
+    <li><strong>La Red:</strong> Los enemigos preparan una **red** para sus pasos, pero ellos caen en ella.</li>
+    <li><strong>La Gloria:</strong> El salmista alaba a Dios: **"Sea exaltado sobre los cielos Tu gloria"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Trampa</h5>
+<ul>
+    <li><strong>Red:</strong> La red y la fosa eran métodos de caza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Canto:</strong> El salmista se despierta para **cantar** y despertar al amanecer con música.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **protección divina** es más fuerte que cualquier trampa humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El refugio bajo las alas de Dios es una <span class="highlight">metáfora de la presencia protectora</span> de YHWH. La fe se refugia en Dios hasta que el juicio termina.</p>
                 
@@ -23994,7 +29469,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Venganza:</strong> La petición de un castigo severo contra los impíos</li>
                     <li><strong>Justicia de Dios:</strong> La certeza de que Dios es el juez final</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Imprecatorio contra Jueces Injustos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Tribunal y la Justicia Corrupta</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Imprecatorio** (contra los jueces injustos).</li>
+    <li><strong>La Corrupción:</strong> El salmista acusa a los jueces de juzgar con **maldad** e iniquidad.</li>
+    <li><strong>La Serpiente:</strong> Los impíos son comparados con una **serpiente sorda** que no escucha al encantador.</li>
+    <li><strong>El Juicio Físico:</strong> El salmista pide un juicio violento: que **sus dientes se rompan** y que se **derritan como agua**.</li>
+    <li><strong>El Caracol:</strong> El impío se consume como un **caracol que se derrite** y como un aborto que no ve el sol.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Encantador</h5>
+<ul>
+    <li><strong>Encantador:</strong> Los encantadores de serpientes eran comunes en la antigüedad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Vindicación:</strong> El justo **se alegrará** cuando vea el castigo, y el pueblo dirá: **"Ciertamente hay Dios que juzga en la Tierra"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ejecución del juicio** es esencial para restaurar la fe en la justicia de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">oración imprecatoria es un clamor por la justicia divina</span>. La esperanza de Israel es la certeza de que Dios es el juez supremo.</p>
                 
@@ -24020,7 +29518,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Burla:</strong> Los enemigos son comparados con perros que aúllan</li>
                     <li><strong>Fuerza y Refugio:</strong> Dios es la fortaleza y el refugio seguro</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Cerco y los Perros Callejeros</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Vigilancia y el Lamento Matutino</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (David cuando Saúl mandó a vigilar su casa).</li>
+    <li><strong>La Roca:</strong> Dios es la **"roca"** y el **"refugio"** de David.</li>
+    <li><strong>Los Perros:</strong> Los enemigos se comparan con **perros que rondan la ciudad** por la noche, gruñendo.</li>
+    <li><strong>La Burla:</strong> El salmista declara que Dios **se reirá** de las naciones (el escarnio divino).</li>
+    <li><strong>La Fuerza:</strong> El salmista cantará la **fuerza y la misericordia** de Dios **por la mañana**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Perros</h5>
+<ul>
+    <li><strong>Perros:</strong> Los perros callejeros eran animales inmundos y voraces, un símbolo de la escoria social.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Mañana:</strong> El **amanecer** trae la certeza de la liberación y la alabanza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia de Dios** es el único canto verdadero.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">oración es el arma más fuerte</span> contra el asedio. La fe se refugia en Dios, reconociendo que Él es la fuente de la fuerza.</p>
                 
@@ -24046,7 +29567,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Estandarte:</strong> La señal de la presencia de Dios en la batalla</li>
                     <li><strong>Súplica de Ayuda:</strong> Pedir que Dios dirija la acción militar</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento Nacional, Derrota Militar y la Sandalia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Conquista y la Oración</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Nacional** (después de una derrota militar).</li>
+    <li><strong>La Sandalia:</strong> Dios echa la **sandalia sobre Edom** (un acto de **reclamación de posesión** y sometimiento).</li>
+    <li><strong>La Rota:</strong> El pueblo se queja de que Dios los ha **"roto"** y los ha hecho beber **"vino de aturdimiento"**.</li>
+    <li><strong>La Bandera:</strong> Dios ha dado una **bandera** a los que le temen para ser alzada.</li>
+    <li><strong>El Clamor:</strong> El clamor es que Dios los guíe a la **"ciudad fortificada"** (el lugar de la victoria).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Sandalia:</strong> Poner el pie o la sandalia sobre la tierra o la cabeza del enemigo era un signo de **dominio total**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Dios Ausente:</strong> El pueblo reconoce que la derrota se debe al **retiro de Dios** de su ejército.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **victoria** solo es posible si Dios está al frente del ejército.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 60 demuestra que <span class="highlight">la derrota es un signo de la ira de Dios</span>, pero la fe apela a Su misericordia y a Su estandarte (Su promesa) para la victoria.</p>
                 
@@ -24072,7 +29616,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Días del Rey:</strong> La oración por la longevidad del ungido</li>
                     <li><strong>Misericordia y Verdad:</strong> Las cualidades de Dios que guardan al rey</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, el Fin de la Tierra y el Rey</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y la Promesa Real</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual/Real** (probablemente desde el exilio o el destierro).</li>
+    <li><strong>El Fin de la Tierra:</strong> El salmista clama a Dios **"desde el cabo de la tierra"** (el lugar más lejano o el exilio).</li>
+    <li><strong>La Roca Más Alta:</strong> El salmista pide ser llevado a la **"roca que es más alta que yo"** (un lugar inalcanzable de refugio).</li>
+    <li><strong>El Rey:</strong> El salmista ora por la **larga vida del rey** y su permanencia.</li>
+    <li><strong>La Misericordia:</strong> El rey morará **"para siempre"** en la presencia de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>El Pabellón:</strong> El salmista desea morar en el **pabellón de Dios** para siempre.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Voto Cumplido:</strong> La **alabanza continua** es la forma de cumplir los votos diarios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad a Dios** es la única garantía de un reinado duradero.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El anhelo de la <span class="highlight">Roca más alta</span> es el deseo de la inmutabilidad de Dios. La fe se refugia en la constancia de Su carácter.</p>
                 
@@ -24098,7 +29665,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza Invertida:</strong> No confiar en el poder o la riqueza humana</li>
                     <li><strong>Poder y Misericordia:</strong> La combinación del carácter de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Confianza, Silencio y la Balanza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Silencio y el Reposo</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo de Confianza Individual** (un diálogo interno).</li>
+    <li><strong>Silencio:</strong> El alma del salmista **"en Dios solamente espera en silencio"** (el reposo y la sumisión).</li>
+    <li><strong>La Muralla:</strong> Los enemigos planean **derribar** al justo como una muralla que se cae.</li>
+    <li><strong>El Dinero:</strong> La **riqueza acumulada** no debe ser el centro del corazón.</li>
+    <li><strong>La Balanza:</strong> El hombre es **ligero en la balanza** (sin peso), incluso en su mejor momento, es solo **"vanidad"** (*hevel*).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Balanza</h5>
+<ul>
+    <li><strong>Balanza:</strong> Se utilizaba para pesar el oro y la plata.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Poder y Misericordia:</strong> El salmista afirma que **"el poder es de Dios, y Tuya, oh YHWH, es la misericordia"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **riqueza de la fe** es la única que tiene peso real.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 62 enseña que la <span class="highlight">verdadera paz y reposo del alma</span> solo se encuentran en la total dependencia de Dios. La riqueza y el poder son vanidad.</p>
                 
@@ -24124,7 +29714,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mejor que la Vida:</strong> La misericordia de Dios es el bien supremo</li>
                     <li><strong>Apego:</strong> La fe se aferra a Dios en el desierto</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Deseo de Dios en el Desierto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Desierto y el Santuario</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento y Deseo** (David en el desierto de Judá).</li>
+    <li><strong>La Sed:</strong> El alma tiene **sed** de Dios como la **tierra árida y seca** (la experiencia en el desierto).</li>
+    <li><strong>El Santuario:</strong> El salmista anhela **ver la gloria** y el poder de Dios en el **Santuario**.</li>
+    <li><strong>El Amanecer:</strong> El salmista **madruga** para buscar a Dios.</li>
+    <li><strong>La Sombra:</strong> El alma se **sacia** como con manjares, y la **mano derecha** de Dios lo sustenta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Espada</h5>
+<ul>
+    <li><strong>El Zorro:</strong> Los enemigos serán entregados a la **espada** y serán **"porción para los zorros"** (animales inmundos que devoran la carroña).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Mayor Bien:</strong> La **presencia de Dios** es el mayor bien y deleite, más que el alimento.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **gozo espiritual** es la verdadera saciedad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 63 es la <span class="highlight">expresión más alta del anhelo</span>. La comunión con Dios es más vital que cualquier necesidad física. La fe busca a Dios fervientemente.</p>
                 
@@ -24150,7 +29763,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lengua Afilada:</strong> La maldad de las palabras dañinas</li>
                     <li><strong>Retribución:</strong> Los conspiradores caerán por su propia lengua</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento y la Flecha Secreta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Conspiración y la Calumnia</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (la oración de un hombre bajo conspiración).</li>
+    <li><strong>El Escudo:</strong> El salmista pide ser escondido de la **conspiración secreta** de los malvados.</li>
+    <li><strong>La Flecha:</strong> Los enemigos **afilan su lengua** y **tiran la flecha** (la palabra de calumnia) desde lo secreto.</li>
+    <li><strong>El Plan Secreto:</strong> Los malvados **"escudriñan iniquidades"** y esconden trampas.</li>
+    <li><strong>El Juicio Inesperado:</strong> Dios les disparará una **flecha inesperada** y su **lengua** los hará caer.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Flecha</h5>
+<ul>
+    <li><strong>Flecha:</strong> La flecha era un símbolo de ataque rápido e inesperado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Gloria:</strong> El juicio es para que **"teman"** y **"anuncien la obra de Dios"** (la vindicación pública).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia de Dios** se revela en la caída de los conspiradores.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 64 es la <span class="highlight">confianza en el juicio justo de Dios</span> contra el daño invisible. Dios frustra los complots secretos del enemigo.</p>
                 
@@ -24176,7 +29812,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder sobre la Naturaleza:</strong> Dios calma las olas y viste los valles</li>
                     <li><strong>Fertilidad:</strong> La bendición de la cosecha y la provisión</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de la Cosecha y el Perdón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Voto y la Peregrinación</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Acción de Gracias Comunal** (por la lluvia y la cosecha).</li>
+    <li><strong>Sión y el Voto:</strong> La alabanza debe esperar en **Sión**, y los **votos** deben ser pagados.</li>
+    <li><strong>El Perdón:</strong> La iniquidad es la barrera, y Dios es el que **"perdona nuestras rebeliones"**.</li>
+    <li><strong>El Mar y los Montes:</strong> Dios calma el **estruendo de los mares** y **afirma los montes** con Su poder.</li>
+    <li><strong>La Cosecha:</strong> Dios **riega los surcos** y **bendice sus frutos** (la providencia agrícola).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Agricultura</h5>
+<ul>
+    <li><strong>Cosecha:</strong> La cosecha era la **prueba visible** de la bendición de Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Alegría:</strong> Los **campos y los valles** se visten de **alegría** y cantan.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **bondad de Dios** se manifiesta en el ciclo natural.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 65 une el <span class="highlight">perdón espiritual y la provisión material</span>. La bendición de la naturaleza es un reflejo de la misericordia de Dios hacia un pueblo perdonado.</p>
                 
@@ -24202,7 +29861,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prueba y Redención:</strong> Israel es probado, pero liberado</li>
                     <li><strong>Testimonio Personal:</strong> La respuesta de Dios a la oración individual</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Acción de Gracias Comunal y la Prueba</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Testimonio y el Sacrificio</h5>
+<ul>
+    <li><strong>Género:</strong> **Acción de Gracias Comunal** (después de la liberación de una gran prueba).</li>
+    <li><strong>El Clamor:</strong> Se exhorta a toda la Tierra a **aclamar a Dios** con cánticos.</li>
+    <li><strong>El Mar:</strong> Dios **convirtió el mar en tierra seca** y los hizo pasar por el río a pie (el Éxodo).</li>
+    <li><strong>La Prueba:</strong> Dios **probó a Su pueblo** pasándolo por el **fuego y el agua** (el crisol de la aflicción).</li>
+    <li><strong>El Sacrificio de Toros:</strong> El salmista promete **holocaustos de toros, cabritos y ofrendas**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Metalurgia</h5>
+<ul>
+    <li><strong>Fuego:</strong> El pueblo fue probado como **se prueba la plata** en el fuego.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Propósito de la Prueba:</strong> La prueba es para **purificar** y llevar al pueblo a un lugar de **abundancia**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad en la prueba** es la base para la alabanza pública.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 66 es la <span class="highlight">celebración del poder de Dios</span> en la historia y la vida personal. El fuego y el agua son instrumentos de prueba y purificación.</p>
                 
@@ -24228,7 +29910,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Propósito Misionero:</strong> Que todas las naciones conozcan a YHWH</li>
                     <li><strong>Gozo Universal:</strong> La alegría de los pueblos al ser gobernados por Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Liturgia de Bendición Sacerdotal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Oráculo y la Cosecha</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Litúrgico** (una adaptación de la bendición sacerdotal).</li>
+    <li><strong>La Bendición:</strong> El salmo invoca la **bendición sacerdotal** de Números 6: **"Dios tenga misericordia de nosotros y nos bendiga; haga resplandecer Su rostro sobre nosotros"**.</li>
+    <li><strong>El Camino:</strong> La bendición es para que el **"camino de Dios sea conocido en la Tierra"** (la misión de Israel).</li>
+    <li><strong>La Cosecha:</strong> La **Tierra da su fruto** como resultado de la bendición de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Alabanza Universal</h5>
+<ul>
+    <li><strong>Pueblos:</strong> La exhortación a que **"todos los pueblos"** alaben a Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Propósito Misionero:</strong> La **bendición de Israel** es el medio para la salvación de las naciones.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **luz del rostro de Dios** trae bendición física y espiritual.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 67 es la <span class="highlight">visión misionera del Antiguo Testamento</span>. La bendición de Dios es para ser compartida con el mundo, no solo con Israel.</p>
                 
@@ -24254,7 +29958,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ascensión:</strong> Dios sube a las alturas y lleva cautiva la cautividad</li>
                     <li><strong>Dios de Israel:</strong> El Señor da fuerza y poder a Su pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Arca del Pacto y la Conquista</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Culto Procesional y la Guerra</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Victoria/Procesional** (la procesión del Arca del Pacto).</li>
+    <li><strong>La Partida:</strong> El salmo comienza con el grito: **"Levántese Dios, sean esparcidos Sus enemigos"** (una cita de Números 10:35, cuando el Arca se movía).</li>
+    <li><strong>El Desierto:</strong> Dios cabalgó sobre los cielos **"en el desierto"** (la marcha del Sinaí).</li>
+    <li><strong>El Botín:</strong> Dios **subió a lo alto, llevando cautiva la cautividad** y **tomando dones para los hombres** (un acto de victoria).</li>
+    <li><strong>Sión:</strong> Dios eligió el **Monte Sión** como Su habitación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Carros:</strong> Los **carros de Dios** son veintenas de millares, más que todos los carros del mundo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Protección:</strong> Dios es el **padre de huérfanos** y el **defensor de viudas**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Dios de la guerra** es también el **Dios de la justicia social**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 68 es una <span class="highlight">celebración de la presencia activa de Dios</span> en la historia. La ascensión profetiza la victoria de Cristo sobre la muerte y Su entronización.</p>
                 
@@ -24280,7 +30007,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sufrimiento Vicario:</strong> Soportar el escarnio por causa de Dios</li>
                     <li><strong>Imprecación:</strong> La petición de juicio sobre el opresor</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Reproche y la Cólera</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Lamento Profético y la Humillación</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Profético/Mesiánico** (uno de los más citados en el NT).</li>
+    <li><strong>Las Aguas:</strong> El salmista se está **hundiendo en aguas profundas** y el **torrente** lo ha anegado (símbolo de la muerte inminente).</li>
+    <li><strong>El Reproche:</strong> El **celo de la casa de Dios** lo consume y el **oprobio de los enemigos** cae sobre él.</li>
+    <li><strong>El Alimento:</strong> Los enemigos le dan **hiel por comida** y **vinagre para beber** (humillación y tortura).</li>
+    <li><strong>La Mesa:</strong> La **mesa** de los enemigos se convertirá en una **trampa**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Humillación</h5>
+<ul>
+    <li><strong>Hiel y Vinagre:</strong> Dar hiel y vinagre era un acto de extrema burla y desprecio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Sacrificio de Alabanza:</strong> La **alabanza y la acción de gracias** son mejores que el sacrificio de animales.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **aflicción inmerecida** es el preludio de la restauración y la alabanza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 69 es una <span class="highlight">profecía del sufrimiento del Mesías</span>, que soporta la vergüenza y el odio por amor a la casa de Dios.</p>
                 
@@ -24306,7 +30056,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vergüenza del Enemigo:</strong> El juicio contra los que buscan su vida</li>
                     <li><strong>Pobreza:</strong> David se declara pobre y necesitado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento y la Prisa Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Petición y la Vergüenza</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual/Súplica** (casi idéntico a Salmos 40:13-17).</li>
+    <li><strong>La Prisa:</strong> La súplica es urgente: **"Oh Dios, acude a librarme; apresúrate, oh YHWH, a socorrerme"**.</li>
+    <li><strong>La Vergüenza:</strong> El salmista pide que sus enemigos sean **avergonzados y confundidos** (el juicio público).</li>
+    <li><strong>El Gozo:</strong> Los justos se **alegrarán** en Dios.</li>
+    <li><strong>El Pobre:</strong> El salmista se reconoce **pobre y necesitado** (el enfoque en la necesidad, no en el pecado).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Mofa</h5>
+<ul>
+    <li><strong>El Desprecio:</strong> El enemigo se burla, diciendo: **"¡Ea, ea!"** (una expresión de escarnio).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Urgencia:</strong> El clamor por la **intervención inmediata** de Dios es la única esperanza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la clave para recibir la ayuda divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 70 demuestra que la <span class="highlight">oración es el primer recurso</span> en el peligro. El creyente debe buscar el auxilio de Dios sin demora.</p>
                 
@@ -24332,7 +30105,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Testimonio:</strong> El deber de contar las obras de Dios a los jóvenes</li>
                     <li><strong>Esperanza Continua:</strong> La confianza se mantiene hasta la muerte</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento y la Prisa Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Petición y la Vergüenza</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual/Súplica** (casi idéntico a Salmos 40:13-17).</li>
+    <li><strong>La Prisa:</strong> La súplica es urgente: **"Oh Dios, acude a librarme; apresúrate, oh YHWH, a socorrerme"**.</li>
+    <li><strong>La Vergüenza:</strong> El salmista pide que sus enemigos sean **avergonzados y confundidos** (el juicio público).</li>
+    <li><strong>El Gozo:</strong> Los justos se **alegrarán** en Dios.</li>
+    <li><strong>El Pobre:</strong> El salmista se reconoce **pobre y necesitado** (el enfoque en la necesidad, no en el pecado).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Mofa</h5>
+<ul>
+    <li><strong>El Desprecio:</strong> El enemigo se burla, diciendo: **"¡Ea, ea!"** (una expresión de escarnio).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Urgencia:</strong> El clamor por la **intervención inmediata** de Dios es la única esperanza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la clave para recibir la ayuda divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 71 enseña que la <span class="highlight">fidelidad de Dios abarca toda la vida</span>, desde el nacimiento hasta la vejez. El propósito de la longevidad es el testimonio.</p>
                 
@@ -24358,7 +30154,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dominio Universal:</strong> El reinado de paz y gloria sobre todas las naciones</li>
                     <li><strong>Longitud del Reino:</strong> El rey reinará mientras duren el sol y la luna</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Real/Mesiánico y la Justicia del Rey</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Coronación y la Ética</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Real/Mesiánico** (posiblemente utilizado para la coronación de un rey, quizás Salomón).</li>
+    <li><strong>La Justicia:</strong> La principal oración es que el rey juzgue a los **pobres, al huérfano y al necesitado** con justicia (la ética real).</li>
+    <li><strong>Dominio Global:</strong> El reino del rey se extiende **"de mar a mar"** y hasta los **"confines de la Tierra"**.</li>
+    <li><strong>La Lluvia:</strong> La justicia del rey es comparada con la **lluvia** que riega la tierra (símbolo de prosperidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>Tributo:</strong> El rey recibe **tributo y regalos** (oro de Sabá) de las naciones.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Paz Duradera:</strong> El resultado del reinado justo es la **paz** que dura mientras dure la luna.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Este salmo, que cierra el Libro II del Salterio, establece la **justicia** como el fundamento del trono davídico.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 72 es la <span class="highlight">visión del reino mesiánico</span>. La justicia es la característica principal del gobierno de Dios. La prosperidad es un reflejo de la rectitud del rey.</p>
                 
@@ -24384,7 +30202,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santuario:</strong> El lugar donde se resuelve el misterio</li>
                     <li><strong>Porción Eterna:</strong> Dios es la herencia del justo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Sapiencial y la Prosperidad del Impío</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Fe Puesta a Prueba</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial** (parte del coleccion de Asaf).</li>
+    <li><strong>La Prueba:</strong> El salmista confiesa que casi **pierde su fe** al ver la **prosperidad, la salud y la arrogancia** de los impíos.</li>
+    <li><strong>La Injusticia:</strong> Los impíos se jactan, oprimien y **"hablan con insolencia"** (niegan el juicio de Dios).</li>
+    <li><strong>El Santuario:</strong> El dilema se resuelve cuando el salmista **entra en el santuario** de Dios.</li>
+    <li><strong>El Fin:</strong> El final de los impíos es la **destrucción repentina** (como un sueño al despertar).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza</h5>
+<ul>
+    <li><strong>Vanidad:</strong> Los impíos se visten de **orgullo** y se rodean de **violencia**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Buen Final:</strong> La cercanía a Dios (Su presencia) es el **mayor bien** y la única seguridad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La verdadera realidad se revela en la **perspectiva de la eternidad**, no en la vida terrenal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">perspectiva eterna resuelve el misterio de la injusticia</span>. El sufrimiento es temporal, y la comunión con Dios es la verdadera riqueza.</p>
                 
@@ -24410,7 +30251,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ausencia de Profecía:</strong> El silencio de Dios y la falta de dirección</li>
                     <li><strong>Creación y Guerra:</strong> Dios es el guerrero que domina el caos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento Comunal por el Templo Destruido</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y el Silencio de Dios</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal** (probablemente durante la destrucción del Templo por Nabucodonosor).</li>
+    <li><strong>La Ruina:</strong> El pueblo se queja de que el **santuario ha sido quemado** y las **imágenes talladas** destruidas.</li>
+    <li><strong>Las Señales:</strong> No hay **"señales"** (milagros) ni **"profetas"** para guiar al pueblo.</li>
+    <li><strong>El Monstruo Marino (Leviatán):</strong> Se invoca el poder de Dios que **rompió las cabezas del Leviatán** (el caos marino) en la Creación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Invasión y la Profanación</h5>
+<ul>
+    <li><strong>Profanación:</strong> La destrucción del templo era la **máxima deshonra** para el dios de la nación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Memoria:</strong> El pueblo ruega a Dios que **recuerde** el pacto y Su propio honor.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La esperanza se basa en el **poder creador** de Dios, que es mayor que la destrucción.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">destrucción del centro de adoración</span> es la mayor crisis de fe. La fe apela a Dios como Creador y Guerrero para restaurar el culto.</p>
                 
@@ -24436,7 +30299,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Copa de la Ira:</strong> El castigo de los impíos</li>
                     <li><strong>Rectitud:</strong> Dios tiene el dominio sobre la Tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Juicio y la Copa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Juez y el Tiempo Señalado</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Alabanza y Juicio**.</li>
+    <li><strong>El Tiempo Fijado:</strong> Dios declara: **"Yo al tiempo que señalaré, juzgaré rectamente"** (la certeza del juicio futuro).</li>
+    <li><strong>El Yugo:</strong> La Tierra y sus habitantes se conmueven. Dios es el que **"afirma sus columnas"** (el orden del cosmos).</li>
+    <li><strong>El Cuerno:</strong> Se prohíbe a los impíos **"alzar el cuerno"** (símbolo de orgullo y fuerza).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Copa del Juicio</h5>
+<ul>
+    <li><strong>La Copa:</strong> La **copa del juicio** de Dios está llena de vino fuerte y especiado. | Beber la copa es la **metáfora del castigo** divino.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Juicio Soberano:</strong> La exaltación del justo no depende del hombre, sino del **juicio soberano de Dios**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La paciencia de Dios tiene un límite; el juicio vendrá a su tiempo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 75 establece que <span class="highlight">el tiempo del juicio es de Dios</span>. El creyente debe esperar pacientemente por la manifestación de la justicia divina.</p>
                 
@@ -24462,7 +30347,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Quebrantamiento de Armas:</strong> La victoria sin intervención humana</li>
                     <li><strong>Temor de Dios:</strong> El poder que silencia a los reyes de la Tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Sión y el Reposo de la Guerra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Paz y el Templo</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Sión** (celebración de la protección de Jerusalén).</li>
+    <li><strong>Salen las Armas:</strong> Se celebra que Dios **quebranta las flechas, el escudo, la espada y las armas de guerra** cerca del Monte Sión.</li>
+    <li><strong>El Reposo:</strong> Los poderosos **duermen su sueño** (mueren) al ser juzgados por Dios.</li>
+    <li><strong>El Voto:</strong> Se exhorta al pueblo a **hacer votos y pagarlos** a YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Destrucción de Armas</h5>
+<ul>
+    <li><strong>Reposo de la Guerra:</strong> Destruir las armas era un **símbolo del fin de la guerra** y la llegada de la paz.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Terror de Dios:</strong> El **temor a YHWH** es lo que detiene la furia de los reyes de la Tierra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Jerusalén es el **lugar de la paz** y el centro del juicio divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 76 es la <span class="highlight">confianza en la protección de Dios sobre Su ciudad</span>. El juicio de Dios es temible y glorioso, y Él defiende a los mansos de la Tierra.</p>
                 
@@ -24488,7 +30395,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Memoria:</strong> El recuerdo de la fidelidad de Dios en el pasado</li>
                     <li><strong>Mar Rojo:</strong> La obra milagrosa de Dios en el Éxodo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento Histórico y la Memoria del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Olvido y la Pregunta</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual y Reflexión Histórica**.</li>
+    <li><strong>La Noche:</strong> El salmista gime de noche, y su alma **rehúsa el consuelo**.</li>
+    <li><strong>La Duda:</strong> El lamento central es: **"¿Ha olvidado Dios el tener misericordia? ¿Ha cesado para siempre Su promesa?"** (la duda sobre la fidelidad de Dios).</li>
+    <li><strong>La Memoria del Éxodo:</strong> El salmista recuerda las **obras de Dios en el pasado** (el Éxodo, la división del mar).</li>
+    <li><strong>El Pastor:</strong> El pueblo es guiado **como rebaño** por la mano de Moisés y Aarón.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Desolación</h5>
+<ul>
+    <li><strong>El Dolor:</strong> La mano del salmista se debilita. El dolor es físico y mental.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Santo Camino:</strong> El camino de Dios es en la **santidad** y la **memoria histórica** es la clave para restaurar la fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** en el pasado es la única garantía para el futuro.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">memoria de la fidelidad de Dios</span> es el antídoto contra la duda en el presente. La fe se sostiene con el recuerdo de la redención.</p>
                 
@@ -24514,7 +30444,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Elección:</strong> Dios abandona a Efraín y elige a Judá (David y Sion)</li>
                     <li><strong>Propósito:</strong> La historia es un testimonio de la fidelidad de Dios y la rebelión de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Histórico-Sapiencial (Narrativa)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Transmisión de la Ley</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Didáctico/Histórico** (un largo recuento de la historia de Israel).</li>
+    <li><strong>La Enseñanza:</strong> El salmo es una **parábola** y un **dicho oscuro** que debe ser **enseñado** a la próxima generación.</li>
+    <li><strong>La Rebelión:</strong> Se narran las **constantes rebeliones** del pueblo en el desierto (Meribá, la queja por el maná, la incredulidad).</li>
+    <li><strong>El Templo de Sión:</strong> El salmo narra la **elección de Sión** (Jerusalén) y la **exclusión de Silo** (por la corrupción del sacerdocio).</li>
+    <li><strong>David el Pastor:</strong> Se establece que Dios eligió a **David, el pastor**, para guiar a Su pueblo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Manjares</h5>
+<ul>
+    <li><strong>Maná:</strong> El maná se llama **"pan de fuertes"** o **"pan de ángeles"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Énfasis:</strong> La historia se utiliza como una **advertencia** de que la desobediencia lleva al juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es constante, pero la fe de Israel es débil.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 78 enseña que <span class="highlight">la historia es la maestra de la fe</span>. El propósito del recuerdo es evitar la repetición de los pecados de las generaciones pasadas.</p>
                 
@@ -24540,7 +30493,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Clamor por el Nombre:</strong> Pedir que Dios actúe por Su propia honra</li>
                     <li><strong>Juicio Gentil:</strong> Orar por el castigo de los invasores</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento Comunal por la Destrucción de Jerusalén</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Oprobio y la Venganza</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal** (por la destrucción de Jerusalén y el Templo).</li>
+    <li><strong>La Ruina:</strong> Los enemigos han profanado el **Templo**, y han dejado los **cuerpos de los siervos** como alimento para las aves y bestias.</li>
+    <li><strong>La Sangre Derramada:</strong> La sangre de los siervos de Dios es **derramada como agua** alrededor de Jerusalén.</li>
+    <li><strong>El Reproche:</strong> Los enemigos se burlan: **"¿Dónde está su Dios?"** (el máximo desafío teológico).</li>
+    <li><strong>El Perdón:</strong> El salmista pide el perdón de los **pecados pasados** de sus padres.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra</h5>
+<ul>
+    <li><strong>Profanación:</strong> La deshonra del cuerpo (no ser enterrado) era una **maldición** en la antigüedad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Venganza:</strong> El clamor es para que Dios castigue a los enemigos con la **misma medida** de burla y castigo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gloria de YHWH** está ligada a la supervivencia y vindicación de Su pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 79 es la <span class="highlight">oración de la desesperación</span>. El pueblo apela al honor de Dios. La vergüenza de Israel es la vergüenza de YHWH ante las naciones.</p>
                 
@@ -24566,7 +30542,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Rostro Resplandeciente:</strong> La petición de la bendición de Dios</li>
                     <li><strong>Juicio:</strong> La queja por la destrucción de la viña</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento Comunal por Israel (La Vid)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pastor y el Viñedo</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal** (un ruego para la restauración).</li>
+    <li><strong>El Pastor:</strong> Dios es el **Pastor de Israel**, que guía a los descendientes de José (Efraín, Benjamín y Manasés).</li>
+    <li><strong>La Vid:</strong> Israel es comparado con una **vid** que Dios **sacó de Egipto** y plantó.</li>
+    <li><strong>El Juicio:</strong> Dios **rompió el vallado** de la vid, permitiendo que los animales (enemigos) la devoren.</li>
+    <li><strong>La Súplica:</strong> El clamor recurrente es **"Haznos volver, oh Dios; y haz resplandecer Tu rostro, y seremos salvos"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Cerdo del Bosque</h5>
+<ul>
+    <li><strong>El Devorador:</strong> El **jabalí** o el **cerdo del bosque** (animal impuro) devora la vid, un símbolo de la profanación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Rostro:</strong> La **bendición** se pide invocando el favor de Dios (el resplandor del rostro).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **restauración** es necesaria para que el pueblo dé fruto de nuevo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 80 es la <span class="highlight">esperanza de la restauración total</span>. La fe se basa en el poder de Dios para revivir lo que parece muerto.</p>
                 
@@ -24592,7 +30591,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Desobediencia:</strong> El fracaso de Israel en el desierto</li>
                     <li><strong>Promesa Condicional:</strong> La obediencia trae bendición y alimento</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Fiesta y Advertencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sábado y la Ley</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Exhortación** (para ser cantado en una fiesta, probablemente Tabernáculos o Trompetas).</li>
+    <li><strong>Instrumentos:</strong> Se exhorta a tocar la **trompeta** (shofar), el **salterio** y el **arpa** (instrumentos litúrgicos).</li>
+    <li><strong>El Shofar:</strong> La trompeta debe tocarse en la **Luna Nueva** y en el día de la **Fiesta Solemne**.</li>
+    <li><strong>La Prueba:</strong> Dios recuerda que probó a Israel en las **aguas de Meribá**.</li>
+    <li><strong>El Juicio:</strong> Israel es juzgado por **caminar según la obstinación** de su propio corazón.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Idolatría</h5>
+<ul>
+    <li><strong>Dios Extraño:</strong> La prohibición de adorar a un **dios extraño** o postrarse ante un dios ajeno.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Advertencia:</strong> El himno es una **advertencia solemne** de que la adoración vacía es rechazada.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obediencia del corazón** es el requisito para recibir la abundancia de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 81 es un <span class="highlight">llamado a la obediencia radical</span>. La adoración en la fiesta es incompleta sin el compromiso de seguir la Ley de Dios.</p>
                 
@@ -24618,7 +30640,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio de la Injusticia:</strong> La condena a los que fallan en defender a los pobres</li>
                     <li><strong>Súplica Universal:</strong> Oración para que Dios reine sobre toda la Tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Profético y el Juicio de los Dioses</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Concilio Divino y la Justicia</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Profético/Teológico**.</li>
+    <li><strong>El Concilio Divino:</strong> Dios se sienta en la **congregación de los fuertes** (el concilio divino, los *elim* o "dioses").</li>
+    <li><strong>El Juez:</strong> Dios **juzga a los jueces** (los líderes humanos y quizás seres celestiales) por su **injusticia social**.</li>
+    <li><strong>La Acusación:</strong> La acusación es por **juzgar con iniquidad** y **favorecer a los impíos**.</li>
+    <li><strong>La Tierra:</strong> La falta de justicia de los líderes **hace temblar los fundamentos** de la Tierra.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deificación</h5>
+<ul>
+    <li><strong>Dioses:</strong> Los jueces son llamados **"dioses"** e **"hijos del Altísimo"**, pero morirán como hombres.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Juicio Universal:</strong> YHWH es el **Juez final** de toda la Tierra, y Su justicia es absoluta.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **responsabilidad del liderazgo** es total ante Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 82 es la <span class="highlight">afirmación de la justicia divina</span>. Dios es el defensor de los pobres y el juez de toda la Tierra. Los líderes terrenales deben temer el juicio de Dios.</p>
                 
@@ -24644,7 +30689,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Guerra Santa:</strong> Pedir que Dios pelee por Su pueblo</li>
                     <li><strong>Gloria de YHWH:</strong> Que las naciones sepan que "solo tú eres el Altísimo"</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Imprecatorio y la Coalición Enemiga</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra y la Vindicación</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal** e **Imprecación** (petición de juicio contra una coalición de enemigos).</li>
+    <li><strong>La Coalición:</strong> Una alianza de naciones (edomitas, ismaelitas, amonitas, amalecitas, filisteos, tiro) se unen para **"destruir la nación de Israel"**.</li>
+    <li><strong>El Tabernáculo:</strong> Los enemigos buscan destruir las **"moradas de Dios"** (el Templo).</li>
+    <li><strong>El Juicio Histórico:</strong> El salmista pide que sean destruidos como **Madián** y como **Sísara** (juicios pasados).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Batalla y la Humillación</h5>
+<ul>
+    <li><strong>El Tamo:</strong> Los enemigos son como el **tamo** y el **rastrojo** consumidos por el fuego.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Nombre:</strong> La vindicación de Israel es para que las naciones **"conozcan que Tu nombre es YHWH"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La supervivencia de Israel está ligada al **honor del Nombre de YHWH**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 83 es la <span class="highlight">confianza en que Dios defenderá Su Nombre</span>. La fe pide que el juicio sobre el enemigo sea el medio para la conversión de las naciones.</p>
                 
@@ -24670,7 +30737,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Bendición del Peregrino:</strong> La fuerza de los que viajan a Sion</li>
                     <li><strong>Sol y Escudo:</strong> Dios es la fuente de luz y protección</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo de Peregrinación y el Santuario</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Peregrinación y el Deseo</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno/Súplica** (el anhelo por el Templo).</li>
+    <li><strong>El Deseo:</strong> El salmista **"anhela y aun ardientemente desea"** los atrios de YHWH.</li>
+    <li><strong>La Golondrina:</strong> El salmista envidia al **gorrión y a la golondrina** que hacen nido cerca del altar de Dios.</li>
+    <li><strong>El Valle de Baca:</strong> Los peregrinos atraviesan el **"Valle de Baca"** (valle del llanto), que se convierte en un **"manantial"** de bendición.</li>
+    <li><strong>La Fortaleza:</strong> El salmista prefiere ser **"portero en la casa de mi Dios"** que morar en tiendas de maldad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Estabilidad</h5>
+<ul>
+    <li><strong>El Sol y Escudo:</strong> Dios es el **sol** (fuente de vida) y el **escudo** (protección).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Felicidad:</strong> La **verdadera felicidad** es morar en el Templo y alabar a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fuerza del hombre** reside en tener a Dios como refugio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 84 enseña que <span class="highlight">el amor por la presencia de Dios</span> debe ser la pasión central del creyente. La fuerza para la vida viene de la adoración.</p>
                 
@@ -24696,7 +30786,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reunión de Virtudes:</strong> El encuentro de la Misericordia, la Verdad, la Justicia y la Paz</li>
                     <li><strong>Esperanza:</strong> La tierra dará su fruto después de la restauración</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento Comunal y Restauración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Gracia y el Retorno</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal/Profético** (probablemente una oración después del exilio, pidiendo el cumplimiento de la restauración).</li>
+    <li><strong>El Juicio Pasado:</strong> El salmista recuerda que Dios **"quitó el cautiverio"** (el retorno de Babilonia).</li>
+    <li><strong>La Inversión:</strong> El salmista ruega que la **ira de Dios** sea quitada por completo.</li>
+    <li><strong>El Encuentro:</strong> **Misericordia y Verdad** se encuentran, **Justicia y Paz** se besan. | Una personificación de los atributos de Dios que se reconcilian.</li>
+    <li><strong>La Tierra:</strong> La **verdad brotará de la Tierra**, y la **justicia mirará desde el cielo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ley</h5>
+<ul>
+    <li><strong>Atributos:</strong> La Justicia y la Paz eran conceptos legales y morales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Armonía:</strong> La **armonía de los atributos** de Dios asegura la paz de la Tierra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación de Dios** está cerca de los que le temen.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 85 es una <span class="highlight">profecía mesiánica</span>. El encuentro de la misericordia y la justicia es el corazón de la obra de Cristo.</p>
                 
@@ -24722,7 +30835,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Carácter de Dios:</strong> Lento para la ira y abundante en misericordia</li>
                     <li><strong>Signo de Bondad:</strong> La petición de una señal visible de la ayuda de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento y Confianza en la Bondad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Petición y la Verdad</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (una oración de un hombre pobre y necesitado).</li>
+    <li><strong>Humildad:</strong> El salmista se describe como **"afligido y menesteroso"**.</li>
+    <li><strong>El Camino:</strong> Se pide a Dios que **enseñe Su camino** y que el salmista camine en Su **verdad**.</li>
+    <li><strong>El Corazón:</strong> Se pide **un solo corazón** (un corazón unificado) para temer el Nombre de Dios.</li>
+    <li><strong>Los Signos:</strong> El salmista pide un **signo de bondad** para que sus enemigos sean avergonzados.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deificación</h5>
+<ul>
+    <li><strong>Comparación:</strong> Se afirma que **ninguno** entre los dioses es como YHWH.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Universalismo:</strong> **Todas las naciones** vendrán y se postrarán ante YHWH (la esperanza mesiánica).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **grandeza de Dios** se manifiesta en Su **misericordia** y Su paciencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 86 es la <span class="highlight">confianza del pobre en la misericordia de Dios</span>. La humildad y la necesidad abren el camino a la ayuda divina.</p>
                 
@@ -24748,7 +30884,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nacimiento Espiritual:</strong> Las naciones nacerán en Sion</li>
                     <li><strong>Dominio Universal:</strong> El Templo será el centro de la adoración mundial</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Sión y la Inclusión de las Naciones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Fundación y la Ciudad Santa</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Sión** (celebración de Jerusalén).</li>
+    <li><strong>La Montaña:</strong> Dios ama las **puertas de Sión** más que todas las moradas de Jacob.</li>
+    <li><strong>Inclusión:</strong> Se profetiza que las naciones enemigas (**Rahab, Babilonia, Filistea, Tiro, Cus**) serán **"nacidas"** en Sión. | La ciudad será el **centro de la fe** de las naciones.</li>
+    <li><strong>El Registro:</strong> Dios registrará en el libro de los pueblos que estas naciones nacieron allí.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Enemistad</h5>
+<ul>
+    <li><strong>Rahab:</strong> Rahab (Egipto) y Babilonia son los **grandes enemigos** de Israel, que serán redimidos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Universalismo:</strong> La **salvación** se extiende a las naciones, y Sión se convierte en la madre de todos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El verdadero gozo es que **"todas mis fuentes están en ti"** (en Sión).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 87 es una <span class="highlight">visión mesiánica del futuro</span>. Sion se convierte en el centro de la fe y la salvación para todo el mundo.</p>
                 
@@ -24774,7 +30932,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ira Divina:</strong> El sentimiento de ser consumido por el juicio de Dios</li>
                     <li><strong>Tinieblas:</strong> La vida es una oscuridad sin luz</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento de Desesperación (Sin Resolución)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Dolor y el Abandono</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (el salmo más oscuro del Salterio).</li>
+    <li><strong>El Abandono:</strong> El salmista se siente **muerto** en vida, abandonado por Dios y sus amigos.</li>
+    <li><strong>El Pozo:</strong> El salmista está al borde del **pozo** (el Seol) y está en las **tinieblas profundas**.</li>
+    <li><strong>El Único:</strong> El salmo es único porque **no hay una nota de esperanza** ni de confianza al final.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Muerte</h5>
+<ul>
+    <li><strong>Enfermedad:</strong> El salmista está consumido por la enfermedad y el dolor.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Amistad:</strong> La **ira de Dios** ha alejado a sus amigos y conocidos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El salmo expresa la **desesperación total** que es parte de la experiencia humana, incluso para el creyente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 88 representa la <span class="highlight">profundidad total del sufrimiento humano</span>. La fe se mantiene en el acto de seguir clamando a Dios, incluso en la desesperación total.</p>
                 
@@ -24800,7 +30980,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Crisis Existencial:</strong> El aparente fracaso de la promesa dinástica</li>
                     <li><strong>Gloria de Dios:</strong> El poder que domina el mar (el caos)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: La Crisis del Pacto Davídico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto Fallido y la Fidelidad</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Real/Lamento Nacional** (el fin del Libro III).</li>
+    <li><strong>La Promesa:</strong> La primera parte celebra la **fidelidad eterna** de Dios y la **inmutabilidad** del Pacto Davídico.</li>
+    <li><strong>La Crisis:</strong> La segunda parte es un **lamento total** por la derrota, donde la **promesa ha fallado** (el rey ha sido humillado).</li>
+    <li><strong>La Corona:</strong> El salmista se queja de que Dios ha **profanado la corona** y ha destruido el muro del rey.</li>
+    <li><strong>El Final:</strong> El salmo termina con una nota de desesperación, contrastando la fidelidad de Dios con Su aparente juicio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Humillación</h5>
+<ul>
+    <li><strong>Mofa:</strong> El rey es objeto de **burla** por sus enemigos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Dilema:</strong> La **fe se aferra** a la promesa eterna a pesar de la evidencia de la derrota temporal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** prevalecerá sobre el fracaso humano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 89 es la <span class="highlight">pregunta sobre la inmutabilidad de Dios</span>. La fe se sostiene en la esperanza de que Dios honrará Su pacto con el linaje de David.</p>
                 
@@ -24826,7 +31029,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fugacidad:</strong> La vida es corta y está bajo la ira de Dios</li>
                     <li><strong>Sabiduría:</strong> El deseo de vivir con propósito</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oración de Moisés y la Brevedad de la Vida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sabiduría y el Tiempo</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial** (atribuido a **Moisés**, el hombre de Dios).</li>
+    <li><strong>El Tiempo:</strong> El salmo medita sobre la **brevedad de la vida** humana (70 u 80 años) en contraste con la eternidad de Dios.</li>
+    <li><strong>El Castigo:</strong> La brevedad de la vida es una **consecuencia de la ira de Dios** sobre el pecado.</li>
+    <li><strong>La Medida:</strong> Los días del hombre son como la **hierba** que crece y se corta.</li>
+    <li><strong>La Oración:</strong> La oración es para que Dios **"nos enseñe a contar nuestros días"** (a vivir con sabiduría).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Mortalidad</h5>
+<ul>
+    <li><strong>Años:</strong> La vida humana es comparada con un **sueño** que dura poco.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Corazón:</strong> La sabiduría consiste en **traer el corazón** a la verdad de la brevedad de la vida.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **trabajo y la misericordia** de Dios son la única esperanza en la fugacidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 90 es una <span class="highlight">reflexión sobre la mortalidad</span>. La brevedad de la vida debe ser un catalizador para buscar la sabiduría y el favor de Dios.</p>
                 
@@ -24852,7 +31078,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Protección Angélica:</strong> Los ángeles guardan al justo</li>
                     <li><strong>Fidelidad:</strong> Dios es el escudo y la coraza del creyente</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo de Confianza y la Protección Angélica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Refugio y la Promesa</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo de Confianza** (el más famoso).</li>
+    <li><strong>El Refugio:</strong> La vida segura se encuentra a la **sombra del Omnipotente** (El-Shaddai).</li>
+    <li><strong>La Plaga:</strong> La confianza protege del **lazo del cazador**, la **peste destructora** y las **plagas nocturnas**.</li>
+    <li><strong>Los Ángeles:</strong> Dios ordena a **Sus ángeles** que guarden al creyente en todos sus caminos.</li>
+    <li><strong>El León y el Áspid:</strong> El justo pisa al **león y al áspid** (símbolos del peligro y el mal).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Peste</h5>
+<ul>
+    <li><strong>La Saeta:</strong> La plaga se describe como una **saeta** (flecha) que vuela de día.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Recompensa:</strong> El que **conoce el nombre** de Dios es salvado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **protección divina** es absoluta y se extiende a todos los peligros físicos y espirituales.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">protección de Dios es total</span> contra todo peligro físico y espiritual, simbolizado por las flechas, la peste y el león.</p>
                 
@@ -24878,7 +31127,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prosperidad del Justo:</strong> El justo florece en la vejez</li>
                     <li><strong>Justicia Inmutable:</strong> Dios es recto y no hay maldad en Él</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno para el Día de Reposo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sábado y la Alabanza</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno/Acción de Gracias** (específicamente para ser usado en el **Sábado**).</li>
+    <li><strong>El Propósito:</strong> El Sábado es el día para **proclamar la misericordia y la fidelidad** de Dios por la mañana y por la noche.</li>
+    <li><strong>Instrumentos:</strong> Se usa el **salterio de diez cuerdas** y el **arpa** para la alabanza.</li>
+    <li><strong>El Justo:</strong> El justo **florecerá como la palmera** y crecerá como el **cedro del Líbano** (símbolos de longevidad y fuerza).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza</h5>
+<ul>
+    <li><strong>Cuerno:</strong> El cuerno del salmista es **exaltado** (símbolo de fuerza y honor).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Obra de Dios:</strong> El Sábado se dedica a la **meditación en la obra de Dios** y su justicia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **santidad del tiempo** se dedica a la adoración.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">alabanza es la actividad central del Sábado</span>. El gozo en Dios es la evidencia de la justicia.</p>
                 
@@ -24904,7 +31175,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dominio sobre el Caos:</strong> Dios es superior al poder del mar (símbolo del caos)</li>
                     <li><strong>Santidad:</strong> Los testimonios de Dios son muy firmes</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Dios Rey y la Soberanía Acuática</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Realeza y el Templo</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno (Dios Rey)** (celebración de la soberanía de YHWH).</li>
+    <li><strong>Vestidura:</strong> Dios está **vestido de majestad** y **ceñido de poder**.</li>
+    <li><strong>Aguas:</strong> YHWH es más poderoso que el **estruendo de las muchas aguas** y las **olas del mar**.</li>
+    <li><strong>La Estabilidad:</strong> El mundo está **establecido, inconmovible**.</li>
+    <li><strong>El Templo:</strong> La **santidad** de la casa de YHWH es para **siempre**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Dioses del Mar</h5>
+<ul>
+    <li><strong>Dioses del Mar:</strong> El salmo somete las fuerzas del mar (el caos) al poder de YHWH (el orden).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Trono Eterno:</strong> El **trono de YHWH** es inmutable e inamovible.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El reinado de Dios es la única fuente de orden en el universo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios</span> es la base de la estabilidad. No importa lo turbulentas que sean las fuerzas del mundo, Dios es Rey.</p>
                 
@@ -24930,7 +31224,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Injusticia:</strong> La opresión de la viuda, el huérfano y el extranjero</li>
                     <li><strong>Conocimiento:</strong> Dios ve y oye todo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento, Juicio y la Venganza Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Justicia y el Oprobio</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal/Sapiencial** (petición de juicio sobre los opresores).</li>
+    <li><strong>Venganza:</strong> El salmista pide que el **Dios de las venganzas** se manifieste.</li>
+    <li><strong>Opresión:</strong> Los malvados **quebrantan a Tu pueblo** y **matan al huérfano y a la viuda** (pecados sociales).</li>
+    <li><strong>La Negación:</strong> El impío dice: **"YHWH no ve, ni el Dios de Jacob entiende"** (la negación de la omnisciencia).</li>
+    <li><strong>El Juicio:</strong> Dios castigará al que es **duro de cerviz** (orgulloso).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Injusticia</h5>
+<ul>
+    <li><strong>Opresión:</strong> La opresión de los indefensos era un pecado común en las sociedades de la época.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Ley en la Mano:</strong> El castigo caerá sobre los que intentan **"formar agravio por medio de la Ley"** (la corrupción legal).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **juicio de Dios** es la única esperanza para los oprimidos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 94 es la <span class="highlight">esperanza del oprimido</span>. El que clama por justicia sabe que Dios está atento y que Su venganza es segura.</p>
                 
@@ -24956,7 +31273,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Peligro del Endurecimiento:</strong> La advertencia contra la incredulidad</li>
                     <li><strong>Descanso:</strong> El castigo de no entrar en el reposo de Dios (citado en Hebreos 3)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Adoración y la Advertencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adoración y el Endurecimiento</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Alabanza y Exhortación** (liturgia de adoración).</li>
+    <li><strong>La Invocación:</strong> Se exhorta a postrarse y **arrodillarse** ante YHWH (el rito de adoración).</li>
+    <li><strong>El Creador:</strong> Dios es el **Rey grande sobre todos los dioses** y el Creador.</li>
+    <li><strong>La Advertencia:</strong> Dios recuerda a Israel que **no endurezca su corazón** como en **Meribá y Masá** (la rebelión en el desierto).</li>
+    <li><strong>El Reposo:</strong> La desobediencia lleva a la **exclusión del reposo** de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios</h5>
+<ul>
+    <li><strong>Alabanza:</strong> La **alabanza musical** es un acto de adoración.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Voz de Dios:</strong> La **adoración** es inseparable de la **obediencia a la Palabra** de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **entrada al reposo** de Dios es condicional a la fidelidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 95 es un <span class="highlight">llamado a la obediencia y la humildad</span>. La adoración sin el corazón es peligrosa y lleva a la incredulidad.</p>
                 
@@ -24982,7 +31322,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> Dios vendrá a juzgar al mundo con equidad</li>
                     <li><strong>Santidad:</strong> La adoración debe ser en la hermosura de la santidad</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Alabanza Universal (Nuevo Cántico)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Misión y la Belleza</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno (Dios Rey)** (alabanza universal).</li>
+    <li><strong>El Nuevo Cántico:</strong> La exhortación a cantar un **"cántico nuevo"** (una alabanza fresca por una nueva obra o redención).</li>
+    <li><strong>La Misión:</strong> Se exhorta a **anunciar la salvación** y la gloria de Dios a todas las naciones.</li>
+    <li><strong>El Santuario:</strong> Adorar a YHWH en la **"hermosura de la santidad"** (la magnificencia del Templo y el culto).</li>
+    <li><strong>El Juicio:</strong> El juicio de Dios se acerca con **equidad y verdad**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ídolos</h5>
+<ul>
+    <li><strong>Vanidad:</strong> Los **dioses de los pueblos son vanidad** (sin poder), mientras que YHWH hizo los cielos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Regreso del Rey:</strong> El mundo debe **alegrarse** porque **YHWH viene a juzgar** la Tierra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia de Dios** es la fuente de la alegría universal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 96 es una <span class="highlight">visión de la adoración final del Mesías</span>, donde todas las naciones se unen a Israel para alabar al Dios verdadero.</p>
                 
@@ -25008,7 +31371,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fuego y Juicio:</strong> La manifestación del poder de Dios</li>
                     <li><strong>Idolatría Condenada:</strong> Los que sirven a las imágenes son avergonzados</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Dios Rey y la Theofanía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Theofanía y la Justicia</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno (Dios Rey)** (celebración del reinado de YHWH).</li>
+    <li><strong>La Nube y la Oscuridad:</strong> El trono de Dios está rodeado de **nube y oscuridad**, pero Su reino se basa en **justicia y juicio**.</li>
+    <li><strong>El Fuego:</strong> El **fuego** va delante de Él y consume a Sus enemigos (símbolo de juicio).</li>
+    <li><strong>El Castigo:</strong> Los **adoradores de ídolos** serán avergonzados.</li>
+    <li><strong>La Luz:</strong> La **luz** (alegría) es sembrada para el justo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración de Imágenes</h5>
+<ul>
+    <li><strong>Postración:</strong> Los **dioses** mismos deben postrarse ante YHWH.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Odio al Mal:</strong> Los que aman a YHWH **aborrecen el mal**, la respuesta ética a Su santidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **santidad de Dios** exige la separación del mal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">manifestación de Dios trae juicio sobre la idolatría</span> y gozo sobre los justos. Su reinado es la base de la rectitud.</p>
                 
@@ -25034,7 +31420,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Salvación Revelada:</strong> El poder de Dios es visible a las naciones</li>
                     <li><strong>Juicio Universal:</strong> Dios viene a juzgar al mundo con justicia</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Redención y el Cántico Nuevo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Salvación y la Misión</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Alabanza** (similar al Salmo 96).</li>
+    <li><strong>El Cántico Nuevo:</strong> Se exhorta a cantar un **"cántico nuevo"** por las maravillas que Dios ha hecho.</li>
+    <li><strong>El Brazo:</strong> Dios ha obrado la salvación con Su **propio brazo y Su diestra** (símbolo de la fuerza y el poder).</li>
+    <li><strong>La Misión:</strong> La **salvación de YHWH** ha sido revelada a **"la vista de las naciones"**.</li>
+    <li><strong>Los Instrumentos:</strong> Se exhorta a alabar a Dios con **arpa, salterio, trompeta** y **voz de cántico**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Ríos y el Mar</h5>
+<ul>
+    <li><strong>Aclamación:</strong> Los **ríos y el mar** deben alabar a Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Memoria:</strong> Dios se acordó de Su **misericordia y fidelidad** a la casa de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad al pacto** es la base de la alegría universal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 98 es la <span class="highlight">celebración de la obra de redención</span> de Dios (la salvación). La alegría es una respuesta a Su fidelidad y misericordia.</p>
                 
@@ -25060,7 +31469,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Intercesores:</strong> Los grandes líderes que clamaron a Dios</li>
                     <li><strong>Perdón y Castigo:</strong> Dios perdona, pero también castiga el pecado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Santidad y el Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Santidad y el Culto</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno (Dios Rey)** (alabanza a la santidad de Dios).</li>
+    <li><strong>El Trono:</strong> Dios se sienta en Su trono sobre los **querubines** (en el Arca del Pacto).</li>
+    <li><strong>La Postración:</strong> Se exhorta a **exaltar a YHWH** y **postrarse** ante el estrado de Sus pies.</li>
+    <li><strong>Moisés y Aarón:</strong> Se mencionan a **Moisés, Aarón y Samuel** como ejemplos de intercesores.</li>
+    <li><strong>El Templo:</strong> El pueblo debe **postrarse** ante el monte santo de YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración</h5>
+<ul>
+    <li><strong>Postración:</strong> El rito de la postración es el acto de sumisión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Santidad de Dios:</strong> El **nombre y la casa** de YHWH son santos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **intercesión** y el perdón son la base del servicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 99 es la <span class="highlight">afirmación de la santidad de Dios</span>. El perdón y el castigo son actos de Su santidad y Su justicia.</p>
                 
@@ -25086,7 +31518,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Creación:</strong> Somos Su pueblo y las ovejas de Su prado</li>
                     <li><strong>Misericordia Eterna:</strong> Su verdad y fidelidad son para siempre</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Entrada al Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio de Acción de Gracias</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Entrada** (para ser cantado al entrar al Templo).</li>
+    <li><strong>El Servicio:</strong> Se exhorta a servir a YHWH con **alegría** y a venir ante Su presencia con **regocijo**.</li>
+    <li><strong>El Templo:</strong> Entrar por las **puertas con acción de gracias** y por Sus atrios con alabanza.</li>
+    <li><strong>El Propósito:</strong> El pueblo es **Suyo**, y somos **ovejas de Su prado**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Pastor</h5>
+<ul>
+    <li><strong>Pastor:</strong> El pastor es el proveedor y protector.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Alabanza es el Sacrificio:</strong> La **acción de gracias** es la forma más alta de sacrificio al entrar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es la base de la alabanza continua.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 100 es una <span class="highlight">invitación a la acción de gracias gozosa</span>. La base de la alabanza es Su creación y Su fidelidad.</p>
                 
@@ -25112,7 +31566,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pureza de la Corte:</strong> Exclusión de los malignos y mentirosos</li>
                     <li><strong>Justicia:</strong> El compromiso de juzgar la maldad inmediatamente</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Real, Integridad y el Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Rey Justo</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Real/Sapiencial** (el compromiso ético del rey).</li>
+    <li><strong>El Voto:</strong> El rey hace un **voto** de andar en **integridad** y no poner delante de sí ninguna cosa vil.</li>
+    <li><strong>La Corte:</strong> El rey jura que no tolerará a los **calumniadores, orgullosos y mentirosos** en su corte.</li>
+    <li><strong>El Juicio:</strong> El rey promete que **"exterminaré de mañana a todos los impíos"** de la ciudad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Corte</h5>
+<ul>
+    <li><strong>Calumnia:</strong> La calumnia y el engaño eran comunes en las intrigas de la corte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Integridad:</strong> El **carácter moral** del rey es fundamental para la estabilidad del reino.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El reino de Dios se establece sobre la **justicia y la pureza** del liderazgo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 101 es un <span class="highlight">modelo para todo liderazgo</span>. La pureza de la vida personal y el compromiso con la justicia son inseparables del gobierno.</p>
                 
@@ -25138,7 +31614,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Eternidad:</strong> Dios permanece para siempre (citado en Hebreos 1)</li>
                     <li><strong>Restauración de Sion:</strong> Dios se levantará para tener misericordia de Sion</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento del Afligido (Exilio)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y la Desesperación</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual/Comunal** (probablemente durante el exilio).</li>
+    <li><strong>La Aflicción:</strong> El salmista se compara con el **pelícano del desierto** y el **búho de las soledades** (símbolos de desolación).</li>
+    <li><strong>El Humo:</strong> Los días del salmista son **consumidos como humo**.</li>
+    <li><strong>Sión y el Templo:</strong> El salmo expresa la esperanza de la **reconstrucción de Sión** (el Templo).</li>
+    <li><strong>La Misión:</strong> Las **naciones temerán** el nombre de YHWH cuando Él construya Sión.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Deshonra</h5>
+<ul>
+    <li><strong>El Pan:</strong> El salmista come **ceniza** como pan y bebe su bebida con **llanto**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Eternidad:</strong> La **fidelidad de Dios** y Su trono son eternos, mientras que el hombre es efímero.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **restauración del Templo** es la clave para la misión de las naciones.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 102 es la <span class="highlight">esperanza que trasciende el dolor</span>. El sufrimiento humano es superado por la inmutabilidad y la promesa eterna de Dios.</p>
                 
@@ -25164,7 +31663,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lentitud para la Ira:</strong> Dios es paciente y compasivo</li>
                     <li><strong>Naturaleza Humana:</strong> El hombre es como la flor del campo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Alabanza y el Perdón</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Perdón y la Misericordia</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Alabanza** (celebración de la misericordia de Dios).</li>
+    <li><strong>El Perdón:</strong> El salmista alaba a Dios por **perdonar todas las iniquidades** y **sanar todas las dolencias**.</li>
+    <li><strong>La Distancia:</strong> La distancia del pecado se compara con el **Oriente del Occidente** (la máxima distancia conocida).</li>
+    <li><strong>El Padre:</strong> Dios es compasivo como un **padre** se compadece de sus hijos.</li>
+    <li><strong>El Soplo (**Ruach**):</strong> Dios se acuerda de que somos **polvo** y que nuestra vida es un **soplo** (*ruach*).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Naturaleza</h5>
+<ul>
+    <li><strong>La Flor:</strong> El hombre es como la **flor del campo**, que pasa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Misericordia:</strong> La **misericordia de Dios** es más grande que su ira y es la base de la fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **compasión de Dios** es el fundamento de Su trono.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 103 es la <span class="highlight">meditación sobre la gracia incondicional</span>. La fe se basa en el carácter inmutable de la misericordia de Dios, que es "tan alta como los cielos".</p>
                 
@@ -25190,7 +31712,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sustento:</strong> Dios provee alimento y vida a toda criatura</li>
                     <li><strong>Soberanía:</strong> Todo está sujeto al control de YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Alabanza y la Creación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Soberanía en la Naturaleza</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de la Creación** (similar a Salmos 8 y Job 38).</li>
+    <li><strong>La Vestidura:</strong> Dios se viste de **luz** como de un manto y extiende los cielos como una **cortina**.</li>
+    <li><strong>Los Elementos:</strong> Dios establece el **mar**, los **montes**, los **valles** y la **lluvia** para la provisión.</li>
+    <li><strong>El Sol y la Luna:</strong> El sol se **pone** y la luna se **establece** para marcar los tiempos.</li>
+    <li><strong>El Vino y el Aceite:</strong> Dios da **vino** para alegrar el corazón y **aceite** para ungir el rostro (provisión física).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Sacrificios</h5>
+<ul>
+    <li><strong>Leviatán:</strong> El Leviatán (monstruo marino) es una criatura **que Dios creó para que jugase con él**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dependencia:</strong> Toda la **Creación depende** de la Palabra de Dios para su existencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sabiduría de Dios** se revela en el orden y la variedad de la naturaleza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 104 enseña que <span class="highlight">la Creación es un testimonio constante de Dios</span>. El mundo natural no es autónomo, sino que depende de la provisión divina.</p>
                 
@@ -25216,7 +31761,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad:</strong> Dios es fiel a Su palabra por mil generaciones</li>
                     <li><strong>Propósito:</strong> Recordar la historia para guardar los mandamientos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Histórico (Abraham a la Conquista)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Pacto y la Memoria</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Histórico** (alabanza a la fidelidad de Dios).</li>
+    <li><strong>El Recuerdo:</strong> El salmo alaba a Dios por Su **fidelidad al pacto** con Abraham, Isaac y Jacob.</li>
+    <li><strong>La Hambruna:</strong> Dios envió a **José** a Egipto antes de la hambruna para preservar la vida.</li>
+    <li><strong>El Éxodo:</strong> Se narran las plagas y la salida de Israel de Egipto con **plata y oro**.</li>
+    <li><strong>El Derecho a la Tierra:</strong> Dios dio las **tierras de las naciones** (Canaán) a Israel como herencia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Esclavitud</h5>
+<ul>
+    <li><strong>Cadenas:</strong> José fue puesto en **cepo** y **cadenas de hierro** en prisión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Fidelidad:</strong> La **fidelidad de Dios** es la única constante en la historia de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **historia** es la prueba de que YHWH es fiel a Su palabra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 105 es el <span class="highlight">recordatorio de la soberanía de Dios en la historia</span>. La fe se sostiene en la certeza de que Dios siempre cumple Su pacto.</p>
                 
@@ -25242,7 +31810,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confesión:</strong> Reconocimiento de los pecados de los padres</li>
                     <li><strong>Misericordia:</strong> Dios rescata a Su pueblo a pesar de Su ira</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Histórico-Penitencial (Rebelión)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Confesión Nacional</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Histórico-Penitencial** (confesión de la infidelidad de Israel).</li>
+    <li><strong>El Pecado:</strong> El salmo narra la **constante rebelión** de Israel (desde el Mar Rojo hasta el desierto).</li>
+    <li><strong>El Becerro de Oro:</strong> Se recuerda la **idolatría del becerro de oro** en Horeb.</li>
+    <li><strong>El Castigo:</strong> La **ira de Dios** fue manifestada por el juicio de Coré, Datán y Abiram.</li>
+    <li><strong>Sacrificio Humano:</strong> Israel **sacrificó a sus hijos e hijas a los demonios** (idolatría cananea).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Idolatría</h5>
+<ul>
+    <li><strong>Asimilación:</strong> Israel se **mezcló con las naciones** y adoptó sus costumbres.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Misericordia:</strong> A pesar de la infidelidad, Dios **se acordó de Su pacto** y de Su misericordia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia de Dios** es la única razón por la que Israel no fue destruido.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 106 es un <span class="highlight">ejemplo de arrepentimiento nacional</span>. La fe confiesa la infidelidad humana y apela a la inmutable bondad de Dios.</p>
                 
@@ -25268,7 +31859,36 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Clamor:</strong> El pueblo clama a Dios en su angustia</li>
                     <li><strong>Sabiduría:</strong> El sabio observa y considera la misericordia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Acción de Gracias Comunal (Cuatro Cautiverios)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Redención y la Oración</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Comunal de Acción de Gracias** (por la liberación de cuatro tipos de cautiverio).</li>
+    <li><strong>Los Cuatro Cautiverios:</strong>
+        <ul>
+            <li>**Viajeros:** Perdidos en el desierto (falta de dirección).</li>
+            <li>**Prisioneros:** Atados en la oscuridad (juicio).</li>
+            <li>**Enfermos:** Afligidos por la enfermedad (pecado).</li>
+            <li>**Marineros:** Peligro en el mar (caos).</li>
+        </ul>
+    </li>
+    <li><strong>El Clamor:</strong> En cada prueba, la solución es **"clamaron a YHWH en su angustia"**.</li>
+    <li><strong>El Viento:</strong> Dios **calma la tempestad** y las olas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Viajes Marítimos</h5>
+<ul>
+    <li><strong>Marineros:</strong> El peligro del mar era una amenaza constante.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Alabanza:</strong> El salmo es una exhortación a **alabar a YHWH** por Su misericordia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **libertad** es una manifestación del amor de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 107 enseña que <span class="highlight">la vida es una serie de rescates divinos</span>. La liberación lleva al arrepentimiento y a la acción de gracias pública.</p>
                 
@@ -25294,7 +31914,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Victoria:</strong> La certeza de la victoria a través de Dios</li>
                     <li><strong>Humillación del Enemigo:</strong> Dios pisotea a Edom</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Combinación de Lamento y Victoria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Preparación para la Guerra</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno/Lamento** (una combinación de Salmos 57 y 60).</li>
+    <li><strong>El Despertar:</strong> El salmista despierta al **amanecer** para alabar a Dios con instrumentos.</li>
+    <li><strong>Guerra:</strong> El salmista se queja de que **Dios lo ha desechado** en la batalla.</li>
+    <li><strong>Dominio:</strong> Dios es el que establece el **dominio** sobre Edom (la sandalia) y Moab (el lavatorio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>Guerra:</strong> El salmo se utiliza para **inspirar confianza** antes de la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dependencia:</strong> La **fuerza humana** es vana; solo Dios da la victoria.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **alabanza continua** asegura la ayuda divina en la batalla.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 108 es la <span class="highlight">fusión de la alabanza y la guerra</span>. La certeza de la victoria comienza con la fe en el corazón del creyente.</p>
                 
@@ -25320,7 +31962,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Imprecación Fuerte:</strong> La petición de un castigo severo</li>
                     <li><strong>Justicia:</strong> Dios es el defensor del pobre y necesitado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Imprecatorio (Contra los Calumniadores)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Maldición y la Justicia</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento** e **Imprecación** (petición de juicio sobre los enemigos).</li>
+    <li><strong>El Lenguaje:</strong> El salmista se queja de la **lengua engañosa y mentirosa** de sus enemigos.</li>
+    <li><strong>La Maldición:</strong> El salmista pide un **juicio severo** sobre su enemigo (que sus hijos sean huérfanos, su esposa viuda, su vida sea corta).</li>
+    <li><strong>El Rescate:</strong> El salmista se declara **pobre y afligido**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza</h5>
+<ul>
+    <li><strong>Venganza:</strong> La maldición se extiende a la **familia** del enemigo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Vindicación:</strong> El salmista pide la vindicación para que las personas **conozcan la obra de YHWH**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **venganza se deja en manos de Dios**, el Juez Supremo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 109 es el <span class="highlight">deseo de la justicia retributiva de Dios</span>. El creyente entrega la venganza a Dios, pidiendo que el mal se devuelva al impío.</p>
                 
@@ -25346,7 +32010,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sacerdocio Melquisedeciano:</strong> Un sacerdocio eterno y no levítico</li>
                     <li><strong>Juicio:</strong> El Mesías juzgará a las naciones</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Mesiánico y el Sacerdocio Melquisedec</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Unción y el Sacerdocio</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Real/Mesiánico** (el más citado en el Nuevo Testamento).</li>
+    <li><strong>El Trono:</strong> El salmo comienza con el oráculo de YHWH al rey: **"Siéntate a mi diestra"** (la máxima posición de autoridad y honor).</li>
+    <li><strong>Melquisedec:</strong> El rey es un **"sacerdote para siempre, según el orden de Melquisedec"**. | Un sacerdocio que es **superior** al aarónico.</li>
+    <li><strong>El Juicio:</strong> El rey ungido **"juzgará entre las naciones"** y **"quebrantará a los reyes"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Sacerdocio</h5>
+<ul>
+    <li><strong>Sacerdocio:</strong> El sacerdocio era una función hereditaria. Melquisedec es atemporal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Autoridad Dual:</strong> El rey davídico tiene una **autoridad doble** (real y sacerdotal).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El rey mesiánico es el **sumo sacerdote** del nuevo pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 110 es la <span class="highlight">clave de la Cristología</span>. Jesús usa este salmo para demostrar Su divinidad y la Iglesia lo usa para entender Su sacerdocio y entronización.</p>
                 
@@ -25372,7 +32058,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pacto:</strong> La firmeza y santidad de Sus mandamientos</li>
                     <li><strong>Sabiduría:</strong> El temor de Dios como base del conocimiento</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno Acróstico de Alabanza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sabiduría y la Ley</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Acróstico** (cada verso o sección comienza con una letra del alfabeto hebreo).</li>
+    <li><strong>Las Obras:</strong> El salmista alaba las **grandes obras** de YHWH (Creación y Redención).</li>
+    <li><strong>El Pacto:</strong> Dios es **misericordioso y clemente**, y **se acuerda de Su pacto** para siempre.</li>
+    <li><strong>El Temor:</strong> El **"temor de YHWH"** es el **principio de la sabiduría**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Fama</h5>
+<ul>
+    <li><strong>Recuerdo:</strong> Las obras de Dios son dignas de **"memoria"** y **"alabanza"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Ley:</strong> Los **preceptos de YHWH** son **firmes** y para siempre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El conocimiento y la obediencia a la Ley son la **máxima sabiduría**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 111 enseña que <span class="highlight">el Temor de Dios es la base de la sabiduría</span>. La alabanza a Dios debe ser el resultado de la meditación en Sus grandes obras.</p>
                 
@@ -25398,7 +32106,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Caridad:</strong> El justo es misericordioso y reparte liberalmente</li>
                     <li><strong>Destino del Impío:</strong> La frustración de los deseos del maligno</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Acróstico del Hombre Justo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Ética Social</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Acróstico/Sapiencial** (describe al hombre justo).</li>
+    <li><strong>La Bendición:</strong> La felicidad es para el hombre que **teme a YHWH** y **ama Sus mandamientos**.</li>
+    <li><strong>El Legado:</strong> Su **descendencia** será poderosa y su **justicia** permanece para siempre.</li>
+    <li><strong>La Luz:</strong> La luz (prosperidad) se levanta para el justo en la oscuridad.</li>
+    <li><strong>Caridad:</strong> El justo **reparte a los pobres** y su justicia permanece.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza</h5>
+<ul>
+    <li><strong>Riqueza:</strong> El hombre justo tendrá **bienes y riquezas** en su casa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Fin del Impío:</strong> El deseo del impío perecerá, mientras que la **memoria del justo** es eterna.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ética social** es una manifestación de la verdadera piedad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 112 enseña que <span class="highlight">la verdadera riqueza es la piedad</span>. La fe produce generosidad y la seguridad en medio de las pruebas.</p>
                 
@@ -25424,7 +32155,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> El Señor se inclina para ver a los necesitados</li>
                     <li><strong>Inversión:</strong> Dios levanta al pobre y da hijos a la estéril</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Trascendencia y Humildad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Alabanza Litúrgica</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno (parte del Halel)** (usado en las grandes fiestas).</li>
+    <li><strong>El Lugar:</strong> La alabanza debe ser dada **desde la salida del sol hasta su ocaso**.</li>
+    <li><strong>El Alto:</strong> Dios es **exaltado** sobre todas las naciones y los cielos.</li>
+    <li><strong>La Inmanencia:</strong> Dios se **humilla** para mirar lo que hay en el cielo y en la Tierra.</li>
+    <li><strong>La Viuda y el Pobre:</strong> Dios levanta al **pobre del polvo** y saca al **necesitado del muladar**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Pobreza</h5>
+<ul>
+    <li><strong>Muladar:</strong> El muladar era el lugar donde vivían los pobres y los leprosos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Justicia Social:</strong> La **grandeza de Dios** se revela en Su **preocupación por los más débiles** (el pobre, el estéril).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** revierte la fortuna de los humildes.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 113 es la <span class="highlight">celebración de la omnipotencia y la misericordia</span>. La fe se regocija en el Dios que cambia la suerte del oprimido.</p>
                 
@@ -25450,7 +32204,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Teofanía:</strong> La manifestación de Dios y la reacción de la naturaleza</li>
                     <li><strong>Poder:</strong> Dios transforma la roca en manantial</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de la Pascua y la Naturaleza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Éxodo y la Creación</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de la Pascua** (utilizado en el ritual de la Pascua).</li>
+    <li><strong>El Santuario:</strong> Judá se convirtió en el **santuario** y el **dominio** de Israel.</li>
+    <li><strong>El Mar:</strong> El **mar huyó** y el **Jordán se volvió** (el milagro del Éxodo).</li>
+    <li><strong>Los Montes:</strong> Los montes **saltaron como carneros** y los collados como corderitos.</li>
+    <li><strong>La Roca:</strong> La roca se convierte en **manantial de agua** (la provisión en el desierto).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Fenómenos Naturales</h5>
+<ul>
+    <li><strong>Temblor:</strong> La Tierra tiembla ante el Dios de Jacob.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Poder Creador:</strong> La **naturaleza misma** se somete y reacciona al poder redentor de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **liberación de Israel** es un evento cósmico.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 114 es la <span class="highlight">celebración de la intervención milagrosa</span>. La fe recuerda el poder de Dios para mover la naturaleza en favor de Su pueblo.</p>
                 
@@ -25476,7 +32253,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Supremacía de Dios:</strong> Dios está en los cielos y hace Su voluntad</li>
                     <li><strong>Confianza:</strong> Exhortación a Israel a confiar en YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Ídolos y la Confianza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adoración y el Juicio</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno** (una súplica para que YHWH actúe).</li>
+    <li><strong>El Desafío:</strong> Las naciones preguntan: **"¿Dónde está ahora su Dios?"** (el ataque teológico).</li>
+    <li><strong>Los Ídolos:</strong> Los ídolos son **plata y oro**, **obra de manos de hombres**, que tienen boca y no hablan, ojos y no ven.</li>
+    <li><strong>La Ironía:</strong> **"Semejantes a ellos son los que los hacen"** (los idólatras se vuelven como sus dioses mudos).</li>
+    <li><strong>La Bendición:</strong> Dios bendice a la **casa de Israel, Aarón** y a los **que temen a YHWH**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Idolatría</h5>
+<ul>
+    <li><strong>Ídolos:</strong> Los ídolos se fabricaban con metales preciosos y tenían rasgos humanos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Dios Vivo:</strong> YHWH está en el **cielo** y hace lo que quiere, en contraste con los ídolos inútiles.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confianza** es el único refugio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 115 es un <span class="highlight">llamado a la confianza monoteísta</span>. La fe se distingue por el rechazo total a cualquier imagen o ídolo.</p>
                 
@@ -25502,7 +32302,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Votos y Sacrificio:</strong> Promesa de ofrenda en el Templo</li>
                     <li><strong>Esclavitud de Amor:</strong> El salmista se declara siervo de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Acción de Gracias Personal por la Liberación de la Muerte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Voto y la Muerte</h5>
+<ul>
+    <li><strong>Género:</strong> **Acción de Gracias Individual** (por haber sido rescatado de la muerte).</li>
+    <li><strong>Las Ligaduras de la Muerte:</strong> El salmista fue atrapado por las **ligaduras de la muerte** y el **Seol**.</li>
+    <li><strong>La Copa:</strong> El salmista toma la **"copa de la salvación"** e invoca el nombre de YHWH.</li>
+    <li><strong>Votos:</strong> El salmista promete **pagar Sus votos** en presencia de todo el pueblo (un rito público).</li>
+    <li><strong>La Casa de YHWH:</strong> El pago de los votos se hace en los **atrios de la casa de YHWH**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Muerte</h5>
+<ul>
+    <li><strong>Prisión:</strong> La muerte se describe como una **trampa** o prisión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Testimonio Público:</strong> La **gratitud** debe ser pública y cumplida con el sacrificio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **muerte de los santos** es preciosa a los ojos de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 116 es la <span class="highlight">respuesta personal a la liberación</span>. La fe se demuestra al cumplir los votos hechos en la angustia y al servir a Dios.</p>
                 
@@ -25528,7 +32351,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misericordia:</strong> La bondad de Dios es grande sobre nosotros</li>
                     <li><strong>Verdad:</strong> La fidelidad de Dios es para siempre</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno de Alabanza Universal (El Más Corto)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Misión y la Alabanza</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno** (el salmo más corto del Salterio).</li>
+    <li><strong>La Misión:</strong> Se exhorta a **todas las naciones** y **todos los pueblos** a alabar a YHWH.</li>
+    <li><strong>La Misericordia:</strong> La razón de la alabanza es la **magnificencia de Su misericordia** y la **verdad** que es eterna.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Pueblos</h5>
+<ul>
+    <li><strong>Pueblos:</strong> La alabanza debe ser universal, no solo de Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Brevedad y Fuerza:</strong> La brevedad del salmo subraya la **simplicidad y la urgencia** de la misión.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es la base para el evangelismo universal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 117 es la <span class="highlight">condensación de la visión misionera</span>. La fe se regocija en que el carácter de Dios (misericordia y verdad) es el propósito de la alabanza mundial.</p>
                 
@@ -25554,7 +32398,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza:</strong> Preferir a Dios antes que al hombre</li>
                     <li><strong>El Día de Dios:</strong> Celebración de la obra de Dios (posiblemente la Resurrección)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Hallel, Procesión y la Piedra Angular</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Liturgia de Entradas</h5>
+<ul>
+    <li><strong>Género:</strong> **Hallel** (utilizado en las fiestas).</li>
+    <li><strong>El Templo:</strong> El salmista entra por las **puertas de la justicia** al Templo.</li>
+    <li><strong>La Piedra:</strong> La **"piedra que desecharon los edificadores ha venido a ser cabeza del ángulo"** (una profecía sobre David/Mesías).</li>
+    <li><strong>La Hosanna:</strong> El pueblo clama **"¡Salva ahora (Hosanna), te ruego, oh YHWH!"**.</li>
+    <li><strong>Las Ramas:</strong> El pueblo lleva **ramas** y **frutos** al altar (las ofrendas de las fiestas).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Arquitectura</h5>
+<ul>
+    <li><strong>Piedra Angular:</strong> La piedra angular era la **piedra más importante** en la esquina de un edificio, lo que garantizaba la solidez.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Día de YHWH:</strong> La liberación es el **"día que hizo YHWH"**, que debe ser celebrado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** transforma el rechazo humano en el triunfo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 118 es un <span class="highlight">canto de la Resurrección</span>. La fe ve la mano de Dios en el evento más improbable (la exaltación del rechazado).</p>
                 
@@ -25580,7 +32447,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obediencia y Pureza:</strong> El camino para mantener la pureza en la vida</li>
                     <li><strong>Lamento del Estudiante:</strong> Petición de entendimiento y fortaleza para obedecer</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Gran Acróstico de la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Sabiduría y la Palabra Escrita</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Acróstico/Torá** (el más largo del Salterio).</li>
+    <li><strong>La Estructura:</strong> El salmo tiene 176 versos. Cada ocho versos comienzan con la misma letra del alfabeto hebreo.</li>
+    <li><strong>El Tema:</strong> Es un **himno a la Ley** (usando 8 sinónimos de la Ley).</li>
+    <li><strong>El Cautiverio:</strong> El salmista medita en la Ley incluso en el **exilio** o la aflicción.</li>
+    <li><strong>La Luz:</strong> La Palabra de Dios es la **"lámpara a mis pies y lumbrera a mi camino"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Tiranos</h5>
+<ul>
+    <li><strong>Príncipes:</strong> Los **príncipes persiguen** al salmista sin causa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Belleza de la Ley:</strong> La Ley es **más dulce que la miel** y más valiosa que el oro.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es la única guía en la oscuridad del mundo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 119 es la <span class="highlight">máxima expresión de amor a la Palabra de Dios</span>. La fe se alimenta, se guía y se consuela solo a través de las Escrituras.</p>
                 
@@ -25606,7 +32496,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exilio:</strong> Vivir en medio de los enemigos</li>
                     <li><strong>Paz:</strong> El salmista busca la paz en medio de la guerra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (El Exilio y la Mentira)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Peregrinación (Ascensos)</h5>
+<ul>
+    <li><strong>Género:</strong> **Cántico Gradual/de Ascenso** (utilizado por los peregrinos que subían a Jerusalén).</li>
+    <li><strong>El Lugar:</strong> El salmista se siente exiliado en **Mesec y Cedar** (tribus nómadas, símbolos de la barbarie y la mentira).</li>
+    <li><strong>El Problema:</strong> El salmista vive entre **"lengua mentirosa"**.</li>
+    <li><strong>El Castigo:</strong> El salmista pide que Dios castigue la lengua mentirosa con **flechas de guerra** y **brasas de enebro**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Mentira y el Nómada</h5>
+<ul>
+    <li><strong>Cedar:</strong> Tribu de la Arabia conocida por su falsedad y sus tiendas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Deseo:</strong> El deseo del salmista es la **paz**, pero sus enemigos aman la guerra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **peregrinación a Sión** es el escape del odio y la falsedad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 120 es la <span class="highlight">oración de la minoría piadosa</span>. La fe clama por liberación del ambiente de falsedad y hostilidad.</p>
                 
@@ -25632,7 +32544,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vigilancia:</strong> Dios es el Guardián incesante de Israel</li>
                     <li><strong>Protección:</strong> Guardará del sol y de la luna (peligros del día y la noche)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (El Guardián)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Seguridad en el Viaje</h5>
+<ul>
+    <li><strong>Género:</strong> **Cántico Gradual/de Ascenso**.</li>
+    <li><strong>El Miedo:</strong> El salmista levanta sus ojos a los **montes**, preguntando de dónde vendrá la ayuda (el miedo del viajero).</li>
+    <li><strong>El Creador:</strong> La ayuda viene de **YHWH, el Hacedor de los cielos y la Tierra**.</li>
+    <li><strong>El Guardián:</strong> Dios es el **guardián** de Israel que **"nunca se adormece ni duerme"**.</li>
+    <li><strong>Protección Total:</strong> Dios protege del **sol de día** y de la **luna de noche** (peligros del clima y del mal).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Viajeros</h5>
+<ul>
+    <li><strong>Tropiezo:</strong> El miedo a que el pie **tropiece** en el camino.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Confianza Incondicional:</strong> La seguridad está garantizada por el **carácter constante** de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vigilancia de Dios** es la única que nunca cesa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 121 es la <span class="highlight">seguridad total en la providencia de Dios</span>. La fe se basa en el Dios que es activo y que nunca cesa de proteger.</p>
                 
@@ -25658,7 +32593,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unidad:</strong> Jerusalén es el centro de reunión tribal</li>
                     <li><strong>Paz:</strong> La oración por el bienestar de Sion ("Orad por la paz de Jerusalén")</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Alegría por Jerusalén)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Oración por la Paz y la Peregrinación</h5>
+<ul>
+    <li><strong>Género:</strong> **Cántico Gradual/de Ascenso** (celebración de la llegada a Jerusalén).</li>
+    <li><strong>La Alegría:</strong> La **alegría** por la invitación a ir a la casa de YHWH.</li>
+    <li><strong>Las Puertas:</strong> El salmista alaba el momento en que sus **pies están en las puertas** de Jerusalén.</li>
+    <li><strong>El Juicio:</strong> En Jerusalén están los **tronos del juicio** y el **testimonio de Israel**.</li>
+    <li><strong>Oración por la Paz:</strong> Se exhorta a orar por la **"paz de Jerusalén"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración Urbana</h5>
+<ul>
+    <li><strong>Ciudad:</strong> Jerusalén es la ciudad bien compacta y unida.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Bien de Sión:</strong> La **paz** de la ciudad es el principal objetivo de la oración.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **unidad del pueblo** se expresa en la peregrinación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 122 es la <span class="highlight">expresión del amor por la casa de Dios</span>. La fe se manifiesta en el gozo por el lugar de la presencia divina y la justicia.</p>
                 
@@ -25684,7 +32642,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mirada Fija:</strong> La dependencia total de Dios</li>
                     <li><strong>Misericordia:</strong> Petición de la intervención divina</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Lamento de Esclavo)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Humillación y la Súplica</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal** (súplica en el exilio o la opresión).</li>
+    <li><strong>Los Ojos:</strong> Los **ojos del salmista** miran a Dios como los **ojos del siervo** miran a la mano de su amo.</li>
+    <li><strong>El Amo:</strong> La **mano del amo** es la fuente de la provisión y el castigo.</li>
+    <li><strong>El Desprecio:</strong> El pueblo está **harto** del **escarnio y el desprecio** de los arrogantes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Esclavitud</h5>
+<ul>
+    <li><strong>Siervo:</strong> El siervo dependía totalmente de la voluntad de su amo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dependencia:</strong> La **mirada constante** a Dios es el único refugio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El alma busca la **misericordia** en la autoridad suprema.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 123 enseña que la <span class="highlight">humildad es la condición para la ayuda divina</span>. La fe se rehúsa a mirar el escarnio y solo mira a Dios.</p>
                 
@@ -25710,7 +32690,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Trampa Rota:</strong> El escape del peligro mortal</li>
                     <li><strong>Nombre de Dios:</strong> El auxilio se encuentra en el Nombre del Creador</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Rescate Nacional)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Liberación y la Trampa</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Comunal de Acción de Gracias** (por la liberación de un ataque).</li>
+    <li><strong>La Invasión:</strong> Si **YHWH no hubiera estado** con nosotros, los enemigos nos habrían **tragado vivos**.</li>
+    <li><strong>Las Aguas:</strong> Los enemigos son comparados con las **aguas desbordadas** que habrían anegado el alma.</li>
+    <li><strong>La Trampa:</strong> El alma escapó **como pájaro de la trampa del cazador**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Caza</h5>
+<ul>
+    <li><strong>Cazador:</strong> El cazador de aves usaba trampas y redes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Nombre:</strong> La ayuda del pueblo está en el **nombre de YHWH, Hacedor del cielo y la tierra**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **liberación** es un acto directo de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 124 es el <span class="highlight">reconocimiento de la dependencia absoluta de Dios</span>. La fe atribuye todo el rescate, incluso el escape, al poder divino.</p>
                 
@@ -25736,7 +32738,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Protección:</strong> Dios rodea a Su pueblo como los montes a Jerusalén</li>
                     <li><strong>Rectitud:</strong> El cetro de la impiedad no reposará sobre los justos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Confianza en Sión)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Estabilidad de la Ciudad</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo de Confianza** (celebración de la estabilidad de Jerusalén).</li>
+    <li><strong>El Monte Sión:</strong> Los que confían en YHWH son como el **Monte Sión**, que no será movido.</li>
+    <li><strong>Los Montes:</strong> Los **montes rodean a Jerusalén**, y YHWH rodea a Su pueblo.</li>
+    <li><strong>El Cetro:</strong> El **cetro de la impiedad** no reposará sobre la heredad de los justos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Cetro:</strong> El cetro simboliza el dominio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Inmutabilidad:</strong> La **protección de Dios** es tan inmutable como la geografía de la Tierra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **rectitud de corazón** es la base de la seguridad divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 125 enseña que <span class="highlight">la seguridad del creyente es inmutable</span>, basada en la fidelidad de Dios. La fe ofrece estabilidad ante el caos.</p>
                 
@@ -25762,7 +32786,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Restauración Total:</strong> La oración por el retorno de todos los cautivos</li>
                     <li><strong>Cosecha Gozosa:</strong> El fruto de sembrar con dolor</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Gozo del Retorno)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y la Sementera</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Comunal de Acción de Gracias** (por el regreso del exilio).</li>
+    <li><strong>El Sueño:</strong> El regreso del exilio fue como un **sueño** (un evento increíble).</li>
+    <li><strong>La Boca:</strong> La boca de los retornados se llenó de **risa** y su lengua de **canto**.</li>
+    <li><strong>Siembra y Cosecha:</strong> Los que **siembran con lágrimas** segarán con **alegría** (metáfora de la dificultad del retorno y la recompensa).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Diáspora</h5>
+<ul>
+    <li><strong>Exilio:</strong> Las naciones reconocen que **YHWH ha hecho grandes cosas** por Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Restauración:</strong> El **gozo del retorno** es la prueba de la fidelidad de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **trabajo fiel** en la aflicción será recompensado con gozo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 126 es la <span class="highlight">conexión entre el dolor y la alegría</span>. La fe ve el sufrimiento como la siembra para una futura cosecha gozosa.</p>
                 
@@ -25788,7 +32834,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sueño:</strong> Dios da a Su amado el sueño (descanso de la ansiedad)</li>
                     <li><strong>Herencia:</strong> Los hijos como bendición y protección</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Sabiduría y Esfuerzo)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Construcción y la Familia</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial** (atribuido a Salomón).</li>
+    <li><strong>La Vanidad:</strong> Si YHWH no **edifica la casa** o **guarda la ciudad**, el trabajo es **vano**.</li>
+    <li><strong>La Vigilancia:</strong> El **esfuerzo humano** (levantarse temprano y acostarse tarde) es inútil sin Dios.</li>
+    <li><strong>El Sueño:</strong> Dios da a Su amado **el sueño** (el descanso) como bendición.</li>
+    <li><strong>Los Hijos:</strong> Los hijos son **herencia** de YHWH y son como **flechas** en la mano del guerrero.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Flechas:</strong> Los hijos varones son la **fuerza y seguridad** del hombre en la vejez.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Dependencia:</strong> La **dependencia de Dios** es el único factor para el éxito y la seguridad familiar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **bendición de Dios** es más importante que el esfuerzo humano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 127 es un <span class="highlight">llamado a la confianza sobre el esfuerzo ansioso</span>. La fe se somete a la soberanía de Dios en el trabajo y la familia.</p>
                 
@@ -25814,7 +32883,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prosperidad Familiar:</strong> La esposa y los hijos como fuente de gozo</li>
                     <li><strong>Paz de Sion:</strong> La bendición se extiende al bienestar de Jerusalén</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (El Hogar Piadoso)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Hogar y la Prosperidad</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial**.</li>
+    <li><strong>La Bendición:</strong> La felicidad es para el hombre que **teme a YHWH** y **anda en Sus caminos**.</li>
+    <li><strong>El Hogar:</strong> La esposa es como **vid fructífera** en la casa, y los hijos como **renuevos de olivo** alrededor de la mesa.</li>
+    <li><strong>La Paz:</strong> La oración final es para **"ver la paz de Israel"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Agricultura</h5>
+<ul>
+    <li><strong>Vid y Olivo:</strong> La vid y el olivo eran símbolos de **prosperidad, fertilidad y longevidad**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Fuente:</strong> La **prosperidad familiar** es el resultado directo del temor a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **bendición de Sión** se extiende al hogar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 128 es la <span class="highlight">conexión entre la piedad y la prosperidad</span>. La fe honra a Dios y recibe Su favor en la vida cotidiana y familiar.</p>
                 
@@ -25840,7 +32931,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resistencia:</strong> Los enemigos no han podido prevalecer</li>
                     <li><strong>Juicio:</strong> La destrucción y sequedad de los que odian a Sion</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Lamento por la Persecución)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Persecución y la Endurance</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Comunal**.</li>
+    <li><strong>La Juventud:</strong> Israel ha sido afligido **desde su juventud** (desde el Éxodo y el desierto).</li>
+    <li><strong>Los Labradores:</strong> Los enemigos son comparados con **labradores** que **araron sobre la espalda** del pueblo (la opresión y el castigo).</li>
+    <li><strong>El Juicio:</strong> Los enemigos serán como la **hierba del terrado** que se seca antes de ser cortada.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Agricultura</h5>
+<ul>
+    <li><strong>Arar la Espalda:</strong> El arado era una **metáfora de la tortura** y la esclavitud.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Justo:</strong> El **justo es YHWH**, que corta las ligaduras de los impíos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **resistencia** de Israel es la prueba de la fidelidad de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 129 es el <span class="highlight">reconocimiento de la resistencia histórica</span>. La fe se basa en el poder de Dios para preservar a Su pueblo a través del sufrimiento.</p>
                 
@@ -25866,7 +32979,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Perdón:</strong> Dios es perdonador para que sea temido</li>
                     <li><strong>Espera:</strong> El alma espera con más anhelo que el vigilante la mañana</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Lamento desde las Profundidades)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Perdón y la Redención</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Penitencial** (el quinto penitencial).</li>
+    <li><strong>El Clamor:</strong> El salmista clama a Dios **"desde las profundidades"** (la desesperación y el pozo).</li>
+    <li><strong>La Iniquidad:</strong> Si Dios **"mirara las iniquidades"**, nadie podría subsistir.</li>
+    <li><strong>La Redención:</strong> La espera es para la **redención de Israel** de todas sus iniquidades.</li>
+    <li><strong>El Vigía:</strong> El salmista espera a YHWH **más que los vigías a la mañana** (la espera en la oscuridad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Vigilancia</h5>
+<ul>
+    <li><strong>Vigía:</strong> El vigía esperaba el amanecer para la seguridad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Perdón:</strong> El **perdón de Dios** es la única razón por la que Él debe ser temido.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **esperanza** se basa en la palabra de Dios, no en el sentimiento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 130 es el <span class="highlight">modelo de la esperanza en la redención</span>. La fe confía en la gracia de Dios por encima de la culpa.</p>
                 
@@ -25892,7 +33028,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Quietud:</strong> El alma como un niño destetado</li>
                     <li><strong>Esperanza:</strong> La esperanza continua de Israel en YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Humildad y Confianza)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Humildad y la Sencillez</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo de Confianza**.</li>
+    <li><strong>El Corazón:</strong> El salmista mantiene su **corazón y ojos humildes** (no arrogantes).</li>
+    <li><strong>La Grandeza:</strong> El salmista no se ocupa de cosas **grandes o maravillosas** que están fuera de su alcance.</li>
+    <li><strong>El Niño:</strong> El alma es comparada con un **niño destetado** en el regazo de su madre (la máxima dependencia y calma).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Arrogancia</h5>
+<ul>
+    <li><strong>Orgullo:</strong> La ambición y el orgullo eran la causa de la caída.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Paz:</strong> La **paz interior** es el resultado de la dependencia y la humildad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera fuerza** es la dependencia total de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 131 es la <span class="highlight">celebración de la paz interior</span>. La fe encuentra el descanso al renunciar a la ansiedad y a la ambición desmedida.</p>
                 
@@ -25918,7 +33076,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pacto Davídico:</strong> El trono eterno para la descendencia</li>
                     <li><strong>Morada de Dios:</strong> La elección inmutable de Sion</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (El Arca y el Pacto Davídico)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Templo y la Elección</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Real** (celebración de David, el Templo y el Pacto).</li>
+    <li><strong>David y el Arca:</strong> El salmista recuerda el **voto de David** de no descansar hasta encontrar un lugar para el Arca.</li>
+    <li><strong>Efrata/Sión:</strong> El lugar del Templo se encontró en **Sión** (el lugar elegido por Dios).</li>
+    <li><strong>El Vestido Sacerdotal:</strong> Los sacerdotes deben vestirse de **justicia** y los santos clamarán de júbilo.</li>
+    <li><strong>La Lámpara:</strong> Dios promete mantener la **lámpara** (el linaje) de David.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Toga Real</h5>
+<ul>
+    <li><strong>Trono:</strong> El rey ungido se sienta en el trono.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Elección:</strong> Dios eligió a **Sión** como Su **"reposo para siempre"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de David** es el fundamento de la promesa de Sión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 132 es la <span class="highlight">afirmación de la elección divina</span>. La fe se basa en el plan inmutable de Dios: el Mesías reinará desde Sion.</p>
                 
@@ -25944,7 +33125,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unción:</strong> La unidad es tan preciosa como el aceite sacerdotal</li>
                     <li><strong>Bendición:</strong> El lugar donde Dios envía la vida eterna</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (La Unidad Fraternal)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Unidad y la Bendición</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Comunal** (celebración de la unidad).</li>
+    <li><strong>El Gozo:</strong> El salmista celebra la **unidad de los hermanos** que **habitan juntos en armonía**.</li>
+    <li><strong>El Aceite:</strong> La unidad es comparada con el **aceite precioso** que desciende sobre la cabeza de Aarón hasta el borde de sus vestiduras. | El **óleo de la unción** (símbolo de consagración).</li>
+    <li><strong>El Rocío:</strong> La unidad es como el **rocío del Hermón** que desciende sobre los montes de Sión (símbolo de bendición refrescante).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Sacerdocio</h5>
+<ul>
+    <li><strong>Unción:</strong> La unción de Aarón era el rito de la consagración sacerdotal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Mando:</strong> En Sión, Dios **manda la bendición** y la **vida eterna**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **armonía fraternal** es el ambiente donde Dios derrama Su bendición.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 133 es la <span class="highlight">celebración de la comunión santa</span>. La fe ve la unidad como el requisito para la manifestación de la bendición.</p>
                 
@@ -25970,7 +33173,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Bendición:</strong> La exhortación a la bendición mutua</li>
                     <li><strong>Creador:</strong> La bendición viene de YHWH, el Creador de todo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Cántico de Ascenso (Bendición Nocturna)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de los Levitas y la Adoración</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Litúrgico** (un diálogo de bendición).</li>
+    <li><strong>El Servicio Nocturno:</strong> El salmo es una **exhortación a los siervos** que **ministran de noche** en la casa de YHWH.</li>
+    <li><strong>Alzar las Manos:</strong> Se exhorta a los siervos a **alzar sus manos** en el santuario (el rito de la oración).</li>
+    <li><strong>La Bendición:</strong> La respuesta es una **bendición sacerdotal** del pueblo: **"YHWH te bendiga desde Sión"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Templo</h5>
+<ul>
+    <li><strong>Guardias:</strong> Los levitas estaban de guardia por la noche para proteger el Templo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Vigilancia:</strong> La **adoración y la bendición** son una actividad constante, incluso en la oscuridad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Templo** es el centro de la bendición para toda la Tierra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 134 es el <span class="highlight">llamado a la alabanza incesante</span>. La fe reconoce la importancia del servicio continuo y la bendición sacerdotal.</p>
                 
@@ -25996,7 +33221,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Historia:</strong> La fidelidad de Dios en el Éxodo y la conquista</li>
                     <li><strong>Idolatría:</strong> Los ídolos son vanidad y los que confían en ellos perecen</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno, Ídolos y la Elección de Israel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Alabanza y la Idolatría</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Comunal** (alabanza y juicio a los ídolos).</li>
+    <li><strong>La Elección:</strong> Dios eligió a **Jacob** por Suyo e **Israel** por Su posesión.</li>
+    <li><strong>Las Obras:</strong> Dios es alabado por Sus **grandes obras** (el Éxodo y la conquista de Canaán).</li>
+    <li><strong>Los Ídolos:</strong> Los **ídolos son plata y oro**, pero son **obra de manos de hombres** y son inútiles.</li>
+    <li><strong>La Ironía:</strong> Los que confían en los ídolos se **volverán como ellos** (mudos e inútiles).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración de Imágenes</h5>
+<ul>
+    <li><strong>Adoración:</strong> El salmo es una confrontación directa contra la práctica de la idolatría.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Verdadero Dios:</strong> YHWH está en el **cielo** y hace lo que quiere.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **memoria histórica** es la prueba de la superioridad de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 135 es el <span class="highlight">reconocimiento de la diferencia entre el Dios vivo y los ídolos</span>. La fe se basa en el Dios que actúa en la historia.</p>
                 
@@ -26022,7 +33270,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Redención:</strong> La liberación de la esclavitud de Egipto</li>
                     <li><strong>Provisión:</strong> Dios da alimento a todo ser viviente</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: El Gran Hallel (La Misericordia Eterna)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Liturgia de la Alabanza</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno (Gran Hallel)** (un salmo litúrgico responsorial).</li>
+    <li><strong>El Estribillo:</strong> El salmo se caracteriza por el estribillo **"Porque para siempre es Su misericordia"** (la lealtad del pacto).</li>
+    <li><strong>Creación:</strong> Se alaba a Dios por la **Creación** (la sabiduría).</li>
+    <li><strong>Redención:</strong> Se alaba a Dios por la **Redención** (el Éxodo).</li>
+    <li><strong>La Tierra:</strong> Se alaba a Dios por la **Conquista de la Tierra**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Castigo:</strong> Dios **hirió a los primogénitos** de Egipto y **derrotó a los reyes** poderosos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Misericordia:</strong> La **fidelidad** de Dios es la única razón de la existencia de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia** es el fundamento de toda la historia de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 136 enseña que <span class="highlight">el *hesed* de Dios es la base de toda existencia</span> y la razón principal de la alabanza.</p>
                 
@@ -26048,7 +33319,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Jerusalén:</strong> La prioridad absoluta en la vida del exiliado</li>
                     <li><strong>Venganza:</strong> La petición de juicio contra Babilonia y Edom</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento del Exilio y el Silencio de la Música</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Exilio y la Desolación</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento del Exilio** (la vida de los judíos en Babilonia).</li>
+    <li><strong>Babilonia:</strong> El pueblo se sienta **junto a los ríos de Babilonia** y llora.</li>
+    <li><strong>El Arpa:</strong> Los judíos **cuelgan sus arpas** en los sauces, negándose a cantar. | Cantar la canción de Sión en tierra extranjera era **profanación**.</li>
+    <li><strong>La Venganza:</strong> El salmista pide un **juicio severo** sobre Babilonia y los edomitas.</li>
+    <li><strong>La Maldición:</strong> El clamor es que sean destruidos incluso los **bebés de Babilonia** (el deseo de venganza absoluta).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Captura</h5>
+<ul>
+    <li><strong>Burla:</strong> Los captores pedían a los exiliados que **cantaran** para su entretenimiento.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Memoria de Sión:</strong> La **memoria de Jerusalén** es más importante que la vida personal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **silencio de la música** es el acto de resistencia de la fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 137 es la <span class="highlight">fidelidad a Dios en el exilio</span>. La fe mantiene la esperanza de la restauración y el amor por la ciudad santa.</p>
                 
@@ -26074,7 +33368,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Palabra Exaltada:</strong> El honor de la Palabra de Dios es supremo</li>
                     <li><strong>Obra Perfeccionada:</strong> La certeza de que Dios completará lo que comenzó</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Acción de Gracias Personal y los Reyes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Templo y la Oración</h5>
+<ul>
+    <li><strong>Género:</strong> **Acción de Gracias Individual**.</li>
+    <li><strong>Los Dioses:</strong> El salmista canta alabanzas a YHWH **"delante de los dioses"** (los reyes paganos o los seres celestiales).</li>
+    <li><strong>El Templo:</strong> El salmista se **postra** hacia el Templo de YHWH.</li>
+    <li><strong>La Palabra:</strong> Dios ha **engrandecido Su Nombre** y Su palabra sobre todas las cosas.</li>
+    <li><strong>Los Reyes:</strong> Todos los **reyes de la Tierra** cantarán a YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración</h5>
+<ul>
+    <li><strong>Postración:</strong> El acto de postrarse es la sumisión total.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Humildad:</strong> Dios **atiende al humilde**, pero mira de lejos al orgulloso.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es el único sustento de la vida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 138 es el <span class="highlight">testimonio de la fidelidad de Dios</span>. La fe sabe que la obra de Dios en la vida del creyente es segura.</p>
                 
@@ -26100,7 +33417,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Omnipresencia:</strong> No hay lugar donde esconderse de Dios</li>
                     <li><strong>Providencia:</strong> La formación maravillosa en el vientre materno</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Omnisciencia, Omnipresencia y la Formación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Creación y el Conocimiento</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Sapiencial** (meditación sobre los atributos de Dios).</li>
+    <li><strong>El Pensamiento:</strong> Dios **conoce** el pensamiento del hombre antes de que hable.</li>
+    <li><strong>La Presencia:</strong> Dios es **omnisciente** y **omnipresente** (no se puede huir de Su Espíritu).</li>
+    <li><strong>El Seol y la Luz:</strong> La **oscuridad** y la **luz** son lo mismo para Dios.</li>
+    <li><strong>Formación:</strong> El salmista fue **formado en el vientre** de su madre (el acto creativo y personal).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Artesanía</h5>
+<ul>
+    <li><strong>Artesano:</strong> Dios **teje** al hombre en el vientre materno.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Venganza:</strong> El salmista se somete a Dios para que lo **examine** y **guíe por el camino eterno**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **intimidad de Dios** es total; Él conoce todo sobre la persona.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 139 es la <span class="highlight">celebración de la intimidad de Dios</span>. La fe se somete a la exhaustiva presencia de Dios como una fuente de consuelo, no de terror.</p>
                 
@@ -26126,7 +33466,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lengua:</strong> La maldad de las palabras venenosas</li>
                     <li><strong>Refugio:</strong> Dios es la fortaleza de la salvación</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento y la Lengua de la Serpiente</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Súplica y la Trampa</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** e **Imprecación**.</li>
+    <li><strong>El Lenguaje:</strong> La lengua del enemigo es **afilada como la de una serpiente**, y tiene **veneno de áspid**.</li>
+    <li><strong>La Trampa:</strong> Los impíos ponen **redes y lazos** para atrapar al salmista.</li>
+    <li><strong>El Juicio:</strong> El salmista pide que el **fuego** caiga sobre ellos y que **no subsistan**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Violencia:</strong> Los enemigos son **hombres violentos** y de contienda.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Vindicación:</strong> La **justicia de Dios** vindicará la causa del pobre y del afligido.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **refugio** se encuentra en la **confianza** en el nombre de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 140 es la <span class="highlight">entrega de la defensa a Dios</span>. La fe clama por la intervención de Dios para frustrar el mal planeado.</p>
                 
@@ -26152,7 +33514,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pureza del Lenguaje:</strong> Controlar la boca para no pecar</li>
                     <li><strong>Guía:</strong> La preferencia por el castigo del justo que la prosperidad del impío</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oración por Protección contra la Trampa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Sacrificio y la Oración</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (una oración en medio de la persecución).</li>
+    <li><strong>El Incienso:</strong> El salmista pide que su oración sea dirigida a Dios como el **incienso** y el **sacrificio de la tarde**. | La oración verbal sustituye el rito físico del templo.</li>
+    <li><strong>La Boca:</strong> El salmista pide que Dios ponga **guarda a su boca** y centinela a la puerta de sus labios (control de la palabra para no caer en el pecado).</li>
+    <li><strong>La Trampa:</strong> Los enemigos son comparados con los que **tienden trampas** y lazos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Fiesta</h5>
+<ul>
+    <li><strong>Manjares:</strong> El salmista se niega a participar de los **manjares deliciosos** de los impíos (evitando la comunión con el mal).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Juicio del Justo:</strong> El **golpe del justo** (la corrección) es preferible a la unción del impío.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **pureza moral** es la defensa más fuerte contra el mal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 141 enseña que <span class="highlight">la oración es el sacrificio continuo</span>. La fe se enfoca en la pureza del corazón y del lenguaje como la mayor defensa.</p>
                 
@@ -26178,7 +33562,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Refugio:</strong> Dios es el único refugio y porción</li>
                     <li><strong>Prisión:</strong> El sentimiento de estar atrapado en la angustia</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Oración de Desesperación en la Cueva</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Refugio y el Lamento</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (la superscripción indica que es la oración de David cuando estaba en la cueva, probablemente en Adulam o En-gadi).</li>
+    <li><strong>La Cueva:</strong> El salmista clama a Dios en voz alta **desde la cueva**, sintiéndose solo y abandonado.</li>
+    <li><strong>El Desamparo:</strong> **"No hay quien conozca mi senda"**; sus amigos y familiares se han alejado de él.</li>
+    <li><strong>El Refugio:</strong> Dios es el **"refugio"** del salmista y **"mi porción en la tierra de los vivientes"** (su herencia y sustento).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Cárcel</h5>
+<ul>
+    <li><strong>La Prisión:</strong> El salmista pide ser sacado de la **prisión** (la cueva o la aflicción).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Espíritu:</strong> El **espíritu del salmista** se desanima dentro de él, pero Dios conoce su senda.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **intimidad con Dios** se encuentra en el aislamiento y el dolor.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 142 es el <span class="highlight">modelo de la oración en la soledad</span>. La fe ve a Dios como la única fuente de ayuda cuando toda la ayuda humana ha fallado.</p>
                 
@@ -26204,7 +33610,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Guía:</strong> El ruego por la dirección del Espíritu de Dios</li>
                     <li><strong>Misericordia:</strong> La única base para el rescate</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Lamento y el Recuerdo de la Redención</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres del Perdón y la Justicia</h5>
+<ul>
+    <li><strong>Género:</strong> **Lamento Individual** (el último de los siete salmos penitenciales).</li>
+    <li><strong>El Polvo:</strong> El alma del salmista está **abatida hasta el polvo**.</li>
+    <li><strong>El Juicio:</strong> El salmista pide a Dios que **no entre en juicio** con Su siervo, porque **"ningún ser humano es justo delante de ti"**. | Reconocimiento de la pecaminosidad universal.</li>
+    <li><strong>El Recuerdo:</strong> El salmista **recuerda los días antiguos** y las obras de Dios (la historia de la redención).</li>
+    <li><strong>El Espíritu Bueno:</strong> El salmista pide que el **"espíritu bueno"** de Dios le guíe a la tierra de rectitud.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Batalla</h5>
+<ul>
+    <li><strong>Persecución:</strong> El enemigo persigue y **golpea su vida** hasta la tierra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Novedad:</strong> La mañana trae la **misericordia** (la novedad de la fidelidad de Dios).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **único camino a la justicia** es a través del perdón y la guía de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 143 es el <span class="highlight">reconocimiento de la necesidad del Espíritu Santo</span> para la guía y la vida. La fe confiesa la incapacidad humana para el auto-rescate.</p>
                 
@@ -26230,7 +33659,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fragilidad Humana:</strong> El hombre es como un soplo</li>
                     <li><strong>Prosperidad:</strong> El deseo de paz y abundancia en la tierra</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Salmo Real, Guerra y Bendición</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Guerra y la Coronación</h5>
+<ul>
+    <li><strong>Género:</strong> **Salmo Real/Acción de Gracias** (oración de David antes o después de la batalla).</li>
+    <li><strong>El Guerrero:</strong> Dios es el que **enseña las manos de David a pelear** y sus dedos a la batalla.</li>
+    <li><strong>El Relámpago:</strong> Se invoca a Dios para que envíe el **relámpago** y las **flechas** para derrotar a los enemigos.</li>
+    <li><strong>La Felicidad:</strong> El salmista describe la **felicidad de la nación** (hijos fuertes, hijas hermosas, graneros llenos, ovejas, bueyes).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Idolatría</h5>
+<ul>
+    <li><strong>Los Hijos del Extranjero:</strong> El salmista pide ser librado de los **"hijos del extranjero"** cuya boca habla **vanidad** y cuya diestra es **mentirosa**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Felicidad:</strong> **"Bienaventurado el pueblo cuyo Dios es YHWH"**. La fuente de la prosperidad es la relación con Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero éxito** no está en la fuerza militar, sino en la bendición de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 144 es la <span class="highlight">confianza en Dios para la batalla y la paz</span>. La fe ve a Dios como el dador del éxito militar y de la estabilidad nacional.</p>
                 
@@ -26256,7 +33707,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reino:</strong> El dominio de Dios es eterno y generacional</li>
                     <li><strong>Misericordia:</strong> Dios es bueno con todos y sostiene a los caídos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Himno Acróstico de la Grandeza de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Narración y la Sabiduría</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno Acróstico** (el único himno acróstico de David).</li>
+    <li><strong>La Generación:</strong> Cada **generación** debe declarar la **grandeza y el poder** de Dios a la siguiente.</li>
+    <li><strong>El Atributo:</strong> El salmo celebra la **misericordia, la bondad, la justicia y la fidelidad** de Dios (los atributos del pacto).</li>
+    <li><strong>La Provisión:</strong> Dios **abre Su mano** y **sacia el deseo** de todo ser vivo.</li>
+    <li><strong>La Cercanía:</strong> YHWH está **cerca** de todos los que le invocan en **verdad**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>Reino:</strong> El **reino de YHWH** es eterno y dura por todas las generaciones.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Súplica:</strong> La **justicia de Dios** se manifiesta en la salvación de los que le temen y le invocan.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es la fuente de la esperanza y la provisión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 145 es el <span class="highlight">modelo de la alabanza incesante</span>. La fe se enfoca en el carácter de Dios: Su bondad y Su justicia son las bases de Su reino.</p>
                 
@@ -26282,7 +33756,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza Invertida:</strong> No confiar en el hombre o en el poder humano</li>
                     <li><strong>Justicia Social:</strong> Dios es el protector de los débiles (ciegos, oprimidos, viudas)</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Halel (Confianza en Dios, No en Príncipes)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Dependencia y el Juicio Social</h5>
+<ul>
+    <li><strong>Género:</strong> **Halel** (el inicio de la serie de alabanza final).</li>
+    <li><strong>La Vida:</strong> El salmista promete **alabar a YHWH mientras viva**.</li>
+    <li><strong>La Advertencia:</strong> Se prohíbe **confiar en los príncipes** ni en el hijo del hombre, **"porque no hay en él salvación"**. | Énfasis en la vanidad de la fuerza humana.</li>
+    <li><strong>La Muerte:</strong> Cuando el hombre muere, **vuelve a la tierra** y sus planes perecen.</li>
+    <li><strong>El Sustento:</strong> Dios hace **justicia al oprimido**, da **pan al hambriento** y **liberta a los cautivos**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Pobreza</h5>
+<ul>
+    <li><strong>Pobreza:</strong> Dios levanta al **caído**, ama al **justo**, guarda al **extranjero, la viuda y el huérfano**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Reinado:</strong> El **reinado de YHWH** es eterno y es la única fuente de ayuda.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fortaleza de Dios** se revela en Su **justicia social**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 146 es el <span class="highlight">llamado a la confianza teocéntrica</span>. La fe se demuestra al confiar en el poder de Dios sobre la debilidad humana.</p>
                 
@@ -26308,7 +33805,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Control de la Naturaleza:</strong> Dios controla el clima y la nieve</li>
                     <li><strong>Palabra:</strong> Dios se revela a Israel a través de Sus estatutos</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Halel (Restauración de Jerusalén y la Palabra)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Restauración y la Naturaleza</h5>
+<ul>
+    <li><strong>Género:</strong> **Halel** (alabanza por la reconstrucción del Templo).</li>
+    <li><strong>Reconstrucción:</strong> Dios **edifica a Jerusalén** y **recoge a los desterrados** de Israel.</li>
+    <li><strong>El Corazón Quebrantado:</strong> Dios **sana a los quebrantados de corazón** y **venda sus heridas**.</li>
+    <li><strong>La Naturaleza:</strong> Dios **cuenta el número de las estrellas** y les pone nombre, pero también provee hierba y lluvia.</li>
+    <li><strong>La Palabra:</strong> Dios **envía Su palabra** a la tierra, y el hielo y la nieve se derriten.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Armamento:</strong> Dios **no se complace** en la fuerza del caballo ni en la agilidad del hombre.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Revelación:</strong> Dios **reveló Sus leyes y estatutos a Israel** (la Torá), algo que no hizo con ninguna otra nación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder en la naturaleza** es superado por la **autoridad de la Palabra**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 147 une el <span class="highlight">dominio de Dios sobre la naturaleza con Su revelación a Israel</span>. La fe se regocija en el Dios que habla a Su pueblo.</p>
                 
@@ -26334,7 +33854,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Supremacía:</strong> El Nombre de Dios es excelso y único</li>
                     <li><strong>Pueblo de Dios:</strong> El cuerno de Su pueblo (Israel) es exaltado</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Halel (Alabanza Universal y Cósmica)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Creación y el Orden Cósmico</h5>
+<ul>
+    <li><strong>Género:</strong> **Halel** (un llamado universal y cósmico a la alabanza).</li>
+    <li><strong>El Cielo:</strong> Se llama a los **ángeles, ejércitos, sol, luna y estrellas** a alabar a YHWH.</li>
+    <li><strong>La Tierra:</strong> Se llama a los **dragones, abismos, fuego, granizo, nieve y viento** a alabar.</li>
+    <li><strong>La Humanidad:</strong> Se llama a los **reyes, príncipes, jóvenes, ancianos** y **doncellas** a alabar.</li>
+    <li><strong>El Fundamento:</strong> La Creación debe alabar a YHWH porque Él **"mandó y fueron creados"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Naturaleza</h5>
+<ul>
+    <li><strong>Dragones/Monstruos Marinos:</strong> Los **"dragones"** (grandes criaturas marinas) representan el caos, que debe alabar al Creador.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Exaltación:</strong> El **cuerno de Su pueblo** ha sido exaltado, el pueblo más cercano a YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder de Dios** es la fuente de la existencia de todas las cosas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 148 es la <span class="highlight">visión de la adoración total</span>. La fe ve la gloria de Dios reflejada en cada parte de la Creación.</p>
                 
@@ -26360,7 +33903,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo y Danza:</strong> La celebración en el Rey</li>
                     <li><strong>Venganza:</strong> El juicio de Dios ejecutado por Su pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Halel (El Cántico Nuevo y la Espada)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Danza y el Juicio</h5>
+<ul>
+    <li><strong>Género:</strong> **Halel** (el cántico del pueblo redimido).</li>
+    <li><strong>El Cántico Nuevo:</strong> Se exhorta a cantar un **"cántico nuevo"** en la congregación de los santos.</li>
+    <li><strong>La Danza:</strong> Se exhorta a alabar a Dios con **danza**, **tamboril** y **arpa**.</li>
+    <li><strong>El Honor:</strong> Dios **hermoseará a los humildes** con salvación.</li>
+    <li><strong>La Espada:</strong> En la mano de los santos estará una **"espada de dos filos"** para ejecutar el **juicio** sobre las naciones (la vindicación final).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Guerra</h5>
+<ul>
+    <li><strong>Venganza:</strong> El juicio es la **venganza** contra las naciones y el **castigo** sobre los pueblos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>El Gozo:</strong> El **gozo en Dios** se transforma en la **autoridad** para juzgar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **alabanza a Dios** es inseparable de la **justicia** sobre el mal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 149 conecta la <span class="highlight">alabanza con la misión y el juicio divino</span>. La fe se regocija en el Rey que usa a los humildes como instrumentos de Su justicia.</p>
                 
@@ -26386,7 +33952,39 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Instrumentos:</strong> Uso de todos los medios musicales para la alabanza</li>
                     <li><strong>Universalidad:</strong> Todo ser viviente debe alabar a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Costumbres de la Época: Halel (El Gran Final Instrumental)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Costumbres de la Adoración y los Instrumentos</h5>
+<ul>
+    <li><strong>Género:</strong> **Halel** (el cierre del Salterio).</li>
+    <li><strong>El Santuario:</strong> La alabanza debe comenzar en el **santuario** de Dios (el Templo).</li>
+    <li><strong>Los Instrumentos:</strong> Se exhorta a alabar a Dios con **siete** tipos de instrumentos:
+        <ol>
+            <li>**Trompeta** (shofar)</li>
+            <li>**Salterio** (instrumento de cuerda)</li>
+            <li>**Arpa** (instrumento de cuerda)</li>
+            <li>**Tamboril** (instrumento de percusión)</li>
+            <li>**Cuerdas** (instrumentos de cuerda)</li>
+            <li>**Flautas** (instrumentos de viento)</li>
+            <li>**Címbalos** (instrumentos de percusión, resonantes y de júbilo).</li>
+        </ol>
+    </li>
+    <li><strong>El Aliento (**Neshamá**):</strong> **"Todo lo que tiene aliento (neshamá) alabe a JAH"** (un llamado final a toda la vida).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Orquestación</h5>
+<ul>
+    <li><strong>Címbalos:</strong> Se pide alabar con **"címbalos resonantes"** y **"címbalos de júbilo"** (la máxima intensidad).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>La Totalidad:</strong> La alabanza debe ser **total** (todo lugar, toda razón, todo ser vivo y todo instrumento).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vida misma** es el último instrumento de alabanza a Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 150 es la <span class="highlight">culminación de la adoración</span>. La fe reconoce que el propósito final de la vida es la alabanza incesante y entusiasta a Dios.</p>
                 
@@ -26414,7 +34012,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Rechazo a la Instrucción:</strong> La necedad de ignorar la sabiduría</li>
                     <li><strong>Mala Compañía:</strong> Advertencia contra la violencia y la trampa de la codicia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Fundación y la Elección</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Educación Familiar</h5>
+<ul>
+    <li><strong>Propósito:</strong> Instruir al joven en la **disciplina, la prudencia y la rectitud** (1:2-3). La educación era oral y se transmitía del padre al hijo, sentados a la puerta de la casa o en el patio.</li>
+    <li><strong>La Premisa:</strong> **"El temor de YHWH es el principio de la sabiduría"** (1:7). La obediencia al Pacto es la base de todo conocimiento útil.</li>
+    <li><strong>Las Manos:</strong> El joven debe abstenerse de que sus **pies y manos** derramen sangre o participen en la violencia (1:15-16).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Comerciales y Sociales</h5>
+<ul>
+    <li><strong>El Engaño:</strong> Se advierte contra las **asociaciones criminales** que buscan ganancias rápidas (1:11-14).</li>
+    <li><strong>Ofrendas:</strong> Se manda **honrar a YHWH** con los bienes y con las **primicias** de todas las cosechas (3:9), un rito agrícola central.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Sabiduría (Ruta):</strong> Es un **árbol de vida** para quienes la abrazan (3:18).</li>
+    <li><strong>Necedad (Trampa):</strong> La ruina de los necios es el **descuido** (1:32).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El libro establece que <span class="highlight">la sabiduría es inseparable de la fe</span>. No es solo conocimiento, sino un estilo de vida basado en la reverencia a Dios.</p>
                 
@@ -26440,7 +34057,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Protección de Dios:</strong> La sabiduría guarda del mal camino</li>
                     <li><strong>El Camino del Malo:</strong> La futilidad de la maldad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Fundación y la Elección</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Educación Familiar</h5>
+<ul>
+    <li><strong>Propósito:</strong> Instruir al joven en la **disciplina, la prudencia y la rectitud** (1:2-3). La educación era oral y se transmitía del padre al hijo, sentados a la puerta de la casa o en el patio.</li>
+    <li><strong>La Premisa:</strong> **"El temor de YHWH es el principio de la sabiduría"** (1:7). La obediencia al Pacto es la base de todo conocimiento útil.</li>
+    <li><strong>Las Manos:</strong> El joven debe abstenerse de que sus **pies y manos** derramen sangre o participen en la violencia (1:15-16).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Comerciales y Sociales</h5>
+<ul>
+    <li><strong>El Engaño:</strong> Se advierte contra las **asociaciones criminales** que buscan ganancias rápidas (1:11-14).</li>
+    <li><strong>Ofrendas:</strong> Se manda **honrar a YHWH** con los bienes y con las **primicias** de todas las cosechas (3:9), un rito agrícola central.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Sabiduría (Ruta):</strong> Es un **árbol de vida** para quienes la abrazan (3:18).</li>
+    <li><strong>Necedad (Trampa):</strong> La ruina de los necios es el **descuido** (1:32).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">sabiduría es el escudo de Dios</span>. El esfuerzo personal en el estudio de la Palabra de Dios es la clave para la santificación.</p>
                 
@@ -26466,7 +34102,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Honra Financiera:</strong> Honrar a Dios con las primicias (diezmos)</li>
                     <li><strong>La Disciplina:</strong> La corrección es señal de amor</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Fundación y la Elección</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Educación Familiar</h5>
+<ul>
+    <li><strong>Propósito:</strong> Instruir al joven en la **disciplina, la prudencia y la rectitud** (1:2-3). La educación era oral y se transmitía del padre al hijo, sentados a la puerta de la casa o en el patio.</li>
+    <li><strong>La Premisa:</strong> **"El temor de YHWH es el principio de la sabiduría"** (1:7). La obediencia al Pacto es la base de todo conocimiento útil.</li>
+    <li><strong>Las Manos:</strong> El joven debe abstenerse de que sus **pies y manos** derramen sangre o participen en la violencia (1:15-16).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Comerciales y Sociales</h5>
+<ul>
+    <li><strong>El Engaño:</strong> Se advierte contra las **asociaciones criminales** que buscan ganancias rápidas (1:11-14).</li>
+    <li><strong>Ofrendas:</strong> Se manda **honrar a YHWH** con los bienes y con las **primicias** de todas las cosechas (3:9), un rito agrícola central.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Sabiduría (Ruta):</strong> Es un **árbol de vida** para quienes la abrazan (3:18).</li>
+    <li><strong>Necedad (Trampa):</strong> La ruina de los necios es el **descuido** (1:32).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">dependencia total de Dios</span> es la base para la vida. La disciplina de Dios es un acto de gracia, no de rechazo.</p>
                 
@@ -26492,7 +34147,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Guarda del Corazón:</strong> La fuente de la vida es el corazón</li>
                     <li><strong>El Camino:</strong> La elección entre la senda del justo y la del impío</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Cuidado del Cuerpo, el Corazón y la Propiedad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Anatomía Espiritual</h5>
+<ul>
+    <li><strong>El Corazón:</strong> **"Sobre toda cosa guardada, guarda tu corazón"** (4:23). El corazón (en hebreo, *lev* o *lebab*) es el centro del intelecto, la voluntad y el afecto, no solo de la emoción.</li>
+    <li><strong>El Camino:</strong> Mantener la senda de la vida **recta** y apartarse del mal (4:25-27).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Comerciales y Matrimoniales</h5>
+<ul>
+    <li><strong>La Mujer Ajena:</strong> Advertencia detallada contra la **adultera** (5:3-14), que lleva a la ruina física, financiera y social (pérdida de la reputación).</li>
+    <li><strong>Fianzas:</strong> Advertencia contra el **ser fiador** (prestar garantía) por el prójimo (6:1-5). Es una práctica comercial arriesgada que puede llevar a la esclavitud por deudas.</li>
+    <li><strong>Pereza:</strong> Se usa el ejemplo de la **hormiga** (6:6) como modelo de previsión y diligencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Castigo:</strong> Los **siete abominaciones** de YHWH (6:16-19) son pecados sociales que destruyen la comunidad (mentira, asesinato, contienda, etc.).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">sabiduría es la vida</span> misma. El corazón (la voluntad y el intelecto) debe ser el objeto de la máxima vigilancia, ya que determina el destino.</p>
                 
@@ -26518,7 +34191,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad Matrimonial:</strong> Beber de la propia cisterna (el gozo con la esposa)</li>
                     <li><strong>Juicio Divino:</strong> Dios observa todos los caminos del hombre</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Cuidado del Cuerpo, el Corazón y la Propiedad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Anatomía Espiritual</h5>
+<ul>
+    <li><strong>El Corazón:</strong> **"Sobre toda cosa guardada, guarda tu corazón"** (4:23). El corazón (en hebreo, *lev* o *lebab*) es el centro del intelecto, la voluntad y el afecto, no solo de la emoción.</li>
+    <li><strong>El Camino:</strong> Mantener la senda de la vida **recta** y apartarse del mal (4:25-27).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Comerciales y Matrimoniales</h5>
+<ul>
+    <li><strong>La Mujer Ajena:</strong> Advertencia detallada contra la **adultera** (5:3-14), que lleva a la ruina física, financiera y social (pérdida de la reputación).</li>
+    <li><strong>Fianzas:</strong> Advertencia contra el **ser fiador** (prestar garantía) por el prójimo (6:1-5). Es una práctica comercial arriesgada que puede llevar a la esclavitud por deudas.</li>
+    <li><strong>Pereza:</strong> Se usa el ejemplo de la **hormiga** (6:6) como modelo de previsión y diligencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Castigo:</strong> Los **siete abominaciones** de YHWH (6:16-19) son pecados sociales que destruyen la comunidad (mentira, asesinato, contienda, etc.).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad matrimonial</span> es un indicador de la fidelidad a Dios. El pecado sexual destruye la honra, la riqueza y el alma.</p>
                 
@@ -26544,7 +34235,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Diligencia:</strong> La hormiga como ejemplo de trabajo duro</li>
                     <li><strong>Siete Abominaciones:</strong> La maldad social y el pecado de la lengua</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Cuidado del Cuerpo, el Corazón y la Propiedad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Anatomía Espiritual</h5>
+<ul>
+    <li><strong>El Corazón:</strong> **"Sobre toda cosa guardada, guarda tu corazón"** (4:23). El corazón (en hebreo, *lev* o *lebab*) es el centro del intelecto, la voluntad y el afecto, no solo de la emoción.</li>
+    <li><strong>El Camino:</strong> Mantener la senda de la vida **recta** y apartarse del mal (4:25-27).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Comerciales y Matrimoniales</h5>
+<ul>
+    <li><strong>La Mujer Ajena:</strong> Advertencia detallada contra la **adultera** (5:3-14), que lleva a la ruina física, financiera y social (pérdida de la reputación).</li>
+    <li><strong>Fianzas:</strong> Advertencia contra el **ser fiador** (prestar garantía) por el prójimo (6:1-5). Es una práctica comercial arriesgada que puede llevar a la esclavitud por deudas.</li>
+    <li><strong>Pereza:</strong> Se usa el ejemplo de la **hormiga** (6:6) como modelo de previsión y diligencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Castigo:</strong> Los **siete abominaciones** de YHWH (6:16-19) son pecados sociales que destruyen la comunidad (mentira, asesinato, contienda, etc.).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">integridad y la diligencia</span> son requeridas por Dios. Los pecados sociales (mentira, discordia) son tan abominables para Dios como el derramamiento de sangre.</p>
                 
@@ -26570,7 +34279,24 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Destino:</strong> El camino de la seducción lleva directamente a la muerte</li>
                     <li><strong>Juicio Inevitable:</strong> El seducido no conoce que va a la ruina</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Seducción de la Falla y el Llamado de la Sabiduría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Personificación</h5>
+<ul>
+    <li>**La Mujer Necia (Folly):** Es descrita de forma sensual, como una **adúltera en las calles** que busca hombres sencillos (7:6-21).</li>
+    <li>**La Sabiduría (Wisdom):** Personificada como una **dama que clama** desde los lugares altos (8:1-3) y estuvo con Dios en la Creación (8:22-31).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Hospitalidad</h5>
+<ul>
+    <li>**La Cena de Sabiduría:** Ella prepara una **casa, mata animales, mezcla vino** y pone la mesa (9:1-5). La aceptación de su invitación es vida.</li>
+    <li>**La Cena de Folly:** Ella también invita, pero sus aguas son **robadas** y llevan a los invitados a la **Muerte** (9:17-18).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Castigo: La muerte** es la paga de la necedad; la **vida** y el **favor de YHWH** son la paga de la sabiduría.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">pecado se presenta como una dulce tentación</span> que parece excusada por la religión. El creyente debe huir del pecado sexual para preservar su vida.</p>
                 
@@ -26596,7 +34322,24 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arquitecta:</strong> El agente de Dios en la Creación del cosmos</li>
                     <li><strong>Recompensa:</strong> Riqueza, honor y vida para quien la encuentra</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Seducción de la Falla y el Llamado de la Sabiduría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Personificación</h5>
+<ul>
+    <li>**La Mujer Necia (Folly):** Es descrita de forma sensual, como una **adúltera en las calles** que busca hombres sencillos (7:6-21).</li>
+    <li>**La Sabiduría (Wisdom):** Personificada como una **dama que clama** desde los lugares altos (8:1-3) y estuvo con Dios en la Creación (8:22-31).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Hospitalidad</h5>
+<ul>
+    <li>**La Cena de Sabiduría:** Ella prepara una **casa, mata animales, mezcla vino** y pone la mesa (9:1-5). La aceptación de su invitación es vida.</li>
+    <li>**La Cena de Folly:** Ella también invita, pero sus aguas son **robadas** y llevan a los invitados a la **Muerte** (9:17-18).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Castigo: La muerte** es la paga de la necedad; la **vida** y el **favor de YHWH** son la paga de la sabiduría.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La Sabiduría es una <span class="highlight">prefiguración de Cristo</span> (el Logos de Dios), por quien todas las cosas fueron hechas (Jn. 1). Buscar la Sabiduría es buscar a Dios.</p>
                 
@@ -26622,7 +34365,24 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Banquete de la Sabiduría:</strong> La invitación a la vida y el conocimiento</li>
                     <li><strong>El Pan de la Necedad:</strong> El engaño del pecado (la dulzura del robo)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Seducción de la Falla y el Llamado de la Sabiduría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Personificación</h5>
+<ul>
+    <li>**La Mujer Necia (Folly):** Es descrita de forma sensual, como una **adúltera en las calles** que busca hombres sencillos (7:6-21).</li>
+    <li>**La Sabiduría (Wisdom):** Personificada como una **dama que clama** desde los lugares altos (8:1-3) y estuvo con Dios en la Creación (8:22-31).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Hospitalidad</h5>
+<ul>
+    <li>**La Cena de Sabiduría:** Ella prepara una **casa, mata animales, mezcla vino** y pone la mesa (9:1-5). La aceptación de su invitación es vida.</li>
+    <li>**La Cena de Folly:** Ella también invita, pero sus aguas son **robadas** y llevan a los invitados a la **Muerte** (9:17-18).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Castigo: La muerte** es la paga de la necedad; la **vida** y el **favor de YHWH** son la paga de la sabiduría.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El Salmo 9 es el <span class="highlight">llamado a la decisión</span>. El hombre debe dejar la simpleza y escoger el conocimiento de Dios para vivir.</p>
                 
@@ -26648,7 +34408,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Lengua:</strong> El sabio habla vida; el impío habla maldad</li>
                     <li><strong>Destino:</strong> El temor de Dios es vida; la maldad es muerte</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Riqueza, Trabajo y Palabras</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ética Laboral</h5>
+<ul>
+    <li>**Riqueza y Pobreza:** La riqueza adquirida por la **vanidad** (engaño) no es útil (10:2). La **mano negligente** empobrece, la mano diligente enriquece (10:4).</li>
+    <li>**Pesas y Medidas:** La **balanza falsa** es abominación (11:1). Los estándares comerciales honestos eran fundamentales para la ley del Pacto.</li>
+    <li>**El Viento:** La riqueza es comparada con un **viento** que no perdura (11:29).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Conversación</h5>
+<ul>
+    <li>**La Boca:** La **boca del justo** es manantial de vida (10:11). El chismoso revela el secreto (11:13), un pecado social grave.</li>
+    <li>**El Lenguaje:** La lengua es un **árbol de vida** (15:4, aunque más adelante) o un arma cortante (12:18).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Destino:** El **impío es derribado** y el **justo permanece firme** (12:3).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">rectitud es práctica</span> y afecta todos los aspectos de la vida, desde el trabajo hasta el habla.</p>
                 
@@ -26674,7 +34452,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> La humildad es el camino a la sabiduría</li>
                     <li><strong>Generosidad:</strong> El generoso es enriquecido; el avaro es empobrecido</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Riqueza, Trabajo y Palabras</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ética Laboral</h5>
+<ul>
+    <li>**Riqueza y Pobreza:** La riqueza adquirida por la **vanidad** (engaño) no es útil (10:2). La **mano negligente** empobrece, la mano diligente enriquece (10:4).</li>
+    <li>**Pesas y Medidas:** La **balanza falsa** es abominación (11:1). Los estándares comerciales honestos eran fundamentales para la ley del Pacto.</li>
+    <li>**El Viento:** La riqueza es comparada con un **viento** que no perdura (11:29).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Conversación</h5>
+<ul>
+    <li>**La Boca:** La **boca del justo** es manantial de vida (10:11). El chismoso revela el secreto (11:13), un pecado social grave.</li>
+    <li>**El Lenguaje:** La lengua es un **árbol de vida** (15:4, aunque más adelante) o un arma cortante (12:18).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Destino:** El **impío es derribado** y el **justo permanece firme** (12:3).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">honestidad en los negocios</span> es un acto de adoración. La generosidad es la clave para la verdadera prosperidad.</p>
                 
@@ -26700,7 +34496,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Veracidad:</strong> La lengua del justo sana; la del impío hiere</li>
                     <li><strong>Destino:</strong> El destino es determinado por el trabajo y las palabras</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Riqueza, Trabajo y Palabras</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ética Laboral</h5>
+<ul>
+    <li>**Riqueza y Pobreza:** La riqueza adquirida por la **vanidad** (engaño) no es útil (10:2). La **mano negligente** empobrece, la mano diligente enriquece (10:4).</li>
+    <li>**Pesas y Medidas:** La **balanza falsa** es abominación (11:1). Los estándares comerciales honestos eran fundamentales para la ley del Pacto.</li>
+    <li>**El Viento:** La riqueza es comparada con un **viento** que no perdura (11:29).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Conversación</h5>
+<ul>
+    <li>**La Boca:** La **boca del justo** es manantial de vida (10:11). El chismoso revela el secreto (11:13), un pecado social grave.</li>
+    <li>**El Lenguaje:** La lengua es un **árbol de vida** (15:4, aunque más adelante) o un arma cortante (12:18).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Destino:** El **impío es derribado** y el **justo permanece firme** (12:3).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">control de la lengua</span> es la prueba de fuego de la sabiduría. El trabajo duro es un requisito para el sustento.</p>
                 
@@ -26726,7 +34540,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Disciplina Paternal:</strong> La necesidad de la vara para la instrucción</li>
                     <li><strong>Riqueza y Trabajo:</strong> La herencia de los pecadores es para el justo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Comunidad, la Familia y las Emociones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Piedad Doméstica</h5>
+<ul>
+    <li>**La Herencia:** El hombre bueno **deja herencia** a los hijos de sus hijos (13:22). La tierra y la propiedad eran el eje de la identidad tribal.</li>
+    <li>**El Liderazgo:** El **rey** se afirma con el juicio, pero el hombre corrupto causa el desorden (14:35).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Templo y el Culto</h5>
+<ul>
+    <li>**El Sacrificio:** El **sacrificio de los impíos es abominación** para YHWH (15:8). El rito sin rectitud moral era nulo.</li>
+    <li>**El Testigo Falso:** El testigo verdadero salva las almas (14:25). La **falsedad en el tribunal** era un crimen capital (Éxodo 23:1).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Respuesta:** La **suave respuesta** quita la ira, la palabra **áspera** excita el furor (15:1).</li>
+    <li>**Alegría vs. Tristeza:** El **corazón alegre** es una buena medicina (17:22).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">control de la lengua</span> es un acto de autoconservación. La disciplina paternal es un acto de amor y responsabilidad.</p>
                 
@@ -26752,7 +34584,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Temor de Dios:</strong> La fuente de vida que aparta del lazo de la muerte</li>
                     <li><strong>El Liderazgo:</strong> La justicia engrandece a la nación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Comunidad, la Familia y las Emociones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Piedad Doméstica</h5>
+<ul>
+    <li>**La Herencia:** El hombre bueno **deja herencia** a los hijos de sus hijos (13:22). La tierra y la propiedad eran el eje de la identidad tribal.</li>
+    <li>**El Liderazgo:** El **rey** se afirma con el juicio, pero el hombre corrupto causa el desorden (14:35).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Templo y el Culto</h5>
+<ul>
+    <li>**El Sacrificio:** El **sacrificio de los impíos es abominación** para YHWH (15:8). El rito sin rectitud moral era nulo.</li>
+    <li>**El Testigo Falso:** El testigo verdadero salva las almas (14:25). La **falsedad en el tribunal** era un crimen capital (Éxodo 23:1).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Respuesta:** La **suave respuesta** quita la ira, la palabra **áspera** excita el furor (15:1).</li>
+    <li>**Alegría vs. Tristeza:** El **corazón alegre** es una buena medicina (17:22).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">sabiduría es práctica</span> y se manifiesta en la vida familiar y cívica. El temor de Dios es el único refugio verdadero en la vida.</p>
                 
@@ -26778,7 +34628,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Omnisciencia:</strong> Dios ve todo lo que sucede</li>
                     <li><strong>Oración:</strong> La oración del justo es el deleite de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Comunidad, la Familia y las Emociones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Piedad Doméstica</h5>
+<ul>
+    <li>**La Herencia:** El hombre bueno **deja herencia** a los hijos de sus hijos (13:22). La tierra y la propiedad eran el eje de la identidad tribal.</li>
+    <li>**El Liderazgo:** El **rey** se afirma con el juicio, pero el hombre corrupto causa el desorden (14:35).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Templo y el Culto</h5>
+<ul>
+    <li>**El Sacrificio:** El **sacrificio de los impíos es abominación** para YHWH (15:8). El rito sin rectitud moral era nulo.</li>
+    <li>**El Testigo Falso:** El testigo verdadero salva las almas (14:25). La **falsedad en el tribunal** era un crimen capital (Éxodo 23:1).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Respuesta:** La **suave respuesta** quita la ira, la palabra **áspera** excita el furor (15:1).</li>
+    <li>**Alegría vs. Tristeza:** El **corazón alegre** es una buena medicina (17:22).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">respuesta suave es la sabiduría práctica</span> que mantiene la paz. El temor de Dios se basa en la certeza de Su conocimiento total.</p>
                 
@@ -26804,7 +34672,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> La humildad precede a la honra</li>
                     <li><strong>Control del Espíritu:</strong> Mejor que la toma de una ciudad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Soberanía de Dios y el Control de la Palabra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Voluntad Divina</h5>
+<ul>
+    <li>**La Suerte (Sorteo):** **"La suerte se echa en el regazo, pero de YHWH es todo su juicio"** (16:33). El sorteo era un método aceptado para determinar la voluntad de Dios (como en la división de la Tierra Prometida).</li>
+    <li>**El Corazón:** Los **planes del corazón** son del hombre, pero la **respuesta de la lengua** es de YHWH (16:1).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza y la Amistad</h5>
+<ul>
+    <li>**El Rey:** El trono se establece con **justicia** (16:12). El rey es el garante del orden social.</li>
+    <li>**El Amigo:** Hay amigos que son **más unidos que un hermano** (18:24). El juramento de amistad era un pacto social sagrado.</li>
+    <li>**El Necio:** El **necio habla antes de escuchar** (18:13).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Juicio:** El **espíritu altivo** es antes de la caída; la **humildad** es antes de la honra (16:18).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe se somete al control de Dios</span>. El hombre propone, pero Dios dispone. El temor de Dios es la clave para una vida de rectitud.</p>
                 
@@ -26830,7 +34716,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Amistad:</strong> La lealtad del amigo en la adversidad</li>
                     <li><strong>Lengua:</strong> El control de la boca es la sabiduría</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Soberanía de Dios y el Control de la Palabra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Voluntad Divina</h5>
+<ul>
+    <li>**La Suerte (Sorteo):** **"La suerte se echa en el regazo, pero de YHWH es todo su juicio"** (16:33). El sorteo era un método aceptado para determinar la voluntad de Dios (como en la división de la Tierra Prometida).</li>
+    <li>**El Corazón:** Los **planes del corazón** son del hombre, pero la **respuesta de la lengua** es de YHWH (16:1).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza y la Amistad</h5>
+<ul>
+    <li>**El Rey:** El trono se establece con **justicia** (16:12). El rey es el garante del orden social.</li>
+    <li>**El Amigo:** Hay amigos que son **más unidos que un hermano** (18:24). El juramento de amistad era un pacto social sagrado.</li>
+    <li>**El Necio:** El **necio habla antes de escuchar** (18:13).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Juicio:** El **espíritu altivo** es antes de la caída; la **humildad** es antes de la honra (16:18).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">lealtad es la prueba de la verdadera amistad</span>. La paz interior y la paz en el hogar son más valiosas que la riqueza.</p>
                 
@@ -26856,7 +34760,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Amistad:</strong> El valor de un amigo más cercano que un hermano</li>
                     <li><strong>Orgullo:</strong> La soberbia precede a la caída</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Soberanía de Dios y el Control de la Palabra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Voluntad Divina</h5>
+<ul>
+    <li>**La Suerte (Sorteo):** **"La suerte se echa en el regazo, pero de YHWH es todo su juicio"** (16:33). El sorteo era un método aceptado para determinar la voluntad de Dios (como en la división de la Tierra Prometida).</li>
+    <li>**El Corazón:** Los **planes del corazón** son del hombre, pero la **respuesta de la lengua** es de YHWH (16:1).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza y la Amistad</h5>
+<ul>
+    <li>**El Rey:** El trono se establece con **justicia** (16:12). El rey es el garante del orden social.</li>
+    <li>**El Amigo:** Hay amigos que son **más unidos que un hermano** (18:24). El juramento de amistad era un pacto social sagrado.</li>
+    <li>**El Necio:** El **necio habla antes de escuchar** (18:13).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Juicio:** El **espíritu altivo** es antes de la caída; la **humildad** es antes de la honra (16:18).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">poder de la palabra es creativo o destructivo</span>. El verdadero amigo es un refugio y un tesoro.</p>
                 
@@ -26882,7 +34804,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pereza:</strong> El camino de la pereza es la ruina</li>
                     <li><strong>Misericordia:</strong> La bendición de ser generoso con el pobre</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: El Pobre, el Rico y la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Caridad y la Pobreza</h5>
+<ul>
+    <li>**Pobreza y Dios:** **"A YHWH presta el que da al pobre"** (19:17). El acto de caridad es un préstamo que Dios garantiza pagar.</li>
+    <li>**El Testigo Falso:** El **testigo falso** no quedará sin castigo (19:5). (Ver 6:19).</li>
+    <li>**El Rey y el Corazón:** El **corazón del rey** es como canales de agua en la mano de YHWH (21:1). El rey solo actúa por la soberanía de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Bebida y Vicio</h5>
+<ul>
+    <li>**El Vino:** El **vino es escarnecedor** y el licor alborotador (20:1). Advertencia contra la embriaguez, común en fiestas.</li>
+    <li>**Comercio:** **"Mala cosa, mala cosa"**, dice el comprador (20:14). El uso de la astucia para regatear es parte de la dinámica comercial.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Los Planes:** Hay **muchos planes** en el corazón del hombre, mas el **consejo de YHWH** es el que permanece (19:21).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">integridad moral</span> es más valiosa que la riqueza. La piedad es la base para una vida larga y próspera.</p>
                 
@@ -26908,7 +34848,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Honradez:</strong> La dificultad de encontrar un hombre fiel</li>
                     <li><strong>Soberanía:</strong> Dios dirige los pasos del hombre</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: El Pobre, el Rico y la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Caridad y la Pobreza</h5>
+<ul>
+    <li>**Pobreza y Dios:** **"A YHWH presta el que da al pobre"** (19:17). El acto de caridad es un préstamo que Dios garantiza pagar.</li>
+    <li>**El Testigo Falso:** El **testigo falso** no quedará sin castigo (19:5). (Ver 6:19).</li>
+    <li>**El Rey y el Corazón:** El **corazón del rey** es como canales de agua en la mano de YHWH (21:1). El rey solo actúa por la soberanía de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Bebida y Vicio</h5>
+<ul>
+    <li>**El Vino:** El **vino es escarnecedor** y el licor alborotador (20:1). Advertencia contra la embriaguez, común en fiestas.</li>
+    <li>**Comercio:** **"Mala cosa, mala cosa"**, dice el comprador (20:14). El uso de la astucia para regatear es parte de la dinámica comercial.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Los Planes:** Hay **muchos planes** en el corazón del hombre, mas el **consejo de YHWH** es el que permanece (19:21).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">templanza</span> es un requisito de la sabiduría. La justicia del rey es la lámpara de Dios en el reino.</p>
                 
@@ -26934,7 +34892,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia vs. Sacrificio:</strong> La justicia es preferible al rito</li>
                     <li><strong>Guerra:</strong> La sabiduría militar es inútil sin Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: El Pobre, el Rico y la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Caridad y la Pobreza</h5>
+<ul>
+    <li>**Pobreza y Dios:** **"A YHWH presta el que da al pobre"** (19:17). El acto de caridad es un préstamo que Dios garantiza pagar.</li>
+    <li>**El Testigo Falso:** El **testigo falso** no quedará sin castigo (19:5). (Ver 6:19).</li>
+    <li>**El Rey y el Corazón:** El **corazón del rey** es como canales de agua en la mano de YHWH (21:1). El rey solo actúa por la soberanía de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de Bebida y Vicio</h5>
+<ul>
+    <li>**El Vino:** El **vino es escarnecedor** y el licor alborotador (20:1). Advertencia contra la embriaguez, común en fiestas.</li>
+    <li>**Comercio:** **"Mala cosa, mala cosa"**, dice el comprador (20:14). El uso de la astucia para regatear es parte de la dinámica comercial.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Los Planes:** Hay **muchos planes** en el corazón del hombre, mas el **consejo de YHWH** es el que permanece (19:21).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">corazón del rey es controlado por Dios</span> para el bien o para el mal. La justicia ética es superior a la observancia ritual.</p>
                 
@@ -26960,7 +34936,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Educación:</strong> Instruir al niño en su camino</li>
                     <li><strong>Pobreza:</strong> La bendición de ser generoso con el pobre</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Reputación y las Fronteras</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Reputación y la Sabiduría</h5>
+<ul>
+    <li>**El Buen Nombre:** El **buen nombre** (reputación) es preferible a las muchas riquezas (22:1).</li>
+    <li>**La Educación Infantil:** **"Instruye al niño en su camino..."** (22:6). La enseñanza temprana es clave para forjar el carácter.</li>
+    <li>**Las Palabras de los Sabios:** Comienza una nueva sección de **"palabras de los sabios"** (22:17), a menudo con un enfoque en la ética social.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Sociales y Agrarias</h5>
+<ul>
+    <li>**Fronteras:** No **quites el lindero antiguo** (22:28). Mover una piedra fronteriza era un robo agrario que violaba el derecho a la herencia.</li>
+    <li>**Comer con el Gobernante:** Advertencia contra la gula y el engaño al **comer con un poderoso** (23:1-3), cuidando la apariencia.</li>
+    <li>**Disciplina Corporal:** La **vara de la disciplina** (23:13) es un instrumento de corrección.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Esclavo:** La diligencia hace que el hombre **sirva ante los reyes** y no ante la gente baja (22:29).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">reputación es el activo más importante</span> del creyente. La educación de los hijos es un mandato que asegura la continuidad de la fe.</p>
                 
@@ -26986,7 +34981,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ansiedad por la Riqueza:</strong> La futilidad de la codicia</li>
                     <li><strong>Ojos de Dios:</strong> La observación divina sobre el hombre</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Reputación y las Fronteras</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Reputación y la Sabiduría</h5>
+<ul>
+    <li>**El Buen Nombre:** El **buen nombre** (reputación) es preferible a las muchas riquezas (22:1).</li>
+    <li>**La Educación Infantil:** **"Instruye al niño en su camino..."** (22:6). La enseñanza temprana es clave para forjar el carácter.</li>
+    <li>**Las Palabras de los Sabios:** Comienza una nueva sección de **"palabras de los sabios"** (22:17), a menudo con un enfoque en la ética social.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Sociales y Agrarias</h5>
+<ul>
+    <li>**Fronteras:** No **quites el lindero antiguo** (22:28). Mover una piedra fronteriza era un robo agrario que violaba el derecho a la herencia.</li>
+    <li>**Comer con el Gobernante:** Advertencia contra la gula y el engaño al **comer con un poderoso** (23:1-3), cuidando la apariencia.</li>
+    <li>**Disciplina Corporal:** La **vara de la disciplina** (23:13) es un instrumento de corrección.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Esclavo:** La diligencia hace que el hombre **sirva ante los reyes** y no ante la gente baja (22:29).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">templanza es un signo de sabiduría</span>. La búsqueda de la riqueza es una trampa que distrae del verdadero camino.</p>
                 
@@ -27012,7 +35026,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Venganza:</strong> El creyente no debe regocijarse en la caída del enemigo</li>
                     <li><strong>Disciplina:</strong> La corrección es necesaria para el justo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: La Reputación y las Fronteras</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Reputación y la Sabiduría</h5>
+<ul>
+    <li>**El Buen Nombre:** El **buen nombre** (reputación) es preferible a las muchas riquezas (22:1).</li>
+    <li>**La Educación Infantil:** **"Instruye al niño en su camino..."** (22:6). La enseñanza temprana es clave para forjar el carácter.</li>
+    <li>**Las Palabras de los Sabios:** Comienza una nueva sección de **"palabras de los sabios"** (22:17), a menudo con un enfoque en la ética social.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres Sociales y Agrarias</h5>
+<ul>
+    <li>**Fronteras:** No **quites el lindero antiguo** (22:28). Mover una piedra fronteriza era un robo agrario que violaba el derecho a la herencia.</li>
+    <li>**Comer con el Gobernante:** Advertencia contra la gula y el engaño al **comer con un poderoso** (23:1-3), cuidando la apariencia.</li>
+    <li>**Disciplina Corporal:** La **vara de la disciplina** (23:13) es un instrumento de corrección.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Esclavo:** La diligencia hace que el hombre **sirva ante los reyes** y no ante la gente baja (22:29).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">sabiduría es el principio de la arquitectura de la vida</span>. La venganza es un derecho de Dios, no del hombre.</p>
                 
@@ -27038,7 +35071,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Control Emocional:</strong> Evitar la contienda y el chisme</li>
                     <li><strong>Encubrimiento Divino:</strong> La sabiduría de Dios se revela en Su misterio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: El Rey, el Necio y la Vecindad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Corte Real (Compilación de Ezequías)</h5>
+<ul>
+    <li>**El Rey y el Misterio:** La **gloria de Dios es encubrir un asunto**; la **gloria del rey es investigarlo** (25:2). Ezequías compila los proverbios para usarlos en el gobierno.</li>
+    <li>**El Liderazgo:** Quitar la escoria de la plata produce un **vaso fino**; quitar a los impíos del rey establece el trono (25:4-5).</li>
+    <li>**El Servicio:** Servir al rey, pero no **ensalzarse a sí mismo** (25:6-7).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Interacción Social</h5>
+<ul>
+    <li>**El Necio:** El necio es comparado con la **nieve en verano y la lluvia en cosecha** (26:1), algo inútil y fuera de lugar.</li>
+    <li>**El Chismoso:** El chisme es como **bocados** que bajan hasta lo más profundo del vientre (26:22).</li>
+    <li>**La Amistad y la Lealtad:** **"No dejes a tu amigo ni al amigo de tu padre"** (27:10). La lealtad del vecino es más valiosa que un hermano lejano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Reprensión:** Mejor es la **franca reprensión** que el amor encubierto (27:5).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humildad en la corte</span> es la clave para la sabiduría. La paciencia es una virtud real.</p>
                 
@@ -27064,7 +35116,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pereza:</strong> La invención de excusas para la inacción</li>
                     <li><strong>Malicia:</strong> El odio que se encubre con palabras dulces</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: El Rey, el Necio y la Vecindad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Corte Real (Compilación de Ezequías)</h5>
+<ul>
+    <li>**El Rey y el Misterio:** La **gloria de Dios es encubrir un asunto**; la **gloria del rey es investigarlo** (25:2). Ezequías compila los proverbios para usarlos en el gobierno.</li>
+    <li>**El Liderazgo:** Quitar la escoria de la plata produce un **vaso fino**; quitar a los impíos del rey establece el trono (25:4-5).</li>
+    <li>**El Servicio:** Servir al rey, pero no **ensalzarse a sí mismo** (25:6-7).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Interacción Social</h5>
+<ul>
+    <li>**El Necio:** El necio es comparado con la **nieve en verano y la lluvia en cosecha** (26:1), algo inútil y fuera de lugar.</li>
+    <li>**El Chismoso:** El chisme es como **bocados** que bajan hasta lo más profundo del vientre (26:22).</li>
+    <li>**La Amistad y la Lealtad:** **"No dejes a tu amigo ni al amigo de tu padre"** (27:10). La lealtad del vecino es más valiosa que un hermano lejano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Reprensión:** Mejor es la **franca reprensión** que el amor encubierto (27:5).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">necedad es incurable</span> si no hay voluntad para el cambio. La pereza es una manifestación de la incredulidad.</p>
                 
@@ -27090,7 +35161,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoexamen:</strong> El hombre debe conocer su propio corazón</li>
                     <li><strong>Jactancia:</strong> No jactarse del mañana</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: El Rey, el Necio y la Vecindad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Corte Real (Compilación de Ezequías)</h5>
+<ul>
+    <li>**El Rey y el Misterio:** La **gloria de Dios es encubrir un asunto**; la **gloria del rey es investigarlo** (25:2). Ezequías compila los proverbios para usarlos en el gobierno.</li>
+    <li>**El Liderazgo:** Quitar la escoria de la plata produce un **vaso fino**; quitar a los impíos del rey establece el trono (25:4-5).</li>
+    <li>**El Servicio:** Servir al rey, pero no **ensalzarse a sí mismo** (25:6-7).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Interacción Social</h5>
+<ul>
+    <li>**El Necio:** El necio es comparado con la **nieve en verano y la lluvia en cosecha** (26:1), algo inútil y fuera de lugar.</li>
+    <li>**El Chismoso:** El chisme es como **bocados** que bajan hasta lo más profundo del vientre (26:22).</li>
+    <li>**La Amistad y la Lealtad:** **"No dejes a tu amigo ni al amigo de tu padre"** (27:10). La lealtad del vecino es más valiosa que un hermano lejano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Reprensión:** Mejor es la **franca reprensión** que el amor encubierto (27:5).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">honestidad de la reprensión</span> es un acto de amor. La fe se enfoca en el presente, no en la jactancia del futuro.</p>
                 
@@ -27116,7 +35206,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confesión:</strong> El que confiesa y deja el pecado alcanza misericordia</li>
                     <li><strong>Codicia:</strong> El que aumenta sus riquezas por usura las guarda para el que es justo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Gobierno, Ley y Confesión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Ley y Justicia Social</h5>
+<ul>
+    <li>**El Juicio:** El pueblo que tiene **justicia** se alegra, pero si gobierna el impío, el pueblo gime (29:2).</li>
+    <li>**La Confesión:** El que **encubre sus pecados** no prosperará; el que los **confiesa y se aparta** alcanzará misericordia (28:13).</li>
+    <li>**El Corazón de Piedra:** El que **endurece su cerviz** (cuello) será quebrantado (29:1).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Ladrón y el Soplón</h5>
+<ul>
+    <li>**El Ladrón:** El que **roba a su padre o madre** es compañero de un hombre destructor (28:24).</li>
+    <li>**El Miedo:** El **temor del hombre** pondrá lazo, mas el que confía en YHWH estará seguro (29:25).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Visión:** **"Donde no hay visión profética, el pueblo se desenfrena"** (29:18). La ley (Torá/instrucción) es el ancla social.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">integridad es el refugio del creyente</span>. La confesión es la llave para la misericordia.</p>
                 
@@ -27142,7 +35250,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Disciplina:</strong> La corrección es necesaria para el siervo</li>
                     <li><strong>Visión:</strong> El pueblo perece cuando no hay profecía (visión de la Ley)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: Gobierno, Ley y Confesión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Ley y Justicia Social</h5>
+<ul>
+    <li>**El Juicio:** El pueblo que tiene **justicia** se alegra, pero si gobierna el impío, el pueblo gime (29:2).</li>
+    <li>**La Confesión:** El que **encubre sus pecados** no prosperará; el que los **confiesa y se aparta** alcanzará misericordia (28:13).</li>
+    <li>**El Corazón de Piedra:** El que **endurece su cerviz** (cuello) será quebrantado (29:1).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Ladrón y el Soplón</h5>
+<ul>
+    <li>**El Ladrón:** El que **roba a su padre o madre** es compañero de un hombre destructor (28:24).</li>
+    <li>**El Miedo:** El **temor del hombre** pondrá lazo, mas el que confía en YHWH estará seguro (29:25).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Visión:** **"Donde no hay visión profética, el pueblo se desenfrena"** (29:18). La ley (Torá/instrucción) es el ancla social.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">disciplina de Dios es amorosa</span>. El rechazo persistente a la corrección sella el destino del rebelde.</p>
                 
@@ -27168,7 +35294,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Súplica:</strong> Pedir el equilibrio (no ser pobre ni rico)</li>
                     <li><strong>Orden Natural:</strong> La sabiduría de las cosas pequeñas (hormiga, conejo)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: El Enigma, la Maternidad y el Poema de la Mujer Fuerte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Las Palabras Finales</h5>
+<ul>
+    <li>**Palabras de Agur (Cap. 30):** Contiene un **enigma** o adivinanza (30:2-4), una forma común de sabiduría antigua. | Se enfoca en las cosas insaciables (30:15-16) y los cuatro grupos (30:24-28).</li>
+    <li>**Palabras de Lemuel (Cap. 31:1-9):** La **instrucción de una madre a su hijo** (un rey). Advierte contra el vino y la lujuria, y manda juzgar con justicia a los pobres.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ La Mujer Virtuosa (Poema Acróstico - Cap. 31:10-31)</h5>
+<ul>
+    <li>**Un Poema Acróstico:** Cada verso comienza con una letra del alfabeto hebreo, celebrando la totalidad de su virtud.</li>
+    <li>**Economía Doméstica:** Ella se levanta **antes del amanecer** (31:15), busca **lana y lino** (31:13), y hace **telas finas** para vender (31:24). Ella es una gestora económica.</li>
+    <li>**El Manto y la Realeza:** Su marido es conocido en las **puertas de la ciudad** (31:23) (donde se administraba la justicia) debido a su apoyo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Belleza vs. El Temor:** El **engaño es la gracia** y **vana la hermosura**; la mujer que **teme a YHWH**, ésa será alabada (31:30).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humildad intelectual</span> es el comienzo de la verdadera sabiduría. La fe se contenta con la provisión diaria de Dios.</p>
                 
@@ -27194,7 +35338,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mujer Virtuosa:</strong> El ideal de la piedad y la diligencia en el hogar</li>
                     <li><strong>Temor de Dios:</strong> La belleza de la mujer está en el temor de Jehová</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Cultural: El Enigma, la Maternidad y el Poema de la Mujer Fuerte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Las Palabras Finales</h5>
+<ul>
+    <li>**Palabras de Agur (Cap. 30):** Contiene un **enigma** o adivinanza (30:2-4), una forma común de sabiduría antigua. | Se enfoca en las cosas insaciables (30:15-16) y los cuatro grupos (30:24-28).</li>
+    <li>**Palabras de Lemuel (Cap. 31:1-9):** La **instrucción de una madre a su hijo** (un rey). Advierte contra el vino y la lujuria, y manda juzgar con justicia a los pobres.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ La Mujer Virtuosa (Poema Acróstico - Cap. 31:10-31)</h5>
+<ul>
+    <li>**Un Poema Acróstico:** Cada verso comienza con una letra del alfabeto hebreo, celebrando la totalidad de su virtud.</li>
+    <li>**Economía Doméstica:** Ella se levanta **antes del amanecer** (31:15), busca **lana y lino** (31:13), y hace **telas finas** para vender (31:24). Ella es una gestora económica.</li>
+    <li>**El Manto y la Realeza:** Su marido es conocido en las **puertas de la ciudad** (31:23) (donde se administraba la justicia) debido a su apoyo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Belleza vs. El Temor:** El **engaño es la gracia** y **vana la hermosura**; la mujer que **teme a YHWH**, ésa será alabada (31:30).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">piedad en el hogar es la culminación de la sabiduría</span>. El temor de Dios es la única fuente de la verdadera belleza y valor.</p>
                 
@@ -27222,7 +35384,28 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Ciclos sin Sentido:</strong> La naturaleza repetitiva y agotadora de la vida</li>
                 <li><strong>El Dolor de la Sabiduría:</strong> A mayor conocimiento, mayor dolor y aflicción</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Introducción al Hebel y la Naturaleza Cíclica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Filosofía del Hebel</h5>
+<ul>
+    <li><strong>El Qoheleth:</strong> El autor se identifica como el "Predicador" o "Assemblador," tradicionalmente Salomón, lo que le da autoridad sapiencial.</li>
+    <li><strong>El Tema Central (*Hebel*):</strong> La palabra *hebel* se traduce como **vanidad** o **futilidad**. Su significado literal es **"soplo"** o **"vapor"**, indicando lo que es inasible, transitorio e insustancial.</li>
+    <li><strong>El Ciclo Natural:</strong> El Predicador observa los ciclos de la naturaleza: el **sol** que sale y se pone, el **viento** que da vueltas, los **ríos** que fluyen al mar sin llenarlo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Memoria</h5>
+<ul>
+    <li><strong>La Novedad:</strong> El Predicador lamenta que **"no hay nada nuevo bajo el sol"** y que la memoria de los hechos pasados se pierde.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Trabajo Incesante:</strong> El esfuerzo humano es **incansable** (el cuerpo trabaja, pero el alma no se sacia), lo que subraya la futilidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El conocimiento y la sabiduría humana, sin la perspectiva divina, solo aumentan el **dolor y la frustración**.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>El libro sirve como un experimento: demostrar que <span class="highlight">la vida es sin sentido cuando se aísla de Dios</span>. Todo esfuerzo y logro terrenal es temporal y carece de valor eterno.</p>
             
@@ -27248,7 +35431,29 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Grandes Obras:</strong> La futilidad de la edificación y las posesiones</li>
                 <li><strong>Muerte:</strong> El destino común del sabio y el necio</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: La Experimentación y el Fracaso del Placer</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Búsqueda del Bien</h5>
+<ul>
+    <li><strong>El Experimento:</strong> El Predicador (Salomón) realiza un **experimento filosófico** para encontrar el bien en la vida a través del placer y el hedonismo.</li>
+    <li><strong>Acumulación Material:</strong> Acumula **riqueza** (plata y oro), **esclavos** (siervos y criadas), **ganado** (mayor que todos sus predecesores) y **mujeres** (cantoras y concubinas).</li>
+    <li><strong>Proyectos de Construcción:</strong> Construye **grandes obras** (casas, viñedos, jardines y estanques) para demostrar el valor del trabajo.</li>
+    <li><strong>Conclusión:</strong> Al final, todo es **vanidad y aflicción de espíritu**, sin provecho duradero.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>Lujo:</strong> La búsqueda del placer se extiende a **beber vino, risas y locura** (la vida de un rey poderoso sin restricciones).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Sabiduría vs. Necedad:</strong> La sabiduría es superior a la necedad, pero al final, **ambos mueren** y son olvidados (el mismo destino).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La única conclusión positiva es que **comer, beber y gozarse** es un **don de Dios** cuando se acepta con humildad.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">satisfacción viene de la mano de Dios</span>, no de los logros o los placeres terrenales.</p>
             
@@ -27274,7 +35479,28 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Eternidad:</strong> La búsqueda del propósito por parte del hombre</li>
                 <li><strong>Temor de Dios:</strong> La respuesta apropiada a la obra de Dios</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: El Tiempo (Kairos) y la Dicotomía de la Vida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Filosofía del Tiempo</h5>
+<ul>
+    <li><strong>El Kairos:</strong> El famoso poema **"Todo tiene su tiempo"** (v. 1-8) no se refiere al tiempo cronológico (*chronos*), sino al **tiempo oportuno** (*kairos*), el momento adecuado determinado por Dios.</li>
+    <li><strong>La Dicotomía:</strong> La vida es una serie de **pares opuestos** (nacer/morir, amar/aborrecer, guerra/paz), todos ordenados bajo la soberanía divina.</li>
+    <li><strong>El Sentido Oculto:</strong> El hombre no puede descubrir la obra de Dios. Dios puso la **eternidad** en el corazón del hombre, pero este no puede comprender la totalidad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Destrucción</h5>
+<ul>
+    <li><strong>Arranque y Derrumbamiento:</strong> Se describe el ciclo de la **destrucción** (arrancar lo plantado) y la **construcción** (edificar).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Hombre y Bestia:</strong> El destino final es el mismo: **ambos van a un mismo lugar** (el polvo), lo que subraya la vanidad de la existencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **belleza del orden** de Dios no es perceptible para el hombre, lo que requiere fe.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">vida tiene un diseño divino</span>. El contentamiento se encuentra en aceptar los tiempos de Dios.</p>
             
@@ -27300,7 +35526,29 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Trabajo:</strong> La envidia como motor del esfuerzo</li>
                 <li><strong>Compañía:</strong> El poder y valor de la sociedad (dos mejor que uno)</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: La Observación de la Opresión Social</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Justicia Fallida</h5>
+<ul>
+    <li><strong>Opresión:</strong> El Predicador observa el **sufrimiento de los oprimidos** y la **ausencia de un consolador** (la falta de justicia).</li>
+    <li><strong>La Envidia:</strong> El **trabajo diligente** es a menudo el objeto de la **envidia** del prójimo (la competencia vana).</li>
+    <li><strong>La Soledad:</strong> La vida de un **solitario** que trabaja sin fin es vana, ya que no tiene un heredero ni un compañero.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Compañía</h5>
+<ul>
+    <li><strong>El Cordón de Tres Dobleces:</strong> El valor de la **compañía** es mayor que la soledad. El cordón de tres dobleces (símbolo de la alianza o amistad) no se rompe fácilmente.</li>
+    <li><strong>El Rey Necio:</strong> Un niño **pobre y sabio** es mejor que un rey **viejo y necio** que ya no acepta consejo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Reposo:</strong> Es **mejor el reposo** con las manos cruzadas que el esfuerzo constante por la envidia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sentido de la vida** se encuentra en el apoyo mutuo y la solidaridad.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>El <span class="highlight">apoyo mutuo</span> es una necesidad espiritual para enfrentar la vanidad de la vida y la injusticia.</p>
             
@@ -27326,7 +35574,29 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Codicia:</strong> El amor al dinero no trae satisfacción</li>
                 <li><strong>La Muerte:</strong> La incapacidad de llevarse las riquezas</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Ética en el Culto y la Vanidad de la Riqueza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Culto en el Templo y los Votos</h5>
+<ul>
+    <li><strong>El Templo (Casa de Dios):</strong> Advertencia sobre la **actitud** al entrar en el Templo. Es mejor **escuchar** que ofrecer sacrificios de necios.</li>
+    <li><strong>Los Votos:</strong> Se debe ser **prudente al hacer votos** y **rápido al cumplirlos**, ya que Dios castiga la falta de fidelidad a la palabra.</li>
+    <li><strong>El Sueño:</strong> El **sueño del jornalero** (trabajador manual) es dulce, mientras que la **abundancia del rico** no le deja dormir.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Riqueza</h5>
+<ul>
+    <li><strong>El Tesoro:</strong> El que **ama el dinero** nunca se sacia. La riqueza atrae a más "comensales" (parásitos).</li>
+    <li><strong>La Pobreza:</strong> La opresión del pobre en la provincia es una realidad, pero el **alto observa al alto**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Valor:</strong> La **riqueza acumulada** se pierde por accidente o por mala inversión, sin provecho para los herederos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero culto** es la fidelidad al pacto y a la palabra dada (votos).
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">verdadera adoración se manifiesta en la obediencia</span> y el respeto. El desprendimiento es necesario para el gozo.</p>
             
@@ -27352,7 +35622,28 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Contentamiento:</strong> El gozo del presente (vista de los ojos)</li>
                 <li><strong>Sombra:</strong> La fugacidad de la vida humana</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Riqueza sin Disfrute y la Maldición del Heredero</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Riqueza Inútil</h5>
+<ul>
+    <li><strong>La Maldición de la Riqueza:</strong> Un hombre recibe **riquezas y honor** de Dios, pero **Dios no le da facultad para disfrutarlo**.</li>
+    <li><strong>El Heredero Extraño:</strong> El hombre muere y un **extraño** consume su riqueza (una gran desgracia en una sociedad donde el heredero es fundamental).</li>
+    <li><strong>La Vida Corta:</strong> Una vida corta y con desdichas es peor que un **aborto** que nunca ve el sol.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Herencia</h5>
+<ul>
+    <li><strong>El Heredero:</strong> La **continuidad del linaje** a través de la riqueza y la herencia era el propósito principal de la vida.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Ojo vs. El Deseo:</strong> Es **mejor lo que ven los ojos** (disfrute moderado) que el **continuo vagar del deseo** (la búsqueda insaciable).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La capacidad de **gozarse** de los bienes es el **don de Dios**, no la riqueza en sí misma.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">paz interior (contentamiento)</span> es un don que permite disfrutar de las bendiciones materiales.</p>
             
@@ -27378,7 +35669,29 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Paciencia:</strong> El fin del asunto es mejor que el principio</li>
                 <li><strong>Rectitud:</strong> El hombre debe evitar la maldad extrema y la justicia propia</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Sabiduría, Reputación y el Día de la Muerte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Buen Nombre y el Luto</h5>
+<ul>
+    <li><strong>El Buen Nombre:</strong> El **buen nombre** (reputación) es mejor que el buen ungüento (perfume caro). La honra social es más valiosa que el lujo.</li>
+    <li><strong>Día de la Muerte:</strong> Es **mejor ir a la casa del luto** que a la casa del banquete. | La reflexión sobre la muerte es más provechosa que el hedonismo.</li>
+    <li><strong>El Necio:</strong> La **risa del necio** es como el crepitar de los **espinos** bajo la olla (ruido, pero sin sustancia ni calor).</li>
+    <li><strong>El Dinero:</strong> La **sabiduría es refugio**, y el dinero es refugio, pero la **sabiduría da vida** a sus poseedores.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Venganza</h5>
+<ul>
+    <li><strong>La Paciencia:</strong> El **paciente** es mejor que el orgulloso. No te apresures a enojarte, pues la ira **"reposa en el seno de los necios"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Desviación:</strong> La **rectitud excesiva** y la **sabiduría excesiva** son trampas. La moderación es la virtud.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sabiduría** es la capacidad de aceptar el **orden de Dios** (lo recto y lo torcido).
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">aflicción es una herramienta</span> para la sabiduría, pues enseña la seriedad de la vida y su final.</p>
             
@@ -27404,7 +35717,29 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Retribución:</strong> La demora en el juicio divino es un problema</li>
                 <li><strong>Fe:</strong> La confianza en el juicio final de Dios</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Obediencia al Rey y la Justicia Retrasada</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley y la Autoridad Real</h5>
+<ul>
+    <li><strong>Obediencia al Rey:</strong> El sabio obedece las **órdenes del rey** (una instrucción práctica para evitar la muerte).</li>
+    <li><strong>El Poder:</strong> El **poder del rey** es absoluto y no se le puede decir: "¿Qué haces?"</li>
+    <li><strong>La Justicia Retrasada:</strong> Se observa que la **sentencia** por el pecado no se ejecuta inmediatamente, lo que anima a la gente a pecar.</li>
+    <li><strong>El Destino Común:</strong> El sabio y el necio tienen el **mismo destino** (la muerte).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Realeza</h5>
+<ul>
+    <li><strong>La Fuerza:</strong> El rey tiene el **poder sobre el aliento** de los hombres.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Camino de Dios:</strong> El hombre **no puede comprender** la obra que se hace bajo el sol, incluso con su esfuerzo, lo que subraya la humildad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **temor de Dios** es la única protección contra la incertidumbre de la vida y la justicia divina.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">fe es la base para la justicia</span>. El creyente debe confiar en el juicio futuro de Dios a pesar de la injusticia presente.</p>
             
@@ -27430,7 +35765,29 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Gozo:</strong> La necesidad de disfrutar el presente como regalo de Dios</li>
                 <li><strong>Oportunidad:</strong> La brevedad del tiempo de trabajo y sabiduría</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: La Muerte como Fin Común y el Carpe Diem</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Cerveza y la Alegría</h5>
+<ul>
+    <li><strong>El Destino Común:</strong> El Predicador insiste en la **igualdad final**: el justo y el impío, el bueno y el malo, **todos mueren**.</li>
+    <li><strong>El Silencio:</strong> Los **muertos nada saben** y no tienen más parte en este mundo.</li>
+    <li>**Carpe Diem (Goce):** La exhortación es a **comer y beber con alegría** y a gozar la vida con la mujer amada, pues es la única porción en esta vida.</li>
+    <li><strong>El Fracaso del Sabio:</strong> La **sabiduría de un pobre** es despreciada y sus palabras no son escuchadas, incluso cuando salva una ciudad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Adoración y el Vestido</h5>
+<ul>
+    <li><strong>El Vestido:</strong> Se ordena que las **ropas sean blancas** y que no falte el **aceite** en la cabeza (símbolos de alegría y festividad).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Tiempo y Ocasión:** La **fortuna (el tiempo y la ocasión)** llega a todos, sin importar su mérito.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Predicador, sin la perspectiva del más allá, concluye que el único bien es disfrutar de los **dones de Dios** con moderación.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">alegría es una ordenanza</span>, no una opción. La certeza de la muerte debe motivar a la acción en el presente.</p>
             
@@ -27456,7 +35813,29 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Lengua:</strong> El poder de la palabra necia o sabia</li>
                 <li><strong>Gobierno:</strong> El efecto de los líderes necios o justos</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Sabiduría Práctica y la Anarquía Social</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Fragancia y la Necedad</h5>
+<ul>
+    <li><strong>El Necio y la Fragancia:</strong> Un **poco de locura** (necedad) echa a perder al que es estimado por su sabiduría y honor (como una mosca muerta en el ungüento).</li>
+    <li><strong>La Anarquía:</strong> Se critica al gobierno corrupto y la **anarquía** (siervos a caballo y príncipes a pie).</li>
+    <li><strong>El Labrador:</strong> El que **cava un hoyo** (trampa) caerá en él. El que **rompe el vallado** (protección legal) será mordido por la serpiente.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Lengua y el Gobierno</h5>
+<ul>
+    <li><strong>La Lengua del Necio:</strong> La lengua del necio **lo consume**, y su boca lo lleva a la ruina.</li>
+    <li>**El Hacha:** La sabiduría es necesaria para el **trabajo simple** (afilar el hacha).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Momento Oportuno:** Los **muertos voladores** (la calamidad) y la **calumnia** requieren prudencia en el hablar.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la máxima protección contra el mal social.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">prudencia es la manifestación de la sabiduría</span> en la vida social y profesional.</p>
             
@@ -27482,7 +35861,28 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Juventud:</strong> El llamado a gozar y alegrarse</li>
                 <li><strong>Juicio:</strong> La certeza de que Dios pedirá cuenta</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Inversión, Riesgo y Disfrute de la Juventud</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prudencia y el Tiempo</h5>
+<ul>
+    <li><strong>La Inversión (Riesgo):</strong> **"Echa tu pan sobre las aguas"** (v. 1). Consejo para **invertir audazmente** y diversificar el riesgo, ya que el futuro es incierto.</li>
+    <li><strong>La Cosecha:</strong> El que mira el **viento** no sembrará; el que mira las **nubes** no segará. El trabajo debe ser constante, sin esperar las condiciones perfectas.</li>
+    <li><strong>El Disfrute:</strong> El joven debe **alegrarse en su juventud**, pero recordar que Dios lo **traerá a juicio** por todas estas cosas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Agricultura y el Comercio</h5>
+<ul>
+    <li><strong>Barcos:</strong> La imagen de echar el pan sobre las aguas alude a la **inversión marítima** (comercio de granos).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Juicio y Placer:** El placer se equilibra con el **juicio final** y la **responsabilidad** ante el Creador.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Predicador da un mandato a **vivir activamente** sin ceder al fatalismo.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">vida debe vivirse con gozo</span> y generosidad, pero con la **responsabilidad** de la rendición de cuentas a Dios.</p>
             
@@ -27508,7 +35908,29 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Decadencia:</strong> La descripción poética de la vejez y la muerte</li>
                 <li><strong>Conclusión:</strong> El deber total del hombre es temer a Dios</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: La Vejez, la Muerte y la Conclusión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Alegoría de la Vejez y el Juicio Final</h5>
+<ul>
+    <li><strong>El Recuerdo:</strong> El joven debe **acordarse de su Creador** antes de que lleguen los **"días malos"** (la vejez).</li>
+    <li><strong>Alegoría de la Vejez:</strong> Se describe poéticamente el colapso del cuerpo: **temblor de guardas** (manos), **encorvamiento de fuertes** (piernas), **las muelas que paran** (dientes), **oscuridad** (ojos), y el **canto bajo** (la voz).</li>
+    <li><strong>La Casa Eterna:</strong> El hombre va a su **"casa eterna"** (la tumba).</li>
+    <li><strong>El Fin:</strong> El **polvo vuelve a la tierra** y el **espíritu vuelve a Dios** que lo dio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Escritura</h5>
+<ul>
+    <li><strong>El Aguijón y el Clavo:</strong> Las palabras de los sabios son como **aguijones** (para guiar el pensamiento) y **clavos** (para fijar la verdad).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Conclusión:** El **fin de todo el discurso** es **temer a Dios y guardar Sus mandamientos**, porque **"esto es el todo del hombre"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **futilidad de la vida** bajo el sol se resuelve solo con la **perspectiva del juicio divino**.
+</div>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">vida solo tiene sentido en relación con el Creador</span>. El propósito del hombre es la obediencia y la reverencia a Dios.</p>
             
@@ -27536,7 +35958,27 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Búsqueda:</strong> La necesidad de encontrar y estar con el amado</li>
                 <li><strong>Amor Superior:</strong> El amor del esposo es mejor que el vino</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: El Toldo y el Vinedo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Metáforas de Amor y Belleza</h5>
+<ul>
+    <li><strong>El Vino y el Ungüento:</strong> La amada pide los besos del amado (1:2), que son mejores que el vino. Su nombre es un **ungüento derramado** (un perfume costoso usado en banquetes).</li>
+    <li><strong>Las Tiendas de Quedar:</strong> La amada se compara con las **tiendas negras de Quedar** (fabricadas con pelo de cabra oscuro, lo que indicaba rudeza o vida al aire libre), a pesar de ser hermosa (como las **cortinas de Salomón**).</li>
+    <li><strong>El Viñedo y el Trabajo:</strong> Ella confiesa haber trabajado en el **viñedo** (1:6) de su familia, lo que la expuso al sol (piel morena), pero descuidó su propio viñedo (su propia belleza/relación).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Corte y el Lujo</h5>
+<ul>
+    <li><strong>El Tesoro del Rey:</strong> El amado la compara con las **yeguas que tiran de los carros de Faraón** (1:9), un gran cumplido de fuerza, riqueza y esplendor.</li>
+    <li><strong>La Joyería:</strong> Se le promete un collar de **oro con incrustaciones de plata** (1:11), una pieza de lujo.</li>
+    <li><strong>El Banquete:</strong> El amado reposa a la mesa (el banquete del amor), y la amada se compara con una bolsa de **mirra** (perfume) que reposa entre sus pechos (1:13).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Deber vs. El Deseo:</strong> La amada es obligada a trabajar por su familia, lo que contrasta con su profundo deseo de intimidad.</li>
+    <li><strong>El Control:</strong> La amada invoca a las **"hijas de Jerusalén"** (coro femenino) a no despertar el amor hasta que quiera (2:7), un estribillo de advertencia contra forzar o apresurar el amor.</li>
+</ul>
             <h4>✨ Significado Espiritual</h4>
             <p>Alegóricamente, representa el <span class="highlight">ardiente deseo del alma por Cristo</span> y Su amor. El amor de Dios es el único que satisface plenamente.</p>
             
@@ -27562,7 +36004,26 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Comunión:</strong> Seguridad y satisfacción en la relación</li>
                 <li><strong>El Llamado:</strong> La invitación a disfrutar de la vida y el amor</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: La Danza y el Muro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Naturaleza como Metáfora del Amor</h5>
+<ul>
+    <li><strong>Las Flores de la Primavera:</strong> El amado es el **"lirio de los valles"** y ella es la **"rosa de Sarón"** (2:1). La aparición de la primavera simboliza la llegada del amor y el tiempo de la intimidad.</li>
+    <li><strong>La Voz del Amado:</strong> El amado llega **saltando sobre los montes**, asomándose por la ventana como una **gacela** (2:8-9), mostrando emoción e impaciencia.</li>
+    <li><strong>Las Vides en Flor:</strong> El canto de la **tórtola** y la aparición de las **flores** indican el fin del invierno y la invitación a salir al campo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Caza y el Pastor</h5>
+<ul>
+    <li><strong>Las Zorras:</strong> Se pide **"cazar las zorras pequeñas"** (2:15) que dañan los viñedos. Metáfora de los pequeños problemas o vicios que arruinan el amor.</li>
+    <li><strong>El Pastor:</strong> El amado es un pastor y la amada desea alimentarse en el **"lirio"** con él hasta que el día suspire y las sombras huyan (2:16-17).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Seguridad vs. Inseguridad:</strong> La amada busca al amado en la noche y **no lo halla** (3:1). La inseguridad de la separación.</li>
+    <li><strong>La Ciudad y la Ley:</strong> Al buscarlo, encuentra a los **guardias de la ciudad** (3:3), representando el orden social que la reprime. Solo lo encuentra cuando se aleja de ellos.</li>
+</ul>
             <h4>✨ Significado Espiritual</h4>
             <p>Representa la <span class="highlight">paz y el gozo de la relación restaurada</span>. La comunión es un lugar seguro, donde el temor es vencido por la presencia del amado.</p>
             
@@ -27588,7 +36049,27 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Tenacidad:</strong> El aferrarse al amado una vez encontrado</li>
                 <li><strong>Gloria Real:</strong> La magnificencia del esposo (el Rey)</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: El Tálamo y el Perfume de la Boda</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Procesión de Salomón</h5>
+<ul>
+    <li><strong>El Palanquín Real:</strong> Se describe la majestuosa **litera o palanquín de Salomón** (3:7), rodeada de sesenta valientes, para el día de su boda. Es una celebración pública del compromiso.</li>
+    <li>**El Incienso y la Mirra:** El aire se llena de **mirra e incienso** (3:6), los perfumes más caros, que simbolizan el lujo y la santidad del evento.</li>
+    <li>**La Corona:** La **corona** que su madre le puso a Salomón (3:11) es un símbolo de realeza y, en este contexto, de compromiso matrimonial.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ceremonia</h5>
+<ul>
+    <li>**El *Wasf* (Canto de Alabanza):** El amado canta un *wasf* (canto de alabanza detallada de la amada) al describir su belleza (4:1-7): **cabello, dientes (ovejas esquiladas), sienes, labios y cuello** (Torre de David).</li>
+    <li>**El Jardín Cerrado:** La amada es un **"jardín cerrado, una fuente sellada"** (4:12), una metáfora de su virginidad y exclusividad.</li>
+    <li>**Las Especias:** El jardín está lleno de **especias y perfumes exóticos** (mirra, áloes, azafrán, canela), invitando a la intimidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Exclusividad: El jardín** y la **fuente sellada** simbolizan que la amada es solo para el amado, rompiendo con la poligamia de la época.</li>
+    <li>**La Consumación:** El amado entra y **come la miel y la leche** (5:1), invitando a los amigos a celebrar: "Comed, amigos; bebed, y embriagaos de amor".</li>
+</ul>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">fe persevera en la búsqueda</span>, incluso en la oscuridad (noche o prueba). La gloria del Esposo es Su realeza y Su poder.</p>
             
@@ -27614,7 +36095,27 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Pureza:</strong> El jardín cerrado y la fuente sellada (fidelidad)</li>
                 <li><strong>Invitación:</strong> El esposo es invitado a disfrutar de los frutos</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: El Tálamo y el Perfume de la Boda</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Procesión de Salomón</h5>
+<ul>
+    <li><strong>El Palanquín Real:</strong> Se describe la majestuosa **litera o palanquín de Salomón** (3:7), rodeada de sesenta valientes, para el día de su boda. Es una celebración pública del compromiso.</li>
+    <li>**El Incienso y la Mirra:** El aire se llena de **mirra e incienso** (3:6), los perfumes más caros, que simbolizan el lujo y la santidad del evento.</li>
+    <li>**La Corona:** La **corona** que su madre le puso a Salomón (3:11) es un símbolo de realeza y, en este contexto, de compromiso matrimonial.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Ceremonia</h5>
+<ul>
+    <li>**El *Wasf* (Canto de Alabanza):** El amado canta un *wasf* (canto de alabanza detallada de la amada) al describir su belleza (4:1-7): **cabello, dientes (ovejas esquiladas), sienes, labios y cuello** (Torre de David).</li>
+    <li>**El Jardín Cerrado:** La amada es un **"jardín cerrado, una fuente sellada"** (4:12), una metáfora de su virginidad y exclusividad.</li>
+    <li>**Las Especias:** El jardín está lleno de **especias y perfumes exóticos** (mirra, áloes, azafrán, canela), invitando a la intimidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**La Exclusividad: El jardín** y la **fuente sellada** simbolizan que la amada es solo para el amado, rompiendo con la poligamia de la época.</li>
+    <li>**La Consumación:** El amado entra y **come la miel y la leche** (5:1), invitando a los amigos a celebrar: "Comed, amigos; bebed, y embriagaos de amor".</li>
+</ul>
             <h4>✨ Significado Espiritual</h4>
             <p>El <span class="highlight">"jardín cerrado"</span> simboliza la santidad del creyente y la exclusividad de la relación. El esposo es invitado a gozar de la vida santificada.</p>
             
@@ -27640,7 +36141,26 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Angustia:</strong> El dolor de la ausencia de la presencia</li>
                 <li><strong>Elogio Subjetivo:</strong> La belleza del amado es incomparable</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: El Despertar y el Perfume</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Puerta y el Olvido</h5>
+<ul>
+    <li><strong>El Golpe a la Puerta:</strong> El amado llega a la puerta en la noche pidiendo entrar, con su **cabello mojado por el rocío** (5:2).</li>
+    <li><strong>El Descuido:</strong> La amada se había **desvestido** y **lavado los pies** (5:3), excusas para no abrir de inmediato (símbolo de la pereza espiritual).</li>
+    <li><strong>El Perfume:</strong> Cuando ella finalmente se levanta, encuentra que la mirra gotea de las **manos y los dedos de la cerradura** (5:5), el perfume que el amado había dejado como señal.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de los Guardias</h5>
+<ul>
+    <li><strong>Los Centinelas:</strong> En la búsqueda, los **guardias de la ciudad** (5:7) la golpean, la hieren y le quitan el manto. La rigidez de la ley o el orden social castiga a la que busca apasionadamente.</li>
+    <li>**La Descripción del Amado (*Wasf* Invertido):** Las **hijas de Jerusalén** le piden que describa al amado. Ella lo describe con metáforas: **cabeza de oro puro**, **cabello crespo y negro** (cuervos), **ojos como palomas** (junto a los arroyos), **mejillas de especias** (perfumadas), **pecho de marfil con zafiros** (5:10-16).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Lealtad:</strong> A pesar de la angustia y el maltrato, ella confiesa: **"Mi amado es mío, y yo soy suya"** (6:3).</li>
+    <li><strong>El Jardín:</strong> El amado está **alimentándose entre los lirios** (6:3), esperando a la amada en la intimidad.</li>
+</ul>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">demora en la comunión trae la ausencia</span> del Espíritu. La fe debe buscar fervientemente la presencia perdida, recordando la excelencia del Amado.</p>
             
@@ -27666,7 +36186,25 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Sulamita:</strong> El nombre de la esposa (delicia, o pacífica)</li>
                 <li><strong>Exclusividad:</strong> El amor del esposo es exclusivo</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Realeza y la Danza de Bodas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Comparación Real</h5>
+<ul>
+    <li>**Las Ciudades Santas:** El amado la compara con **Tirsa** (capital del reino del Norte, conocida por su belleza) y **Jerusalén** (capital del Sur, conocida por su santidad), y con un **ejército aguerrido** (6:4).</li>
+    <li>**Las Reinas y Concubinas:** El amado establece su exclusividad, indicando que hay **sesenta reinas y ochenta concubinas**, pero su amada es **única** (6:8-9).</li>
+    <li>**La Danza de Mahanaim:** Se le pide a la amada: **"Vuelve, vuelve, oh sulamita; vuelve, vuelve, y te miraremos"** (6:13). La **Danza de Mahanaim** (dos campamentos o ejércitos) era probablemente una danza de celebración de bodas, una danza de dos partes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Prosperidad Agrícola</h5>
+<ul>
+    <li>**La *Wasf* Ascendente (7:1-9):** El canto de alabanza ahora va **de los pies a la cabeza**: **pies hermosos en las sandalias**, **muslos (obras de orfebre)**, **ombligo**, **vientre (montón de trigo)**, **cuello de marfil**, **ojos como estanques de Hesbón**, y **nariz como la torre del Líbano**.</li>
+    <li>**El Vino: Su paladar** es comparado con el **mejor vino**, que desciende suavemente a la boca de los que duermen (7:9).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Lo Público y lo Privado:** La amada desea llevar al amado **al campo** (7:11-12) para tener intimidad lejos de la ciudad y mostrarle los **frutos nuevos y viejos** (símbolos de su amor y fidelidad).</li>
+</ul>
             <h4>✨ Significado Espiritual</h4>
             <p>La <span class="highlight">Iglesia es majestuosa</span> a los ojos de Cristo. La belleza del creyente es el resultado de la perfección de Su amor.</p>
             
@@ -27692,7 +36230,25 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Reciprocidad:</strong> La esposa guarda frutos nuevos y viejos para el amado</li>
                 <li><strong>Intimidad Exclusiva:</strong> La invitación a la vida sencilla en el campo</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: Realeza y la Danza de Bodas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Comparación Real</h5>
+<ul>
+    <li>**Las Ciudades Santas:** El amado la compara con **Tirsa** (capital del reino del Norte, conocida por su belleza) y **Jerusalén** (capital del Sur, conocida por su santidad), y con un **ejército aguerrido** (6:4).</li>
+    <li>**Las Reinas y Concubinas:** El amado establece su exclusividad, indicando que hay **sesenta reinas y ochenta concubinas**, pero su amada es **única** (6:8-9).</li>
+    <li>**La Danza de Mahanaim:** Se le pide a la amada: **"Vuelve, vuelve, oh sulamita; vuelve, vuelve, y te miraremos"** (6:13). La **Danza de Mahanaim** (dos campamentos o ejércitos) era probablemente una danza de celebración de bodas, una danza de dos partes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres de la Prosperidad Agrícola</h5>
+<ul>
+    <li>**La *Wasf* Ascendente (7:1-9):** El canto de alabanza ahora va **de los pies a la cabeza**: **pies hermosos en las sandalias**, **muslos (obras de orfebre)**, **ombligo**, **vientre (montón de trigo)**, **cuello de marfil**, **ojos como estanques de Hesbón**, y **nariz como la torre del Líbano**.</li>
+    <li>**El Vino: Su paladar** es comparado con el **mejor vino**, que desciende suavemente a la boca de los que duermen (7:9).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Lo Público y lo Privado:** La amada desea llevar al amado **al campo** (7:11-12) para tener intimidad lejos de la ciudad y mostrarle los **frutos nuevos y viejos** (símbolos de su amor y fidelidad).</li>
+</ul>
             <h4>✨ Significado Espiritual</h4>
             <p>La invitación al campo es la <span class="highlight">llamada a una comunión más profunda y exclusiva</span>, alejada del ruido del mundo.</p>
             
@@ -27718,7 +36274,26 @@ function generarContextoLocal(libro, capitulo) {
                 <li><strong>Amor no Comprable:</strong> No puede ser apagado por el agua ni el dinero</li>
                 <li><strong>Posesión:</strong> La esposa se afirma como posesión exclusiva del amado</li>
             </ul>
-            
+            <h4>🏛️ Costumbres de la Época: El Tatuaje y la Fuerza del Amor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Intimidad Pública</h5>
+<ul>
+    <li>**El Deseo Infantil:** La amada desea que el amado sea como su **hermano** (8:1) para poder besarlo en público sin ser criticada. La relación de hermanos permitía afecto público.</li>
+    <li>**El Sello (Tatuaje):** Ella le pide que la ponga como **sello sobre su corazón** y como **sello sobre su brazo** (8:6). El sello era una marca personal de identidad o propiedad (como un anillo o un tatuaje en el antiguo Cercano Oriente), un símbolo de pertenencia exclusiva.</li>
+    <li>**La Fuerza del Amor: "Fuerte es como la muerte el amor; dura como el sepulcro la envidia"** (8:6). La muerte y el sepulcro son las fuerzas más irresistibles, y el amor tiene esa misma fuerza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Costumbres del Matrimonio y el Dinero</h5>
+<ul>
+    <li>**El Muro y la Puerta:** Se habla de la **hermana pequeña** (8:8), que no tiene pechos (aún no es núbil). Los hermanos deben construir un **muro** (protección de su virtud) o una **puerta** (abierta al matrimonio).</li>
+    <li>**El Dinero (Rescate):** Si un hombre ofreciera **toda su riqueza** (o la de su casa) por el amor, sería **despreciado** (8:7). El amor no se compra ni se vende.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**El Viñedo de Salomón:** El amado tiene un **viñedo** (8:11) por el cual cobra mil monedas de plata (un símbolo de la riqueza y el amor mundanos). La amada dice: **"Mi viña, que es mía, está delante de mí"** (8:12). El amor exclusivo es más valioso que la riqueza.</li>
+    <li>**El Final:** El canto termina con la amada pidiendo que el amado **huya** y se apresure como una gacela (8:14), llamándolo a una nueva cita.</li>
+</ul>
             <h4>✨ Significado Espiritual</h4>
             <p>El amor de Cristo por Su Iglesia es <span class="highlight">invencible y eterno</span>. La muerte no puede apagar la relación del pacto.</p>
             
@@ -27746,7 +36321,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reforma Social:</strong> La exigencia de justicia y piedad</li>
                     <li><strong>Arrepentimiento:</strong> La promesa de limpieza total del pecado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Gran Litigio (Pleito) contra Judá</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Temas de Juicio y Ritualismo</h5>
+<ul>
+    <li><strong>El Litigio:</strong> Dios convoca a los **cielos y la tierra** como testigos de Su pleito contra Israel (un género legal).</li>
+    <li><strong>Religión Vacía:</strong> Se critica el **ritualismo sin moralidad**: Dios está cansado de los sacrificios, lunas nuevas y días de reposo.</li>
+    <li><strong>Enfermedad Social:</strong> Judá es comparada con un cuerpo enfermo, lleno de **heridas, hinchazones y llagas** (la corrupción total del alma y la sociedad).</li>
+    <li><strong>Justicia Social:</strong> El único remedio es **"buscad el derecho, socorred al oprimido, haced justicia al huérfano, amparad a la viuda"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Desolación</h5>
+<ul>
+    <li><strong>Destrucción:</strong> Judá es como una **choza en un viñedo** o una **cabaña en un melonar** (lugares abandonados y vulnerables).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Perdón:</strong> El contraste de la mancha del pecado (roja como el **carmesí**) con la purificación (blanca como la **nieve**).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Templo y el sacrificio son nulos sin la práctica de la **justicia ética**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obediencia ética es superior al ritual</span>. La gracia de Dios es suficiente para la limpieza más profunda del pecado.</p>
                 
@@ -27772,7 +36369,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio (Día de Jehová):</strong> La humillación de la soberbia humana</li>
                     <li><strong>Idolatría:</strong> La condena de la confianza en las obras humanas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión Escatológica del Monte de Sión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Peregrinación Universal y la Paz</h5>
+<ul>
+    <li><strong>El Monte de Sión:</strong> El monte de la casa de YHWH será **elevado** sobre todos los demás montes, convirtiéndose en el **centro de la adoración** mundial.</li>
+    <li><strong>Peregrinación:</strong> Todas las **naciones** fluirán a Sión para ser enseñadas en la Ley.</li>
+    <li><strong>Paz Universal:</strong> Las armas de guerra se transforman en **herramientas agrícolas** (espadas en rejas de arado y lanzas en hoces).</li>
+    <li><strong>La Idolatría:</strong> Profecía del juicio contra el **orgullo** de Judá y sus **ídolos** (oro y plata).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Paz Final</h5>
+<ul>
+    <li><strong>Fin de la Guerra:</strong> Las naciones **"no alzarán espada nación contra nación, ni se adiestrarán más para la guerra"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Humillación:</strong> El **orgullo del hombre** (torres, cedros, barcos) será humillado por la gloria de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Ley (Torá)** es la fuente de la paz global.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías establecerá la paz global</span>, pero Su venida irá precedida de un juicio que eliminará la arrogancia y la idolatría.</p>
                 
@@ -27798,7 +36417,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberbia Femenina:</strong> La condena del lujo y la vanidad excesiva</li>
                     <li><strong>Castigo Retributivo:</strong> La vergüenza y el lamento sobre la vanidad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Anarquía Social y el Castigo del Liderazgo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Crisis de Liderazgo y la Vanidad</h5>
+<ul>
+    <li><strong>El Castigo:</strong> YHWH quitará de Jerusalén todo el **sustento** (pan y agua) y el **liderazgo** (profetas, jueces, ancianos).</li>
+    <li><strong>Anarquía:</strong> Los **niños** y los **caprichosos** serán los líderes, llevando al caos social.</li>
+    <li><strong>El Pecado de los Príncipes:</strong> Los líderes **oprimen a los pobres** y **machacan al pueblo** (la corrupción legal).</li>
+    <li><strong>La Vanidad Femenina:</strong> Profecía contra el **orgullo de las mujeres** de Sión (joyería, vestidos, pies rápidos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Mofa</h5>
+<ul>
+    <li><strong>Desprecio:</strong> El hombre se aferrará a su hermano, suplicándole: "Tú tienes ropa; sé tú nuestro príncipe" (la desesperación por liderazgo).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Castigo del Orgullo:</strong> La belleza y el lujo de las mujeres serán reemplazados por **sarna, rapamiento y soga** (el oprobio).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia social** es la prueba del liderazgo fiel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">arrogancia es la manifestación de la incredulidad</span>. El colapso social es el resultado del pecado nacional.</p>
                 
@@ -27824,7 +36465,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Renuevo:</strong> La figura mesiánica que traerá la gloria</li>
                     <li><strong>Protección:</strong> La gloria de Dios como refugio sobre Sion</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Remanente y la Purificación de Sión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Oprobio y la Santidad</h5>
+<ul>
+    <li><strong>El Oprobio Femenino:</strong> Siete mujeres se aferrarán a **un solo hombre**, pidiéndole que les quite el **oprobio** (la soltería y la falta de linaje).</li>
+    <li><strong>El Vástago de YHWH:</strong> El **vástago de YHWH** (el Mesías) será la belleza y la gloria.</li>
+    <li><strong>El Remanente:</strong> Solo los **"inscritos"** o **"nombrados"** en Jerusalén serán llamados santos y sobrevivirán.</li>
+    <li><strong>La Purificación:</strong> Sión será limpiada por el **espíritu de juicio** y el **espíritu de incendio**.</li>
+    <li><strong>La Gloria:</strong> La gloria de YHWH cubrirá a Sión como una **nube de humo y un resplandor de fuego** (la Shekiná).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Pobreza</h5>
+<ul>
+    <li><strong>Desesperación:</strong> La escasez de hombres debido a la guerra hace que las mujeres pierdan la honra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Seguridad:</strong> La protección de Dios es un **pabellón y un refugio** del calor del día y de la tempestad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **santidad** es la condición para la supervivencia del remanente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es para purificar</span>. El remanente de Israel encontrará su santidad y su gloria en el Mesías (el Renuevo).</p>
                 
@@ -27850,7 +36514,37 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Injusticia Social:</strong> La falta de rectitud en Judá</li>
                     <li><strong>Ayes:</strong> El juicio contra la codicia, la embriaguez y la arrogancia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Canción de la Viña y los Seis Ayes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Infidelidad y el Juicio</h5>
+<ul>
+    <li><strong>La Viña:</strong> Israel es la **viña** que Dios cuidó con esmero, pero solo produjo **uvas silvestres** (v. 2).</li>
+    <li><strong>La Decepción:</strong> Dios esperaba **juicio (mishpat)**, pero halló **derramamiento de sangre (mispach)**. Esperaba **justicia (tsedek)**, pero halló **clamor (tse'aqah)**.</li>
+    <li><strong>Los Seis Ayes:</strong> Seis advertencias contra los pecados sociales:
+        <ol>
+            <li>**Codicia** (acumular tierras).</li>
+            <li>**Ebriedad** (embriaguez continua).</li>
+            <li>**Incredulidad** (desafiar el juicio de Dios).</li>
+            <li>**Perversión** (llamar bueno a lo malo).</li>
+            <li>**Arrogancia** (sabios en su propia opinión).</li>
+            <li>**Corrupción** (justificar al impío por cohecho).</li>
+        </ol>
+    </li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Borrachera y la Usura</h5>
+<ul>
+    <li><strong>La Usura:</strong> La **acumulación de tierras** sin dejar lugar para el pobre era una violación de la Ley.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Estándar:</strong> El **piso de la era** se convertirá en la medida de la escasez de grano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad ética** es el fruto que YHWH esperaba de Su pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es justo</span>, pues ha hecho todo lo necesario para que Su pueblo produzca frutos de justicia. El fracaso es culpa de Israel.</p>
                 
@@ -27877,7 +36571,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misión:</strong> Predicar un mensaje de juicio que endurecerá al pueblo</li>
                     <li><strong>El Remanente:</strong> La esperanza en el tronco sagrado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión de la Santidad y el Llamado Profético</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sacerdocio y el Santuario</h5>
+<ul>
+    <li><strong>El Año del Rey:</strong> Elías recibe su llamado en el año de la muerte del rey **Uzías** (740 a.C.).</li>
+    <li><strong>El Templo:</strong> Isaías ve a YHWH sentado en un trono alto en el **Santuario** (el Hekal).</li>
+    <li><strong>Los Serafines:</strong> Los **serafines** (seres alados) claman **"Santo, Santo, Santo"** (la adoración ritual).</li>
+    <li><strong>La Impureza:</strong> Isaías declara su **impureza** (labios inmundos) al vivir en medio de un pueblo de labios inmundos.</li>
+    <li><strong>La Purificación:</strong> Un serafín purifica sus labios con una **brasa encendida** tomada del altar (un rito de purificación sacerdotal).</li>
+    <li><strong>La Misión:</strong> La misión de Isaías es **endurecer** el corazón del pueblo, un juicio de ceguera.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Desolación</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La tierra será **desolada** y la población diezmada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Santidad:</strong> El grito de **"Santo"** del serafín es el estándar de Dios, que castiga la impureza humana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **pecado** es la razón por la que la palabra de YHWH se convierte en juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad de Dios</span> es la base del ministerio. El profeta debe ser purificado para transmitir la Palabra, aunque el mensaje sea de juicio.</p>
                 
@@ -27903,7 +36621,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Signo:</strong> La promesa de la virgen (alegoría de la presencia de Dios)</li>
                     <li><strong>Emanuel:</strong> "Dios con nosotros," la señal de la protección divina</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Crisis Siro-Efraimita y la Profecía Emanuel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Incredulidad del Rey y el Signo</h5>
+<ul>
+    <li><strong>La Crisis:</strong> Los reyes de **Siria** (Rezín) e **Israel** (Peca, Reino del Norte) atacan a **Judá**.</li>
+    <li><strong>El Rey Acaz:</strong> El rey Acaz (de Judá) es exhortado a **no temer** y a **confiar en YHWH**, no en Asiria.</li>
+    <li><strong>El Signo:</strong> Isaías le pide a Acaz que pida un signo de Dios, pero Acaz se niega.</li>
+    <li><strong>Emanuel:</strong> Dios da el signo: **"He aquí que la virgen concebirá, y dará a luz un hijo, y llamará Su nombre Emanuel (Dios con nosotros)"**.</li>
+    <li><strong>La Consumición:</strong> Antes de que el niño sepa distinguir entre lo bueno y lo malo, los **dos reyes enemigos** de Judá serán consumidos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Alianza de Acaz</h5>
+<ul>
+    <li><strong>Alianza Asiria:</strong> Acaz ignoró la profecía y se alió con **Asiria**, sellando el futuro juicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Fe vs. Miedo:</strong> La incredulidad de Acaz se castiga con la profecía de una **salvación que no comprenderá**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **profecía del Mesías** es dada en medio de una crisis política por falta de fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">nombre Emanuel</span> es la base de la esperanza de Judá: la presencia de Dios en medio de la crisis. La fe en Dios es superior a la estrategia política.</p>
                 
@@ -27929,7 +36670,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Asiria:</strong> El instrumento del juicio de Dios</li>
                     <li><strong>Temor de Dios:</strong> No temer el miedo del hombre, sino temer a YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Asirio Inminente</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profecía y la Ley como Testimonio</h5>
+<ul>
+    <li><strong>El Nombre Profético:</strong> Isaías recibe un gran pergamino para escribir el nombre de su hijo: **"Maher-salal-hasbaz"** ("Pronto al saqueo, rápido al botín").</li>
+    <li><strong>El Botín:</strong> Antes de que el niño sepa hablar, **Asiria** saqueará a Siria e Israel.</li>
+    <li><strong>Aguas de Siloé:</strong> Judá rechazó las **"aguas mansas de Siloé"** (el gobierno de Dios) y eligió la fuerza de Asiria.</li>
+    <li><strong>El Velo:</strong> Isaías debe **sellar y atar la Ley** entre sus discípulos, pues la palabra de Dios será un misterio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Inundación Asiria</h5>
+<ul>
+    <li><strong>El Río:</strong> El rey de Asiria es comparado con un **río fuerte y caudaloso** (el Éufrates) que inundará toda la Tierra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Miedo vs. La Ley:</strong> El pueblo teme a la **coalición siro-efraimita**, pero debe temer a **YHWH, el Santo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Los **hijos del profeta** son las señales de Dios para el pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe debe superar el miedo</span>. El profeta y sus hijos (Maher-salal-has-baz e Immanuel) son signos para Israel de la destrucción inminente y la esperanza final.</p>
                 
@@ -27955,7 +36718,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nombres de Dios:</strong> La divinidad del Mesías</li>
                     <li><strong>Paz y Justicia:</strong> El reino mesiánico será eterno y justo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Asirio Inminente</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profecía y la Ley como Testimonio</h5>
+<ul>
+    <li><strong>El Nombre Profético:</strong> Isaías recibe un gran pergamino para escribir el nombre de su hijo: **"Maher-salal-hasbaz"** ("Pronto al saqueo, rápido al botín").</li>
+    <li><strong>El Botín:</strong> Antes de que el niño sepa hablar, **Asiria** saqueará a Siria e Israel.</li>
+    <li><strong>Aguas de Siloé:</strong> Judá rechazó las **"aguas mansas de Siloé"** (el gobierno de Dios) y eligió la fuerza de Asiria.</li>
+    <li><strong>El Velo:</strong> Isaías debe **sellar y atar la Ley** entre sus discípulos, pues la palabra de Dios será un misterio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Inundación Asiria</h5>
+<ul>
+    <li><strong>El Río:</strong> El rey de Asiria es comparado con un **río fuerte y caudaloso** (el Éufrates) que inundará toda la Tierra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Miedo vs. La Ley:</strong> El pueblo teme a la **coalición siro-efraimita**, pero debe temer a **YHWH, el Santo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Los **hijos del profeta** son las señales de Dios para el pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">nacimiento del Mesías</span> es la esperanza de la restauración, y Su gobierno es la base de la justicia eterna.</p>
                 
@@ -27981,7 +36766,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberbia Castigada:</strong> El castigo de la arrogancia asiria</li>
                     <li><strong>El Remanente:</strong> La esperanza de que solo un pequeño grupo regresará</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Final contra Asiria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Orgullo y la Vara de la Ira</h5>
+<ul>
+    <li><strong>El Ay contra los Injustos:</strong> Juicio contra los **jueces corruptos** de Judá que niegan justicia al pobre.</li>
+    <li><strong>La Vara de la Ira:</strong> **Asiria** es la **vara** y el **garrote** de la ira de Dios para castigar a Judá.</li>
+    <li><strong>La Arrogancia Asiria:</strong> Asiria, sin embargo, se jacta de su propia fuerza (ignorando que es un instrumento).</li>
+    <li><strong>El Botín:</strong> Asiria será castigada por su **corazón altivo** (arrogancia).</li>
+    <li><strong>El Remanente:</strong> Solo un **remanente** (unos pocos) de Israel regresará a la fe.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Comparación del Hacha</h5>
+<ul>
+    <li><strong>La Ceguera:</strong> El hacha, la sierra o la vara **no pueden jactarse** contra el que las maneja. Asiria es ciega a su rol.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Destrucción:</strong> El **fuego de YHWH** consumirá la grosura (la riqueza) de Asiria.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **castigo de los siervos** de Dios es justo, pero el **castigo de los instrumentos** arrogantes es inevitable.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es doble</span>: contra Israel (por su pecado) y contra Asiria (por su soberbia). La fe se aferra a la promesa del remanente.</p>
                 
@@ -28007,7 +36815,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Los Seis Espíritus:</strong> La plenitud del Espíritu de Dios sobre el Mesías</li>
                     <li><strong>Paz Edénica:</strong> La restauración de la paz total en la naturaleza</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Vástago de Jesé y la Paz Mesiánica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Mesías y el Espíritu</h5>
+<ul>
+    <li><strong>El Vástago:</strong> Profecía del Mesías, quien brotará del **tronco de Jesé** (padre de David). | La realeza de David será restaurada desde su raíz humilde.</li>
+    <li><strong>El Espíritu:</strong> El Mesías será lleno de los **siete dones del Espíritu** (sabiduría, inteligencia, consejo, poder, conocimiento, temor de YHWH).</li>
+    <li><strong>La Justicia:</strong> El Mesías juzgará a los **pobres con justicia** y herirá la tierra con la **vara de Su boca**.</li>
+    <li><strong>Paz Edénica:</strong> La restauración de la **paz perfecta** (el león comerá paja como el buey, el niño jugará con el áspid).</li>
+    <li><strong>El Retorno:</strong> El Señor levantará un **estandarte** para el retorno de los desterrados de Israel y Judá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Armonía Animal</h5>
+<ul>
+    <li><strong>Armonía:</strong> Los animales depredadores (lobo, leopardo) vivirán en armonía con los débiles (cordero, cabrito).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Juicio y Paz:</strong> El Mesías traerá **juicio al mundo** para establecer la **paz eterna**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Espíritu de Dios** es la fuente de la justicia real.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías es el Rey perfecto</span> que trae el reino de Dios a la Tierra, restaurando la justicia y la paz que se perdieron en el Edén.</p>
                 
@@ -28033,7 +36864,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Salvación:</strong> El gozo por la liberación de YHWH</li>
                     <li><strong>Proclamación:</strong> Proclamar la obra de Dios a todas las naciones</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Cántico de la Salvación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Cántico Final y la Alabanza</h5>
+<ul>
+    <li><strong>Género:</strong> **Himno de Alabanza** (para ser cantado en la era mesiánica).</li>
+    <li><strong>La Ira:</strong> El cántico reconoce que la **ira de Dios** fue quitada.</li>
+    <li><strong>La Fuente:</strong> El pueblo sacará **agua con gozo de las fuentes de la salvación**.</li>
+    <li><strong>La Misión:</strong> Exhortación a **anunciar a las naciones** las maravillas de YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto de la Ciudad</h5>
+<ul>
+    <li><strong>La Ciudad:</strong> La alabanza debe ser dada en la ciudad de **Sión**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Fuerza:</strong> La **fuerza y el cántico** del pueblo es YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gratitud** es la respuesta adecuada a la redención.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El cántico es el <span class="highlight">reconocimiento de la presencia de Dios</span> (Emanuel) como la única fuente de gozo y salvación.</p>
                 
@@ -28059,7 +36912,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Babilonia:</strong> La profecía de su caída por la soberbia</li>
                     <li><strong>Invasión Meda:</strong> La identidad del ejecutor del juicio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo contra Babilonia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Día de YHWH y la Desolación</h5>
+<ul>
+    <li><strong>La Carga:</strong> Comienza la serie de **"Cargas"** u oráculos contra las naciones.</li>
+    <li><strong>Día de YHWH:</strong> Profecía de la **destrucción total de Babilonia** (aunque Babilonia no era aún la potencia dominante).</li>
+    <li><strong>El Miedo:</strong> El juicio causará **terror y angustia** en todos los hombres.</li>
+    <li><strong>La Desolación:</strong> Babilonia será destruida por los **medos** y será un lugar donde solo habitan los **animales del desierto** y los **demonios (*seirim*)**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Alianza Persa</h5>
+<ul>
+    <li><strong>Los Medos:</strong> Isaías predice que **Media** (el futuro aliado de Persia) será el instrumento de la destrucción de Babilonia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La destrucción es tan grande que la ciudad se compara con el derrocamiento de **Sodoma y Gomorra**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El orgullo del imperio más grande será humillado por Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El juicio sobre Babilonia demuestra la <span class="highlight">soberanía de Dios sobre los imperios</span> mundiales, castigando la arrogancia.</p>
                 
@@ -28085,7 +36960,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lamento:</strong> La caída del soberbio rey a la tumba</li>
                     <li><strong>Descanso de Israel:</strong> El fin de la opresión babilónica</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Sátira sobre el Rey de Babilonia y el Oráculo Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Gloria del Exilio y la Caída del Orgullo</h5>
+<ul>
+    <li><strong>La Restauración:</strong> Dios restaurará a Israel y ellos tendrán **compasión de sus opresores** (los babilonios serán sus siervos).</li>
+    <li><strong>La Sátira (Luzbel):</strong> Se burla del rey de Babilonia, llamado **"Lucero" o "Luzbel"** (estrella de la mañana).</li>
+    <li><strong>El Pecado:</strong> El rey quiso **subir a lo alto** y ser **semejante al Altísimo**.</li>
+    <li><strong>El Seol:</strong> Los muertos se levantan en el **Seol** para burlarse del rey de Babilonia.</li>
+    <li><strong>El Destino de Asiria:</strong> El capítulo cierra con una profecía de la **destrucción de Asiria** (la primera potencia en ese momento).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Mitológico: El Trono Celestial</h5>
+<ul>
+    <li><strong>El Monte:</strong> El rey quería subir al **Monte de la Congregación** (el lugar de los dioses).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Humildad:</strong> El orgullo es castigado con la **humillación** y el Seol.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **soberbia** es el pecado máximo que lleva a la caída.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">orgullo es el origen de todo pecado</span>. La soberbia del rey terrenal es un reflejo de la rebelión de Satanás.</p>
                 
@@ -28111,7 +37009,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dolor:</strong> El profeta comparte la aflicción de la nación</li>
                     <li><strong>Vergüenza:</strong> La desnudez y el lamento del pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo contra Moab</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Lamento y la Desolación</h5>
+<ul>
+    <li><strong>La Carga:</strong> El juicio contra **Moab** (descendientes de Lot, enemigos perennes de Israel).</li>
+    <li><strong>La Noche:</strong> La desolación de Moab ocurre en **una noche**.</li>
+    <li><strong>Los Ritos Paganos:</strong> Los moabitas suben a sus **lugares altos** (altares paganos) para llorar y clamar a sus dioses (Quemos).</li>
+    <li><strong>El Luto:</strong> El luto es extremo: **rapamiento de la cabeza, corte de barbas** y vestidura de cilicio (costumbres de luto).</li>
+    <li><strong>La Sequía:</strong> Las **aguas de Nimrim** serán desoladas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Gritos de Guerra</h5>
+<ul>
+    <li><strong>El Grito:</strong> El grito de los moabitas se extiende hasta las ciudades fronterizas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio Total:</strong> El juicio es tan grande que el profeta mismo **lamenta el dolor** del enemigo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **profecía** demuestra que el destino de Moab está en manos de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es severo</span>, pero el profeta demuestra compasión incluso por los enemigos de Israel.</p>
                 
@@ -28137,7 +37058,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberbia:</strong> La causa de la ruina de Moab</li>
                     <li><strong>Juicio Limitado:</strong> La destrucción se completará en tres años</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Refugio de Moab en Judá</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Refugio y la Misericordia</h5>
+<ul>
+    <li><strong>El Mensaje:</strong> Súplica a Judá (la **"Roca del desierto"**) para que dé refugio a los **fugitivos de Moab**.</li>
+    <li><strong>La Misericordia:</strong> Se pide que el **trono** se establezca con **misericordia** en el tabernáculo de David.</li>
+    <li><strong>La Cosecha Pérdida:</strong> El lamento por la **destrucción de las viñas** y los campos de Moab (su riqueza agrícola).</li>
+    <li><strong>El Juicio Final:</strong> La profecía del fin de la gloria de Moab **en tres años**, como el tiempo de un jornalero.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Vid</h5>
+<ul>
+    <li><strong>Vid de Sibma:</strong> La vid de Moab era famosa por su calidad. Su destrucción es la ruina económica.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Honor:</strong> La **misericordia de Judá** es la única esperanza de Moab, pero su orgullo lo impide.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **bondad de YHWH** se extiende incluso al enemigo si este se humilla.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio es el resultado de la soberbia</span>. La fe demuestra misericordia, incluso por los enemigos, pero reconoce la justicia del juicio de Dios.</p>
                 
@@ -28163,7 +37106,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Idolatría:</strong> El olvido del Dios de la salvación</li>
                     <li><strong>Juicio Rápido:</strong> La cosecha se pierde en el día de la angustia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo contra Damasco (Siria) e Israel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Desolación y el Remanente</h5>
+<ul>
+    <li><strong>La Carga:</strong> Juicio contra **Damasco** (Siria), que será reducida a un **montón de ruinas**.</li>
+    <li><strong>Efraín y Siria:</strong> El juicio caerá sobre **Israel** (Efraín) por su alianza impía con Siria.</li>
+    <li><strong>La Gloria:</strong> La gloria de Israel será **disminuida** y será como el **rastrojo** de la siega.</li>
+    <li><strong>El Olivo:</strong> Solo quedará un **pequeño remanente** (dos o tres olivas) en la rama más alta.</li>
+    <li><strong>El Pecado:</strong> El pueblo olvidó al **Dios Fuerte** de su salvación y plantó **"plantío extraño"** (la idolatría).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Siega</h5>
+<ul>
+    <li><strong>Siega:</strong> La destrucción es comparada con la siega de la cosecha, donde solo quedan los granos pequeños.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Remanente:</strong> La **supervivencia** de Israel se reduce a la intervención directa de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confianza en YHWH** es el único refugio, no las alianzas políticas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio cae sobre Judá y sus enemigos</span> por la misma razón: la infidelidad y la idolatría.</p>
                 
@@ -28189,7 +37155,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> La nación es cortada y entregada al enemigo</li>
                     <li><strong>Adoración:</strong> El remanente gentil traerá ofrenda a Sion</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo contra Cus (Etiopía)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Mensaje Profético y la Señal</h5>
+<ul>
+    <li><strong>La Carga:</strong> Juicio contra **Cus** (Etiopía), que enviaba **embajadores por mar** en barcos de juncos.</li>
+    <li><strong>La Señal:</strong> Dios dará una **señal** (un estandarte levantado en los montes) que todos verán.</li>
+    <li><strong>La Destrucción:</strong> El juicio será una destrucción repentina. Los **cuerpos de los muertos** serán dejados para las aves de rapiña y las bestias.</li>
+    <li><strong>La Peregrinación:</strong> En el tiempo final, los cusitas traerán **ofrendas a Sión** (el lugar de YHWH).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Diplomático: Barcos de Junco</h5>
+<ul>
+    <li><strong>Barcos:</strong> Los barcos de **junco o papiro** eran comunes en el Nilo y la costa africana.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Misión:</strong> Incluso la nación más lejana y poderosa se someterá a YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder de Dios** se revela en Su tiempo, no en la prisa de los hombres.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios</span> es global. El juicio de Dios es un medio para que las naciones reconozcan a YHWH y traigan adoración a Sion.</p>
                 
@@ -28215,7 +37203,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Idolatría:</strong> El juicio contra los dioses de Egipto</li>
                     <li><strong>Bendición Tripartita:</strong> Egipto, Asiria e Israel serán una bendición</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo contra Egipto (Egipto se Convierta)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Castigo y la Conversión</h5>
+<ul>
+    <li><strong>La Carga:</strong> Juicio contra **Egipto**. Sus **ídolos se postrarán** y su **corazón se derretirá**.</li>
+    <li><strong>El Caos Social:</strong> Dios mezclará el **espíritu de Egipto** (guerra civil, anarquía).</li>
+    <li><strong>La Sequía:</strong> El **Nilo** (la base de su vida y deidad) se secará, causando la ruina económica.</li>
+    <li><strong>La Conversión:</strong> Los egipcios **temerán a YHWH** y un día habrá un **altar a YHWH** en medio de Egipto.</li>
+    <li><strong>La Bendición:</strong> Egipto, Asiria e Israel serán una **bendición** en medio de la tierra.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Consulta de los Ídolos</h5>
+<ul>
+    <li><strong>Oráculos:</strong> Egipto consultará a los **ídolos, a los hechiceros y a los encantadores** (magia).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Gracia:</strong> La profecía concluye con la **conversión y la bendición** del antiguo opresor de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación de YHWH** se extiende incluso a las naciones más hostiles.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">redención de Dios es universal</span>. Las naciones históricamente enemigas se unirán en el futuro para adorar a YHWH, el Creador.</p>
                 
@@ -28241,7 +37252,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Advertencia:</strong> Judá no debe confiar en Egipto o Etiopía</li>
                     <li><strong>Vergüenza:</strong> La humillación de los aliados de Judá</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Señal Profética contra Egipto y Cus</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Profeta como Señal</h5>
+<ul>
+    <li><strong>El Acto Simbólico:</strong> Isaías camina **desnudo y descalzo** (la vestidura de un cautivo) por **tres años**.</li>
+    <li><strong>El Propósito:</strong> El acto es una **señal** de que el rey de **Asiria** llevará a los **egipcios y cusitas** (sus aliados) cautivos.</li>
+    <li><strong>La Burla:</strong> Judá, que confió en Egipto y Cus, será **avergonzada** al ver su destino.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Cautividad</h5>
+<ul>
+    <li><strong>Cautiverio:</strong> Los prisioneros de guerra a menudo eran llevados **desnudos y descalzos** (el máximo oprobio).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Diferencias</h5>
+<ul>
+    <li><strong>Advertencia:</strong> El sufrimiento del profeta se convierte en una **profecía visible** del juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confianza en YHWH** es el único refugio, no las alianzas humanas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">acto profético en el cuerpo de Isaías</span> es la advertencia más clara contra la confianza en los aliados políticos. La única seguridad es YHWH.</p>
                 
@@ -28267,7 +37299,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Desesperación:</strong> La angustia de Edom y Arabia</li>
                     <li><strong>Juicio Inminente:</strong> La rapidez del juicio de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Babilonia y la Vigilia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Visión de la Caída</h5>
+<ul>
+    <li><strong>La Carga del Desierto:</strong> El oráculo contra **Babilonia** (la "carga del desierto del mar"). La destrucción es inminente y traída por Elam y Media (futuros persas).</li>
+    <li><strong>La Vigilia:</strong> El profeta ve a **vigilantes** que esperan y proclaman la caída.</li>
+    <li><strong>Los Ídolos:</strong> Los **ídolos de Babilonia** (Bel y Nebo) son postrados y destruidos.</li>
+    <li><strong>Edom:</strong> Oráculo contra **Duma** (Edom). La pregunta del vigilante sobre el tiempo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Los Carros</h5>
+<ul>
+    <li><strong>Carros:</strong> Los vigilantes ven **carros de asnos** y **carros de camellos**, indicando la naturaleza de la caballería y el transporte en el desierto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Noche y la Mañana:</strong> El juicio es repentino (llega en la noche).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder de Babilonia** es efímero ante la soberanía de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es global e inevitable</span>. La caída de los imperios es la garantía de la liberación de Israel.</p>
                 
@@ -28293,7 +37347,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza Humana:</strong> Confiar en las armas y no en YHWH</li>
                     <li><strong>El Clavo Fiel:</strong> La figura de Eliaquim como portador de la llave (autoridad)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo contra el Valle de la Visión (Jerusalén)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Confianza y la Destrucción</h5>
+<ul>
+    <li><strong>El Juicio de Jerusalén:</strong> La "carga del **Valle de la Visión**" (Jerusalén), que confía en sus **murallas** y no en Dios.</li>
+    <li><strong>La Preparación:</strong> El pueblo se prepara para el asedio, **acumulando agua** y **fortificando las casas** para la defensa (medidas humanas).</li>
+    <li><strong>El Desafío:</strong> Critica al pueblo por no **"mirar al que la hizo"** (YHWH) en su preparación.</li>
+    <li><strong>El Traslado:</strong> El juicio sobre **Sebna** (el mayordomo real), cuya gloria se desvanece y es reemplazado por **Eliaquim**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Asedio y el Agua</h5>
+<ul>
+    <li><strong>El Sitio:</strong> Acumular agua era crucial para sobrevivir al sitio.</li>
+    <li><strong>La Llave:</strong> Eliaquim recibe la **llave de la casa de David** (símbolo de autoridad total).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Fidelidad:</strong> Se lamenta que la única certeza es que este pecado **no será purificado** hasta la muerte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **seguridad** no reside en los muros de la ciudad, sino en la fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio es un castigo por la arrogancia</span> y la falta de confianza en Dios. La fe se refugia en la autoridad que Dios ha establecido (Eliaquim).</p>
                 
@@ -28319,7 +37396,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Destrucción Temporal:</strong> Tiro será olvidada por 70 años</li>
                     <li><strong>Restauración:</strong> La riqueza de Tiro se volverá santa para YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo contra Tiro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Lamento y la Restauración Comercial</h5>
+<ul>
+    <li><strong>La Carga:</strong> Juicio contra **Tiro** (el gran puerto fenicio). Los **mercaderes** son avergonzados.</li>
+    <li><strong>El Poder Marítimo:</strong> Tiro era la **"corona"** de los mercaderes y el centro del comercio marítimo.</li>
+    <li><strong>La Destrucción:</strong> Tiro será **olvidada por 70 años** (el tiempo de un rey), como el tiempo del cautiverio.</li>
+    <li><strong>La Prostituta:</strong> Tiro es comparada con una **ramera** que, después de 70 años, **volverá a su oficio** (restauración comercial).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Comercial: El Mar y la Seda</h5>
+<ul>
+    <li><strong>Comercio:</strong> Tiro era famosa por su **púrpura** y su dominio de las rutas marítimas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Uso de la Riqueza:</strong> La riqueza restaurada de Tiro será **consagrada a YHWH** para los que habitan en Su presencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **soberanía de YHWH** se extiende sobre la economía global y el comercio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es temporal</span>. La riqueza y el orgullo del mundo serán, en última instancia, dedicados al servicio y la adoración de YHWH.</p>
                 
@@ -28345,7 +37444,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Quebrantamiento del Pacto:</strong> La causa del juicio global</li>
                     <li><strong>Caos Cósmico:</strong> El cielo y la Tierra son trastornados</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Apocalipsis de Isaías (Juicio Universal)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio Cósmico y la Desolación</h5>
+<ul>
+    <li><strong>El Vacío:</strong> Profecía de que YHWH **vaciará y desolará la Tierra** (juicio universal).</li>
+    <li><strong>El Juicio Total:</strong> El juicio es **universal**; caerá sobre el sacerdote y el pueblo, el siervo y el amo.</li>
+    <li><strong>La Risa Callada:</strong> El **júbilo del arpa** cesará, la **alegría de los tamboriles** será quitada.</li>
+    <li><strong>El Vino:</strong> No se beberá más **vino** con cántico; la bebida amargará.</li>
+    <li><strong>El Final:</strong> La luna se avergonzará y el sol se confundirá, porque YHWH reinará en el **Monte Sión**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Ciudad Destruida</h5>
+<ul>
+    <li><strong>La Ciudad:</strong> La ciudad será **destruida** y sus casas estarán cerradas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Caos y el Trono:</strong> El caos terrenal será seguido por el **reinado visible** y glorioso de YHWH en Sión.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **pecado** ha pervertido la Tierra, lo que exige un castigo cósmico.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios sobre la Tierra</span> es absoluta. El juicio es un castigo por el pecado de la humanidad contra el orden divino.</p>
                 
@@ -28371,7 +37493,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Destrucción de la Muerte:</strong> La profecía de la resurrección</li>
                     <li><strong>Consuelo:</strong> Dios enjugará las lágrimas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Himno de Alabanza y el Banquete Mesiánico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Templo y la Victoria sobre la Muerte</h5>
+<ul>
+    <li><strong>El Himno:</strong> El salmo de alabanza por la **destrucción de la ciudad fuerte** (el imperio pagano).</li>
+    <li><strong>El Refugio:</strong> Dios es la **fortaleza del pobre** y el refugio del necesitado.</li>
+    <li><strong>El Velo:</strong> Dios **destruirá el velo** (la tristeza y el luto) que cubre a todas las naciones.</li>
+    <li><strong>El Banquete:</strong> YHWH preparará un **banquete de manjares suculentos** y **vinos refinados** para todos los pueblos en Sión.</li>
+    <li><strong>La Muerte:</strong> Dios **destruirá a la Muerte para siempre**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Luto</h5>
+<ul>
+    <li><strong>Luto:</strong> La promesa de **enjugar las lágrimas** de todos los rostros.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Recompensa:</strong> La victoria sobre la Muerte y el Juicio es el **clímax de la esperanza**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **redención final** es un banquete de vida eterna en el monte de Sión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías traerá la victoria sobre la muerte</span>. El banquete es la celebración de la vida eterna y la comunión universal.</p>
                 
@@ -28397,7 +37542,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resurrección:</strong> La esperanza de que los muertos volverán a vivir</li>
                     <li><strong>Paz:</strong> La bendición para el que confía en Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Cántico de la Resurrección y la Paz</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Cántico de la Ciudad Fuerte y la Confianza</h5>
+<ul>
+    <li><strong>El Cántico:</strong> El pueblo cantará: **"Ciudad fuerte tenemos; salvación puso Dios por muros y antemuro"**.</li>
+    <li><strong>La Puerta:</strong> Solo los **justos** y los que guardan la verdad pueden entrar por las puertas.</li>
+    <li><strong>El Yugo:</strong> Dios quita el **yugo** de los opresores (la servidumbre).</li>
+    <li><strong>La Resurrección:</strong> **"Tus muertos vivirán; sus cadáveres resucitarán"**. | Una de las **profecías más claras** de la resurrección en el AT.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Los Muros</h5>
+<ul>
+    <li><strong>Murallas:</strong> La salvación de Dios es la única defensa, no las murallas de la ciudad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Polvo:</strong> El pueblo que habitaba en el polvo **despertará** y **cantará**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **esperanza** trasciende el juicio y la muerte.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe se basa en la inmutabilidad de Dios</span>. La esperanza de Israel es la certeza de la vida después de la muerte y el juicio de Dios.</p>
                 
@@ -28423,7 +37590,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Viña Fructífera:</strong> Israel restaurado y bendecido</li>
                     <li><strong>Reunión:</strong> El remanente volverá de los confines de la Tierra</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio de Leviatán y la Restauración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Viña Bella y el Juicio Final</h5>
+<ul>
+    <li><strong>Leviatán:</strong> Dios destruirá a **Leviatán**, la **serpiente tortuosa** (símbolo del caos marino y de los poderes terrenales hostiles).</li>
+    <li><strong>La Viña:</strong> Israel es la **"viña de vino rojo"** que Dios cuidará.</li>
+    <li><strong>El Asedio:</strong> Dios **disciplinará a Israel** con medida, sin destruirlo totalmente.</li>
+    <li><strong>El Sacrificio:</strong> El pecado será perdonado cuando las **piedras de los altares paganos** se hagan como polvo de tiza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Mitológico: El Dragón del Mar</h5>
+<ul>
+    <li><strong>Dragón:</strong> Leviatán era un **monstruo mítico** en la literatura ugarítica, asociado con el mar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Cosecha:</strong> La restauración será como la **sacudida del olivo** (solo un remanente quedará, pero el fruto no se perderá).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **disciplina de Dios** es amorosa, diseñada para purificar, no para aniquilar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">dominio de Dios sobre el mal</span> (Leviatán) es absoluto. La restauración de Israel es el acto final de la fidelidad de Dios al Pacto.</p>
                 
@@ -28449,7 +37638,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Piedra Angular:</strong> El Mesías como el fundamento seguro de Sion</li>
                     <li><strong>Alianza con la Muerte:</strong> Judá confía en alianzas humanas en lugar de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Ay contra Efraín y la Piedra Angular</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ebriedad y el Fundamento</h5>
+<ul>
+    <li><strong>El Primer Ay:</strong> Juicio contra **Efraín** (el Reino del Norte), cuya gloria es como una **corona de embriaguez**.</li>
+    <li><strong>El Sacerdocio Corrupto:</strong> El sacerdote y el profeta de Judá están **borrachos** y **trastabillan en el juicio**.</li>
+    <li><strong>El Fundamento:</strong> Profecía de la **"piedra probada, angular, preciosa"** que Dios pondrá en Sión (el Mesías).</li>
+    <li><strong>El Pacto con la Muerte:</strong> El pueblo hizo una **"alianza con la muerte y un pacto con el Seol"** (confiando en mentiras).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Inundación</h5>
+<ul>
+    <li><strong>El Clima:</strong> La gloria de Efraín es como una **flor que se seca** antes del tiempo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Juicio y Fundamento:</strong> El **juicio** es necesario para limpiar el terreno para la **piedra angular** mesiánica.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera seguridad** no es la fuerza militar, sino la fe en el Mesías.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías (Piedra Angular)</span> es el único fundamento seguro en medio de la inestabilidad. La soberbia de Efraín lleva a su caída.</p>
                 
@@ -28475,7 +37686,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Somnolencia:</strong> La ceguera espiritual de los líderes</li>
                     <li><strong>Restauración de la Visión:</strong> Los sordos oirán y los ciegos verán</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Ay contra Ariel y el Libro Sellado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ceguera Espiritual y la Revelación</h5>
+<ul>
+    <li><strong>Ariel:</strong> Juicio contra **Ariel** (el "León de Dios"), un nombre para **Jerusalén**.</li>
+    <li><strong>El Sitio:</strong> El juicio hará que Jerusalén sea como una voz que **grita desde el polvo** (la humillación).</li>
+    <li><strong>El Sueño:</strong> El castigo de Dios es una **ceguera espiritual**; profetas y videntes tienen un **"espíritu de sueño"**.</li>
+    <li><strong>El Libro Sellado:</strong> La **Palabra de Dios** es como un **libro sellado** que no puede ser leído ni por el sabio ni por el ignorante.</li>
+    <li><strong>La Visión:</strong> La curación será un **tiempo de entendimiento**, donde el sordo oirá y el ciego verá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Alfarería</h5>
+<ul>
+    <li><strong>El Alfarero:</strong> El pueblo es comparado con el **barro** que cuestiona al alfarero.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Mentira vs. La Verdad:</strong> La adoración ritual de Jerusalén es criticada como **mandamientos de hombres**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera adoración** requiere la **revelación de Dios** para ser entendida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">religión externa es vana</span>. La fe requiere un corazón transformado. Dios sanará la ceguera espiritual.</p>
                 
@@ -28501,7 +37735,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Rebeldía:</strong> No escuchar la Ley de YHWH</li>
                     <li><strong>Misericordia:</strong> Dios es paciente y se levantará para tener misericordia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Ay contra la Alianza Egipcia y la Disciplina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Confianza y la Piel de Serpiente</h5>
+<ul>
+    <li><strong>El Ay:</strong> Juicio contra Judá por **aliarse con Egipto** (la "sombra de Egipto") en lugar de confiar en YHWH.</li>
+    <li><strong>La Deshonra:</strong> Los embajadores de Judá serán **avergonzados** por Egipto, que no los ayudará.</li>
+    <li><strong>El Llamado:</strong> El pueblo pide un **"descanso"** (confianza), pero ellos lo rechazaron.</li>
+    <li><strong>La Disciplina:</strong> Dios es un **Dios de juicio**, pero **espera para tener misericordia**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Animales Míticos</h5>
+<ul>
+    <li><strong>Animales:</strong> La ruta a Egipto se describe con **leones, víboras** y **serpientes voladoras** (peligros del desierto).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Retorno:</strong> La **fuerza de Israel** será **"en quietud y en confianza"**, no en la fuerza del caballo egipcio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gracia de Dios** es la fuente de la paciencia en el juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">paciencia de Dios es grande</span>. El juicio y la destrucción son el resultado de la terquedad, pero la misericordia está dispuesta a actuar.</p>
                 
@@ -28527,7 +37783,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Defensa de Sion:</strong> Dios mismo defenderá a Jerusalén</li>
                     <li><strong>Conversión:</strong> La necesidad de volverse de la idolatría</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Ay contra la Fuerza de Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Vanidad de la Fuerza Humana</h5>
+<ul>
+    <li><strong>El Caballo:</strong> Juicio contra Judá por **confiar en los caballos de Egipto** y en la **multitud de sus carros**.</li>
+    <li><strong>La Retirada:</strong> Egipto es **"hombre, y no Dios"**, y su carne no es espíritu.</li>
+    <li><strong>El León:</strong> Dios protegerá a Jerusalén **como un león** sobre su presa, sin temor al clamor de los pastores.</li>
+    <li><strong>El Vuelo:</strong> Dios **defenderá y librará** a Jerusalén.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Caballería</h5>
+<ul>
+    <li><strong>Carros:</strong> La caballería y los carros eran la tecnología militar más avanzada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Conversión:</strong> Los israelitas **volverán a YHWH** y **desecharán sus ídolos** de oro y plata.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confianza en el hombre** es una ofensa directa a la soberanía de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es la única defensa</span>. La fuerza de Egipto es carne, y no espíritu. La fe debe buscar la verdad en el Santo de Israel.</p>
                 
@@ -28553,7 +37831,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paz:</strong> La bendición del Espíritu de Dios</li>
                     <li><strong>Seguridad:</strong> La morada en lugares de reposo y tranquilidad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Rey Justo y la Restauración del Espíritu</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Visión del Reino Mesiánico</h5>
+<ul>
+    <li><strong>El Rey Justo:</strong> Profecía de un **rey que reinará en justicia** y **príncipes que gobernarán rectamente**.</li>
+    <li><strong>La Sombra:</strong> El Mesías será como **escondedero contra el viento** y **sombra contra el calor** (protección).</li>
+    <li><strong>El Espíritu:</strong> Se promete que el **Espíritu** será derramado desde lo alto, convirtiendo el desierto en campo fértil.</li>
+    <li><strong>El Fruto de la Justicia:</strong> La justicia producirá **paz** y **seguridad** para siempre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Oprimido</h5>
+<ul>
+    <li><strong>El Sabio y el Necio:</strong> El **necio** (el avaro) ya no será llamado generoso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Orden:</strong> La **justicia social** es el resultado de la presencia del Espíritu de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La verdadera estabilidad es la **paz de la justicia** impartida por el Mesías.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Espíritu de Dios</span> es el agente de la justicia. La fe se regocija en el gobierno perfecto del Mesías.</p>
                 
@@ -28579,7 +37879,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hombre Justo:</strong> El requisito para habitar con Dios</li>
                     <li><strong>Rey en Su Hermosura:</strong> La visión de YHWH en Su gloria</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Lamento y la Promesa de Sión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Seguridad del Remanente</h5>
+<ul>
+    <li><strong>El Ay:</strong> Juicio contra el **destructor** (Asiria), que será destruido.</li>
+    <li><strong>El Clamor:</strong> Un lamento del pueblo que suplica por la **misericordia** de Dios.</li>
+    <li><strong>El Juicio:</strong> El **fuego** de Dios consumirá a los impíos.</li>
+    <li><strong>El Rey:</strong> El pueblo verá al **Rey en Su hermosura** y verá la **tierra lejana**.</li>
+    <li><strong>Jerusalén:</strong> Sión será una **morada de paz, tienda que no será removida** (símbolo de estabilidad eterna).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Botín</h5>
+<ul>
+    <li><strong>Botín:</strong> El **botín** será tan grande que incluso el cojo podrá recogerlo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Santidad:</strong> Los pecadores en Sión temen al **fuego consumidor** de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sabiduría y el conocimiento** de Dios son la **riqueza** del remanente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad es el requisito para la comunión</span>. El juicio de Dios es una purificación para que el justo pueda ver Su gloria.</p>
                 
@@ -28605,7 +37928,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Día de la Venganza:</strong> El castigo por el juicio de Edom</li>
                     <li><strong>Desolación Eterna:</strong> Edom es condenada a la ruina permanente</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Universal sobre Edom</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Día de la Venganza y la Purga</h5>
+<ul>
+    <li><strong>El Juicio Global:</strong> Un oráculo de juicio contra **todas las naciones** y sus ejércitos.</li>
+    <li><strong>Edom:</strong> El juicio se enfoca en **Edom** (la nación hermana, símbolo de la hostilidad contra Israel).</li>
+    <li><strong>La Espada:</strong> La **espada de YHWH** está empapada en el cielo y descenderá sobre Edom.</li>
+    <li><strong>La Desolación:</strong> La tierra de Edom será desolada y habitada por **animales del desierto** (el pelícano, el búho, la lechuza).</li>
+    <li><strong>El Chaos:</strong> El juicio es tan grande que el **caos** y la **nada** gobernarán.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Animales Desérticos</h5>
+<ul>
+    <li><strong>Desolación:</strong> La desolación se demuestra cuando los animales salvajes y los demonios (*seirim*) habitan la ciudad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ira:</strong> La destrucción es el resultado de la **ira y la furia** de YHWH por la opresión de Su pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **venganza de YHWH** es el acto final para redimir a Sión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es justo y total</span> sobre aquellos que persiguen a Su pueblo (Edom) y Su creación. Dios es el ejecutor de la venganza.</p>
                 
@@ -28631,7 +37977,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sanidad Milagrosa:</strong> El ciego ve, el sordo oye</li>
                     <li><strong>Camino de Santidad:</strong> El camino de los redimidos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Restauración Edénica y el Camino de Santidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Curación y el Retorno</h5>
+<ul>
+    <li><strong>La Restauración:</strong> El **desierto y la soledad se alegrarán**; el campo florecerá como la rosa.</li>
+    <li><strong>La Curación:</strong> Los **ojos de los ciegos** se abrirán, y los **oídos de los sordos** se destaparán. El cojo saltará.</li>
+    <li><strong>El Agua:</strong> Las **aguas** brotarán en el desierto (la nueva creación).</li>
+    <li><strong>El Camino de Santidad:</strong> Habrá un **camino** que se llamará **"Camino de Santidad"**. Solo los redimidos caminarán por él.</li>
+    <li><strong>El Gozo:</strong> El **gozo perpetuo** será sobre las cabezas de los redimidos que regresen a Sión.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Debilidad</h5>
+<ul>
+    <li><strong>Fortaleza:</strong> Se exhorta a **fortalecer las manos débiles** y las rodillas temblorosas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Paz:</strong> Los **animales salvajes** serán expulsados del Camino de Santidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **redención final** es una restauración de la creación a un estado edénico.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">alegría de la redención</span> es la bendición final. El Camino de Santidad es la base para la entrada en el reino de Dios.</p>
                 
@@ -28657,7 +38026,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Burla:</strong> El Rabsaces desafía el poder de YHWH</li>
                     <li><strong>Desesperación:</strong> Judá se siente atrapada y humillada</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Cerco de Senaquerib y el Rabsaces</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Crisis y la Confianza</h5>
+<ul>
+    <li><strong>El Cerco:</strong> **Senaquerib**, rey de Asiria, sitia todas las ciudades fortificadas de Judá y llega a **Jerusalén**.</li>
+    <li><strong>El Rabsaces:</strong> El general asirio (**Rabsaces**) habla en **hebreo** (el idioma del pueblo) desde el muro para socavar la moral.</li>
+    <li><strong>La Burla:</strong> El Rabsaces se burla de la **confianza de Ezequías** en YHWH, comparándolo con los dioses inútiles de las naciones.</li>
+    <li><strong>La Amenaza:</strong> El Rabsaces ofrece a Ezequías **2.000 caballos** si Judá puede conseguir jinetes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Propaganda y el Asedio</h5>
+<ul>
+    <li><strong>Propaganda:</strong> Hablar en la lengua del enemigo era una táctica de **guerra psicológica**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Silencio:</strong> El pueblo obedece la orden de Ezequías de **no responder** a los asirios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confianza en YHWH** es la única defensa real.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">desafío del enemigo es un desafío a Dios</span>. La fe se humilla y busca la respuesta en el profeta.</p>
                 
@@ -28683,7 +38074,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Blasfemia:</strong> El castigo por el desafío a Dios</li>
                     <li><strong>Liberación:</strong> El ángel de Dios derrota al ejército sin intervención humana</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Liberación de Jerusalén por el Ángel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Intercesión y el Milagro</h5>
+<ul>
+    <li><strong>Luto y Oración:</strong> Ezequías rasga sus vestidos y va al Templo. Envía a consultar al profeta **Isaías**.</li>
+    <li><strong>La Profecía:</strong> Isaías profetiza que Senaquerib **no disparará una sola flecha** contra Jerusalén.</li>
+    <li><strong>La Carta:</strong> Senaquerib envía una carta de **burla a YHWH**. Ezequías la extiende ante YHWH en el Templo.</li>
+    <li><strong>El Ángel de YHWH:</strong> El **Ángel de YHWH** mata a **185.000 soldados** en el campamento asirio en una noche.</li>
+    <li><strong>Muerte de Senaquerib:</strong> Senaquerib regresa a Nínive y es **asesinado por sus propios hijos** en el templo de su dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Milagro</h5>
+<ul>
+    <li><strong>Desastre:</strong> La pérdida de 185.000 soldados es una **catástrofe militar total**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Poder Divino:</strong> El Templo y la oración son más fuertes que el ejército más grande del mundo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **soberanía de YHWH** sobre los dioses y reyes paganos es total.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">oración de fe y la santidad de Dios</span> son la base de la liberación. Dios defiende Su propia honra.</p>
                 
@@ -28709,7 +38123,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Señal:</strong> La sombra del sol retrocede (milagro cósmico)</li>
                     <li><strong>Cántico:</strong> La alabanza por la liberación de la muerte</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Enfermedad y el Retraso del Sol</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Oración y la Sanidad</h5>
+<ul>
+    <li><strong>La Sentencia de Muerte:</strong> Isaías declara a Ezequías que su enfermedad es **mortal**.</li>
+    <li><strong>La Oración:</strong> Ezequías ora, y YHWH le añade **quince años más** de vida.</li>
+    <li><strong>El Remedio:</strong> Isaías ordena un **emplasto de higos** para sanar la úlcera (la sanidad ocurre por la intervención divina y el uso de medios naturales).</li>
+    <li><strong>La Señal:</strong> Dios da una señal: la **sombra regresa 10 grados** en el reloj de sol de Acaz. | Un milagro **astronómico**.</li>
+    <li><strong>El Cántico:</strong> Ezequías entona un cántico de **agradecimiento** por su liberación de la muerte.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Científico: El Reloj de Sol</h5>
+<ul>
+    <li><strong>Reloj de Sol:</strong> Los relojes de sol eran utilizados para medir el tiempo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Vida y Muerte:</strong> La **soberanía de Dios** se extiende incluso sobre la vida y la muerte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **oración de fe** puede alterar el decreto divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">poder de la oración</span> es tan grande que puede cambiar el plan de Dios (o al menos, la manifestación del tiempo). La vida debe ser usada para alabar a YHWH.</p>
                 
@@ -28735,7 +38172,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Irreversible:</strong> El exilio babilónico es profetizado</li>
                     <li><strong>Transición:</strong> Babilonia reemplaza a Asiria como el enemigo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Embajadores de Babilonia y la Profecía del Exilio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Orgullo y la Advertencia</h5>
+<ul>
+    <li><strong>La Embajada:</strong> Ezequías recibe a los **embajadores de Babilonia** (Merodac-baladán) que vienen a felicitarlo por su curación.</li>
+    <li><strong>El Error:</strong> Ezequías les **muestra todo su tesoro** y sus armas (un acto de orgullo y vanidad).</li>
+    <li><strong>La Profecía del Exilio:</strong> Isaías profetiza el futuro **Exilio Babilónico**: todo el tesoro será llevado a Babilonia.</li>
+    <li><strong>El Fin de Proto-Isaías:</strong> Este relato sirve de **puente** a la segunda parte del libro, que se sitúa en el exilio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Diplomático: La Ostentación</h5>
+<ul>
+    <li><strong>Ostentación:</strong> Mostrar el tesoro era una forma de **afirmar la riqueza** y el poder a los diplomáticos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Necedad:</strong> La **necedad** de Ezequías al confiar en una alianza humana selló el destino de Judá.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **orgullo humano** anula la gratitud por la sanidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">orgullo es el último pecado del líder</span>. El juicio es inevitable, pero Dios lo anuncia con anticipación para la preparación.</p>
                 
@@ -28761,7 +38220,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Voz en el Desierto:</strong> Preparación para el retorno de YHWH</li>
                     <li><strong>Fuerza:</strong> Dios da nuevas fuerzas a los que esperan en Él</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Consuelo de Sión y la Voz en el Desierto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Perdón y la Revelación de la Gloria</h5>
+<ul>
+    <li><strong>El Consuelo:</strong> **"Consolaos, consolaos, pueblo mío"** (40:1). Se anuncia el **fin del servicio** de Jerusalén (el exilio ha pagado la culpa).</li>
+    <li><strong>La Voz:</strong> Una voz clama en el **desierto** para **preparar el camino de YHWH** (un camino para el retorno).</li>
+    <li><strong>La Fragilidad Humana:</strong> Toda **carne es hierba** y su gloria como **flor del campo** (fugacidad).</li>
+    <li><strong>El Pastor:</strong> Dios es comparado con un **Pastor** que pastorea Su rebaño, llevando a los corderos en Su seno.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Hierba</h5>
+<ul>
+    <li><strong>Fugacidad:</strong> El hombre es como la hierba que se seca.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Palabra:</strong> La **Palabra de YHWH** permanece para siempre, en contraste con la fragilidad humana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **consuelo** se basa en la certeza del perdón y el poder infinito de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Palabra de Dios es la fuente del consuelo</span>. El exilio termina, y Dios trae esperanza y nuevas fuerzas.</p>
                 
@@ -28787,7 +38268,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>No Temas:</strong> El mandamiento de la confianza</li>
                     <li><strong>Fortaleza:</strong> Dios es la fuerza del débil (el gusano de Jacob)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Soberanía de Dios y el Llamado a Ciro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Monoteísmo y la Promesa</h5>
+<ul>
+    <li><strong>El Desafío:</strong> YHWH desafía a las **naciones** y a los **ídolos** a predecir el futuro o demostrar Su poder.</li>
+    <li><strong>El Ungido:</strong> Dios levantó a un hombre del oriente (**Ciro**) para someter a los reyes.</li>
+    <li><strong>La Confianza:</strong> Judá no debe temer al exilio, pues Dios es el **único Dios** y el **Redentor**.</li>
+    <li><strong>La Ayuda:</strong> Los pobres y necesitados del desierto recibirán **agua** y **árboles** (la nueva creación).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Fabricación de Ídolos</h5>
+<ul>
+    <li><strong>Ídolos:</strong> Los artesanos se animan unos a otros para **fabricar y fijar ídolos** con clavos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Palabra:</strong> YHWH declara el **fin desde el principio**; los ídolos son mudos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **elección de Ciro** demuestra la soberanía de YHWH sobre la historia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">monoteísmo es la base de la confianza</span>. La debilidad de Israel es superada por la fuerza de Dios.</p>
                 
@@ -28813,7 +38316,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Luz a las Naciones:</strong> La misión universal del Siervo</li>
                     <li><strong>Justicia:</strong> El Siervo establecerá la justicia en la Tierra</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Siervo de YHWH (La Luz a las Naciones)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Siervo y la Nueva Misión</h5>
+<ul>
+    <li><strong>El Siervo:</strong> El primer **Cántico del Siervo**. El Siervo es investido con el **Espíritu de Dios** para impartir justicia a las naciones.</li>
+    <li><strong>La Quietud:</strong> El Siervo **no clamará ni alzará Su voz** en la calle (Su ministerio será humilde y sin violencia).</li>
+    <li><strong>La Justicia:</strong> El Siervo será una **luz para las naciones** y un **pacto para el pueblo**.</li>
+    <li><strong>El Juicio:</strong> Dios es un **Guerrero** que levanta Su voz en la batalla.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Caña Cascada</h5>
+<ul>
+    <li><strong>La Caña:</strong> El Siervo no **quebrará la caña cascada** ni apagará el pábilo humeante (Su misericordia hacia los débiles).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Redención:</strong> El Siervo es el **instrumento de la redención** que restaura a Israel de la ceguera.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder del Siervo** reside en Su humildad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Siervo es el Mesías</span>, cuyo ministerio será humilde pero efectivo, trayendo la justicia de Dios a todo el mundo.</p>
                 
@@ -28839,7 +38364,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Testigo:</strong> Israel es llamado a testificar la obra de Dios</li>
                     <li><strong>Ceguera:</strong> Los ídolos y sus adoradores son ciegos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Nuevo Éxodo y el Testimonio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Redención y el Testigo</h5>
+<ul>
+    <li><strong>La Identidad:</strong> Dios recuerda a Israel: **"Yo te formé; Mi siervo eres tú"**.</li>
+    <li><strong>El Nuevo Éxodo:</strong> La liberación del exilio será un **Nuevo Éxodo** (más grande que el de Egipto).</li>
+    <li><strong>El Camino:</strong> Dios creará **camino en el mar** y **río en el desierto** para el retorno.</li>
+    <li><strong>El Testigo:</strong> Israel es el **testigo** de YHWH, elegido para saber que **"Yo Soy"** (el monoteísmo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Sed</h5>
+<ul>
+    <li><strong>Animales:</strong> Los **animales del campo** (chacales y avestruces) beberán del agua provista en el desierto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Olvido:</strong> Dios **"olvidará"** los pecados pasados de Israel para justificar Su acto de redención.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **redención** se basa en la gracia, no en el mérito pasado de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">existencia de Israel es el testimonio de Dios</span>. El sufrimiento del exilio es para purificarlos y hacerlos testigos de Su poder.</p>
                 
@@ -28865,7 +38412,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ciro Nombrado:</strong> La profecía específica del rey persa</li>
                     <li><strong>Primero y Último:</strong> La eternidad y unicidad de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Sátira de la Idolatría y la Elección</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ridiculización de los Ídolos</h5>
+<ul>
+    <li><strong>La Santidad:</strong> La elección de Israel es **inalterable**. Israel es el siervo de YHWH.</li>
+    <li><strong>La Sátira:</strong> Profecía de la **ridiculización de la idolatría**. El artesano usa el **mismo tronco** de árbol para el fuego y para tallar un dios.</li>
+    <li><strong>El Proceso:</strong> El herrero trabaja con **martillo y fuego** para hacer el ídolo. El ídolo es fijado con clavos para que no se caiga.</li>
+    <li><strong>El Retorno:</strong> Israel es llamado a **volver a YHWH**, y sus pecados son borrados como **"nube y niebla"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Artesanal: El Artesano y el Martillo</h5>
+<ul>
+    <li><strong>Martillo:</strong> El artesano trabaja intensamente, suda y se cansa para hacer un dios mudo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Dios Vivo:</strong> YHWH predice el futuro; el ídolo necesita ser **cargado** y **clavado** para existir.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **monoteísmo** se afirma a través de la burla de los dioses paganos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">conocimiento del futuro es la prueba de la deidad</span>. La fe se burla de las obras humanas y adora solo al Dios eterno.</p>
                 
@@ -28891,7 +38460,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Monoteísmo:</strong> Dios es el único que crea la luz y la oscuridad</li>
                     <li><strong>Misión:</strong> El llamado a los confines de la Tierra para la salvación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Ciro, el Ungido de YHWH</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Soberanía y el Control de la Historia</h5>
+<ul>
+    <li><strong>El Ungido (Mesías):</strong> Dios llama a **Ciro** (el rey persa) **"Mi ungido" (Mesías)**.</li>
+    <li><strong>La Autoridad:</strong> Dios le da autoridad sobre las naciones: **"quebrantaré puertas de bronce, y cerrojos de hierro haré pedazos"**.</li>
+    <li><strong>El Tesoro:</strong> Ciro será recompensado con **tesoros guardados en secreto** y **riquezas escondidas**.</li>
+    <li><strong>El Creador:</strong> Dios afirma ser el **Creador de la luz y las tinieblas**, el **Autor del bien y del mal** (el control total de la historia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Puerta de Bronce</h5>
+<ul>
+    <li><strong>Puertas:</strong> Las grandes ciudades babilónicas tenían pesadas **puertas de bronce** como defensa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Propósito:</strong> Ciro es usado como **instrumento** de Dios, aunque no conoce a YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación** se ofrece gratuitamente a todos los confines de la Tierra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">dominio de Dios es total</span>. Él usa a quien quiere para Sus propósitos. La salvación de Dios está abierta a todos los confines de la Tierra.</p>
                 
@@ -28917,7 +38508,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Dios Portador:</strong> YHWH carga a Su pueblo, no al revés</li>
                     <li><strong>Predicción:</strong> Dios anuncia el fin desde el principio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Humillación de los Dioses Babilónicos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Dios Que Carga y el Dios Cargado</h5>
+<ul>
+    <li><strong>Los Ídolos:</strong> Los dioses babilónicos **Bel y Nebo** serán **cargados** sobre los hombros de los hombres, y luego serán **prisioneros** y **botín**.</li>
+    <li><strong>La Burla:</strong> Los ídolos son una **carga pesada** para los animales, y no pueden salvar a sus adoradores.</li>
+    <li><strong>El Pastor:</strong> YHWH es el Dios que **carga** y **lleva** a Israel desde el nacimiento hasta la vejez.</li>
+    <li><strong>La Diferencia:</strong> Dios predice el futuro; los ídolos son mudos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Procesión</h5>
+<ul>
+    <li><strong>Procesión:</strong> Los dioses eran llevados en **procesión** durante los festivales. La profecía invierte el ritual.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Portador:</strong> El **Dios Vivo** carga a Su pueblo; los **dioses falsos** deben ser cargados por el pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de YHWH** a Su pueblo se basa en Su naturaleza de sostener la vida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">cuidado de Dios es paternal y constante</span>. El hombre no debe cargar a su dios, sino ser cargado por Dios.</p>
                 
@@ -28943,7 +38556,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Castigo Retributivo:</strong> Humillación y pérdida del poder</li>
                     <li><strong>Hechicería:</strong> La incapacidad de la magia para salvar a la ciudad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Sátira contra Babilonia, la Gran Dama</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio por la Arrogancia</h5>
+<ul>
+    <li><strong>La Dama Humillada:</strong> **Babilonia** (la "Señora de reinos") es humillada. Debe sentarse en el **polvo** y **quitarse el velo** (símbolos de deshonra y cautiverio).</li>
+    <li><strong>El Círculo Vicioso:</strong> Babilonia era famosa por su **magia** y **astrología**. Esto no la salvará.</li>
+    <li><strong>El Orgullo:</strong> La arrogancia de Babilonia fue que se consideró **"Yo soy, y fuera de mí no hay más"** (usurpando el título de YHWH).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Molienda</h5>
+<ul>
+    <li><strong>Moler el Grano:</strong> El castigo incluye el trabajo de **moler grano** y **levantar las faldas** (el trabajo de una esclava).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Redentor:</strong> El único **Redentor** de Israel es YHWH Sebaot (el Señor de los Ejércitos).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia de YHWH** se revela en la caída del imperio más opresor.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es contra la arrogancia</span> que se atribuye la eternidad. El poder de Dios es superior a la magia y la hechicería.</p>
                 
@@ -28969,7 +38603,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Predicción:</strong> La prueba de la deidad de YHWH</li>
                     <li><strong>Salida de Babilonia:</strong> El mandato de dejar el exilio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Prueba de Israel y el Nuevo Éxodo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Advertencia y la Pureza</h5>
+<ul>
+    <li><strong>La Cerviz:</strong> Israel es criticado por su **cerviz de hierro** y su **frente de bronce** (terquedad).</li>
+    <li><strong>El Propósito del Exilio:</strong> El exilio fue para **purificar a Israel** en el **horno de la aflicción** (el crisol).</li>
+    <li><strong>Predicción:</strong> YHWH predijo el futuro para que Israel no pudiera atribuirlo a sus ídolos.</li>
+    <li><strong>La Liberación:</strong> El pueblo es llamado a **salir de Babilonia** con gozo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Riqueza</h5>
+<ul>
+    <li><strong>Oro y Plata:</strong> El tesoro es probado en el crisol.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paz:</strong> **"No hay paz para los impíos"** (48:22), lo que justifica el juicio sobre Babilonia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de YHWH** se mantiene a pesar de la terquedad de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">corazón duro</span> es el obstáculo para la fe. La fe se manifiesta al obedecer el llamado de Dios para abandonar el lugar de opresión.</p>
                 
@@ -28995,7 +38651,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lamento:</strong> El Siervo siente que ha trabajado en vano</li>
                     <li><strong>Consuelo:</strong> Dios promete consolar a Sion y a Sus hijos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Siervo (Misión al Mundo) y Sión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Siervo como Flecha y la Restauración</h5>
+<ul>
+    <li><strong>El Siervo:</strong> El segundo **Cántico del Siervo**. El Siervo es llamado **desde el vientre** de su madre.</li>
+    <li><strong>El Arma Oculta:</strong> El Siervo es una **flecha aguda**, escondida en el carcaj de YHWH.</li>
+    <li><strong>La Misión:</strong> La misión del Siervo no es solo levantar a **Jacob**, sino ser **luz a las naciones** y llevar la salvación a los **confines de la Tierra**.</li>
+    <li><strong>El Consuelo de Sión:</strong> Sión lamenta: **"YHWH me ha desamparado"**. Dios promete a Sión que sus **hijos volverán**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Pecho de la Reina</h5>
+<ul>
+    <li><strong>Pecho:</strong> Los reyes de las naciones **amamantarán** (servirán) a Sión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Destino:</strong> La misión del Siervo es mucho **mayor** que la simple liberación de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **madre estéril** (Sión) se regocijará con una multitud de hijos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Siervo es el Redentor de Israel y de los gentiles</span>. Su misión es la clave para la restauración de la Tierra.</p>
                 
@@ -29021,7 +38699,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humillación:</strong> La aceptación del escarnio y el golpe</li>
                     <li><strong>Vindicación:</strong> La certeza de que Dios defenderá Su causa</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Siervo (Obediencia en la Aflicción)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Humillación y el Discurso Legal</h5>
+<ul>
+    <li><strong>La Pregunta del Divorcio:</strong> Dios pregunta a Israel si le dio **carta de divorcio** o vendió a Sus hijos (no hay justificación para el exilio).</li>
+    <li><strong>El Siervo Humillado:</strong> El tercer **Cántico del Siervo**. El Siervo recibe la **lengua de sabios**.</li>
+    <li><strong>La Obediencia:</strong> El Siervo **no se rebeló** ni se echó atrás.</li>
+    <li><strong>La Aflicción:</strong> El Siervo dio Su **espalda a los golpes** y Su mejilla a los que **arrancaban el pelo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Carta de Repudio</h5>
+<ul>
+    <li><strong>Divorcio:</strong> Una **carta de repudio** (divorcio) era la forma legal de anular el matrimonio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Cara:</strong> El Siervo **puso Su rostro como un pedernal** para no ser avergonzado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obediencia del Siervo** es la clave para la redención de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Siervo es el modelo de la obediencia sacrificial</span>. La fe en Dios es la fuente de la fuerza para soportar el sufrimiento.</p>
                 
@@ -29047,7 +38747,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder del Creador:</strong> La capacidad de Dios para crear una nación de la nada</li>
                     <li><strong>Despertar:</strong> La necesidad de que el brazo de YHWH actúe</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Consuelo a Sión (El Éxodo Antiguo)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Memoria Histórica y el Despertar</h5>
+<ul>
+    <li><strong>La Roca:</strong> Israel debe mirar a **Abraham** (la roca de donde fueron cortados) y a **Sara** (la matriz que los dio a luz).</li>
+    <li><strong>El Despertar:</strong> El profeta clama a Dios para que **"despierte"** y se vista de fuerza (recordando el poder del Éxodo).</li>
+    <li><strong>Rahab:</strong> Se invoca a Rahab (el monstruo marino, símbolo de Egipto) que fue herida en el pasado.</li>
+    <li><strong>El Consuelo:</strong> El **gozo y el placer** vendrán a Sión, y la tristeza huirá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Mitológico: El Caos</h5>
+<ul>
+    <li><strong>Rahab:</strong> El caos y el mar fueron vencidos por YHWH en la creación/redención.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Tazón:</strong> El **tazón de la ira** de Dios es quitado de Jerusalén y pasado a los opresores.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obra pasada de Dios** es la garantía de la liberación futura.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe se basa en el poder de Dios</span>, que es el mismo de Abraham. El consuelo viene al recordar la historia de la salvación.</p>
                 
@@ -29073,7 +38795,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Regreso:</strong> La liberación y el retorno a Jerusalén</li>
                     <li><strong>Exaltación:</strong> El Siervo será engrandecido después de la humillación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Siervo (Vindicación) y el Anuncio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Noticia y la Salida del Exilio</h5>
+<ul>
+    <li><strong>El Despertar de Sión:</strong> Jerusalén debe **"despertar"** y vestirse de sus **vestiduras de gala**.</li>
+    <li><strong>El Anuncio:</strong> El mensajero anuncia **paz y buenas noticias** sobre los montes.</li>
+    <li><strong>La Visión:</strong> Los **vigilantes** levantan sus voces en el retorno de YHWH a Sión.</li>
+    <li><strong>El Mandato de Salida:</strong> El pueblo debe **salir de Babilonia** y **purificarse** (sacar los utensilios del Templo).</li>
+    <li><strong>El Siervo Exaltado:</strong> El Siervo será **exaltado** y **enaltecido** sobre todas las naciones (su victoria final).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Limpieza</h5>
+<ul>
+    <li><strong>Utensilios:</strong> La purificación es necesaria al sacar los **utensilios del Templo** para el regreso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Brazo Descubierto:</strong> YHWH **descubrirá Su santo brazo** ante todas las naciones (la manifestación de Su poder).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **retorno físico** del exilio es un milagro visible para el mundo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">victoria sobre la esclavitud</span> es un acto de redención. La humillación del Siervo es la base de Su futura gloria.</p>
                 
@@ -29099,7 +38844,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Inocencia:</strong> El Siervo no cometió pecado</li>
                     <li><strong>Justificación:</strong> El Siervo justifica a muchos por Su conocimiento</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Siervo Sufriente (El Clímax)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sacrificio Vicario y la Expiación</h5>
+<ul>
+    <li><strong>El Desprecio:</strong> El Siervo es **despreciado**, **desechado** y **sin atractivo** (contrario a la expectativa de un Mesías glorioso).</li>
+    <li><strong>La Aflicción:</strong> El Siervo llevó **nuestras enfermedades** y **nuestros dolores**.</li>
+    <li><strong>La Ofrenda:</strong> El Siervo se ofreció como **ofrenda por la culpa** (el sacrificio supremo).</li>
+    <li><strong>El Cordero:</strong> El Siervo es llevado **como cordero al matadero** (símbolo de mansedumbre y sacrificio).</li>
+    <li><strong>El Juicio:</strong> El **castigo** que Él sufrió fue por el **pecado de Su pueblo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Oprobio</h5>
+<ul>
+    <li><strong>Muerte:</strong> El Siervo es contado con los **malhechores** en Su muerte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Inocencia:</strong> El Siervo es **inocente**, pero murió como un pecador para **justificar a muchos**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **redención del mundo** es a través del sufrimiento vicario, no de la fuerza militar.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sacrificio del Mesías</span> es la base de la justificación. El sufrimiento es el medio de la redención.</p>
                 
@@ -29125,7 +38893,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pacto de Paz:</strong> La promesa de misericordia inmutable</li>
                     <li><strong>Protección:</strong> La invulnerabilidad de Sion</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Restauración de la Jerusalén Estéril</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Esperanza y el Pacto Eterno</h5>
+<ul>
+    <li><strong>La Mujer Estéril:</strong> Jerusalén es comparada con una **mujer estéril y abandonada** (símbolo del exilio).</li>
+    <li><strong>La Descendencia:</strong> La mujer estéril tendrá **más hijos** que la casada (la restauración).</li>
+    <li><strong>El Muro:</strong> El pueblo reconstruirá con **zafiros** y **piedras preciosas** (la gloria del retorno).</li>
+    <li><strong>El Pacto:</strong> Dios establece un **Pacto de Paz eterno** (la misericordia que no se apartará de Sión).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Viudez</h5>
+<ul>
+    <li><strong>Viudez:</strong> El exilio es la **viudez** de Jerusalén.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Amor Eterno:</strong> Dios restaurará a Jerusalén con **compasión eterna**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** revierte el destino de la esterilidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe se regocija en la promesa de la restauración</span> y la multiplicación. La vergüenza del exilio será olvidada.</p>
                 
@@ -29151,7 +38941,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Palabra Eficaz:</strong> La Palabra de Dios cumple Su propósito</li>
                     <li><strong>Pacto Davídico:</strong> La promesa de David se extiende a todos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Invitación al Nuevo Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Invitación y la Palabra Eficaz</h5>
+<ul>
+    <li><strong>La Invitación:</strong> Invitación gratuita: **"Venid a las aguas"** y **"comprad sin dinero"** (la gratuidad de la salvación).</li>
+    <li><strong>El Pan:</strong> Critica al pueblo por gastar dinero en lo que **no es pan** (las cosas vacías).</li>
+    <li><strong>El Pacto Eterno:</strong> Dios dará las **misericordias firmes de David** (el Pacto Davídico).</li>
+    <li><strong>La Palabra:</strong> La **Palabra de Dios** es eficaz; no vuelve vacía, sino que **cumple Su propósito**.</li>
+    <li><strong>El Retorno:</strong> El pueblo saldrá con **gozo** y será llevado a la paz.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Lluvia</h5>
+<ul>
+    <li><strong>Lluvia:</strong> La Palabra de Dios se compara con la **lluvia y la nieve** que riegan la tierra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Los Pensamientos:</strong> Los **pensamientos y caminos de Dios** son superiores a los del hombre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación** es un banquete espiritual gratuito y eterno.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación es gratuita y eficaz</span>. La Palabra de Dios es la garantía de la restauración.</p>
                 
@@ -29177,7 +38990,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Casa de Oración:</strong> El Templo será un centro de adoración universal</li>
                     <li><strong>Liderazgo Ciego:</strong> La condena a los pastores egoístas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Inclusión, Sábado y la Corrupción Interna</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Inclusión y el Sábado</h5>
+<ul>
+    <li><strong>El Sábado:</strong> Énfasis en la **observancia del Sábado** como una señal de fidelidad.</li>
+    <li><strong>La Inclusión:</strong> Los **extranjeros** y los **eunucos** que guarden el pacto serán incluidos en la **Casa de Oración** (el Templo). | Rompe la ley de exclusión del Deuteronomio (23:1).</li>
+    <li><strong>El Pacto:</strong> Se promete un **nombre mejor** que el de hijos e hijas.</li>
+    <li><strong>Los Pastores:</strong> Critica a los **malos líderes** (pastores) que son ciegos y codiciosos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Exclusión</h5>
+<ul>
+    <li><strong>Exclusión:</strong> Los eunucos eran excluidos del Templo bajo la Ley.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Universalidad:</strong> El Templo será llamado **"Casa de Oración para todos los pueblos"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fe en YHWH** es más importante que la etnia o la condición física.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">pueblo de Dios es universal</span>. La fe se basa en la justicia y la obediencia, no en la etnia o la condición física.</p>
                 
@@ -29203,7 +39038,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> Dios mora con el contrito y el humilde</li>
                     <li><strong>Paz:</strong> El justo encuentra paz; el impío es como el mar agitado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Idolatría Secreta y la Muerte del Justo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio por la Idolatría</h5>
+<ul>
+    <li><strong>La Muerte del Justo:</strong> Los **justos** mueren, y **nadie entiende** que Dios los quita del mal.</li>
+    <li><strong>Idolatría:</strong> El pueblo practica la **idolatría en secreto**, debajo de **todo árbol frondoso** y **debajo de las peñas** (lugares altos cananeos).</li>
+    <li><strong>Sacrificio Humano:</strong> El pueblo sacrifica a sus **hijos en los arroyos** (culto pagano).</li>
+    <li><strong>El Camino:</strong> Dios castigará al impío, pero **sanará y guiará** a los arrepentidos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Pecaminosidad</h5>
+<ul>
+    <li><strong>Paganismo:</strong> El culto a los ídolos y la prostitución sagrada persisten después del exilio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Paz:</strong> Dios **crea el fruto de los labios: paz**. La paz viene de Su palabra.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera paz** no se encuentra en la idolatría, sino en el arrepentimiento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humildad es la condición para la morada de Dios</span>. El justo encuentra paz en la presencia de Dios, no en la idolatría secreta.</p>
                 
@@ -29229,7 +39086,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia:</strong> El ayuno verdadero es la acción social</li>
                     <li><strong>Sábado:</strong> El deleite en la Ley de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Verdadero Ayuno y la Justicia Social</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Ritual vs. La Ética</h5>
+<ul>
+    <li><strong>El Ayuno Falso:</strong> Critica el **ayuno hipócrita**, donde el pueblo se aflige externamente pero **oprime al jornalero** y contiende.</li>
+    <li><strong>El Verdadero Ayuno:</strong> El ayuno que YHWH elige es la **liberación del oprimido**, el **reparto del pan** al hambriento y el **cubrir al desnudo**.</li>
+    <li><strong>La Promesa:</strong> Si cumplen la ética, la **luz** de Israel nacerá, y YHWH responderá: **"Heme aquí"**.</li>
+    <li><strong>El Sábado:</strong> El pueblo debe **abstenerse de hacer su propia voluntad** en el Sábado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Yugo</h5>
+<ul>
+    <li><strong>Opresión:</strong> El ayuno no debe ser para **soltar las ligaduras de iniquidad** y **quitar el yugo** de la opresión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Práctica:</strong> La **justicia social** es la máxima forma de adoración a YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El ritual sin caridad es **abominación** para Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">culto debe ser ético</span>. La piedad vertical (Dios) es inseparable de la ética horizontal (el prójimo).</p>
                 
@@ -29255,7 +39134,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confesión:</strong> El reconocimiento de la maldad interna</li>
                     <li><strong>Redención:</strong> Dios mismo se convierte en el guerrero para salvar</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pecado como Separación y el Redentor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Confesión y el Juicio</h5>
+<ul>
+    <li><strong>La Separación:</strong> El **pecado** del pueblo es lo que **separa a Israel de Dios**.</li>
+    <li><strong>El Engaño:</strong> Las manos del pueblo están **contaminadas con sangre** y sus labios hablan **mentira**.</li>
+    <li><strong>La Armadura de Dios:</strong> YHWH se viste de la **coraza de justicia** y el **yelmo de salvación** para pelear.</li>
+    <li><strong>El Redentor:</strong> El **Redentor** vendrá a Sión y a los de Jacob que **se arrepientan**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Justicia Fallida</h5>
+<ul>
+    <li><strong>La Ceguera:</strong> La justicia se ha alejado y la equidad no puede entrar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Espíritu:</strong> El **Espíritu de YHWH** y **Sus Palabras** estarán sobre el pueblo y su descendencia para siempre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **redención** es necesaria para restaurar la conexión perdida por el pecado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">pecado es una barrera activa</span>. La redención es un acto de gracia de Dios, quien interviene donde el hombre falla.</p>
                 
@@ -29281,7 +39182,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Adoración Universal:</strong> Reyes y pueblos vendrán a Sion</li>
                     <li><strong>Paz y Justicia:</strong> La ciudad será llamada "Justicia"</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Gloria de Sión y el Flujo de las Naciones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Nueva Jerusalén y la Luz</h5>
+<ul>
+    <li><strong>La Luz:</strong> **"Levántate, resplandece, porque ha venido tu luz"**. La gloria de YHWH se levanta sobre Jerusalén.</li>
+    <li><strong>La Inversión:</strong> La **riqueza de las naciones** (camellos, oro, incienso) fluirá a Jerusalén.</li>
+    <li><strong>El Templo:</strong> El Templo será un lugar de **glorificación**.</li>
+    <li><strong>La Paz:</strong> Los **oficiales** de Sión serán **paz** y los **gobernantes** serán **justicia**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Lujo</h5>
+<ul>
+    <li><strong>Lujo:</strong> Las naves de **Tarsis** (comercio) y el **oro de Ofir** fluirán a Jerusalén.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Nombre:</strong> La ciudad ya no será llamada **"desamparada"**, sino **"Tierra de Casados"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **glorioso futuro** de Sión es la antítesis del exilio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gloria de Sion</span> es el Mesías, que atrae a los gentiles. La fe ve la restauración como un imán para el mundo.</p>
                 
@@ -29307,7 +39230,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Buena Nueva:</strong> El evangelio a los pobres y oprimidos</li>
                     <li><strong>Jubileo:</strong> El año de la liberación y la restauración</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Anuncio del Mesías y el Año de Gracia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Evangelio y la Restauración</h5>
+<ul>
+    <li><strong>El Ungido:</strong> El Siervo es ungido por el **Espíritu de YHWH** para **anunciar el Evangelio** a los pobres.</li>
+    <li><strong>El Año de la Gracia:</strong> La misión es proclamar el **"año de la buena voluntad de YHWH"** (el Jubileo o año de liberación).</li>
+    <li><strong>La Curación:</strong> Curar a los **quebrantados de corazón** y liberar a los **cautivos**.</li>
+    <li><strong>El Manto:</strong> Los redimidos serán vestidos con **"vestiduras de salvación"** y **"manto de justicia"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Luto</h5>
+<ul>
+    <li><strong>Ceniza y Aceite:</strong> Se dará **aceite de gozo** en lugar del luto y **vestido de alabanza** en lugar de espíritu angustiado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Intervención:</strong> La **intervención de Dios** es activa para la justicia y la liberación social.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misión del Siervo** es espiritual y social.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías es el Libertador y Sanador</span>. El evangelio es la proclamación del Jubileo eterno.</p>
                 
@@ -29333,7 +39278,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corona de Gloria:</strong> La exaltación de la ciudad</li>
                     <li><strong>Preparación:</strong> El mandato de preparar el camino para la entrada del pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Nuevos Nombres de Sión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Honor y la Intercesión</h5>
+<ul>
+    <li><strong>La Quietud:</strong> El profeta **no callará** hasta que la justicia de Jerusalén resplandezca.</li>
+    <li><strong>Nuevos Nombres:</strong> Jerusalén recibirá nuevos nombres: **"Mi Deleite Está en Ella" (Hefzibá)** y **"Casada" (Beulá)**.</li>
+    <li><strong>El Desposorio:</strong> La tierra será **desposada** por Dios (el pacto restaurado).</li>
+    <li><strong>Vigilantes:</strong> Dios pone **vigilantes** sobre los muros de Jerusalén para que intercedan.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Desamparo</h5>
+<ul>
+    <li><strong>Desamparo:</strong> La tierra ya no será llamada **"Desamparada" (Azubá)** ni la tierra **"Desolada" (Semamá)**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Corona:</strong> Jerusalén será **corona de gloria** en la mano de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **restauración del nombre** es el sello de la redención.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor de Dios es el fundamento de la restauración</span>. La nueva identidad de Sion es la evidencia de Su matrimonio con YHWH.</p>
                 
@@ -29359,7 +39326,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ausencia:</strong> El pueblo clama por la manifestación de la gloria pasada</li>
                     <li><strong>Compasión:</strong> La súplica por la misericordia y el perdón</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Guerrero Divino y el Lamento Histórico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Venganza y la Misericordia</h5>
+<ul>
+    <li><strong>El Guerrero:</strong> Dios es visto como un **guerrero que regresa de Edom** con ropas **manchadas de rojo** (del lagar).</li>
+    <li><strong>La Venganza:</strong> Dios pisó el **lagar** de Su furia Él solo; la **venganza** es solo Suya.</li>
+    <li><strong>El Lamento:</strong> El profeta lamenta la **historia de la rebelión** de Israel en el desierto.</li>
+    <li><strong>El Espíritu:</strong> El pueblo **entristeció el Espíritu Santo** de Dios por su desobediencia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Lagar</h5>
+<ul>
+    <li><strong>Lagar:</strong> La sangre de los enemigos se compara con el **jugo de uva** pisado en el lagar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Pastor:</strong> El profeta recuerda a Moisés, el **pastor del rebaño** de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de YHWH** se mantiene a pesar de la constante desobediencia de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio sobre el enemigo es solitario</span>; Dios no necesita ayuda. El pueblo clama por el recuerdo de la misericordia pasada.</p>
                 
@@ -29385,7 +39374,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confesión:</strong> Reconocimiento de la impureza de las obras humanas</li>
                     <li><strong>Alfarero:</strong> La dependencia del pueblo de Su Creador</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oración por la Intervención y la Confesión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Súplica y la Ruina</h5>
+<ul>
+    <li><strong>La Súplica:</strong> El profeta pide que Dios **rasgue los cielos y descienda** (una teofanía).</li>
+    <li><strong>El Fuego:</strong> El descenso de Dios debe ser como el **fuego** que enciende la leña y hace hervir el agua.</li>
+    <li><strong>La Ruina:</strong> La **casa de Dios** (el Templo) fue quemada, y la ciudad ha sido arruinada.</li>
+    <li><strong>El Alfarero:</strong> El pueblo es **barro**, y Dios es el **Alfarero** (la creación).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Humillación</h5>
+<ul>
+    <li><strong>Luto:</strong> El pueblo está **pisoteando el polvo** (símbolo de luto y deshonra).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Pecado:</strong> El profeta reconoce que el **pecado del pueblo** es la causa de la ruina.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confesión de la necesidad** es la única forma de buscar la intervención de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">arrepentimiento verdadero</span> se enfoca en la impureza de las propias obras, buscando la misericordia del Alfarero.</p>
                 
@@ -29411,7 +39422,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nuevos Cielos/Tierra:</strong> La promesa de la creación final</li>
                     <li><strong>Paz Edénica:</strong> La restauración de la armonía en la naturaleza</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio a los Idólatras y la Nueva Creación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Idolatría y la Promesa</h5>
+<ul>
+    <li><strong>La Reprensión:</strong> Dios reprende a los que **sacrifican en los huertos** (culto pagano) y **comen carne de cerdo** (comida inmunda).</li>
+    <li><strong>El Tabú:</strong> La gente que dice: **"Quédate en tu lugar, no te acerques a mí, porque yo soy más santo que tú"** (hipocresía religiosa).</li>
+    <li><strong>La Nueva Creación:</strong> Dios creará **"nuevos cielos y nueva tierra"**.</li>
+    <li><strong>Longevidad:</strong> El juicio se revertirá: **"el niño morirá de cien años"** (la restauración de la longevidad).</li>
+    <li><strong>Paz Edénica:</strong> El **lobo y el cordero** comerán juntos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Comida Impura</h5>
+<ul>
+    <li><strong>Alimentos Prohibidos:</strong> El comer cerdo y caldo de cosas inmundas es la **prueba de la apostasía**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Eficacia:</strong> Antes de que clamen, **Yo responderé** (la efectividad de la oración).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gloria de Dios** se revelará en la **restauración cósmica**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es para purificar</span>. La fe se aferra a la promesa de la restauración total y la vida eterna.</p>
                 
@@ -29437,7 +39471,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Adoración Universal:</strong> Todas las naciones se reunirán para adorar</li>
                     <li><strong>Fuego Eterno:</strong> El juicio final sobre los rebeldes</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión Final y el Juicio Universal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Templo Espiritual y la Universalidad</h5>
+<ul>
+    <li><strong>El Templo (v. 1):</strong> Dios declara que el **cielo es Su trono** y la **Tierra, el estrado de Sus pies**. No hay casa que el hombre pueda construirle.</li>
+    <li><strong>La Ofrenda Inútil:</strong> Dios rechaza el sacrificio de buey que es como **"matar a un hombre"** (la crítica al ritual sin moralidad).</li>
+    <li><strong>El Nacimiento Súbito:</strong> Sión dará a luz sus hijos **"antes que le vinieran dolores"** (la restauración milagrosa).</li>
+    <li><strong>Universalidad:</strong> Dios enviará a **mensajeros** a las naciones lejanas para que anuncien Su gloria.</li>
+    <li><strong>El Juicio:</strong> Los impíos serán **consumidos por el fuego** y serán **"abominación a toda carne"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Los Sacerdotes de las Naciones</h5>
+<ul>
+    <li><strong>Sacerdocio Universal:</strong> Dios tomará **sacerdotes y levitas** de las naciones.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Permanencia:</strong> Los **cielos nuevos y la tierra nueva** permanecerán ante Dios, y así lo hará el linaje de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro cierra con la **consumación de la historia** en la adoración universal y el juicio final.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">verdadero Templo es el corazón humilde</span>. El libro concluye con la esperanza de la adoración eterna y el temor a la santidad de Dios.</p>
                 
@@ -29465,7 +39522,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio del Norte:</strong> Babilonia es el instrumento del castigo divino</li>
                     <li><strong>Doble Misión:</strong> Destrucción (juicio) y Edificación (restauración)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Llamamiento del Profeta (627 a.C.)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Vocación y la Inmadurez</h5>
+<ul>
+    <li><strong>Tiempo:</strong> En el año 13 del reinado de **Josías** (627 a.C.), en el apogeo de su reforma religiosa.</li>
+    <li><strong>Origen:</strong> Jeremías es de **Anatot**, un pueblo sacerdotal (levita) cerca de Jerusalén.</li>
+    <li><strong>La Queja:</strong> Jeremías protesta que es solo un **niño** (joven, inexperto).</li>
+    <li><strong>Visiones:</strong> El profeta ve la **Vara de Almendro** (Shoqed), que significa que Dios "vela" (Shoqed) sobre Su palabra.</li>
+    <li><strong>El Vaso Hirviente:</strong> Ve una **olla hirviente** que se inclina desde el Norte (el juicio vendrá desde Babilonia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Norte Inminente</h5>
+<ul>
+    <li><strong>El Origen del Juicio:</strong> El profeta anuncia que los **"reinos del norte"** (primero Escitas, luego Babilonia) vendrán contra Judá.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Autoridad:</strong> Dios le da autoridad para **"arrancar y destruir, arruinar y derribar, edificar y plantar"** (autoridad sobre las naciones).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El profeta tiene la **palabra de Dios** en su boca, un símbolo de autoridad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El ministerio de Jeremías es la <span class="highlight">Palabra de Dios en acción</span>. La profecía es una fuerza que transforma la historia.</p>
                 
@@ -29491,7 +39571,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cisternas Rotas:</strong> La futilidad de la idolatría</li>
                     <li><strong>Apostasía:</strong> El abandono del Dios verdadero</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pacto Roto y el Olvido</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prostitución Espiritual</h5>
+<ul>
+    <li><strong>El Primer Amor:</strong> Dios recuerda la **fidelidad inicial** de Israel en el desierto (la luna de miel).</li>
+    <li><strong>Fuentes de Agua:</strong> Israel cometió dos males: **abandonaron a Dios**, la **Fuente de agua viva**.</li>
+    <li><strong>Cisternas Rotas:</strong> Hicieron **cisternas rotas** que no retienen el agua (la inutilidad de la idolatría).</li>
+    <li><strong>Alianzas:</strong> Judá busca alianzas con **Egipto** (el Nilo) y **Asiria** (el Éufrates).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Paja</h5>
+<ul>
+    <li><strong>Culto Pagano:</strong> El pueblo adoraba a los dioses en **"todo collado alto"** y **"debajo de todo árbol frondoso"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Castigo:</strong> La maldad de Israel es como una **mancha** que no se quita ni con mucho jabón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **infidelidad** es un acto de locura al renunciar a la vida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">infidelidad espiritual</span> es la búsqueda de sustitutos inútiles (cisternas rotas) para la fuente de la vida.</p>
                 
@@ -29517,7 +39619,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Llamamiento:</strong> La súplica de Dios para que el pueblo regrese</li>
                     <li><strong>Promesa de Perdón:</strong> La restauración del pueblo arrepentido</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Invitación al Arrepentimiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Regreso y la Reconciliación</h5>
+<ul>
+    <li><strong>El Divorcio:</strong> Israel se prostituyó tanto que ni siquiera la Ley de **divorcio** aplica (el marido no puede volver con la mujer después del segundo matrimonio).</li>
+    <li><strong>La Hija Apóstata:</strong> Dios llama a Israel a **regresar** a Él (el tema central de Jeremías).</li>
+    <li><strong>Judá y Samaria:</strong> Dios compara la apostasía de **Judá** (la infiel) con la de **Israel/Samaria** (la que ya fue juzgada).</li>
+    <li><strong>El Liderazgo:</strong> Dios promete **pastores** (líderes) que guiarán al pueblo con conocimiento y sabiduría.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Divorcio</h5>
+<ul>
+    <li><strong>Ley de Moisés:</strong> La Ley prohíbe el regreso de una mujer divorciada después de haberse casado con otro (Deut. 24:1-4).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Roca:</strong> El pueblo debe invocar a Dios: **"Tú eres mi padre, la guía de mi juventud"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **arrepentimiento sincero** es la única puerta al perdón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">misericordia de Dios es inmensa</span>, a pesar de la constante infidelidad de Su pueblo. El arrepentimiento es la única vía para la restauración.</p>
                 
@@ -29543,7 +39667,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Invasión:</strong> La descripción vívida del juicio babilónico</li>
                     <li><strong>Circuncisión del Corazón:</strong> La exigencia de una reforma interna</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio desde el Norte y la Desolación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Circuncisión del Corazón</h5>
+<ul>
+    <li><strong>El Llamado Final:</strong> El pueblo debe **circuncidar su corazón** para evitar la ira de Dios.</li>
+    <li><strong>La Imagen del Juicio:</strong> El profeta ve una **visión aterradora** de la invasión.</li>
+    <li><strong>El Desierto:</strong> El país quedará **desolado** y **sin habitantes**.</li>
+    <li><strong>El Desorden Cósmico:</strong> La visión de la desolación es tan grande que el profeta ve la tierra **"informe y vacía" (tohu va bohu)**, un regreso al caos pre-creación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Guerra de Asedio</h5>
+<ul>
+    <li><strong>El León:</strong> El invasor es comparado con un **león** que sube de su guarida para destruir.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Belleza y Destrucción:</strong> Jerusalén era como una mujer hermosa, pero el invasor le quitará los **pendientes de oro**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **circuncisión física** es inútil sin el cambio interior.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es doloroso incluso para el profeta</span>. La fe debe buscar la circuncisión del corazón (arrepentimiento interno), no solo el rito externo.</p>
                 
@@ -29569,7 +39715,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falsos Profetas:</strong> La profecía de mentira y la falta de verdad</li>
                     <li><strong>Injusticia Social:</strong> La opresión del pobre y la codicia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Liderazgo Corrupto y la Ceguera</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Búsqueda de un Justo</h5>
+<ul>
+    <li><strong>La Búsqueda:</strong> Dios le pide a Jeremías que busque en Jerusalén a **un solo hombre** que actúe con justicia para perdonar a la ciudad.</li>
+    <li><strong>El Juramento Falso:</strong> El pueblo **jura falsamente** por YHWH (hipocresía religiosa).</li>
+    <li><strong>Los Falsos Profetas:</strong> Los profetas profetizan **mentira** y los sacerdotes **gobiernan por su cuenta**.</li>
+    <li><strong>La Injusticia:</strong> Los malvados se hicieron **ricos** y **no hicieron justicia** al huérfano y al pobre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Engaños</h5>
+<ul>
+    <li><strong>El Engaño:</strong> Los malvados se esconden como los **cazadores** y ponen **trampas** para atrapar a los hombres.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Muro:</strong> El profeta es como un **muro** y una **fortaleza** para Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia ética** es el criterio de Dios para la supervivencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">justo es el ancla de la nación</span>. La corrupción universal es la causa del juicio. El amor al dinero ciega al pueblo.</p>
                 
@@ -29595,7 +39763,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Camino Antiguo:</strong> La instrucción de volverse a la Ley de Dios</li>
                     <li><strong>Codicia Sacerdotal:</strong> El pecado en el liderazgo religioso</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Advertencia Final a Jerusalén (Sión)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Fuego de Prueba y la Olla</h5>
+<ul>
+    <li><strong>La Advertencia:</strong> Se ordena a las tribus de Benjamín y a Jerusalén que huyan.</li>
+    <li><strong>El Juicio Inminente:</strong> Los babilonios son comparados con los **pastores** que plantan sus tiendas alrededor de la ciudad (el asedio).</li>
+    <li><strong>El Sacrificio Inútil:</strong> Dios no acepta el **holocausto** ni los **sacrificios** del pueblo, porque su corazón es impuro.</li>
+    <li><strong>El Fuego de Prueba:</strong> El profeta es un **probador** de metal. El pueblo es como el **plomo** que no puede ser separado de la plata.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Alarma</h5>
+<ul>
+    <li><strong>Trompeta:</strong> El sonido de la **trompeta** se usa como una alarma de guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Descanso:</strong> El pueblo rechaza el **"camino antiguo"** (la Ley) donde encontraría **"descanso para vuestras almas"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **prueba de la fe** revela la falsedad del metal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">rechazo a la Palabra de Dios</span> es el pecado más grave, pues cierra la vía al arrepentimiento. El juicio es el resultado de la terquedad.</p>
                 
@@ -29621,7 +39811,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cueva de Ladrones:</strong> El Templo profanado por la injusticia</li>
                     <li><strong>Juicio Inevitable:</strong> La destrucción del Templo de Jerusalén</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sermón del Templo (Primer arresto)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Religión Vacía y el Destino de Silo</h5>
+<ul>
+    <li><strong>El Templo:</strong> Jeremías debe predicar en la **puerta del Templo**.</li>
+    <li><strong>Falsa Seguridad:</strong> El pueblo confía en las palabras: **"Templo de YHWH, Templo de YHWH, Templo de YHWH"** (la fe superficial).</li>
+    <li><strong>El Juicio:</strong> Dios les pregunta: ¿Robarán, asesinarán, jurarán falsamente y vendrán a **estar delante de Mí** en esta casa?</li>
+    <li><strong>Silo:</strong> El Templo de Jerusalén tendrá el destino de **Silo** (el tabernáculo anterior destruido por los filisteos).</li>
+    <li><strong>El Fuego:</strong> El pueblo adora a la **"Reina del Cielo"** y hace tortas para ella (culto pagano).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Reina del Cielo</h5>
+<ul>
+    <li><strong>Reina:</strong> La **Reina del Cielo** era la diosa Ishtar/Astarté, deidad mesopotámica.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Sacrificio:</strong> Dios no ordenó sacrificios sino **obediencia** cuando sacó a Israel de Egipto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia ética** es superior al ritual religioso.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera adoración requiere justicia ética</span>. El ritualismo sin obediencia es un engaño que atrae el juicio.</p>
                 
@@ -29647,7 +39860,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esperanza Perdida:</strong> El juicio llega antes del arrepentimiento</li>
                     <li><strong>Sabiduría Vacía:</strong> Los sabios rechazan la Palabra de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Muerte sin Dignidad y el Bálsamo de Galaad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Negación de la Verdad</h5>
+<ul>
+    <li><strong>El Desentierro:</strong> Los huesos de los **reyes y príncipes** serán desenterrados y dejados al sol (la negación de una tumba digna).</li>
+    <li><strong>La Serpiente:</strong> El enemigo es como una **serpiente** que morderá a los que no pueden ser encantados.</li>
+    <li><strong>La Mentira:</strong> Los escribas han usado el **"cálamo de mentira"** para manipular la Ley.</li>
+    <li><strong>Bálsamo de Galaad:</strong> El lamento: **"¿No hay bálsamo en Galaad? ¿No hay allí médico?"** (la enfermedad espiritual).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Cosecha</h5>
+<ul>
+    <li><strong>Cosecha:</strong> El pueblo lamenta: **"Pasó la siega, terminó el verano, y nosotros no hemos sido salvos"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Castigo:</strong> La desolación será tan grande que el profeta desea que su cabeza sea una **fuente de lágrimas**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **bálsamo de la fe** es el único remedio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obsesión por el pecado</span> impide el arrepentimiento. La sabiduría humana es vana ante la Palabra de Dios.</p>
                 
@@ -29673,7 +39908,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vanagloria:</strong> No gloriarse en la fuerza o la riqueza</li>
                     <li><strong>Conocimiento de Dios:</strong> La única base de la gloria</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Lamento por la Muerte y la Jactancia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Muerte y la Jactancia Falsa</h5>
+<ul>
+    <li><strong>El Desierto:</strong> Jeremías desea tener una **cabaña de viajeros** en el desierto, lejos de Su pueblo.</li>
+    <li><strong>La Desconfianza:</strong> El pueblo se convirtió en una **cueva de ladrones**; **"nadie cree en su hermano"**.</li>
+    <li><strong>La Jactancia:</strong> El pueblo no debe **jactarse de su sabiduría, su poder o su riqueza**.</li>
+    <li><strong>La Verdadera Jactancia:</strong> La única jactancia es **conocer a Dios** y **entender Su justicia**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Lengua de Serpiente</h5>
+<ul>
+    <li><strong>El Arco:</strong> La **lengua del pueblo** es un **arco mentiroso** que lanza flechas de engaño.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Circuncisión:</strong> El juicio vendrá sobre los **incircuncisos en el corazón**, sean israelitas o paganos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero conocimiento de Dios** se manifiesta en la práctica de la justicia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">identidad del creyente es el conocimiento de Dios</span>. El verdadero valor se encuentra solo en la relación con YHWH.</p>
                 
@@ -29699,7 +39956,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dios Vivo:</strong> El único Dios verdadero y eterno</li>
                     <li><strong>Súplica:</strong> Pedir la corrección sin el castigo de la ira</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Idolatría y el Culto Pagano</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sátira del Monoteísmo</h5>
+<ul>
+    <li><strong>El Monoteísmo:</strong> Se prohíbe **aprender el camino de las naciones** (culto pagano).</li>
+    <li><strong>El Árbol de Navidad:</strong> Se satiriza la costumbre de **cortar un árbol del bosque**, adornarlo con oro y plata y **clavarlo** para que no se mueva.</li>
+    <li><strong>El Ídolo:</strong> El ídolo es **mudo**, **no puede hablar** y debe ser **cargado** por los hombres.</li>
+    <li><strong>YHWH:</strong> El Señor es el **Hacedor de todo** y el **Rey eterno**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Artesanal: El Hacha</h5>
+<ul>
+    <li><strong>Artesanía:</strong> El ídolo es hecho por la **mano del artesano con hacha**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Fuego:</strong> El juicio vendrá desde el norte como un **fuego** que convertirá la tierra en desierto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **creación y la Palabra** son la prueba del poder de Dios, no las imágenes mudas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">monoteísmo es la base de la fe</span>. El creyente debe ver la creación como un testimonio de Dios, no de los ídolos.</p>
                 
