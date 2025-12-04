@@ -40004,7 +40004,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Traición:</strong> Los hombres de Anatot buscan la vida de Jeremías</li>
                     <li><strong>Oración Imprecatoria:</strong> Jeremías pide el juicio sobre sus enemigos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pacto Roto de Josías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Conspiración y la Desobediencia</h5>
+<ul>
+    <li><strong>El Pacto:</strong> Dios le recuerda a Israel el **pacto** hecho al salir de Egipto (la Ley).</li>
+    <li><strong>El Fruto:</strong> Israel es un **olivo hermoso** que Dios destruirá con **fuego**.</li>
+    <li><strong>La Conspiración:</strong> Los hombres de **Anatot** (su propio pueblo) conspiran para **matar a Jeremías**.</li>
+    <li><strong>El Deseo:</strong> El profeta pide que Dios los **juzgue** (la primera gran súplica).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Conspiración</h5>
+<ul>
+    <li><strong>Traición:</strong> Los parientes de Jeremías de Anatot lo amenazan para que **no profetice**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Voz:</strong> El pueblo no **escuchó ni inclinó el oído** al pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **pacto de Dios** es la prueba de la infidelidad humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">rechazo del profeta es el rechazo del Pacto</span>. La traición del propio pueblo es el precio de la fidelidad.</p>
                 
@@ -40030,7 +40052,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prueba Creciente:</strong> Las dificultades serán mayores en el futuro</li>
                     <li><strong>Restauración:</strong> Dios restaurará a Israel después del juicio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Queja del Profeta y el Juicio de los Vecinos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pregunta sobre la Justicia Divina</h5>
+<ul>
+    <li><strong>La Queja:</strong> Jeremías se queja de por qué los **malvados prosperan** (el problema de la teodicea).</li>
+    <li><strong>La Prueba:</strong> Dios le pide que se prepare para correr con los **caballos** (la prueba futura será aún más difícil).</li>
+    <li><strong>La Herencia:</strong> La propia **herencia de Dios** se volvió contra Él.</li>
+    <li><strong>Los Vecinos:</strong> Juicio contra las **malas naciones vecinas** que sedujeron a Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Geográfico: El Jordán</h5>
+<ul>
+    <li><strong>Bosque:</strong> El profeta se compara con un hombre que no puede correr con los **hombres a pie** y no puede con las **matorrales del Jordán**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Arrepentimiento:</strong> Dios promete que si las naciones vecinas aprenden a **jurar por Su nombre**, serán **edificadas** en medio de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **propósito de la prueba** es purificar la fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe se mantiene en la certeza del juicio final</span>. Las pruebas actuales son solo el entrenamiento para las futuras.</p>
                 
@@ -40056,7 +40100,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vino:</strong> Símbolo del juicio de Dios sobre el pueblo</li>
                     <li><strong>Exilio:</strong> El castigo que vendrá sobre Judá y sus líderes</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Cinto de Lino y el Vino de la Ira</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Acto Simbólico del Cinto</h5>
+<ul>
+    <li><strong>El Cinto de Lino:</strong> Jeremías debe comprar un **cinto de lino** y **esconderlo** junto al Éufrates (simbolismo del exilio a Babilonia).</li>
+    <li><strong>La Corrupción:</strong> El cinto, al pudrirse, simboliza la **corrupción** y la **inutilidad** de Judá.</li>
+    <li><strong>El Vino:</strong> Profecía de que **toda jarra se llenará de vino** (el vino de la ira).</li>
+    <li><strong>La Advertencia:</strong> Se exhorta a los reyes y a la reina madre (Nehusta) a **humillarse** para evitar la cautividad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Fiesta</h5>
+<ul>
+    <li><strong>Vino:</strong> Llenar de vino simboliza la **destrucción** en una borrachera de juicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Pureza:</strong> El lino debía permanecer **puro** para el servicio. La corrupción es el castigo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **profecía visible** demuestra la certeza del juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">orgullo es el pecado que pudre la relación</span>. El juicio es el único medio para humillar la soberbia de la nación.</p>
                 
@@ -40082,7 +40148,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cese de la Intercesión:</strong> Dios prohíbe a Jeremías orar por ellos</li>
                     <li><strong>Juicio Triple:</strong> El castigo por la espada, el hambre y la pestilencia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Gran Sequía y el Ruego</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sequía y la Intercesión Negada</h5>
+<ul>
+    <li><strong>La Sequía:</strong> La **gran sequía** azota a Judá. Los **labradores** están avergonzados.</li>
+    <li><strong>Los Ciervos:</strong> Las **ciervas** paren y abandonan a sus crías por falta de pasto.</li>
+    <li><strong>Intercesión:</strong> Dios prohíbe a Jeremías **orar** por este pueblo.</li>
+    <li><strong>El Profeta Falso:</strong> Los falsos profetas proclaman **"Paz y verdad"** (seguridad falsa).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: El Polvo</h5>
+<ul>
+    <li><strong>Tierra:</strong> Los labradores están avergonzados porque la **tierra se raja** (el desastre climático).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Pueblo:</strong> El pueblo se convirtió en un **forastero** en la tierra, y Dios en un **guerrero asustado**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **negación de la intercesión** es la señal del juicio final.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio puede ser irreversible</span>. La fe debe aceptar la decisión de Dios de castigar el pecado persistente.</p>
                 
@@ -40108,7 +40196,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lucha Profética:</strong> El dolor de ser un hombre de contienda</li>
                     <li><strong>Palabra de Dios:</strong> Es gozo, pero también causa de soledad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Espada, el Hambre y el Llamado Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Los Cuatro Juicios y la Soledad</h5>
+<ul>
+    <li><strong>Intercesores:</strong> Dios declara que ni siquiera **Moisés y Samuel** (los grandes intercesores) podrían cambiar Su mente.</li>
+    <li><strong>Los Cuatro Juicios:</strong> Se envían **cuatro tipos de juicio**: la **espada**, el **hambre**, el **cautiverio** y la **muerte**.</li>
+    <li><strong>El Cántico:</strong> Jeremías lamenta su nacimiento y su **soledad**.</li>
+    <li><strong>El Fuego:</strong> La palabra de Dios es un **fuego** dentro de él.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Luto</h5>
+<ul>
+    <li><strong>Luto:</strong> Las **viudas** en Judá serán más numerosas que la arena del mar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Propósito:</strong> Dios promete hacer de Jeremías un **muro fuerte de bronce** contra el pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero consuelo** se encuentra en la Palabra, no en las relaciones humanas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento del profeta es un signo de su fidelidad</span>. La Palabra de Dios es la fuente de la vida, aunque traiga rechazo.</p>
                 
@@ -40134,7 +40244,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exilio:</strong> El castigo por el pecado</li>
                     <li><strong>Nuevo Éxodo:</strong> La promesa de la restauración final</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Jeremías como Señal (Prohibición de la Vida Normal)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prohibición Simbólica</h5>
+<ul>
+    <li><strong>Matrimonio:</strong> A Jeremías se le prohíbe **casarse o tener hijos** (señal de que no quedarán niños en la tierra).</li>
+    <li><strong>Luto:</strong> Se le prohíbe **entrar en la casa de luto** o **participar en banquetes** (no habrá tiempo para el luto o la alegría).</li>
+    <li><strong>Entierro:</strong> Los muertos serán como **estiércol** sobre la faz de la tierra.</li>
+    <li><strong>El Nuevo Éxodo:</strong> Dios promete un **Nuevo Éxodo** (retorno del exilio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Pescadores</h5>
+<ul>
+    <li><strong>Caza:</strong> Dios enviará a **muchos pescadores** y **cazadores** (los invasores) para atrapar al pueblo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Nombre:</strong> El juramento ya no será: **"Vive YHWH, que sacó a Israel de Egipto"**, sino de la tierra del norte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vida del profeta** es una advertencia visible de la destrucción inminente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento de Jeremías es el sufrimiento del pueblo</span>. La fe se basa en la promesa de la restauración, que será aún más gloriosa que el Éxodo original.</p>
                 
@@ -40160,7 +40292,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Individual:</strong> Dios conoce el corazón de cada uno</li>
                     <li><strong>Sábado:</strong> La observancia del día santo como señal de obediencia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Corazón Engañoso y el Sábado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Pecado Grabado y el Corazón</h5>
+<ul>
+    <li><strong>El Estilo:</strong> El pecado está grabado con **punta de diamante** sobre el **altar** y el **cuerno** de los altares paganos.</li>
+    <li><strong>El Corazón:</strong> **"Engañoso es el corazón más que todas las cosas, y perverso; ¿quién lo conocerá?"** (17:9).</li>
+    <li><strong>La Prueba:</strong> Dios es el que **prueba el corazón** y las entrañas (los pensamientos más íntimos).</li>
+    <li><strong>El Sábado:</strong> El futuro de Jerusalén depende de si **guardan el Sábado** (no llevando cargas).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Sábado</h5>
+<ul>
+    <li><strong>Carga:</strong> La prohibición de llevar **cargas** por las puertas de Jerusalén el Sábado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Zarza:</strong> El que confía en el hombre es como una **zarza** en el desierto. El que confía en Dios es como un **árbol plantado** junto a las aguas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **guarda del Sábado** es la prueba de la confianza en Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">pecado es una enfermedad del corazón</span>. La santidad del Sábado es la prueba de la fidelidad del pueblo.</p>
                 
@@ -40186,7 +40340,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Libre Albedrío:</strong> La respuesta de Israel determina el destino</li>
                     <li><strong>Advertencia:</strong> El vaso será roto si no hay arrepentimiento</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Casa del Alfarero</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Alfarero y el Barro</h5>
+<ul>
+    <li><strong>El Viaje:</strong> Dios le ordena a Jeremías que baje a la **casa del alfarero**.</li>
+    <li><strong>El Significado:</strong> Si el **vaso se estropea** en la mano del alfarero, él puede **volver a hacerlo** de la forma que mejor le parezca.</li>
+    <li><strong>La Soberanía:</strong> Dios tiene el **mismo derecho** de destruir o edificar a una nación según Su voluntad (la soberanía).</li>
+    <li><strong>La Conspiración:</strong> El pueblo conspira para **destruir a Jeremías** (la quinta súplica del profeta).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Artesanal: La Rueda</h5>
+<ul>
+    <li><strong>Rueda:</strong> El alfarero trabaja con el **barro** sobre la **rueda**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Destino:</strong> El destino de una nación no es fijo; puede ser **cambiado por el arrepentimiento**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **plasticidad del barro** simboliza la necesidad de someterse al Creador.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios se encuentra con la responsabilidad humana</span>. La fe debe buscar el arrepentimiento para que Dios restaure la nación.</p>
                 
@@ -40212,7 +40388,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sacrificio de Niños:</strong> El pecado más atroz de Judá</li>
                     <li><strong>Valle de la Matanza:</strong> El juicio será en el lugar del pecado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Cántaro de Barro Roto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Acto Simbólico del Cántaro</h5>
+<ul>
+    <li><strong>El Recipiente:</strong> Jeremías compra un **cántaro de barro** y se lo lleva a la **Puerta de Tiesto** (donde se tiraban los desechos de la alfarería).</li>
+    <li><strong>La Ruptura:</strong> Jeremías debe **romper el cántaro** ante los líderes del pueblo.</li>
+    <li><strong>El Simbolismo:</strong> La ciudad será **destruida irremisiblemente**, como un cántaro roto.</li>
+    <li><strong>El Castigo:</strong> La gente morirá y será **enterrada en Tofet** (lugar de sacrificio de niños) por falta de otro lugar.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Tofet</h5>
+<ul>
+    <li><strong>Tofet:</strong> Un lugar en el **Valle de Hinom** asociado con el sacrificio de niños a Moloc.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> El juicio de Dios es **irreversible** en este punto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **destrucción del vaso** es el juicio sobre la desobediencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">idolatría y el derramamiento de sangre inocente</span> sellan el juicio. La ruptura es tan final que no hay reparación.</p>
                 
@@ -40238,7 +40436,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Clamor:</strong> El dolor por el llamado (se siente engañado)</li>
                     <li><strong>Fuego en los Huesos:</strong> La imposibilidad de callar la Palabra de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Arresto, Azotes y Maldición</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Arresto de Pasur y el Fuego Interno</h5>
+<ul>
+    <li><strong>El Arresto:</strong> **Pasur** (el sacerdote que era jefe de la guardia del Templo) golpea a Jeremías y lo pone en el **cepo** (prisión).</li>
+    <li><strong>El Nombre:</strong> Jeremías le cambia el nombre a Pasur a **"Magor-misabib"** ("Terror por todas partes").</li>
+    <li><strong>El Lamento:</strong> El profeta maldice el **día en que nació** (el lamento más dramático de Jeremías).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Cepo</h5>
+<ul>
+    <li><strong>Cepo:</strong> Un instrumento de tortura pública y humillación para inmovilizar a un prisionero.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Humillación:</strong> La **fuerza de Dios** se manifiesta en la debilidad y el sufrimiento del profeta.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sufrimiento** es el costo de ser un profeta verdadero.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento del profeta es vicario</span>. El fuego en los huesos es el poder incontrolable de la Palabra de Dios que debe ser predicado.</p>
                 
@@ -40264,7 +40483,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Rendición:</strong> La única vía para la supervivencia</li>
                     <li><strong>Misericordia:</strong> La vida es el premio por la obediencia al profeta</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo al Rey Sedequías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Última Oportunidad</h5>
+<ul>
+    <li><strong>La Petición:</strong> **Sedequías** (último rey de Judá) envía a un sacerdote a preguntar si Dios salvará a la ciudad del **rey de Babilonia**.</li>
+    <li><strong>La Profecía:</strong> Dios promete que **peleará contra la ciudad** (los babilonios son el instrumento de Dios).</li>
+    <li><strong>El Destino:</strong> La única opción de supervivencia es **salir y rendirse** a los caldeos.</li>
+    <li><strong>La Casa de David:</strong> Advertencia a la **Casa de David** (los reyes) de que deben practicar la justicia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Fuego</h5>
+<ul>
+    <li><strong>El Asedio:</strong> Dios promete entregar a la ciudad al **fuego** de los babilonios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Elección:</strong> El pueblo debe elegir entre el **camino de la vida** y el **camino de la muerte**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **rendición** es el camino a la vida.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es severo</span>, pero ofrece misericordia al que obedece. La rendición es el acto de fe.</p>
                 
@@ -40290,7 +40531,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Maldición Dinástica:</strong> El fin del linaje de Joaquín</li>
                     <li><strong>El Renuevo:</strong> La promesa de un rey justo (Salmo 23)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Juicios contra los Reyes (Joacim, Joacaz, Joaquín)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Trono y la Justicia</h5>
+<ul>
+    <li><strong>La Cabaña:</strong> El palacio real será convertido en una **cabaña** (destrucción).</li>
+    <li><strong>Joacaz (Salum):</strong> No regresará del cautiverio.</li>
+    <li><strong>Joacim:</strong> Se critica al rey por construir su palacio con **injusticia** y **sin pagar a sus obreros** (violación de la Ley).</li>
+    <li><strong>Joaquín (Conías):</strong> Este rey es llamado un **anillo sellado** en la mano de Dios, pero será **quitado** y arrojado al exilio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Cielos de Madera</h5>
+<ul>
+    <li><strong>Arquitectura:</strong> El rey es juzgado por sus **cielos de madera de cedro** y su **palacio revestido**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Justicia:</strong> La verdadera realeza imita a **Josías**, quien practicó la **justicia y el derecho**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **corrupción** en el trono es la causa de la caída.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia social</span> es el fundamento del Pacto. La maldición sobre el linaje real es crucial para la profecía mesiánica (Jesús vendrá por la línea de Natán).</p>
                 
@@ -40316,7 +40579,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falsos Profetas:</strong> La condena a los que adulteran la Palabra</li>
                     <li><strong>Fuego y Martillo:</strong> El poder destructor de la Palabra de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Vástago Justo (El Mesías) y los Falsos Profetas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profecía Mesiánica y la Paja</h5>
+<ul>
+    <li><strong>El Pastor:</strong> Juicio contra los **malos pastores** (líderes) que dispersaron el rebaño.</li>
+    <li><strong>El Vástago Justo:</strong> Profecía del Mesías, el **"Vástago Justo"**, que reinará en el **trono de David**.</li>
+    <li><strong>El Nombre:</strong> El Mesías será llamado **"YHWH, Justicia Nuestra" (YHWH Tzidkenu)**.</li>
+    <li><strong>Los Falsos Profetas:</strong> Se critica a los profetas que anuncian **sueños falsos** y **paja** en lugar de grano.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Paja</h5>
+<ul>
+    <li><strong>Predicación:</strong> La **paja** (sueños y mentiras) no tiene valor frente al **trigo** (la Palabra de Dios).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Éxodo:</strong> La **redención mesiánica** superará la liberación de Egipto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es como **fuego y martillo** que quebrantan la roca.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías es la fuente de la justicia</span>. La Palabra de Dios es poderosa y no puede ser manipulada.</p>
                 
@@ -40342,7 +40627,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Higos Malos:</strong> El juicio para los que quedan en Judá</li>
                     <li><strong>Corazón Dado:</strong> Dios dará un corazón para conocerle a los exiliados</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión de los Higos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Buen y el Mal Higos</h5>
+<ul>
+    <li><strong>El Tiempo:</strong> Después de que el rey **Joaquín** fue llevado cautivo a Babilonia (597 a.C.).</li>
+    <li><strong>La Visión:</strong> Jeremías ve **dos cestas de higos** delante del Templo.</li>
+    <li><strong>Los Higos Buenos:</strong> Los **cautivos de Babilonia** (Joaquín y la nobleza) son los **higos buenos**. Dios los traerá de vuelta.</li>
+    <li><strong>Los Higos Malos:</strong> El rey **Sedequías** y los que quedaron en Jerusalén son los **higos malos** (irremediables).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: Los Higos</h5>
+<ul>
+    <li><strong>Fruta:</strong> Los higos eran un alimento básico. Los higos buenos eran los que se comían primero.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Misericordia:</strong> El **exilio en Babilonia** es un acto de gracia (protección del remanente).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **disciplina de Dios** prepara el corazón de los que regresarán.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">exilio es un acto de preservación</span>, no solo de castigo. La fe se basa en la promesa de un nuevo corazón.</p>
                 
@@ -40368,7 +40675,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nabucodonosor:</strong> El instrumento de Dios (Su "siervo")</li>
                     <li><strong>Copa de la Ira:</strong> El juicio de Dios sobre todas las naciones</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Setenta Años de Exilio y la Copa de la Ira</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Límite de la Gracia y el Vaso</h5>
+<ul>
+    <li><strong>El Tiempo:</strong> El cuarto año de Joacim (605 a.C.), el primer año de **Nabucodonosor**.</li>
+    <li><strong>Los 70 Años:</strong> Dios decreta que el exilio durará **setenta años**.</li>
+    <li><strong>La Copa de la Ira:</strong> Dios le da a Jeremías un **vaso de vino de la ira** para que lo beba **todas las naciones** (incluido Babilonia al final).</li>
+    <li><strong>Babilonia:</strong> Babilonia será el **instrumento**, pero también beberá la copa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Espada</h5>
+<ul>
+    <li><strong>Espada:</strong> La copa de la ira es el **juicio de la espada** que recorrerá la tierra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Clímax:</strong> El juicio termina con **Babilonia** (Sesac), que también caerá.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **soberanía de Dios** se extiende sobre todas las naciones y la historia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es limitado y preciso</span>. El exilio es un castigo temporal, pero la destrucción de Babilonia es final.</p>
                 
@@ -40394,7 +40723,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad:</strong> Jeremías no altera el mensaje</li>
                     <li><strong>Ejemplo de Miqueas:</strong> El precedente del profeta que fue perdonado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio de Jeremías y la Liberación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sermón del Templo y el Precedente</h5>
+<ul>
+    <li><strong>El Sermón:</strong> Jeremías repite el **Sermón del Templo** (capítulo 7).</li>
+    <li><strong>El Arresto:</strong> Los **sacerdotes y falsos profetas** arrestan a Jeremías y piden su **pena de muerte**.</li>
+    <li><strong>La Defensa:</strong> El pueblo y los **ancianos** defienden a Jeremías, citando a **Miqueas** (el precedente profético).</li>
+    <li><strong>Urias:</strong> El profeta **Urias** fue asesinado por **Joacim** por predicar el mismo mensaje.</li>
+    <li><strong>La Liberación:</strong> **Ahicam** (un oficial) ayuda a que Jeremías sea liberado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Ejecución</h5>
+<ul>
+    <li><strong>Ejecución:</strong> El castigo por la falsa profecía era la **muerte**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Intervención:</strong> La **muerte de Urías** y la **liberación de Jeremías** contrastan la maldad de Joacim.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **protección de Dios** a través de la gente justa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">profeta debe predicar la Palabra sin temor</span>, incluso ante la amenaza de muerte. La protección de Dios es la única garantía de vida.</p>
                 
@@ -40420,7 +40772,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberanía:</strong> Dios es quien entrega y quita los reinos</li>
                     <li><strong>Falsos Profetas:</strong> La condena a los que dan falsas esperanzas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Yugo de Madera y la Soberanía de Nabucodonosor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Acto Simbólico del Yugo</h5>
+<ul>
+    <li><strong>El Yugo:</strong> Jeremías debe ponerse un **yugo de madera** sobre el cuello y enviarlo a los reyes vecinos.</li>
+    <li><strong>El Mensaje:</strong> El mensaje es que **Nabucodonosor** (el rey de Babilonia) es el **siervo de YHWH** para Judá y las naciones.</li>
+    <li><strong>La Advertencia:</strong> Se advierte a los sacerdotes y al pueblo que no escuchen a los **falsos profetas** que dicen que el yugo se romperá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: El Yugo</h5>
+<ul>
+    <li><strong>Yugo:</strong> Un yugo de madera en el cuello simboliza la **servidumbre** y la sumisión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Obediencia:</strong> La **sumisión** al yugo babilónico es el acto de obediencia a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **voluntad de Dios** se cumple a través del imperio pagano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es el yugo</span>. La fe se demuestra al someterse a la voluntad de Dios, incluso en la opresión.</p>
                 
@@ -40446,7 +40819,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Yugo de Hierro:</strong> La severidad del juicio de Dios</li>
                     <li><strong>Prueba del Profeta:</strong> La muerte de Hananías valida la palabra de Jeremías</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Falso Profeta Hananías y el Yugo de Hierro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Falsa Esperanza y el Desafío</h5>
+<ul>
+    <li><strong>Hananias:</strong> El profeta **Hananías** confronta a Jeremías en el Templo y rompe el **yugo de madera** de su cuello.</li>
+    <li><strong>El Mensaje Falso:</strong> Hananías profetiza que el yugo de Babilonia se **romperá en dos años**.</li>
+    <li><strong>El Yugo de Hierro:</strong> Jeremías regresa con un **yugo de hierro** (el juicio será más duro).</li>
+    <li><strong>El Castigo:</strong> Dios profetiza que **Hananías morirá** en ese año.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Muerte del Falso Profeta</h5>
+<ul>
+    <li><strong>Prueba:</strong> La **muerte del falso profeta** en el mismo año es la prueba de la verdad de Jeremías.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Consuelo:</strong> El mensaje de la **falsa paz** es más atractivo que el de la verdad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera profecía** conlleva el sufrimiento; la falsa, el favor popular.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad profética se prueba con el cumplimiento</span>. El juicio de Dios es inmutable, y nadie puede anularlo.</p>
                 
@@ -40472,7 +40867,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paz de la Ciudad:</strong> Orar por el bienestar de la ciudad opresora</li>
                     <li><strong>Promesa de la Búsqueda:</strong> Dios se dejará hallar al final de los 70 años</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Carta a los Exiliados</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Bienestar de la Ciudad y la Esperanza Falsa</h5>
+<ul>
+    <li><strong>La Carta:</strong> Jeremías envía una **carta a los exiliados** que estaban en Babilonia.</li>
+    <li><strong>El Mensaje:</strong> Deben **edificar casas, plantar huertos y casarse** (no esperar un regreso rápido).</li>
+    <li><strong>El Bienestar:</strong> Deben buscar el **bienestar de la ciudad de Babilonia** y orar por ella.</li>
+    <li><strong>La Promesa:</strong> Después de los **setenta años**, Dios los traerá de vuelta.</li>
+    <li><strong>El Castigo:</strong> Los falsos profetas en Babilonia (**Ahab y Sedequías**) serán entregados al **fuego** por el rey Nabucodonosor.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Matrimonios</h5>
+<ul>
+    <li><strong>Vida Normal:</strong> El mandato de **vivir una vida normal** en el exilio es la señal de la duración del juicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Corazón:</strong> La **verdadera esperanza** no es el fin del exilio, sino el **retorno con todo el corazón** a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **plan de Dios** es darles **paz y un futuro** (29:11).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">exilio es un período de espera activa</span>. El creyente debe buscar la voluntad de Dios en la adversidad.</p>
                 
@@ -40498,7 +40916,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sanidad:</strong> Dios sanará las heridas de Israel</li>
                     <li><strong>David Rey:</strong> El Mesías futuro que reinará sobre la nación reunida</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Libro de Consolación (Introducción)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Reversión del Cautiverio</h5>
+<ul>
+    <li><strong>El Libro:</strong> Comienza el **Libro de Consolación** (capítulos 30-33).</li>
+    <li><strong>La Escritura:</strong> Jeremías debe **escribir todas las palabras** en un libro.</li>
+    <li><strong>El Temblor:</strong> El pueblo temblará como una mujer de **parto**.</li>
+    <li><strong>David:</strong> Dios levantará a **David** (el Mesías) para que sea su rey.</li>
+    <li><strong>La Curación:</strong> Dios promete curar la **herida de Jacob** (la restauración).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Parto</h5>
+<ul>
+    <li><strong>Dolor:</strong> El **dolor del parto** se usa como metáfora de la **angustia** del juicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Reversión:</strong> El **castigo** era necesario, pero la **restauración** es el fin de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **disciplina** es una prueba de que Dios no los ha olvidado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio es un medio para la restauración</span>. La fe se basa en la promesa del Mesías davídico.</p>
                 
@@ -40524,7 +40965,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corazón Escrito:</strong> La Ley será interna, no externa</li>
                     <li><strong>Restauración:</strong> El gozo y la reunificación de Israel y Judá</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Libro de Consolación (Introducción)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Reversión del Cautiverio</h5>
+<ul>
+    <li><strong>El Libro:</strong> Comienza el **Libro de Consolación** (capítulos 30-33).</li>
+    <li><strong>La Escritura:</strong> Jeremías debe **escribir todas las palabras** en un libro.</li>
+    <li><strong>El Temblor:</strong> El pueblo temblará como una mujer de **parto**.</li>
+    <li><strong>David:</strong> Dios levantará a **David** (el Mesías) para que sea su rey.</li>
+    <li><strong>La Curación:</strong> Dios promete curar la **herida de Jacob** (la restauración).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Parto</h5>
+<ul>
+    <li><strong>Dolor:</strong> El **dolor del parto** se usa como metáfora de la **angustia** del juicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Reversión:</strong> El **castigo** era necesario, pero la **restauración** es el fin de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **disciplina** es una prueba de que Dios no los ha olvidado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Nuevo Pacto es la esperanza final</span>: la Ley se transforma en una relación de amor grabada en el corazón.</p>
                 
@@ -40550,7 +41014,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Certeza:</strong> El acto profético de la futura restauración</li>
                     <li><strong>Oración:</strong> Jeremías confiesa el poder de Dios a pesar de la duda</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Compra del Campo (Señal de Esperanza)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Acto Simbólico de la Compra</h5>
+<ul>
+    <li><strong>La Prisión:</strong> Jeremías está **prisionero** en el patio de la guardia (588 a.C.) durante el asedio.</li>
+    <li><strong>La Compra:</strong> Dios le ordena comprar un **campo en Anatot** a su primo **Hanamel**.</li>
+    <li><strong>El Precio:</strong> Jeremías paga **diecisiete siclos de plata** y sella los documentos.</li>
+    <li><strong>El Significado:</strong> Es un **acto simbólico** de que un día **se volverán a comprar campos** en la tierra.</li>
+    <li><strong>La Pregunta:</strong> Jeremías ora a Dios preguntándole por qué compra un campo si la ciudad caerá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Documento</h5>
+<ul>
+    <li><strong>Documento:</strong> Se sellaron **dos documentos**: uno abierto y otro cerrado, para el **registro legal**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Promesa:</strong> Dios castiga la incredulidad del profeta, reafirmando que **Su palabra se cumplirá**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **esperanza** debe ser comprada, incluso en el momento de mayor desesperación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">acto de fe es la prueba de la esperanza</span>. La compra del campo es la garantía de que habrá un futuro en la Tierra Prometida.</p>
                 
@@ -40576,7 +41063,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Restauración del Culto:</strong> El sacerdocio y el Templo serán restaurados</li>
                     <li><strong>Pacto de Día y Noche:</strong> La inmutabilidad de la promesa de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Restauración de Jerusalén y del Sacerdocio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Curación y el Pacto Davídico</h5>
+<ul>
+    <li><strong>El Llamado:</strong> **"Clama a Mí, y Yo te responderé"** (la respuesta a la oración de Jeremías).</li>
+    <li><strong>La Curación:</strong> Dios promete **curar y sanar** a Jerusalén.</li>
+    <li><strong>El Vástago:</strong> Dios levantará el **"Vástago Justo"** de David, que ejecutará **justicia y derecho** en la tierra.</li>
+    <li><strong>El Pacto Davídico:</strong> El pacto con **David** y con los **Levitas/sacerdotes** es **tan firme como el pacto con el día y la noche**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Multitud</h5>
+<ul>
+    <li><strong>Multitud:</strong> La ciudad será restaurada y llena de **voces de alegría, gozo y bodas**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Firmeza:</strong> La promesa de Dios es **tan firme** como las leyes de la naturaleza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** asegura el futuro del Mesías y el culto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías es la fuente de la justicia y la restauración</span> del sacerdocio. La fe se basa en la inmutabilidad de la palabra de Dios.</p>
                 
@@ -40602,7 +41111,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hipocresía:</strong> El incumplimiento de la Ley de liberar a los esclavos</li>
                     <li><strong>Asedio:</strong> La certeza de la destrucción final de Jerusalén</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Sedequías y la Liberación de Esclavos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Pacto Roto de la Libertad</h5>
+<ul>
+    <li><strong>Sedequías:</strong> Profecía de que **Sedequías** no morirá por la espada, sino que será llevado a Babilonia.</li>
+    <li><strong>La Liberación de Esclavos:</strong> El pueblo había hecho un **pacto solemne** para **liberar a los esclavos hebreos** cada siete años (Ley del Jubileo).</li>
+    <li><strong>La Desobediencia:</strong> El pueblo **rompió el pacto** y tomó de nuevo a los esclavos.</li>
+    <li><strong>El Castigo:</strong> Dios enviará la **espada, el hambre y la pestilencia** por romper el pacto de libertad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Ceremonia del Pacto</h5>
+<ul>
+    <li><strong>El Becerro:</strong> Para hacer el pacto, dividieron un **becerro** en dos y pasaron por en medio (Gn. 15).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Libertad:</strong> La **esclavitud humana** es castigada con la **esclavitud nacional**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia social** es un mandamiento inquebrantable.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia social es esencial</span>. El juicio de Dios es severo para aquellos que violan la Ley del Pacto con hipocresía.</p>
                 
@@ -40628,7 +41159,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Contraste:</strong> El pecado de Judá y la obediencia de los recabitas</li>
                     <li><strong>Bendición:</strong> La promesa de un descendiente para los recabitas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Fidelidad de los Recabitas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Obediencia a la Tradición Humana</h5>
+<ul>
+    <li><strong>La Prueba:</strong> Dios le ordena a Jeremías que lleve a los **Recabitas** (una tribu nómada) al Templo y les ofrezca **vino**.</li>
+    <li><strong>La Negativa:</strong> Los Recabitas se **niegan a beber vino**, vivir en casas o plantar viñas.</li>
+    <li><strong>La Tradición:</strong> Su negativa se debe a la **orden de su ancestro Jonadab** (un mandamiento humano).</li>
+    <li><strong>El Juicio:</strong> La **fidelidad a un hombre** avergüenza al pueblo que **desobedeció a Dios**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Nomadismo</h5>
+<ul>
+    <li><strong>Nomadismo:</strong> Los Recabitas vivían en **tiendas** (no casas), como símbolo de su separación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Recompensa:</strong> Los Recabitas serán recompensados con que **nunca les faltará un hombre** que sirva delante de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obediencia radical** a la tradición de un hombre es un reproche a la desobediencia a la Ley de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obediencia a la Ley de Dios es el deber de Israel</span>. La obediencia a un mandato humano resalta la desobediencia de Judá a la Ley divina.</p>
                 
@@ -40654,7 +41207,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Baruc:</strong> El escriba fiel que registra la profecía</li>
                     <li><strong>Poder de la Palabra:</strong> La Palabra de Dios es indestructible</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Rollo Quemado por Joacim</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Rollo y la Lectura Pública</h5>
+<ul>
+    <li><strong>El Dictado:</strong> Jeremías le **dicta todas sus profecías** al escriba **Baruc**.</li>
+    <li><strong>La Lectura:</strong> Baruc lee el rollo públicamente en el **Templo** y luego en la **casa del príncipe**.</li>
+    <li><strong>La Respuesta:</strong> El rey **Joacim** escucha el rollo y lo **corta con un cortaplumas** y lo **quema en el fuego**.</li>
+    <li><strong>El Segundo Rollo:</strong> Jeremías dicta un **segundo rollo** con las mismas palabras y **añade más** profecías.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Rollo</h5>
+<ul>
+    <li><strong>Rollo:</strong> El rollo (Megillah) era el medio principal de **preservación de la palabra** de Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Negación:</strong> El rey no puede **quemar la palabra** de Dios, solo su soporte físico.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **acto de quemar** es la prueba de la obstinación del rey.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">poder de la Palabra de Dios es inmutable</span>. Ningún poder terrenal (ni un rey) puede destruir la profecía de Dios.</p>
                 
@@ -40680,7 +41255,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hipocresía:</strong> Sedequías busca la oración, pero no la obediencia</li>
                     <li><strong>Asedio:</strong> La certeza de que Babilonia regresará</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Asedio y el Primer Arresto Oficial</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Asedio Interrumpido</h5>
+<ul>
+    <li><strong>El Faraón:</strong> El ejército de **Faraón** sale de Egipto, haciendo que los babilonios **levanten temporalmente el asedio**.</li>
+    <li><strong>La Advertencia:</strong> Jeremías advierte al rey **Sedequías** que el ejército de Babilonia **regresará** y destruirá la ciudad.</li>
+    <li><strong>El Arresto:</strong> Jeremías intenta ir a Anatot y es **arrestado** en la puerta como un **desertor** y encerrado en el **calabozo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Desertación</h5>
+<ul>
+    <li><strong>Desertor:</strong> Jeremías es acusado de **pasarse a los caldeos** (Babilonia).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Esperanza Falsa:</strong> La **retirada del enemigo** da una falsa esperanza, rápidamente desmentida por el profeta.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero profeta** es tratado como traidor por predecir la verdad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento del profeta es vicario</span>. El rey Sedequías representa la incredulidad final de Judá.</p>
                 
@@ -40706,7 +41302,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ebed-melec:</strong> El eunuco gentil que salva a Jeremías</li>
                     <li><strong>Rendición:</strong> La obediencia es la única vía para la vida</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pozo de Malquías y la Intervención de Ebed-Melec</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Muerte por Hambre</h5>
+<ul>
+    <li><strong>La Traición:</strong> Los príncipes convencen al rey para que **mate a Jeremías**.</li>
+    <li><strong>El Pozo:</strong> Jeremías es arrojado a un **pozo de lodo** (cisterna seca) para que muera de hambre.</li>
+    <li><strong>Ebed-Melec:</strong> **Ebed-Melec** (un eunuco etíope) intercede por Jeremías ante el rey.</li>
+    <li><strong>El Rescate:</strong> Jeremías es rescatado del pozo con **trapos viejos** y **cuerdas**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Lodo</h5>
+<ul>
+    <li><strong>Cisterna:</strong> El pozo estaba lleno de **lodo**, lo que indicaba que el profeta moriría lentamente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Eunuco:</strong> El **eunuco extranjero** demuestra más fe que los príncipes de Judá.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **compasión** salva la vida del profeta.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento del profeta es un símbolo</span> de la nación. El eunuco gentil representa la fe que honra a Dios.</p>
                 
@@ -40732,7 +41350,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> La ceguera de Sedequías y la muerte de sus hijos</li>
                     <li><strong>Protección:</strong> El enemigo cuida al profeta que su propio pueblo encarceló</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Caída de Jerusalén (587 a.C.)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio Consumado</h5>
+<ul>
+    <li><strong>La Brecha:</strong> El ejército babilónico abre una **brecha en el muro** de Jerusalén.</li>
+    <li><strong>El Escape:</strong> **Sedequías** huye, es capturado, y sus **hijos son asesinados** ante sus ojos.</li>
+    <li><strong>La Ceguera:</strong> A Sedequías se le **sacan los ojos** y es llevado a Babilonia.</li>
+    <li><strong>La Casa Quemada:</strong> La ciudad, el **Templo** y el **palacio** son quemados.</li>
+    <li><strong>La Liberación:</strong> Jeremías es liberado por **Nabuzaradán** (capitán de la guardia babilónica).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Puerta Central</h5>
+<ul>
+    <li><strong>Puerta:</strong> El rey Sedequías huyó por la **Puerta Central** (la puerta secreta del rey).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Profecía:</strong> Todo lo que Jeremías predijo sobre el rey se **cumplió al pie de la letra**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **profecía** se convierte en historia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">protección de Dios es total</span>. El juicio final es el resultado de la desobediencia persistente.</p>
                 
@@ -40758,7 +41399,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gobierno:</strong> El intento de restaurar el orden bajo Gedalías</li>
                     <li><strong>Sumisión:</strong> Servir al rey de Babilonia por obediencia a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Guedalías, Gobernador de Judá</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Remanente y la Tierra</h5>
+<ul>
+    <li><strong>La Decisión:</strong> Jeremías elige **quedarse en la tierra de Judá** con el remanente.</li>
+    <li><strong>Guedalías:</strong> **Guedalías** es nombrado **gobernador** por los babilonios.</li>
+    <li><strong>La Promesa:</strong> Guedalías les dice que **sirvan al rey de Babilonia** y que les irá bien.</li>
+    <li><strong>El Remanente:</strong> La gente regresa de las **naciones vecinas** a Judá para cosechar.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: El Verano</h5>
+<ul>
+    <li><strong>Cosecha:</strong> La gente cosecha el **vino** y el **aceite del verano** (el primer signo de restauración).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paz:</strong> El pueblo tiene una **oportunidad de paz** si se somete al poder de Babilonia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sumisión** es el camino a la supervivencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">remanente debe someterse a la voluntad de Dios</span> (el exilio). La obediencia es la única vía para la paz.</p>
                 
@@ -40784,7 +41447,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Anarquía:</strong> El fin del gobierno judío</li>
                     <li><strong>Huida:</strong> El miedo a la venganza de Babilonia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Asesinato de Guedalías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Traición y la Matanza</h5>
+<ul>
+    <li><strong>Ismael:</strong> **Ismael** (de linaje real) conspira para matar a Guedalías.</li>
+    <li><strong>El Asesinato:</strong> Guedalías es **asesinado** en una fiesta, junto con los **caldeos** que estaban con él.</li>
+    <li><strong>El Engaño:</strong> Ismael mata a **setenta hombres** de Siquem que venían a adorar en el Templo (un acto de traición).</li>
+    <li><strong>El Escape:</strong> Ismael intenta llevar a los cautivos a **Amón**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Luto</h5>
+<ul>
+    <li><strong>Luto:</strong> Los setenta hombres venían con **barbas rapadas** y **ropa rasgada** (símbolos de luto).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paz Rota:</strong> El **asesinato** es el fin de la paz para el remanente.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ambición personal** lleva a la destrucción del remanente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">celo humano y la ambición</span> arruinan el último intento de restauración. La desconfianza siembra el terror.</p>
                 
@@ -40810,7 +41495,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio en Egipto:</strong> El castigo por la desobediencia</li>
                     <li><strong>Protección:</strong> La promesa de vida si se quedan en la tierra</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Consulta y la Mentira</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Decisión de Ir a Egipto</h5>
+<ul>
+    <li><strong>La Consulta:</strong> El remanente le pide a Jeremías que **ore a Dios** para saber si deben ir a **Egipto** (por miedo a los babilonios).</li>
+    <li><strong>La Promesa:</strong> Ellos prometen **obedecer la palabra de Dios**, sea buena o mala.</li>
+    <li><strong>La Advertencia:</strong> Jeremías les dice que **se queden en la tierra** y que Dios los protegerá.</li>
+    <li><strong>El Juicio:</strong> Si van a Egipto, la **espada que temen** los alcanzará allí.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Juramento</h5>
+<ul>
+    <li><strong>Juramento:</strong> El remanente **jura** por YHWH que obedecerá.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Mentira:</strong> El profeta los acusa de **engañar sus almas** al haber consultado falsamente.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **falsa religiosidad** busca la bendición en la desobediencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">corazón rebelde busca la confirmación</span> de sus propios planes. La fe se demuestra al obedecer la Palabra de Dios, incluso si va en contra del plan humano.</p>
                 
@@ -40836,7 +41543,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Acto Simbólico:</strong> La invasión de Nabucodonosor a Egipto</li>
                     <li><strong>Juicio:</strong> El castigo por la incredulidad en Egipto</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Exilio a Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Desobediencia y la Piedra</h5>
+<ul>
+    <li><strong>La Huida:</strong> El remanente, liderado por **Johanán**, se **niega a obedecer** y huye a **Egipto**.</li>
+    <li><strong>El Viaje:</strong> Se llevan a **Jeremías** y a **Baruc** a la fuerza.</li>
+    <li><strong>La Profecía en Egipto:</strong> En **Tafnes** (una ciudad egipcia), Jeremías esconde **grandes piedras** en el pavimento.</li>
+    <li><strong>El Significado:</strong> Es la señal de que **Nabucodonosor** vendrá y pondrá su **trono** sobre esas piedras.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Batalla</h5>
+<ul>
+    <li><strong>Trono:</strong> El rey babilónico pondrá su **trono y pabellón real** en Egipto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Seguridad:</strong> El **refugio de Egipto** se convierte en el lugar del juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **palabra de Dios** persigue al desobediente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es ineludible</span>. La desobediencia trae el juicio, incluso si se intenta huir de él.</p>
                 
@@ -40862,7 +41591,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Final:</strong> La destrucción total del remanente en Egipto</li>
                     <li><strong>Signo:</strong> La muerte del Faraón Hofra</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Última Advertencia en Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Culto a la Reina del Cielo</h5>
+<ul>
+    <li><strong>La Advertencia Final:</strong> Jeremías advierte al pueblo en **Egipto** (Migdol, Tafnes, Menfis) de la inminente destrucción.</li>
+    <li><strong>La Rebeldía:</strong> El pueblo se **niega a escuchar** y declara que seguirán quemando **incienso a la Reina del Cielo**.</li>
+    <li><strong>La Razón:</strong> El pueblo dice que cuando adoraban a la Reina del Cielo, tenían **abundancia de pan y paz**.</li>
+    <li><strong>El Castigo:</strong> La señal será la **muerte de Faraón Hofra** (el rey de Egipto) a manos de sus enemigos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Reina del Cielo</h5>
+<ul>
+    <li><strong>Culto:</strong> Las mujeres en Egipto lideraban el **culto pagano** a Astarté.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Extinción:</strong> Solo un **pequeño número** escapará de Egipto para testificar que la palabra de Dios se cumplió.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **idolatría** es la última causa del juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">pecado de la idolatría es obstinado</span>. La fe debe buscar la adoración exclusiva de YHWH.</p>
                 
@@ -40888,7 +41639,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Consuelo:</strong> Dios cuidará la vida de Baruc</li>
                     <li><strong>Botín:</strong> Su vida es la única recompensa</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Oráculo a Baruc</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Búsqueda de la Grandeza Personal</h5>
+<ul>
+    <li><strong>El Tiempo:</strong> El cuarto año de Joacim (605 a.C.), después del dictado del primer rollo.</li>
+    <li><strong>El Lamento de Baruc:</strong> **Baruc** (el escriba) se lamenta por el **dolor** y el **cansancio** de su tarea.</li>
+    <li><strong>La Reprensión:</strong> Dios reprende a Baruc por **buscar grandes cosas** para sí mismo.</li>
+    <li><strong>La Promesa:</strong> Dios le promete que le **dará su vida por botín** (lo protegerá de la muerte).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Vida</h5>
+<ul>
+    <li><strong>Botín:</strong> El **botín** (tesoro) de Baruc será su **propia vida**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Grandeza:</strong> La **verdadera recompensa** del siervo de Dios es la seguridad personal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la clave para la supervivencia en tiempos de juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad a Dios es recompensada</span> con la protección personal. La vida misma es el único "botín" valioso.</p>
                 
@@ -40914,7 +41687,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> La destrucción de Egipto</li>
                     <li><strong>Consuelo:</strong> La restauración de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Derrota de Faraón Necao</h5>
+<ul>
+    <li><strong>La Batalla:</strong> Profecía de la derrota de **Faraón Necao** en **Carquemis** (605 a.C.) por Nabucodonosor.</li>
+    <li><strong>La Preparación:</strong> Dios se burla de la **preparación militar** de Egipto.</li>
+    <li><strong>El Diluvio:</strong> Egipto, que se jacta de su **río (el Nilo)**, será como un **diluvio** que sube, pero será **vencido**.</li>
+    <li><strong>El Consuelo:</strong> Dios consuela a Israel, prometiendo que **no volverá a Egipto**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Escudo</h5>
+<ul>
+    <li><strong>Escudo:</strong> Dios se burla de los **escudos, las lanzas** y los **carros** de Egipto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Castigo:</strong> Egipto es el **castigo de Babilonia**, pero también será castigado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **grandeza de Egipto** es anulada por YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">poder de Dios se manifiesta en la caída de los imperios</span>. La destrucción de Egipto es la garantía de la salvación de Israel.</p>
                 
@@ -40939,7 +41734,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Destrucción:</strong> El juicio contra las ciudades filisteas</li>
                     <li><strong>Sin Piedad:</strong> Dios no tendrá misericordia de ellos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Filistea</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio por el Agua</h5>
+<ul>
+    <li><strong>La Inundación:</strong> El juicio vendrá como **aguas** que suben desde el norte.</li>
+    <li><strong>Los Filisteos:</strong> Juicio contra las ciudades de **Gaza, Ascalón y Asdod**.</li>
+    <li><strong>La Causa:</strong> Dios castiga a los filisteos por haber destruido el **remanente de Tiro y Sidón**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Espada</h5>
+<ul>
+    <li><strong>Espada:</strong> El profeta pide a la **espada de YHWH** que descanse.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Silencio:</strong> Los filisteos se quedaron **rapados** (luto) por el juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **soberanía de Dios** se extiende sobre los enemigos marítimos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es severo</span> contra aquellos que han sido enemigos de Israel.</p>
                 
@@ -40965,7 +41781,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Total:</strong> La destrucción de las ciudades</li>
                     <li><strong>Lamento:</strong> El dolor de Jeremías por el enemigo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Moab</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Orgullo de Moab y la Humillación</h5>
+<ul>
+    <li><strong>El Juicio:</strong> Moab será **destruido** por el poder de Babilonia.</li>
+    <li><strong>El Orgullo:</strong> Moab será juzgado por su **orgullo** y su **gran arrogancia**.</li>
+    <li><strong>El Lamento:</strong> Dios lamenta la destrucción del **altar pagano de Quemos**.</li>
+    <li><strong>La Botella:</strong> Moab es una **botella** que se ha mantenido **intacta** (sin ser trasladada), y ahora será **quebrada**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Quemos</h5>
+<ul>
+    <li><strong>Dios:</strong> **Quemos** era el dios principal de Moab.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Retorno:</strong> Dios promete **restaurar a Moab** en los últimos días.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **juicio** es temporal, pero el **pacto** es eterno.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberbia es el pecado que destruye</span>. El juicio de Dios es doloroso, pero incluso en la ira hay misericordia.</p>
                 
@@ -40991,7 +41829,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> La destrucción de Damasco y Cedar</li>
                     <li><strong>Restauración:</strong> La promesa de retorno para Amón y Edom</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculos contra Amón, Edom y Damasco</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Castigo de los Vecinos</h5>
+<ul>
+    <li><strong>Amón:</strong> Juicio contra **Amón** por haber **tomado las tierras** de Israel.</li>
+    <li><strong>Edom:</strong> Juicio contra **Edom** (la nación en los acantilados).</li>
+    <li><strong>El Águila:</strong> Edom es comparado con el **águila** en el nido de los altos.</li>
+    <li><strong>Damasco:</strong> Juicio contra **Damasco** (Siria), que no pudo resistir el **miedo**.</li>
+    <li><strong>Elam:</strong> Juicio contra **Elam** (en Persia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Geográfico: La Roca</h5>
+<ul>
+    <li><strong>Edom:</strong> Edom vivía en las **hendiduras de las peñas** (lugares fortificados).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Destrucción:</strong> La destrucción es tan grande que el profeta pide que los niños sean **ahorrados**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **control de Dios** se extiende sobre todos los enemigos de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es para humillar</span>. La restauración es un acto de gracia de Dios.</p>
                 
@@ -41017,7 +41878,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Redención:</strong> Dios libera a Su pueblo</li>
                     <li><strong>Pacto Eterno:</strong> La promesa de un pacto inmutable</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Babilonia (Primera Parte)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Caída de Babilonia</h5>
+<ul>
+    <li><strong>La Noticia:</strong> El anuncio de la **caída de Babilonia** a manos de los **Medos**.</li>
+    <li><strong>Los Ídolos:</strong> Los **ídolos** de Babilonia (**Bel y Merodac**) serán avergonzados.</li>
+    <li><strong>El León:</strong> Dios promete un **león** que atacará el **redil** (la paz).</li>
+    <li><strong>La Liberación:</strong> Dios sacará a Israel con un **juramento inquebrantable**.</li>
+    <li><strong>El Carro:</strong> Babilonia será destruida como Sodoma y Gomorra.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Espada</h5>
+<ul>
+    <li><strong>La Espada:</strong> Habrá una **espada** sobre los **caldeos, sus príncipes, sus sabios** y sus **carros**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Reversión:</strong> El **destino de Babilonia** será el mismo que el que aplicó a Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** a Su pueblo se demuestra en el juicio a su opresor.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio sobre Babilonia es la garantía de la restauración</span> de Israel. La fe se basa en la promesa del pacto.</p>
                 
@@ -41043,7 +41927,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Destrucción Total:</strong> Babilonia será una ruina eterna</li>
                     <li><strong>Salida:</strong> El mandato de salir de la ciudad antes de la destrucción</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Babilonia (Segunda Parte)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Botella de la Ira y el Martillo</h5>
+<ul>
+    <li><strong>El Martillo:</strong> Babilonia era el **martillo de Dios** que destruía a las naciones. Ahora será quebrado.</li>
+    <li><strong>El Anuncio:</strong> El profeta ordena a los **mensajeros** que anuncien el juicio.</li>
+    <li><strong>La Botella:</strong> Un oficial debe atar el rollo con la profecía a una **piedra** y **arrojarlo al Éufrates**.</li>
+    <li><strong>El Significado:</strong> Babilonia **se hundirá y no se levantará más**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Los Arqueros</h5>
+<ul>
+    <li><strong>Arqueros:</strong> El profeta llama a los **arqueros y flecheros** para que rodeen a Babilonia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Fin:</strong> El **juicio de Dios** es final y visible.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **palabra de Dios** es la causa del juicio y la liberación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es por Su Nombre</span>. La fe se basa en la certeza de la venganza divina.</p>
                 
@@ -41069,7 +41975,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Restauración:</strong> La liberación de Joaquín de la prisión</li>
                     <li><strong>Esperanza:</strong> El linaje de David sobrevive al exilio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Repetición de la Caída de Jerusalén y la Cautividad Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Recuento Histórico (Epílogo)</h5>
+<ul>
+    <li><strong>El Fin de Sedequías:</strong> Recuento de la caída de Jerusalén, el **asesinato de los hijos** de Sedequías y su **ceguera**.</li>
+    <li><strong>El Botín:</strong> Se detalla la **destrucción del Templo** y la toma de los **utensilios de bronce** (la riqueza del Templo).</li>
+    <li><strong>El Número:</strong> Se indica el **número de exiliados** en cada deportación.</li>
+    <li><strong>Joaquín:</strong> El rey **Joaquín** es **liberado de la cárcel** en Babilonia y come en la **mesa del rey babilónico** (el fin de la esperanza de la línea davídica).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Columna</h5>
+<ul>
+    <li><strong>Utensilios:</strong> La lista de los **utensilios del Templo** de bronce que fueron llevados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Misericordia:</strong> El libro cierra con un **acto de misericordia** hacia el rey Joaquín.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **liberación de Joaquín** es una pequeña chispa de esperanza para el futuro de la monarquía.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">fin del exilio es inevitable</span>. La liberación de Joaquín es la garantía de que el Pacto Davídico es eterno.</p>
                 
@@ -41097,7 +42025,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Causa del Sufrimiento:</strong> La transgresión de la Ley y los pecados de la ciudad</li>
                     <li><strong>Juicio Justo:</strong> El reconocimiento de que Dios es justo en Su ira</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Jerusalén como la Viuda Desolada</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Dama de Ciudades y la Esclavitud</h5>
+<ul>
+    <li><strong>Estructura:</strong> Es un poema **acróstico** (22 versos), donde cada verso comienza con una letra del alfabeto hebreo, simbolizando un lamento completo.</li>
+    <li><strong>La Personificación:</strong> Jerusalén es personificada como una **princesa** convertida en **esclava**; una **viuda** que llora sola en la noche.</li>
+    <li><strong>Los Amantes:</strong> Sus **amantes** (las naciones aliadas, como Egipto) la han traicionado.</li>
+    <li><strong>El Pecado:</strong> La ciudad admite que **ha pecado** y que el juicio es justo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Impureza Menstrual</h5>
+<ul>
+    <li><strong>Impureza:</strong> El profeta compara la vergüenza de la ciudad con la **impureza menstrual** (Niddah), que hacía que las personas puras se apartaran de ella.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Trono:</strong> El gozo y la música han sido reemplazados por el **gemido** en la ciudad que antes estaba llena de gente.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vergüenza externa** es el reflejo de la **infidelidad interna**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El lamento se centra en la <span class="highlight">vergüenza y el dolor por la pérdida de la presencia de Dios</span>. El sufrimiento es la consecuencia inevitable de la infidelidad.</p>
                 
@@ -41123,7 +42073,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falsos Profetas:</strong> Condena a los que dieron falsas esperanzas</li>
                     <li><strong>Clamor:</strong> La súplica a Dios desde la angustia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Ira de Dios en la Devastación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Nube Oscura y la Tienda Desechada</h5>
+<ul>
+    <li><strong>Estructura:</strong> También es un poema **acróstico** (22 versos).</li>
+    <li><strong>La Ira:</strong> El poema se enfoca en que **Dios mismo** (YHWH) ha sido el **agente de la destrucción**, no solo Babilonia.</li>
+    <li><strong>El Tabernáculo:</strong> Dios ha desechado Su **tabernáculo** (el Templo) como una simple **cabaña** en el jardín.</li>
+    <li><strong>El Muro:</strong> El Señor destruyó el **muro y el baluarte** de Sión sin misericordia.</li>
+    <li><strong>Los Falsos Profetas:</strong> Los **profetas** fallaron al no advertir sobre la **maldad** de la ciudad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Arco Tenso</h5>
+<ul>
+    <li><strong>El Arquero:</strong> Dios es descrito como un **enemigo** que ha tensado Su **arco** y Su **mano derecha** (poder) para destruir a Sión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Misericordia:</strong> La **ausencia de la Shekinah** (la presencia de Dios) en el Templo es el peor sufrimiento.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ira divina** es la respuesta justa al pecado, incluso si proviene de Su amor.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es severo, pero necesario</span>. La verdadera angustia es saber que Dios Mismo ejecutó el castigo.</p>
                 
@@ -41149,7 +42122,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esperanza:</strong> La salvación se encuentra en la paciencia y la espera</li>
                     <li><strong>Propósito:</strong> El sufrimiento es para el bien y la disciplina</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pivote de la Esperanza en el Lamento Individual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Hombre de Aflicción y la Nueva Misericordia</h5>
+<ul>
+    <li><strong>Estructura:</strong> Este es un **acróstico triple** (66 versos), donde tres versos consecutivos comienzan con la misma letra hebrea.</li>
+    <li><strong>El Hombre:</strong> El lamento cambia de la nación al **sufrimiento individual** (posiblemente Jeremías o un representante del pueblo).</li>
+    <li><strong>La Prueba:</strong> El hombre fue **guiado a la oscuridad**, y Dios le ha **roto los huesos**.</li>
+    <li><strong>El Pivote:</strong> A mitad del poema, el tono cambia con la frase: **"Por la misericordia de YHWH no hemos sido consumidos..."** (3:22).</li>
+    <li><strong>La Promesa:</strong> Las **misericordias de Dios** son nuevas **cada mañana**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Lodo y la Prisión</h5>
+<ul>
+    <li><strong>El Pozo:</strong> El hombre fue arrojado al **pozo** (cisterna/prisión) para morir.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Bondad:</strong> La **disciplina de Dios** tiene un límite y un propósito: la **esperanza** se basa en Su bondad inagotable.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sufrimiento personal** lleva a una comprensión más profunda de la **fidelidad de Dios**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">misericordia de Dios es el ancla de la fe</span> en medio del dolor. La esperanza es activa, esperando pacientemente en la bondad de Dios.</p>
                 
@@ -41175,7 +42171,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sufrimiento:</strong> La agonía de los niños y el colapso social</li>
                     <li><strong>Retribución:</strong> El juicio contra Edom por su soberbia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Horror del Asedio y el Hambre</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Contraste entre el Oro y la Ceniza</h5>
+<ul>
+    <li><strong>Estructura:</strong> Es un poema **acróstico** (22 versos).</li>
+    <li><strong>La Pérdida:</strong> El **oro fino** de la ciudad se ha vuelto **opaco** (el contraste entre el pasado y el presente).</li>
+    <li><strong>Los Niños:</strong> Los **niños** piden pan y nadie se lo da.</li>
+    <li><strong>El Canibalismo:</strong> La **misericordia de las madres** se desvanece; las mujeres **cocinaron a sus propios hijos** (el peor horror del asedio).</li>
+    <li><strong>El Muro:</strong> El juicio sobre **Edom** (el reino vecino) por haberse alegrado de la caída de Judá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Hambre</h5>
+<ul>
+    <li><strong>Lujo:</strong> Las personas que se criaron con **escarlata** (lujo) se sientan ahora en el **estiércol**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Santidad:</strong> Los **nazareos** (dedicados a Dios) se han vuelto **negros** por el hambre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **bendición material** es temporal y reversible por la desobediencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento es la manifestación de la ira de Dios</span> contra el pecado, pero la fe advierte que el juicio es universal.</p>
                 
@@ -41201,7 +42220,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Carencia:</strong> La falta de sustento y seguridad</li>
                     <li><strong>Restauración:</strong> El ruego por la renovación y el retorno</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Oración del Remanente y la Sumisión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Oración y la Esclavitud</h5>
+<ul>
+    <li><strong>Estructura:</strong> No es un acróstico, pero contiene 22 versos (como el número de letras). Es una **oración corporativa** final.</li>
+    <li><strong>La Carga:</strong> El pueblo lleva sus **maderas** y **aguas** por dinero (la humillación de la esclavitud).</li>
+    <li><strong>Los Antiguos:</strong> Los **ancianos** no se sientan más en la puerta (el fin de la justicia y la ley).</li>
+    <li><strong>La Reparación:</strong> La oración termina con una súplica: **"Haznos volver a ti, oh YHWH, y volveremos; Renueva nuestros días como al principio"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Paja y la Humillación</h5>
+<ul>
+    <li><strong>El Yugo:</strong> La gente está bajo un **yugo** que sus padres no pudieron soportar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Silencio:</strong> La pregunta final: **"¿Por qué nos has olvidado para siempre, y nos has abandonado por tan largo tiempo?"** (El silencio de Dios).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **súplica final** es un acto de fe en que Dios es el único capaz de restaurar lo destruido.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">restauración comienza con la oración</span>. El pueblo reconoce que el retorno a Dios es un acto de gracia de Dios Mismo.</p>
                 
@@ -41229,7 +42270,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Queratología:</strong> La descripción de los seres celestiales</li>
                     <li><strong>Trascendencia:</strong> La majestad incomprensible de la Gloria de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión de la Gloria de Dios (Merkabá)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Visión Teológica y el Exilio</h5>
+<ul>
+    <li><strong>Ubicación:</strong> La visión ocurre **junto al río Quebar** (Babilonia), lejos de Jerusalén. Esto demuestra que la presencia de YHWH no se limita al Templo.</li>
+    <li><strong>La Merkabá:</strong> La visión del **Carro Trono** de Dios, con cuatro seres vivientes (querubines/serafines) y ruedas que giran.</li>
+    <li><strong>Seres Vivientes:</strong> Los seres tienen **cuatro rostros** (hombre, león, buey y águila), símbolos de la creación y la omnisciencia.</li>
+    <li><strong>Propósito:</strong> La visión inicial de la **Gloria de YHWH** (Shekinah) establece la autoridad del profeta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Cultural: Los Zigurats y la Mitología</h5>
+<ul>
+    <li><strong>Iconografía:</strong> La imaginería de los seres alados y las ruedas se asemeja a la **iconografía asiria y babilónica** (lamassus).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Movilidad:</strong> El trono de Dios no es estático (como el templo físico), sino **móvil** (las ruedas giran sin volverse), capaz de ir al exilio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **control de Dios** sobre las fuerzas cósmicas garantiza la validez de Su mensaje.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gloria de Dios (Shekinah)</span> viaja con Su pueblo en el exilio. La fe debe reconocer la presencia de Dios en todas partes.</p>
                 
@@ -41255,7 +42318,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Atalaya:</strong> El rol de Ezequiel de advertir al pueblo</li>
                     <li><strong>Comisión:</strong> El profeta debe hablar, aunque nadie escuche</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Llamamiento del Profeta y el Rollo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Dureza del Corazón y la Obediencia</h5>
+<ul>
+    <li><strong>El Título:</strong> Ezequiel es consistentemente llamado **"Hijo de Hombre"** (Ben-Adam), que enfatiza su **humanidad y fragilidad** frente a la Gloria.</li>
+    <li><strong>La Rebelión:</strong> El pueblo de Israel es descrito como **"duro de frente y obstinado de corazón"**.</li>
+    <li><strong>El Mensaje:</strong> Dios le da un **rollo** escrito por dentro y por fuera. El contenido es **"lamentaciones, gemidos y ayes"**.</li>
+    <li><strong>Consumo:</strong> Ezequiel debe **comer el rollo** (asimilar y proclamar completamente el mensaje).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Resistencia</h5>
+<ul>
+    <li><strong>Enviado:</strong> El profeta es enviado a un pueblo que se **rebelará** contra su palabra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Soberanía:</strong> La profecía es una **palabra amarga** (juicio), pero el rollo en la boca del profeta es **dulce** (la obediencia es dulce).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El profeta tiene la **responsabilidad** de hablar, incluso si no es escuchado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">profeta es el mensajero de Dios</span>, no el manipulador de la respuesta. La fidelidad se demuestra al hablar la Palabra, no al obtener resultados.</p>
                 
@@ -41281,7 +42366,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Atalaya:</strong> La doble responsabilidad de advertir al justo y al impío</li>
                     <li><strong>Silencio:</strong> El período de preparación y sumisión a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Atalaya y la Responsabilidad Individual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Responsabilidad y la Mudez</h5>
+<ul>
+    <li><strong>El Atalaya:</strong> Ezequiel es nombrado **"atalaya"** (guardián/vigilante) de la casa de Israel.</li>
+    <li><strong>La Advertencia:</strong> La **responsabilidad** del atalaya: si no advierte al impío, la sangre del impío será demandada de su mano.</li>
+    <li><strong>El Aislamiento:</strong> Dios hace que la **lengua de Ezequiel se pegue al paladar** (lo vuelve mudo) hasta que sea el momento de hablar (profecía).</li>
+    <li><strong>El Viento:</strong> El Espíritu levanta a Ezequiel y lo lleva a la casa del exilio, a Tel-Abib.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Atalaya</h5>
+<ul>
+    <li><strong>Atalaya:</strong> La torre de vigilancia era esencial para la seguridad de la ciudad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Santidad:</strong> La **Gloria de YHWH** se detiene sobre el valle, repitiendo la visión inicial.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **carga del profeta** es la de un guardián moral de la comunidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Palabra de Dios debe ser interiorizada</span> (dulce) a pesar de su contenido de juicio (amargo). La responsabilidad de advertir es grave.</p>
                 
@@ -41307,7 +42414,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Días Simbólicos:</strong> El tiempo de castigo por los pecados de Israel y Judá</li>
                     <li><strong>Impureza:</strong> El pan de exilio comido en tierra inmunda</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Acto Simbólico del Ladrillo y el Asedio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio Visual y el Tiempo de Castigo</h5>
+<ul>
+    <li><strong>El Ladrillo:</strong> Ezequiel debe **dibujar Jerusalén en un ladrillo** (un acto de burla).</li>
+    <li><strong>Asedio:</strong> El profeta simula el **asedio de Jerusalén** con muros, arietes y campamentos.</li>
+    <li><strong>El Tiempo de Castigo:</strong> Ezequiel se acuesta sobre su **lado izquierdo por 390 días** (pecado de Israel) y sobre su **lado derecho por 40 días** (pecado de Judá).</li>
+    <li><strong>La Comida (Peso):** El pan debe cocinarse con una **medida exacta** y agua (símbolo de la escasez durante el asedio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Arietes</h5>
+<ul>
+    <li><strong>Asedio:</strong> El uso de **arietes** y montículos de tierra era típico en el asedio babilónico.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Deshonra:</strong> Dios ordena cocinar el pan con **estiércol humano** (el profeta intercede y se le permite usar estiércol de vaca). | Un signo de la **máxima inmundicia y desesperación** por hambre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vida del profeta** se convierte en una representación teatral del juicio de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">cuerpo del profeta es un signo vivo</span> del juicio de Dios. El castigo está perfectamente medido por el tiempo del pecado.</p>
                 
@@ -41333,7 +42462,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Furia de Dios:</strong> Dios Mismo es quien ejecuta el juicio</li>
                     <li><strong>Remanente:</strong> La promesa de un pequeño grupo que será preservado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Acto Simbólico del Cabello y la Espada</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio Tripartito de la Población</h5>
+<ul>
+    <li><strong>El Cabello/Barba:</strong> Ezequiel debe **afeitarse el cabello y la barba** (un rito de luto y deshonra).</li>
+    <li><strong>La División:</strong> El cabello se divide en **tres partes**:
+        <ol>
+            <li>**Un tercio** es quemado en medio de la ciudad (muerte por hambre/peste).</li>
+            <li>**Un tercio** es herido con la espada alrededor de la ciudad (muerte en batalla).</li>
+            <li>**Un tercio** es dispersado al viento (el exilio).</li>
+        </ol>
+    </li>
+    <li><strong>El Remanente:</strong> Unos **pocos cabellos** son guardados en el borde de su manto (el pequeño remanente que escapará).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Vergüenza</h5>
+<ul>
+    <li><strong>Afeitado:</strong> Afeitarse la cabeza era una gran **vergüenza** y luto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Pureza:</strong> El Templo de Jerusalén es juzgado por haberse contaminado con **ídolos** más que cualquier otra nación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sufrimiento del profeta** se convierte en el destino de la nación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es total</span> y la única esperanza es la pequeña porción que Dios guarda. La ira de Dios es el resultado de la profanación del Pacto.</p>
                 
@@ -41359,7 +42515,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reconocimiento:</strong> El propósito del juicio es que el pueblo conozca a YHWH</li>
                     <li><strong>Arrepentimiento:</strong> El remanente recordará y se arrepentirá</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Juicio contra los Montes de Israel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profanación de los Lugares Altos</h5>
+<ul>
+    <li><strong>Los Montes:</strong> Profecía de juicio contra los **montes, collados, valles y arroyos** de Israel (los lugares de culto idolátrico).</li>
+    <li><strong>El Desgaste:</strong> Los **cadáveres** del pueblo caerán sobre los ídolos rotos.</li>
+    <li><strong>La Pureza:</strong> Los **altares y las imágenes** serán profanados.</li>
+    <li><strong>El Remanente:</strong> Un remanente de Israel será **dispersado** (no destruido totalmente) para que **"se acuerde de Mí"** en el exilio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Lugares Altos</h5>
+<ul>
+    <li><strong>Lugares Altos:</strong> Eran los sitios de sacrificio a **Baal y Astarté** (la base de la idolatría en Canaán).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Reconocimiento:</strong> El juicio es para que **"sepan que Yo soy YHWH"** (el propósito final de la profecía).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **idolatría** contamina la tierra misma y atrae el juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">destrucción de la idolatría es un acto de amor y purificación</span> de Dios. El conocimiento de Dios es el objetivo final de Su juicio.</p>
                 
@@ -41385,7 +42563,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Riqueza Vana:</strong> El oro y la plata no sirven en el día del juicio</li>
                     <li><strong>Confusión:</strong> El pánico que se apoderará de la nación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Fin de la Historia de Israel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Hora Final y la Desesperación</h5>
+<ul>
+    <li><strong>El Fin:</strong> El juicio es definitivo: **"Viene el fin"** sobre los cuatro extremos de la Tierra.</li>
+    <li><strong>La Inmunidad:</strong> El dinero y el **oro no podrán salvarlos** en el día de la ira.</li>
+    <li><strong>El Templo:</strong> Los invasores **profanarán el Templo** y lo llenarán de escombros.</li>
+    <li><strong>La Profecía:</strong> La **visión** y el **oráculo** de los profetas cesarán.</li>
+    <li><strong>El Lamento:</strong> Los **mercaderes** se lamentarán, y el juicio caerá sobre todos los estratos sociales.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Desesperación</h5>
+<ul>
+    <li><strong>El Terror:</strong> El terror los cubrirá, y se arrojarán la plata y el oro a las calles.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Luto:</strong> El único rito será el **luto y la desesperación**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **tiempo de la gracia** ha terminado, y solo queda el juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio es un evento escatológico en la historia de Israel</span>. La riqueza es inútil cuando la vida está en peligro. </p>
                 
@@ -41411,7 +42612,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Celos:</strong> La reacción de Dios a la profanación de Su morada</li>
                     <li><strong>Hipocresía:</strong> El liderazgo religioso cometiendo pecado a escondidas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión de la Idolatría en el Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profanación de la Gloria</h5>
+<ul>
+    <li><strong>El Rapto:</strong> El Espíritu levanta a Ezequiel y lo lleva a Jerusalén, al **atrio interior del Templo**.</li>
+    <li><strong>La Imagen de los Celos:</strong> El profeta ve un **ídolo en la puerta del Templo** (la imagen de los celos) que provoca la ira de Dios.</li>
+    <li><strong>El Culto Secreto:</strong> Los **ancianos de Israel** adoran **imágenes de reptiles y bestias** en cámaras secretas.</li>
+    <li><strong>El Culto al Sol:</strong> Las mujeres adoran a **Tamuza** (deidad babilónica) y los hombres adoran al **sol** postrados hacia el oriente.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Tamuz</h5>
+<ul>
+    <li><strong>Tamuz:</strong> Dios de la fertilidad babilónico que moría y resucitaba. Las mujeres lo lloraban en un rito pagano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Presencia:</strong> La **Gloria de YHWH** (Shekinah) se mueve de Su trono para presenciar la profanación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **idolatría** es la razón por la que la Gloria de YHWH abandona Su casa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">profanación del culto es el pecado más grave</span>. La adoración de Dios requiere pureza y exclusividad.</p>
                 
@@ -41437,7 +42660,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Matanza:</strong> La ejecución del juicio, comenzando por la casa de Dios</li>
                     <li><strong>Fidelidad:</strong> Solo los que lamentan el pecado son salvados</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Marcación y la Masacre de Jerusalén</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Escriba y la Ejecución</h5>
+<ul>
+    <li><strong>Los Ejecutores:</strong> Dios llama a **seis hombres** con **armas de destrucción** y a un **hombre vestido de lino** (el escriba).</li>
+    <li><strong>La Marcación:</strong> El escriba debe poner una **marca (la letra Tav)** en la frente de los que gimen y claman por las abominaciones.</li>
+    <li><strong>El Mandato:</strong> Los ejecutores deben matar a **todos** los que no tienen la marca, comenzando con los **ancianos** y los **sacerdotes** del Templo.</li>
+    <li><strong>La Sangre:</strong> La masacre debe ocurrir alrededor del **altar** (el lugar santo se profana con sangre).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Marca</h5>
+<ul>
+    <li><strong>Marca:</strong> En la antigüedad, una marca en la frente podía significar **propiedad o protección**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Justicia:</strong> La **justicia** comienza en la casa de Dios. La marca es la **salvación individual** en el juicio corporativo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **compasión por el pecado** es el criterio para la salvación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es selectivo</span>: distingue entre los justos y los impíos. La única salvación es la lamentación por el pecado.</p>
                 
@@ -41463,7 +42708,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fuego de Juicio:</strong> La certeza de la destrucción por las llamas</li>
                     <li><strong>Querubines:</strong> Identificación de los guardianes del trono de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Salida de la Gloria del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Lluvia de Brasas y la Partida</h5>
+<ul>
+    <li><strong>El Manto:</strong> El hombre vestido de lino toma **brasas de fuego** de debajo del trono de querubines y las esparce sobre la ciudad (el fuego de juicio).</li>
+    <li><strong>La Gloria (Shekinah):</strong> La **Gloria de YHWH** se mueve del Templo a la **puerta oriental** y luego se detiene sobre el monte al este (el **Monte de los Olivos**).</li>
+    <li><strong>El Movimiento:</strong> El movimiento de la Merkabá (el carro trono) y los querubines es descrito.</li>
+    <li><strong>La Despedida:</strong> La partida de la Gloria es la **última advertencia** antes de la destrucción total.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: Querubines</h5>
+<ul>
+    <li><strong>Querubines:</strong> Símbolos de la **guardia del santuario** y el trono de Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Silencio:</strong> La partida de la Gloria es la **máxima señal de abandono**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **abandono del Templo** es la razón de su destrucción por Babilonia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">presencia de Dios es móvil y soberana</span>. La partida de la Gloria es la señal final de que el juicio ha comenzado.</p>
                 
@@ -41489,7 +42756,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Olla Hirviendo:</strong> La seguridad de la ciudad es falsa y será consumida</li>
                     <li><strong>Gloria de Dios:</strong> La salida final y total de la presencia de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Final y la Promesa de Retorno</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Corazón de Piedra y el Corazón de Carne</h5>
+<ul>
+    <li><strong>Los Príncipes:</strong> Profecía de juicio contra los **príncipes** que quedan en Jerusalén, por su arrogancia.</li>
+    <li><strong>La Carnicería:</strong> La ciudad será una **olla** donde los habitantes serán **carne** (la carnicería del asedio).</li>
+    <li><strong>La Diáspora:</strong> La dispersión a las naciones no será el fin. Dios será un **"santuario pequeño"** (un Templo portátil) para ellos en el exilio.</li>
+    <li><strong>El Corazón Nuevo:</strong> Dios promete un **corazón de carne** en lugar del **corazón de piedra** (la fuente de la desobediencia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Exilio</h5>
+<ul>
+    <li><strong>Refugio:</strong> La creencia de que solo los que quedan en Jerusalén son los verdaderos justos es refutada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gloria:</strong> La **Gloria de YHWH** que abandonó la ciudad se detiene en el **Monte de los Olivos**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **esperanza de la restauración** es una promesa de transformación interior.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio es un medio para un fin</span>: la regeneración del corazón. La promesa del corazón nuevo es la base de la esperanza mesiánica.</p>
                 
@@ -41515,7 +42804,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ceguera:</strong> La captura y la ceguera del rey</li>
                     <li><strong>Proximidad:</strong> El juicio es inminente y no habrá demora</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Acto Simbólico de la Huida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Mofa y el Cautiverio</h5>
+<ul>
+    <li><strong>La Señal:</strong> Ezequiel debe simular la **huida de un cautivo** ante el pueblo.</li>
+    <li><strong>La Maleta:</strong> Debe preparar su **equipaje para el exilio** y **cargarlo sobre su hombro** de día.</li>
+    <li><strong>El Muro:</strong> Ezequiel debe **hacer un agujero en el muro** y salir por él de noche con el rostro cubierto.</li>
+    <li><strong>El Significado:</strong> La huida de **Sedequías** será así, pero él será **capturado** y llevado a Babilonia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Fuga</h5>
+<ul>
+    <li><strong>Velo:</strong> Cubrir el rostro era una señal de **luto** o que el rey no vería la tierra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Ciego:</strong> La profecía se cumple literalmente en **Sedequías**, quien es cegado y llevado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ceguera espiritual** de los líderes es castigada con la ceguera física.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">desobediencia trae un juicio directo</span>. El rey, el líder espiritual, es el primero en caer, pero su juicio es profetizado en detalle.</p>
                 
@@ -41541,7 +42852,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lodo Suelto:</strong> Cubrir el pecado sin sanarlo</li>
                     <li><strong>Adivinación:</strong> La condena a las prácticas mágicas y esotéricas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio a los Falsos Profetas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Revoque y la Vana Visión</h5>
+<ul>
+    <li><strong>La Queja:</strong> Juicio contra los **falsos profetas** y las **falsas profetisas**.</li>
+    <li><strong>El Muro:</strong> Los falsos profetas son comparados con los que **revoquen el muro con lodo suelto** (una construcción débil).</li>
+    <li><strong>La Lluvia:</strong> Dios enviará una **tempestad, granizo y viento de tempestad** que derribará el muro.</li>
+    <li><strong>Los Velos:</strong> Las falsas profetisas usan **velos mágicos** sobre las cabezas y **brazaletes** para cazar almas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Magia</h5>
+<ul>
+    <li><strong>Velos:</strong> El uso de velos y magia para **adivinar la fortuna** y cazar a la gente.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Palabra:</strong> La **palabra verdadera** es fuerte como el ladrillo; la falsa es débil como el lodo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **falsa seguridad** es peor que la verdad del juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">consuelo sin fundamento en el arrepentimiento</span> es una falsedad que atrae el juicio. La autoridad profética es de Dios, no de la magia humana.</p>
                 
@@ -41567,7 +42900,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justos:</strong> La justicia personal no salvará a la nación pecadora</li>
                     <li><strong>Cuatro Juicios:</strong> La certeza del castigo total sobre la ciudad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Consulta a los Ídolos y el Juicio Inevitable</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Corazón Contaminado y la Intercesión</h5>
+<ul>
+    <li><strong>Los Ídolos:</strong> Los **ancianos de Israel** vienen a Ezequiel para **consultar a YHWH**, pero tienen sus **ídolos** en el corazón.</li>
+    <li><strong>El Juicio Cuádruple:</strong> El juicio es inevitable. Ni siquiera **Noé, Daniel o Job** (los justos) podrían salvar al pueblo.</li>
+    <li><strong>Los Cuatro Castigos:</strong> La tierra es juzgada con **cuatro castigos** (espada, hambre, bestias feroces y pestilencia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Justificación</h5>
+<ul>
+    <li><strong>Justos:</strong> El uso de figuras justas (Noé, Daniel, Job) demuestra la **justicia inalterable** de Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Idolatría:</strong> El **engaño del corazón** anula la sinceridad de la consulta.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **idolatría** es la máxima forma de separación de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia no es transferible</span>. La intercesión no sirve cuando el juicio es inmutable. El corazón debe estar libre de ídolos antes de buscar a Dios.</p>
                 
@@ -41593,7 +42947,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Inutilidad:</strong> La falta de fruto y el rechazo de la Ley</li>
                     <li><strong>Fuego:</strong> El juicio final que consumirá la ciudad inútil</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Jerusalén como la Vid Inútil</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Vid y el Fuego</h5>
+<ul>
+    <li><strong>La Metáfora:</strong> Jerusalén es comparada con la **madera de la vid**.</li>
+    <li><strong>El Valor:</strong> La madera de la vid es **inútil** para construir (es débil).</li>
+    <li><strong>El Juicio:</strong> La única utilidad de la madera es el **fuego**.</li>
+    <li><strong>El Destino:</strong> La ciudad será totalmente consumida por el **fuego**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Vid</h5>
+<ul>
+    <li><strong>Madera:</strong> Otras maderas (cedro, roble) se usaban para la construcción, pero no la vid.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Propósito:</strong> La vid solo era valiosa por su **fruto**, no por su madera.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **falta de fruto** hace que la nación sea inútil para Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe sin fruto es inútil</span> y solo es apta para el juicio. El valor de la nación reside en su obediencia a Dios.</p>
                 
@@ -41619,7 +42995,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vergüenza:</strong> El pecado de Jerusalén es peor que el de Sodoma</li>
                     <li><strong>Pacto Eterno:</strong> La promesa de restauración y perdón final</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Jerusalén, la Niña Abandonada y la Prostituta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Alegoría del Matrimonio y el Oprobio</h5>
+<ul>
+    <li><strong>El Origen:</strong> Jerusalén es descrita como una **niña abandonada** al nacer (origen cananeo), sin ser lavada ni cuidada.</li>
+    <li><strong>El Matrimonio:</strong> Dios la **vistió, la alimentó y se casó** con ella.</li>
+    <li><strong>La Prostitución:</strong> Jerusalén usó su belleza para **prostituirse** con todos sus vecinos (Egipto, Asiria, Babilonia).</li>
+    <li><strong>El Castigo:</strong> Sus amantes la **desnudarán** y la **apedrearán** (el juicio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Joyería</h5>
+<ul>
+    <li><strong>Lujo:</strong> La ciudad se adornó con **oro, plata, seda** y **joyería** para su prostitución.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Sodoma:</strong> El pecado de Jerusalén es **peor que el de Sodoma y Samaria**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de YHWH** al pacto es la prueba de la infidelidad humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">pecado de Israel es la traición a Su esposo</span> (Dios). La grandeza de la gracia es que Dios promete perdón a pesar de la extrema infidelidad.</p>
                 
@@ -41645,7 +43043,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Alianzas Vanas:</strong> La confianza en Egipto que no salvará</li>
                     <li><strong>Renuevo Alto:</strong> La promesa del Mesías davídico</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Parábola de las Águilas y la Vid</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Alegoría Política y el Juicio</h5>
+<ul>
+    <li><strong>El Enigma:</strong> Ezequiel presenta una **parábola** sobre dos **grandes águilas** y una **vid**.</li>
+    <li><strong>Las Águilas:</strong> La **primera águila** (Nabucodonosor) arranca el **cedro** (Joaquín) y lo lleva a Babilonia.</li>
+    <li><strong>La Vid:</strong> La segunda águila (Faraón de Egipto) es buscada por la **vid** (Sedequías) para una alianza.</li>
+    <li><strong>El Cedro:</strong> Dios plantará un **vástago tierno** (el Mesías), el verdadero cedro, en el Monte Santo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: El Pino</h5>
+<ul>
+    <li><strong>Vid:</strong> La vid (Israel) fue llevada a una tierra fértil.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juramento:</strong> Sedequías será castigado por **romper el juramento** con Babilonia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confianza en Egipto** sella el juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">perjurio es un pecado que atrae la ira de Dios</span>. La obediencia se extiende a la fidelidad a los juramentos terrenales.</p>
                 
@@ -41671,7 +43091,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrepentimiento:</strong> El pecador que se arrepiente vivirá</li>
                     <li><strong>Vida:</strong> Dios no se deleita en la muerte del impío</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Responsabilidad Individual (Rompiendo el Proverbio)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Proverbio y la Vida Individual</h5>
+<ul>
+    <li><strong>El Proverbio:</strong> Ezequiel refuta el proverbio popular: **"Los padres comieron las uvas agrias, y a los hijos les dio dentera"**.</li>
+    <li><strong>La Ley:</strong> El alma que **peque, esa morirá**. El hijo no morirá por el pecado del padre.</li>
+    <li><strong>El Justo:</strong> Se detalla la **rectitud del justo** (justicia, no usura, no idolatría).</li>
+    <li><strong>El Arrepentimiento:</strong> Si el **impío se arrepiente**, vivirá. Si el justo peca, morirá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Usura</h5>
+<ul>
+    <li><strong>Usura:</strong> Prestar con **usura e interés** era un pecado social que el justo evitaba.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Elección:</strong> La gente debe **hacer un corazón nuevo** y **vivir**, no morir.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **responsabilidad** es personal, y Dios no se complace en la muerte del impío.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia de Dios es personal e individual</span>. El arrepentimiento es la vía inmediata para la vida, independientemente del pasado.</p>
                 
@@ -41697,7 +43139,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Captura:</strong> Los reyes fueron llevados al exilio y murieron en cautiverio</li>
                     <li><strong>Ruina:</strong> La pérdida de la gloria y el fin de la vid</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Responsabilidad Individual (Rompiendo el Proverbio)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Proverbio y la Vida Individual</h5>
+<ul>
+    <li><strong>El Proverbio:</strong> Ezequiel refuta el proverbio popular: **"Los padres comieron las uvas agrias, y a los hijos les dio dentera"**.</li>
+    <li><strong>La Ley:</strong> El alma que **peque, esa morirá**. El hijo no morirá por el pecado del padre.</li>
+    <li><strong>El Justo:</strong> Se detalla la **rectitud del justo** (justicia, no usura, no idolatría).</li>
+    <li><strong>El Arrepentimiento:</strong> Si el **impío se arrepiente**, vivirá. Si el justo peca, morirá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Usura</h5>
+<ul>
+    <li><strong>Usura:</strong> Prestar con **usura e interés** era un pecado social que el justo evitaba.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Elección:</strong> La gente debe **hacer un corazón nuevo** y **vivir**, no morir.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **responsabilidad** es personal, y Dios no se complace en la muerte del impío.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es el fin de la autoridad terrenal</span>. La monarquía de David ha llegado a su fin temporal, pero la promesa mesiánica persiste.</p>
                 
@@ -41723,7 +43187,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad del Nombre:</strong> Dios actúa para que Su Nombre no sea profanado</li>
                     <li><strong>Desierto:</strong> El exilio es un nuevo desierto de purificación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Rebelión Histórica y el Juramento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Historia de la Idolatría</h5>
+<ul>
+    <li><strong>La Consulta:</strong> Los **ancianos** vienen a Ezequiel para **consultar a YHWH**.</li>
+    <li><strong>El Recuento:</strong> Dios relata la **historia de la rebelión** de Israel desde Egipto (la idolatría en Egipto, el desierto, la Tierra).</li>
+    <li><strong>El Sábado:</strong> La profanación de los **sábados** fue una gran causa del juicio.</li>
+    <li><strong>El Juramento:</strong> Dios promete un **nuevo pacto** donde los hará **pasar bajo la vara** (disciplina) y los **purificará**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Vara</h5>
+<ul>
+    <li><strong>Vara:</strong> Pasar bajo la vara simboliza el **conteo del rebaño** para el diezmo y la disciplina.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Propósito:</strong> Dios actúa **por amor de Su Nombre**, no por el mérito de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gracia de Dios** supera la infidelidad constante.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad de Dios no depende del hombre</span>, sino de Su Nombre. El propósito del exilio es la santificación y la obediencia futura.</p>
                 
@@ -41749,7 +43235,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Adivinación:</strong> El uso de la magia por Nabucodonosor (usada por Dios)</li>
                     <li><strong>Fin de la Corona:</strong> La remoción final del cetro real hasta que venga el Mesías</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Espada Desnuda y el Doble Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Espada de YHWH</h5>
+<ul>
+    <li><strong>La Espada:</strong> El profeta anuncia la **espada de YHWH** (Nabucodonosor) que saldrá **desnuda y afilada** contra Judá.</li>
+    <li><strong>El Suspiro:</strong> Ezequiel debe **suspirar con amargura** y **gemir** ante el pueblo.</li>
+    <li><strong>La Encrucijada:</strong> El rey de Babilonia usa la **adivinación** para decidir si ataca a **Jerusalén** o a **Rabbá** (capital de Amón).</li>
+    <li><strong>La Adivinación:</strong> Nabucodonosor usa **flechas, terafim y el hígado** (prácticas paganas).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Adivinación</h5>
+<ul>
+    <li><strong>Hígado:</strong> La **hepatoscopia** (adivinación por el hígado de un animal) era una práctica babilónica común para la guerra.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Humillación:</strong> La espada consumirá todo **árbol verde** y **árbol seco** (justo e impío).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **mano de Dios** dirige incluso las prácticas paganas para Su juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios se extiende sobre el enemigo</span>, incluso sobre sus prácticas paganas. El juicio es una espada en manos de Dios.</p>
                 
@@ -41775,7 +43283,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corrupción:</strong> La codicia y la falta de ética en el liderazgo</li>
                     <li><strong>Escoria:</strong> La inutilidad del metal contaminado por el pecado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Abominaciones y la Corrupción Total</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Purificación del Crisol</h5>
+<ul>
+    <li><strong>La Sangre:</strong> La ciudad derramó **mucha sangre** y se **contaminó con ídolos**.</li>
+    <li><strong>La Corrupción:</strong> Los **sacerdotes** violaron la Ley y no hicieron diferencia entre lo **santo y lo profano**. Los **príncipes** son como lobos que roban.</li>
+    <li><strong>La Injusticia:</strong> El pueblo oprime al **extranjero, al huérfano y a la viuda**.</li>
+    <li><strong>El Crisol:</strong> La nación es **escoria** (metal impuro) y será purificada en el **crisol** (el juicio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Cohecho</h5>
+<ul>
+    <li><strong>Cohecho:</strong> El **soborno** era el motor de la injusticia social.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Brecha:</strong> Dios buscó un hombre que **hiciera vallado** (cerrara la brecha) en la tierra, pero **no lo halló**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **corrupción del liderazgo** es la razón de la destrucción.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">pecado social y ético</span> es tan grave como la idolatría. La falta de intercesores sella la sentencia de juicio.</p>
                 
@@ -41801,7 +43331,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lujuria de Oholibá:</strong> La alianza política con las naciones paganas</li>
                     <li><strong>Juicio Cierto:</strong> El castigo será proporcional a la lujuria</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oholá y Oholibá (Alegoría de Israel y Judá)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prostitución de las Hermanas</h5>
+<ul>
+    <li><strong>La Alegoría:</strong> Dos hermanas, **Oholá** (Samaria/Israel) y **Oholibá** (Jerusalén/Judá), se prostituyen.</li>
+    <li><strong>El Juicio Histórico:</strong> Oholá se prostituyó con **Asiria** y fue destruida (el exilio del Norte).</li>
+    <li><strong>El Peor Pecado:</strong> Oholibá se prostituyó con **Asiria** y luego con **Babilonia**, superando la maldad de su hermana.</li>
+    <li><strong>El Castigo:</strong> Los amantes de Babilonia la **desnudarán y la avergonzarán**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Lujo</h5>
+<ul>
+    <li><strong>Lujo:</strong> Las hermanas usaron **perfumes, joyería** y **seda** para seducir a sus amantes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Pasión:</strong> Oholibá (Judá) tuvo una **pasión mayor** por los amantes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **idolatría** es la máxima forma de traición al pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">infidelidad espiritual es una traición sexual</span> en la relación de Pacto. El juicio sobre el Norte no fue una advertencia suficiente para el Sur.</p>
                 
@@ -41827,7 +43379,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Muerte de la Esposa:</strong> El signo de que el pueblo no tendrá consuelo</li>
                     <li><strong>Cese del Lamento:</strong> El dolor será tan profundo que la tristeza cesará</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Acto Simbólico de la Olla Hirviente (Inicio del Asedio)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Olla y la Muerte de la Esposa</h5>
+<ul>
+    <li><strong>El Tiempo:</strong> El **día exacto** en que Nabucodonosor comenzó el **asedio de Jerusalén** (589 a.C.).</li>
+    <li><strong>La Olla:</strong> Jerusalén es una **olla hirviente** donde la **carne** (los habitantes) será consumida por el **fuego** (el juicio).</li>
+    <li><strong>El Juicio:</strong> La **herrumbre** (la inmundicia) de la ciudad será consumida.</li>
+    <li><strong>La Esposa:</strong> Dios le quita a Ezequiel el **deleite de sus ojos** (su esposa). Ezequiel tiene prohibido **hacer luto** o derramar lágrimas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Luto</h5>
+<ul>
+    <li><strong>Luto Prohibido:</strong> La **prohibición del luto** es una señal de que el dolor nacional será tan grande que el luto individual será insignificante.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Fin:</strong> El **sufrimiento del profeta** es un espejo del sufrimiento de Jerusalén.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **dolor del exilio** es el castigo final por el pecado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento del profeta es vicario</span>. El dolor de Dios por Su pueblo es un dolor sin consuelo.</p>
                 
@@ -41853,7 +43427,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Venganza:</strong> Dios se venga por Su pueblo y Su Templo</li>
                     <li><strong>Conocimiento:</strong> El juicio es para que las naciones conozcan a YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculos contra Amón, Moab, Edom y Filistea</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio por la Venganza</h5>
+<ul>
+    <li><strong>La Mofa:</strong> Amón se **mofó** de la destrucción de Jerusalén.</li>
+    <li><strong>La Venganza:</strong> Dios promete ejecutar la **venganza** sobre estos enemigos por su **enemistad eterna** contra Israel.</li>
+    <li><strong>Moab:</strong> Juicio contra **Moab** por su **arrogancia**.</li>
+    <li><strong>Edom:</strong> Juicio contra **Edom** (la nación hermana) por su **sed de venganza**.</li>
+    <li><strong>Filistea:</strong> Juicio contra los filisteos por su **crueldad**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Deshonra</h5>
+<ul>
+    <li><strong>Manos y Pies:</strong> El juicio es tan grande que el enemigo será **pisoteado** (humillación).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Soberanía:</strong> El juicio es para que **"sepan que Yo soy YHWH"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sufrimiento de Israel** no es una excusa para la alegría pagana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es universal</span>. Dios defiende a Su pueblo de la burla y la malicia de los enemigos.</p>
                 
@@ -41879,7 +43476,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pescadores:</strong> La ciudad se convertirá en un lugar para redes de pesca</li>
                     <li><strong>Destrucción:</strong> La ruina total de la gran ciudad comercial</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Tiro (El Templo Destruido)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ramera y la Desolación</h5>
+<ul>
+    <li><strong>El Engaño:</strong> Tiro se alegró de la caída de Jerusalén, diciendo: **"¡Ya está quebrada la puerta de los pueblos; a mí se volvió!"** (la ganancia comercial).</li>
+    <li><strong>El Juicio:</strong> Dios enviará a **Nabucodonosor** y otras naciones contra Tiro.</li>
+    <li><strong>El Saqueo:</strong> Tiro será **arrasada como una roca** y convertida en un **lugar para tender redes de pescadores**.</li>
+    <li><strong>La Deshonra:</strong> La **música de sus arpas** cesará.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Comercial: El Puerto</h5>
+<ul>
+    <li><strong>Comercio:</strong> Tiro era un **centro comercial** clave para el Mediterráneo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Fin:</strong> La **gloria de Tiro** y su riqueza serán destruidas para siempre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **prosperidad comercial** es inútil sin la bendición de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">orgullo económico y la avaricia</span> atraen el juicio de Dios. El poderío terrenal no puede resistir la Palabra de Dios.</p>
                 
@@ -41905,7 +43524,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Comercio:</strong> La extensión de su riqueza y poder</li>
                     <li><strong>Hundimiento:</strong> La destrucción total de la ciudad por el mar</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Lamentación por Tiro (La Nave)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Metáfora de la Nave Mercante</h5>
+<ul>
+    <li><strong>La Nave:</strong> El profeta canta una **lamentación** (una canción de duelo) por Tiro, comparándola con una **hermosa nave mercante**.</li>
+    <li><strong>La Tripulación:</strong> Se detalla la **tripulación** (remeros, marineros, calafateadores) de varias naciones.</li>
+    <li><strong>El Mercado:</strong> Se enumeran los **productos y bienes** con los que Tiro comerciaba con todos los países (especias, oro, esclavos, seda).</li>
+    <li><strong>El Hundimiento:</strong> La nave se **hundirá** en el corazón del mar.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Marítimo: El Comercio</h5>
+<ul>
+    <li><strong>Nave:</strong> La nave era el símbolo del **poder económico** de la ciudad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Caída:</strong> Los **mercaderes y los marineros** se lamentarán y serán llenos de temor.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **dependencia de la riqueza** no salva del juicio divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">belleza y la riqueza son efímeras</span>. El orgullo de la vida (las riquezas) es condenado por la Palabra de Dios.</p>
                 
@@ -41931,7 +43572,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Caída Edénica:</strong> La alegoría del Querubín protector (interpretado como el origen del mal)</li>
                     <li><strong>Santificación:</strong> El contraste del juicio sobre Tiro con la santificación de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio al Príncipe de Tiro (El Querubín Caído)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Orgullo y la Sabiduría</h5>
+<ul>
+    <li><strong>El Príncipe Divino:</strong> El **príncipe de Tiro** se enorgullece de su **sabiduría** y se declara **dios** sentado en el **trono de los dioses** en medio del mar.</li>
+    <li><strong>El Querubín:</strong> El profeta compara al príncipe con el **querubín ungido** que caminaba en el **Monte Santo de Dios** (el Edén o el Jardín de Dios).</li>
+    <li><strong>El Pecado:</strong> El pecado es la **soberbia** causada por su **belleza y su comercio**.</li>
+    <li><strong>El Juicio:</strong> El príncipe será **profanado** y el **fuego** saldrá de él para consumirlo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Deificación</h5>
+<ul>
+    <li><strong>Deificación:</strong> El rey se creía un dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Sabiduría Verdadera:</strong> El orgullo del hombre lo lleva a la **usurpación del trono divino**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **juicio** es la caída del orgullo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberbia es el pecado original</span> que lleva a la caída. El hombre no debe usurpar la posición de Dios.</p>
                 
@@ -41957,7 +43620,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Báculo de Caña:</strong> La traición y la inutilidad de Egipto como alianza</li>
                     <li><strong>Recompensa:</strong> La entrega de Egipto a Nabucodonosor por su servicio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Egipto (El Cocodrilo)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Destrucción del Nilo y el Faraón</h5>
+<ul>
+    <li><strong>El Faraón:</strong> El **Faraón** es el **gran dragón** (cocodrilo o Leviatán) que yace en medio de sus ríos (el Nilo).</li>
+    <li><strong>El Nilo:</strong> El Faraón se jacta de que **"Mío es mi río, yo me lo hice"**.</li>
+    <li><strong>El Castigo:</strong> Dios pondrá **garfios** en sus mandíbulas y lo **sacará del Nilo**.</li>
+    <li><strong>El Exilio:</strong> Los egipcios serán **dispersados** a las naciones.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Mitológico: El Cocodrilo</h5>
+<ul>
+    <li><strong>Cocodrilo:</strong> El cocodrilo era un símbolo del **poder del Nilo**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Vara:</strong> El juicio es para que **Israel no confíe más en Egipto** (la caña cascada).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **soberanía de YHWH** se extiende sobre el Nilo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">confianza en el mundo es vana</span>. Egipto, que fue la fuente de la vida, se convertirá en la fuente de la muerte.</p>
                 
@@ -41983,7 +43668,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Brazo Roto:</strong> El quiebre del poder del Faraón</li>
                     <li><strong>Nabucodonosor:</strong> La espada de Dios contra Egipto</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra Egipto (La Espada de Nabucodonosor)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Día de YHWH y el Lamento</h5>
+<ul>
+    <li><strong>La Lucha:</strong> Profecía de que **Nabucodonosor** destruirá a Egipto.</li>
+    <li><strong>La Espada:</strong> La **espada de Nabucodonosor** es el instrumento de YHWH.</li>
+    <li><strong>La Desolación:</strong> Las ciudades de **Menfis y Tafnes** serán desoladas.</li>
+    <li><strong>La Destrucción de Ídolos:</strong> Los **ídolos de Egipto** serán destruidos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Terror</h5>
+<ul>
+    <li><strong>Terror:</strong> El **terror** caerá sobre los habitantes de Cus.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Propósito:</strong> La destrucción es para que el mundo **conozca la fuerza** de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **juicio** es la prueba de que YHWH es el único Dios verdadero.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es severo y público</span>. La humillación de los orgullosos es la manifestación de Su poder.</p>
                 
@@ -42009,7 +43716,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Advertencia:</strong> El juicio sobre Asiria es una lección para Egipto</li>
                     <li><strong>Soberbia:</strong> La causa de la caída de las naciones</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Faraón, el Cedro y el Seol</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Alegoría del Cedro del Líbano</h5>
+<ul>
+    <li><strong>El Cedro:</strong> El **Faraón** y su multitud son comparados con el **cedro del Líbano** (símbolo de orgullo y grandeza).</li>
+    <li><strong>La Altura:</strong> El cedro era **alto** y **frondoso**, pero fue **derribado** por YHWH.</li>
+    <li><strong>El Seol:</strong> El cedro derribado es llevado al **Seol**, donde todos los demás **árboles grandes** (reyes) lo reciben.</li>
+    <li><strong>La Destrucción:</strong> Su caída trae la **destrucción** del jardín del Edén.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Mitológico: El Árbol Cósmico</h5>
+<ul>
+    <li><strong>Árbol:</strong> El cedro es el **árbol cósmico** que toca el cielo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Humillación:</strong> La **grandeza humana** no tiene valor ante la soberanía de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **orgullo de Egipto** es destruido para siempre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">historia es una maestra del juicio de Dios</span>. El orgullo es la raíz de la caída de toda nación.</p>
                 
@@ -42035,7 +43764,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Seol:</strong> El lugar de los muertos y la humillación de Egipto</li>
                     <li><strong>Incumplimiento:</strong> La vergüenza de yacer con los incircuncisos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Lamentación y el Pozo de la Destrucción</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Red y el Lamento</h5>
+<ul>
+    <li><strong>La Pesca:</strong> El Faraón es atrapado en la **red de Dios** y arrastrado a la montaña.</li>
+    <li><strong>La Humillación:</strong> El Faraón es arrojado al **pozo** (el Seol) con los **incircuncisos** (una gran deshonra).</li>
+    <li><strong>El Terror:</strong> Las naciones **tiemblan** al oír la caída de Egipto.</li>
+    <li><strong>La Espada:</strong> El profeta debe cantar una **lamentación** (una canción de duelo) por la caída.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Red</h5>
+<ul>
+    <li><strong>Red:</strong> La red era una metáfora de la **captura y el cerco**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La **caída de Egipto** es la prueba de la justicia de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **grandeza de la Tierra** es vana ante la eternidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es un descenso a la vergüenza y el anonimato</span>. El poder terrenal no puede escapar al destino final.</p>
                 
@@ -42061,7 +43812,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Responsabilidad:</strong> El hombre es juzgado por su último acto de justicia o impiedad</li>
                     <li><strong>Liberación de la Mudez:</strong> El profeta comienza a predicar directamente</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Atalaya y la Responsabilidad Individual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Deber del Atalaya y la Mudez</h5>
+<ul>
+    <li><strong>El Atalaya:</strong> Ezequiel es recordado de su rol como **atalaya** (vigilante). | La **responsabilidad individual** es la clave.</li>
+    <li><strong>La Justicia:</strong> La **justicia del justo** no lo salvará si peca; la **maldad del impío** será perdonada si se arrepiente.</li>
+    <li><strong>La Queja:</strong> La queja de que **"El camino del Señor no es recto"** (la duda sobre la justicia de Dios).</li>
+    <li><strong>El Habla:</strong> La **mudez** de Ezequiel es quitada cuando recibe noticias de la caída de Jerusalén.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Escucha</h5>
+<ul>
+    <li><strong>Oír:</strong> El pueblo oye las palabras de Ezequiel, pero **no las practica**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Corazón:</strong> La **obediencia** es la prueba de la sinceridad del arrepentimiento.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero profeta** es el que advierte sobre la responsabilidad personal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">misericordia de Dios está disponible después del juicio</span>. La responsabilidad del creyente es el arrepentimiento y la advertencia a los demás.</p>
                 
@@ -42087,7 +43860,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> Dios asume el rol de Juez de Su rebaño</li>
                     <li><strong>Siervo David:</strong> La promesa del Mesías como el Buen Pastor</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Juicio contra los Pastores de Israel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio y el Pastor Verdadero</h5>
+<ul>
+    <li><strong>Los Pastores:</strong> Juicio contra los **pastores de Israel** (líderes) que se apacientan a sí mismos.</li>
+    <li><strong>El Deber:</strong> Los pastores no **curaron a las enfermas** ni **buscaron a las perdidas**.</li>
+    <li><strong>El Redil:</strong> Dios **sacará a Sus ovejas** de las manos de los pastores y las llevará a Su redil.</li>
+    <li><strong>David:</strong> Dios levantará a Su siervo **David** (el Mesías) como el **único Pastor** sobre Su rebaño.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Pastor</h5>
+<ul>
+    <li><strong>Pastor:</strong> El pastor era el líder social y protector.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> Dios juzgará **entre oveja y oveja** y entre los **carneros y los machos cabríos**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es la fuente del verdadero liderazgo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad del liderazgo debe ser un servicio</span>. El Mesías es la única fuente de verdadero liderazgo.</p>
                 
@@ -42113,7 +43908,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Desolación:</strong> El castigo será la ruina perpetua de Edom</li>
                     <li><strong>Venganza:</strong> Dios actuará por la casa de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculo contra el Monte Seir (Edom)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Venganza por el Templo</h5>
+<ul>
+    <li><strong>Monte Seir:</strong> Juicio contra el **Monte Seir** (Edom), por su **odio eterno** y por **alegrarse** de la destrucción de Judá.</li>
+    <li><strong>La Espada:</strong> El juicio vendrá con la **espada** y la **desolación**.</li>
+    <li><strong>El Juicio:</strong> Edom es juzgado por decir: **"Las dos naciones y las dos tierras serán mías"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Geográfico: La Montaña</h5>
+<ul>
+    <li><strong>Seir:</strong> El Monte Seir es el lugar de los edomitas, la nación hermana.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Conocimiento:</strong> El juicio es para que Edom **sepa** que YHWH ha oído toda su burla.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **odio fraternal** es castigado con la destrucción total.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">odio y la malicia son pecados que atraen el juicio eterno</span>. El juicio sobre Edom es la garantía de la paz futura de Israel.</p>
                 
@@ -42139,7 +43955,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Espíritu Nuevo:</strong> La promesa de la regeneración interna</li>
                     <li><strong>Nombre de Dios:</strong> La motivación de la restauración no es el mérito humano</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Restauración de los Montes de Israel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Tierra Prometida y la Humillación</h5>
+<ul>
+    <li><strong>Los Montes:</strong> Profecía de que los **montes de Israel** florecerán de nuevo.</li>
+    <li><strong>La Profanación:</strong> Israel profanó la Tierra con su **conducta** y su **idolatría**.</li>
+    <li><strong>El Nombre:</strong> Dios restaurará la Tierra **por amor de Su Nombre**, no por el mérito de Israel.</li>
+    <li><strong>El Corazón Nuevo:</strong> Dios dará un **corazón nuevo** y un **espíritu nuevo** y quitará el corazón de piedra.</li>
+    <li><strong>El Gozo:</strong> La tierra será como el **jardín del Edén**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Desperdicio</h5>
+<ul>
+    <li><strong>Desperdicio:</strong> Las naciones se burlan de la tierra desolada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Limpieza:</strong> La **restauración** es un acto de **purificación** y **santificación** divina.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gracia** es la base de la restauración.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación es un acto de gracia soberana</span>. La regeneración es necesaria para la obediencia y la santidad.</p>
                 
@@ -42165,7 +44004,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resurrección:</strong> El poder de la Palabra de Dios para resucitar a la nación</li>
                     <li><strong>Unificación:</strong> Los dos palos (Israel y Judá) serán uno en el Mesías</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión del Valle de los Huesos Secos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Resurrección Nacional y la Vida</h5>
+<ul>
+    <li><strong>El Valle:</strong> Ezequiel es llevado por el Espíritu a un **valle lleno de huesos secos** (el símbolo de la desesperanza de Israel).</li>
+    <li><strong>El Aliento (**Ruach**):</strong> La **Palabra de Dios** hace que los huesos se junten, se cubran de tendones y carne, y el **Espíritu (ruach)** entra en ellos.</li>
+    <li><strong>El Significado:</strong> Es la **resurrección de Israel** (el retorno del exilio).</li>
+    <li><strong>El Pacto:</strong> Dios establece un **Pacto de Paz eterno** y Su siervo **David** será su rey.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Seol</h5>
+<ul>
+    <li><strong>Huesos:</strong> Los huesos secos eran un símbolo de la **muerte total** y el fin de la esperanza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Vida:</strong> La **Palabra de Dios** tiene el poder de crear vida de la muerte.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **retorno del exilio** será un milagro de vida y resurrección.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Palabra de Dios tiene poder de vida y resurrección</span>. La desesperación es vana, pues Dios puede restaurar lo imposible.</p>
                 
@@ -42191,7 +44052,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Montes:</strong> El lugar de la derrota final de Gog</li>
                     <li><strong>Botín:</strong> El deseo del enemigo de saquear al pueblo de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Profecía contra Gog (El Enemigo Final)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Coalición y el Fin de la Historia</h5>
+<ul>
+    <li><strong>Gog de Magog:</strong> Profecía de **Gog**, el enemigo que atacará a Israel **"en los postreros días"**.</li>
+    <li><strong>La Coalición:</strong> Gog reunirá una **gran coalición** de naciones.</li>
+    <li><strong>El Propósito:</strong> Israel vivirá en **seguridad y paz**, lo que atraerá el **saqueo** de Gog.</li>
+    <li><strong>El Juicio:</strong> El juicio de Dios caerá sobre Gog con **granizo, fuego y azufre**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Armamento</h5>
+<ul>
+    <li><strong>Armamento:</strong> Gog vendrá con **escudo, lanza y caballería**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gloria:</strong> El juicio es para que **"las naciones me conozcan"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **protección de Dios** a Su pueblo es la prueba de Su poder.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">protección de Dios es final y total</span> en los últimos días. La victoria final no es por la fuerza de Israel, sino por la acción de Dios.</p>
                 
@@ -42217,7 +44100,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Siete Meses:</strong> El tiempo de la purificación de la tierra</li>
                     <li><strong>Espíritu:</strong> El derramamiento del Espíritu sobre la casa de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Final sobre Gog y el Entierro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Purificación y el Holocausto</h5>
+<ul>
+    <li><strong>La Destrucción:</strong> El juicio de Dios es tan grande que **siete meses** serán necesarios para **enterrar** a los muertos de Gog.</li>
+    <li><strong>El Fuego:</strong> Las **armas de Gog** se usarán como **combustible** por siete años.</li>
+    <li><strong>El Holocausto:</strong> Las aves y las bestias del campo tendrán un **sacrificio/banquete** de la carne de Gog.</li>
+    <li><strong>El Final:</strong> Dios **reunirá a Su casa** y **no esconderá más Su rostro**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Las Armas</h5>
+<ul>
+    <li><strong>Armas:</strong> Los escudos, las lanzas y las espadas servirán de **leña**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Reconocimiento:</strong> La **Gloria de Dios** se manifestará a todas las naciones.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **fin del juicio** es el regreso de la presencia de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">poder de Dios se manifiesta en la aniquilación del enemigo</span>. La presencia del Espíritu es la señal final de la restauración.</p>
                 
@@ -42243,7 +44148,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Puertas:</strong> El acceso al Templo y sus cámaras</li>
                     <li><strong>Orden:</strong> El diseño estricto y santo de la nueva estructura</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión del Nuevo Templo (Introducción)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Visión y el Medidor</h5>
+<ul>
+    <li><strong>El Tiempo:</strong> El **año 25 del exilio**, el día exacto de la caída de la ciudad.</li>
+    <li><strong>El Rapto:</strong> Ezequiel es llevado por la **mano de Dios** al monte más alto.</li>
+    <li><strong>El Hombre de Bronce:</strong> Un hombre con una **cuerda de lino** y una **caña de medir** (el ángel guía).</li>
+    <li><strong>La Caña:</strong> La caña de medir era la **medida básica** para la arquitectura.</li>
+    <li><strong>La Puerta Oriental:</strong> La medición de la **puerta oriental** y sus cámaras.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: Medidas</h5>
+<ul>
+    <li><strong>Medida:</strong> La precisión de las medidas es la clave para el diseño.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Templo Futuro:</strong> El Templo no es construido por manos humanas, sino **diseñado por Dios**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **esperanza de la restauración** es la visión de un Templo perfecto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">plan de Dios para la restauración es metódico y perfecto</span>. La santidad se refleja en el orden del culto.</p>
                 
@@ -42269,7 +44197,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Querubines y Palmeras:</strong> La decoración edénica del Santuario</li>
                     <li><strong>Simetría:</strong> La belleza y la perfección del diseño divino</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Medición del Santuario</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Lugar Santísimo y el Altar de Madera</h5>
+<ul>
+    <li><strong>La Medición:</strong> La medición del **Lugar Santo** y el **Lugar Santísimo**.</li>
+    <li><strong>La Estructura:</strong> El Templo tiene **cámaras laterales** y **muros gruesos**.</li>
+    <li><strong>El Altar de Madera:</strong> El altar para el incienso es de **madera** (simbolizando el altar de incienso del Templo).</li>
+    <li><strong>Los Querubines:</strong> La decoración de las paredes incluye **querubines y palmeras**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: El Diseño</h5>
+<ul>
+    <li><strong>Diseño:</strong> El Templo sigue el **diseño tripartito** del Tabernáculo de Moisés y del Templo de Salomón.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gloria:</strong> La **precisión** del diseño garantiza la pureza del culto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **belleza** del Templo refleja la santidad de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Nuevo Templo es el retorno al Edén</span>. El culto restaurado es un regreso al Paraíso perdido.</p>
                 
@@ -42295,7 +44245,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vestiduras:</strong> La santidad y la pureza requeridas para el servicio</li>
                     <li><strong>Límite:</strong> La separación estricta entre lo santo y lo profano</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Cámaras Sacerdotales y la Separación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Separación y la Santidad</h5>
+<ul>
+    <li><strong>Las Cámaras:</strong> La medición de las **cámaras sacerdotales** (donde los sacerdotes comen y guardan sus vestiduras).</li>
+    <li><strong>La Santidad:</strong> Las cámaras sirven para que los sacerdotes se **cambien de ropa** antes de ir al atrio (separación entre lo santo y lo profano).</li>
+    <li><strong>El Muro:</strong> El **muro exterior** que rodea el Templo para **separar** el Lugar Santo del Lugar Profano.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: Vestimenta</h5>
+<ul>
+    <li><strong>Vestidura:</strong> Los sacerdotes no pueden ministrar con su **vestimenta secular**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Pureza:</strong> La **pureza ritual** se mantiene al más alto nivel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vida del sacerdote** es de total santidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad de Dios exige separación y pureza</span>. El servicio a Dios requiere preparación y reverencia.</p>
                 
@@ -42321,7 +44292,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad:</strong> El Templo será un lugar de absoluta pureza</li>
                     <li><strong>Altar:</strong> Las ordenanzas para la consagración del altar</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Regreso de la Gloria y el Altar</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Shekiná y la Ley del Altar</h5>
+<ul>
+    <li><strong>El Regreso:</strong> La **Gloria de YHWH** (Shekinah) **regresa** al Templo por la **puerta oriental** (el mismo camino por el que se fue).</li>
+    <li><strong>El Fuego:</strong> La Gloria llena el Templo, y la **voz de Dios** es como el **estruendo de muchas aguas**.</li>
+    <li><strong>El Trono:</strong> El Templo es el **"lugar de Mi trono"** y el **"estrado de Mis pies"**.</li>
+    <li><strong>El Altar:</strong> La medición del **Altar de Sacrificio** y sus niveles.</li>
+    <li><strong>La Consagración:</strong> El altar debe ser **consagrado** con sacrificios de siete días.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Sacerdotal: Sacrificio</h5>
+<ul>
+    <li><strong>Consagración:</strong> Los sacerdotes deben ofrecer **sacrificios** para limpiar el altar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Presencia:</strong> La **Gloria de Dios** habitará en medio de Israel para siempre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **retorno de la Shekiná** es la culminación de la profecía.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">presencia de Dios es la vida de la nación</span>. El retorno de la Gloria es la garantía de la restauración y la paz.</p>
                 
@@ -42347,7 +44341,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sacerdocio Sadocita:</strong> La promesa de un linaje sacerdotal fiel</li>
                     <li><strong>Pureza:</strong> Las leyes de pureza para el servicio en el Templo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Príncipe y el Sacerdocio Sadocita</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Puerta Cerrada y la Ley Sacerdotal</h5>
+<ul>
+    <li><strong>La Puerta:</strong> La **puerta oriental** debe **permanecer cerrada** después de que la Gloria de YHWH entró por ella.</li>
+    <li><strong>El Príncipe:</strong> El **Príncipe** (líder civil) puede sentarse en la puerta, pero no el pueblo.</li>
+    <li><strong>El Sacerdocio:</strong> Solo los **hijos de Sadoc** (descendientes de Leví) pueden ministrar.</li>
+    <li><strong>La Ley:</strong> Los sacerdotes deben **enseñar al pueblo** a diferenciar entre lo **santo y lo profano**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Herencia</h5>
+<ul>
+    <li><strong>Herencia:</strong> Los sacerdotes **no reciben herencia** de tierra; YHWH es su herencia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Santidad:</strong> La **santidad** es la ley máxima en el Templo futuro.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **pureza del culto** es la clave para mantener la presencia de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad de Dios impone una separación estricta</span>. El sacerdocio es un llamado a la pureza y la fidelidad.</p>
                 
@@ -42374,7 +44390,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Equidad:</strong> La condena a la opresión y la balanza falsa</li>
                     
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Tierra Santa y el Sostén del Príncipe</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La División de la Tierra y las Ofrendas</h5>
+<ul>
+    <li><strong>La Ofrenda Santa:</strong> Una **porción santa de la tierra** (cuadrada) será para el Templo y los sacerdotes (el centro de la Tierra).</li>
+    <li><strong>El Príncipe:</strong> El **Príncipe** recibe una porción de la tierra para sí (sostén civil).</li>
+    <li><strong>El Peso:</strong> Se establecen **pesos y medidas justas** (el siclo, la efá y el bato).</li>
+    <li><strong>El Sacrificio:</strong> El Príncipe debe proveer **holocaustos y sacrificios** para las fiestas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Las Medidas</h5>
+<ul>
+    <li><strong>Medidas:</strong> El **fraude** en las medidas era un pecado social que el Templo prohíbe.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Justicia:</strong> La **justicia social** se basa en el **uso honesto** de las medidas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **santidad** debe impregnar la economía.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia social y la ética en el gobierno</span> son necesarias para la nueva era. La tierra es propiedad de Dios.</p>
                 
@@ -42400,7 +44438,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Herencia:</strong> La protección de la propiedad privada de los ciudadanos</li>
                     <li><strong>Justicia:</strong> El Príncipe debe evitar la opresión económica</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Culto del Príncipe y las Puertas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Culto Público y la Herencia</h5>
+<ul>
+    <li><strong>El Príncipe:</strong> El Príncipe debe participar en el **culto público** en los sábados y las lunas nuevas.</li>
+    <li><strong>La Puerta:</strong> La **puerta oriental** se abrirá solo en el **Sábado** y el día de la **Luna Nueva**.</li>
+    <li><strong>Los Sacrificios:</strong> Se detalla el **tipo de sacrificios** que debe ofrecer el Príncipe.</li>
+    <li><strong>La Herencia:</strong> El Príncipe puede dar su herencia a sus **hijos** o a sus **siervos** (la ley de la herencia real).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Sacrificio</h5>
+<ul>
+    <li><strong>Comida:</strong> El pueblo debe **comer** delante de YHWH en el atrio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Rey y el Culto:</strong> El **Príncipe** es un adorador, no el oficiante (separación del poder real y el sacerdotal).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad civil** se somete al orden del Templo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">culto a Dios es constante y ordenado</span>. La ley de Dios busca la protección de los derechos de los ciudadanos.</p>
                 
@@ -42426,7 +44486,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mar Muerto:</strong> La sanidad de la esterilidad por la presencia de Dios</li>
                     <li><strong>Sanidad:</strong> Los árboles que dan fruto y sanidad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Río del Templo y la Sanidad de la Tierra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Río de Vida y la Tierra Santa</h5>
+<ul>
+    <li><strong>El Río:</strong> Un **río de agua de vida** sale de debajo del **umbral del Templo** (el Lugar Santísimo).</li>
+    <li><strong>La Medición:</strong> El río crece hasta el tobillo, la rodilla, los lomos y finalmente un **río caudaloso** que no se puede cruzar.</li>
+    <li><strong>El Mar Muerto:</strong> El agua sana las **aguas del Mar Muerto** (el mar Salado), y habrá **pescadores** en él.</li>
+    <li><strong>Los Árboles:</strong> Árboles frutales a la orilla del río, cuyas **hojas no caerán** y cuyo **fruto** será medicina.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Geográfico: El Mar Muerto</h5>
+<ul>
+    <li><strong>Mar Muerto:</strong> El milagro de convertir el agua salada en agua dulce es un signo de la **nueva creación**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Edén:</strong> La **sanidad** del Templo revierte la maldición del Edén.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vida de la Tierra** fluye del Santuario de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">presencia de Dios es la fuente de vida eterna y sanidad</span>. El río de Dios fluye para restaurar lo que está muerto.</p>
                 
@@ -42452,7 +44534,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oblación:</strong> El Templo y su porción central de la tierra</li>
                     <li><strong>Jehová Shama:</strong> El nombre de la ciudad y el clímax de la visión</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La División de la Tierra y la Ciudad Nueva</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Las Tribus y el Templo</h5>
+<ul>
+    <li><strong>La División:</strong> La Tierra se divide entre las **doce tribus** con **porciones iguales**.</li>
+    <li><strong>La Porción del Príncipe:</strong> El Príncipe tiene una porción al lado de la porción santa.</li>
+    <li><strong>El Nombre de la Ciudad:</strong> La nueva ciudad se llamará **"YHWH-Sama"** ("YHWH está allí").</li>
+    <li><strong>Las Puertas:</strong> La ciudad tiene **doce puertas** (tres por cada lado) con los **nombres de las tribus**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Igualdad</h5>
+<ul>
+    <li><strong>Tierras:</strong> La **división igualitaria** de la tierra entre todas las tribus, sin importar el tamaño.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Presencia:</strong> La **presencia de Dios** es el centro de la nueva geografía y la nueva ciudad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El libro cierra con la **visión final** de la morada de Dios con Su pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">presencia de Dios es el fundamento del Reino</span>. La herencia se basa en el orden divino.</p>
                 
@@ -42480,7 +44584,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sabiduría Divina:</strong> El entendimiento dado por Dios, superior a la sabiduría babilónica</li>
                     <li><strong>Dominio:</strong> Dios es soberano sobre el rey Nabucodonosor</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Exilio y la Asimilación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prueba de la Dieta y la Sabiduría</h5>
+<ul>
+    <li><strong>El Exilio:</strong> Daniel, Ananías, Misael y Azarías son llevados cautivos en la **primera deportación** (605 a.C.) por Nabucodonosor.</li>
+    <li><strong>Asimilación:</strong> Se les da nombres **teofóricos babilónicos** (Beltasar, Sadrac, Mesac y Abednego) para asimilarlos culturalmente.</li>
+    <li><strong>La Dieta:</strong> Daniel rechaza la **comida del rey** (probablemente no kosher o consagrada a ídolos) y propone una dieta de **legumbres y agua** para mantener la pureza.</li>
+    <li><strong>El Resultado:</strong> Después de diez días, se demuestra que son **más robustos y sabios** que los demás jóvenes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Cultural: Los Nombres Babilónicos</h5>
+<ul>
+    <li><strong>Beltasar:</strong> "Que Bel proteja su vida".</li>
+    <li><strong>Sadrac:</strong> "Mandato de Aku" (dios lunar).</li>
+    <li><strong>Mesac:</strong> "El que pertenece a Aku".</li>
+    <li><strong>Abednego:</strong> "Siervo de Nebo" (dios de la sabiduría).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fidelidad:</strong> La **fidelidad a las leyes de Dios** (kashrut) resulta en bendición, incluso en tierra pagana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder intelectual** de Daniel proviene de Dios, no del sistema babilónico.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad en la disciplina</span> es la clave para la sabiduría. El creyente puede vivir en el mundo sin ser del mundo.</p>
                 
@@ -42506,7 +44635,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reino Mesiánico:</strong> La piedra cortada no con mano (el Reino de Dios)</li>
                     <li><strong>Soberanía:</strong> Dios es el que quita y pone a los reyes</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sueño de Nabucodonosor y la Estatua</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Revelación de los Reinos</h5>
+<ul>
+    <li><strong>El Sueño:</strong> Nabucodonosor tiene un sueño que lo perturba, pero **olvida el contenido**. Exige a sus magos que **revelen el sueño y su interpretación**.</li>
+    <li><strong>El Juicio:</strong> Los sabios son incapaces y el rey decreta su **muerte**.</li>
+    <li><strong>La Estatua:</strong> Daniel revela el sueño: una gran estatua con **cabeza de oro**, **pecho y brazos de plata**, **vientre y muslos de bronce**, y **piernas de hierro** con **pies de hierro y barro cocido**.</li>
+    <li><strong>La Piedra:</strong> Una **piedra** cortada **sin mano** hiere los pies y desmenuza toda la estatua.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Cultural: El Coloso</h5>
+<ul>
+    <li><strong>Interpretación:</strong> La interpretación de sueños y el uso de la **necromancia/astrología** eran prácticas clave en la corte.</li>
+    <li><strong>Los Imperios:</strong> La estatua representa una **sucesión de imperios** (tradicionalmente Babilonia, Medo-Persia, Grecia, Roma/Reinos divididos).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Reino de Dios:</strong> La **piedra** simboliza el **Reino de Dios** que reemplazará a todos los reinos humanos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **revelación divina** es superior a toda sabiduría humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Reino de Dios triunfará sobre todo poder terrenal</span>. La historia es un camino lineal dirigido por Dios hacia el establecimiento final de Su Reino.</p>
                 
@@ -42532,7 +44684,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>El Cuarto Hombre:</strong> La presencia de Dios en la prueba</li>
                     <li><strong>Fidelidad:</strong> La obediencia es incondicional ("si no, sepas")</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Horno de Fuego</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Fidelidad y la Adoración del Estado</h5>
+<ul>
+    <li><strong>El Ídolo:</strong> Nabucodonosor erige una **imagen de oro** de 90 pies de altura en la llanura de Dura y ordena a todos que la adoren.</li>
+    <li><strong>La Música:</strong> La orden de postrarse se da al sonido de **instrumentos musicales** (cuernos, flautas, arpas, etc.).</li>
+    <li><strong>La Resistencia:</strong> Sadrac, Mesac y Abednego **se niegan** a adorar la imagen.</li>
+    <li><strong>El Horno:</strong> Son arrojados a un **horno de fuego** calentado siete veces más de lo usual, pero un **cuarto hombre** (el "Hijo de los dioses") camina con ellos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Ejecución Real</h5>
+<ul>
+    <li><strong>El Horno:</strong> El horno de fuego era una **pena capital** babilónica (el castigo por traición o desobediencia).</li>
+    <li><strong>El Desafío:</strong> Es un **desafío directo** a la soberanía religiosa del imperio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Testimonio:</strong> La **liberación milagrosa** de los tres hombres obliga al rey a reconocer al Dios de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obediencia a Dios** es suprema sobre cualquier decreto humano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad a Dios es incondicional</span> y es recompensada con la presencia divina. Dios es el único que puede librar del fuego del juicio.</p>
                 
@@ -42558,7 +44733,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Locura (Juicio):</strong> La humillación del rey soberbio</li>
                     <li><strong>Dominio:</strong> Dios es el Soberano de todos los reinos terrenales</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Locura de Nabucodonosor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Árbol Caído y el Juicio</h5>
+<ul>
+    <li><strong>El Sueño:</strong> Nabucodonosor sueña con un **gran árbol** que toca el cielo, pero un **vigilante celestial** decreta que sea cortado.</li>
+    <li><strong>La Locura:</strong> El decreto: El rey será **expulsado** de entre los hombres y vivirá **siete tiempos** (años) con las bestias, comiendo hierba.</li>
+    <li><strong>El Cumplimiento:</strong> La profecía se cumple. El rey sufre una forma de **locura bestial** (clínicamente: boantropía/licantropía).</li>
+    <li><strong>El Reconocimiento:</strong> Tras siete años, el rey recupera la razón y **bendice al Altísimo**, reconociendo Su soberanía.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Vigilantes</h5>
+<ul>
+    <li><strong>Vigilantes:</strong> El concepto de **ángeles/seres celestiales** que observan y ejecutan el juicio de Dios (un concepto que se desarrolla en la literatura intertestamentaria).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Soberanía:</strong> El **orgullo** del rey lo lleva a la degradación; la **humillación** lo lleva a la fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **reino humano** es nada comparado con el Reino Celestial.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humillación precede al conocimiento de Dios</span>. El hombre es solo una bestia si no reconoce la soberanía divina.</p>
                 
@@ -42584,7 +44781,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mene Tekel Uparsin:</strong> El juicio final ("Pesado, Pesado, Pesado y Dividido")</li>
                     <li><strong>Fin de Babilonia:</strong> La caída del imperio por la profanación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Festín de Belsasar y la Caída de Babilonia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profanación y la Escritura en la Pared</h5>
+<ul>
+    <li><strong>El Festín:</strong> El rey **Belsasar** (co-regente o hijo de Nabonido) celebra un gran banquete con mil príncipes.</li>
+    <li><strong>La Blasfemia:</strong> Belsasar ordena usar los **vasos de oro y plata** que Nabucodonosor había tomado del Templo de Jerusalén para beber vino.</li>
+    <li><strong>La Mano:</strong> Aparece una **mano** que escribe una **inscripción en la pared**.</li>
+    <li><strong>Daniel:</strong> Daniel es llamado para **interpretar** la misteriosa escritura: **MENE, MENE, TEKEL, UPARSIN** ("Contado, Pesado, Dividido").</li>
+    <li><strong>El Juicio:</strong> El mismo día, **Darío el Medo** toma el reino.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Caída</h5>
+<ul>
+    <li><strong>Mene:</strong> Tu reino ha sido **contado** y terminado.</li>
+    <li><strong>Tekel:</strong> Has sido **pesado** en la balanza y hallado falto.</li>
+    <li><strong>Uparsin/Peres:</strong> Tu reino ha sido **dividido** y dado a los Medos y a los Persas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Santidad:</strong> La **profanación** de los vasos sagrados sella el juicio final.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **arrogancia** del rey conduce a la destrucción inmediata.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es rápido y medido</span>. La profanación de lo santo es un pecado que atrae la condenación final.</p>
                 
@@ -42610,7 +44832,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Conspiración:</strong> Los celos contra el justo</li>
                     <li><strong>Intervención Angélica:</strong> Dios salva a Daniel en el foso</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Daniel en el Foso de los Leones</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley Inmutable y el Oráculo</h5>
+<ul>
+    <li><strong>El Gobierno:</strong> **Darío el Medo** establece 120 sátrapas y tres presidentes (Daniel era uno de ellos).</li>
+    <li><strong>La Conspiración:</strong> Los sátrapas, celosos de Daniel, idean una **ley irrevocable** (decreto inmutable).</li>
+    <li><strong>El Decreto:</strong> Prohibición de **orar a cualquier dios u hombre** que no sea el rey por treinta días.</li>
+    <li><strong>El Foso:</strong> Daniel es arrojado al **foso de los leones** por orar **tres veces al día** hacia Jerusalén.</li>
+    <li><strong>La Liberación:</strong> Un **ángel** cierra la boca de los leones.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Ley Medo-Persa</h5>
+<ul>
+    <li><strong>Inmutable:</strong> La **ley de los Medos y de los Persas** no podía ser revocada ni por el rey (un contraste con el poder absoluto de Babilonia).</li>
+    <li><strong>Foso:</strong> El foso de los leones era un medio de **ejecución real** y una prueba de la deidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fidelidad:</strong> El **juicio** cae sobre los acusadores y sus familias; la **fe** de Daniel es recompensada con un nuevo decreto en favor de YHWH.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **oración constante** es el mayor acto de desafío contra la tiranía.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obediencia a Dios es incondicional</span> y superior a la ley terrenal. Dios defiende al que le honra.</p>
                 
@@ -42636,7 +44882,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Divino:</strong> El Anciano de Días juzga los reinos</li>
                     <li><strong>Hijo del Hombre:</strong> El Mesías recibe el dominio universal y eterno</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión de las Cuatro Bestias (El "Hijo de Hombre")</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Mar de los Pueblos y el Trono de Juicio</h5>
+<ul>
+    <li><strong>El Tiempo:</strong> Durante el reinado de **Belsasar** (la primera visión apocalíptica).</li>
+    <li><strong>Las Bestias:</strong> Cuatro **bestias monstruosas** suben del mar (el caos/las naciones): un **león con alas de águila**, un **oso**, un **leopardo con cuatro alas** y una **cuarta bestia** terrible con diez cuernos.</li>
+    <li><strong>El Cuerno Pequeño:</strong> Un **cuerno pequeño** sube entre los diez, que **habla grandezas** y persigue a los santos.</li>
+    <li><strong>El Juicio:</strong> La visión del **Anciano de Días** (Dios) en Su trono de fuego y el juicio de las bestias.</li>
+    <li><strong>El Hijo de Hombre:</strong> Viene uno semejante a un **Hijo de Hombre** a recibir el reino eterno.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Apocalíptico: El Hijo de Hombre</h5>
+<ul>
+    <li><strong>El Título:</strong> El "Hijo de Hombre" (Bar-Enosh) es un **título mesiánico** que representa la soberanía celestial.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Los Reinos:</strong> La **soberanía bestial** y la **soberanía eterna** del Hijo de Hombre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad final** no está en la Tierra, sino en el Cielo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Reino de Dios es eterno y superará a todos los imperios terrenales</span>. El Mesías es el único heredero legítimo del dominio mundial.</p>
                 
@@ -42662,7 +44931,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Antíoco Epífanes:</strong> La figura que profanará el Santuario</li>
                     <li><strong>Tiempo Profético:</strong> La visión es para el tiempo del fin</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión del Carnero y el Macho Cabrío</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profanación del Santuario</h5>
+<ul>
+    <li><strong>Los Animales:</strong> Un **carnero** con dos cuernos (Medos y Persas) es atacado y derrotado por un **macho cabrío** con un gran cuerno (Alejandro Magno/Grecia).</li>
+    <li><strong>La División:</strong> El gran cuerno se **rompe** y surgen **cuatro cuernos notables** (los cuatro reinos helenísticos).</li>
+    <li><strong>El Cuerno Pequeño:</strong> Surge de uno de ellos, que se engrandece hasta la **Milicia Celestial** y derriba la verdad.</li>
+    <li><strong>La Profanación:</strong> El santuario es profanado por **2,300 tardes y mañanas** (1,150 días).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Histórico: Alejandro Magno y Antíoco IV</h5>
+<ul>
+    <li><strong>El Cuerno Pequeño:</strong> Representa a **Antíoco IV Epífanes** (rey sirio/Seleucida) que profanó el Templo en 167 a.C.</li>
+    <li><strong>Los 2,300:</strong> El período de la **suspensión de los sacrificios** diarios en el Templo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Esperanza:</strong> Aunque la persecución será brutal, el **Santuario será purificado**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **ataque a la verdad** y al culto será castigado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">historia está determinada por Dios</span>. El conocimiento del futuro asegura que el creyente no se sorprenda por la aparición del mal y la persecución.</p>
                 
@@ -42688,7 +44980,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Setenta Semanas:</strong> La cronología del plan de Dios</li>
                     <li><strong>El Mesías Príncipe:</strong> Su muerte después de la semana 69</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Oración y las Setenta Semanas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Cronología Mesiánica</h5>
+<ul>
+    <li><strong>El Fundamento:</strong> Daniel medita sobre la profecía de **Jeremías** de los **70 años** de desolación.</li>
+    <li><strong>La Oración:</strong> Daniel ofrece una **profunda oración** de **confesión nacional** y arrepentimiento.</li>
+    <li><strong>La Revelación:</strong> El ángel **Gabriel** le revela la profecía de las **Setenta Semanas** (70x7 = 490 años).</li>
+    <li><strong>El Propósito:</strong> Las Setenta Semanas son para **terminar la prevaricación** y **ungir al Santísimo**.</li>
+    <li><strong>La División:</strong> 7 semanas (49 años) + 62 semanas (434 años) + 1 semana (7 años).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Año Sabático</h5>
+<ul>
+    <li><strong>Semanas:</strong> Las "semanas" son **heptadas de años** (simbolizando los años sabáticos y el jubileo).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Mesías:</strong> La profecía establece el **tiempo exacto** del ministerio y la muerte del Mesías.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad a la profecía** de Jeremías resulta en una **revelación mesiánica**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">revelación del Mesías es la respuesta a la oración ferviente</span> y la confesión. El tiempo de Dios es exacto.</p>
                 
@@ -42714,7 +45029,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Príncipe de Persia:</strong> La fuerza demoníaca detrás del imperio pagano</li>
                     <li><strong>Fortaleza:</strong> Daniel es fortalecido para soportar la visión</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Lucha Espiritual y la Ayuda Angelical</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Conflicto de los Principados</h5>
+<ul>
+    <li><strong>La Aflicción:</strong> Daniel está en **duelo** (ayuno de tres semanas) cerca del río Tigris.</li>
+    <li><strong>La Visión:</strong> Daniel ve a un **hombre vestido de lino** (un ángel o manifestación pre-mesiánica) con rostro de relámpago.</li>
+    <li><strong>La Debilidad:</strong> Daniel **pierde las fuerzas** ante la presencia del mensajero celestial.</li>
+    <li><strong>El Conflicto:</strong> El ángel revela que fue **detenido** por el **"Príncipe del reino de Persia"** (una entidad espiritual que gobierna el imperio).</li>
+    <li><strong>El Auxilio:</strong> El arcángel **Miguel** (el Príncipe de Israel) tuvo que venir en su ayuda.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Apocalíptico: Guerras Angélicas</h5>
+<ul>
+    <li><strong>Príncipes:</strong> Revelación de la **guerra espiritual** entre entidades angélicas que representan a naciones.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Realidad:</strong> La **historia política** es un reflejo de la **guerra invisible**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **oración de un justo** tiene poder para desatar la batalla celestial.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">destino de las naciones se decide en la guerra espiritual</span>. La fe se demuestra al resistir y perseverar en la oración.</p>
                 
@@ -42740,7 +45078,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Antíoco IV Epífanes:</strong> La profanación del Templo</li>
                     <li><strong>El Rey que Hará su Voluntad:</strong> El Anticristo y la rebelión final</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Detalle de la Profecía Histórica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Rey del Norte y el Rey del Sur</h5>
+<ul>
+    <li><strong>La Precisión:</strong> El ángel revela con **gran detalle** los conflictos que vendrán después de Persia.</li>
+    <li><strong>El Norte/Sur:</strong> Se profetizan las guerras entre el **Rey del Norte** (la dinastía Seléucida) y el **Rey del Sur** (la dinastía Ptolemaica/Egipto).</li>
+    <li><strong>El Matrimonio:</strong> Los **intentos de alianzas** mediante matrimonios fallidos.</li>
+    <li><strong>El Pecado:</strong> El **Rey de la Vileza** (Antíoco IV Epífanes) que profanará el Templo y se engrandecerá.</li>
+    <li><strong>El Final:</strong> El rey se levantará contra el **príncipe de los príncipes** y llegará a su fin sin ayuda.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Histórico: La Era Helenística</h5>
+<ul>
+    <li><strong>La Intervención:</strong> Las profecías se centran en los reyes que **afectan directamente** a Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Resistencia:</strong> La resistencia de los **sabios** que instruyen al pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **tiranía humana** está controlada por el plan de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">historia está bajo el control de Dios</span>, incluso los detalles de las guerras. La profecía es una advertencia de la apostasía y el mal futuros.</p>
                 
@@ -42766,7 +45127,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resurrección:</strong> La esperanza de la vida eterna o la condenación</li>
                     <li><strong>Bendición:</strong> La recompensa final por la perseverancia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Fin de los Tiempos y la Resurrección</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio Final y la Revelación Sellada</h5>
+<ul>
+    <li><strong>Miguel:</strong> El arcángel **Miguel** se levantará en el **tiempo de la angustia**.</li>
+    <li><strong>La Resurrección:</strong> Se profetiza la **resurrección** de los muertos: algunos para **vida eterna**, otros para **vergüenza y eterno oprobio**.</li>
+    <li><strong>La Sabiduría:</strong> Los **sabios** resplandecerán como el resplandor del firmamento.</li>
+    <li><strong>El Sellado:</strong> Daniel debe **sellar el libro** hasta el tiempo del fin (es decir, el mensaje es para una generación futura).</li>
+    <li><strong>El Tiempo:</strong> El fin ocurrirá después de **1,290** y **1,335 días** (mediciones exactas que señalan el final de la persecución).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Apocalíptico: La Resurrección</h5>
+<ul>
+    <li><strong>Vida Eterna:</strong> Una de las **primeras declaraciones claras** del Antiguo Testamento sobre la **resurrección individual** y la vida eterna.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paciencia:</strong> Daniel es exhortado a **seguir su camino** hasta el fin, pues **descansará** y se **levantará** para recibir su herencia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **esperanza final** es la resurrección y la herencia eterna.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">esperanza del creyente es la resurrección</span>. El entendimiento del plan de Dios se intensificará en el tiempo del fin.</p>
                 
@@ -42794,7 +45178,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Infidelidad:</strong> El pecado de Israel es la fornicación espiritual (idolatría)</li>
                     <li><strong>Juicio Inminente:</strong> La destrucción del reino de Israel (por Asiria)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Matrimonio Profético y la Época de Jeroboam II</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Los Nombres Simbólicos del Juicio</h5>
+<ul>
+    <li><strong>El Periodo:</strong> Oseas profetizó durante la cúspide del poder del Reino del Norte bajo **Jeroboam II**, justo antes de su declive.</li>
+    <li><strong>La Orden:</strong> Dios ordena a Oseas tomar por esposa a **Gomer**, una mujer de prostituciones, para reflejar la relación de Israel con YHWH.</li>
+    <li><strong>Jezreel:</strong> El primer hijo es llamado **Jezreel** (juicio divino en un valle clave). Su nombre presagia el castigo por las masacres de la dinastía de Jehú.</li>
+    <li><strong>Lo-Ruhamá:</strong> La hija es llamada **Lo-Ruhamá** ("No compadecida"), simbolizando que Dios retiraría Su misericordia de Israel.</li>
+    <li><strong>Lo-Ammi:</strong> El segundo hijo es **Lo-Ammi** ("No-Mi-Pueblo"), anunciando la ruptura total del pacto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Cultural: La Prostitución del Culto</h5>
+<ul>
+    <li><strong>Prostitución:</strong> La infidelidad de Gomer es una metáfora de la **adoración de Baal** y los cultos cananeos de fertilidad que el pueblo practicaba.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> El **sufrimiento personal** del profeta es el espejo del **dolor divino**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **idolatría** es la máxima forma de adulterio espiritual.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad de Dios se demuestra incluso en el mandato del juicio</span>. El pecado de Israel es la traición a Su amor de Pacto.</p>
                 
@@ -42820,7 +45227,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Seducción (Amor):</strong> Dios atraerá de nuevo a Su pueblo en el desierto (exilio)</li>
                     <li><strong>Nueva Alianza:</strong> La promesa de fidelidad eterna y paz con la naturaleza</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Divorcio y el Nuevo Desposorio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Alianza Rota y la Restauración</h5>
+<ul>
+    <li><strong>El Castigo:</strong> Dios amenaza con **desnudar** a Israel (la humillación del juicio) y exponer su vergüenza.</li>
+    <li><strong>Los Pagos:</strong> El pueblo creía que los bienes (trigo, vino, aceite) provenían de sus **amantes** (los dioses cananeos, Baal). Dios les **quitará** esos bienes.</li>
+    <li><strong>El Desierto:</strong> Dios llevará a Israel al **desierto** (un lugar de aislamiento y purificación) para **hablarle al corazón**.</li>
+    <li><strong>La Reversión:</strong> Los nombres de los hijos serán revertidos: **Ruhamá** (Compadecida) y **Ammi** (Mi Pueblo).</li>
+    <li><strong>El Desposorio:</strong> Dios se desposará con Israel **para siempre** en **justicia, derecho y misericordia** (un nuevo pacto).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Divorcio</h5>
+<ul>
+    <li><strong>Desnudamiento:</strong> Un castigo para las adúlteras.</li>
+    <li><strong>Pagos:</strong> En el contexto cananeo, los dioses Baal se creían la fuente de las bendiciones agrícolas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Amor:</strong> El **castigo** es un acto de amor que busca el **arrepentimiento** y la restauración de la intimidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **juicio** es la puerta a la **restauración**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio es un camino para el arrepentimiento</span>. El amor de Dios persevera y busca activamente la restauración del infiel.</p>
                 
@@ -42846,7 +45277,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Amor Persistente:</strong> El amor de Oseas por su esposa infiel refleja el amor de Dios</li>
                     <li><strong>Esperanza Mesiánica:</strong> Israel vivirá sin rey ni sacrificio, esperando al Mesías</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Redención de Gomer</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Precio de la Redención</h5>
+<ul>
+    <li><strong>El Mandato:</strong> Dios ordena a Oseas que **vuelva a amar a su esposa** (Gomer), que se había ido a vivir con un amante.</li>
+    <li><strong>El Precio:</strong> Oseas la **compra de nuevo** por **quince piezas de plata** y una medida y media de cebada (el precio de un esclavo).</li>
+    <li><strong>La Separación:</strong> Gomer debe **quedarse en casa** y esperar a Oseas por un tiempo (símbolo del exilio y el aislamiento).</li>
+    <li><strong>El Significado:</strong> Israel pasará **muchos días sin rey, sin templo ni sacrificios** (simbolismo del exilio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Compra</h5>
+<ul>
+    <li><strong>El Precio:</strong> El valor de Gomer indica su **condición degradada** (posiblemente un tercio del valor de un esclavo).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Persistencia:</strong> El **amor redentor** de Dios es más fuerte que la **infidelidad**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **redención** implica un alto costo y una **espera** de la fidelidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor de Dios es un acto de redención con un costo</span>. La obediencia del profeta es un testimonio vivo del evangelio.</p>
                 
@@ -42872,7 +45325,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corrupción Sacerdotal:</strong> El liderazgo religioso lleva al pueblo al pecado</li>
                     <li><strong>Destrucción:</strong> El juicio vendrá porque el pueblo se autodestruye por la falta de conocimiento</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Cargas contra el Sacerdocio y el Pueblo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Destrucción por Falta de Conocimiento</h5>
+<ul>
+    <li><strong>La Carga:</strong> Israel no tiene **verdad, ni misericordia, ni conocimiento de Dios**.</li>
+    <li><strong>El Pecado:</strong> Prevalecen el **perjurio, la mentira, el robo y el homicidio** (la ruptura de los Diez Mandamientos).</li>
+    <li><strong>El Sacerdocio:</strong> Los **sacerdotes** son los primeros en ser juzgados por **rechazar la ley** de Dios.</li>
+    <li><strong>La Prostitución (Literal):</strong> Los hombres de Israel acuden a las **prostitutas del templo** (prostitución cultual) y sacrifican en los montes.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Prostitución Cultual</h5>
+<ul>
+    <li><strong>Prostitución:</strong> La práctica de la prostitución ritual en los **lugares altos** (Bamot) en honor a Baal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Conocimiento:</strong> El pueblo es destruido por la **falta de conocimiento de Dios**, no de Su ley.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **liderazgo espiritual** que falla en enseñar atrae el juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">verdadero conocimiento de Dios es ético y relacional</span>, no solo intelectual. El fracaso de la enseñanza de la Ley lleva a la destrucción.</p>
                 
@@ -42898,7 +45373,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Alianzas Vanas:</strong> La confianza en Asiria en lugar de Dios</li>
                     <li><strong>León de Judá:</strong> Dios Mismo es el que ejecutará el castigo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio sobre los Líderes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Caza y la Corrupción</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La acusación es dirigida contra los **sacerdotes, la casa del rey y el pueblo**.</li>
+    <li><strong>Mizpa y Tabor:</strong> Los líderes han tendido una **red de corrupción** en los lugares de culto y juicio.</li>
+    <li><strong>La Alianza:</strong> Efraín (Israel) busca la **ayuda de Asiria** (el rey Jareb) en lugar de buscar a YHWH.</li>
+    <li><strong>El Reproche:</strong> Dios será como un **león** para Israel y como una **polilla** para Judá (destrucción rápida y lenta).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Político: La Inestabilidad</h5>
+<ul>
+    <li><strong>Alianzas:</strong> Israel era famoso por **cambiar de alianzas** entre Egipto y Asiria.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Confianza:</strong> La **confianza en el poder militar** pagano es una traición al pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confesión de labios** es inútil si no va acompañada de **fidelidad política**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es severo para el liderazgo</span>. La confianza en alianzas terrenales es traición espiritual.</p>
                 
@@ -42924,7 +45421,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misericordia vs. Sacrificio:</strong> La primacía de la ética sobre el ritual (citado por Jesús)</li>
                     <li><strong>Curación Falsa:</strong> El pueblo no busca la verdadera sanidad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Arrepentimiento Insincero</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Amor Constante y la Nube Matinal</h5>
+<ul>
+    <li><strong>La Llamada:</strong> El pueblo clama: **"Volvamos a YHWH"**.</li>
+    <li><strong>La Respuesta:</strong> El arrepentimiento del pueblo es superficial: **"vuestro amor es como nube de la mañana, y como el rocío que de madrugada se desvanece"**.</li>
+    <li><strong>El Deseo:</strong> Dios desea **misericordia** (hesed: amor fiel y pactual) y no sacrificio.</li>
+    <li><strong>Galaad y Siquem:</strong> Los **sacerdotes son ladrones** que roban y asesinan en el camino.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Sacrificios y Ritos</h5>
+<ul>
+    <li><strong>Sacrificio:</strong> El sacrificio ritual es condenado cuando **no hay justicia** y **misericordia** social.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Superficialidad:</strong> El **amor pactual (hesed)** es la prueba de la vida, mientras que el rito es temporal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **religión sin ética** es una abominación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">misericordia es la expresión máxima del conocimiento de Dios</span>. El culto sin ética es aborrecible para Dios.</p>
                 
@@ -42950,7 +45469,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pan a Medio Cocer:</strong> La inutilidad y la falta de integridad de la nación</li>
                     <li><strong>Paloma Incauta:</strong> La búsqueda de ayuda en naciones paganas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Efervescencia Política</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Horno Caliente y el Pan sin Voltear</h5>
+<ul>
+    <li><strong>La Corrupción:</strong> Los **reyes son asesinados** y se suceden en golpes de estado (la inestabilidad del Norte).</li>
+    <li><strong>El Horno:</strong> Los líderes son comparados con un **horno encendido** por el adulterio (pasión desordenada y lujuria).</li>
+    <li><strong>El Pan:</strong> Efraín es comparado con una **torta no volteada** (una torta quemada por un lado y cruda por el otro). | Símbolo de la **incongruencia** y el **desequilibrio** espiritual.</li>
+    <li><strong>El Pájaro:</strong> Israel llama a **Egipto** como una **paloma simple** que vuela a la trampa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: El Horno</h5>
+<ul>
+    <li><strong>Horno:</strong> El pan se cocía en un horno de tierra caliente. Una torta sin voltear era **inútil e incomible**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Destino:</strong> La **alianza con naciones paganas** es la **traición** al pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **juicio** es la consecuencia inevitable de la **doble vida** del pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">ceguera espiritual es el resultado de la soberbia</span> y la autosuficiencia. El pecado es una enfermedad que consume al hombre por dentro.</p>
                 
@@ -42976,7 +45517,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Viento y Tormenta:</strong> La inevitabilidad de la retribución (sembrar el mal y cosechar la destrucción)</li>
                     <li><strong>Reyes Ilegítimos:</strong> El rechazo a la autoridad de Dios sobre la monarquía</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Sembrar Viento y Cosechar Tempestad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Siembra de Viento</h5>
+<ul>
+    <li><strong>El Águila:</strong> La advertencia de que el **enemigo viene como águila** (Asiria) sobre la casa de YHWH.</li>
+    <li><strong>El Becerro:</strong> Israel hizo **reyes sin la voluntad de Dios** e hicieron **ídolos de plata** (los becerros de Bet-el).</li>
+    <li><strong>La Siembra:</strong> **"Porque sembraron viento, y segarán tempestad"** (el principio de la retribución).</li>
+    <li><strong>Los Sacrificios:</strong> El pueblo multiplica los **altares para pecar**, y sus sacrificios no son aceptados.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Político: Los Becerreros</h5>
+<ul>
+    <li><strong>Becerreros:</strong> El culto del becerro en **Bet-el y Dan** (establecido por Jeroboam I) fue la raíz de la idolatría del Norte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La **violación del pacto** por la idolatría conduce a la **destrucción del templo/culto**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **acción humana** tiene consecuencias divinas (retribución).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad humana sin la aprobación de Dios es ilegítima</span>. La retribución es una ley espiritual inquebrantable.</p>
                 
@@ -43002,7 +45565,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exilio:</strong> El regreso a la tierra de esclavitud</li>
                     <li><strong>Esterilidad:</strong> La negación de la vida como castigo por la fornicación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Duelo y la Pérdida de la Cosecha</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Luto en la Fiesta</h5>
+<ul>
+    <li><strong>El Gozo:</strong> La profecía del juicio en el **tiempo de la cosecha y las fiestas**.</li>
+    <li><strong>El Destino:</strong> Israel **no morará en la tierra de YHWH**, sino que irá a **Egipto y Asiria**.</li>
+    <li><strong>El Trigo:</strong> La **cosecha y el vino** serán quitados. No habrá luto por el pan.</li>
+    <li><strong>Galaad y Guibeá:</strong> El pueblo se ha corrompido con la **misma maldad** que en la época de los Jueces.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Cosecha</h5>
+<ul>
+    <li><strong>Fiestas:</strong> Las fiestas (Sucot, Shavuot) eran celebraciones de la **cosecha y el gozo**. La amenaza del juicio en ese tiempo era la máxima pérdida.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Esperanza:</strong> El **fruto** es quitado por la **infidelidad**, lo que lleva a la desesperación.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **idolatría de fertilidad** es castigada con la **esterilidad**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">gozo y la fertilidad son dones de Dios</span> que se pierden por la infidelidad. El castigo de Dios es la inversión de las bendiciones del Pacto.</p>
                 
@@ -43028,7 +45613,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Siembra y Cosecha:</strong> El llamado a sembrar justicia para cosechar misericordia</li>
                     <li><strong>Destrucción:</strong> La caída de la idolatría y el reino</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Becerro de Bet-el y la Cosecha Amarga</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Viña Vacía y el Deseo de Montañas</h5>
+<ul>
+    <li><strong>La Vid:</strong> Israel es comparado con una **vid frondosa** que **da fruto para sí mismo**.</li>
+    <li><strong>El Becerro:</strong> El **becerro de Bet-el** será llevado a Asiria, y su pueblo **lamentará** su pérdida.</li>
+    <li><strong>La Plegaria:</strong> En el juicio, el pueblo deseará: **"A los montes: cubridnos; y a los collados: caed sobre nosotros"** (la desesperación ante el terror).</li>
+    <li><strong>La Justicia:</strong> La justicia se convierte en **ajenjo** (amargura).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Arar y Sembrar</h5>
+<ul>
+    <li><strong>Arar:</strong> La orden de **arar tierra nueva** (arrepentimiento radical) y **sembrar justicia**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La **seguridad militar** y los **ídolos** serán inútiles ante la ira de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **fruto para sí mismo** es el centro del pecado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">fruto de la prosperidad debe ser la justicia, no la idolatría</span>. La vida espiritual es una siembra ética que requiere esfuerzo (barbecho).</p>
                 
@@ -43054,7 +45661,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Conflicto Interno:</strong> La tensión entre la justicia de Dios y Su amor (Misericordia)</li>
                     <li><strong>No-Consumo:</strong> Dios no los destruirá totalmente como a Sodoma y Gomorra</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Amor de Dios, el Padre</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Israel, el Hijo Amado</h5>
+<ul>
+    <li><strong>La Paternidad:</strong> Dios recuerda a Israel como Su **hijo** a quien llamó de Egipto.</li>
+    <li><strong>El Cuidado:</strong> Dios **enseñó a Efraín a caminar**, lo tomó en Sus brazos y lo **curó**.</li>
+    <li><strong>La Traición:</strong> El hijo se aleja y **sacrifica a los Baales**.</li>
+    <li><strong>El Límite:</strong> Dios declara: **"Mi corazón se conmueve dentro de Mí, y se inflama toda mi compasión"**. | La **lucha interna** de Dios entre la justicia y la misericordia.</li>
+    <li><strong>La Ira:</strong> Dios **no ejecutará el ardor de Su ira**, porque Él es **Dios** y no hombre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Crianza</h5>
+<ul>
+    <li><strong>Brazos:</strong> La imagen de levantar un niño en los brazos era una señal de **cuidado paterno**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Naturaleza:</strong> La **fidelidad de Dios** no está determinada por el pecado humano, sino por Su **propia naturaleza** (Su santidad).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **amor incondicional** es la raíz de la disciplina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor de Dios es Su propia esencia</span> y la fuente de la perseverancia del Pacto. La misericordia es la manifestación de Su santidad.</p>
                 
@@ -43080,7 +45710,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Jacob:</strong> El recuerdo de la lucha (Peniel) y la dependencia de Dios</li>
                     <li><strong>Profeta:</strong> Dios usó a profetas para guiar a Israel (recuerdo de Moisés)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Historia de Jacob como Advertencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Engaño y Retorno a Dios</h5>
+<ul>
+    <li><strong>La Queja:</strong> Efraín es como el **viento**; busca alianza con **Asiria** y usa **engaño** y **aceite** para tratar con Egipto.</li>
+    <li><strong>Jacob:</strong> Se recuerdan los **engaños de Jacob** (el padre de Israel), quien **luchó con el Ángel** y **lloró en Bet-el**.</li>
+    <li><strong>El Peso:</strong> Los mercaderes usan **balanzas falsas** (engaño).</li>
+    <li><strong>El Juicio:</strong> Dios los hará **morar en tiendas** de nuevo, como en los días de las fiestas (el exilio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Comercial: Las Balanzas</h5>
+<ul>
+    <li><strong>Balanzas:</strong> El **engaño en el comercio** era un pecado social grave, que demostraba la falta de ética pactual.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Propósito:</strong> El **ejemplo de Jacob** es que el **engaño** conduce a la disciplina, pero el **arrepentimiento** conduce a la restauración.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia social** es parte integral de la adoración a YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">lucha con Dios (Jacob) es un camino de dependencia</span>, no de engaño. El creyente debe recordar la fidelidad de sus antepasados para no repetir sus errores.</p>
                 
@@ -43106,7 +45758,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Victoria sobre la Muerte:</strong> El Mesías redimirá al pueblo del Seol y de la muerte</li>
                     <li><strong>Reconocimiento:</strong> Dios es el único salvador fuera de Él</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Soberbia y la Muerte Inevitable</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Luto y la Plaga</h5>
+<ul>
+    <li><strong>La Caída:</strong> Cuando Efraín hablaba, había **temblor**, pero pecó en **Baal** y murió.</li>
+    <li><strong>El Olvido:</strong> Israel olvida que **YHWH es el único salvador** y que no hay otro dios.</li>
+    <li><strong>La Destrucción:</strong> Dios será para ellos como un **león**, un **leopardo** en el camino y una **osa a la que le han robado** sus crías.</li>
+    <li><strong>El Castigo:</strong> La **plaga** será su castigo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Plaga y el Seol</h5>
+<ul>
+    <li><strong>Seol:</strong> El desafío a la muerte: **"Oh muerte, yo seré tu plaga; oh Seol, yo seré tu destrucción"** (una promesa de restauración futura y resurrección).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Mesías:</strong> La **destrucción del Seol** es una de las declaraciones más profundas del Antiguo Testamento sobre la **victoria sobre la muerte**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **soberbia humana** es castigada con la **humillación total**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">victoria sobre la muerte es la promesa final</span> después del juicio. El juicio es solo temporal, pero la resurrección es eterna.</p>
                 
@@ -43132,7 +45806,36 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Amor Sanador:</strong> Dios sanará la rebeldía de Israel</li>
                     <li><strong>Fruto y Sombra:</strong> La prosperidad espiritual y física bajo la protección de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Invocación Final al Arrepentimiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Curación y la Metáfora de la Naturaleza</h5>
+<ul>
+    <li><strong>La Llamada:</strong> El profeta hace la **última llamada al arrepentimiento** y a **dejar los ídolos**.</li>
+    <li><strong>La Plegaria:</strong> El pueblo debe pedir: **"Quita toda iniquidad, y acéptanos con benevolencia"**.</li>
+    <li><strong>El Perdón:</strong> Dios promete **curar su rebelión** y **amarlos de pura voluntad**.</li>
+    <li><strong>La Metáfora:</strong>
+        <ol>
+            <li>Dios será como el **rocío** para Israel (frescura y crecimiento).</li>
+            <li>Israel florecerá como el **lirio** y se arraigará como el **Líbano**.</li>
+            <li>Su belleza será como el **olivo** y su aroma como el **Líbano**.</li>
+        </ol>
+    </li>
+    <li><strong>La Sabiduría:</strong> El libro cierra con una pregunta retórica: **"¿Quién es sabio para que entienda esto, y prudente para que lo sepa?"**</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: El Rocío</h5>
+<ul>
+    <li><strong>Rocío:</strong> En una tierra seca, el rocío era la **fuente de vida** para la vegetación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Esperanza:</strong> El **último mensaje** es de **gracia y restauración** total, simbolizada en el florecimiento de la naturaleza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **perdón de Dios** es la fuente de la **vida abundante**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">arrepentimiento es la puerta de la restauración</span> y la sanidad. La promesa final es la abundancia de vida en la presencia de Dios.</p>
                 
@@ -43160,7 +45863,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Día de Jehová:</strong> El juicio es cercano y grande</li>
                     <li><strong>Ayuno y Clamor:</strong> El llamado al arrepentimiento nacional</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Plaga Devastadora</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Lloranza y el Ayuno</h5>
+<ul>
+    <li><strong>La Catástrofe:</strong> La profecía comienza describiendo una **plaga de langostas** nunca antes vista, que ha dejado la tierra totalmente devastada.</li>
+    <li><strong>Cuatro Fases:</strong> La plaga se describe en cuatro etapas: el **cortador**, el **saltón**, el **revoltón** y el **devorador** (posiblemente una descripción del mismo enjambre en distintas etapas de desarrollo, o simplemente una hipérbole para la destrucción total).</li>
+    <li><strong>Los Afectados:</strong> Se llama a los **sacerdotes, labradores y bebedores de vino** a lamentarse, pues la cosecha y el vino han sido quitados.</li>
+    <li><strong>La Orden:</strong> El profeta ordena un **ayuno y asamblea sagrada** para clamar a YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Cultural: Langostas como Juicio</h5>
+<ul>
+    <li><strong>Símbolo de Destrucción:</strong> Las plagas de langostas eran un desastre natural común en la región, pero su magnitud extrema era vista como un **juicio directo de Dios** (como en el libro de Éxodo).</li>
+    <li><strong>El Vino:</strong> El vino era esencial para las **ofrendas** y las celebraciones, por lo que su pérdida paralizaba el culto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> El **desastre natural** es la antesala del **juicio divino** (el Día de YHWH).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **desesperación material** debe llevar a la **búsqueda espiritual**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">plaga es un catalizador para el arrepentimiento</span>. El juicio terrenal debe llevar al pueblo a la humillación y la oración.</p>
                 
@@ -43186,7 +45912,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Derramamiento del Espíritu:</strong> La profecía sobre toda carne (un evento de los postreros días)</li>
                     <li><strong>Restauración:</strong> El retorno de las cosechas perdidas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Advertencia y la Misericordia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Invasión Aterradora</h5>
+<ul>
+    <li><strong>El Día de YHWH:</strong> El ejército que se aproxima es descrito con una **fusión de las langostas y una invasión militar** (caballos, gente de guerra, fuego).</li>
+    <li><strong>La Transformación:</strong> Las langostas han crecido hasta convertirse en un **ejército perfecto** que escala muros, entra por ventanas y avanza sin romperse.</li>
+    <li><strong>El Llamado:</strong> Dios llama a un **arrepentimiento radical**: **"Rasgad vuestro corazón, y no vuestros vestidos"**.</li>
+    <li><strong>La Restauración:</strong> Si el pueblo se arrepiente, Dios promete **restituir las cosechas** perdidas por los años que se comió la langosta y **nunca más avergonzar** a Su pueblo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: El Arrepentimiento</h5>
+<ul>
+    <li><strong>Rasgar Ropa:</strong> Era una **práctica ritual externa** de luto. Dios exige el arrepentimiento interno, el dolor del corazón.</li>
+    <li><strong>El Castigo Invertido:</strong> Dios promete hacer **retroceder** el ejército del norte (el invasor).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Corazón:</strong> La **sinceridad** del arrepentimiento es la única vía para evitar la ira.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 El Clímax Profético (Cumplido en Pentecostés):</strong>
+    <p>Después de la restauración, Dios promete: **"Derramaré mi Espíritu sobre toda carne; y profetizarán vuestros hijos y vuestras hijas; vuestros ancianos soñarán sueños, y vuestros jóvenes verán visiones."**</p>
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio prepara el camino para el Espíritu Santo</span>. La fe se demuestra en el arrepentimiento interior.</p>
                 
@@ -43212,7 +45962,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Valle de Josafat:</strong> El lugar del juicio de Dios</li>
                     <li><strong>Bendición Perpetua:</strong> La santidad y la fertilidad de Judá</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Universal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Valle de la Decisión</h5>
+<ul>
+    <li><strong>El Juicio a las Naciones:</strong> Dios promete **juzgar a todas las naciones** que dispersaron a Israel, se repartieron Su tierra y vendieron a los hijos de Judá y Jerusalén como esclavos.</li>
+    <li><strong>El Valle:</strong> El lugar del juicio se llama el **Valle de Josafat** o **Valle de la Decisión** (Josafat significa "YHWH ha juzgado"). Es un lugar simbólico.</li>
+    <li><strong>La Inversión:</strong> Se da la orden de **forjar arados en espadas** y **hoces en lanzas** (la reversión de Isaías 2) para el combate final.</li>
+    <li><strong>La Bendición Final:</strong> Judá y Jerusalén serán **habitadas para siempre**. El agua fluirá del Templo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar y Geográfico</h5>
+<ul>
+    <li><strong>Valle de Josafat:</strong> Tradicionalmente identificado con el valle de Cedrón, al este de Jerusalén, se convierte en el lugar arquetípico del **juicio universal**.</li>
+    <li><strong>La Inversión:</strong> La orden de convertir herramientas de paz en armas de guerra es un llamado a las naciones a **prepararse para ser juzgadas**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Santidad:</strong> La profanación de Sión por las naciones resultará en su **juicio eterno** y la **santificación final** de Jerusalén.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **control de la historia** pertenece a YHWH; el juicio de las naciones garantiza la **paz eterna** de Su pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es para defender a Su pueblo</span>. La fe se basa en la certeza de la vindicación final.</p>
                 
@@ -43240,7 +46013,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Crimen contra la Humanidad:</strong> La condenación de la crueldad y la violencia de las naciones</li>
                     <li><strong>Universalidad:</strong> Dios es Juez de toda la Tierra</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oráculos contra las Naciones Vecinas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El León de Sión y el Alcance de la Profecía</h5>
+<ul>
+    <li><strong>Origen:</strong> Amós es un **pastor de Tecoa** y **boyero** (cultivador de higos sicómoros), lo que resalta su origen humilde en Judá.</li>
+    <li><strong>El León:</strong> La Palabra de YHWH es comparada con el **rugido de un león** que sale de Sión, anunciando el juicio sobre las naciones.</li>
+    <li><strong>Naciones:</strong> Los oráculos se dirigen contra **Damasco (Siria), Gaza (Filistea), Tiro y Edom**.</li>
+    <li><strong>El Juicio:</strong> El castigo se basa en **crímenes interhumanos** (crímenes de guerra o violación de pactos), no en la idolatría.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Venganza de Guerra</h5>
+<ul>
+    <li><strong>Tiro:</strong> Es juzgada por **entregar a la población en cautiverio** (la violación de la ley tribal).</li>
+    <li><strong>Edom:</strong> Juzgada por su **persecución implacable** a su hermano (Israel).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Universalidad:</strong> YHWH demuestra Su **soberanía** sobre todas las naciones, no solo sobre Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ética** es la ley universal que Dios aplica a todos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es ético</span>, castigando las violaciones de la moralidad básica. El juicio sobre las naciones es el preludio del juicio sobre Israel.</p>
                 
@@ -43266,7 +46062,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ingratitud:</strong> Olvidar la redención de Dios del Éxodo</li>
                     <li><strong>Juicio Inevitable:</strong> La destrucción del reino de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio contra Moab, Judá e Israel</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio por la Injusticia Social</h5>
+<ul>
+    <li><strong>Moab:</strong> Juzgada por un **crimen de guerra** (quemar los huesos del rey de Edom para hacer cal).</li>
+    <li><strong>Judá:</strong> Juzgada por **rechazar la Ley** de YHWH.</li>
+    <li><strong>Israel (El Foco):</strong> Juzgada por el **trato a los pobres**: **vender al justo por dinero** y **al pobre por un par de zapatos** (la corrupción legal).</li>
+    <li><strong>El Santuario:</strong> La profanación del culto: **padre e hijo usan la misma joven** (prostitución cultual) y se acuestan junto a los altares.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Par de Zapatos</h5>
+<ul>
+    <li><strong>Zapatos:</strong> Vender a alguien por el precio de un par de sandalias o zapatos era la **máxima expresión de desprecio** por la vida humana.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Llamado:</strong> Dios destruyó a los **amorreos** (los gigantes) y guió a Israel, pero el pueblo falló en la **justicia social**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **fracaso social** es el corazón de la violación del pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia social es la prueba de la fe</span>. El pecado de Israel es la falta de compasión por el hermano.</p>
                 
@@ -43292,7 +46110,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exclusividad:</strong> El conocimiento de Dios sobre Israel</li>
                     <li><strong>Profecía:</strong> El profeta debe hablar cuando Dios lo ordena</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Privilegio y la Responsabilidad del Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Conocimiento y la Inevitabilidad</h5>
+<ul>
+    <li><strong>El Privilegio:</strong> YHWH declara: **"Solo a vosotros he conocido de todas las familias de la Tierra"** (la elección única de Israel).</li>
+    <li><strong>La Responsabilidad:</strong> El **privilegio del pacto** exige una **mayor responsabilidad** y juicio por el pecado.</li>
+    <li><strong>Causa y Efecto:</strong> Se usa una serie de preguntas de causa y efecto (**"¿Rugirá el león en el bosque sin tener presa?**") para mostrar que el juicio no viene sin causa ni advertencia.</li>
+    <li><strong>El Botín:</strong> Se predice que solo una **parte de la oreja** o **la punta de una pata** será rescatada (un remanente insignificante).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Armonía</h5>
+<ul>
+    <li><strong>El Profeta:</strong> Si YHWH ruge (anuncia juicio), el profeta **debe** profetizar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Samaria:</strong> Se predice la destrucción de los **altares de Bet-el** y los **palacios de invierno y verano** de Samaria.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **elección de Dios** no es una excusa para la inmunidad, sino una llamada a la santidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">elección trae mayor juicio</span>. La fe se demuestra al reconocer que la revelación de Dios es ineludible.</p>
                 
@@ -43318,7 +46158,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Castigo Progresivo:</strong> Dios ha castigado cinco veces sin resultado</li>
                     <li><strong>Advertencia:</strong> El juicio es inminente y final</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Mujeres Ricas de Samaria y el Ganado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Lujuria y la Mofa</h5>
+<ul>
+    <li><strong>Las Vacas de Basán:</strong> Las **mujeres ricas** de Samaria son llamadas **"vacas de Basán"** (Basán era famoso por su ganado gordo y bien alimentado).</li>
+    <li><strong>El Pecado:</strong> Ellas **oprimen a los pobres** e instan a sus maridos a conseguir más vino para la borrachera.</li>
+    <li><strong>El Castigo:</strong> Serán sacadas **con garfios** y **anzuelos** (como animales) para el exilio.</li>
+    <li><strong>La Futilidad del Culto:</strong> El pueblo multiplica sus **sacrificios** y **diezmos**, pero Dios lo rechaza por la falta de moralidad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Ganado</h5>
+<ul>
+    <li><strong>Basán:</strong> El uso de esta metáfora subraya la **opulencia** de la clase alta a expensas de los pobres.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Disciplina:</strong> Dios envió **sequía, hambre y enfermedad** (disciplinas) para que se volvieran a Él, pero ellos no lo hicieron.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sacrificio ritual** es nulo sin la **justicia social**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es progresivo</span>. La opulencia y el lujo en medio de la injusticia son condenados.</p>
                 
@@ -43344,7 +46206,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Culto Falso:</strong> Dios rechaza las fiestas y los sacrificios</li>
                     <li><strong>Justicia Ineludible:</strong> La exigencia de la rectitud social</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Lamento y la Falsedad del Ritual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio Inminente y el Rechazo al Ritual</h5>
+<ul>
+    <li><strong>El Lamento:</strong> Amós entona una **endecha** (canción de luto) por la inminente caída de la **virgen de Israel**.</li>
+    <li><strong>El Juicio:</strong> La ciudad que salió con mil hombres volverá con cien (una **pérdida militar del 90%**).</li>
+    <li><strong>La Búsqueda:</strong> El pueblo debe **"buscadme y viviréis"**, no ir a **Bet-el** (centro de idolatría).</li>
+    <li><strong>El Rechazo:</strong> Dios **odia y desprecia** sus **fiestas, asambleas y holocaustos**, porque no hay **justicia**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Estrella de Refán</h5>
+<ul>
+    <li><strong>Quión y Refán:</strong> Se condena la adoración de **Quión y Refán** (dioses estelares/planetas) llevada en cautiverio (el culto astral).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Flujo de Justicia:</strong> La **justicia** debe **fluir como las aguas**, y la **rectitud como torrente inagotable**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **adoración verdadera** es el **establecimiento de la justicia**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia ética es la verdadera adoración</span>. Dios valora la rectitud sobre el ritual.</p>
                 
@@ -43370,7 +46254,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lujo y Vicio:</strong> El hedonismo de la élite de Samaria</li>
                     <li><strong>Exilio:</strong> El castigo será la pérdida de todo lujo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Lujo de los Ricos y la Complacencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Cuna de Marfil y el Vicio</h5>
+<ul>
+    <li><strong>El Ay:</strong> Juicio sobre los **"reposados en Sión"** (Judá) y los **"confiados en el monte de Samaria"** (Israel).</li>
+    <li><strong>El Lujo:</strong> Se critican las **camas de marfil**, los **festines**, el **beber vino en tazones** y el **perfumarse con los mejores ungüentos**.</li>
+    <li><strong>La Música:</strong> Se condena el **tocar el arpa** y **componer canciones** como David, sin lamentarse por la ruina de Israel.</li>
+    <li><strong>El Castigo:</strong> Serán los **primeros en ir al cautiverio**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Las Camas de Marfil</h5>
+<ul>
+    <li><strong>Marfil:</strong> Los muebles de marfil eran un **símbolo de la riqueza extrema** y la ostentación en Samaria.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Inversión:</strong> La **riqueza** se convierte en la prueba de su **juicio**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **lujo insensato** ante la pobreza ajena es una traición a la alianza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autosuficiencia y el orgullo</span> son pecados que atraen la ira de Dios. El juicio es la negación de la comodidad.</p>
                 
@@ -43396,7 +46302,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Plomada:</strong> El juicio es inmutable y la nación no resistirá la prueba</li>
                     <li><strong>Conflicto:</strong> El rechazo al profeta por el liderazgo religioso</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Visiones y la Confrontación con el Sacerdocio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Las Visiones de Intercesión</h5>
+<ul>
+    <li><strong>Visión 1: Langostas:</strong> Amós intercede, y Dios **perdona el juicio** (el arrepentimiento es efectivo).</li>
+    <li><strong>Visión 2: Fuego:</strong> Amós intercede, y Dios **detiene el juicio** (la intercesión es poderosa).</li>
+    <li><strong>Visión 3: Plomada:</strong> Dios pone una **plomada** (instrumento de medición) en medio de Israel. El juicio es ahora **inevitable**.</li>
+    <li><strong>Confrontación:</strong> **Amasías**, el **sacerdote de Bet-el** (el centro de la idolatría estatal), acusa a Amós de conspiración ante el rey Jeroboam.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Plomada</h5>
+<ul>
+    <li><strong>Plomada:</strong> Instrumento usado para medir la **verticalidad** de un muro. El juicio se basa en la medición de la rectitud.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Profeta:</strong> Amós no es un **"profeta profesional"** (que profetiza por salario), sino que fue **tomado por YHWH** de su oficio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad del templo** (Amasías) es anulada por la **autoridad de la Palabra** (Amós).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es medido con una plomada</span>. El profeta es el barómetro de la fidelidad del pueblo.</p>
                 
@@ -43422,7 +46350,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hambruna de la Palabra:</strong> El juicio más severo (el silencio de Dios)</li>
                     <li><strong>Deshonestidad:</strong> La falta de ética en el comercio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Visión del Canastillo de Fruta de Verano y la Hambruna</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Fruta Final y el Pecado en el Mercado</h5>
+<ul>
+    <li><strong>Visión 4: Canastillo:</strong> Amós ve un **canastillo de fruta de verano** (*qayitz*). Esto simboliza que el **fin** (*qetz*) de Israel ha llegado.</li>
+    <li><strong>El Fraude Comercial:</strong> Se critica a los que **falsean la balanza, achican la medida** y **venden el pobre por dinero** (el fraude es rampante en el mercado).</li>
+    <li><strong>El Tiempo:</strong> Los comerciantes impacientes dicen: **"¿Cuándo pasará el Sábado para vender el trigo?"** (la profanación del Sábado por avaricia).</li>
+    <li><strong>La Hambruna:</strong> Dios enviará una **hambruna**, no de pan ni de agua, sino de **escuchar la Palabra de YHWH**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Comercial: El Sábado</h5>
+<ul>
+    <li><strong>Sábado:</strong> La **ambición económica** supera el mandamiento de descanso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> El juicio es una **extracción total** de la luz y la justicia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es el verdadero sustento, y su ausencia es el peor juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es el silencio</span>. El profeta advierte que la Palabra, una vez rechazada, será quitada.</p>
                 
@@ -43448,7 +46398,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Tabernáculo Caído:</strong> La promesa de la restauración de la dinastía de David</li>
                     <li><strong>Fertilidad:</strong> La bendición de la tierra será total</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Visión del Altar y la Restauración Davídica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Imposibilidad de Huir y la Tienda de David</h5>
+<ul>
+    <li><strong>Visión 5: El Altar:</strong> Amós ve a **YHWH sobre el altar**, dando la orden de destrucción.</li>
+    <li><strong>La Imposibilidad de Huir:</strong> El juicio es total. No importa dónde se escondan (en el **Seol**, en la cima del **Carmelo** o en el fondo del **mar**), serán alcanzados.</li>
+    <li><strong>El Exilio:</strong> Israel será **zarandeado** entre las naciones, pero no se perderá ni un **grano** (un remanente sobrevivirá).</li>
+    <li><strong>La Restauración:</strong> Dios levantará el **"Tabernáculo caído de David"** (la restauración de la dinastía real y la reunificación).</li>
+    <li><strong>La Abundancia:</strong> La restauración será de gran **prosperidad agrícola** (el labrador alcanzará al segador).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Edén Final</h5>
+<ul>
+    <li><strong>Montañas:</strong> Las montañas gotearán **vino dulce** y las colinas se derretirán.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> El **juicio es total** y la **restauración es total**. La destrucción de Israel es el preludio a la gloria de David.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **juicio** es la **puerta de entrada** a la **esperanza mesiánica**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio prepara el camino para el Mesías</span>. La restauración de David es la esperanza final de Israel.</p>
                 
@@ -43476,7 +46449,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberbia:</strong> Edom confía en sus fortalezas montañosas</li>
                     <li><strong>Ley de Retribución:</strong> Como hiciste, se te hará (venganza por la crueldad)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio contra Edom por la Traición Fraternal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Rivalidad Fraternal y la Venganza</h5>
+<ul>
+    <li><strong>Edom y Judá:</strong> El juicio se basa en la **rivalidad eterna** entre **Esaú (Edom) y Jacob (Israel)**. Edom es condenada por su violencia contra su hermano Judá.</li>
+    <li><strong>La Soberbia Geográfica:</strong> Edom es juzgada por su **orgullo** al habitar en las **hendiduras de las peñas** (posiblemente Petra o Bozra). Creyeron que su posición elevada los hacía inalcanzables.</li>
+    <li><strong>El Crimen:</strong> Edom **se alegró** del desastre de Jerusalén, **entró en sus puertas** y **saqueó sus bienes** el día en que los babilonios la destruyeron.</li>
+    <li><strong>La Ley del Talión:</strong> La sentencia final es: **"Como tú hiciste, se hará contigo"** (la ley de la retribución).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Traición y el Saqueo</h5>
+<ul>
+    <li><strong>Saqueo Fraternal:</strong> Edom actuó como un **enemigo pagano** durante el día de la angustia de Jerusalén, violando el principio de la hermandad.</li>
+    <li><strong>El Vino:</strong> Dios hará que Edom beba la **copa del juicio** y sean totalmente destruidos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Fuego y el Rastrojo:</strong> La **Casa de Jacob será fuego**, y la **Casa de Esaú será rastrojo** (la destrucción total de Edom).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia de Dios** no tolera la **alegría maliciosa** (Schadenfreude) ante el sufrimiento del prójimo. El juicio es necesario para la vindicación de Sión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es contra el odio fraternal</span>. La fe se basa en la certeza de la retribución divina.</p>
                 
@@ -43504,7 +46500,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberanía:</strong> Dios usa una tormenta y un pez para corregir al profeta</li>
                     <li><strong>Paganos Piadosos:</strong> Los marineros oran y temen a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Profeta Fugitivo y el Sacrificio Pagano</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Desobediencia y el Vuelo</h5>
+<ul>
+    <li><strong>El Llamado:</strong> Dios ordena a Jonás profetizar a **Nínive** (capital de Asiria, el enemigo de Israel).</li>
+    <li><strong>La Desobediencia:</strong> Jonás huye en dirección opuesta, hacia **Tarsis** (el extremo occidental conocido del mundo, huyendo de la presencia de YHWH).</li>
+    <li><strong>El Sorteo:</strong> La tripulación pagana echa **suertes** para identificar al culpable de la tormenta.</li>
+    <li><strong>El Sacrificio:</strong> La tripulación **sacrifica a YHWH** y hace **votos** al ver Su poder (la conversión de los marineros paganos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Marítimo: El Sorteo y la Tormenta</h5>
+<ul>
+    <li><strong>Sorteo:</strong> Echar suertes era un **rito común** para determinar la voluntad de los dioses o encontrar la culpa en una crisis.</li>
+    <li><strong>El Sacrificio Pagano:</strong> Los marineros, temiendo a Jonás y a su Dios, intentan **sacrificar a sus propios dioses** antes de recurrir a YHWH.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fe Pagana:</strong> Los **marineros paganos** temen más a Dios y obedecen más rápido que el profeta de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **presencia de Dios** no se limita a la tierra de Israel; es imposible huir de Él.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">misericordia de Dios es universal</span>, pero la fe del profeta es limitada. El juicio cae sobre el desobediente.</p>
                 
@@ -43530,7 +46549,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oración:</strong> El clamor por la salvación y la acción de gracias</li>
                     <li><strong>Salvación:</strong> La salvación es de YHWH</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Lamento desde las Profundidades (El Gran Pez)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Seol y la Oración</h5>
+<ul>
+    <li><strong>El Gran Pez:</strong> Jonás es tragado por un **gran pez** (no una ballena, sino una criatura marina designada por Dios).</li>
+    <li><strong>El Lamento:</strong> Jonás ofrece un **salmo de lamento y acción de gracias** desde el vientre del pez.</li>
+    <li><strong>Las Raíces:</strong> Jonás se siente en las **raíces de los montes** (las profundidades de la tierra), al borde del **Seol** (el inframundo o el lugar de los muertos).</li>
+    <li><strong>La Salvación:</strong> Jonás reconoce que la **salvación es de YHWH** (v. 9) y es liberado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Mitológico: El Mar</h5>
+<ul>
+    <li><strong>Abismo:</strong> El mar y las profundidades son a menudo un símbolo de **caos** o del dominio de la muerte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Templo:</strong> Incluso en el vientre del pez, Jonás se acuerda del **Templo** (el lugar de la presencia de Dios).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **disciplina de Dios** tiene como objetivo llevar al profeta al arrepentimiento y la obediencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">muerte y la resurrección</span> (simbolizado por los tres días) son la corrección para el profeta. La fe clama en la desesperación.</p>
                 
@@ -43556,7 +46597,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misericordia:</strong> Dios retira Su juicio por el arrepentimiento</li>
                     <li><strong>Profecía Condicional:</strong> La profecía está sujeta a la respuesta humana</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Arrepentimiento de Nínive</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Predicación y el Ayuno Total</h5>
+<ul>
+    <li><strong>El Mandato:</strong> Jonás obedece el **segundo llamado** de Dios y va a **Nínive** (una ciudad de tres días de camino, muy grande).</li>
+    <li><strong>El Mensaje:</strong> Jonás predica un mensaje de **juicio puro**: **"De aquí a cuarenta días Nínive será destruida"**.</li>
+    <li><strong>El Arrepentimiento:</strong> El **rey de Nínive** decreta un **ayuno total** (el rito de humillación).</li>
+    <li><strong>La Humillación:</strong> El rey se **cubre de cilicio** y **se sienta en ceniza** (la máxima humillación).</li>
+    <li><strong>El Extremo:</strong> El ayuno se extiende incluso al **ganado y a los animales**, que no deben comer ni beber agua.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Político: La Capital Asiria</h5>
+<ul>
+    <li><strong>Nínive:</strong> Capital del Imperio Asirio, el **enemigo más temido** de Israel. Su arrepentimiento es un milagro histórico.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Fe Pagana:</strong> La **respuesta inmediata** del rey pagano y su pueblo contrasta dramáticamente con la incredulidad constante de Israel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia de Dios** no se limita a Israel; se extiende a los gentiles.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">arrepentimiento sincero detiene el juicio divino</span>. La misericordia de Dios es para todos los que se vuelven a Él.</p>
                 
@@ -43582,7 +46646,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Compasión Universal:</strong> La piedad de Dios es para toda la humanidad</li>
                     <li><strong>Planta Simbólica:</strong> La parábola de la planta y la compasión de Jonás</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Lección sobre la Compasión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Lamento del Profeta y la Caldera</h5>
+<ul>
+    <li><strong>La Ira:</strong> Jonás **se enoja** por la misericordia de Dios (sabía que Dios era lento para la ira y grande en misericordia).</li>
+    <li><strong>El Refugio:</strong> Jonás construye una **cabaña** y espera a las afueras de la ciudad para ver si Dios la destruirá.</li>
+    <li><strong>La Calabacera:</strong> Dios hace crecer una **calabacera** (planta de sombra rápida) para proteger a Jonás del sol.</li>
+    <li><strong>El Gusano:</strong> Dios envía un **gusano** que mata la calabacera, y Jonás se enoja por su pérdida.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Sombra</h5>
+<ul>
+    <li><strong>Sombra:</strong> La sombra en el desierto era crucial para la supervivencia; la pérdida de la calabacera era un gran sufrimiento.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Misericordia:</strong> Dios le enseña a Jonás que si él se preocupa por una planta que no cultivó, **cuánto más debe Dios preocuparse** por la gran ciudad de Nínive.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **nacionalismo** y el **legalismo** humano son confrontados por la **compasión universal de Dios**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor de Dios es universal y sin límites</span>. El profeta es corregido por su falta de compasión.</p>
                 
@@ -43610,7 +46696,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio sobre Samaria:</strong> La destrucción de la capital del Norte</li>
                     <li><strong>Semejanza:</strong> Los pecados de Judá son iguales a los de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Comienza en Samaria y llega a Judá</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Theofanía y la Destrucción</h5>
+<ul>
+    <li><strong>La Theofanía:</strong> Dios es visto **saliendo de Su lugar** (el Templo) y **pisando los lugares altos** de la Tierra, anunciando el juicio.</li>
+    <li><strong>El Juicio a Samaria:</strong> Samaria (capital de Israel) será reducida a un **montón de ruinas** y sus **piedras rodarán por el valle** (la destrucción asiria).</li>
+    <li><strong>La Causa:</strong> La idolatría (las **imágenes de culto**) y los **sobornos** son la causa del juicio.</li>
+    <li><strong>El Lamento:</strong> Miqueas debe **andar descalzo y desnudo** (como un cautivo) y **gemir como dragones** y avestruces (un acto simbólico de luto extremo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Puerta de Jerusalén</h5>
+<ul>
+    <li><strong>La Amenaza:</strong> La herida del juicio **alcanza la puerta de Jerusalén**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ira:</strong> La **ira de Dios** consume los cimientos de la ciudad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **idolatría de Samaria** contamina a **Judá**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es para purificar</span>. La fe se lamenta por el pecado, reconociendo la justicia del castigo.</p>
                 
@@ -43636,7 +46744,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falsos Profetas:</strong> Prometen paz donde no hay paz</li>
                     <li><strong>Restauración:</strong> La reunión del remanente y la liberación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Mal Planeado y la Opresión Agraria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Codicia y el Juicio del Remanente</h5>
+<ul>
+    <li><strong>El Mal Planeado:</strong> Juicio contra los que **idean iniquidad en sus camas** (pecado premeditado y planeado durante el descanso).</li>
+    <li><strong>Opresión Agraria:</strong> Los ricos **codician y roban** los **campos y las casas** de los pobres, desplazándolos (violación de las leyes de herencia).</li>
+    <li><strong>El Castigo:</strong> Serán medidos con una **cuerda de repartición** de juicio, y sus campos serán repartidos a los invasores.</li>
+    <li><strong>El Profeta Falso:</strong> Los falsos profetas proclaman **"No profeticéis sobre esto"** (la negación de la verdad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Cuerda de Repartición</h5>
+<ul>
+    <li><strong>La Cuerda:</strong> La cuerda se usaba para **medir y dividir** la tierra. Dios usará el mismo instrumento para medir el juicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Herencia:</strong> El pueblo será **despojado de su tierra** por la injusticia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **violencia económica** es la causa de la desposesión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">opresión social es el mal más grave</span> que atrae el juicio de Dios. La esperanza es la unidad del remanente bajo un líder.</p>
                 
@@ -43662,7 +46792,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arar Sion:</strong> La profecía de la destrucción del Templo</li>
                     <li><strong>Pecado por Dinero:</strong> La corrupción en la profecía y el sacerdocio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Líderes que Devoran al Pueblo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Corrupción del Liderazgo y el Silencio</h5>
+<ul>
+    <li><strong>Los Príncipes:</strong> Los **príncipes y jueces** odian el bien y aman el mal.</li>
+    <li><strong>La Antropofagia Simbólica:</strong> Los líderes son comparados con los que **"comen la carne de mi pueblo"** y **"muelen sus huesos"** (la explotación extrema).</li>
+    <li><strong>Los Profetas de Salario:</strong> Los **profetas** que profetizan **paz a cambio de dinero**, pero **anuncian guerra** si no son pagados.</li>
+    <li><strong>El Castigo:</strong> Los profetas serán golpeados con la **oscuridad** (no tendrán visión).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Sangre</h5>
+<ul>
+    <li><strong>Juicio:</strong> Los jueces construyen Sión con **sangre** (corrupción legal).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Espíritu:</strong> Miqueas está **lleno del poder del Espíritu de YHWH** para denunciar la iniquidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **fracaso ético** del liderazgo sella el destino de la ciudad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio comienza por el liderazgo corrupto</span>. La fe se basa en la integridad, no en el dinero.</p>
                 
@@ -43688,7 +46840,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exilio a Babilonia:</strong> El castigo antes de la restauración</li>
                     <li><strong>Reinado de Dios:</strong> El Mesías reinará desde Sion</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión de la Restauración de Sión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Paz Mesiánica y la Ley</h5>
+<ul>
+    <li><strong>El Monte Exaltado:</strong> El **monte de la casa de YHWH** será exaltado sobre todos los demás montes.</li>
+    <li><strong>La Paz:</strong> Las naciones convertirán sus **espadas en rejas de arado** (la paz universal).</li>
+    <li><strong>El Remanente:</strong> La **coja** será reunida y el **remoto** será sanado.</li>
+    <li><strong>El Cautiverio:</strong> Israel debe ir al **cautiverio en Babilonia** como una prueba antes de la restauración.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Vid y la Higuera</h5>
+<ul>
+    <li><strong>Paz:</strong> Cada uno se sentará **debajo de su vid y debajo de su higuera** (símbolo de seguridad y paz doméstica).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Reino Eterno:</strong> El **reino de YHWH** sobre Sión será para siempre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humillación del exilio** es el preludio a la gloria eterna.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio es un medio para la restauración</span>. La fe se basa en la promesa de la paz eterna bajo el Mesías.</p>
                 
@@ -43714,7 +46888,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Origen Eterno:</strong> El Mesías existía antes de Su nacimiento terrenal</li>
                     <li><strong>Pastor de Israel:</strong> El Mesías apacentará a Su pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Profecía del Mesías de Belén</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Origen Humilde y la Redención</h5>
+<ul>
+    <li><strong>La Burla:</strong> La **autoridad** de Judá será **golpeada con vara en la mejilla** (máxima humillación).</li>
+    <li><strong>Belén Efrata:</strong> El **Mesías** saldrá de **Belén Efrata** (un pueblo humilde y pequeño).</li>
+    <li><strong>El Origen:</strong> El origen del Mesías es **desde el principio, desde los días de la eternidad**.</li>
+    <li><strong>La Paz:</strong> El Mesías será la **paz** de Israel contra la amenaza de **Asiria**.</li>
+    <li><strong>La Purificación:</strong> La purificación total de la **idolatría** (aśeras, imágenes) y el **poder militar** (carros, fortalezas).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Humillación</h5>
+<ul>
+    <li><strong>Vara:</strong> La vara en la mejilla era un **acto de extremo desprecio**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Grandeza:</strong> La **grandeza** del Mesías surge de la **humildad** de Belén.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder divino** es revelado a través de la **debilidad** y la humildad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías es el Pastor eterno</span> que nacerá en la humildad. La fe se basa en la promesa del Pastor.</p>
                 
@@ -43740,7 +46937,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Culto Falso:</strong> Dios rechaza el sacrificio sin corazón</li>
                     <li><strong>Gratitud:</strong> Recordar las obras de Dios (Balaam y Balac)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Litigio del Pacto (La Pregunta de YHWH)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pregunta Fundamental y el Castigo</h5>
+<ul>
+    <li><strong>El Litigio:</strong> Dios llama a los **montes y collados** como **testigos** en Su pleito contra Israel (un género legal).</li>
+    <li><strong>La Pregunta:</strong> **"Pueblo mío, ¿qué te he hecho, o en qué te he molestado? Respóndeme"** (6:3).</li>
+    <li><strong>La Obediencia Verdadera:</strong> El sacrificio es nulo. Dios pide: **"Hacer justicia, y amar la misericordia, y humillarte para andar con tu Dios"** (el resumen de la ética del pacto).</li>
+    <li><strong>El Engaño:</strong> Se condena el uso de **balanzas y pesas falsas** (el fraude comercial).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Balanzas Falsas</h5>
+<ul>
+    <li><strong>Balanzas:</strong> El uso de pesas fraudulentas era un **pecado social y legal** que minaba la economía.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ofrenda:</strong> El **sacrificio ético** (justicia) es superior al **sacrificio animal** (millares de carneros).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia y la humildad** son el verdadero culto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">ética es el corazón de la adoración</span>. La fe se manifiesta en la justicia y la humildad.</p>
                 
@@ -43766,7 +46985,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esperanza:</strong> El profeta espera la liberación de Dios</li>
                     <li><strong>Misericordia:</strong> Dios perdona y echa los pecados al fondo del mar</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Lamento y la Esperanza Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Corrupción Interna y la Vigilancia</h5>
+<ul>
+    <li><strong>El Lamento:</strong> Miqueas lamenta la **corrupción total** de la nación: el piadoso ha desaparecido; todos están listos para la sangre.</li>
+    <li><strong>El Odio Interno:</strong> **El hijo deshonra al padre**, y **el enemigo del hombre son los de su casa**.</li>
+    <li><strong>La Vigilancia:</strong> El profeta decide **vigilar y esperar** al Dios de su salvación.</li>
+    <li><strong>La Promesa:</strong> El enemigo se burlará, pero la **justicia de Dios** vindicará a Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Mejor y el Peor</h5>
+<ul>
+    <li><strong>Espino:</strong> El **mejor** de la nación es como el **espino**; el **más recto** es como el **seto de espinos** (solo causa dolor).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Perdón:</strong> Dios **echará en lo profundo del mar** los pecados de Su pueblo (una imagen de la purificación total).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia de Dios** es el último recurso para el pueblo apóstata.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">perdón de Dios es total y absoluto</span>. La fe se mantiene en el misterio de la misericordia de Dios.</p>
                 
@@ -43794,7 +47035,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lentitud para la Ira:</strong> La paciencia de Dios es grande</li>
                     <li><strong>Nínive:</strong> El destino de la ciudad opresora está sellado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Dios Vengador y la Theophanía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Venganza de Dios y la Justicia</h5>
+<ul>
+    <li><strong>El Tema:</strong> Nahúm comienza con una declaración de la naturaleza de YHWH: **Dios celoso y vengador** (un atributo del pacto).</li>
+    <li><strong>La Theophanía:</strong> La manifestación del poder de Dios se describe en el **caos natural**: el **torbellino, la tempestad, el mar secándose** y el Líbano marchitándose.</li>
+    <li><strong>El Juicio:</strong> El juicio es inevitable. El opresor (Asiria) es comparado con una **"zarza enmarañada"** que será consumida.</li>
+    <li><strong>Judá:</strong> Se promete que **Judá** será liberada de las ataduras y las amenazas del malvado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Fin del Opresor</h5>
+<ul>
+    <li><strong>El Opresor:</strong> El que **maquina el mal** contra YHWH será destruido.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Bondad:</strong> YHWH es **bueno, fortaleza en el día de la angustia**, y conoce a los que en Él confían.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ira de Dios** no es caprichosa, sino una manifestación de Su **justicia** por el pacto.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es justo y total</span>. El creyente encuentra consuelo en la certeza de que Dios es un guerrero.</p>
                 
@@ -43820,7 +47083,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Guarida de Leones:</strong> La metáfora de la ferocidad asiria</li>
                     <li><strong>Saqueo:</strong> La riqueza de la ciudad será tomada totalmente</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Asedio y la Caída de Nínive</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Guerrero Divino y el Terror</h5>
+<ul>
+    <li><strong>El Sitiador:</strong> El profeta describe al **sitiador** (los babilonios y los medos) en términos militares vívidos.</li>
+    <li><strong>La Guerra:</strong> Los **carros** se vuelven **rojos** (por el fuego y la sangre) y los guerreros se **agitan en el camino** (el terror de la invasión).</li>
+    <li><strong>El Fuego:</strong> Las **puertas de los ríos** (puertas que protegían a Nínive del río Tigris) se abrirán, y el palacio se **derretirá**.</li>
+    <li><strong>La Deshonra:</strong> La **reina** de Nínive es **despojada** y llevada cautiva.</li>
+    <li><strong>El León:</strong> Nínive es comparada con la **guarida de los leones** (símbolo de fuerza depredadora).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Carro y el Escudo</h5>
+<ul>
+    <li><strong>Carros:</strong> Los carros se **cruzan furiosamente** en las plazas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Saqueo:</strong> El profeta predice que el **botín** (la riqueza) de Nínive será inmenso.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **destrucción del poderoso** es la liberación del oprimido (Judá).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">poder de Dios se manifiesta en la caída de los imperios</span>. La fe se regocija en la destrucción de la opresión.</p>
                 
@@ -43846,7 +47132,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Burla:</strong> La comparación con la caída de Tebas</li>
                     <li><strong>Fin Absoluto:</strong> La destrucción de Nínive es irreversible</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio por la Crueldad y la Idolatría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ramera y el Castigo</h5>
+<ul>
+    <li><strong>El Ay:</strong> El juicio sobre la **"ciudad sanguinaria"** (Nínive), llena de **mentira y rapiña**.</li>
+    <li><strong>La Ramera:</strong> Nínive es comparada con una **ramera** (por su idolatría y su dominio sobre las naciones).</li>
+    <li><strong>La Deshonra:</strong> Dios **descubrirá su desnudez** y la **pondrá en vergüenza** delante de las naciones.</li>
+    <li><strong>Egipto (No-Amón):</strong> Se le recuerda a Nínive su propia destrucción de **Tebas (No-Amón)**, para mostrar que ella también caerá.</li>
+    <li><strong>El Fin:</strong> Los **príncipes** de Nínive serán como **langostas** que huyen.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Los Muros de Barro</h5>
+<ul>
+    <li><strong>Defensa:</strong> Los profetas se burlan de sus **muros de barro** y sus **fortificaciones de ladrillo**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Inutilidad:</strong> No hay **medicina** para la herida de Nínive. Su juicio es final.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder humano** es frágil ante el decreto de YHWH.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es contra la crueldad</span>. La liberación de Israel es el gozo de todas las naciones.</p>
                 
@@ -43874,7 +47183,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Respuesta Sorpresa:</strong> Dios usará al peor enemigo para juzgar a Su pueblo</li>
                     <li><strong>Violencia:</strong> La maldad de Judá</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Primer Lamento y la Invasión Caldea</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pregunta de la Justicia y el Silencio de Dios</h5>
+<ul>
+    <li><strong>El Lamento Inicial:</strong> Habacuc se queja de la **injusticia** y la **violencia** que ve en Judá y del aparente **silencio de Dios**.</li>
+    <li><strong>El Asombro:</strong> Dios da una respuesta sorprendente: Él está levantando a los **caldeos (Babilonios)**, una nación **"cruel y presurosa"**, para ejecutar Su juicio.</li>
+    <li><strong>Los Caldeos:</strong> Los babilonios son descritos como **jinetes veloces** y **pescadores** que atrapan naciones con sus redes y anzuelos.</li>
+    <li><strong>El Segundo Lamento:</strong> Habacuc protesta: ¿Cómo puede un Dios santo usar a un pueblo **más impío** que Judá?</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Los Pescadores de Hombres</h5>
+<ul>
+    <li><strong>Redes y Anzuelos:</strong> La táctica de los babilonios de **tomar naciones como si fueran peces** (esclavitud y saqueo).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Pureza:</strong> Habacuc se aferra a la pureza de Dios (**"muy limpio eres de ojos para ver el mal"**).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia de Dios** se revela de manera misteriosa a través de la maldad del enemigo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe confronta a Dios con honestidad</span>. El juicio de Dios es un misterio que debe ser aceptado.</p>
                 
@@ -43900,7 +47231,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cinco Ayes:</strong> El castigo a la codicia, la soberbia y la violencia de Babilonia</li>
                     <li><strong>Gloria de Dios:</strong> La Tierra se llenará del conocimiento de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión Escrita y los Cinco Ayes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Torre de Vigilancia y la Fe</h5>
+<ul>
+    <li><strong>La Torre:</strong> Habacuc se sube a su **torre de vigilancia** para esperar la respuesta de Dios.</li>
+    <li><strong>La Visión Escrita:</strong> Dios ordena a Habacuc **escribir la visión claramente** en **tablas** para que **"corra el que leyere en ella"** (para que se entienda rápidamente).</li>
+    <li><strong>El Lema Central:</strong> La respuesta a la crisis: **"Mas el justo por su fe vivirá"**.</li>
+    <li><strong>Los Cinco Ayes:</strong> Se proclaman **cinco ayes** de juicio sobre los caldeos (pecados sociales).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Usura y la Idolatría</h5>
+<ul>
+    <li><strong>Ayes:</strong> Se condenan la **codicia**, la **violencia**, la **embriaguez** (dar de beber hasta embriagarse) y la **idolatría** (confiar en la madera y la piedra).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ley:</strong> El **vivir por fe** es el principio que permite al justo perseverar en medio de la aparente injusticia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia** se basa en la **confianza radical** en Dios, no en la comprensión de Su plan.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">justo debe vivir por la fe</span> en la fidelidad de Dios. La certeza de la justicia futura es la base de la vida presente.</p>
                 
@@ -43926,7 +47279,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Alegría:</strong> La felicidad se encuentra en Dios, no en la provisión</li>
                     <li><strong>Victoria Final:</strong> Dios es la fortaleza y la fuente de la vida</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Plegaria de Habacuc (Theophanía y Redención)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Canto, la Furia y la Misericordia</h5>
+<ul>
+    <li><strong>Género:</strong> La oración se presenta como un **salmo/cántico** (con la dirección musical: **"Sigionot"**).</li>
+    <li><strong>El Avivamiento:</strong> Habacuc pide a Dios que **"avive Su obra"** en medio de los tiempos y que **"en la ira te acuerdes de la misericordia"**.</li>
+    <li><strong>La Theofanía:</strong> Dios es descrito saliendo de **Temán** y el **Monte Parán** (lugares asociados con el Sinaí y la manifestación de Dios).</li>
+    <li><strong>El Sol y la Luna:</strong> El sol y la luna se **paran** ante la luz de las flechas y la lanza de Dios.</li>
+    <li><strong>La Destrucción:</strong> Dios destruye las **casas de los impíos** y hiere la **cabeza del malvado**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Higuera y la Vid</h5>
+<ul>
+    <li><strong>La Confianza Final:</strong> Habacuc afirma que, aunque la **higuera no florezca** y no haya fruto en la vid, **él se gozará en YHWH**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Esperanza:</strong> El **gozo en Dios** es la única fuente de estabilidad, independientemente de la **prosperidad material**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad a Dios** es una elección que trasciende las circunstancias.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es incondicional</span> y trasciende la calamidad. La alegría es el resultado de la relación con Dios.</p>
                 
@@ -43954,7 +47330,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Idolatría:</strong> La mezcla de la fe con los dioses paganos</li>
                     <li><strong>Silencio:</strong> Toda la Tierra debe guardar silencio ante Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Día de YHWH y el Juicio Universal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Extirpación y la Idolatría</h5>
+<ul>
+    <li><strong>El Juicio Universal:</strong> El juicio es tan grande que Dios promete **extirpar** al hombre y al animal de sobre la faz de la Tierra (una reversión de la Creación).</li>
+    <li><strong>El Traspaso:</strong> Dios visitará a los que **saltan sobre el umbral** (una práctica supersticiosa) y a los que **llenan las casas de violencia y engaño**.</li>
+    <li><strong>La Apostasía:</strong> Se juzga a los que adoran a la **milicia celestial** (el sol, la luna, las estrellas) sobre los tejados.</li>
+    <li><strong>Los Sacrificios:</strong> El día del juicio es comparado con un **gran sacrificio** (v. 7), donde Judá es la víctima.</li>
+    <li><strong>El Silencio:</strong> El profeta ordena: **"Cállate delante de YHWH, el Señor"** (una señal de la inminencia del juicio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Riqueza Inútil</h5>
+<ul>
+    <li><strong>El Celo:</strong> El celo de Dios consume la tierra. El **oro y la plata** no podrán salvarlos en ese día.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Luz:</strong> El Día de YHWH es un día de **tinieblas y oscuridad**, no de luz.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **miedo** al Día de YHWH es el principio del arrepentimiento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es para purificar</span>. La fe exige la adoración exclusiva de YHWH.</p>
                 
@@ -43980,7 +47379,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> La búsqueda de la mansedumbre y la justicia</li>
                     <li><strong>Remanente:</strong> La esperanza de que solo un pequeño grupo se refugiará</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Llamado a la Humillación y los Oráculos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Remanente y la Humillación</h5>
+<ul>
+    <li><strong>El Arrepentimiento:</strong> Dios exhorta a la nación a **"congregarse y reunirse"** y a **humillarse** antes de que el juicio se haga efectivo.</li>
+    <li><strong>El Remanente:</strong> Solo un **remanente** de los humildes y justos será escondido en el día de la ira.</li>
+    <li><strong>Filistea:</strong> Juicio contra las ciudades filisteas (**Gaza, Ascalón**), que se convertirán en **lugares de pastoreo**.</li>
+    <li><strong>Moab y Amón:</strong> Se juzgan por su **arrogancia** y por **burlarse** de los límites de Israel. Serán convertidos en **montones de sal** y desolación.</li>
+    <li><strong>Asiria:</strong> Se predice la destrucción de **Nínive**, que será un lugar para las **bestias** y los **pelícanos**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Mofa</h5>
+<ul>
+    <li><strong>La Arrogancia:</strong> El juicio se centra en el **orgullo de las naciones** que desprecian al pueblo de Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Tierra:</strong> La tierra de los enemigos se convertirá en la **herencia** de los humildes de Judá.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la única condición para el refugio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio es un llamado a la humildad</span>. La fe se demuestra al buscar la justicia y la mansedumbre.</p>
                 
@@ -44006,7 +47428,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cántico de Dios:</strong> Dios se regocija sobre Su pueblo</li>
                     <li><strong>Restauración:</strong> La remoción del temor y la exaltación del remanente</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio a Jerusalén y la Restauración Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ciudad Rebelde y la Purificación</h5>
+<ul>
+    <li><strong>La Ciudad Rebelde:</strong> Juicio contra **Jerusalén** por ser **contaminada, opresora** y por **no obedecer** la voz de Dios.</li>
+    <li><strong>Los Líderes Corruptos:</strong> Los **príncipes** son como **leones rugientes**, los **jueces** como **lobos voraces** y los **profetas** son **ligeros y prevaricadores**.</li>
+    <li><strong>La Pureza del Lenguaje:</strong> Dios promete **purificar los labios** del pueblo para que **invoquen el nombre de YHWH** (purificación de la idolatría).</li>
+    <li><strong>El Silencio:</strong> El **rey de Israel** (YHWH) está en medio de la ciudad; no se debe temer al mal.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Ceguera</h5>
+<ul>
+    <li><strong>Ceguera:</strong> Los líderes religiosos y civiles eran **ciegos** ante la Ley de YHWH.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Restauración:</strong> Dios **echará fuera a los orgullosos** y dejará solo al **pueblo humilde** (el remanente).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **presencia de Dios** en la ciudad es la fuente de la **alegría y la danza**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor de Dios triunfa sobre el juicio</span>. La fe se goza en el canto de amor de Dios.</p>
                 
@@ -44034,7 +47478,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Bendición Condicional:</strong> La falta de bendición es por la desobediencia</li>
                     <li><strong>Llamamiento:</strong> El pueblo responde y comienza la obra</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Lamento por el Templo y el Llamado a la Obra</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prioridad Invertida y la Sequía</h5>
+<ul>
+    <li><strong>El Periodo:</strong> Los mensajes de Hageo son **fechados con precisión** (el año segundo de Darío, 520 a.C.), mostrando la importancia de la cronología persa.</li>
+    <li><strong>El Reto:</strong> El pueblo decía: **"No ha llegado aún el tiempo, el tiempo de que la casa de YHWH sea reedificada"** (el pretexto para la inacción).</li>
+    <li><strong>La Queja:</strong> Dios los reprende: **"¿Es para vosotros tiempo de habitar en vuestras casas artesonadas, y esta casa [el Templo] está desierta?"** (crítica a la prioridad invertida).</li>
+    <li><strong>El Castigo:</strong> Dios envió **sequía** (la escasez de lluvia) y **escasez económica** (cosechas pobres) como juicio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Las Casas Artesonadas</h5>
+<ul>
+    <li><strong>Casas Artesonadas:</strong> Se refiere a casas con **paneles de madera** finos (lujo), en contraste con el Templo en ruinas.</li>
+    <li><strong>El Saco Roto:</strong> La bendición económica es como **echar el dinero en saco roto** (el trabajo no produce riqueza).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Obediencia:</strong> El pueblo **obedeció la voz de Hageo** y comenzó la obra, y el profeta les dio una **bendición inmediata** de ánimo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **prosperidad material** está ligada a la **prioridad del culto**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">prioridad de la Casa de Dios</span> es la base de la bendición material. La fe se demuestra en la acción.</p>
                 
@@ -44060,7 +47527,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sello de Zorobabel:</strong> La promesa de la continuidad del linaje de David</li>
                     <li><strong>Sacudimiento:</strong> La acción de Dios para juzgar a las naciones</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Gloria Postrera y la Promesa Mesiánica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Templo Menor y la Gloria Futura</h5>
+<ul>
+    <li><strong>La Desmoralización:</strong> El profeta consuela a los ancianos que **recordaban la gloria del Primer Templo** (el de Salomón) y veían el nuevo como nada.</li>
+    <li><strong>La Gloria Postrera:</strong> Dios promete que la **gloria postrera de esta casa será mayor que la primera** (una profecía escatológica).</li>
+    <li><strong>El Gran Sacrificio:</strong> Dios **"hará temblar los cielos y la tierra"** (una theofanía).</li>
+    <li><strong>La Certeza:</strong> Dios declara: **"Mía es la plata, y mío es el oro"** (la provisión material no será un obstáculo).</li>
+    <li><strong>El Anillo de Sellamiento:</strong> Dios promete a **Zorobabel** (el gobernador davídico) que lo tomará como **anillo de sellamiento** (símbolo de autoridad mesiánica y elección).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Santidad Contagiosa</h5>
+<ul>
+    <li><strong>Pureza Ritual:</strong> El profeta pregunta si la **santidad es contagiosa** (no lo es), pero la **inmundicia sí lo es** (la persistencia del pecado).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Lo Material vs. Lo Espiritual:</strong> La **grandeza del Templo** no estará en el material (plata y oro), sino en la **presencia de Dios**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Mesías** vendrá a través del linaje de Zorobabel (la promesa real).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gloria del Templo es el Mesías</span>. La fe se basa en la promesa de la restauración final del linaje de David.</p>
                 
@@ -44088,7 +47578,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Caballos:</strong> Los mensajeros de Dios que vigilan la Tierra</li>
                     <li><strong>Intercesión:</strong> El ángel intercede por Jerusalén</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Llamado al Arrepentimiento y la Primera Visión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Voz Profética y el Juicio Histórico</h5>
+<ul>
+    <li><strong>El Periodo:</strong> Zacarías comienza a profetizar **dos meses después** de Hageo (520 a.C.), para animar a los retornados a completar el Templo.</li>
+    <li><strong>El Llamado:</strong> Exhortación a **"Volveos a Mí"**, usando el **juicio pasado** (los padres no escucharon a los profetas) como advertencia.</li>
+    <li><strong>Primera Visión (Caballos):</strong> Visión de **cuatro jinetes** (rojos, bayos, blancos) que han recorrido la Tierra (patrulla divina).</li>
+    <li><strong>Segunda Visión (Cuatro Cuernos):</strong> Visión de **cuatro cuernos** (poderes paganos que dispersaron a Israel) y **cuatro herreros** (los agentes de Dios que destruirán esos cuernos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Apocalíptico: El Patrullaje Divino</h5>
+<ul>
+    <li><strong>Jinetes:</strong> Los jinetes actúan como una **milicia celestial** que vigila la Tierra e informa a Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ira vs. La Misericordia:</strong> La **ira de Dios** duró setenta años (el exilio), pero Su **misericordia** es el fundamento de la restauración.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **control de la historia** pertenece a YHWH, incluso en el aparente dominio pagano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">arrepentimiento es la llave de la restauración</span>. La fe sabe que la providencia de Dios vigila toda la Tierra.</p>
                 
@@ -44114,7 +47626,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Crecimiento:</strong> Jerusalén será sin muros por su inmenso crecimiento</li>
                     <li><strong>Huida de Babilonia:</strong> El mandato de salir del lugar de opresión</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión del Cordel de Medir y la Gloria</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Medida y la Presencia</h5>
+<ul>
+    <li><strong>Tercera Visión:</strong> Visión de un **hombre con un cordel de medir** (la plomada).</li>
+    <li><strong>El Sentido:</strong> Jerusalén será restaurada y será **"sin muros"** (v. 4) por su crecimiento, ya que **YHWH será un muro de fuego** a su alrededor.</li>
+    <li><strong>La Gloria:</strong> La Gloria de YHWH morará en medio de ella.</li>
+    <li><strong>El Llamado:</strong> Exhortación a los judíos que aún están en **Babilonia** (la "tierra del norte") a **huir**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: El Cordel</h5>
+<ul>
+    <li><strong>Medición:</strong> El cordel se usaba para **medir la longitud** y planificar la construcción de muros.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Muro Físico vs. Muro Espiritual:</strong> La **protección de Dios** es más fuerte que cualquier fortificación humana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **seguridad** no está en la defensa militar, sino en la **presencia divina**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">presencia de Dios es el único muro de protección</span>. La fe se basa en la promesa del crecimiento futuro.</p>
                 
@@ -44140,7 +47674,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Purificación Sacerdotal:</strong> La limpieza de las vestiduras viles</li>
                     <li><strong>El Renuevo:</strong> La figura mesiánica que quitará el pecado en un día</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión del Sumo Sacerdote Josué</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Purificación del Sacerdocio</h5>
+<ul>
+    <li><strong>Cuarta Visión:</strong> El Sumo Sacerdote **Josué** (el líder espiritual de la restauración) se presenta ante el Ángel de YHWH.</li>
+    <li><strong>El Satán:</strong> **Satán** está a la diestra de Josué, acusándolo (el rol de fiscal).</li>
+    <li><strong>Las Vestiduras:</strong> Josué es vestido con **ropas sucias** (símbolo de la iniquidad y la contaminación del sacerdocio en el exilio).</li>
+    <li><strong>La Purificación:</strong> Dios ordena **quitar las ropas sucias** y ponerle **vestiduras de gala** y un **turbante limpio** (purificación ritual).</li>
+    <li><strong>El Vástago:</strong> Profecía del **"Vástago"** (el Mesías) que vendrá a **quitar la iniquidad** en un solo día.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Acusación</h5>
+<ul>
+    <li><strong>Fiscal:</strong> Satán actúa como el **fiscal** en un tribunal celestial.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Limpieza:</strong> La **santidad del sacerdocio** es esencial para el culto y la nación, y es un acto de gracia divina.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gracia de Dios** revierte el juicio y la vergüenza del sacerdocio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">purificación sacerdotal es esencial</span> para el culto. El Mesías (el Renuevo) es la única fuente de la justicia.</p>
                 
@@ -44166,7 +47723,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dos Ungidos:</strong> El liderazgo dual (realeza y sacerdocio)</li>
                     <li><strong>Plomada:</strong> Zorobabel terminará la obra del Templo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión del Candelabro y los Dos Ungidos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Aceite, el Espíritu y el Candelabro</h5>
+<ul>
+    <li><strong>Quinta Visión:</strong> El **candelabro de oro puro** con **siete lámparas** (símbolo de la Iglesia/Israel/el Espíritu de Dios).</li>
+    <li><strong>Los Olivos:</strong> **Dos olivos** (uno a cada lado) que vierten aceite en el candelabro (símbolo de los **Dos Ungidos**).</li>
+    <li><strong>La Interpretación:</strong> Los dos ungidos son **Josué** (el sacerdote) y **Zorobabel** (el gobernador davídico/el rey).</li>
+    <li><strong>La Promesa a Zorobabel:</strong> **"No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho YHWH de los ejércitos"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Litúrgico: El Candelabro</h5>
+<ul>
+    <li><strong>Aceite:</strong> El aceite es la **metáfora del Espíritu Santo** que sostiene el testimonio de la comunidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Lo Pequeño:</strong> El comienzo del Templo era humilde, pero **"el que menosprecia el día de las pequeñeces se alegrará"** al ver la plomada en mano de Zorobabel.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fuerza del Espíritu** es la única que puede completar la obra de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">poder para la obra de Dios es sobrenatural</span>. La fe se basa en el Espíritu, no en los recursos humanos.</p>
                 
@@ -44192,7 +47771,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Efa:</strong> El juicio de la iniquidad de Israel</li>
                     <li><strong>Sinar/Babilonia:</strong> El lugar donde el pecado será juzgado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Purga de la Tierra y la Iniquidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio de la Maldad y la Iniquidad</h5>
+<ul>
+    <li><strong>Sexta Visión (Rollo Volador):</strong> Visión de un **rollo que vuela** (20 codos de largo, 10 de ancho, las dimensiones del Lugar Santo). Símbolo de la **maldición** que recorre toda la Tierra.</li>
+    <li><strong>El Juramento:</strong> La maldición cae sobre el **ladrón** y el que **jura falsamente** por el Nombre de Dios.</li>
+    <li><strong>Séptima Visión (Efa):</strong> Una mujer (**la Maldad**) está sentada dentro de un **Efa** (medida de grano).</li>
+    <li><strong>El Destino:</strong> Dos mujeres con alas la llevan a la **tierra de Sinar** (Babilonia), su lugar de origen, para purgar la maldad de Sión.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Robo y la Medida</h5>
+<ul>
+    <li><strong>Efa:</strong> El Efa era una **medida estándar** para el comercio de grano. La maldad es una medida que debe ser quitada.</li>
+    <li><strong>Sinar:</strong> El nombre bíblico de **Babilonia**, el centro de la maldad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Pureza:</strong> El **pecado** debe ser **removido geográficamente** de la Tierra Santa para que la presencia de Dios permanezca.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **santidad del Templo** requiere la purga de la maldad en la vida cotidiana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es para purificar la Tierra</span>. La fe debe buscar la integridad y la justicia.</p>
                 
@@ -44218,7 +47820,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sacerdote-Rey:</strong> La unión de los oficios en el Mesías (el Renuevo)</li>
                     <li><strong>Templo:</strong> El Mesías edificará el Templo de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión de los Carros y la Coronación Mesiánica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Milicia Celestial y el Sacerdote-Rey</h5>
+<ul>
+    <li><strong>Octava Visión (Carros):</strong> Cuatro **carros** (rojos, negros, blancos y bayos) salen de entre dos **montes de bronce** (símbolo del juicio divino que patrulla la Tierra).</li>
+    <li><strong>El Cautiverio:</strong> Los carros van al Norte y al Sur (hacia Babilonia y Egipto).</li>
+    <li><strong>La Coronación Simbólica:</strong> El profeta recibe la orden de tomar **oro y plata** y hacer una **corona** para ponérsela a **Josué**, el Sumo Sacerdote.</li>
+    <li><strong>El Hombre del Vástago:</strong> Profecía del **"Varón cuyo nombre es Vástago"** (el Mesías), que construirá el Templo.</li>
+    <li><strong>El Sacerdote en el Trono:</strong> El Vástago será **Sacerdote sobre Su trono** (unión de la realeza davídica y el sacerdocio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arqueológico: La Corona</h5>
+<ul>
+    <li><strong>Corona:</strong> La corona colocada sobre Josué (el sacerdote) es un **acto profético**, señalando al Rey Mesías.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Unidad:</strong> El Mesías será el **único** que una el poder sacerdotal y el real.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **control de la historia** (los carros) está en la mano de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías será Rey y Sacerdote</span>. La fe se basa en la promesa del Renuevo que traerá el reino de paz.</p>
                 
@@ -44244,7 +47869,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Verdadera Adoración:</strong> Justicia y misericordia</li>
                     <li><strong>Juicio:</strong> El castigo por el rechazo a la Ley</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Pregunta sobre el Ayuno y el Juicio Ético</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Ritual vs. La Justicia</h5>
+<ul>
+    <li><strong>La Pregunta:</strong> La gente de **Bet-el** envía a preguntar a los sacerdotes si deben **seguir ayunando** por la destrucción del Templo (el ayuno del quinto y séptimo mes).</li>
+    <li><strong>El Ritual Vacío:</strong> Dios condena el ayuno, preguntando si el pueblo ayunó **para Mí** o para sí mismos.</li>
+    <li><strong>El Llamado Ético:</strong> Dios exige: **"Ejecutad juicio verdadero, y haced misericordia y compasión cada cual con su hermano"**.</li>
+    <li><strong>El Corazón Obstinado:</strong> El castigo se debe a que el pueblo **no escuchó** y puso su **corazón como diamante** (obstinación).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: El Ayuno</h5>
+<ul>
+    <li><strong>Ayunos:</strong> Los ayunos eran **memoriales** de los desastres nacionales. El ayuno sin moralidad es condenado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Obra de Dios:</strong> La **obediencia y la justicia** son la verdadera adoración.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **ritual sin ética** es una abominación, como lo enseñó Jeremías.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">ética es el corazón de la adoración</span>. El verdadero ayuno es el acto de la justicia social.</p>
                 
@@ -44270,7 +47917,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Jerusalén:</strong> La ciudad de la verdad y el monte santo</li>
                     <li><strong>Conversión Gentil:</strong> Las naciones se asirán del manto del judío</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Promesas de Paz, Verdad y Gozo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Restauración de la Vida Cívica y la Verdad</h5>
+<ul>
+    <li><strong>El Celo:</strong> YHWH declara un **celo grande y furioso** por Jerusalén para restaurarla.</li>
+    <li><strong>Los Ancianos:</strong> Los **ancianos** se sentarán en las calles de Jerusalén, y los **niños y las niñas** jugarán en sus plazas (símbolo de paz y vida cívica).</li>
+    <li><strong>Los Cuatro Ayunos:</strong> Los **ayunos** (del cuarto, quinto, séptimo y décimo mes) se convertirán en **fiestas de gozo**.</li>
+    <li><strong>La Ley:</strong> El pueblo debe **"hablar verdad cada cual con su prójimo"** y no urdir maldad.</li>
+    <li><strong>Las Naciones:</strong> Diez hombres de **toda lengua de las naciones** se asirán al manto de un judío para ir a YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Manto</h5>
+<ul>
+    <li><strong>Manto:</strong> Asirse al manto era un **acto de súplica y dependencia** (como en la historia de Elías).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paz:</strong> La **paz verdadera** es el fruto de la **verdad y la justicia**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **bendición de Dios** será un faro para la conversión de las naciones.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">paz y el gozo son las bendiciones de la restauración</span>. La fe es el medio para la unión con el pueblo de Dios.</p>
                 
@@ -44296,7 +47966,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paz:</strong> El Mesías quitará los carros de guerra</li>
                     <li><strong>Dominio Universal:</strong> Su reino será de mar a mar</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Rey Humilde y el Jinete del Asna</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Oráculo contra las Naciones y el Mesías</h5>
+<ul>
+    <li><strong>El Juicio:</strong> Oráculos contra las ciudades de **Siria y Filistea** (Hamat, Tiro, Sidón), que serán destruidas.</li>
+    <li><strong>El Rey Humilde:</strong> Profecía del **Rey Mesías** que vendrá a Sión: **"justo y salvador, humilde, y cabalgando sobre un asna"**.</li>
+    <li><strong>La Paz:</strong> El Mesías **quebrantará los carros** de Efraín y **anunciará la paz** a las naciones.</li>
+    <li><strong>El Asna:</strong> El asna es un símbolo de **humildad y paz** (en contraste con el caballo de guerra).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Arco y el Carro</h5>
+<ul>
+    <li><strong>Carro de Guerra:</strong> El rey de guerra venía sobre un caballo o un carro. El rey de paz viene sobre un asna.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Sangre:</strong> La **sangre del pacto** librará a los prisioneros del **pozo sin agua**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad del Mesías** es la fuente de Su poder.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías es un Rey de paz y humildad</span>. La fe se goza en el Rey que viene a traer la paz al mundo.</p>
                 
@@ -44322,7 +48014,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reunión:</strong> La restauración de todas las tribus de Israel</li>
                     <li><strong>Victoria:</strong> El pueblo será fuerte en Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Súplica por la Lluvia y la Reunión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio a los Falsos Pastores y la Lluvia</h5>
+<ul>
+    <li><strong>La Lluvia:</strong> El pueblo debe pedir **lluvia** a YHWH, no a los **adivinos o terafim** (ídolos domésticos).</li>
+    <li><strong>Los Pastores:</strong> Juicio a los **malos líderes** (pastores) que guían al pueblo a la idolatría.</li>
+    <li><strong>La Reunión:</strong> Dios **reunirá** a Efraín (el Norte) y Judá (el Sur) para traerlos de vuelta de **Egipto y Asiria**.</li>
+    <li><strong>La Humillación:</strong> La **soberbia de Asiria** será humillada, y el **cetro de Egipto** será quitado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Terafim</h5>
+<ul>
+    <li><strong>Terafim:</strong> Ídolos domésticos usados para la adivinación.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Dependencia:</strong> La **vida agrícola** depende de la bendición de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confianza en YHWH** es la fuente del sustento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fuerza del pueblo de Dios es sobrenatural</span>. La fe se basa en la promesa de la restauración total.</p>
                 
@@ -44348,7 +48062,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pastores Malos:</strong> Los líderes que son condenados a la destrucción</li>
                     <li><strong>Destrucción:</strong> El juicio del Templo y el pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Rechazo del Mesías y el Precio del Pastor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Parábola del Pastor y el Precio</h5>
+<ul>
+    <li><strong>El Buen Pastor:</strong> El profeta actúa como **Pastor** con dos cayados: **Gracia (Noam)** y **Unión (Jobel)**.</li>
+    <li><strong>La Despedida:</strong> El Pastor rompe el cayado **"Gracia"** (el fin de la misericordia).</li>
+    <li><strong>El Precio:</strong> El Pastor es pagado con **treinta piezas de plata** por Su servicio (el precio de un esclavo).</li>
+    <li><strong>El Desprecio:</strong> El precio se echa en el **Templo al alfarero** (la burla al salario).</li>
+    <li><strong>El Cayado Roto:</strong> El Pastor rompe el cayado **"Unión"** (la división entre Judá e Israel).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Comercial: La Plata y el Esclavo</h5>
+<ul>
+    <li><strong>30 Piezas:</strong> El precio de un esclavo herido o perdido (Éxodo 21:32). El **desprecio** de Su valor.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Valor:</strong> El **valor de Dios** es despreciado por el pueblo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **traición** es un acto que Dios predice y permite.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">traición es el precio del Mesías</span>. La fe ve en la traición la profecía del Redentor.</p>
                 
@@ -44374,7 +48111,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Traspasado:</strong> El lamento por el Mesías herido</li>
                     <li><strong>Espíritu de Gracia:</strong> El arrepentimiento y la liberación final</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Defensa de Jerusalén y el Espíritu de Súplica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Copa y el Lamento Público</h5>
+<ul>
+    <li><strong>La Copa:</strong> Jerusalén será una **copa de temblor** (un vaso envenenado) para todos los pueblos.</li>
+    <li><strong>La Piedra:</strong> Jerusalén será una **piedra pesada** para todas las naciones (un estorbo).</li>
+    <li><strong>El Espíritu:</strong> Dios derramará **espíritu de gracia y de súplica** sobre la casa de David.</li>
+    <li><strong>El Luto:</strong> El pueblo hará **gran luto** por el que **"traspasaron"** (un lamento público por el Mesías).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Luto</h5>
+<ul>
+    <li><strong>Luto:</strong> El luto será tan grande como el de **Hadadrimón** en el valle de Meguido (un luto legendario).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Traspaso:</strong> La **pena por la muerte del Mesías** es el catalizador de la restauración.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **arrepentimiento nacional** es la clave para la defensa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">lamento es el arrepentimiento por el Mesías</span>. La fe se basa en la promesa del Espíritu de gracia.</p>
                 
@@ -44400,7 +48159,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pastor Herido:</strong> El castigo del Mesías para la purificación de Israel</li>
                     <li><strong>Falsos Profetas:</strong> La eliminación de la mentira en la nación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Purificación del Pecado y el Pastor Herido</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Fuente de la Limpieza y el Juicio</h5>
+<ul>
+    <li><strong>La Fuente:</strong> Se abrirá una **fuente** para **limpiar del pecado y la inmundicia**.</li>
+    <li><strong>Los Falsos Profetas:</strong> Los **falsos profetas** serán avergonzados y **dejarán de usar el manto** para mentir.</li>
+    <li><strong>La Marca:</strong> El profeta falso dirá que sus **heridas** son por la disciplina recibida **en casa de sus amigos** (negando su pecado).</li>
+    <li><strong>El Pastor Herido:</strong> El Pastor será **herido** y las ovejas serán dispersadas.</li>
+    <li><strong>La Prueba:</strong> Un **tercio** será pasado por el fuego y **purificado como oro**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Manto</h5>
+<ul>
+    <li><strong>Manto:</strong> El manto era el **símbolo del oficio profético**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Purificación:</strong> La **purificación** es un proceso violento, pero necesario para la santidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **herida del Pastor** es el medio de la redención.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fuente de limpieza es la obra de Cristo</span>. El sufrimiento del Pastor es el medio de la purificación.</p>
                 
@@ -44426,7 +48208,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Rey Universal:</strong> El Mesías será Rey sobre toda la Tierra</li>
                     <li><strong>Santidad Total:</strong> La vida cotidiana será dedicada a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Batalla Final y la Santidad de Jerusalén</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Día de YHWH y la Theofanía</h5>
+<ul>
+    <li><strong>El Día:</strong> La **batalla final** en Jerusalén, donde **todas las naciones** se reúnen contra ella.</li>
+    <li><strong>El Monte:</strong> YHWH pondrá Sus **pies sobre el Monte de los Olivos**, y se **partirá en dos**.</li>
+    <li><strong>El Agua:</strong> **Aguas vivas** saldrán de Jerusalén (la restauración edénica).</li>
+    <li><strong>Santidad Total:</strong> Todo en la ciudad será santo: las **campanillas de los caballos** llevarán la inscripción **"Santidad a YHWH"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Caldera del Templo</h5>
+<ul>
+    <li><strong>Calderas:</strong> Las **calderas en la casa de YHWH** serán tan santas como los **vasos del altar**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Plaga:</strong> Los enemigos serán golpeados con una **plaga** (su carne se pudrirá mientras están de pie).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **santidad** es la ley de la Tierra en el tiempo final.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías es el Rey universal</span> que establece la paz y la santidad total.</p>
                 
@@ -44454,7 +48258,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Elección:</strong> El amor soberano por Jacob y el rechazo a Esaú</li>
                     <li><strong>Desprecio Sacerdotal:</strong> La falta de reverencia en el ministerio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Amor de Dios y la Profanación del Culto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Desprecio del Sacerdocio y el Altar</h5>
+<ul>
+    <li><strong>El Género:</strong> El libro se presenta como una serie de **disputas** (declaración de Dios, pregunta del pueblo, refutación de Dios).</li>
+    <li><strong>Amor vs. Odio:</strong> Dios afirma su amor por **Jacob** (Israel) y su odio por **Esaú** (Edom), cuya tierra ha sido destruida (vindicación de la promesa).</li>
+    <li><strong>El Sacrificio Corrupto:</strong> El profeta denuncia a los sacerdotes por ofrecer **animales ciegos, cojos o enfermos** en el altar (una violación de la Ley Mosaica que exigía animales perfectos).</li>
+    <li><strong>El Oprobio:</strong> Los sacerdotes trataban el altar de Dios como una **"mesa inmunda"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Gobernador Persa</h5>
+<ul>
+    <li><strong>El Desafío:</strong> Se desafía al pueblo a ofrecer tales animales **al gobernador**; si lo hicieran, no serían aceptados (v. 8). La Ley de Dios debe ser tratada con más respeto que la ley de Persia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fama Universal:</strong> El **nombre de YHWH** es **grande entre las naciones** (una profecía del culto universal), mientras que Israel lo desprecia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **valor de la ofrenda** refleja el **valor del pacto** en el corazón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">reverencia por Dios es la base del culto</span>. El amor de Dios es incondicional, pero espera lo mejor.</p>
                 
@@ -44480,7 +48306,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Divorcio:</strong> La condena a la traición a la esposa del pacto</li>
                     <li><strong>Matrimonio Mixto:</strong> El riesgo de la idolatría por las esposas extranjeras</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pacto Quebrantado del Sacerdocio y el Matrimonio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Pacto de Leví y el Matrimonio</h5>
+<ul>
+    <li><strong>El Sacerdocio:</strong> Dios amenaza con **enviar maldición** sobre el sacerdocio corrupto y **echar el estiércol** de las ofrendas en sus rostros.</li>
+    <li><strong>El Modelo de Leví:</strong> Se recuerda el **Pacto de Leví** (paz, vida y verdad), que el sacerdocio moderno ha violado.</li>
+    <li><strong>El Matrimonio Mixto:</strong> El profeta condena el **matrimonio mixto** (casarse con la hija de un dios ajeno) que se había extendido en la comunidad.</li>
+    <li><strong>El Divorcio:</strong> Dios condena la **infidelidad** y el **divorcio** de las esposas de la juventud.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Traición</h5>
+<ul>
+    <li><strong>El Alter:</strong> La traición se compara con **cubrir el altar de YHWH de lágrimas** (las lágrimas de las esposas abandonadas).</li>
+    <li><strong>El Odio:</strong> Dios declara que **"aborrece el repudio (divorcio)"** (v. 16).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Simiente:</strong> El **matrimonio pactual** tiene como objetivo preservar una **"descendencia para Dios"** (simiente santa).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad en el hogar** (matrimonio) es la prueba de la fidelidad a Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad matrimonial es un reflejo de la fidelidad a Dios</span>. El ministerio debe ser puro y fiel a la Ley.</p>
                 
@@ -44506,7 +48355,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Diezmos:</strong> El robo a Dios y la bendición condicional</li>
                     <li><strong>Purificación:</strong> La purificación del sacerdocio por el Mesías</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Mensajero, los Diezmos y la Prueba</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Mensajero del Pacto y la Retribución</h5>
+<ul>
+    <li><strong>El Mensajero:</strong> Profecía del **"mensajero"** que preparará el camino delante de YHWH (Juan el Bautista).</li>
+    <li><strong>El Juicio del Templo:</strong> El **Mensajero del Pacto** (el Mesías) vendrá a **purificar a los hijos de Leví** (el sacerdocio).</li>
+    <li><strong>El Robo a Dios:</strong> El pueblo es condenado por **robar a Dios** en los **diezmos y las ofrendas**.</li>
+    <li><strong>La Prueba:</strong> Dios insta al pueblo a **"probarme ahora en esto"** (la única vez que Dios invita a ser probado).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Económico: El Diezmo</h5>
+<ul>
+    <li><strong>Diezmo:</strong> El diezmo (la décima parte) era el **sustento legal** de los levitas y el mantenimiento del Templo.</li>
+    <li><strong>La Ventana:</strong> La bendición se describe como la **apertura de las ventanas del cielo** (la provisión abundante de lluvia).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Libro de la Memoria:</strong> Dios tiene un **"libro de memoria"** para los que le temen.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **generosidad** es el catalizador de la bendición divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad en las finanzas es un acto de adoración</span>. La venida del Mesías es para el juicio y la purificación.</p>
                 
@@ -44532,7 +48404,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Regreso de Elías:</strong> La preparación para la venida del Señor</li>
                     <li><strong>Ley de Moisés:</strong> La última instrucción de Dios antes del silencio profético</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Día de YHWH y el Retorno de Elías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sol de Justicia y el Legado</h5>
+<ul>
+    <li><strong>El Día Ardiente:</strong> El **Día de YHWH** vendrá como un **horno ardiente**, que **quemará a los soberbios** y a los impíos como si fueran paja.</li>
+    <li><strong>El Sol:</strong> Los justos saldrán con **"salud en Sus alas"** (el Sol de Justicia) y **saltarán** como becerros del establo.</li>
+    <li><strong>La Ley:</strong> El pueblo debe **acordarse de la Ley de Moisés**, la última instrucción antes del silencio profético.</li>
+    <li><strong>Elías:</strong> Dios promete enviar al **profeta Elías** (el gran profeta que no murió) **antes** del Día de YHWH.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Paja</h5>
+<ul>
+    <li><strong>Paja:</strong> Los impíos son comparados con la **paja** que es consumida en el horno.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Corazón:</strong> Elías **hará volver el corazón de los padres a los hijos, y el corazón de los hijos a los padres** (la restauración de la unidad familiar y el pacto).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Ley de Moisés** y el **Espíritu de Elías** son el final del Antiguo Testamento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Antiguo Testamento termina con la expectativa</span> del Mesías (Sol de Justicia) y el ministerio de Juan el Bautista (Elías).</p>
                 
@@ -44560,7 +48454,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Linaje Davídico:</strong> La prueba de que Jesús es el Rey Mesías</li>
                     <li><strong>Nacimiento Virginal:</strong> La naturaleza divina y humana de Jesús</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Genealogía y el Nacimiento del Mesías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Genealogía Real y la Ley</h5>
+<ul>
+    <li><strong>Propósito:</strong> Mateo abre con la genealogía para probar que Jesús es el Mesías y el heredero legal al trono de **David** y el descendiente de **Abraham**.</li>
+    <li><strong>La División:</strong> La lista se divide en **tres secciones de 14 generaciones** (un recurso mnemotécnico y un valor numérico para el nombre de David).</li>
+    <li><strong>Las Mujeres:</strong> Se incluyen intencionalmente **cuatro mujeres** (Tamar, Rahab, Rut, y la mujer de Urías) en la genealogía, todas con historias irregulares, presagiando el nacimiento inusual de Jesús.</li>
+    <li><strong>El Sueño de José:</strong> El **sueño** es el medio por el cual Dios se comunica con José, validando la concepción virginal y asegurando la obediencia de José.</li>
+    <li><strong>El Nombre:</strong> **Jesús** (Yeshúa) significa **"YHWH salva"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Justo</h5>
+<ul>
+    <li><strong>José el Justo:</strong> José, al ser justo, planea **dejar a María secretamente** para proteger su reputación sin exponerla al juicio público.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Profecía:</strong> El nacimiento virginal es el cumplimiento de la profecía de **Isaías 7:14** (Emanuel).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El nacimiento de Jesús es la **intervención de Dios** en la historia humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Antiguo Testamento encuentra su objetivo en Cristo</span>. La soberanía de Dios guía la historia para traer a Su Hijo al mundo.</p>
                 
@@ -44586,7 +48503,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hostilidad:</strong> El rechazo del mundo a Cristo desde el nacimiento</li>
                     <li><strong>Cumplimiento:</strong> El patrón de la vida de Jesús en la historia de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Magos, Herodes y el Éxodo a Egipto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Cumplimiento de las Escrituras</h5>
+<ul>
+    <li><strong>Los Magos:</strong> Eran astrólogos o sabios de **Oriente** (Babilonia o Persia), expertos en la **interpretación de las estrellas** y los sueños.</li>
+    <li><strong>Herodes el Grande:</strong> El rey puesto por Roma era paranoico. Su **miedo al Mesías** se debe a que ve amenazado su trono.</li>
+    <li><strong>Belén:</strong> Los sacerdotes identifican **Belén** como el lugar de nacimiento del Mesías (Miqueas 5:2).</li>
+    <li><strong>La Matanza:</strong> La matanza de los niños de Belén es el cumplimiento de la profecía de **Jeremías** (Raquel llorando por sus hijos).</li>
+    <li><strong>Egipto:</strong> La huida y el regreso de Jesús cumplen la tipología de Israel: **"De Egipto llamé a mi Hijo"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Político: El Miedo de Herodes</h5>
+<ul>
+    <li><strong>Asesinato Real:</strong> Herodes no dudaba en **asesinar** a cualquier posible rival (incluso a su propia familia).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Adoración Gentil:</strong> Los **magos paganos** adoran al Mesías, mientras que el **rey de Israel** busca matarlo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sabiduría pagana** reconoce al Mesías, mientras que el liderazgo judío lo rechaza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida de Jesús está marcada por el sufrimiento</span> y el cumplimiento del plan divino. La fe de los gentiles es una señal profética.</p>
                 
@@ -44612,7 +48552,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cumplir la Justicia:</strong> Jesús se identifica con la humanidad pecadora</li>
                     <li><strong>Trinidad:</strong> La manifestación del Padre, el Hijo y el Espíritu Santo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Juan el Bautista y el Bautismo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Profeta del Desierto y el Rito de Purificación</h5>
+<ul>
+    <li><strong>Juan el Bautista:</strong> Profeta que predicaba en el **desierto de Judea**. Su vestimenta de **pelo de camello** y su dieta de **langostas y miel silvestre** lo asemejan al profeta **Elías**.</li>
+    <li><strong>El Bautismo (Mikveh):</strong> El rito del bautismo era una **inmersión ritual (mikveh)** utilizada por los judíos para la purificación de los gentiles conversos o para la iniciación.</li>
+    <li><strong>El Mensaje:</strong> Juan exigía **"Haced frutos dignos de arrepentimiento"**.</li>
+    <li><strong>Los Saduceos y Fariseos:</strong> Sectas religiosas que Juan confronta. Los saduceos eran la élite aristocrática; los fariseos, los maestros de la Ley.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Frutos</h5>
+<ul>
+    <li><strong>Frutos:</strong> Los "frutos" (acciones) deben demostrar la sinceridad del **arrepentimiento** (la ética práctica).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Espíritu:</strong> El bautismo de Juan es con **agua** (purificación externa); el de Jesús es con **Espíritu Santo y Fuego** (transformación interna y juicio).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **bautismo de Jesús** es Su identificación con el pueblo y la **manifestación Trinitaria**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">bautismo de Jesús inicia Su ministerio</span> público y revela la Trinidad. El arrepentimiento es la puerta al Reino.</p>
                 
@@ -44638,7 +48600,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder de la Palabra:</strong> La Escritura es la defensa contra el diablo</li>
                     <li><strong>Llamado:</strong> Jesús llama a Sus discípulos a "pescadores de hombres"</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Tentación y el Inicio de la Misión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Ayuno, el Desierto y la Ley</h5>
+<ul>
+    <li><strong>El Desierto:</strong> Jesús ayuna **cuarenta días y cuarenta noches** (número simbólico que recuerda a Moisés y a Israel en el desierto).</li>
+    <li><strong>La Tentación:</strong> La prueba ocurre en el desierto, citando al **Diablo** y a **Jesús** (quien responde con citas del Deuteronomio).</li>
+    <li><strong>Galilea:</strong> Jesús se retira a **Galilea** (Galilea de los gentiles), cumpliendo Isaías 9:1-2.</li>
+    <li><strong>El Mensaje:</strong> El resumen de Su mensaje es el mismo de Juan: **"Arrepentíos, porque el reino de los cielos se ha acercado"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Geográfico: El Templo</h5>
+<ul>
+    <li><strong>El Templo:</strong> El Diablo lleva a Jesús al **pináculo del Templo** (la parte más alta) para tentarlo (la prueba de la fe pública).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Desafío:</strong> Jesús, el **nuevo Israel**, supera la prueba donde el antiguo Israel había fallado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **victoria sobre Satanás** establece la autoridad del Mesías.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías vence el poder de Satanás</span> a través de la obediencia. El Reino se anuncia con la predicación y la sanidad.</p>
                 
@@ -44664,7 +48648,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cumplimiento de la Ley:</strong> Jesús revela el verdadero significado de la Torá</li>
                     <li><strong>Justicia del Corazón:</strong> La Ley de Cristo va más allá de la acción externa</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sermón del Monte (La Ley del Reino)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Las Bienaventuranzas y la Ley Perfecta</h5>
+<ul>
+    <li><strong>El Monte:</strong> Jesús se sienta en un **monte** (al igual que Moisés en el Sinaí) para impartir la **Ley del Reino**.</li>
+    <li><strong>Las Bienaventuranzas:</strong> Se declaran las **condiciones de felicidad** (la nueva ética): pobreza espiritual, mansedumbre, justicia, etc.</li>
+    <li><strong>La Sal y la Luz:</strong> Los discípulos son **sal de la Tierra** (preservación moral) y **luz del mundo** (testimonio visible).</li>
+    <li><strong>Las Antítesis:</strong> Jesús declara que **no vino a anular la Ley, sino a cumplirla**. Luego, las **seis antítesis** (Ej.: "Oísteis... pero Yo os digo..."), llevando la Ley al nivel del **pensamiento** y la **intención**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Ojo por Ojo</h5>
+<ul>
+    <li><strong>El Talión:</strong> Jesús radicaliza el principio de **"ojo por ojo"** hacia la no resistencia y el amor al enemigo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Cumplimiento:</strong> La **justicia** debe **superar la justicia de los fariseos** (superficialidad).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La Ley del Reino es **interna** (corazón) y **radical**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia del Reino supera a la del fariseo</span> y se centra en el corazón. La fe se demuestra en la ética radical.</p>
                 
@@ -44690,7 +48696,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oración:</strong> El modelo de intimidad y sumisión a la voluntad de Dios</li>
                     <li><strong>Confianza:</strong> Buscar el Reino primero y no afanarse por lo terrenal</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Rectitud y la Piedad Hipócrita</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Piedad Interna (Limosna, Oración y Ayuno)</h5>
+<ul>
+    <li><strong>La Limosna:</strong> Debe darse en **secreto**, sin sonar **trompeta** (el aviso público).</li>
+    <li><strong>La Oración:</strong> Debe ser **privada**, no en la calle. Crítica a la **vanagloria** y el **paganismo** (el uso de **vanas repeticiones**).</li>
+    <li><strong>El Padrenuestro:</strong> El modelo de oración judío, basado en la **santificación del Nombre** y el **perdón de las deudas**.</li>
+    <li><strong>El Ayuno:</strong> Debe ser **secreto**, con el rostro **ungido** (para que nadie lo note).</li>
+    <li><strong>Riqueza:</strong> La exhortación a **no acumular tesoros en la Tierra** (donde la polilla y el orín destruyen).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Hipocresía</h5>
+<ul>
+    <li><strong>Hipócritas:</strong> El término para los actores de teatro que usaban máscaras.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Tesoro:</strong> La **fidelidad del corazón** es lo que Dios valora.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **religión** debe ser una **relación íntima**, no una actuación pública.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera piedad es privada e íntima</span>. La fe se demuestra en la confianza total en la provisión de Dios.</p>
                 
@@ -44716,7 +48745,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Regla de Oro:</strong> El resumen ético de la Ley</li>
                     <li><strong>Cimiento:</strong> La obediencia práctica como la única base para la vida</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio, el Discernimiento y el Fundamento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Discernimiento y la Ley de la Regla de Oro</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La advertencia de **no juzgar** (condenar), sino de discernir la **"viga"** en el propio ojo.</li>
+    <li><strong>La Perla:</strong> No dar lo **santo a los perros** ni las **perlas a los cerdos** (no desperdiciar la verdad en los que la desprecian).</li>
+    <li><strong>La Regla de Oro:</strong> **"Todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos"** (el resumen práctico de la Ley).</li>
+    <li><strong>El Profeta Falso:</strong> La advertencia contra los **falsos profetas**, que se conocen por sus **frutos** (acciones).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Dos Caminos</h5>
+<ul>
+    <li><strong>El Camino:</strong> La vida se presenta como la elección entre **dos caminos** (el ancho y el angosto) o **dos puertas**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Fundamento:</strong> La **obediencia práctica** es el fundamento de la casa (la roca), la **inobediencia** es la arena.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad** con la que Jesús enseñaba era mayor que la de los escribas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">cristianismo es práctico y exige obediencia</span>. La fe que no obra es vana.</p>
                 
@@ -44742,7 +48793,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe Gentil:</strong> La fe del Centurión supera a la de Israel</li>
                     <li><strong>Costo del Discipulado:</strong> El llamado a seguir a Jesús sin un lugar donde reclinar la cabeza</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Milagros y la Limpieza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Curación y la Ley Mosaica</h5>
+<ul>
+    <li><strong>El Leproso:</strong> Jesús toca y sana al **leproso**. La lepra era vista como una **maldición** y hacía al hombre inmundo, siendo el ostracismo la única opción (Levítico 13).</li>
+    <li><strong>El Sacerdote:</strong> Jesús le ordena al leproso que se **presente al sacerdote** y **ofrezca la ofrenda** ordenada por Moisés (validando el sistema mosaico).</li>
+    <li><strong>El Centurión:</strong> El **centurión romano** (oficial del ejército) muestra una **gran fe**, reconocida por Jesús.</li>
+    <li><strong>El Viaje:</strong> Los **discípulos** de Jesús tienen que estar preparados para el **viaje constante** y el desamparo (no tienen un lugar fijo para dormir).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Centurión</h5>
+<ul>
+    <li><strong>Autoridad:</strong> El centurión estaba a cargo de **cien soldados** y entendía la **autoridad delegada**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fe:</strong> Jesús profetiza que los **gentiles** vendrán de Oriente y Occidente al Reino, mientras que los hijos de Israel (incrédulos) serán echados fuera.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad de Jesús** se extiende sobre la enfermedad y los demonios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Los <span class="highlight">milagros de Jesús confirman Su identidad</span> como Mesías y Rey. La fe no tiene fronteras étnicas.</p>
                 
@@ -44768,7 +48841,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misericordia:</strong> Jesús come con pecadores y llama a los enfermos</li>
                     <li><strong>Comisión:</strong> La urgencia de la misión y la escasez de obreros</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Autoridad de Perdonar Pecados y el Ayuno</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Perdón y el Llamamiento</h5>
+<ul>
+    <li><strong>El Paralítico:</strong> Jesús sana al paralítico, pero primero **perdona sus pecados**. Esto es visto como **blasfemia** por los escribas (solo Dios puede perdonar).</li>
+    <li><strong>El Llamamiento de Mateo:</strong> Jesús llama a **Mateo** (un publicano/recaudador de impuestos), un oficio **odiado** por los judíos (por su colaboración con Roma).</li>
+    <li><strong>El Ayuno:</strong> Jesús explica que el **ayuno** es apropiado para el luto, pero no para la **alegría** (el novio está con ellos).</li>
+    <li><strong>El Odre Viejo:</strong> Jesús usa la metáfora del **odre** (piel de cabra para vino) para explicar que la **nueva enseñanza** no cabe en la **estructura vieja** del judaísmo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Publicanos</h5>
+<ul>
+    <li><strong>Publicanos:</strong> Excomulgados de la vida social por su **colaboración con el imperio** y la **extorsión**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Misericordia:</strong> Jesús vino a llamar a los **pecadores**, no a los justos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad de Jesús** va más allá de la curación física; toca la esfera divina del perdón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad de Cristo es mayor que la enfermedad</span>, y se extiende al perdón de pecados. Él es el Médico.</p>
                 
@@ -44794,7 +48889,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Persecución:</strong> El conflicto inherente a la predicación del Reino</li>
                     <li><strong>Lealtad:</strong> El discipulado exige más lealtad que la familia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Comisión de los Doce (Misión a Israel)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Las Instrucciones y la Persecución</h5>
+<ul>
+    <li><strong>La Comisión:</strong> Jesús confiere a los doce discípulos **autoridad** sobre los demonios y las enfermedades.</li>
+    <li><strong>La Prohibición:</strong> La misión inicial se limita a las **ovejas perdidas de Israel** (prohibido ir a gentiles o samaritanos).</li>
+    <li><strong>El Sustento:</strong> Los discípulos no deben llevar **oro, plata, alforja** ni **sandalias**, sino confiar en la **hospitalidad** local (el obrero es digno de su alimento).</li>
+    <li><strong>La Persecución:</strong> Jesús predice que serán **golpeados en las sinagogas** y **entregados a los gobernadores** (el costo del discipulado).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Flagelación</h5>
+<ul>
+    <li><strong>Sinagogas:</strong> Las sinagogas eran centros legales donde se aplicaba la **flagelación** como castigo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Valor:</strong> El **valor** de los discípulos es mayor que el de muchos gorriones.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad en la Tierra** se recompensa con la **confesión en el Cielo**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">misión es una extensión de la autoridad de Cristo</span>. La fe se demuestra al perseverar en la persecución.</p>
                 
@@ -44820,7 +48937,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reprensión:</strong> El juicio sobre la incredulidad</li>
                     <li><strong>Descanso:</strong> La liberación de la carga de la ley y el pecado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Duda de Juan y la Rechazo de las Ciudades</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Identificación de Juan y el Yugo</h5>
+<ul>
+    <li><strong>La Duda:</strong> **Juan el Bautista** (desde la cárcel) envía a preguntar si Jesús es el Mesías.</li>
+    <li><strong>La Respuesta:</strong> Jesús cita **Isaías 35** (sanar ciegos, cojos, leprosos) como prueba.</li>
+    <li><strong>El Reino:</strong> Jesús dice que **"el reino de los cielos sufre violencia"** (la urgencia de la época).</li>
+    <li><strong>El Yugo:</strong> Jesús invita: **"Llevad mi yugo sobre vosotros"** (el yugo era la **metáfora rabínica** para la **sumisión a la Ley** o a la enseñanza).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Pobreza</h5>
+<ul>
+    <li><strong>Comida:</strong> Jesús comió y bebió, lo que llevó a los fariseos a llamarlo **"comilón y bebedor de vino"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Sabiduría:</strong> La **sabiduría** de Dios es **justificada por sus hijos** (los discípulos).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la clave para entender la **revelación** divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías se revela no con poder político</span>, sino con el poder de la sanidad. El descanso se encuentra en la sumisión a Cristo.</p>
                 
@@ -44846,7 +48985,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pecado Imperdonable:</strong> Atribuir la obra de Dios al diablo</li>
                     <li><strong>Signo de Jonás:</strong> La resurrección como la única prueba de la autoridad de Jesús</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Controversias del Sábado y el Espíritu Santo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Interpretación de la Ley y el Templo</h5>
+<ul>
+    <li><strong>El Sábado (Hambre):</strong> Los discípulos **arrancan espigas** en Sábado (los fariseos lo consideran **"cosechar"**). Jesús justifica la acción citando a **David** (comer el pan de la proposición).</li>
+    <li><strong>El Sábado (Sanidad):</strong> Jesús sana al hombre de la **mano seca** en Sábado, demostrando que **hacer el bien es legal** en ese día.</li>
+    <li><strong>El Jonás:</strong> La única señal para la **generación malvada** será la **señal del profeta Jonás** (la resurrección).</li>
+    <li><strong>El Pecado Imperdonable:</strong> La **blasfemia contra el Espíritu Santo** es imperdonable.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Sábado</h5>
+<ul>
+    <li><strong>Sacerdocio:</strong> Jesús afirma que Él es **mayor que el Templo** y que el Sábado fue hecho para el hombre.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Árbol y Fruto:</strong> La **moralidad** (el fruto) es la prueba de la persona (el árbol).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **espíritu de la Ley** es la misericordia, no el ritual.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad de Jesús es divina</span>, y Su juicio es inevitable. El arrepentimiento es posible, pero la blasfemia contra el Espíritu no.</p>
                 
@@ -44872,7 +49033,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Final:</strong> La separación del trigo y la cizaña</li>
                     <li><strong>Incredulidad:</strong> El propósito de las parábolas es ocultar la verdad a los incrédulos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Discurso de las Parábolas (El Reino)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Enseñanza del Reino de los Cielos</h5>
+<ul>
+    <li><strong>Parábola del Sembrador:</strong> Las **cuatro clases de oyentes** (el camino, las piedras, los espinos y la buena tierra).</li>
+    <li><strong>El Secreto:</strong> Jesús explica que enseña en **parábolas** para que el pueblo que tiene el corazón duro **no entienda** (cumpliendo Isaías 6).</li>
+    <li><strong>Trigo y Cizaña:</strong> La **convivencia** del bien y el mal en la iglesia hasta el **juicio final** (la siega).</li>
+    <li><strong>Perla y Tesoro:</strong> El **Reino de los Cielos** es de un **valor incalculable**, que exige la **venta de todo** para adquirirlo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Cosecha</h5>
+<ul>
+    <li><strong>Cizaña:</strong> La cizaña (planta dañina) se parecía mucho al trigo en su fase temprana.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Valor:</strong> El Reino es **escondido** a los soberbios y **revelado** a los humildes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es la semilla que debe ser recibida por el corazón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Reino se establece en el corazón</span> (Sembrador) y es un misterio hasta el final. La fe es necesaria para la comprensión.</p>
                 
@@ -44898,7 +49081,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Provisión:</strong> Jesús es la fuente de la vida y el alimento</li>
                     <li><strong>Fe y Duda:</strong> El poder de la fe y la advertencia de la duda</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Muerte de Juan y la Multiplicación de Panes</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profecía y la Provisión</h5>
+<ul>
+    <li><strong>Herodes:</strong> El tetrarca **Herodes Antipas** (hijo de Herodes el Grande) teme que Jesús sea Juan resucitado.</li>
+    <li><strong>La Decapitación:</strong> **Juan el Bautista** es decapitado en la **fiesta de cumpleaños** de Herodes (la intriga de la corte).</li>
+    <li><strong>La Multiplicación:</strong> Jesús alimenta a **cinco mil hombres** (sin contar mujeres y niños) con **cinco panes y dos peces**.</li>
+    <li><strong>La Señal:</strong> La multiplicación es una **señal mesiánica** (como el maná) que indica que Jesús es el **Profeta** que viene al mundo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Banquete</h5>
+<ul>
+    <li><strong>Banquete:</strong> La fiesta de Herodes fue el **lugar de la intriga** y la ejecución.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Desierto:</strong> Jesús, el **verdadero Pastor**, provee alimento en el desierto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder de Jesús** es mayor que el poder de la muerte (Juan) y la escasez (el desierto).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">muerte de Juan prefigura la muerte de Jesús</span>. Cristo es el Pan de Vida y el Señor de las circunstancias.</p>
                 
@@ -44924,7 +49129,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corazón:</strong> El pecado reside en el corazón, no en la acción externa</li>
                     <li><strong>Fe Persistente:</strong> La oración y la fe que prevalecen, incluso en los gentiles</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Tradición de los Ancianos y la Purificación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley Pura y la Tradición Rabínica</h5>
+<ul>
+    <li><strong>Tradición:</strong> Jesús confronta a los fariseos por la **"tradición de los ancianos"** (ley oral rabínica), que anulaba el mandamiento de **honrar a los padres** (Corbán).</li>
+    <li><strong>Corbán:</strong> La **promesa de dedicar bienes a Dios** (Corbán) se usaba para evadir la responsabilidad hacia los padres.</li>
+    <li><strong>La Purificación:</strong> Jesús enseña que la **inmundicia** proviene de lo que **sale de la boca** (el corazón), no de lo que entra (la ley kosher/purificación de manos).</li>
+    <li><strong>La Mujer Cananea:</strong> Una mujer **cananea** (gentil) muestra una **gran fe** al pedir migajas de la mesa de Israel.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Las Migajas</h5>
+<ul>
+    <li><strong>Migajas:</strong> Los gentiles eran vistos como **"perros"** que comían las migajas de Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Corazón:</strong> La **verdadera inmundicia** es moral e interna, no externa y ritual.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia** de Dios es para todos los que creen, incluso los gentiles.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe genuina es más importante que la tradición</span>. La fe es la llave que abre la puerta de la misericordia de Cristo, sin importar el origen.</p>
                 
@@ -44950,7 +49177,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Iglesia:</strong> El fundamento de la Iglesia es la confesión de Cristo</li>
                     <li><strong>La Cruz:</strong> La necesidad de la muerte y el sufrimiento en el discipulado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Confesión de Pedro y la Cruz</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Identidad Mesiánica y la Autoridad</h5>
+<ul>
+    <li><strong>El Signo:</strong> Los fariseos piden un **"signo del cielo"** (una prueba sobrenatural para validar Su mesianidad). Jesús solo ofrece el **signo de Jonás** (la resurrección).</li>
+    <li><strong>La Levadura:</strong> Jesús advierte contra la **levadura** (la falsa doctrina) de los fariseos y saduceos.</li>
+    <li><strong>La Confesión:</strong> **Pedro** confiesa: **"Tú eres el Cristo (Mesías), el Hijo del Dios viviente"**.</li>
+    <li><strong>Las Llaves:</strong> Jesús promete a Pedro las **"llaves del reino de los cielos"** (la autoridad para fundar la Iglesia).</li>
+    <li><strong>La Cruz:</strong> Jesús enseña que Su destino es **morir y resucitar**. El discipulado es **tomar la cruz** (sufrimiento).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Las Llaves</h5>
+<ul>
+    <li><strong>Llaves:</strong> El símbolo de la **autoridad delegada** para atar y desatar (una metáfora rabínica para prohibir o permitir).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Propósito:</strong> El Mesías no es un rey guerrero, sino un **siervo sufriente**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **revelación** de la identidad de Jesús es divina, no humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">revelación de Cristo es el fundamento de la fe</span>. El discipulado exige negación y el camino de la cruz.</p>
                 
@@ -44976,7 +49226,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Supremacía:</strong> Jesús es superior a Moisés y Elías</li>
                     <li><strong>Fe y Oración:</strong> La necesidad de la fe para realizar milagros</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Transfiguración y el Impuesto del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Manifestación de la Gloria y el Sacerdocio</h5>
+<ul>
+    <li><strong>La Transfiguración:</strong> Jesús es transfigurado en la montaña ante Pedro, Jacobo y Juan. **Moisés** (la Ley) y **Elías** (los Profetas) aparecen.</li>
+    <li><strong>La Voz:</strong> Una voz del cielo (la voz del Padre) confirma la **filiación** de Jesús.</li>
+    <li><strong>El Ayuno:</strong> La incapacidad de los discípulos para sanar al niño epiléptico se debe a la **falta de fe** y **ayuno**.</li>
+    <li><strong>El Impuesto del Templo:</strong> Pedro debe pagar el **didracma** (impuesto del templo). Jesús lo paga con una moneda de la boca de un pez.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Didracma</h5>
+<ul>
+    <li><strong>Didracma:</strong> El impuesto anual que todos los varones judíos debían pagar para el **mantenimiento del Templo**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gloria:</strong> La **gloria de Jesús** (vista por los discípulos) es la base de Su autoridad mesiánica.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Jesús **afirma Su divinidad** y **se somete a la Ley** a través del milagro.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gloria de Cristo es divina</span> y es el cumplimiento de toda la Escritura. La fe es la herramienta para la obra.</p>
                 
@@ -45002,7 +49274,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Disciplina:</strong> El proceso para restaurar al hermano</li>
                     <li><strong>Perdón:</strong> La necesidad del perdón ilimitado, basado en el perdón de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Discurso sobre el Reino y la Disciplina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Humildad y el Perdón</h5>
+<ul>
+    <li><strong>La Humildad:</strong> El **mayor en el Reino** es el que se **humilla como un niño**.</li>
+    <li><strong>El Tropiezo:</strong> Se advierte del **escándalo** (tropiezo) a los pequeños.</li>
+    <li><strong>La Oveja Perdida:</strong> La búsqueda del **pecador** (la oveja perdida) es una prioridad.</li>
+    <li><strong>La Disciplina:</strong> El proceso de la **disciplina de la Iglesia** (el tribunal final es la Iglesia).</li>
+    <li><strong>El Perdón:</strong> El perdón debe ser **setenta veces siete** (ilimitado).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Atar y Desatar</h5>
+<ul>
+    <li><strong>Disciplina:</strong> La Iglesia recibe la **autoridad** de atar y desatar (prohibir y permitir) para la disciplina.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Siervo Impío:</strong> La **falta de perdón** del siervo impío (la parábola) sella su propio juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia** es la ley fundamental del Reino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Reino exige humildad y reconciliación</span>. El perdón es la prueba de haber sido perdonado.</p>
                 
@@ -45028,7 +49323,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Riqueza:</strong> El peligro de confiar en las riquezas para la salvación</li>
                     <li><strong>Posibilidad Divina:</strong> La salvación es enteramente obra de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Matrimonio, la Riqueza y el Reino</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley del Divorcio y el Voto</h5>
+<ul>
+    <li><strong>El Divorcio:</strong> Jesús confronta el **debate rabínico** sobre la **carta de divorcio** (Deuteronomio 24).</li>
+    <li><strong>El Voto:</strong> Se habla de los **eunucos** que se castran por el Reino (el voto radical de castidad).</li>
+    <li><strong>El Joven Rico:</strong> El joven que **guarda todos los mandamientos** es desafiado a venderlo todo y seguir a Jesús.</li>
+    <li><strong>La Recompensa:</strong> La promesa de **sentarse en doce tronos** (el gobierno de las doce tribus).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Camello</h5>
+<ul>
+    <li><strong>El Camello:</strong> La **riqueza** es una **gran barrera** para el Reino, comparable a un camello que pasa por el ojo de una aguja.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Poder:</strong> Los **últimos** serán **primeros**, y los **primeros** serán **últimos**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **renuncia al yo** es el precio del discipulado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad en el matrimonio es un reflejo del Pacto</span>. La salvación es un acto de la gracia de Dios, no de la capacidad humana.</p>
                 
@@ -45054,7 +49371,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Liderazgo:</strong> La grandeza se encuentra en el servicio</li>
                     <li><strong>Siervo:</strong> Jesús vino a servir y a dar Su vida en rescate por muchos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Gracia de la Recompensa y el Yugo del Servicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Parábola de la Viña y la Ambición</h5>
+<ul>
+    <li><strong>La Viña:</strong> Los **obreros de la viña** son contratados en diferentes horas del día, pero reciben el **mismo salario** (la gracia).</li>
+    <li><strong>La Queja:</strong> La queja de los primeros obreros por la **justicia igualitaria** de la gracia.</li>
+    <li><strong>La Ambición:</strong> La madre de **Jacobo y Juan** pide los **lugares de honor** (diestra y siniestra) en el Reino.</li>
+    <li><strong>El Servicio:</strong> El **grande** en el Reino debe ser el **siervo** de todos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Salario</h5>
+<ul>
+    <li><strong>Salario:</strong> El **denario** (el salario diario justo para un jornalero).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Rescate:</strong> El Hijo del Hombre no vino a ser servido, sino a **servir y dar Su vida en rescate** por muchos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gracia de Dios** desafía la noción humana de mérito y recompensa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">valor de la recompensa no se basa en el esfuerzo</span> humano, sino en la generosidad de Dios. El servicio es el camino a la grandeza.</p>
                 
@@ -45080,7 +49419,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad de Cristo:</strong> El poder para purificar el centro del culto</li>
                     <li><strong>Rechazo:</strong> La incredulidad de los líderes de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Entrada Triunfal y la Purificación del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Señal del Mesías y la Autoridad</h5>
+<ul>
+    <li><strong>Entrada Triunfal:</strong> Jesús entra en Jerusalén sobre un **pollino de asna**, cumpliendo **Zacarías 9:9** (el Mesías humilde).</li>
+    <li><strong>El Clamor:</strong> El pueblo clama **"Hosanna al Hijo de David"** (el reconocimiento real).</li>
+    <li><strong>El Templo:</strong> Jesús **expulsa a los mercaderes y cambistas** del Templo (el patio de los gentiles).</li>
+    <li><strong>La Higuera:</strong> Jesús **malice la higuera** (símbolo de la esterilidad espiritual de Israel).</li>
+    <li><strong>La Autoridad:</strong> Los sacerdotes cuestionan la **autoridad** con la que Jesús hace estas cosas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: El Templo</h5>
+<ul>
+    <li><strong>Cambistas:</strong> Los **cambistas** cambiaban la moneda romana por la moneda del Templo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La **fe** es lo único que puede mover las montañas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **purificación del Templo** es la denuncia de la hipocresía religiosa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Rey viene en humildad para juzgar y purificar</span> Su casa. El rechazo lleva al juicio.</p>
                 
@@ -45106,7 +49468,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gran Mandamiento:</strong> El resumen ético de la fe</li>
                     <li><strong>Divinidad de Cristo:</strong> Jesús es Señor y Rey, no solo Hijo de David</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Parábolas de Juicio y Trampas Legales</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Matrimonio, el Tributo y la Resurrección</h5>
+<ul>
+    <li><strong>La Boda:</strong> Parábola de los **invitados a la boda** que rechazan la invitación (el rechazo de Israel).</li>
+    <li><strong>El Tributo:</strong> El desafío legal de los fariseos y herodianos sobre **pagar tributo al César**.</li>
+    <li><strong>La Moneda:</strong> Jesús pide mostrar el **denario** (la moneda romana con la imagen del César).</li>
+    <li><strong>La Resurrección:</strong> Los saduceos (que no creían en la resurrección) desafían a Jesús con la ley del **Levirato** (esposa de siete hermanos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Tributo</h5>
+<ul>
+    <li><strong>Tributo:</strong> El impuesto romano era una **carga odiada** y un debate teológico-político.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ley:</strong> El **gran mandamiento** es **amar a Dios** y **amar al prójimo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad de Jesús** supera las trampas de la política y la teología.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obediencia a Dios es el Gran Mandamiento</span>. La fe se demuestra al vivir en el mundo sin ser del mundo, cumpliendo con ambos deberes.</p>
                 
@@ -45132,7 +49516,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> La condenación sobre el liderazgo religioso por su rechazo al Mesías</li>
                     <li><strong>Lamento:</strong> El dolor de Jesús por la incredulidad de Su pueblo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Siete Ayes contra los Fariseos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Hipocresía y el Ritualismo</h5>
+<ul>
+    <li><strong>El Asiento:</strong> Los fariseos se sientan en la **cátedra de Moisés** (la autoridad de la enseñanza rabínica).</li>
+    <li><strong>Los Ayes:</strong> Jesús pronuncia **siete ayes** de juicio contra su hipocresía.</li>
+    <li><strong>El Ritualismo:</strong> Critica el **diezmo de la menta, el eneldo y el comino** (cosas pequeñas), mientras descuidan el **juicio, la misericordia y la fe** (cosas importantes).</li>
+    <li><strong>Las Filacterias:</strong> Jesús condena el agrandamiento de las **filacterias** (cajitas de oración) y los **flecos** (símbolos de piedad externa).</li>
+    <li><strong>La Sangre:</strong> La profecía de que la **sangre de todos los justos** caerá sobre esa generación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Las Filacterias</h5>
+<ul>
+    <li><strong>Filacterias:</strong> Pequeñas cajas de cuero con versículos de la Ley, usadas en la frente y el brazo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Vaso:</strong> Los fariseos limpian lo **externo del vaso**, pero el interior está lleno de inmundicia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **religión sin corazón** es objeto del juicio más severo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es severo para el liderazgo hipócrita</span>. La fe es lo que exige obediencia y humildad.</p>
                 
@@ -45158,7 +49565,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fin de los Tiempos:</strong> Las señales antes del regreso de Cristo</li>
                     <li><strong>Venida Repentina:</strong> La necesidad de estar vigilantes</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Discurso del Olivar (Escatología)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Templo, la Gran Tribulación y el Regreso</h5>
+<ul>
+    <li><strong>La Destrucción del Templo:</strong> Jesús predice la **destrucción total del Templo** (no quedará piedra sobre piedra).</li>
+    <li><strong>El Abominación:</strong> La **"abominación desoladora"** (Antíoco IV Epífanes y el evento futuro), que se pondrá en el **lugar santo**.</li>
+    <li><strong>La Gran Tribulación:</strong> La advertencia de **huir a los montes** para escapar de la gran tribulación.</li>
+    <li><strong>El Relámpago:</strong> El **regreso del Hijo del Hombre** será **visible y repentino** como el relámpago.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Nido de Águilas</h5>
+<ul>
+    <li><strong>Carroña:</strong> Dondequiera que esté el **cadáver**, allí se **juntarán las águilas**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Vigilancia:</strong> El siervo fiel debe **velar** y estar preparado en todo tiempo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es más firme que los cielos y la tierra.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">historia se dirige al regreso de Cristo</span>. La fe se demuestra en la vigilancia y la evangelización mundial.</p>
                 
@@ -45184,7 +49613,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mayordomía:</strong> Usar los dones y recursos para el Reino</li>
                     <li><strong>Juicio Ético:</strong> El servicio al prójimo es el criterio del Juicio Final</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Parábolas del Juicio Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sabiduría, los Talentos y el Servicio</h5>
+<ul>
+    <li><strong>Las Diez Vírgenes:</strong> La parábola del **novio** (Cristo) y las **diez vírgenes** (la necesidad de **estar preparado**).</li>
+    <li><strong>Los Talentos:</strong> La parábola de los **talentos** (la responsabilidad de **usar los dones** dados por Dios).</li>
+    <li><strong>Las Naciones:</strong> La parábola del **juicio final** (la separación de las **ovejas y los cabritos**).</li>
+    <li><strong>El Servicio:</strong> El criterio del juicio es el **servicio al necesitado** (el hambriento, el sediento, el desnudo, el enfermo, el encarcelado).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Castigo</h5>
+<ul>
+    <li><strong>Talento:</strong> Una **gran suma de dinero** (un peso de metal precioso) que representaba una gran inversión.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Amor Práctico:</strong> El **servicio al prójimo** es el servicio a Cristo mismo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **preparación** y la **fidelidad** son las condiciones para el Reino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe se demuestra en la acción práctica</span>: la vigilancia, la mayordomía y la misericordia.</p>
                 
@@ -45210,7 +49661,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sumisión:</strong> Jesús se somete a la voluntad del Padre en Getsemaní</li>
                     <li><strong>Traición:</strong> La maldad de Judas y la debilidad de Pedro</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Complot, la Cena y la Traición</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pascua, la Unción y la Nueva Alianza</h5>
+<ul>
+    <li><strong>El Complot:</strong> El **Sanedrín** (el concilio supremo judío) se reúne para arrestar a Jesús con **engaño**.</li>
+    <li><strong>La Unción:</strong> La mujer que unge la cabeza de Jesús con **perfume de alto costo** (un acto profético para el entierro).</li>
+    <li><strong>La Pascua:</strong> La **Última Cena** se celebra en el contexto de la fiesta de la Pascua.</li>
+    <li><strong>La Nueva Alianza:</strong> El **vino** y el **pan** se convierten en el **sello de la Nueva Alianza**.</li>
+    <li><strong>La Espada:</strong> Pedro desenvaina la **espada**. Jesús lo reprende (la autoridad espiritual).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Traición</h5>
+<ul>
+    <li><strong>Precio:</strong> **Judas** traiciona a Jesús por **treinta piezas de plata** (el precio de un esclavo).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Voto:</strong> La **negación de Pedro** contrasta con el **juramento de lealtad** que había hecho.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sacrificio de Cristo** reemplaza el sacrificio de la Pascua.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obediencia de Cristo en el sufrimiento</span> es la base de nuestra redención. La fe es probada en la agonía.</p>
                 
@@ -45236,7 +49710,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Rasgadura del Velo:</strong> El acceso directo a Dios por la muerte de Cristo</li>
                     <li><strong>Testimonio Gentil:</strong> El centurión confiesa la divinidad de Jesús</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Romano y la Crucifixión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Templo, la Cruz y la Resurrección</h5>
+<ul>
+    <li><strong>Pilato:</strong> Jesús es entregado a **Poncio Pilato** (el gobernador romano).</li>
+    <li><strong>La Moneda:</strong> **Judas** devuelve las **treinta piezas de plata** al Templo, que se usan para comprar el **Campo del Alfarero** (para enterrar a los extranjeros).</li>
+    <li><strong>Barrabás:</strong> La costumbre de **liberar a un prisionero** en la Pascua.</li>
+    <li><strong>La Cruz:</strong> La **crucifixión** (la pena capital romana más cruel) ocurre en el **Gólgota** (lugar de la calavera).</li>
+    <li><strong>El Velo:</strong> El **velo del Templo** se **rasga en dos** (el fin de la barrera entre Dios y el hombre).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Crucifixión</h5>
+<ul>
+    <li><strong>Cruz:</strong> El castigo se reservaba para los **esclavos y los traidores** al Imperio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Confesión Pagana:</strong> El **centurión romano** confiesa que Jesús era **Hijo de Dios**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **muerte de Jesús** es el **cumplimiento de la Ley** y el **final del sistema del Templo**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">muerte de Cristo es el cumplimiento de la Escritura</span> y la ofrenda por el pecado. La expiación abre el camino a Dios.</p>
                 
@@ -45262,7 +49759,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gran Comisión:</strong> El mandato de evangelizar y discipular a todas las naciones</li>
                     <li><strong>Presencia de Cristo:</strong> La promesa de la presencia constante del Señor</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Resurrección y la Gran Comisión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sello, la Nueva Alianza y la Universalidad</h5>
+<ul>
+    <li><strong>El Sábado:</strong> Las mujeres van al sepulcro **al amanecer del primer día de la semana** (el fin del Sábado ceremonial).</li>
+    <li><strong>La Guardia:</strong> Los **soldados romanos** se desmayan ante la aparición del ángel.</li>
+    <li><strong>El Engaño:</strong> Los sacerdotes **sobornan a los soldados** para que digan que los discípulos **robaron el cuerpo**.</li>
+    <li><strong>La Gran Comisión:</strong> Jesús da la orden final: **"Id, y haced discípulos a todas las naciones"**.</li>
+    <li><strong>El Bautismo Trinitario:</strong> El mandato de bautizar **"en el nombre del Padre, y del Hijo, y del Espíritu Santo"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Soborno</h5>
+<ul>
+    <li><strong>Soborno:</strong> La **corrupción** era común para encubrir fallas militares.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Misión:</strong> La misión se extiende de las **ovejas perdidas de Israel** a **todas las naciones**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **resurrección** es la prueba de la divinidad y la **base de la fe**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Resurrección es la base de la fe</span> y el motor de la misión. La autoridad de Cristo se extiende a toda la Tierra.</p>
                 
@@ -45290,7 +49810,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad de Cristo:</strong> Poder sobre la enfermedad y los demonios</li>
                     <li><strong>Discipulado:</strong> El llamado repentino a seguir a Jesús</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Inicio Urgente del Ministerio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Juan, el Bautismo y la Autoridad</h5>
+<ul>
+    <li><strong>El Prefacio:</strong> Marcos omite la genealogía y el nacimiento, comenzando con **"El principio del evangelio"** (énfasis en el inicio y la acción).</li>
+    <li><strong>Juan el Bautista:</strong> Es identificado con **Elías** (ropa de camello, desierto) y el **mensajero** de Malaquías 3:1.</li>
+    <li><strong>La Urgencia:</strong> Marcos usa la palabra griega **"euthys"** (inmediatamente/enseguida) unas 40 veces, marcando el ritmo rápido del ministerio de Jesús.</li>
+    <li><strong>El Sábado:</strong> Jesús comienza a enseñar con **autoridad** en la **sinagoga de Capernaum**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Demonios</h5>
+<ul>
+    <li><strong>El Poder:</strong> El **espíritu inmundo** (demonio) reconoce y teme la autoridad de Jesús, demostrando que Su poder no es solo doctrinal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Autoridad:</strong> La enseñanza de Jesús es **nueva y con autoridad**, a diferencia de la mera **repetición de los escribas**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La acción precede a la doctrina. Jesús es el **Siervo en movimiento**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">ministerio de Jesús es un asalto activo</span> y poderoso contra el reino de Satanás, ejecutado con urgencia divina.</p>
                 
@@ -45316,7 +49858,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gracia para los Pecadores:</strong> Jesús vino a buscar a los marginados</li>
                     <li><strong>Soberanía del Sábado:</strong> Jesús redefine el propósito del sábado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Primeras Controversias Legales</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Perdón y el Ayuno</h5>
+<ul>
+    <li><strong>La Blasfemia:</strong> Jesús perdona los pecados del paralítico. Los escribas lo acusan de **blasfemia**, ya que solo Dios puede perdonar pecados (el punto central de la autoridad de Jesús).</li>
+    <li><strong>El Publicano:</strong> Jesús llama a **Leví** (Mateo), un **publicano** (colaborador de Roma y extorsionador), y come con pecadores (violando la separación farisaica).</li>
+    <li><strong>El Ayuno:</strong> Se le cuestiona a Jesús por qué Sus discípulos no **ayunan** como los de Juan y los fariseos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Rito</h5>
+<ul>
+    <li><strong>Odre Viejo:</strong> El nuevo vino (el Evangelio) rompe el odre viejo (las **estructuras rígidas** del judaísmo).</li>
+    <li><strong>El Sábado:</strong> Jesús establece que el **Sábado** fue hecho para el **hombre**, no el hombre para el Sábado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Maestro del Sábado:</strong> Jesús se proclama **Señor (Dueño) del Sábado**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **ritual** es secundario a la **misericordia** y la **autoridad** del Mesías.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad de Jesús es integral</span>: no solo sobre la enfermedad, sino sobre la ley y el pecado mismo.</p>
                 
@@ -45342,7 +49906,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pecado Imperdonable:</strong> Advertencia sobre atribuir la obra de Dios a Satanás</li>
                     <li><strong>Familia Espiritual:</strong> El parentesco basado en la obediencia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Endurecimiento y el Nombramiento de los Doce</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley del Corazón y el Pecado Imperdonable</h5>
+<ul>
+    <li><strong>El Endurecimiento:</strong> Jesús sana la **mano seca** en sábado. Los fariseos se **"endurecen"** y planean destruirlo.</li>
+    <li><strong>La Elección:</strong> Jesús sube al monte y elige a los **Doce** (simbolizando las doce tribus de Israel).</li>
+    <li><strong>Boanerges:</strong> Jacobo y Juan reciben el apodo de **"Boanerges"** (hijos del trueno), reflejando su temperamento impetuoso.</li>
+    <li><strong>Blasfemia:</strong> Los escribas de Jerusalén acusan a Jesús de echar fuera demonios por el poder de **Beelzebú** (Satanás), un pecado imperdonable (blasfemar contra el Espíritu Santo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Lazo Familiar</h5>
+<ul>
+    <li><strong>Familia:</strong> La **verdadera familia** de Jesús no es la consanguínea, sino los que **hacen la voluntad de Dios**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Reino:</strong> El Reino de Satanás es **dividido** contra sí mismo, mientras que el de Dios es **cohesivo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **desobediencia deliberada** (atribuir el bien al mal) es la máxima ofensa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obra de Jesús es una invasión del Reino de Dios</span>, y Él capacita a Sus seguidores para extender ese poder.</p>
                 
@@ -45368,7 +49954,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Propósito de las Parábolas:</strong> Revelación y ocultamiento</li>
                     <li><strong>Poder sobre la Naturaleza:</strong> Jesús es Señor de los elementos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Discurso de las Parábolas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Misterio del Reino y la Tierra</h5>
+<ul>
+    <li><strong>Parábola del Sembrador:</strong> Marcos se enfoca en que la **semilla** (la Palabra) no tiene fallas, sino que la **tierra** (el corazón) es la variable.</li>
+    <li><strong>El Misterio:</strong> Jesús explica que las parábolas son para **ocultar la verdad** a los incrédulos y **revelar el "misterio" del Reino** a los discípulos.</li>
+    <li><strong>El Crecimiento:</strong> La parábola del **sembrador que duerme** (propia de Marcos) enseña que el crecimiento del Reino es **automático e invisible**.</li>
+    <li><strong>La Fe:</strong> Jesús reprende a los discípulos en la barca por su **falta de fe** al temer la tormenta.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Geográfico: El Mar de Galilea</h5>
+<ul>
+    <li><strong>La Tormenta:</strong> Las **tormentas repentinas** en el Mar de Galilea eran comunes y peligrosas, reflejando el poder de las fuerzas naturales.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Palabra:</strong> La **Palabra** es la **clave** para entender el Reino, pero solo el **corazón bien dispuesto** la recibe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Reino de Dios** crece con un **poder inherente** que el hombre no controla.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">semilla del Evangelio siempre producirá fruto</span>, a pesar de los obstáculos, y el poder de Cristo es total.</p>
                 
@@ -45394,7 +50002,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe y Contacto:</strong> La fe de la mujer rompe las barreras religiosas</li>
                     <li><strong>Victoria sobre la Muerte:</strong> Jesús como la vida (Talita Cumi)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Poder sobre la Naturaleza y la Muerte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Inmundicia y la Ley Mosaica</h5>
+<ul>
+    <li><strong>El Gadareno:</strong> Jesús sana al endemoniado **Gadareno** en la región de la **Decápolis** (territorio gentil).</li>
+    <li><strong>Los Cerdos:</strong> El legión de demonios entra en los **cerdos** (animales inmundos para los judíos), y estos se ahogan.</li>
+    <li><strong>El Flujo:</strong> La mujer con **flujo de sangre** era **inmunda ritualmente** (Levítico 15), y su toque contaminaba a Jesús, pero Él la sana.</li>
+    <li><strong>Jairo:</strong> Jesús sana a la hija de **Jairo** (un principal de la sinagoga), demostrando Su poder sobre la muerte.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Legión</h5>
+<ul>
+    <li><strong>Legión:</strong> El nombre **"Legión"** (miles de demonios) hace referencia a una unidad del **ejército romano**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Toque:</strong> El poder de Jesús es tan grande que **invalida las leyes de inmundicia**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fe** (el toque de la mujer) es el canal para recibir el poder divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Jesús demuestra que <span class="highlight">vino a destruir las obras del diablo</span> y que Su poder se extiende a las áreas de la vida consideradas impuras e incurables.</p>
                 
@@ -45420,7 +50050,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Delegación:</strong> Los discípulos participan en la autoridad de Cristo</li>
                     <li><strong>Provisión:</strong> El milagro de Jesús como el Pan de Vida</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Rechazo y la Misión de los Doce</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Profeta sin Honor y el Hambre</h5>
+<ul>
+    <li><strong>Nazaret:</strong> Jesús es **rechazado en Su tierra** (Nazaret) por la **falta de fe** de la gente, que lo ve solo como el **"hijo del carpintero"**.</li>
+    <li><strong>La Misión:</strong> Jesús envía a los Doce **de dos en dos** (por la Ley que requería dos testigos) con autoridad limitada.</li>
+    <li><strong>La Regla:</strong> Los discípulos no debían llevar **pan ni alforja** (confianza en la provisión) y debían **sacudir el polvo de sus pies** si eran rechazados (una señal de juicio).</li>
+    <li><strong>Herodes:</strong> **Herodes Antipas** ordena la ejecución de **Juan el Bautista** debido a su debilidad por un **juramento de banquete**.</li>
+    <li><strong>Multiplicación:</strong> Jesús multiplica **cinco panes para 5,000**, un milagro que presagia la **provisión mesiánica**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Juramento</h5>
+<ul>
+    <li><strong>Juramento:</strong> Los juramentos de los reyes en banquetes (como el de Herodes a Herodías) eran a menudo una **trampa moral**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Profecía:</strong> El **rechazo** de Jesús cumple la profecía del siervo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad del Mesías** es limitada por la **incredulidad** de Su propio pueblo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">discipulado implica poder y persecución</span>. La provisión de Cristo es superabundante para las necesidades de Su pueblo.</p>
                 
@@ -45446,7 +50099,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Tradición vs. Mandamiento:</strong> El conflicto entre la ley humana y la divina</li>
                     <li><strong>Fe Gentil:</strong> La gracia de Cristo se extiende más allá de Israel</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Corazón y la Tradición de los Ancianos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Mandamiento vs. la Tradición</h5>
+<ul>
+    <li><strong>Purificación:</strong> Los fariseos condenan a los discípulos por no lavarse las manos según la **"tradición de los ancianos"** (costumbres rabínicas).</li>
+    <li><strong>Corbán:</strong> Jesús denuncia la práctica del **Corbán** (dedicar bienes a Dios), que se usaba para **evadir la responsabilidad** de cuidar a los padres (anulando el mandamiento).</li>
+    <li><strong>El Corazón:</strong> Jesús enseña que la **verdadera inmundicia** sale **del corazón** (pecados internos), no de lo que entra en la boca (el fin de las leyes dietéticas).</li>
+    <li><strong>La Cananea:</strong> La **mujer sirofenicia** (gentil) apela a la **misericordia** de Jesús, usando la metáfora de los **"perrillos"** que comen las migajas de los hijos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El "Corbán"</h5>
+<ul>
+    <li><strong>Corbán:</strong> Una **promesa jurada** que eximía a una persona de su deber legal (una trampa legalista).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Exterior:</strong> El **énfasis farisaico** en lo externo oculta la **maldad interna** del corazón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **mandamiento de Dios** es superior a la **tradición humana**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera pureza es un asunto del corazón</span>. La fe es la llave para la bendición, sin importar la etnia o la tradición.</p>
                 
@@ -45472,7 +50147,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Vía Crucis:</strong> La necesidad del sufrimiento del Mesías</li>
                     <li><strong>Discipulado (Cruz):</strong> El llamado a negarse a sí mismo y seguir el camino de la cruz</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pan, la Ceguera y la Cruz</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Fe y la Revelación Mesiánica</h5>
+<ul>
+    <li><strong>El Segundo Pan:</strong> Jesús alimenta a **cuatro mil personas** (se cree que en territorio gentil) con **siete panes** (la provisión para el mundo).</li>
+    <li><strong>El Signo:</strong> Los fariseos exigen un **signo del cielo** (prueba visible) y Jesús lo niega.</li>
+    <li><strong>La Ceguera:</strong> Jesús sana a un **ciego en Betsaida** en dos etapas (una sanidad progresiva) para simbolizar la **ceguera gradual** de los discípulos.</li>
+    <li><strong>La Confesión:</strong> **Pedro** confiesa: **"Tú eres el Cristo (Mesías)"**.</li>
+    <li><strong>El Secreto:</strong> Jesús les ordena **no decir a nadie** (el secreto mesiánico).</li>
+    <li><strong>La Cruz:</strong> Jesús predice Su **sufrimiento y muerte**. Pedro lo reprende (el rechazo de la idea de un Mesías sufriente).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Escándalo</h5>
+<ul>
+    <li><strong>La Reprensión:</strong> Jesús llama a Pedro **"Satanás"** (adversario) por oponerse a la voluntad de Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gloria:</strong> La **verdadera vida** en el Reino se obtiene a través de la **renuncia a sí mismo** y la **cruz**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gloria del Mesías** es inseparable de Su **sufrimiento**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Mesías de Dios debe sufrir</span> para reinar. El verdadero discipulado exige una negación radical de uno mismo.</p>
                 
@@ -45498,7 +50197,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder de la Oración:</strong> La fe que requiere oración para enfrentar a los demonios</li>
                     <li><strong>Humildad:</strong> La clave para la grandeza en el Reino</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Transfiguración y el Demonio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley, los Profetas y el Siervo</h5>
+<ul>
+    <li><strong>La Transfiguración:</strong> La manifestación de la gloria de Jesús ante los tres discípulos. **Moisés** (la Ley) y **Elías** (los Profetas) le rinden homenaje.</li>
+    <li><strong>La Voz:</strong> La voz del Padre exige **"A Él oíd"** (el fin de la Ley y los Profetas y el comienzo de la autoridad absoluta de Cristo).</li>
+    <li><strong>El Demonio:</strong> Los discípulos **fracasan** al intentar expulsar un demonio (el padre pregunta **"si puedes"**).</li>
+    <li><strong>El Yugo:</strong> La lección de que el poder real requiere **oración y ayuno**.</li>
+    <li><strong>La Humildad:</strong> Los discípulos discuten sobre **quién era el más grande** (falta de entendimiento del mensaje de la cruz).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Sal</h5>
+<ul>
+    <li><strong>La Sal:</strong> Se usa la metáfora de la **sal** para preservar y purificar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Primero:</strong> El que quiera ser **primero** debe ser el **último** y el **siervo** de todos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero poder** del Mesías reside en Su **gloria divina** y Su **humildad radical**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gloria del Reino está ligada a la humildad</span> y la obediencia sacrificial. La fe se perfecciona en la oración.</p>
                 
@@ -45524,7 +50246,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Riqueza:</strong> El peligro de las posesiones como ídolo</li>
                     <li><strong>Servicio:</strong> El liderazgo del Reino es humilde y sacrificial</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Ley, Riqueza y el Rescate</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Dureza de Corazón y el Servicio</h5>
+<ul>
+    <li><strong>El Divorcio:</strong> Jesús apela a la **intención original de la Creación** (el matrimonio como una unidad) por encima de la **tolerancia de Moisés** (la dureza del corazón).</li>
+    <li><strong>Los Niños:</strong> Jesús **bendice a los niños**, estableciendo la **humildad infantil** como la condición para entrar al Reino.</li>
+    <li><strong>El Rico:</strong> El **joven rico** se va triste porque su **riqueza** (ídolo) era su máxima prioridad.</li>
+    <li><strong>El Rescate:</strong> El Hijo del Hombre no vino a ser servido, sino a **servir y a dar Su vida en rescate por muchos** (la definición de la misión de Marcos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Mendigo</h5>
+<ul>
+    <li><strong>Bartimeo:</strong> El mendigo **ciego Bartimeo** grita: **"Hijo de David"** (el reconocimiento real y mesiánico).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Lo Imposible:</strong> Lo que es **imposible** para el hombre (salvarse a sí mismo), es **posible** para Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **servicio y el sacrificio** son las marcas del liderazgo en el Reino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">discipulado es una renuncia total a lo terrenal</span> y una adopción del servicio humilde, siguiendo el ejemplo del Siervo.</p>
                 
@@ -45550,7 +50294,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad de Cristo:</strong> El poder para juzgar y limpiar el Templo</li>
                     <li><strong>Oración y Perdón:</strong> La fe se demuestra en la oración y la misericordia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio al Templo y a la Nación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Purificación y la Esterilidad</h5>
+<ul>
+    <li><strong>Entrada Triunfal:</strong> Jesús entra en Jerusalén sobre un **pollino** (Zacarías 9:9), pero con **Hosannas** (sálvanos ahora), marcando Su entrada mesiánica.</li>
+    <li><strong>La Higuera:</strong> Jesús **malice la higuera** (símbolo de la nación de Israel, que tenía hojas pero no fruto), un acto profético de juicio.</li>
+    <li><strong>El Templo:</strong> Jesús **expulsa a los cambistas** (profanación del atrio de los gentiles), citando: **"Mi casa será llamada casa de oración para todas las naciones"**.</li>
+    <li><strong>La Autoridad:</strong> Los líderes cuestionan la **autoridad de Jesús** para hacer estas cosas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Fe</h5>
+<ul>
+    <li><strong>La Fe:</strong> La **fe** es tan poderosa que puede ordenar a los montes que se muevan.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Perdón:</strong> La **oración** es ineficaz si hay **falta de perdón** en el corazón.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **adoración verdadera** debe ser purificada de la **avaricia y la hipocresía**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">venida del Rey trae juicio</span> sobre la religión que no produce fruto y que se ha corrompido con el comercio.</p>
                 
@@ -45576,7 +50342,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad Dual:</strong> El deber hacia Dios y hacia el estado</li>
                     <li><strong>Verdadera Devoción:</strong> La viuda da más en el espíritu que todos los ricos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Trampas Teológicas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Viña, el César y la Ley</h5>
+<ul>
+    <li><strong>Los Labradores:</strong> Parábola de los **labradores malvados** que matan al hijo del dueño (alusión a la muerte de Cristo).</li>
+    <li><strong>Tributo:</strong> Se le pregunta si es legal pagar **tributo al César**. Jesús establece la separación entre lo **político** y lo **espiritual** ("Dad a César... y a Dios...").</li>
+    <li><strong>Resurrección:</strong> Los saduceos (que niegan la resurrección) lo desafían con la ley del **Levirato** (esposa de siete hermanos). Jesús les dice que **"erráis, ignorando las Escrituras"**.</li>
+    <li><strong>El Gran Mandamiento:</strong> Un escriba le pregunta cuál es el **primer mandamiento** (amor a Dios y amor al prójimo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Óbolo</h5>
+<ul>
+    <li><strong>La Viuda:</strong> La viuda que echa **dos óbolos** (la moneda más pequeña) al Templo, dando **"todo lo que tenía"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Ofrenda:</strong> La **cantidad** de la ofrenda no importa, sino el **sacrificio** que representa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ignorancia de las Escrituras** es la causa del error doctrinal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obediencia a Dios es el centro de la Ley</span>. El verdadero sacrificio es el que proviene de la entrega total, no de la abundancia.</p>
                 
@@ -45602,7 +50390,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Perseverancia:</strong> La necesidad de resistir la persecución hasta el fin</li>
                     <li><strong>Vigilancia:</strong> Estar preparados, ya que nadie sabe el día ni la hora</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Discurso Apocalíptico de Jesús</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Destrucción y la Gran Tribulación</h5>
+<ul>
+    <li><strong>El Templo:</strong> La profecía de la **destrucción del Templo** (cumplida en el año 70 d.C.).</li>
+    <li><strong>La Abominación:</strong> La **"abominación desoladora"** puesta donde no debe (la profanación del lugar santo).</li>
+    <li><strong>La Huida:</strong> Jesús advierte que, cuando vean este evento, los que estén en **Judea** deben **huir a los montes** inmediatamente.</li>
+    <li><strong>El Engaño:</strong> Habrá **falsos cristos y falsos profetas** que tratarán de engañar a los elegidos.</li>
+    <li><strong>El Retorno:</strong> El **Hijo del Hombre** vendrá sobre las **nubes con gran poder y gloria**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Vigilancia</h5>
+<ul>
+    <li><strong>El Desamparo:</strong> La advertencia de **no descender** de la azotea a tomar nada (el peligro de las calles).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paradoja:</strong> Nadie sabe el día ni la hora, excepto el Padre (la divinidad de Jesús y la limitación de Su conocimiento encarnado).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vigilancia constante** es la prueba de la fidelidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">historia se dirige a un clímax</span>. La fe se demuestra al vivir en constante preparación y cumplimiento de la misión.</p>
                 
@@ -45628,7 +50439,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sumisión:</strong> Jesús acepta la copa de sufrimiento en Getsemaní</li>
                     <li><strong>Fallo Humano:</strong> La traición de Judas y la negación de Pedro</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Traición, la Cena y el Arresto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pascua y la Nueva Alianza</h5>
+<ul>
+    <li><strong>La Unción:</strong> La mujer en **Betania** unge a Jesús con **perfume de nardo puro** (un acto de amor y preparación para Su entierro).</li>
+    <li><strong>Judas:</strong> **Judas Iscariote** lo vende por **dinero** (motivación por la avaricia).</li>
+    <li><strong>La Cena:</strong> Se celebra la **Cena de Pascua**. Jesús establece el **pan y el vino** como Su cuerpo y sangre de la **Nueva Alianza**.</li>
+    <li><strong>Getsemaní:</strong> Jesús ora en **Getsemaní**, pidiendo que pase de Él **"esta copa"** (la agonía de la pasión).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Traición</h5>
+<ul>
+    <li><strong>Beso:</strong> El **beso** de Judas era la **señal acordada** para identificar a Jesús en la noche.</li>
+    <li><strong>Juicio Nocturno:</strong> El **juicio nocturno** del Sanedrín era ilegal según la ley judía.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Voluntad:</strong> Jesús se somete a la **voluntad del Padre** por encima de Su deseo humano.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sacrificio de Cristo** es el acto definitivo de obediencia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sacrificio de Jesús es voluntario</span> y redentor. La debilidad del hombre es contrastada con la fortaleza del Siervo de Dios.</p>
                 
@@ -45654,7 +50488,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Expiación:</strong> La muerte de Cristo como cumplimiento del plan divino</li>
                     <li><strong>Testimonio Gentil:</strong> Un romano reconoce la divinidad de Jesús en la cruz</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Pasión y la Muerte</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Confesión y el Velo Rasgado</h5>
+<ul>
+    <li><strong>Pilato:</strong> **Poncio Pilato** (el gobernador romano) encuentra a Jesús **inocente**, pero lo entrega a la crucifixión por la **presión** de la multitud.</li>
+    <li><strong>Barrabás:</strong> El pueblo pide la liberación de **Barrabás** (un sedicioso y asesino), prefiriéndolo a Jesús.</li>
+    <li><strong>La Flagelación:</strong> Jesús es **flagelado** (un castigo romano brutal).</li>
+    <li><strong>La Cruz:</strong> La hora de la crucifixión (la **hora tercera**, 9 a.m.). Jesús muere a la **hora novena** (3 p.m.).</li>
+    <li><strong>El Velo:</strong> El **velo del Templo** se **rasga en dos** de arriba abajo (el fin de la necesidad del sacerdocio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Crucifixión</h5>
+<ul>
+    <li><strong>La Mofa:</strong> Los soldados romanos visten a Jesús con un **manto de púrpura** (burla de Su realeza) y una **corona de espinas**.</li>
+    <li><strong>El Centurión:</strong> El **centurión romano** que presencia la muerte de Jesús confiesa: **"Verdaderamente este hombre era Hijo de Dios"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Honor:</strong> La **máxima humillación** (la cruz) es el medio de la **máxima revelación** (la filiación divina).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **destrucción del Templo** es un signo del **sacrificio consumado**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">muerte de Cristo abre el camino al Padre</span> (velo rasgado). Es la máxima prueba de que es el Siervo Sufriente y el Hijo de Dios.</p>
                 
@@ -45680,7 +50538,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>La Gran Comisión:</strong> El mandato de evangelizar con señales (en el agregado posterior)</li>
                     <li><strong>Misterio:</strong> El final abrupto que enfatiza la necesidad de la fe (v. 8)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Resurrección y la Gran Comisión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Tumba Vacía y la Fe</h5>
+<ul>
+    <li><strong>Las Mujeres:</strong> Las mujeres (María Magdalena, María madre de Jacobo y Salomé) van al sepulcro **al amanecer**.</li>
+    <li><strong>El Mensaje:</strong> El ángel les ordena **ir a Galilea** y **decir a Pedro** que Jesús ha resucitado (la restauración de Pedro).</li>
+    <li><strong>El Temor:</strong> Las mujeres **huyen** del sepulcro, llenas de **temor** y **asombro**, y no dicen nada (el final original de Marcos).</li>
+    <li>**Los Versículos Finales (9-20):** (La mayoría de los eruditos creen que estos versículos fueron añadidos después) Jesús se aparece, da la **Gran Comisión** y asciende a los cielos.</li>
+    <li><strong>La Comisión:</strong> El mandato de **predicar el Evangelio a toda criatura**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Predicación</h5>
+<ul>
+    <li><strong>Los Signos:</strong> Los discípulos predicarán con **señales** (echar fuera demonios, hablar nuevas lenguas, sanar enfermos) como prueba de Su autoridad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Incredulidad:</strong> Jesús reprende a los once por su **incredulidad** y la **dureza de su corazón**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Resurrección** es la **validación final** de Jesús como el Hijo y Siervo de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Resurrección es el poder que valida todo el ministerio</span> de Jesús y da inicio a la misión de la Iglesia.</p>
                 
@@ -45708,7 +50589,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder del Espíritu Santo:</strong> Actúa en Zacarías, Elisabet y María</li>
                     <li><strong>Cántico:</strong> La respuesta de alegría al plan de salvación de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Prólogo y los Anuncios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Orden Histórico y los Himnos Judíos</h5>
+<ul>
+    <li><strong>El Prólogo:</strong> Lucas, como historiador, establece que investigó **"con diligencia y orden"** para dar **"certeza"** a Teófilo.</li>
+    <li><strong>Zacarías y Elisabet:</strong> La historia comienza con un **sacerdote** (Zacarías) en el **Templo**, un anclaje en el judaísmo.</li>
+    <li><strong>El Arcángel Gabriel:</strong> El ángel anuncia el nacimiento de **Juan el Bautista** (quien tendrá el espíritu de Elías).</li>
+    <li><strong>El Anuncio a María:</strong> El anuncio del nacimiento de Jesús, incluyendo la concepción por el **Espíritu Santo**.</li>
+    <li><strong>El Magníficat:</strong> El **canto de María** (el Magníficat) es un himno judío basado en el cántico de Ana, exaltando a Dios por Su misericordia hacia el humilde.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Sacerdocio</h5>
+<ul>
+    <li><strong>El Incienso:</strong> El deber de Zacarías de **ofrecer incienso** en el Lugar Santo era un honor único.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Duda vs. Fe:</strong> **Zacarías** duda y es enmudecido; **María** acepta con fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **cumplimiento de la promesa** comienza en el seno de una familia piadosa y humilde.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">historia de la salvación es real e innegable</span>. Dios interviene en la historia humana para cumplir Sus promesas.</p>
                 
@@ -45734,7 +50638,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pobreza:</strong> Jesús vino a los humildes (pastores)</li>
                     <li><strong>Humanidad de Jesús:</strong> Creció en sabiduría y estatura, sometido a Sus padres</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Nacimiento y la Presentación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Censo Romano y los Pastores</h5>
+<ul>
+    <li><strong>El Censo:</strong> El nacimiento de Jesús se ubica en el contexto del **censo de Augusto** (un anclaje histórico preciso) cuando **Cirenio** era gobernador de Siria.</li>
+    <li><strong>Belén:</strong> La profecía de **Miqueas** se cumple.</li>
+    <li><strong>Los Pastores:</strong> La revelación se da primero a los **pastores** (la clase más baja y marginal), un tema recurrente en Lucas.</li>
+    <li><strong>Simeón y Ana:</strong> La presentación de Jesús en el Templo. Simeón canta el **Nunc Dimittis** (profecía sobre Jesús como Luz para los gentiles y Gloria de Israel).</li>
+    <li><strong>El Templo (12 Años):</strong> Jesús a los 12 años muestra una **sabiduría** que asombra a los maestros.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Pesebre</h5>
+<ul>
+    <li><strong>El Pesebre:</strong> El lugar donde se daba de comer al ganado, simbolizando la **humildad extrema** de Su nacimiento.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Mismo Dios:</strong> La **revelación** se da a los poderosos (gobernadores) y a los **humildes** (pastores).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Jesús debe estar en **"los negocios de Mi Padre"** (la primacía de la misión divina).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación es para todos</span>, especialmente para los humildes. Jesús es el Mesías prometido y el Hijo de Dios.</p>
                 
@@ -45760,7 +50687,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia Social:</strong> Las demandas éticas de Juan a diferentes grupos</li>
                     <li><strong>Genealogía Universal:</strong> Jesús es el Hijo del Hombre, el nuevo Adán</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Juan el Bautista y la Genealogía Universal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Voz Profética y el Origen de la Humanidad</h5>
+<ul>
+    <li><strong>El Anclaje:</strong> Lucas usa **seis autoridades** (desde Tiberio César hasta Anás y Caifás) para fechar el inicio del ministerio de Juan (precisión histórica).</li>
+    <li><strong>El Llamado Ético:</strong> El pueblo pregunta qué debe hacer. Juan da **instrucciones éticas y prácticas** a los publicanos y soldados (no extorsionar, no calumniar).</li>
+    <li><strong>El Bautismo:</strong> El **Espíritu Santo** desciende sobre Jesús en forma **corporal** (como una paloma), un detalle propio de Lucas.</li>
+    <li><strong>La Genealogía:</strong> Lucas traza la genealogía **hacia atrás hasta Adán** y, finalmente, a **Dios** (énfasis en Jesús como Hijo de Hombre universal).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Los Soldados</h5>
+<ul>
+    <li><strong>Los Soldados:</strong> Su inclusión indica que el **arrepentimiento** no exige el abandono de la profesión, sino la **rectitud moral**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Origen:</strong> La genealogía de Mateo enfatiza lo **real** (David); la de Lucas, lo **humano y divino** (Adán, Dios).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Jesús es el **Salvador de toda la humanidad**, no solo de Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">ministerio de Jesús es un evento histórico</span> bien documentado. Él es la esperanza de toda la humanidad.</p>
                 
@@ -45786,7 +50735,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misión Social:</strong> La predicación del evangelio incluye a los pobres y oprimidos</li>
                     <li><strong>Rechazo:</strong> El Mesías es rechazado por Su propio pueblo desde el inicio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Tentación y el Manifiesto en la Sinagoga</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Espíritu, la Ley y el Rechazo</h5>
+<ul>
+    <li><strong>La Tentación:</strong> Jesús es **"lleno del Espíritu Santo"** y es tentado. Responde con citas de **Deuteronomio** (la obediencia a la Palabra).</li>
+    <li><strong>Nazaret:</strong> Jesús regresa a Nazaret y se levanta en la sinagoga para leer de **Isaías 61**.</li>
+    <li><strong>El Manifiesto:</strong> Jesús se aplica la profecía a Sí mismo: **"El Espíritu del Señor está sobre Mí... para dar libertad a los oprimidos"** (el programa de Su misión).</li>
+    <li><strong>El Rechazo:</strong> El pueblo de Nazaret intenta **despeñarlo** (el rechazo inicial del Mesías).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Sinagoga</h5>
+<ul>
+    <li><strong>El Lector:</strong> Era costumbre permitir que un **maestro visitante** leyera las Escrituras y enseñara.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Profeta:</strong> Un **profeta** no es acepto en su propia tierra (la amarga realidad del ministerio).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad** de Jesús se basa en la **unción del Espíritu Santo** y el cumplimiento de la **profecía**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obra de Cristo está impulsada por el Espíritu Santo</span> y está centrada en la liberación integral del hombre.</p>
                 
@@ -45812,7 +50783,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad para Perdonar:</strong> Jesús es Señor del pecado y de la enfermedad</li>
                     <li><strong>Gracia para los Marginados:</strong> Jesús come con los pecadores (la clase "enferma")</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Llamado a Servir y la Ley del Culto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pesca y el Perdonador de Pecados</h5>
+<ul>
+    <li><strong>La Pesca Milagrosa:</strong> La pesca milagrosa lleva a **Pedro** a confesar su **pecaminosidad**.</li>
+    <li><strong>El Llamado:</strong> Jesús llama a los pescadores a ser **"pescadores de hombres"** (el ministerio evangelístico).</li>
+    <li><strong>El Leproso:</strong> Jesús sana al leproso y le ordena **presentarse al sacerdote** y ofrecer las ofrendas (validación de la Ley Mosaica).</li>
+    <li><strong>El Paralítico:</strong> Jesús demuestra Su autoridad para **perdonar pecados** antes de sanar al paralítico (la esfera divina).</li>
+    <li><strong>El Publicano:</strong> Jesús llama a **Leví** (Mateo), el publicano, y cena con pecadores.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Bote</h5>
+<ul>
+    <li><strong>El Bote:</strong> Usado como **púlpito flotante** para que Jesús pudiera hablar a la multitud desde la orilla.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Sanador:</strong> La **autoridad de Jesús** no es solo sobre la enfermedad, sino sobre el **pecado**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Reino de Dios** es para los **enfermos** y los **pecadores**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">respuesta al llamado de Cristo debe ser total</span>. Él es el Médico Divino que sana la enfermedad y el pecado.</p>
                 
@@ -45838,7 +50832,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia Social:</strong> Énfasis en los pobres y la condenación a la riqueza egoísta</li>
                     <li><strong>Amor Radical:</strong> El mandato de amar a los que nos ofenden</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Maestro del Sábado y el Sermón de la Llanura</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sábado y la Ética del Reino</h5>
+<ul>
+    <li><strong>El Sábado:</strong> Jesús establece Su autoridad sobre el Sábado. **"El Hijo del Hombre es Señor aun del Sábado"**.</li>
+    <li><strong>El Sermón:</strong> El **Sermón de la Llanura** (propio de Lucas) es similar al del Monte, pero más **enfocado en lo material** (ayes contra el rico, el lleno, el que ríe).</li>
+    <li><strong>La Venganza:</strong> Se enseña el **amor a los enemigos** y el **dar la otra mejilla** (la ética radical).</li>
+    <li><strong>El Árbol:</strong> El **fruto** es la prueba de la **condición del corazón** (el buen tesoro produce lo bueno).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Desamparados</h5>
+<ul>
+    <li><strong>Los Ayes:</strong> La condena de la **satisfacción material** sin tener en cuenta la necesidad espiritual.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Medida:</strong> Se debe dar con una **medida buena y remecida** (generosidad sobreabundante).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera bienaventuranza** es espiritual, no material.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">ética del Reino es contraria al mundo</span>. La verdadera bienaventuranza se encuentra en la humildad y la necesidad.</p>
                 
@@ -45864,7 +50880,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Compasión por la Viuda:</strong> Jesús interviene en el sufrimiento de los indefensos</li>
                     <li><strong>Gracia:</strong> La magnitud del perdón produce una gran adoración</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Fe Gentil y la Mujer Pecadora</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Autoridad y la Gracia</h5>
+<ul>
+    <li><strong>El Centurión:</strong> El **centurión romano** (gentil) muestra una gran fe, entendiendo el concepto de **autoridad delegada** (no es digno de que Jesús entre en su casa).</li>
+    <li><strong>La Viuda:</strong> Jesús **resucita al hijo de la viuda** de Naín (un acto de compasión, sin que se le pida).</li>
+    <li><strong>La Duda de Juan:</strong> Juan el Bautista pregunta desde la cárcel si Jesús es el Mesías.</li>
+    <li><strong>El Banquete:</strong> Jesús es invitado al banquete del **fariseo Simón**.</li>
+    <li><strong>La Mujer Pecadora:</strong> Una **mujer pecadora** (posiblemente prostituta) unge a Jesús con perfume, lavando Sus pies con sus lágrimas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Hospitalidad</h5>
+<ul>
+    <li><strong>La Unción:</strong> El **no dar agua** para los pies ni **beso de cortesía** era una falta grave de hospitalidad.</li>
+    <li><strong>La Deuda:</strong> La parábola de los **dos deudores** establece que el **gran perdón** produce **gran amor**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Amor:</strong> El **gran amor** de la pecadora contrasta con la **frialdad** del fariseo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gracia** de Jesús es un acto de **perdón y restauración** para el marginado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">perdón de Cristo es la fuente de la adoración</span>. El Señor es sensible al dolor de los marginados.</p>
                 
@@ -45890,7 +50930,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Corazón Receptivo:</strong> El tipo de corazón que da fruto (la buena tierra)</li>
                     <li><strong>Poder sobre Todo:</strong> Autoridad sobre la naturaleza, los demonios y la muerte</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Apoyo Femenino y el Poder Milagroso</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Financiamiento del Ministerio y la Simiente</h5>
+<ul>
+    <li><strong>Las Mujeres:</strong> Lucas destaca a las **mujeres** (María Magdalena, Juana, Susana) que **sustentaban a Jesús** con sus bienes (la fuente de financiamiento).</li>
+    <li><strong>Parábola del Sembrador:</strong> El énfasis en el **oír y retener** la Palabra (la perseverancia).</li>
+    <li><strong>La Lámpara:</strong> La **luz** no debe ponerse debajo del lecho, sino en el **candelero** (la necesidad de testimonio público).</li>
+    <li><strong>El Gadareno:</strong> Jesús sana al endemoniado. El hombre pide seguir a Jesús, pero se le ordena **volver y contar** lo que Dios hizo (ser Su misionero local).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Mujer con Flujo</h5>
+<ul>
+    <li><strong>El Flujo:</strong> La mujer, ritualmente inmunda, toca a Jesús y **Su poder fluye** para sanarla.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fe:</strong> La **fe** no es solo un sentimiento, sino una **acción** que toma el poder de Jesús.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad** de Jesús se extiende sobre las fuerzas de la naturaleza, el mal y la muerte.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Reino de Dios acoge y empodera a las mujeres</span>. La Palabra de Dios requiere un corazón dispuesto para producir fruto.</p>
                 
@@ -45916,7 +50978,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Éxodo:</strong> La muerte de Jesús como la nueva y gran liberación</li>
                     <li><strong>Discipulado:</strong> El rechazo radical de la vida antigua (mirar atrás)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Costo del Discipulado y la Transfiguración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Misión a los Pobres y la Cima</h5>
+<ul>
+    <li><strong>La Misión:</strong> Jesús envía a los **Doce** con el mandato de **no llevar nada** (dependencia total de Dios).</li>
+    <li><strong>La Multiplicación:</strong> La alimentación de los **cinco mil** (la provisión mesiánica).</li>
+    <li><strong>El Mesías:</strong> **Pedro** confiesa que Jesús es el **Cristo de Dios**.</li>
+    <li><strong>La Cruz:</strong> Jesús anuncia Su **sufrimiento y resurrección**. El discipulado es **negarse a sí mismo y tomar la cruz cada día**.</li>
+    <li><strong>Transfiguración:</strong> El propósito era que los discípulos **vieran Su gloria** antes de Su pasión.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Las Zorras</h5>
+<ul>
+    <li><strong>El Desamparo:</strong> Jesús, el **Hijo de Hombre**, **"no tiene dónde reclinar la cabeza"** (el desamparo del ministerio).</li>
+    <li><strong>El Viaje:</strong> Jesús toma la decisión de ir **"resueltamente a Jerusalén"** (el inicio de la gran narrativa del viaje).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Compromiso:</strong> El que pone la mano en el **arado y mira hacia atrás** no es apto para el Reino.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gloria mesiánica** solo se alcanza a través del **sacrificio** (la cruz).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">camino de la gloria es el camino de la cruz</span>. El creyente debe poner a Cristo antes que cualquier vínculo terrenal.</p>
                 
@@ -45942,7 +51028,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prójimo Universal:</strong> La caridad trasciende las barreras étnicas</li>
                     <li><strong>Prioridad:</strong> La importancia de la devoción (María) sobre el servicio excesivo (Marta)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Misión de los Setenta y la Misericordia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Cosecha y el Amor al Prójimo</h5>
+<ul>
+    <li><strong>Los Setenta:</strong> Lucas, el único, envía a **70 (o 72) discípulos** (el número de las **naciones** del mundo según Génesis 10) con instrucciones similares a los Doce.</li>
+    <li><strong>La Hospitalidad:</strong> Los discípulos debían aceptar la **hospitalidad** (confianza en la provisión).</li>
+    <li><strong>El Gozo:</strong> La verdadera razón para regocijarse no es el poder (demonios sujetos), sino que el **nombre está escrito en los cielos**.</li>
+    <li><strong>El Abogado:</strong> La pregunta del **abogado** (fariseo experto en Ley) sobre la vida eterna.</li>
+    <li><strong>El Buen Samaritano:</strong> La parábola propia de Lucas, que exalta al **samaritano** (enemigo/marginado) como el **verdadero prójimo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Geográfico: Jerusalén-Jericó</h5>
+<ul>
+    <li><strong>El Camino:</strong> El camino de Jerusalén a Jericó era conocido por sus **bandidos** y su peligrosidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Oír:</strong> **María** eligió la **"buena parte"** (oír la Palabra) sobre el servicio de **Marta** (el activismo).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ortopraxis** (acción correcta) es amar al prójimo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera religión es la que practica la misericordia</span> sin prejuicios. La Palabra de Dios debe ser la prioridad.</p>
                 
@@ -45968,7 +51077,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Blasfemia:</strong> Atribuir la obra del Espíritu a Satanás</li>
                     <li><strong>Hipocresía:</strong> El juicio sobre la religión que descuida la justicia y el amor</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Oración y el Pan Cotidiano</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Modelo de Oración y la Hostilidad</h5>
+<ul>
+    <li><strong>El Padre Nuestro:</strong> La versión de Lucas es más **corta** y se enfoca en el **pan cotidiano** y el **perdón**.</li>
+    <li><strong>El Amigo Importuno:</strong> La parábola enseña la **necesidad de la persistencia** en la oración (el amigo que molesta a medianoche).</li>
+    <li><strong>El Ayuno:</strong> Jesús reprende a los fariseos por su **énfasis ritual** (diezmo de la menta, vasos limpios) y la **falta de justicia y amor**.</li>
+    <li><strong>La Generación Malvada:</strong> Solo se les dará el **signo de Jonás** (la resurrección).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Lámpara</h5>
+<ul>
+    <li><strong>El Ojo:</strong> El **ojo** es la **"lámpara del cuerpo"** (la fuente de percepción). Un ojo bueno (generoso) produce luz.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Luz:</strong> La **luz de Dios** debe **llenar el corazón** (lo interno) antes de lo externo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **purificación** debe ser **interna** (corazón) antes que **externa** (ritual).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">oración es el medio para recibir la ayuda de Dios</span>. El fruto de la fe es más importante que la observancia externa.</p>
                 
@@ -45994,7 +51125,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Avaricia:</strong> La vida no consiste en la abundancia de bienes</li>
                     <li><strong>Confianza:</strong> Dios proveerá si se busca Su Reino primero</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Avaricia y la Ansiedad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Advertencia y el Juicio</h5>
+<ul>
+    <li><strong>La Levadura:</strong> Advertencia contra la **levadura de los fariseos** (la hipocresía).</li>
+    <li><strong>El Cuidado:</strong> La enseñanza sobre el **cuidado de Dios** por los gorriones y el cabello (la eliminación de la ansiedad).</li>
+    <li><strong>El Rico Necio:</strong> La parábola del hombre que solo piensa en **almacenar sus bienes** (avaricia) y muere esa noche.</li>
+    <li><strong>El Fuego:</strong> Jesús vino a **echar fuego en la Tierra** (la pasión y el juicio).</li>
+    <li><strong>El Signo:</strong> El pueblo sabe **discernir el tiempo atmosférico** (el viento y la nube) pero no el **"tiempo"** (kairós) de la visita de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Prisión</h5>
+<ul>
+    <li><strong>La Ley:</strong> Exhortación a **arreglar las cuentas** con el adversario **antes de ir al juez** (la urgencia del arrepentimiento).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Tesoro:</strong> Se debe ser **"rico para con Dios"** (la inversión espiritual), no solo para consigo mismo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera vida** no consiste en la **abundancia de bienes**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida abundante se encuentra en Dios</span>, no en las posesiones. La fe desplaza el miedo.</p>
                 
@@ -46020,7 +51174,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Justo:</strong> El sufrimiento no siempre es castigo, pero la incredulidad sí lo es</li>
                     <li><strong>Salvación Universal:</strong> La puerta estrecha está abierta, pero no por siempre</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Arrepentimiento Urgente y la Inclusión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Tragedia y el Árbol Estéril</h5>
+<ul>
+    <li><strong>La Tragedia:</strong> La muerte de los **galileos** que Pilato mezcló con sus sacrificios y los **dieciocho** que murieron por la caída de la torre de Siloé.</li>
+    <li><strong>El Arrepentimiento:</strong> Jesús niega que las víctimas fueran **más pecadoras** y advierte: **"Si no os arrepentís, todos pereceréis igualmente"**.</li>
+    <li><strong>La Higuera:</strong> La parábola de la higuera que **no da fruto** y se le da **un año más** (la paciencia de Dios).</li>
+    <li><strong>La Puerta Angosta:</strong> Se debe **"luchar"** para entrar por la **puerta angosta** (el esfuerzo por la salvación).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Enfermedad</h5>
+<ul>
+    <li><strong>La Mujer:</strong> La mujer que estuvo **encorvada 18 años** (un ejemplo de la gracia sobre el Sábado).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Reino:</strong> El Reino es como un **grano de mostaza** (pequeño inicio) que crece en un **gran árbol** (gran final).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia** es superior a la **ley del Sábado**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gracia de Dios es paciente, pero Su paciencia tiene un límite</span>. El arrepentimiento es la única vía de escape al juicio.</p>
                 
@@ -46046,7 +51222,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Compensación:</strong> Dar sin esperar ser devuelto en esta vida</li>
                     <li><strong>Sacrificio:</strong> El discipulado exige una devoción total, sin prioridades divididas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Humildad y el Precio del Discipulado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Banquete y la Torre</h5>
+<ul>
+    <li><strong>La Curación:</strong> Jesús sana a un hombre **hidrópico** (con retención de líquidos) en Sábado, desafiando a los fariseos.</li>
+    <li><strong>La Humildad:</strong> La enseñanza de **elegir el último lugar** en el banquete (la honra viene de Dios).</li>
+    <li><strong>El Banquete:</strong> La parábola de la **gran cena** donde los invitados se excusan. Se invita a los **pobres y cojos** (los marginados).</li>
+    <li><strong>El Costo:</strong> El discipulado exige **odiar** (amar menos) a la familia y **tomar la cruz**.</li>
+    <li><strong>La Torres:</strong> Se debe **calcular el costo** (la torre y la guerra) antes de emprender el discipulado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Sal</h5>
+<ul>
+    <li><strong>La Sal:</strong> El discípulo es **sal** que no debe **perder su sabor** (la falta de carácter).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Servicio:</strong> El **verdadero discipulado** es la **renuncia** a todo por Jesús.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la puerta al honor divino.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe requiere una entrega total</span>. La verdadera bendición se encuentra en la reciprocidad divina, no humana.</p>
                 
@@ -46072,7 +51271,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo de Dios:</strong> El cielo se regocija por el arrepentimiento</li>
                     <li><strong>Gracia Incondicional:</strong> El Padre acoge al pecador arrepentido (el pródigo)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Tres Parábolas de la Restauración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Alegría de la Búsqueda y la Restauración</h5>
+<ul>
+    <li><strong>El Contexto:</strong> Jesús come con **publicanos y pecadores** (la queja de los fariseos).</li>
+    <li><strong>La Oveja Perdida:</strong> La parábola enfatiza la **búsqueda activa** del Pastor por la oveja.</li>
+    <li><strong>La Moneda Perdida:</strong> La mujer **barre toda la casa** para encontrar la moneda (la alegría por el encuentro).</li>
+    <li><strong>El Hijo Pródigo:</strong> La parábola del **hijo perdido y hallado** (la gracia incondicional).</li>
+    <li><strong>El Hermano Mayor:</strong> El **hermano mayor** (el fariseo) es condenado por su **falta de alegría y compasión**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Moneda</h5>
+<ul>
+    <li><strong>Dracma:</strong> La **moneda de plata**, a menudo parte de la dote o de un tocado familiar (valor sentimental y económico).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Misericordia:</strong> La **alegría en el Cielo** por un pecador que se arrepiente.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **amor de Dios** es restaurador, no solo condenatorio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">evangelio es la búsqueda y restauración de los perdidos</span>. El amor de Dios es inmensurable y siempre está esperando el regreso.</p>
                 
@@ -46098,7 +51320,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Prioridad:</strong> El amor al dinero es la raíz de todo mal</li>
                     <li><strong>Vida Eterna:</strong> El destino final es inalterable después de la muerte</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Uso de la Riqueza y el Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sabiduría Terrenal y el Lázaro</h5>
+<ul>
+    <li><strong>El Mayordomo Infiel:</strong> Parábola que enseña el **uso astuto** de la **"riqueza injusta"** (bienes materiales) para hacer **amigos** (prepararse para la eternidad).</li>
+    <li><strong>La Riqueza:</strong> No se puede **servir a dos señores** (Dios y las riquezas/Mamón).</li>
+    <li><strong>Lázaro y el Rico:</strong> La parábola única de Lucas. El rico es juzgado por su **indiferencia** y **egoísmo**, no por su riqueza en sí.</li>
+    <li><strong>Moisés:</strong> El rico es enviado a rogar que se **advierta a sus hermanos**. El argumento es: si no oyen a **Moisés y a los profetas**, tampoco creerán aunque **alguien se levante de los muertos**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Faldones</h5>
+<ul>
+    <li><strong>Lázaro:</strong> El nombre significa **"Dios ha ayudado"**. Se sentaba a la puerta del rico, esperando las migajas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ley:</strong> La **ley** y los **profetas** son suficientes para guiar al hombre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia** es una **obligación moral** ligada al juicio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">uso de las riquezas es una prueba de la fidelidad</span>. El destino eterno está determinado por la fe en esta vida.</p>
                 
@@ -46124,7 +51368,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> La obediencia es un simple deber, no un mérito</li>
                     <li><strong>Vigilancia:</strong> La venida del Reino es repentina y requiere preparación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Fe y el Día de la Venida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sanación y la Vigilancia</h5>
+<ul>
+    <li><strong>El Perdón:</strong> Se debe **perdonar siete veces al día** si el hermano se arrepiente.</li>
+    <li><strong>La Fe:</strong> La **fe** es tan poderosa como un **grano de mostaza** para mover árboles.</li>
+    <li><strong>Los Siervos:</strong> La enseñanza de que somos **"siervos inútiles"** (no merecemos recompensa por hacer solo el deber).</li>
+    <li><strong>Los Diez Leprosos:</strong> Solo **uno** (un **samaritano**, otro marginado) regresa a **dar gracias**.</li>
+    <li><strong>El Diluvio:</strong> La **venida del Hijo del Hombre** será tan **repentina** como el diluvio o el fuego de Sodoma.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Lepra</h5>
+<ul>
+    <li><strong>Los Diez:</strong> La lepra los hacía **marginados** y debían gritar **"Inmundo, Inmundo"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Obediencia:</strong> La **acción de gracias** es la prueba de la fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación** se da por la **fe**, no solo por la curación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es el poder para la obediencia</span> y el agradecimiento. La salvación se encuentra en la gracia, no en el servicio meritorio.</p>
                 
@@ -46150,7 +51417,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justificación:</strong> Es por la gracia que humilla, no por el mérito</li>
                     <li><strong>Ceguera Espiritual:</strong> El ciego busca la vista, el rico prefiere sus riquezas</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Oración Persistente y la Justificación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Oración y el Corazón</h5>
+<ul>
+    <li><strong>El Juez Injusto:</strong> La parábola de la **viuda persistente** enseña a **orar siempre y no desmayar**.</li>
+    <li><strong>El Fariseo y el Publicano:</strong> La oración del **fariseo** (orgullo) y del **publicano** (humildad). Solo el publicano (el marginado) es **justificado**.</li>
+    <li><strong>El Joven Rico:</strong> La lección de que la **renuncia a la riqueza** es necesaria para entrar al Reino.</li>
+    <li><strong>La Ceguera:</strong> Jesús sana al **ciego de Jericó**, quien lo llama **"Hijo de David"** (el reconocimiento mesiánico).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Manto</h5>
+<ul>
+    <li><strong>El Manto:</strong> El ciego **tira su manto** para ir a Jesús (el despojo de la vida anterior).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Justificado:</strong> La **humildad** es la única puerta a la **justificación** divina.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justificación** es por la **gracia**, no por las **obras** (oración farisaica).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humildad en la oración es la única puerta al favor de Dios</span>. La fe se demuestra al priorizar a Cristo sobre todo lo terrenal.</p>
                 
@@ -46176,7 +51465,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mayordomía Responsable:</strong> Usar los dones para el Reino (las minas)</li>
                     <li><strong>Juicio Inminente:</strong> La incredulidad de Jerusalén lleva al juicio y la destrucción</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Salvación de Zaqueo y el Reparto de Talentos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Recaudador de Impuestos y la Responsabilidad</h5>
+<ul>
+    <li><strong>Zaqueo:</strong> Un **jefe de publicanos** (rico y odiado). Sube a un **sicómoro** para ver a Jesús.</li>
+    <li><strong>La Conversión:</strong> Zaqueo promete **devolver cuatro veces** lo que extorsionó y dar la **mitad de sus bienes** a los pobres.</li>
+    <li><strong>La Salvación:</strong> Jesús declara que la **salvación** ha llegado a su casa. **"El Hijo del Hombre vino a buscar y a salvar lo que se había perdido"**.</li>
+    <li><strong>Los Talentos:</strong> La parábola de las **diez minas** (o talentos) enfatiza el **uso responsable** de los dones y la **responsabilidad** de la espera.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Sicómoro</h5>
+<ul>
+    <li><strong>Sicómoro:</strong> Árbol de tronco bajo y ramas extendidas, fácil de escalar.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Realeza:</strong> La **entrada triunfal** es la señal de Su realeza.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero arrepentimiento** se demuestra con la **restitución** material.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación se demuestra en el arrepentimiento</span> práctico (restauración). El Señor es el Rey y Juez.</p>
                 
@@ -46202,7 +51513,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Doble Ciudadanía:</strong> El deber hacia el estado y hacia Dios</li>
                     <li><strong>Resurrección:</strong> La vida venidera es radicalmente diferente a la terrenal</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Trampas y la Autoridad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Templo, el César y el Más Allá</h5>
+<ul>
+    <li><strong>La Autoridad:</strong> Jesús es cuestionado sobre Su **autoridad** para hacer las cosas que hace.</li>
+    <li><strong>Los Labradores:</strong> La parábola de los **labradores de la viña** (la culpabilidad de los líderes judíos).</li>
+    <li><strong>El Tributo:</strong> El intento de atraparlo con la pregunta sobre el **tributo al César** (la obediencia al Estado).</li>
+    <li><strong>La Resurrección:</strong> La refutación a los **saduceos** (que no creen en la resurrección) citando a **Moisés** (el arbusto ardiendo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Piedra</h5>
+<ul>
+    <li><strong>La Piedra:</strong> Jesús se presenta como la **"piedra reprobada por los edificadores"** que será la **"cabeza del ángulo"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Verdad:</strong> La **verdadera piedad** se demuestra con la **honestidad** financiera y la **sumisión** a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad** de Jesús es de origen **divino**, no humano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">cristiano debe vivir bajo una doble autoridad</span>: terrenal y divina, priorizando a Dios en todo.</p>
                 
@@ -46228,7 +51561,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fin de los Tiempos:</strong> La destrucción de Jerusalén como una profecía de los últimos días</li>
                     <li><strong>Vigilancia Espiritual:</strong> La sobriedad y la oración como preparación</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Escatología y la Ofrenda de la Viuda</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Templo, la Gran Tribulación y los Tiempos</h5>
+<ul>
+    <li><strong>La Ofrenda:</strong> La **viuda pobre** que da **"todo lo que tenía"** (dos blancas), en contraste con las ofrendas ricas.</li>
+    <li><strong>La Destrucción:</strong> La profecía de la **destrucción del Templo** y de las **señales** antes de Su regreso (guerras, pestilencias, temblores).</li>
+    <li><strong>Los Tiempos:</strong> Jerusalén será pisoteada por los gentiles hasta que se cumplan los **"tiempos de los gentiles"**.</li>
+    <li><strong>La Vigilancia:</strong> La exhortación a **velar y orar** para no ser atrapados por la venida.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Ansiedad</h5>
+<ul>
+    <li><strong>El Desenfreno:</strong> La advertencia contra el **desenfreno y las borracheras** (la mundanalidad que impide la vigilancia).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Sacrificio:</strong> El **sacrificio total** es el valor verdadero de la ofrenda.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **venida de Jesús** será el **juicio final** sobre los impíos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">devoción a Dios debe ser total</span> (el "todo" de la viuda). El fin es seguro, y la única preparación es la fidelidad constante.</p>
                 
@@ -46254,7 +51609,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Agonía:</strong> Jesús como el Hijo del Hombre sufre plenamente la prueba</li>
                     <li><strong>Servicio Humilde:</strong> El liderazgo del Reino es el servicio radical</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Cena, la Traición y la Oración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pascua, el Trono y el Siervo</h5>
+<ul>
+    <li><strong>Judas:</strong> Satanás **entra en Judas** (el origen del mal).</li>
+    <li><strong>La Cena:</strong> Jesús celebra la **Pascua** y establece la **Nueva Alianza** en Su sangre.</li>
+    <li><strong>El Trono:</strong> Los discípulos discuten sobre **quién es el mayor**. Jesús redefine el liderazgo como **servicio**.</li>
+    <li><strong>La Espada:</strong> Jesús ordena **vender el manto para comprar una espada** (preparación para la persecución).</li>
+    <li><strong>Getsemaní:</strong> El **sudor como gotas de sangre** y la aparición de un **ángel para confortarlo** (detalles propios de Lucas).</li>
+    <li><strong>La Negación:</strong> Jesús predice la **negación de Pedro** antes de que el gallo cante.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Juicio</h5>
+<ul>
+    <li><strong>El Sanedrín:</strong> Jesús declara ante el Sanedrín: **"De ahora en adelante el Hijo del Hombre se sentará a la diestra del poder de Dios"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Siervo:</strong> El **líder** es el que **sirve**, como el que se sienta a la mesa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **oración** es la única arma contra la tentación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humildad de Jesús es el modelo</span> para Sus seguidores. Su sufrimiento es la base del Nuevo Pacto.</p>
                 
@@ -46280,7 +51659,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Perdón:</strong> La oración de perdón por Sus verdugos</li>
                     <li><strong>Gracia en la Cruz:</strong> La salvación del ladrón moribundo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio Civil y la Crucifixión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Herodes, Pilato y el Paraíso</h5>
+<ul>
+    <li><strong>Pilato:</strong> Jesús es llevado ante Pilato, quien lo declara **inocente tres veces**.</li>
+    <li><strong>Herodes:</strong> Pilato lo envía a **Herodes Antipas** (el que mató a Juan el Bautista). Herodes se **burla** de Jesús (detalles propios de Lucas).</li>
+    <li><strong>El Ladrón:</strong> El **ladrón arrepentido** en la cruz. Jesús le promete: **"Hoy estarás conmigo en el paraíso"** (la justificación por la fe en la última hora).</li>
+    <li><strong>La Oración:</strong> Jesús ora: **"Padre, perdónalos, porque no saben lo que hacen"**.</li>
+    <li><strong>El Centurión:</strong> El centurión romano declara: **"Verdaderamente este hombre era justo"** (énfasis en la justicia, propio de Lucas).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Causa</h5>
+<ul>
+    <li><strong>Las Mujeres:</strong> Las **mujeres de Jerusalén** que lloran por Jesús, a quienes advierte que lloren por sí mismas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Inocencia:</strong> La **inocencia de Jesús** es confirmada por la autoridad civil.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **perdón** es el último acto del Siervo de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">perdón y la gracia se extienden hasta el último momento</span> en la cruz. Jesús es el Justo que muere por los injustos.</p>
                 
@@ -46306,7 +51708,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Escritura:</strong> Toda la Biblia apunta a Cristo</li>
                     <li><strong>Ascensión:</strong> El fin del ministerio terrenal y el inicio de Su reinado celestial</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Resurrección y la Ascensión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Entendimiento y el Poder</h5>
+<ul>
+    <li><strong>La Tumba Vacía:</strong> Las mujeres ven a **dos varones con vestiduras resplandecientes** (ángeles).</li>
+    <li><strong>Emaús:</strong> Los **dos discípulos** que caminan a Emaús. Jesús se aparece y **les explica las Escrituras** (Moisés y los Profetas).</li>
+    <li><strong>La Cena:</strong> Es reconocido en el **partimiento del pan** (la Santa Cena).</li>
+    <li><strong>El Mandato:</strong> La predicación del **arrepentimiento y el perdón de pecados** debe comenzar en **Jerusalén**.</li>
+    <li><strong>La Ascensión:</strong> Jesús es **apartado de ellos y llevado al Cielo** (el cierre del Evangelio y el inicio de Hechos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Gozo</h5>
+<ul>
+    <li><strong>El Gozo:</strong> Los discípulos regresan al Templo con **gran gozo** (la nueva realidad del ministerio).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Corazón:</strong> La **apertura del entendimiento** es la clave para comprender la profecía (la muerte y resurrección).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Resurrección** es la **validación** del programa profético.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Resurrección es la verdad central</span> que da sentido a toda la Escritura y al ministerio cristiano.</p>
                 
@@ -46334,7 +51759,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Encarnación:</strong> El Verbo se hizo carne y habitó entre nosotros</li>
                     <li><strong>Testimonio:</strong> El papel de Juan el Bautista como el testigo de la luz</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Verbo (Logos) y el Testimonio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Verbo (Logos) y el Profeta</h5>
+<ul>
+    <li><strong>El Logos:</strong> El prólogo presenta a Jesús como el **Verbo (Logos)**, una figura filosófica y teológica que existía **antes de la Creación** (el principio).</li>
+    <li><strong>Juan el Bautista:</strong> Juan el Bautista es testigo de la Luz, pero **no es el Cristo** ni Elías, ni el profeta prometido (énfasis en su subordinación).</li>
+    <li><strong>El Cordero de Dios:</strong> Juan identifica a Jesús como el **Cordero de Dios** que quita el pecado (alusión a la Pascua y el sacrificio).</li>
+    <li><strong>El Natanael:</strong> Jesús ve a Natanael **debajo de la higuera** (un lugar de estudio o meditación), demostrando Su omnisciencia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: El Logos</h5>
+<ul>
+    <li><strong>Logos:</strong> En la filosofía griega, el Logos era el **principio racional** que ordenaba el universo, título que Juan aplica a Jesús.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Luz y Tinieblas:</strong> La **Luz** (Jesús) viene a las tinieblas, pero las tinieblas no la comprendieron.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **divinidad de Jesús** es el ancla de todo el Evangelio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Jesús es la <span class="highlight">revelación completa de Dios</span> al hombre. La luz vino a la oscuridad, y solo la fe lo reconoce.</p>
                 
@@ -46360,7 +51807,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nuevo Pacto:</strong> El vino como símbolo de la nueva dispensación</li>
                     <li><strong>Autoridad de Cristo:</strong> Jesús es Señor de Su casa (el Templo) y de Su propio cuerpo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Primera Señal y la Purificación del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Matrimonio, el Templo y el Vino</h5>
+<ul>
+    <li><strong>Las Bodas de Caná:</strong> Jesús realiza Su **primera señal** (milagro) al convertir el agua en **vino**.</li>
+    <li><strong>Las Tinajas:</strong> El agua se convierte en vino en **seis tinajas de piedra**, usadas para la **purificación ritual** judía.</li>
+    <li><strong>El Templo (La Fustigación):</strong> Jesús **expulsa a los cambistas** y a los mercaderes del Templo al comienzo de Su ministerio (un acto de autoridad mesiánica).</li>
+    <li><strong>El Santuario:</strong> Jesús profetiza sobre Su propio cuerpo: **"Destruid este templo, y en tres días lo levantaré"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Comercial: Los Cambistas</h5>
+<ul>
+    <li><strong>El Templo:</strong> La venta de animales y el cambio de moneda eran **negocios lucrativos** que profanaban el atrio de los gentiles.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Vino:</strong> El **vino nuevo** es el símbolo de la **Nueva Alianza** y la bendición mesiánica.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Jesús es el **verdadero Templo** de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Jesús es el <span class="highlight">cumplimiento del Antiguo Pacto</span>. El acto de purificación anticipa el juicio y la necesidad de una nueva adoración.</p>
                 
@@ -46386,7 +51855,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Salvación por Fe:</strong> La creencia en el Hijo de Dios como único camino</li>
                     <li><strong>Amor de Dios:</strong> El motivo de la encarnación (Juan 3:16)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Nuevo Nacimiento y la Serpiente</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Nicodemo, el Símbolo y el Agua</h5>
+<ul>
+    <li><strong>Nicodemo:</strong> Un **fariseo y principal de los judíos** (miembro del Sanedrín) que viene a Jesús **de noche** (la oscuridad de su entendimiento).</li>
+    <li><strong>El Nuevo Nacimiento:</strong> La enseñanza de que la salvación requiere nacer **"de agua y del Espíritu"**.</li>
+    <li><strong>La Serpiente:</strong> Jesús se compara con la **serpiente de bronce** levantada por Moisés en el desierto (Números 21).</li>
+    <li><strong>El Testimonio:</strong> Juan el Bautista disminuye su propia fama para exaltar a Jesús (el gozo del amigo del novio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Rabino</h5>
+<ul>
+    <li><strong>Rabino:</strong> Nicodemo saluda a Jesús como **"Rabí"** (maestro).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Juicio y Condenación:</strong> La condenación no es que Dios no quiera salvar, sino que los hombres **amaron más las tinieblas que la luz**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación** es para todo el que cree (universal), no solo para Israel.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida eterna es un don de Dios</span>, recibido solo a través de la fe y un nuevo nacimiento espiritual.</p>
                 
@@ -46412,7 +51903,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misión Universal:</strong> Jesús vino para judíos y samaritanos</li>
                     <li><strong>Agua Viva:</strong> Jesús es el dador de la vida eterna</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Samaritanos, Adoración y la Cosecha</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ruptura de Barreras y el Agua Viva</h5>
+<ul>
+    <li><strong>Los Samaritanos:</strong> Jesús se encuentra con la **mujer samaritana** en el **pozo de Jacob**. Los judíos no tenían trato con los samaritanos (enemistad racial y religiosa).</li>
+    <li><strong>El Mesías:</strong> La mujer reconoce a Jesús como el **Mesías** al exponer Su vida personal y el problema de la adoración.</li>
+    <li><strong>El Templo:</strong> El debate sobre el **lugar correcto de adoración** (el monte Gerizim de los samaritanos o Jerusalén de los judíos).</li>
+    <li><strong>La Cosecha:</strong> Jesús utiliza la metáfora de la **cosecha** (la urgencia del evangelismo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Pozo</h5>
+<ul>
+    <li><strong>El Pozo:</strong> En la antigüedad, el pozo era un **lugar social** donde las mujeres se reunían. Hablar con una mujer sola era impropio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Adoración:</strong> La **adoración** verdadera no está atada a un lugar (monte), sino que debe ser en **Espíritu y en Verdad**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gracia** se extiende más allá de las fronteras religiosas y raciales.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gracia de Cristo se extiende a los marginados y extranjeros</span>. El gozo se encuentra en la cosecha del evangelio.</p>
                 
@@ -46438,7 +51951,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Co-igualdad:</strong> La unidad de Jesús con el Padre en obra y honor</li>
                     <li><strong>Juicio y Vida:</strong> Jesús tiene la autoridad para dar vida eterna y ejecutar el juicio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sábado y la Igualdad con Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sanador del Sábado y la Ley</h5>
+<ul>
+    <li><strong>El Estanque:</strong> Jesús sana al hombre en el **estanque de Betesda**, que se creía que tenía **poder curativo** cuando se agitaba el agua.</li>
+    <li><strong>El Sábado:</strong> La curación se realiza en **Sábado**. Jesús ordena al hombre que **cargue su lecho** (un trabajo prohibido en Sábado).</li>
+    <li><strong>La Ley y el Padre:</strong> Jesús justifica Su acción: **"Mi Padre hasta ahora trabaja, y Yo trabajo"** (la igualdad con Dios).</li>
+    <li><strong>El Testimonio:</strong> Jesús afirma que los **cinco libros de Moisés** dan testimonio de Él.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Persecución</h5>
+<ul>
+    <li><strong>Persecución:</strong> Los líderes judíos comienzan a **perseguir a Jesús** porque violó el Sábado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Vida:</strong> Jesús afirma que **Él da la vida** a quien quiere, y que es el **Juez** de los hombres.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad del Hijo** es la misma que la del Padre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">negación de la deidad de Cristo es incredulidad</span>. Él es la fuente de la vida y la justicia.</p>
                 
@@ -46464,7 +51999,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe y Exclusividad:</strong> Solo en Él hay vida eterna</li>
                     <li><strong>Prueba del Discipulado:</strong> La verdad de Jesús es difícil y requiere compromiso</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pan de Vida y el Milagro de la Multiplicación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pascua y el Mesías Profeta</h5>
+<ul>
+    <li><strong>La Multiplicación:</strong> Jesús alimenta a **cinco mil hombres** con **cinco panes y dos peces**.</li>
+    <li><strong>La Señal:</strong> El milagro ocurre cerca de la **Pascua**. El pueblo quiere hacerlo **rey** (reconocimiento mesiánico).</li>
+    <li><strong>El Pan de Vida:</strong> Jesús se proclama **"Yo Soy el Pan de Vida"** (la alusión al maná en el desierto).</li>
+    <li><strong>El Escándalo:</strong> La enseñanza de **"comer Su carne y beber Su sangre"** fue un escándalo y causó que muchos discípulos lo dejaran.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Maná</h5>
+<ul>
+    <li><strong>Maná:</strong> El maná era el **símbolo de la provisión divina** en la historia de Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fe:</strong> La **carne (lo físico)** para nada aprovecha; el **Espíritu** es el que da vida.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera provisión** es espiritual, no física.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida eterna es una relación vital con Cristo</span>, que alimenta el alma. La fe debe permanecer incluso en la confusión.</p>
                 
@@ -46490,7 +52047,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Agua Viva:</strong> El Espíritu Santo prometido por Cristo</li>
                     <li><strong>División:</strong> El mensaje de Jesús divide a la multitud y a los líderes</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Fiesta de los Tabernáculos y la Controversia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Agua Viva y el Mesías Escondido</h5>
+<ul>
+    <li><strong>La Fiesta:</strong> Gran parte del capítulo se desarrolla en la **Fiesta de los Tabernáculos** (Sucot), que conmemoraba la morada de Israel en el desierto y el agua provista.</li>
+    <li><strong>La Duda:</strong> Los **hermanos de Jesús** lo incitan a ir a Judea.</li>
+    <li><strong>El Origen:</strong> El pueblo debate el **origen de Jesús** (Nazaret vs. Belén).</li>
+    <li><strong>El Agua Viva:</strong> Jesús clama en el Templo, prometiendo que de los creyentes fluirán **"ríos de agua viva"** (el Espíritu Santo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Libación</h5>
+<ul>
+    <li><strong>Libación:</strong> En Sucot, se realizaba el **rito de la libación de agua**, donde el sacerdote vertía agua en el altar. Jesús se refiere a este rito.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Juicio:</strong> La gente está **dividida** sobre la identidad de Jesús.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **creencia** es el único camino para que la gente conozca el origen divino de Jesús.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Jesús es el <span class="highlight">cumplimiento de los rituales del Antiguo Pacto</span>. El Espíritu Santo es el río de vida que fluye de la fe en Él.</p>
                 
@@ -46516,7 +52095,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Libertad:</strong> La verdad de Cristo como liberación del pecado</li>
                     <li><strong>Preexistencia:</strong> La declaración abierta de la deidad de Jesús (*Yo Soy* es el nombre de Dios, Éxodo 3:14)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Luz y la Adúltera</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley del Pecado y el Perdón</h5>
+<ul>
+    <li><strong>La Adúltera:</strong> (Pasaje cuya autenticidad es debatida, pero con gran valor teológico) La mujer es traída para ser **apedreada** (el castigo por adulterio según la Ley).</li>
+    <li><strong>El Testigo:</strong> Jesús les dice a los acusadores: **"El que de vosotros esté sin pecado, sea el primero en arrojar la piedra"**.</li>
+    <li><strong>La Luz:</strong> Jesús se proclama **"Yo Soy la Luz del Mundo"** (la guía en las tinieblas).</li>
+    <li><strong>La Esclavitud:</strong> Jesús enseña que el que practica el pecado es **esclavo del pecado**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Lapidación</h5>
+<ul>
+    <li><strong>Lapidación:</strong> El castigo de la Ley se aplica en el **ámbito público**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Verdad:</strong> La **verdad** libertará al hombre de la esclavitud del pecado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **condenación de Jesús** es el perdón a la pecadora.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">luz de Cristo expone la oscuridad del pecado</span>, y Su verdad es la única libertad.</p>
                 
@@ -46542,7 +52143,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe Progresiva:</strong> El ciego pasa de ver a Jesús como "un hombre" a "el Hijo de Dios"</li>
                     <li><strong>Autoridad de Jesús:</strong> Él vino para juicio, para que los ciegos vean y los videntes se queden ciegos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Ceguera y el Sábado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Pecado, la Enfermedad y la Ley</h5>
+<ul>
+    <li><strong>El Ciego:</strong> Jesús sana al hombre **nacido ciego** con **barro** (saliva y tierra), un acto de **sanidad física**.</li>
+    <li><strong>La Teología Rabínica:</strong> La pregunta de los discípulos: **"¿Quién pecó, este o sus padres?"** (la creencia en la retribución inmediata).</li>
+    <li><strong>El Sábado:</strong> La curación se realiza en **Sábado**, y el hombre es expulsado de la sinagoga.</li>
+    <li><strong>La Ceguera Espiritual:</strong> Los **fariseos** (que ven) son declarados **ciegos** espiritualmente.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Sinagoga</h5>
+<ul>
+    <li><strong>La Excomunión:</strong> Ser **expulsado de la sinagoga** significaba el ostracismo social y religioso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Ojo:</strong> El **milagro físico** es para demostrar el **poder de Jesús** para sanar la ceguera espiritual.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sanidad** no es por causa del pecado, sino para **manifestar las obras de Dios**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>Jesús es la <span class="highlight">luz que ilumina la oscuridad espiritual</span>. El hombre es salvado por la fe en el que lo sanó.</p>
                 
@@ -46568,7 +52191,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unidad con el Padre:</strong> La deidad y co-igualdad de Jesús</li>
                     <li><strong>Seguridad Eterna:</strong> Nadie puede arrebatar a las ovejas de la mano del Padre</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Buen Pastor y el Redil</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Templo, el Redil y el Mesías</h5>
+<ul>
+    <li><strong>El Pastor:</strong> Jesús se proclama **"Yo Soy la Puerta de las Ovejas"** y **"Yo Soy el Buen Pastor"**.</li>
+    <li><strong>El Redil:</strong> El **redil** es el refugio donde las ovejas son protegidas de los ladrones y salteadores.</li>
+    <li><strong>La Voz:</strong> Las **ovejas conocen la voz** del Pastor.</li>
+    <li><strong>El Placer:</strong> El Pastor da la vida por las ovejas (el acto supremo de amor).</li>
+    <li><strong>El Muro:</strong> El pueblo debate si Jesús está **endemoniado** o si Sus obras son de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Asesinato</h5>
+<ul>
+    <li><strong>El Mercenario:</strong> El **asalariado** (el mercenario) huye cuando ve venir al lobo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Unidad:</strong> Jesús tiene **otras ovejas** que no son de este redil (la misión a los gentiles).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **seguridad** del creyente reside en la **unidad** con el Padre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">protección de Cristo es absoluta</span>, y Su relación con el creyente es íntima y sacrificial.</p>
                 
@@ -46594,7 +52240,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humanidad de Jesús:</strong> Llora por Su amigo (muestra Su compasión)</li>
                     <li><strong>Catalizador:</strong> La resurrección es la causa directa del complot para matarle</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Resurrección y el Concilio del Sanedrín</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Vida Eterna y la Profecía de Caifás</h5>
+<ul>
+    <li><strong>Lázaro:</strong> El milagro de la **resurrección de Lázaro** es la **séptima y última señal** de Juan.</li>
+    <li><strong>El "Yo Soy":</strong> Jesús se proclama **"Yo Soy la Resurrección y la Vida"**.</li>
+    <li><strong>El Concilio:</strong> El milagro de Lázaro provoca una reunión de emergencia del **Sanedrín** (el concilio judío).</li>
+    <li><strong>Caifás:</strong> El sumo sacerdote **Caifás** profetiza sin saberlo que Jesús debe morir por la nación.</li>
+    <li><strong>El Exilio:</strong> Jesús se retira a **Efraín** para evitar el arresto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Luto</h5>
+<ul>
+    <li><strong>Luto:</strong> Los judíos se reunían en **luto** por siete días después de la muerte de un ser querido.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fe:</strong> La fe de Marta se convierte en la **prueba de la divinidad** de Jesús.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **muerte de Jesús** es necesaria para la **vida eterna** de la nación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad de Jesús sobre la muerte es total</span>. Él es la esperanza final del creyente.</p>
                 
@@ -46620,7 +52289,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hora de la Gloria:</strong> La cruz es el medio de la glorificación de Cristo</li>
                     <li><strong>Misión Mundial:</strong> El llamado de los gentiles a través de Su muerte</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Unción, la Entrada Triunfal y el Grano de Trigo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pascua y la Gloria</h5>
+<ul>
+    <li><strong>La Unción:</strong> **María de Betania** unge los pies de Jesús con **nardo puro** (un perfume carísimo y un acto de preparación para Su entierro).</li>
+    <li><strong>Judas:</strong> Judas protesta que el perfume debía venderse (la avaricia).</li>
+    <li><strong>Entrada Triunfal:</strong> Jesús entra en Jerusalén sobre un **pollino**, y la multitud lo aclama con **ramas de palmeras**.</li>
+    <li><strong>El Grano de Trigo:</strong> Jesús usa la metáfora del **grano de trigo** que debe **morir** para dar fruto.</li>
+    <li><strong>La Ceguera:</strong> Juan cita a **Isaías** para explicar la **ceguera** de los líderes que no creyeron.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Lujo</h5>
+<ul>
+    <li><strong>Nardo:</strong> El nardo era un perfume de **gran valor**, casi el salario de un año.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Muerte:</strong> La **glorificación** de Jesús solo puede ocurrir a través de Su **sacrificio**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **luz del mundo** solo resplandece después del sufrimiento.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento es el camino hacia la vida abundante</span> y el alcance global del evangelio.</p>
                 
@@ -46646,7 +52338,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nuevo Mandamiento:</strong> El amor sacrificial entre los creyentes</li>
                     <li><strong>Señal de Identidad:</strong> El amor mutuo como la marca del discipulado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Lavatorio de Pies y el Nuevo Mandamiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Cena y la Humildad</h5>
+<ul>
+    <li><strong>El Lavatorio de Pies:</strong> Jesús, en la **cena de Pascua**, lava los pies de Sus discípulos (el acto de un **siervo**).</li>
+    <li><strong>El Mensaje:</strong> El lavatorio es una **lección de humildad** y **servicio** para el liderazgo.</li>
+    <li><strong>El Traidor:</strong> Jesús anuncia que **Judas** lo entregará y le da el **bocado mojado**.</li>
+    <li><strong>El Nuevo Mandamiento:</strong> Jesús da el mandamiento de **amarse unos a otros** como Él los ha amado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Siervo</h5>
+<ul>
+    <li><strong>Lavatorio:</strong> El lavamiento de pies era la **tarea de un esclavo** o un siervo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Amor:</strong> El **amor mutuo** es la **señal de identidad** de los discípulos ante el mundo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera grandeza** reside en el **servicio humilde**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor es la esencia del cristianismo</span>. La humildad en el servicio es el sello del discípulo de Cristo.</p>
                 
@@ -46672,7 +52386,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Exclusividad:</strong> No hay otra forma de llegar al Padre</li>
                     <li><strong>El Espíritu Santo:</strong> El Ayudador y Maestro que lo sustituirá</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Discurso de Despedida y el Consolador</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Camino y la Casa del Padre</h5>
+<ul>
+    <li><strong>El "Yo Soy":</strong> Jesús se proclama **"Yo Soy el Camino, y la Verdad, y la Vida"**.</li>
+    <li><strong>El Consolador:</strong> Jesús promete el envío del **Espíritu Santo** (el Paráclito, o Consolador/Abogado) para **enseñar y recordar** las palabras de Jesús.</li>
+    <li><strong>La Paz:</strong> Jesús da Su **paz** a los discípulos, diferente a la paz del mundo.</li>
+    <li><strong>El Padre:</strong> Jesús afirma la **unidad** entre Él y el Padre.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Abogado</h5>
+<ul>
+    <li><strong>Paráclito:</strong> El Paráclito era un **abogado** que representaba al acusado en el tribunal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Presencia:</strong> La **presencia del Espíritu** garantiza la continuidad de la obra de Jesús.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fe en Jesús** es el único acceso al Padre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">relación con Cristo es la única puerta al Padre</span>. El Espíritu Santo asegura la presencia de Dios en la ausencia de Cristo.</p>
                 
@@ -46698,7 +52434,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Permanecer:</strong> La obediencia y la intimidad como condición para el fruto</li>
                     <li><strong>Persecución:</strong> El conflicto inevitable entre la Iglesia y el mundo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Vid, el Fruto y el Odio del Mundo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Dependencia y la Poda</h5>
+<ul>
+    <li><strong>El "Yo Soy":</strong> Jesús se proclama **"Yo Soy la Vid verdadera"** y el Padre es el **Labrador**.</li>
+    <li><strong>El Fruto:</strong> El discípulo debe **permanecer** en la Vid (la dependencia vital) para **dar fruto**.</li>
+    <li><strong>La Poda:</strong> El Padre **poda** las ramas para que den más fruto (la disciplina).</li>
+    <li><strong>El Mundo:</strong> El **odio del mundo** es inevitable, porque el mundo **odia a Jesús** primero.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Poda</h5>
+<ul>
+    <li><strong>Poda:</strong> El **corte de las ramas** era una práctica común para asegurar una mejor cosecha.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Misionero:</strong> La **función del Espíritu** es testificar y convencer al mundo de pecado, justicia y juicio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vida abundante** es el resultado de la **unidad vital** con Cristo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">unión con Cristo es vital</span> para la vida espiritual. El fruto de la fe es el amor y la obediencia.</p>
                 
@@ -46724,7 +52482,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oración en Su Nombre:</strong> El nuevo acceso a Dios a través de Jesús</li>
                     <li><strong>Transformación:</strong> El dolor temporal se convierte en gozo eterno</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Espíritu Santo y el Gozo Restaurado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Consuelo y la Oración</h5>
+<ul>
+    <li><strong>El Escándalo:</strong> Jesús predice que los discípulos serán **expulsados de la sinagoga** y asesinados.</li>
+    <li><strong>El Espíritu Convence:</strong> El Espíritu convencerá al mundo de **pecado**, **justicia** y **juicio**.</li>
+    <li><strong>El Dolor y el Gozo:</strong> La **tristeza** de los discípulos será como el **dolor de la mujer** que da a luz, pero será seguida de **gozo**.</li>
+    <li><strong>La Oración:</strong> El discípulo puede **pedir directamente al Padre en el nombre de Jesús** (la nueva forma de oración).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Parto</h5>
+<ul>
+    <li><strong>El Dolor:</strong> La imagen del **parto** es la máxima metáfora del dolor intenso seguido de una gran alegría.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paz:</strong> El discípulo tendrá **aflicción en el mundo**, pero **paz en Cristo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **intercesión** en el nombre de Jesús es la clave para el **acceso al Padre**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">tristeza de la cruz es temporal</span>. El Espíritu Santo es la guía y el testigo de la victoria de Cristo.</p>
                 
@@ -46750,7 +52530,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Unidad:</strong> La unidad de los creyentes como testimonio al mundo</li>
                     <li><strong>Santificación:</strong> Ser apartado del mundo por la verdad (la Palabra de Dios)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Oración Sumo Sacerdotal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Santificación y la Unidad</h5>
+<ul>
+    <li><strong>La Gloria:</strong> Jesús ora para ser **glorificado** antes de Su pasión.</li>
+    <li><strong>El Nombre:</strong> Jesús ha **manifestado el Nombre del Padre** a los hombres.</li>
+    <li><strong>La Santificación:</strong> Jesús ora para que los discípulos sean **santificados en la verdad** (la Palabra de Dios).</li>
+    <li><strong>La Unidad:</strong> La oración por la **unidad de los creyentes** (la unidad del Padre y el Hijo).</li>
+    <li><strong>La Misión:</strong> La unidad es la **prueba** para que el mundo **crea** que el Padre envió a Jesús.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Separación</h5>
+<ul>
+    <li><strong>El Mundo:</strong> Los discípulos son **enviados al mundo**, pero no son **del mundo**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Revelación:</strong> La **gloria de Cristo** es la prueba de Su divinidad y la base de la fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **oración de intercesión** de Jesús es el **acto final** de Su sacerdocio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">unidad de los creyentes es la prueba más poderosa</span> de la verdad del evangelio al mundo.</p>
                 
@@ -46776,7 +52579,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Reino Espiritual:</strong> El Reino de Cristo no es un poder terrenal</li>
                     <li><strong>Verdad:</strong> Jesús es la verdad y da testimonio de ella ante el poder romano</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Arresto y el Juicio Judío/Romano</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Cedrón, el Sumo Sacerdote y la Negación</h5>
+<ul>
+    <li><strong>El Cedrón:</strong> Jesús cruza el **torrente de Cedrón** (el valle donde se arrojaban los desechos del Templo).</li>
+    <li><strong>El Arresto:</strong> La multitud viene con **linternas, antorchas y armas** (la fuerza legal y militar).</li>
+    <li><strong>El Sanedrín:</strong> Jesús es llevado ante **Anás** (el antiguo Sumo Sacerdote, padre de Caifás) y **Caifás** (el Sumo Sacerdote actual).</li>
+    <li><strong>El Juicio Romano:</strong> Jesús es llevado ante **Pilato** (la autoridad romana).</li>
+    <li><strong>La Mofa:</strong> La burla de los judíos: **"Si este no fuera malhechor, no te lo habríamos entregado"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Pena de Muerte</h5>
+<ul>
+    <li><strong>La Muerte:</strong> Los judíos declaran que **"A nosotros no nos es lícito dar muerte a nadie"** (cediendo el poder de la pena capital a Roma).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Reino:</strong> Jesús declara: **"Mi reino no es de este mundo"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera realeza** de Jesús se afirma ante la autoridad terrenal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Jesús es el juicio del mundo</span>. El poder de Cristo se somete para cumplir Su misión.</p>
                 
@@ -46802,7 +52628,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Realeza:</strong> Jesús muere como Rey, según la inscripción de Pilato</li>
                     <li><strong>Testimonio de Juan:</strong> Se enfatiza la verdad histórica de la lanza y la sepultura</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Crucifixión y la Consumación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Exaltación y el Sábado</h5>
+<ul>
+    <li><strong>La Flagelación:</strong> Pilato entrega a Jesús para ser **flagelado** y **crucificado**.</li>
+    <li><strong>El Título:</strong> El título sobre la cruz está escrito en **hebreo, latín y griego** (la verdad universal de Su realeza).</li>
+    <li><strong>El Juicio:</strong> La multitud clama: **"No tenemos más rey que César"**.</li>
+    <li><strong>El Propósito:</strong> Las **Escrituras** deben ser cumplidas (el sorteo de la ropa, el vinagre).</li>
+    <li><strong>La Consumación:</strong> Jesús declara: **"Consumado es"** (la obra de redención está terminada).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Sábado Alto</h5>
+<ul>
+    <li><strong>El Entierro:</strong> Los cuerpos son bajados rápidamente porque era la **preparación para el Sábado** (la Pascua).</li>
+    <li><strong>Lanza:</strong> El soldado atraviesa a Jesús con una **lanza** (el cumplimiento de la profecía).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Sacrificio:</strong> El **sacrificio de Jesús** ocurre en el **mismo momento** en que se sacrificaban los corderos de la Pascua.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **muerte de Jesús** es el **acto soberano** de Su misión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obra de la salvación está terminada en la cruz</span>. Es el pago total por el pecado.</p>
                 
@@ -46828,7 +52678,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe sin Vista:</strong> La bienaventuranza de creer sin ver (la fe de la generación de Juan)</li>
                     <li><strong>Propósito del Evangelio:</strong> Conducir a la fe y la vida eterna</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Resurrección y la Fe</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Jardín y la Tumba Vacía</h5>
+<ul>
+    <li><strong>La Mañana:</strong> **María Magdalena** es la primera en llegar a la **tumba vacía**.</li>
+    <li><strong>El Reconocimiento:</strong> María reconoce a Jesús cuando Él la llama por su **nombre**.</li>
+    <li><strong>El Espíritu:</strong> Jesús **sopla** sobre Sus discípulos, dándoles el **Espíritu Santo**.</li>
+    <li><strong>El Perdón:</strong> Jesús confiere a los discípulos la **autoridad** para **perdonar y retener** pecados.</li>
+    <li><strong>Tomás:</strong> **Tomás** (el incrédulo) exige ver y tocar las **heridas** (la prueba física de la resurrección).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Huerto</h5>
+<ul>
+    <li><strong>El Jardín:</strong> El cuerpo de Jesús fue enterrado en un **huerto** cercano al Gólgota.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fe:</strong> Jesús bendice a los que **no vieron y creyeron** (la fe es superior a la prueba física).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **resurrección** es la base para la **nueva fe** y el ministerio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe en el Cristo resucitado es la clave de la vida eterna</span>. La resurrección es la prueba de Su deidad.</p>
                 
@@ -46854,7 +52727,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misión:</strong> El llamado de Pedro a alimentar al rebaño de Cristo</li>
                     <li><strong>Amor:</strong> El requisito para el servicio cristiano es el amor al Señor</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Epílogo, la Restauración de Pedro y el Siervo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Desayuno y el Rebaño</h5>
+<ul>
+    <li><strong>El Epílogo:</strong> El capítulo se considera un **epílogo**, volviendo a la vida normal después de la resurrección.</li>
+    <li><strong>La Pesca:</strong> El milagro de los **153 peces** (la plenitud de la cosecha evangelística).</li>
+    <li><strong>El Desayuno:</strong> Jesús prepara un **desayuno** (pan y pescado) para Sus discípulos en la playa (la comunión restaurada).</li>
+    <li><strong>La Restauración de Pedro:</strong> Jesús le pregunta **tres veces** a Pedro si lo ama (revirtiendo la triple negación).</li>
+    <li><strong>El Cuidado:</strong> El mandato de **"Apacienta Mis ovejas"** (la restauración del liderazgo).</li>
+    <li><strong>El Discípulo Amado:</strong> La mención final del **discípulo amado** (el testigo ocular).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Pescador</h5>
+<ul>
+    <li><strong>La Red:</strong> La red estaba llena y no se rompió.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Amor:</strong> El **servicio** es la prueba del **amor** a Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **misericordia de Cristo** restaura el liderazgo fallido.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor a Cristo es la motivación para el servicio</span>. El ministerio cristiano es pastorear a Su pueblo.</p>
                 
@@ -46882,7 +52779,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Promesa del Espíritu:</strong> La base del poder para el testimonio</li>
                     <li><strong>Testimonio Global:</strong> La misión de la Iglesia (Jerusalén, Judea, Samaria, confines)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Ascensión y la Autoridad Apostólica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Reino y el Sorteo</h5>
+<ul>
+    <li><strong>El Periodo:</strong> Jesús instruye a los discípulos durante **cuarenta días** después de la resurrección.</li>
+    <li><strong>El Reino:</strong> Los discípulos preguntan si Jesús restaurará el **reino a Israel** en ese momento (la expectativa de un reino político).</li>
+    <li><strong>El Mandato:</strong> La promesa del **Espíritu Santo** para que sean testigos **"en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra"**.</li>
+    <li><strong>Matías:</strong> Se elige a **Matías** para reemplazar a Judas Iscariote. La elección se realiza por **sorteo** (una práctica común para determinar la voluntad de Dios).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Sorteo</h5>
+<ul>
+    <li><strong>Sorteo:</strong> Echar suertes era un método aceptado en el judaísmo para **tomar decisiones** o elegir líderes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Espera:</strong> La **unidad** de los 120 discípulos en oración en el aposento alto es la base de la fundación de la Iglesia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad** del nuevo líder se basa en el **testimonio ocular** de la resurrección.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">discipulado exige la espera del poder del Espíritu Santo</span> antes de emprender la misión.</p>
                 
@@ -46908,7 +52827,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Kérygma:</strong> La predicación de Pedro sobre la resurrección de Cristo</li>
                     <li><strong>Comunión:</strong> El modelo de la Iglesia primitiva en unidad</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Pentecostés y el Nacimiento de la Iglesia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Fiesta, el Espíritu y la Diáspora</h5>
+<ul>
+    <li><strong>Pentecostés:</strong> La manifestación del Espíritu Santo ocurre en **Pentecostés** (Shavuot), 50 días después de la Pascua. Era una fiesta de **peregrinación** (la cosecha).</li>
+    <li><strong>Las Lenguas:</strong> El Espíritu capacita a los discípulos para hablar en las **lenguas de los peregrinos** presentes (la inversión de Babel).</li>
+    <li><strong>Pedro:</strong> Pedro predica el primer gran sermón, citando al profeta **Joel** (la profecía del Espíritu).</li>
+    <li><strong>La Conversión:</strong> **Tres mil personas** se unen a la Iglesia.</li>
+    <li><strong>La Economía:</strong> La Iglesia primitiva practica la **comunidad de bienes** y el **partimiento del pan** (la Santa Cena).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Peregrinación</h5>
+<ul>
+    <li><strong>Diáspora:</strong> Los presentes son judíos piadosos de **"toda nación bajo el cielo"** (el alcance mundial del milagro).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Profecía:</strong> El **derramamiento del Espíritu** es la señal de la nueva era mesiánica.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder de Dios** se manifiesta en la unidad y el **celo evangelístico**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Espíritu Santo es el poder de la Iglesia</span>. La predicación de la resurrección es el centro del mensaje.</p>
                 
@@ -46934,7 +52876,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrepentimiento:</strong> La condición para el refrigerio y el retorno de Cristo</li>
                     <li><strong>Jesús el Profeta:</strong> Jesús es el Profeta prometido por Moisés (Deut. 18:15)</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Sanidad del Cojo en la Puerta del Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Hora de la Oración y el Nombre de Jesús</h5>
+<ul>
+    <li><strong>El Templo:</strong> Pedro y Juan suben al Templo a la **hora novena** (3 p.m.), la **hora del sacrificio** y la oración.</li>
+    <li><strong>La Puerta:</strong> La sanidad ocurre en la **Puerta la Hermosa**, donde se sentaba un hombre cojo de nacimiento (el lugar de la caridad).</li>
+    <li><strong>El Nombre:</strong> Pedro sana al hombre **"en el nombre de Jesucristo de Nazaret"**.</li>
+    <li><strong>El Testimonio:</strong> El pueblo se reúne en el **Pórtico de Salomón** (lugar de enseñanza rabínica).</li>
+    <li><strong>El Profeta:</strong> Pedro cita a **Moisés** (Deuteronomio 18) para probar que Jesús es el **profeta** prometido.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Sanidad</h5>
+<ul>
+    <li><strong>El Clamor:</strong> La sanidad es una **prueba visible** de la autoridad de Jesús resucitado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Oro y la Plata:</strong> El evangelio ofrece una **sanidad** que es mejor que el dinero y la limosna.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder de la resurrección** continúa la obra de Jesús a través de Sus discípulos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Nombre de Jesús es el poder del Evangelio</span>. La sanidad es una señal de la resurrección.</p>
                 
@@ -46960,7 +52925,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Denuedo:</strong> La valentía para predicar a pesar de la amenaza</li>
                     <li><strong>Comunismo Primitivo:</strong> Compartir voluntariamente las posesiones</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Pedro y Juan ante el Sanedrín</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Autoridad y la Piedra Angular</h5>
+<ul>
+    <li><strong>El Arresto:</strong> Pedro y Juan son arrestados por los **sacerdotes saduceos** (quienes negaban la resurrección).</li>
+    <li><strong>El Sanedrín:</strong> Los apóstoles son juzgados ante el **Sanedrín** (el concilio supremo judío).</li>
+    <li><strong>La Predicación:</strong> Pedro declara que la sanidad fue por el **nombre de Jesús**.</li>
+    <li><strong>La Piedra Angular:</strong> Pedro aplica a Jesús el Salmo 118: **"La piedra que desechasteis vosotros, los edificadores, ha venido a ser cabeza del ángulo"**.</li>
+    <li><strong>La Unidad:</strong> La Iglesia ora y practica la **comunidad de bienes** bajo el liderazgo de **Bernabé**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Amenaza</h5>
+<ul>
+    <li><strong>Juicio:</strong> Los líderes les **amenazan** y les prohíben predicar en el nombre de Jesús.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Espíritu:</strong> La **fuerza para predicar** es el **Espíritu Santo**, que llena a los apóstoles.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **testimonio** se basa en la **resurrección**, la cual no podía ser refutada.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">unidad de la Iglesia es la prueba de Su poder</span>. La persecución produce mayor denuedo.</p>
                 
@@ -46986,7 +52974,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Milagros Apostólicos:</strong> El poder del Espíritu Santo en las calles</li>
                     <li><strong>Consejo de Gamaliel:</strong> La obra de Dios no puede ser detenida</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Integridad, la Prisión y la Sabiduría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Integridad Económica y la Desobediencia</h5>
+<ul>
+    <li><strong>Ananías y Safira:</strong> Son castigados con la muerte por **mentir al Espíritu Santo** sobre la venta de su propiedad (la integridad de la comunidad).</li>
+    <li><strong>La Desobediencia:</strong> Los apóstoles son encarcelados, pero un **ángel** los libera con la orden de **seguir predicando**.</li>
+    <li><strong>Gamaliel:</strong> El rabino **Gamaliel** (famoso fariseo) aconseja al Sanedrín dejar en paz a los apóstoles.</li>
+    <li><strong>El Precedente:</strong> Gamaliel usa el precedente de **Teudas** y **Judas el Galileo** (falsos líderes) para argumentar que si no es de Dios, se disolverá.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Consejo de Gamaliel</h5>
+<ul>
+    <li><strong>El Consejo:</strong> El consejo de Gamaliel (un hombre respetado) salvó a los apóstoles de la **ejecución**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Temor:</strong> El castigo de Ananías y Safira introduce un **temor santo** en la comunidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obediencia a Dios** es superior a la obediencia a los hombres.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">engaño al Espíritu Santo es condenado</span>. La Iglesia es purificada para que Su testimonio sea puro.</p>
                 
@@ -47012,7 +53022,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Diaconado:</strong> El establecimiento del servicio a las mesas</li>
                     <li><strong>Persecución:</strong> Esteban es el primer mártir de la Iglesia</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Conflicto Cultural y los Siete Diáconos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Unidad y la Distribución de la Caridad</h5>
+<ul>
+    <li><strong>El Conflicto:</strong> Surge una disputa entre los **judíos helenistas** (que hablaban griego) y los **hebreos** (que hablaban arameo) por la distribución de la caridad a las **viudas**.</li>
+    <li><strong>Los Siete:</strong> Se eligen a **siete varones** (todos con nombres griegos, para servir a los helenistas) para la distribución.</li>
+    <li><strong>Prioridad Apostólica:</strong> Los apóstoles se reservan la **oración y la ministración de la palabra** (separación de funciones).</li>
+    <li><strong>Esteban:</strong> **Esteban** (uno de los siete) predica con gran **sabiduría** y es falsamente acusado de **blasfemia contra Moisés y el Templo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Las Viudas</h5>
+<ul>
+    <li><strong>Viudas:</strong> Las viudas eran la **clase más vulnerable** y dependían de la caridad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Diversidad:</strong> La iglesia primitiva maneja la **diversidad cultural** con una solución administrativa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **servicio** a la comunidad es tan vital como la predicación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">expansión de la Iglesia requiere organización</span> y liderazgo dedicado al servicio. La Palabra no debe ser descuidada.</p>
                 
@@ -47038,7 +53070,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Jesús a la Diestra:</strong> El testimonio de la soberanía de Cristo</li>
                     <li><strong>Martirio:</strong> El primer mártir que perdona a sus enemigos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Discurso de Esteban y el Martirio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Historia de la Rebelión y el Templo</h5>
+<ul>
+    <li><strong>El Sermón:</strong> Esteban da un **largo recuento de la historia de Israel** (desde Abraham hasta Salomón).</li>
+    <li><strong>El Énfasis:</strong> Esteban enfatiza que Dios ha estado con Israel **fuera de la Tierra Santa** (con Abraham en Mesopotamia, con Moisés en el desierto).</li>
+    <li><strong>La Crítica:</strong> Esteban condena al Sanedrín por **resistir al Espíritu Santo** y **perseguir a los profetas**.</li>
+    <li><strong>El Templo:</strong> Esteban declara que el **"Altísimo no habita en templos hechos de mano"**.</li>
+    <li><strong>El Martirio:</strong> Esteban es **apedreado** (la pena legal por blasfemia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Lapidación</h5>
+<ul>
+    <li><strong>Lapidación:</strong> El castigo se realiza **fuera de la ciudad**. **Saulo** (futuro Pablo) aprueba su muerte.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Visión:</strong> Esteban ve a **Jesús a la diestra de Dios** (el último testimonio de la autoridad de Cristo).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **testimonio de Esteban** desata la **persecución** que dispersa el evangelio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">persecución de la Iglesia es la continuación del rechazo de Israel a Dios</span>. El martirio es un testimonio final de la fe.</p>
                 
@@ -47064,7 +53119,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Simonía:</strong> El intento de comprar los dones espirituales</li>
                     <li><strong>Misión Universal:</strong> El bautismo del gentil africano</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Samaria, el Eunuco y el Fin de las Fronteras</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Evangelio a los Samaritanos y los Gentiles</h5>
+<ul>
+    <li><strong>La Dispersión:</strong> La persecución lleva a los creyentes a **dispersarse** a Judea y Samaria.</li>
+    <li><strong>Felipe:</strong> **Felipe** (uno de los siete diáconos) predica en **Samaria**, un acto que rompe la **enemistad racial** (judíos/samaritanos).</li>
+    <li><strong>Simón el Mago:</strong> **Simón** (un hechicero local) intenta **comprar el poder del Espíritu Santo** (el origen de la "simonía").</li>
+    <li><strong>El Eunuco:</strong> Felipe predica a un **eunuco etíope** (un alto funcionario de Candace, reina de Etiopía), un gentil que es el **primer converso no judío** importante.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Eunuco</h5>
+<ul>
+    <li><strong>Eunuco:</strong> Eran **excluidos** del Templo (Deut. 23:1), pero la fe de Jesús los incluye.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gracia:</strong> El evangelio se extiende a los **marginados** y a los **extranjeros** (Samaria, Etiopía).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **predicación** llega a los **confines de la Tierra** (Etiopía) y a los excluidos.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Espíritu Santo dirige la misión a los gentiles</span> y los marginados. La persecución no detiene la Palabra.</p>
                 
@@ -47090,7 +53167,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder de la Resurrección:</strong> La obra de Pedro continúa la autoridad de Jesús</li>
                     <li><strong>Gracia:</strong> La vida de Pablo se transforma totalmente por la gracia de Cristo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Conversión de Saulo y la Paz</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Perseguidor y el Apóstol</h5>
+<ul>
+    <li><strong>Saulo (Pablo):</strong> El principal **perseguidor** de la Iglesia tiene un encuentro dramático con Jesús en el camino a **Damasco**.</li>
+    <li><strong>La Voz:</strong> Saulo es cegado por una **luz** y escucha la **voz de Jesús**.</li>
+    <li><strong>Ananías:</strong> El discípulo **Ananías** de Damasco es instruido por Dios para orar por Saulo.</li>
+    <li><strong>La Prueba:</strong> Pedro sana a **Eneas** (paralítico) en Lida y resucita a **Tabita/Dorcas** en Jope (milagros de restauración).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Damasco</h5>
+<ul>
+    <li><strong>Damasco:</strong> Una ciudad importante, donde Saulo fue a buscar **autorización** para arrestar a los creyentes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Instrumento:</strong> Dios eligió al **peor perseguidor** para ser Su **instrumento** a los gentiles.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **conversión de Pablo** es la prueba definitiva del poder del Evangelio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gracia de Cristo es suficiente para transformar al peor enemigo</span>. La conversión de Pablo es la base de la misión gentil.</p>
                 
@@ -47116,7 +53215,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Visión de Pedro:</strong> La abolición de las leyes dietéticas para la misión</li>
                     <li><strong>Bautismo del Espíritu:</strong> La prueba de que Dios ha aceptado a los gentiles</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Evangelio a los Gentiles (Cornelio)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Visión, el Kashrut y la Inclusión</h5>
+<ul>
+    <li><strong>Cornelio:</strong> Un **centurión romano** (oficial militar) en Cesarea, **piadoso y temeroso de Dios**, que recibe una visión.</li>
+    <li><strong>La Visión de Pedro:</strong> Pedro tiene una visión de un **gran lienzo** con **animales inmundos** (kosher) y la orden de **comer**.</li>
+    <li><strong>El Significado:</strong> Dios le enseña a Pedro que **"no llames tú común o inmundo a lo que Dios limpió"** (la abolición de las barreras dietéticas y étnicas).</li>
+    <li><strong>El Espíritu:</strong> Mientras Pedro predica, el **Espíritu Santo cae** sobre Cornelio y su casa (la prueba divina de la inclusión gentil).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Centurión</h5>
+<ul>
+    <li><strong>Centurión:</strong> Cornelio era la **punta de lanza** del poder romano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Acceso:</strong> La **inclusión gentil** es un acto directo de Dios, no una decisión humana.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **conversión de Cornelio** es el inicio de la misión universal.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Espíritu Santo anula las barreras raciales</span> y religiosas. La salvación es universal.</p>
                 
@@ -47142,7 +53263,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cristiano:</strong> El nuevo nombre del discípulo de Cristo</li>
                     <li><strong>Antioquía:</strong> El nuevo centro de la misión gentil</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Defensa de la Misión Gentil y el Nombre</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Visión y la Aceptación</h5>
+<ul>
+    <li><strong>La Disputa:</strong> Pedro regresa a Jerusalén y es **criticado** por los apóstoles por haber **comido** con gentiles.</li>
+    <li><strong>La Defensa:</strong> Pedro relata la **visión** y la **caída del Espíritu** sobre Cornelio como su defensa.</li>
+    <li><strong>Antioquía:</strong> El evangelio llega a **Antioquía de Siria**, la **tercera ciudad más grande** del imperio.</li>
+    <li><strong>El Nombre:</strong> Los discípulos fueron llamados **"cristianos"** por primera vez en Antioquía (un apodo romano/griego).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El "Cristiano"</h5>
+<ul>
+    <li><strong>Cristiano:</strong> El término significa **"perteneciente a Cristo"** (un nombre de facción).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Visión:</strong> La **autoridad apostólica** se somete a la **evidencia del Espíritu Santo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Iglesia de Antioquía** se convierte en el **centro de la misión gentil**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">nombre "cristiano" es la nueva identidad</span>. La fe se convierte en un movimiento internacional.</p>
                 
@@ -47168,7 +53311,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oración:</strong> La oración ferviente libera a Pedro</li>
                     <li><strong>Juicio Divino:</strong> Dios castiga la soberbia de Herodes</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Persecución de Herodes y la Intervención Angélica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Martirio y el Escape</h5>
+<ul>
+    <li><strong>Herodes:</strong> **Herodes Agripa I** (nieto de Herodes el Grande) persigue a la Iglesia para **agradar a los judíos**.</li>
+    <li><strong>Martirio:</strong> Ordena la **muerte de Jacobo** (el primer apóstol mártir).</li>
+    <li><strong>El Escape:</strong> Pedro es encadenado en la cárcel, pero un **ángel** lo libera milagrosamente.</li>
+    <li><strong>La Muerte:</strong> Herodes es alabado por la multitud como **"la voz de un dios, y no de un hombre"**. Es golpeado por un ángel y **muere comido por gusanos** (un juicio por su soberbia).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Carcelero</h5>
+<ul>
+    <li><strong>Cadenas:</strong> Pedro estaba encadenado con **dos cadenas** y custodiado por **cuatro grupos de soldados**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Soberbia:</strong> El juicio de Herodes demuestra que **Dios no comparte Su gloria** con nadie.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **oración ferviente** es la fuente de la liberación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberbia humana es castigada</span>. La oración de la Iglesia es poderosa para la liberación.</p>
                 
@@ -47194,7 +53359,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pablo:</strong> Asume el liderazgo de la misión</li>
                     <li><strong>Sanidad y Juicio:</strong> El ciego Elimas y la conversión de Sergio Paulo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Primer Viaje Misionero (Chipre y Asia Menor)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Bendición y el Quiebre con el Judaísmo</h5>
+<ul>
+    <li><strong>El Envío:</strong> **Bernabé y Saulo** (Pablo) son apartados por el Espíritu Santo en **Antioquía** (el primer envío misionero formal).</li>
+    <li><strong>Chipre:</strong> Predicación en **Chipre** a **Sergio Paulo** (el procónsul romano).</li>
+    <li><strong>El Hechicero:</strong> **Elimas el mago** intenta detener la fe, y Pablo lo ciega temporalmente.</li>
+    <li><strong>El Quiebre:</strong> Pablo anuncia en la sinagoga de **Antioquía de Pisidia** que la **Palabra de Dios** se predicará a los **gentiles**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Cambio de Nombre</h5>
+<ul>
+    <li><strong>Saulo/Pablo:</strong> El uso consistente del nombre **Pablo** (Paulus, un nombre romano) a partir de este capítulo, señalando su enfoque gentil.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Predicación:</strong> El **evangelio** se extiende de la sinagoga (judíos) a los gentiles.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **bendición de Dios** es la fuente de la misión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">rechazo de la Palabra por parte de los judíos</span> lleva a la Iglesia a enfocarse plenamente en los gentiles.</p>
                 
@@ -47220,7 +53407,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sufrimiento:</strong> El apóstol debe perseverar en la persecución y el apedreamiento</li>
                     <li><strong>Organización:</strong> El nombramiento de ancianos para la dirección de las Iglesias</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Idolatría y la Persecución</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Testimonio y la Sanidad</h5>
+<ul>
+    <li><strong>Sanidad:</strong> Pablo sana a un hombre **cojo de nacimiento** en Listra.</li>
+    <li><strong>La Deificación:</strong> La multitud pagana intenta **sacrificarles** (a Bernabé y Pablo), llamando a Bernabé **Júpiter** y a Pablo **Mercurio** (los dioses griegos).</li>
+    <li><strong>La Reprensión:</strong> Pablo y Bernabé **rasgan sus vestidos** (el rito de luto y desaprobación) para detener la adoración.</li>
+    <li><strong>El Apedreamiento:</strong> Pablo es **apedreado** en Listra, arrastrado fuera de la ciudad y dado por muerto (la violencia pagana y judía).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Deificación</h5>
+<ul>
+    <li><strong>Dioses:</strong> Júpiter (Zeus) era el dios principal, y Mercurio (Hermes) el mensajero (Pablo era el que hablaba).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Sacrificio:</strong> Los apóstoles redirigen la adoración al **Dios Vivo** (el Creador).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad** se prueba con la persecución.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento es necesario para entrar en el Reino de Dios</span>. La adoración pertenece solo al Creador.</p>
                 
@@ -47246,7 +53455,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ley Mosaica:</strong> No es necesaria para la salvación gentil</li>
                     <li><strong>Unidad:</strong> La decisión se toma por el Espíritu Santo y los apóstoles</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Concilio de Jerusalén (La Ley y los Gentiles)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Circuncisión y el Decreto Apostólico</h5>
+<ul>
+    <li><strong>La Disputa:</strong> Surge una disputa en Antioquía sobre si los gentiles deben **circuncidarse** para ser salvos (la ley ceremonial).</li>
+    <li><strong>El Concilio:</strong> Los apóstoles y ancianos se reúnen en **Jerusalén**.</li>
+    <li><strong>Pedro:</strong> Pedro defiende la **salvación por gracia** (el precedente de Cornelio).</li>
+    <li><strong>Jacobo:</strong> Jacobo (líder de la Iglesia de Jerusalén) da la **decisión final** citando a **Amós** (la restauración del tabernáculo de David).</li>
+    <li><strong>El Decreto:</strong> Los gentiles solo deben abstenerse de **sacrificado a ídolos, sangre, ahogado y fornicación**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Ley Ceremonial</h5>
+<ul>
+    <li><strong>Circuncisión:</strong> La circuncisión era el **sello del pacto** para los judíos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gracia:</strong> La **salvación** es por la **gracia** a través de la fe, no por la Ley.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **unidad de la Iglesia** es más importante que las diferencias ceremoniales.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación es exclusivamente por la fe en Jesucristo</span>. La Ley es cumplida por Cristo.</p>
                 
@@ -47272,7 +53504,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Poder del Evangelio:</strong> La conversión de Lidia y el carcelero</li>
                     <li><strong>Ciudadanía:</strong> Pablo usa su ciudadanía romana para proteger el Evangelio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Llamado Macedonio y la Cárcel de Filipos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Purificación y la Guía</h5>
+<ul>
+    <li><strong>Timoteo:</strong> **Timoteo** se une al equipo de Pablo. Pablo lo **circuncida** (por prudencia) ya que su madre era judía.</li>
+    <li><strong>El Espíritu Prohíbe:</strong> El **Espíritu Santo** prohíbe predicar en Asia.</li>
+    <li><strong>La Visión:</strong> Pablo recibe la **visión del varón macedonio** (el llamado a Europa).</li>
+    <li><strong>Filipos:</strong> Pablo convierte a **Lidia** (una mujer de negocios) y echa fuera el espíritu de adivinación de una sierva.</li>
+    <li><strong>La Cárcel:</strong> Pablo y Silas son **golpeados** y encarcelados. Un terremoto los libera.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Ciudadanía Romana</h5>
+<ul>
+    <li><strong>El Castigo:</strong> Pablo exige que los magistrados los **liberen públicamente**, ya que fueron **golpeados sin juicio** siendo **ciudadanos romanos**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Oración:</strong> El **canto de alabanza** en la prisión trae la liberación milagrosa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad romana** es doblegada por la **ciudadanía celestial** de Pablo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Espíritu Santo dirige la misión geográficamente</span>. La fe rompe las barreras sociales y el poder terrenal.</p>
                 
@@ -47298,7 +53553,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Idolatría:</strong> La confrontación de Pablo con la filosofía griega</li>
                     <li><strong>Resurrección:</strong> El centro del mensaje de Pablo a los filósofos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Tesalónica, Berea y Atenas (Filosofía Griega)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sinagoga y la Persuasión</h5>
+<ul>
+    <li><strong>La Sinagoga:</strong> Pablo predica en la sinagoga de **Tesalónica** y **Berea** por **tres sábados** (el método estándar).</li>
+    <li><strong>Berea:</strong> Los bereanos son alabados por su **nobleza** al **examinar las Escrituras** diariamente.</li>
+    <li><strong>Atenas:</strong> Pablo confronta la **idolatría** y la **filosofía** en el Areópago (centro legal y filosófico).</li>
+    <li><strong>La Ignorancia:</strong> Pablo usa el altar al **"Dios no conocido"** (Agnostos Theos) como punto de partida para predicar al Dios Creador.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: El Areópago</h5>
+<ul>
+    <li><strong>Areópago:</strong> El **centro de la filosofía** (Estoicos y Epicúreos) en Atenas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Resurrección:</strong> La **creación** es un terreno común, pero la **resurrección** es el punto de división con los filósofos griegos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es la única que tiene autoridad sobre la filosofía humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Evangelio es la respuesta a la búsqueda filosófica</span>. La resurrección es el fundamento de la fe.</p>
                 
@@ -47324,7 +53601,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Colaboración:</strong> El apoyo de Aquila y Priscila</li>
                     <li><strong>Ánimo:</strong> El Señor asegura a Pablo de la cosecha futura</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Corinto, Éfeso y el Tribunal de Galión</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Gremio y la Ley</h5>
+<ul>
+    <li><strong>Corinto:</strong> Pablo se une a **Aquila y Priscila** (fabricantes de tiendas, su oficio).</li>
+    <li><strong>El Sábado:</strong> Pablo predica en la sinagoga cada **sábado**.</li>
+    <li><strong>El Tribunal:</strong> Los judíos acusan a Pablo ante el procónsul romano **Galión**.</li>
+    <li><strong>La Ley Romana:</strong> Galión se niega a juzgar el caso, declarando que son **"cuestiones de palabras y de nombres, y de vuestra ley"**.</li>
+    <li><strong>Apolo:</strong> **Apolo** (un judío elocuente) es instruido en el evangelio por Priscila y Aquila.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Procónsul</h5>
+<ul>
+    <li><strong>Galión:</strong> La decisión de Galión establece un **precedente legal** que protegió a la Iglesia de la persecución romana temprana.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Silencio:</strong> El rechazo a juzgar las disputas judías es la **protección** de la Iglesia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **oficio secular** (fabricar tiendas) es el medio para la misión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obra de Dios en las ciudades es segura</span>. El Señor tiene un pueblo escondido incluso en el lugar más inmoral.</p>
                 
@@ -47350,7 +53650,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Conflicto Cultural:</strong> El evangelio amenaza el negocio de la idolatría</li>
                     <li><strong>Motín:</strong> La respuesta violenta del paganismo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Éfeso, la Magia y el Culto a Artemisa</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Bautismo y la Palabra</h5>
+<ul>
+    <li><strong>Éfeso:</strong> Pablo encuentra a discípulos bautizados solo con el **bautismo de Juan** y los rebautiza en el nombre de Jesús.</li>
+    <li><strong>La Escuela de Tiranno:</strong> Pablo predica en la **escuela de Tiranno** (un salón de conferencias) durante **dos años**.</li>
+    <li><strong>La Magia:</strong> Los que practicaban la magia **queman sus libros** públicamente (un acto de arrepentimiento radical).</li>
+    <li><strong>El Templo de Artemisa:</strong> La predicación de Pablo amenaza el comercio de **Demetrio** (platero) que hacía **estatuas de la diosa Artemisa** (Diana).</li>
+    <li><strong>El Disturbio:</strong> El disturbio se calma por el **escribano** de la ciudad, apelando a la ley romana.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Gremio</h5>
+<ul>
+    <li><strong>Artemisa:</strong> El **Templo de Artemisa** (una de las siete maravillas) era el centro de la economía de Éfeso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Quema:</strong> El valor de los libros de magia quemados demuestra el **poder de la conversión** sobre la superstición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **predicación de Pablo** desafía las bases económicas de la idolatría.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Evangelio confronta el poder económico y religioso de la idolatría</span>. La fe se basa en el poder del Espíritu Santo.</p>
                 
@@ -47376,7 +53699,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falsos Maestros:</strong> La advertencia sobre la herejía interna</li>
                     <li><strong>Mayordomía:</strong> La encomienda de la Iglesia a los ancianos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Despedidas, Eutico y el Liderazgo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Partimiento del Pan y el Discurso de Miletos</h5>
+<ul>
+    <li><strong>Eutico:</strong> Un joven llamado **Eutico** se **duerme** mientras Pablo predica y **cae** de una ventana. Pablo lo **resucita**.</li>
+    <li><strong>El Discurso de Miletos:</strong> Pablo se despide de los **ancianos de Éfeso** (líderes de la iglesia).</li>
+    <li><strong>La Advertencia:</strong> Pablo advierte de los **lobos rapaces** (falsos maestros) que se levantarán de la propia congregación.</li>
+    <li><strong>El Recuerdo:</strong> Pablo apela a su propio ejemplo: **"Más bienaventurado es dar que recibir"** (una cita de Jesús no registrada en los Evangelios).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Ancianos</h5>
+<ul>
+    <li><strong>Ancianos:</strong> Los líderes de la iglesia (obispos o presbíteros) eran los **guardianes** de la doctrina y la comunidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Ejemplo:</strong> El **liderazgo** debe ser ejemplar y sacrificial.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **cuidado de la Palabra** es la única defensa contra el error.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">verdadero liderazgo es un servicio sacrificial</span>. La protección contra la herejía es la Palabra de Dios.</p>
                 
@@ -47402,7 +53747,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Persecución:</strong> El rechazo judío a la misión gentil</li>
                     <li><strong>Defensa:</strong> Pablo relata su testimonio para defenderse</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Pablo en Jerusalén y el Voto Nazareo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Compromiso Legal y el Motín</h5>
+<ul>
+    <li><strong>Profecía:</strong> El profeta **Agabo** predice el arresto de Pablo, atando sus propias manos y pies con el **cinto de Pablo** (acto simbólico).</li>
+    <li><strong>El Voto Nazareo:</strong> Pablo, para mostrar que **respeta la Ley**, participa en la **purificación de cuatro hombres** que tenían voto nazareo (rasurarse la cabeza y pagar los sacrificios).</li>
+    <li><strong>El Motín:</strong> Pablo es acusado falsamente de **profanar el Templo** al introducir gentiles.</li>
+    <li><strong>El Griego:</strong> La multitud intenta matarlo, creyendo que era un **agitador egipcio**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Fortaleza Antonia</h5>
+<ul>
+    <li><strong>La Fortaleza:</strong> Pablo es rescatado por el **tribuno romano** y llevado a la **Fortaleza Antonia** (el cuartel romano) para evitar ser linchado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ley y la Gracia:</strong> Pablo demuestra que **respeta la Ley** judía para facilitar el evangelio.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **falsa acusación** es el medio por el cual Pablo testificará en Roma.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento de Pablo en Jerusalén es el precio de la misión gentil</span>. La fe acepta el sufrimiento por la Palabra.</p>
                 
@@ -47428,7 +53795,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misión Gentil:</strong> El punto de conflicto con los judíos</li>
                     <li><strong>Ciudadanía Romana:</strong> Pablo usa su estatus para proteger su vida</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Defensa de Pablo ante la Multitud</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Lengua Hebrea y la Conversión</h5>
+<ul>
+    <li><strong>El Hebreo:</strong> Pablo se dirige a la multitud **en hebreo** (el arameo del día), lo que les da silencio.</li>
+    <li><strong>La Educación:</strong> Pablo se identifica como **judío, nacido en Tarso, educado a los pies de Gamaliel** (su legitimidad como fariseo).</li>
+    <li><strong>El Testimonio:</strong> Pablo relata su **conversión** en el camino a Damasco y su **visión en el Templo** (su llamado a los gentiles).</li>
+    <li><strong>La Ciudadanía:</strong> Pablo usa su **ciudadanía romana** para evitar ser **flagelado** (un derecho legal).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Azote</h5>
+<ul>
+    <li><strong>El Azote:</strong> Los **ciudadanos romanos** estaban exentos de ser atados o azotados sin juicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Propósito:</strong> La **educación de Pablo** (Gamaliel) fue el **preludio** a su **misión gentil**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad humana** y la **autoridad divina** se encuentran en la persona de Pablo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">testimonio personal de la gracia de Cristo</span> es la defensa más poderosa del Evangelio.</p>
                 
@@ -47454,7 +53843,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esperanza:</strong> La resurrección es la doctrina central del cristianismo</li>
                     <li><strong>Promesa:</strong> Pablo testificará en Roma</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sanedrín y la Disputa Partidista</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Fariseos, Saduceos y el Complot</h5>
+<ul>
+    <li><strong>El Celo:</strong> Pablo es **golpeado en la boca** por orden del sumo sacerdote Ananías (por su celo).</li>
+    <li><strong>La División:</strong> Pablo usa la división entre el Sanedrín: él es juzgado por la **"esperanza y la resurrección de los muertos"** (la creencia farisaica).</li>
+    <li><strong>La Conspiración:</strong> Más de **cuarenta judíos** hacen un **juramento** de no comer ni beber hasta matar a Pablo.</li>
+    <li><strong>El Rescate:</strong> El **sobrino de Pablo** oye el complot y lo revela.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Escolta</h5>
+<ul>
+    <li><strong>La Escolta:</strong> El tribuno romano envía a Pablo a Cesarea con una **gran escolta** (200 soldados, 70 jinetes, 200 lanceros).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Resurrección:</strong> La **doctrina de la resurrección** es la base de la persecución y de la defensa.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **juramento** de los judíos es contrarrestado por el **plan de Dios**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">resurrección es el fundamento de la fe</span>. El Señor es fiel a Su plan de llevar el Evangelio a Roma.</p>
                 
@@ -47480,7 +53891,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Codicia:</strong> La avaricia de Félix (esperando soborno)</li>
                     <li><strong>Integridad:</strong> Pablo se defiende de las falsas acusaciones</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio ante Félix y el Cohecho</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Acusación y el Abogado</h5>
+<ul>
+    <li><strong>El Abogado:</strong> Los judíos contratan al abogado **Tértulo** para acusar a Pablo ante el gobernador **Félix**.</li>
+    <li><strong>La Acusación:</strong> Pablo es acusado de ser **agitador**, **líder de la secta de los nazarenos** y **profanador del Templo**.</li>
+    <li><strong>La Defensa:</strong> Pablo defiende su fe en la **resurrección** y su **adoración al Dios de sus padres**.</li>
+    <li><strong>El Cohecho:</strong> Félix mantiene a Pablo **preso por dos años**, esperando que Pablo le **ofrezca dinero** (cohecho).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Soborno</h5>
+<ul>
+    <li><strong>Soborno:</strong> El cohecho y el soborno eran **comunes** en el sistema legal romano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Retraso:</strong> El **retraso del juicio** se debe a la avaricia del gobernador, no a la ley.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera justicia** es pervertida por la ambición.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe y la esperanza en la resurrección</span> son la base de la defensa de Pablo. La injusticia es movida por la codicia.</p>
                 
@@ -47506,7 +53939,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Apelación:</strong> La garantía del viaje a Roma</li>
                     <li><strong>Inocencia:</strong> Festo declara que Pablo no ha cometido un crimen capital</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio ante Festo y la Apelación al César</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Apelación y la Ley Romana</h5>
+<ul>
+    <li><strong>Festo:</strong> **Festo** (el nuevo gobernador) hereda el caso de Pablo.</li>
+    <li><strong>La Conspiración:</strong> Los judíos piden que Pablo sea juzgado en **Jerusalén** (un complot para matarlo).</li>
+    <li><strong>La Pregunta:</strong> Festo pregunta a Pablo si quiere ser juzgado en Jerusalén.</li>
+    <li><strong>La Apelación:</strong> Pablo, como ciudadano romano, ejerce su derecho legal de **"Apelo a César"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El "Appello Caesarem"</h5>
+<ul>
+    <li><strong>Apelación:</strong> La **apelación al César** (la máxima autoridad) era un derecho innegable de los ciudadanos romanos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Voluntad:</strong> La apelación es el medio por el cual el plan de Dios de que Pablo vaya a **Roma** se cumple.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ley romana** es el vehículo de la **misión divina**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios usa la ley romana</span> para llevar el Evangelio a Roma, cumpliendo la promesa.</p>
                 
@@ -47532,7 +53987,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resurrección:</strong> El centro de la disputa y la fe</li>
                     <li><strong>Perdón:</strong> Pablo es testigo de la luz de Cristo</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio ante Festo y la Apelación al César</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Apelación y la Ley Romana</h5>
+<ul>
+    <li><strong>Festo:</strong> **Festo** (el nuevo gobernador) hereda el caso de Pablo.</li>
+    <li><strong>La Conspiración:</strong> Los judíos piden que Pablo sea juzgado en **Jerusalén** (un complot para matarlo).</li>
+    <li><strong>La Pregunta:</strong> Festo pregunta a Pablo si quiere ser juzgado en Jerusalén.</li>
+    <li><strong>La Apelación:</strong> Pablo, como ciudadano romano, ejerce su derecho legal de **"Apelo a César"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El "Appello Caesarem"</h5>
+<ul>
+    <li><strong>Apelación:</strong> La **apelación al César** (la máxima autoridad) era un derecho innegable de los ciudadanos romanos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Voluntad:</strong> La apelación es el medio por el cual el plan de Dios de que Pablo vaya a **Roma** se cumple.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **ley romana** es el vehículo de la **misión divina**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Evangelio es la luz que abre los ojos de los ciegos</span>. La fe es la única respuesta a la verdad de la resurrección.</p>
                 
@@ -47558,7 +54035,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Advertencia:</strong> Pablo advierte de la tormenta</li>
                     <li><strong>Fe:</strong> La confianza de Pablo en medio del peligro</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Viaje a Roma y el Naufragio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Advertencia y la Provisión</h5>
+<ul>
+    <li><strong>El Viaje:</strong> Pablo es enviado a Roma bajo la custodia de un **centurión llamado Julio**.</li>
+    <li><strong>La Advertencia:</strong> Pablo advierte de la **tormenta** (la falta de seguridad en el mar).</li>
+    <li><strong>El Ayuno:</strong> El barco navega después del **Ayuno del Día de la Expiación** (finales de septiembre, época peligrosa para navegar).</li>
+    <li><strong>El Naufragio:</strong> La **tormenta Euraquilón** (un violento viento del noreste) destruye el barco.</li>
+    <li><strong>El Milagro:</strong> Un ángel le asegura a Pablo que todos **sobrevivirán** por causa de él.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Marítimo: El Naufragio</h5>
+<ul>
+    <li><strong>Naufragio:</strong> El naufragio en el **Mar Mediterráneo** era un peligro común.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fe:</strong> La **fe de Pablo** es la única fuente de esperanza para los 276 hombres a bordo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad espiritual** de Pablo supera la autoridad militar del centurión.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio y la liberación están bajo el control de Dios</span>. El creyente es un ancla de esperanza para otros.</p>
                 
@@ -47584,7 +54084,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arresto Domiciliario:</strong> La libertad para predicar en Roma</li>
                     <li><strong>Misión Cumplida:</strong> El Evangelio llega a Roma, el "confín de la Tierra"</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Llegada a Roma y la Predicación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Serpiente y el Testimonio Final</h5>
+<ul>
+    <li><strong>Malta:</strong> El barco llega a la isla de **Malta**. Pablo es mordido por una **serpiente venenosa** y no muere (los nativos lo ven como un dios).</li>
+    <li><strong>La Sanidad:</strong> Pablo **sana al padre de Publio** (el principal de la isla).</li>
+    <li><strong>Roma:</strong> Pablo llega a **Roma** y vive **dos años en su propia casa alquilada** (bajo custodia militar).</li>
+    <li><strong>La Predicación:</strong> Pablo predica el **Evangelio** a los líderes judíos de Roma y a todos los que vienen a él.</li>
+    <li><strong>El Cierre:</strong> El libro cierra abruptamente con Pablo predicando **"sin impedimento"** (la victoria final del Evangelio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Casa Alquilada</h5>
+<ul>
+    <li><strong>Prisión Domiciliaria:</strong> Pablo estaba bajo **arresto domiciliario**, lo que le permitía recibir visitas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Final:</strong> El Evangelio llega a **Roma** (el corazón del Imperio), cumpliendo el mandato de Jesús.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** no puede ser encadenada.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Palabra de Dios no está encadenada</span>. El Evangelio avanza por la gracia de Dios.</p>
                 
@@ -47612,7 +54135,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Revelación General:</strong> Dios se revela en la Creación (sin excusa)</li>
                     <li><strong>Juicio de la Inmoralidad:</strong> El castigo de Dios sobre la humanidad impía</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Evangelio y la Corrupción Gentil</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Poder de Dios y la Ira Divina</h5>
+<ul>
+    <li><strong>El Saludo:</strong> Pablo se identifica como **siervo** y **apartado** para el evangelio.</li>
+    <li><strong>El Evangelio:</strong> La tesis central: el evangelio es **"poder de Dios para salvación"** a todo el que cree (primero al judío, y también al griego).</li>
+    <li><strong>La Ira Revelada:</strong> La ira de Dios se revela contra la impiedad de los hombres.</li>
+    <li><strong>La Degradación:</strong> Los gentiles son condenados por **cambiar la gloria de Dios** por la idolatría y por caer en **prácticas inmorales** y antinaturales.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El "Bárbaro"</h5>
+<ul>
+    <li><strong>Griego y Bárbaro:</strong> En la mentalidad helenista, "griego" era el educado, y "bárbaro" el incivilizado. Pablo se declara **deudor** de ambos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Justicia de Dios:</strong> La justicia de Dios se revela **"por fe y para fe"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **revelación natural** (la creación) es suficiente para condenar a los hombres.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es la única condición para la salvación</span>. La humanidad es culpable por rechazar el conocimiento de Dios revelado en la naturaleza.</p>
                 
@@ -47638,7 +54183,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Conciencia:</strong> La ley moral es universal</li>
                     <li><strong>Circuncisión del Corazón:</strong> La piedad es interna, no externa</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio al Moralista (El Judío)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley Escrita y la Circuncisión del Corazón</h5>
+<ul>
+    <li><strong>El Juicio Imparcial:</strong> Los que juzgan a los gentiles (principalmente los judíos) son condenados, pues **"en lo que juzgas a otro, te condenas a ti mismo"**.</li>
+    <li><strong>La Ley Interna:</strong> El juicio de Dios se basa en la **obra de la Ley** escrita en el corazón de los gentiles (la conciencia).</li>
+    <li><strong>El Judío y la Ley:</strong> La **circuncisión** es inútil si se quebranta la Ley.</li>
+    <li><strong>La Verdad:</strong> El verdadero judío no es el que lo es **externamente**, sino el que tiene la **circuncisión del corazón**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Conciencia</h5>
+<ul>
+    <li><strong>Moralidad:</strong> Pablo establece que la moralidad universal es la base del juicio, no el conocimiento exclusivo de la Ley.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Apariencia y Realidad:</strong> Dios no mira la **apariencia externa** (circuncisión), sino el **estado interno** (el corazón).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obediencia del corazón** es lo que Dios valora.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera justicia es interna</span>. La fe debe buscar la transformación del corazón, no solo la observancia ritual.</p>
                 
@@ -47664,7 +54231,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justificación Gratuita:</strong> Recibir la justicia de Cristo por la fe</li>
                     <li><strong>Propiciación:</strong> Cristo es el sacrificio que satisface la ira de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Veredicto Final (Universalidad del Pecado)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley como Testigo y el Propiciatorio</h5>
+<ul>
+    <li><strong>La Ventaja:</strong> Pablo afirma la **ventaja del judío** (**recibieron la Palabra de Dios**), pero la incredulidad no anula la fidelidad de Dios.</li>
+    <li><strong>El Dictamen:</strong> La conclusión: **"no hay justo, ni aun uno"**; todos los hombres (judíos y gentiles) están **bajo pecado**.</li>
+    <li><strong>La Obra de la Ley:</strong> La Ley no justifica; su función es la de **revelar el pecado**.</li>
+    <li><strong>El Propiciatorio:</strong> Dios puso a Jesús como **Propiciación** (**hilastērion**, el lugar de expiación en el Arca del Pacto).</li>
+    <li><strong>La Justificación:</strong> La justificación es un **don gratuito** de Dios, basado en la **redención de Cristo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Propiciación</h5>
+<ul>
+    <li><strong>Propiciatorio:</strong> En el Templo, era la tapa del Arca, rociada con sangre en el Día de la Expiación para cubrir los pecados.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Fe y Obras:</strong> El hombre es justificado **por la fe**, sin las obras de la Ley (la ruptura con la teología rabínica).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia de Dios** se obtiene por la fe en Cristo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es el único medio de salvación</span>. La justicia de Cristo es imputada al creyente.</p>
                 
@@ -47690,7 +54280,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Promesa:</strong> La fe de Abraham en la promesa de Dios (descendencia)</li>
                     <li><strong>Modelo de la Fe:</strong> Abraham es el padre de todos los creyentes</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Abraham, el Padre de la Fe</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Modelo de la Justificación</h5>
+<ul>
+    <li><strong>El Precedente:</strong> Pablo usa a **Abraham** como el **modelo** de la justificación.</li>
+    <li><strong>La Fe de Abraham:</strong> Abraham fue justificado **antes** de la circuncisión y **antes** de la Ley de Moisés.</li>
+    <li><strong>La Cita:</strong> **"Creyó Abraham a Dios, y le fue contado por justicia"** (Génesis 15:6).</li>
+    <li><strong>David:</strong> Pablo usa a **David** (Salmo 32) para ilustrar la bienaventuranza del hombre a quien Dios atribuye justicia sin obras.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Teológico: Imputación</h5>
+<ul>
+    <li><strong>Imputación:</strong> La **justicia de Cristo** es **atribuida** a la cuenta del creyente, así como el pecado de Adán fue imputado a la humanidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Promesa y Ley:</strong> La **promesa** a Abraham se cumple por la fe, no por la Ley.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fe** es el único principio de la relación con Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es la única moneda de la justificación</span>. El creyente es heredero de la promesa de Abraham.</p>
                 
@@ -47716,7 +54328,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gracia Abundante:</strong> La obra de Cristo supera totalmente el pecado de Adán</li>
                     <li><strong>Esperanza:</strong> El sufrimiento produce el carácter y la esperanza</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Frutos de la Justificación y la Comparación de Adán</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Paz, la Esperanza y la Vida</h5>
+<ul>
+    <li><strong>Los Frutos:</strong> La justificación produce **paz con Dios**, **acceso a la gracia**, y **esperanza de la gloria**.</li>
+    <li><strong>El Sufrimiento:</strong> El sufrimiento produce **paciencia**, **carácter probado** y **esperanza**.</li>
+    <li><strong>El Amor de Dios:</strong> El **Espíritu Santo** derrama el amor de Dios en nuestros corazones.</li>
+    <li><strong>Adán y Cristo:</strong> La analogía de los dos hombres: el **pecado de Adán** trajo la condenación universal; la **justicia de Cristo** trae la justificación universal.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Transgresión</h5>
+<ul>
+    <li><strong>Transgresión:</strong> El pecado entró en el mundo a través de **un solo hombre** (Adán).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Condenación:</strong> El **don** de la gracia es superior al **pecado** de Adán.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **justicia** es la **suprema bendición** que Dios da.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obra de Cristo es superior al pecado universal</span>. La fe se regocija en la esperanza de la gloria.</p>
                 
@@ -47742,7 +54376,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Resurrección:</strong> El creyente debe andar en novedad de vida</li>
                     <li><strong>Servidumbre a la Justicia:</strong> Elegir la obediencia sobre el pecado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Muerte al Pecado y la Nueva Vida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Bautismo y la Esclavitud a la Justicia</h5>
+<ul>
+    <li><strong>El Error:</strong> La pregunta: **"¿Perseveraremos en el pecado para que la gracia abunde?"** (la objeción de los antinomianos).</li>
+    <li><strong>La Respuesta:</strong> El creyente **murió al pecado** en Cristo.</li>
+    <li><strong>El Bautismo:</strong> El bautismo es el **símbolo** de la identificación con la **muerte y resurrección** de Cristo.</li>
+    <li><strong>La Esclavitud:</strong> El creyente pasó de ser **esclavo del pecado** a ser **esclavo de la justicia** y de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Esclavitud</h5>
+<ul>
+    <li><strong>Esclavo:</strong> La esclavitud era una realidad común. Pablo usa el término para denotar la **sumisión absoluta** a un nuevo amo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Fruto:</strong> El fruto del pecado es **muerte**; el fruto de la santidad es **vida eterna**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **libertad** se encuentra en el **servicio** a Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">libertad del pecado se basa en la identidad con Cristo</span>. La fe exige la santificación práctica.</p>
                 
@@ -47768,7 +54424,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Conflicto:</strong> La lucha entre la carne y el espíritu</li>
                     <li><strong>Lamento:</strong> El dolor por la incapacidad de hacer el bien deseado</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Creyente y la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Matrimonio, el Deseo y el Conflicto Interno</h5>
+<ul>
+    <li><strong>La Analogía:</strong> La ley es como el **matrimonio**: la ley te ata, pero la **muerte de Cristo** te libera de esa Ley para que te cases con el resucitado.</li>
+    <li><strong>La Función de la Ley:</strong> La Ley es **santa y buena**, pero revela el pecado. La Ley **aumenta** la conciencia de la transgresión.</li>
+    <li><strong>El Conflicto:</strong> El famoso lamento: **"el querer el bien está en mí, pero no el hacerlo"**. La lucha entre la **carne** (vieja naturaleza) y la **nueva naturaleza** (el espíritu).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Muerte</h5>
+<ul>
+    <li><strong>Matrimonio:</strong> La muerte es el **único principio legal** que disuelve el vínculo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Carne y el Espíritu:</strong> La **carne** desea lo opuesto al **Espíritu**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación** es la liberación del cuerpo de muerte.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santificación es una batalla constante</span>. La Ley es la herramienta que revela la incapacidad humana para la perfección.</p>
                 
@@ -47795,7 +54472,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Seguridad Eterna:</strong> La inseparabilidad del amor de Dios</li>
                     <li><strong>Gloria Futura:</strong> La creación gime por la redención final</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Vida en el Espíritu y la Seguridad Eterna</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Adopción y la Intercesión</h5>
+<ul>
+    <li><strong>La Liberación:</strong> **"Ahora, ninguna condenación hay para los que están en Cristo Jesús"**. El Espíritu nos libera de la **ley del pecado y de la muerte**.</li>
+    <li><strong>La Adopción:</strong> El Espíritu nos da un **"espíritu de adopción"** que nos permite llamar a Dios **"Abba, Padre"** (la intimidad filial).</li>
+    <li><strong>La Creación:</strong> Toda la **creación** gime y sufre, esperando su **redención** (la visión cósmica de la salvación).</li>
+    <li><strong>La Seguridad:</strong> La cumbre del evangelio: la certeza de la salvación (predestinación, justificación, glorificación).</li>
+    <li><strong>La Victoria:</strong> **"Si Dios es por nosotros, ¿quién contra nosotros?"** (la inseparabilidad del amor de Dios).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Herencia</h5>
+<ul>
+    <li><strong>Adopción:</strong> En el derecho romano, el hijo adoptado era un **heredero total** y legalmente reconocido.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Sufrimiento y Gloria:</strong> Los **padecimientos presentes** son incomparables con la **gloria futura**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obra del Espíritu** es la **garantía** de la vida eterna.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">seguridad de la salvación es absoluta</span>. El Espíritu Santo es la garantía de la adopción y la gloria futura.</p>
                 
@@ -47821,7 +54521,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Alfarero:</strong> La analogía de la libertad de Dios sobre el barro</li>
                     <li><strong>Riqueza y Misericordia:</strong> Dios usa el endurecimiento para mostrar Su misericordia a otros</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Elección Soberana de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Dolor de Pablo y el Remanente</h5>
+<ul>
+    <li><strong>La Preocupación:</strong> Pablo expresa su profundo **dolor** por el **rechazo de Israel** al evangelio.</li>
+    <li><strong>La Promesa:</strong> El problema: las promesas de Dios a Israel fallaron, si Israel fue rechazado. Pablo responde: las promesas eran para el **verdadero Israel** (el remanente).</li>
+    <li><strong>La Soberanía:</strong> El ejemplo de **Jacob y Esaú** (elección antes del nacimiento).</li>
+    <li><strong>El Alfarero:</strong> La analogía del **alfarero** y el barro: Dios tiene derecho a hacer de su creación **vasos de honra** y **vasos de ira**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Cultural: El Alfarero</h5>
+<ul>
+    <li><strong>Alfarero:</strong> Una figura común que denota el **absoluto control** del creador sobre la materia.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Justicia:</strong> Israel, que buscaba la justicia por **obras de la Ley**, no la alcanzó; los gentiles, que la buscaban por **fe**, la hallaron.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** se mantiene a pesar del fracaso humano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación es totalmente un acto de la voluntad de Dios</span>. El creyente debe someterse a la soberanía de Dios.</p>
                 
@@ -47847,7 +54569,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confesión:</strong> La fe es interna y externa</li>
                     <li><strong>Misión:</strong> La fe viene por el oír la Palabra de Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Erro de Israel y la Necesidad de Predicar</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley como tropiezo y la Fe del Oído</h5>
+<ul>
+    <li><strong>La Causa del Error:</strong> Israel no se sometió a la **justicia de Dios**, sino que buscó establecer su **propia justicia** mediante la Ley.</li>
+    <li><strong>Cristo y la Ley:</strong> **Cristo es el fin de la Ley** para la justificación de todo el que cree.</li>
+    <li><strong>La Confesión:</strong> La salvación requiere la **confesión verbal** de Jesús como Señor y la **creencia en la resurrección**.</li>
+    <li><strong>La Misión:</strong> La evangelización es esencial: **"¿Y cómo oirán sin haber quien les predique?"** (la base bíblica del imperativo misionero).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Justicia Propia</h5>
+<ul>
+    <li><strong>La Ley:</strong> Intentar justificarse por la Ley es la **causa del tropiezo** de Israel.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Oír y Creer:</strong> La **fe** viene por el **oír** la Palabra de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **predicación** es el método soberano de Dios para la salvación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es el único camino de la justicia</span>. La salvación es para todos, y la misión es necesaria para que haya fe.</p>
                 
@@ -47873,7 +54617,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Olivo:</strong> La alegoría de Israel y la Iglesia (raíz y ramas)</li>
                     <li><strong>Misterio:</strong> Dios usa la incredulidad para mostrar Su misericordia a todos</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Olivo (La Restauración de Israel)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Endurecimiento Temporal y la Plenitud Gentil</h5>
+<ul>
+    <li><strong>El Remanente:</strong> Dios **no ha desechado** a Israel (Pablo es prueba de ello). Existe un **remanente** elegido por gracia.</li>
+    <li><strong>El Olivo:</strong> La analogía del **Olivo Cultivado** (Israel) y el **Olivo Silvestre** (los gentiles). Los gentiles han sido **injertados** en las raíces de Israel.</li>
+    <li><strong>La Advertencia:</strong> Los gentiles **no deben jactarse** contra las ramas naturales (judíos), pues también pueden ser cortados.</li>
+    <li><strong>El Misterio:</strong> El **endurecimiento de Israel** es **temporal** hasta que entre la **plenitud de los gentiles**.</li>
+    <li><strong>La Doxología:</strong> La alabanza final a la **incomprensible sabiduría** de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: El Injerto</h5>
+<ul>
+    <li><strong>Injerto:</strong> Los gentiles, como la rama silvestre, fueron unidos a una **raíz ajena** (el pacto de Israel).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Misericordia:</strong> Dios encerró a todos en **desobediencia** para tener **misericordia de todos**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El plan de Dios para **Israel** y los **gentiles** es para Su **gloria**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">soberanía de Dios es un misterio de misericordia</span>. El plan de Dios incluye la salvación final de Israel.</p>
                 
@@ -47900,7 +54667,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dones:</strong> El uso de los dones para la edificación del cuerpo</li>
                     <li><strong>Amor:</strong> La venganza pertenece a Dios; el creyente debe bendecir</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Transformación de la Vida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Culto Racional y los Dones Espirituales</h5>
+<ul>
+    <li><strong>El Culto:</strong> La vida cristiana práctica comienza con la **entrega del cuerpo** como **sacrificio vivo** (**culto racional**).</li>
+    <li><strong>La Mente:</strong> La exhortación a **no conformarse** a este siglo, sino a **transformarse** mediante la **renovación de la mente**.</li>
+    <li><strong>Los Dones:</strong> El reconocimiento de la **diversidad de dones** (profecía, servicio, enseñanza, etc.) en el **cuerpo de Cristo**.</li>
+    <li><strong>El Amor:</strong> Mandatos sobre el **amor fraternal**: bendecir al que persigue y **vencer el mal con el bien**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: El Sacrificio</h5>
+<ul>
+    <li><strong>Sacrificio Vivo:</strong> En lugar del sacrificio de animales, el creyente debe **sacrificarse diariamente** en servicio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Ser y el Hacer:</strong> La **nueva vida** exige un **nuevo comportamiento**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **amor genuino** es la evidencia de la **mente renovada**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida del creyente es un acto continuo de adoración</span>, guiada por el amor y la renovación mental.</p>
                 
@@ -47926,7 +54715,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Amor:</strong> El cumplimiento de toda la Ley</li>
                     <li><strong>Vigilancia:</strong> El tiempo es corto y la salvación está cerca</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Autoridad Civil y el Amor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Los Impuestos y el Cumplimiento de la Ley</h5>
+<ul>
+    <li><strong>La Autoridad:</strong> El creyente debe **someterse a las autoridades civiles** (el imperio romano), pues han sido **puestas por Dios**.</li>
+    <li><strong>El Impuesto:</strong> La obligación de pagar **impuestos** y **tributos** a las autoridades.</li>
+    <li><strong>La Deuda:</strong> La única deuda que debe quedar es la de **amarse unos a otros**.</li>
+    <li><strong>El Amor y la Ley:</strong> El **amor es el cumplimiento de toda la Ley** de Moisés (el resumen de las leyes sociales).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Impuesto</h5>
+<ul>
+    <li><strong>Impuesto:</strong> La sumisión incluía el pago de impuestos, a pesar de que el gobierno romano persiguió a los cristianos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Hora:</strong> La **urgencia** de vivir rectamente, pues la **salvación** (la venida de Cristo) está cerca.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **obediencia al Estado** es parte de la obediencia a Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente debe ser el mejor ciudadano</span>, sometiéndose a la autoridad por causa de la conciencia. El amor es el motor de la obediencia.</p>
                 
@@ -47952,7 +54763,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>No Juzgar:</strong> Aceptar al que tiene una conciencia débil</li>
                     <li><strong>Reino de Dios:</strong> No es comida ni bebida, sino justicia y paz</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Fuertes y los Débiles en la Fe</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Conciencia y las Prácticas no Esenciales</h5>
+<ul>
+    <li><strong>El Débil:</strong> El **débil en la fe** (el que tiene escrúpulos sobre la comida y los días).</li>
+    <li><strong>El Fuerte:</strong> El **fuerte en la fe** (el que sabe que todas las cosas son limpias).</li>
+    <li><strong>El No Juzgar:</strong> La exhortación a **no juzgar** al hermano por sus prácticas no esenciales.</li>
+    <li><strong>El Tropiezo:</strong> El principio: **"no pongas tropiezo"**. El creyente fuerte debe **limitar su libertad** para no ofender la conciencia del débil.</li>
+    <li><strong>El Señorío:</strong> Todos vivimos y morimos **para el Señor**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Cultural: La Carne y el Día</h5>
+<ul>
+    <li><strong>Comida:</strong> Gran parte de la carne en Roma venía de los sacrificios a los ídolos. El día se refería a las festividades judías.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Libertad y Amor:</strong> La **libertad personal** siempre debe someterse a la ley superior del **amor fraternal**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Reino de Dios** no es de comida ni de bebida, sino de **justicia, paz y gozo**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">unidad y la paz son más importantes que la libertad personal</span>. El creyente debe edificar al hermano.</p>
                 
@@ -47978,7 +54812,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Misión:</strong> El Evangelio a los confines (España)</li>
                     <li><strong>Unidad:</strong> Judíos y gentiles deben alabar juntos a Dios</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Fuertes y los Débiles en la Fe</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Conciencia y las Prácticas no Esenciales</h5>
+<ul>
+    <li><strong>El Débil:</strong> El **débil en la fe** (el que tiene escrúpulos sobre la comida y los días).</li>
+    <li><strong>El Fuerte:</strong> El **fuerte en la fe** (el que sabe que todas las cosas son limpias).</li>
+    <li><strong>El No Juzgar:</strong> La exhortación a **no juzgar** al hermano por sus prácticas no esenciales.</li>
+    <li><strong>El Tropiezo:</strong> El principio: **"no pongas tropiezo"**. El creyente fuerte debe **limitar su libertad** para no ofender la conciencia del débil.</li>
+    <li><strong>El Señorío:</strong> Todos vivimos y morimos **para el Señor**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Cultural: La Carne y el Día</h5>
+<ul>
+    <li><strong>Comida:</strong> Gran parte de la carne en Roma venía de los sacrificios a los ídolos. El día se refería a las festividades judías.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Libertad y Amor:</strong> La **libertad personal** siempre debe someterse a la ley superior del **amor fraternal**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Reino de Dios** no es de comida ni de bebida, sino de **justicia, paz y gozo**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida de Cristo es el modelo para la ética</span>. La fe se demuestra al extender la misión a los lugares donde Cristo no ha sido predicado.</p>
                 
@@ -48004,7 +54861,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Advertencia:</strong> Evitar la división y la falsa doctrina</li>
                     <li><strong>Doxología:</strong> La alabanza final al Dios eterno y sabio</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Saludos Personales y Doxología</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Las Mujeres, los Colaboradores y la Advertencia</h5>
+<ul>
+    <li><strong>Febe:</strong> Pablo recomienda a **Febe**, una **diaconisa** de la iglesia de Cencreas (una mujer en un rol de liderazgo).</li>
+    <li><strong>Priscila y Aquila:</strong> Mención de los esposos que **expusieron su vida** por Pablo.</li>
+    <li><strong>Los Esfuerzos:</strong> Saludos a múltiples **mujeres** (María, Trifena, Trifosa, Pérsida) que **trabajaron arduamente** en el Señor.</li>
+    <li><strong>La Advertencia:</strong> Advertencia final contra los que causan **divisiones** y **tropiezos** (la herejía).</li>
+    <li><strong>La Doxología:</strong> Cierre con una **alabanza** a Dios que puede confirmarlos según el evangelio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Roles</h5>
+<ul>
+    <li><strong>Colaboradores:</strong> El capítulo revela la **diversidad de roles** y la importancia del liderazgo femenino en la iglesia primitiva.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Paz y Confusión:</strong> El **Dios de paz** quebrantará pronto a Satanás bajo los pies de los creyentes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sabiduría de Dios** es el fundamento de la fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">unidad en la Iglesia es vital</span>. La fe se demuestra al trabajar en colaboración con otros creyentes.</p>
                 
@@ -48026,7 +54906,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sabiduría Humana:</strong> Es irrelevante para el Evangelio.</li>
                     <li><strong>La Cruz:</strong> El poder y la sabiduría de Dios en la debilidad.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Facciones y la Locura de la Cruz</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sabiduría Judía y la Griega</h5>
+<ul>
+    <li><strong>Las Divisiones:</strong> La iglesia estaba dividida por el **liderazgo** (Pablo, Apolos, Cefas/Pedro), reflejando el **orgullo intelectual** de Corinto.</li>
+    <li><strong>La Sabiduría Griega:</strong> Los griegos buscaban **sabiduría** (filosofía y retórica), que veían como el camino a la verdad.</li>
+    <li><strong>El Escándalo Judío:</strong> Para los judíos, la cruz era **escándalo** (un Mesías crucificado era una maldición, Deuteronomio 21:23).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: Retórica y Facciones</h5>
+<ul>
+    <li><strong>Retórica:</strong> Corinto valoraba el **discurso elocuente** y la oratoria (por eso favorecían a Apolos).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Cruz:</strong> El mensaje central es que la **locura de la predicación** (la cruz) es superior a toda la sabiduría del mundo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fuerza de Dios** se manifiesta en la **debilidad** y la simplicidad del evangelio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera unidad se centra únicamente en Cristo crucificado</span>. La jactancia es anulada por la gracia.</p>
                 
@@ -48046,7 +54947,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mente de Cristo:</strong> El creyente tiene la mente de Cristo para discernir.</li>
                     <li><strong>Predicación Simple:</strong> La sencillez del mensaje de la Cruz.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Espíritu y el Juicio de la Sabiduría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Revelación Oculta y el Espíritu</h5>
+<ul>
+    <li><strong>La Predicación de Pablo:</strong> Pablo rechazó la **retórica elocuente** y predicó con **"debilidad, temor y mucho temblor"**.</li>
+    <li><strong>El Poder del Espíritu:</strong> La fe debe descansar en el **poder de Dios**, no en la sabiduría humana.</li>
+    <li><strong>El Espíritu Santo:</strong> El Espíritu es el único que puede **revelar las profundidades de Dios**.</li>
+    <li><strong>El Hombre Natural:</strong> El hombre **natural** (no regenerado) no percibe las cosas del Espíritu, pues son locura para él.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: El Éxito Mundano</h5>
+<ul>
+    <li><strong>Príncipes:</strong> La **sabiduría de los príncipes** (gobernantes seculares) es condenada por su finitud.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Mente de Cristo:</strong> La **verdadera sabiduría** es tener la **mente de Cristo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **evangelio** es una **verdad revelada**, no una verdad descubierta por la razón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe no debe depender de la elocuencia o la filosofía</span>, sino del poder del Espíritu.</p>
             `,
@@ -48062,7 +54985,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio de las Obras:</strong> La calidad del servicio será probada por fuego.</li>
                     <li><strong>Templo de Dios:</strong> La Iglesia es el lugar santo de Dios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Cimiento y la Inmadurez Espiritual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Crecimiento y la Obra</h5>
+<ul>
+    <li><strong>La Inmadurez:</strong> Los corintios son carnales, todavía se les debe dar **leche** (enseñanzas básicas), no **alimento sólido**.</li>
+    <li><strong>Los Obreros:</strong> Pablo, Apolos y Cefas son solo **siervos** que trabajan juntos.</li>
+    <li><strong>El Cimiento:</strong> **Jesucristo** es el **único cimiento**.</li>
+    <li><strong>El Juicio:</strong> La obra de cada uno (oro, plata, piedras preciosas vs. madera, heno, hojarasca) será probada por el **fuego** de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: La Prueba de Fuego</h5>
+<ul>
+    <li><strong>Materiales:</strong> El oro, la plata y las piedras preciosas (materiales duraderos) se prueban y purifican con el fuego, mientras que la madera, el heno y la hojarasca (cosas baratas) se consumen.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Templo:</strong> El **cuerpo** del creyente es el **Templo del Espíritu Santo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sabiduría del mundo** (la jactancia) es **necedad** ante Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">liderazgo debe ser humilde y la obra debe ser construida con materiales duraderos</span>.</p>
             `,
@@ -48078,7 +55023,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> Solo el Señor juzga la fidelidad.</li>
                     <li><strong>Humildad:</strong> Pablo confronta el orgullo corintio con su propia aflicción.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Apóstoles como Espectáculo y la Paternidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Lealtad y el Juicio</h5>
+<ul>
+    <li><strong>Administradores:</strong> Los apóstoles son **servidores** de Cristo y **administradores** de los misterios de Dios.</li>
+    <li><strong>El Juicio:</strong> El juicio pertenece solo a **Dios**. La fidelidad es la cualidad requerida.</li>
+    <li><strong>El Oprobio:</strong> Los apóstoles se han convertido en el **"espectáculo del mundo"** (son despreciados, hambrientos y maltratados).</li>
+    <li><strong>La Paternidad:</strong> Pablo es el **padre espiritual** de los corintios (los engendró en Cristo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Espectáculo (Teatro)</h5>
+<ul>
+    <li><strong>Teatro:</strong> Los apóstoles eran los **últimos** en el espectáculo, como los condenados a muerte en el anfiteatro.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Poder:</strong> El **reino de Dios** no consiste en palabras (retórica), sino en **poder** (la manifestación del Espíritu).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero liderazgo** se manifiesta en la **humildad y el sufrimiento**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad en el servicio es la única medida de la verdadera grandeza</span>.</p>
             `,
@@ -48094,7 +55061,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Pureza:</strong> La Iglesia debe ser sin levadura (sin malicia).</li>
                     <li><strong>Juicio Interno:</strong> La Iglesia juzga a los de adentro.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Pecado de Incesto y la Disciplina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pureza de la Iglesia y la Excomunión</h5>
+<ul>
+    <li><strong>El Incesto:</strong> Se denuncia un caso de **incesto** (un hombre tiene a la **mujer de su padre**). | Este pecado era inaceptable incluso entre los paganos.</li>
+    <li><strong>La Arrogancia:</strong> Los corintios estaban **orgullosos** en lugar de lamentarse.</li>
+    <li><strong>La Levadura:</strong> El pecado es la **levadura** que debe ser purgada. El creyente es **"pan sin levadura"** (símbolo de pureza).</li>
+    <li><strong>La Excomunión:</strong> La orden de **entregar al pecador a Satanás** para la destrucción de la carne (la disciplina severa).</li>
+    <li><strong>La Asociación:</strong> Se prohíbe asociarse con el **malvado** (la disciplina social).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Ley Romana</h5>
+<ul>
+    <li><strong>Moralidad Romana:</strong> La moralidad romana, aunque laxa, condenaba el incesto en este grado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Pascua:</strong> **Cristo es nuestra Pascua**, y debe ser celebrado con **sinceridad y verdad**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **pureza de la Iglesia** es esencial para el testimonio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad de la Iglesia es vital para su testimonio</span>. El pecado no debe ser tolerado.</p>
             `,
@@ -48110,7 +55100,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Templo:</strong> El cuerpo es la morada del Espíritu Santo.</li>
                     <li><strong>Comprados por Precio:</strong> La razón para la santidad.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Demandas Legales y el Templo del Espíritu Santo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio Interno y la Inmoralidad</h5>
+<ul>
+    <li><strong>Demandas Legales:</strong> Pablo condena a los creyentes por llevarse a **juicio ante los incrédulos** (tribunales seculares).</li>
+    <li><strong>El Juicio Futuro:</strong> Los **santos juzgarán al mundo** y a los ángeles, por lo que deben ser capaces de juzgar asuntos menores.</li>
+    <li><strong>La Inmoralidad:</strong> Una fuerte advertencia contra la **prostitución** (pecado común en Corinto).</li>
+    <li><strong>El Templo:</strong> El cuerpo del creyente es el **Templo del Espíritu Santo** (el argumento teológico contra la inmoralidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Los Tribunales Romanos</h5>
+<ul>
+    <li><strong>Tribunales:</strong> Los tribunales romanos estaban abiertos al público. La humillación de la Iglesia al llevar sus disputas allí era un escándalo.</li>
+    <li><strong>Corintianizarse:</strong> El verbo **"korinthiazomai"** significaba practicar la inmoralidad sexual.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Redención:</strong> Los creyentes fueron **lavados, santificados y justificados** en el nombre de Jesús.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **santidad corporal** es un mandato porque el creyente fue **comprado por precio**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad personal y la unidad fraternal</span> son inseparables. El cuerpo debe ser un instrumento de justicia.</p>
             `,
@@ -48126,7 +55139,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Regla de Cristo:</strong> No divorciarse.</li>
                     <li><strong>Abandono:</strong> La excepción para el creyente abandonado por el incrédulo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Matrimonio, Divorcio y el Celibato</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Don del Celibato y la Armonía</h5>
+<ul>
+    <li><strong>El Principio:</strong> Pablo responde a una pregunta ética: **"Bueno le sería al hombre no tocar mujer"** (la tensión entre la fe y el matrimonio).</li>
+    <li><strong>El Don:</strong> El **celibato** es un **don** de Dios; el **matrimonio** es un **remedio** contra la fornicación.</li>
+    <li><strong>Divorcio:</strong> Prohibición del divorcio (excepto en el caso del **"yugo desigual"** o abandono por parte del incrédulo).</li>
+    <li><strong>La Esclavitud:</strong> La exhortación a permanecer en el estado social en el que se fue llamado (esclavo o libre), aunque la libertad es preferible.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El "Yugo Desigual"</h5>
+<ul>
+    <li><strong>Esclavitud:</strong> La esclavitud era una condición común, pero la **condición espiritual** era más importante.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Tiempo:</strong> La urgencia del **tiempo presente** (la inminencia del retorno de Cristo) afecta todas las decisiones.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **matrimonio** es una **relación mutua** y una protección contra el pecado.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">propósito de la vida es el servicio a Dios</span>. El estado civil no define la espiritualidad.</p>
             `,
@@ -48142,7 +55177,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Piedra de Tropiezo:</strong> No hacer nada que debilite la fe de otro.</li>
                     <li><strong>Ídolos:</strong> No tienen poder real.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Carne Sacrificada a Ídolos y la Conciencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Conocimiento vs. El Amor</h5>
+<ul>
+    <li><strong>La Carne:</strong> La cuestión de si es lícito **comer carne sacrificada a ídolos** (carne barata vendida en el mercado).</li>
+    <li><strong>El Conocimiento:</strong> El **conocimiento** (la verdad de que los ídolos no son nada) hincha; el **amor** edifica.</li>
+    <li><strong>La Conciencia Débil:</strong> La advertencia de **no usar la libertad** de uno para hacer **tropezar** al hermano débil (el principio de caridad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Idolatría</h5>
+<ul>
+    <li><strong>Ídolos:</strong> La carne sacrificada era un **problema diario** en la vida social y el mercado de Corinto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Libertad y Amor:</strong> La **libertad** del cristiano debe someterse al **amor**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> **Ofender al hermano** es un pecado contra Cristo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">libertad debe ser restringida por el amor fraternal</span>. El amor es el cumplimiento de la Ley.</p>
             `,
@@ -48158,7 +55214,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Renuncia:</strong> Pablo sacrifica su derecho por el Evangelio.</li>
                     <li><strong>Disciplina:</strong> El creyente debe disciplinar su cuerpo como un atleta.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Derecho del Apóstol y la Renuncia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Salario del Siervo y la Carrera</h5>
+<ul>
+    <li><strong>El Derecho:</strong> Pablo defiende su **derecho como apóstol** a recibir sustento de la Iglesia.</li>
+    <li><strong>Las Metáforas:</strong> Usa metáforas comunes: el **soldado** que cobra, el **labrador** que come del fruto, y el **pastor** que bebe la leche.</li>
+    <li><strong>La Renuncia:</strong> Pablo, sin embargo, **renuncia a su derecho** para evitar ser un obstáculo al evangelio.</li>
+    <li><strong>La Carrera:</strong> El creyente debe correr la **carrera** y **golpear el aire** (entrenar el cuerpo) con disciplina para ganar el premio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Deportivo: Los Juegos Ístmicos</h5>
+<ul>
+    <li><strong>Juegos Ístmicos:</strong> Corinto era famosa por los **Juegos Ístmicos** (similares a los Olímpicos). Pablo usa la metáfora deportiva (correr, boxear, la corona corruptible).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Corona:</strong> La **corona corruptible** (la corona de laurel) de los juegos se contrasta con la **corona incorruptible** de Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **libertad** debe ser usada para el **servicio**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">servicio a Dios requiere sacrificio personal</span> y disciplina.</p>
             `,
@@ -48174,7 +55252,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Tentación:</strong> Dios no permite una tentación mayor a la que podemos soportar.</li>
                     <li><strong>Mesa del Señor:</strong> No debe mezclarse con la mesa de los demonios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Idolatría, Sacrificio y la Advertencia Histórica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Los Ejemplos del Desierto y la Comunión</h5>
+<ul>
+    <li><strong>Los Sacramentos:</strong> Israel en el desierto fue **bautizado en la nube y en el mar** y comió el **mismo alimento espiritual** (el maná).</li>
+    <li><strong>La Caída:</strong> Sin embargo, la mayoría **cayó en el desierto** por la idolatría y la murmuración.</li>
+    <li><strong>El Sacrificio:</strong> No se puede **participar de la mesa del Señor** y de la **mesa de los demonios** (el sincretismo).</li>
+    <li><strong>La Comunión:</strong> El **cáliz de bendición** (la copa de la Cena) es la **comunión con la sangre de Cristo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: Sacrificio a Demonios</h5>
+<ul>
+    <li><strong>Idolatría:</strong> Los gentiles sacrifican a **demonios**, no a Dios.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ley del Amor:</strong> La pregunta no es si es lícito, sino si **edifica** y si **busca el bien del prójimo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **historia de Israel** es un espejo para la Iglesia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente debe perseverar y huir de todo lo que contamina</span>.</p>
             `,
@@ -48190,7 +55290,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cena del Señor:</strong> Recordatorio del cuerpo y la sangre de Cristo.</li>
                     <li><strong>Autoexamen:</strong> Participar indignamente trae juicio.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Velo, la Cena y el Orden en el Culto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Autoridad y el Desorden</h5>
+<ul>
+    <li><strong>El Velo:</strong> La mujer debe **cubrirse la cabeza** al orar o profetizar (símbolo del **orden de la Creación** y la sumisión a la autoridad).</li>
+    <li><strong>La Cena del Señor:</strong> Crítica al **desorden** en la Santa Cena. La gente se **emborrachaba** y **comía primero** (falta de respeto y amor).</li>
+    <li><strong>El Juicio:</strong> El desorden en la Cena lleva a que **muchos enfermen y mueran** (el juicio divino por la indignidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Banquete</h5>
+<ul>
+    <li><strong>Banquete Agapé:</strong> La Cena del Señor estaba ligada al **Banquete de Amor** (Agapé). Los ricos comían antes que los esclavos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Cuerpo:</strong> La Cena es un **anuncio** de la muerte de Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **orden en la adoración** es un reflejo de la **verdadera fe**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">culto de Dios debe ser ordenado y reverente</span>, con respeto por los demás.</p>
             `,
@@ -48206,7 +55327,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Diversidad:</strong> Muchos dones para la edificación.</li>
                     <li><strong>Necesidad:</strong> Todos los miembros son vitales para la función.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Dones Espirituales y el Cuerpo de Cristo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Unidad en la Diversidad</h5>
+<ul>
+    <li><strong>Los Dones:</strong> Énfasis en la **diversidad** de los dones (profecía, sanidades, lenguas, etc.), todos operados por el **mismo Espíritu**.</li>
+    <li><strong>El Cuerpo:</strong> La Iglesia es un **cuerpo** con muchos miembros. Cada miembro es **esencial** (mano, ojo, pie).</li>
+    <li><strong>La Función:</strong> Los miembros **"débiles"** (los menos honrados socialmente) son **más necesarios**.</li>
+    <li><strong>La Cobertura:</strong> La **gloria** es para los miembros que son **menos honrados**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Honra</h5>
+<ul>
+    <li><strong>Cuerpo Humano:</strong> El cuerpo era una metáfora común en la filosofía griega para la sociedad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Unidad:</strong> La **unidad** se manifiesta en la **dependencia mutua**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **diversidad de dones** es para la **edificación** y el amor.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Iglesia debe honrar a todos sus miembros</span>. La diversidad de dones promueve la unidad.</p>
             `,
@@ -48222,7 +55365,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cualidades:</strong> El amor es paciente, benigno y edificante.</li>
                     <li><strong>Permanencia:</strong> Los dones cesarán, pero el amor nunca falla.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Himno al Amor (La Ley Suprema)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Superioridad del Amor</h5>
+<ul>
+    <li><strong>El Lenguaje:</strong> Si no tengo amor, el hablar en **lenguas de ángeles y de hombres** es como **metal que resuena** o **címbalo que retiñe** (ruido sin sentido).</li>
+    <li><strong>La Profecía:</strong> La **profecía, la fe y la ciencia** son temporales y parciales.</li>
+    <li><strong>La Permanencia:</strong> Solo **la fe, la esperanza y el amor** permanecen.</li>
+    <li><strong>La Ley Suprema:</strong> El **amor** es el **camino más excelente** y la **base de todos los dones**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Címbalos</h5>
+<ul>
+    <li><strong>Címbalo:</strong> Instrumento musical de **ruido fuerte** pero sin melodía.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Visión:</strong> Ahora vemos por **espejo** (oscuridad), pero luego veremos **cara a cara**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Los **dones** son temporales; el **amor** es eterno.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor es la marca esencial del creyente</span>. La fe sin amor es vacía.</p>
             `,
@@ -48238,7 +55403,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Inteligibilidad:</strong> El mensaje debe ser comprendido.</li>
                     <li><strong>Orden:</strong> Dios no es un Dios de confusión, sino de paz.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Orden en el Culto y el Juicio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Profecía y las Lenguas</h5>
+<ul>
+    <li><strong>El Entendimiento:</strong> La **profecía** es superior a las **lenguas** porque edifica y trae **entendimiento**.</li>
+    <li><strong>La Incomprensión:</strong> Hablar en lenguas sin **intérprete** es como un **instrumento que no da sonido claro**.</li>
+    <li><strong>El Orden:</strong> **"Todo sea hecho decentemente y con orden"**.</li>
+    <li><strong>El Juicio:</strong> Si un **incrédulo** entra, la **profecía** lo convencerá. Si escucha lenguas sin orden, dirá que los creyentes están **locos**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Ley de la Mujer</h5>
+<ul>
+    <li><strong>Silencio:</strong> Las **mujeres** deben **callar en la congregación** (sujeción al orden de la Ley).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Edificación:</strong> La **utilidad** del don es la medida de su valor.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Espíritu Santo** es un Espíritu de **paz y orden**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">culto debe ser ordenado y centrado en la edificación</span> de todos los presentes.</p>
             `,
@@ -48254,7 +55441,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Consecuencias:</strong> Sin resurrección, la fe es inútil.</li>
                     <li><strong>Cuerpo Glorioso:</strong> La naturaleza de la resurrección futura.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Centralidad de la Resurrección</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Esperanza Cristiana y el Último Enemigo</h5>
+<ul>
+    <li><strong>El Evangelio:</strong> El evangelio se basa en tres hechos: la **muerte, el entierro y la resurrección** de Cristo (el fundamento).</li>
+    <li><strong>Los Testigos:</strong> Se citan más de **500 testigos** de la resurrección, muchos de los cuales vivían aún.</li>
+    <li><strong>El Último Adán:</strong> Cristo es el **Último Adán** (el que da vida) y el **primero en resucitar** de los muertos.</li>
+    <li><strong>El Último Enemigo:</strong> La **muerte** es el **último enemigo** a ser destruido.</li>
+    <li><strong>El Cuerpo:</strong> El cuerpo resucitado es **espiritual** e **incorruptible**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: El Escepticismo Griego</h5>
+<ul>
+    <li><strong>Resurrección:</strong> Muchos griegos **negaban la resurrección corporal**, creyendo solo en la inmortalidad del alma.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Victoria:</strong> La **victoria sobre el pecado y la muerte** es por medio de Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fe** es vana sin la **resurrección** de Cristo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Resurrección es la garantía de nuestra salvación</span> y el poder de nuestra esperanza.</p>
             `,
@@ -48270,7 +55480,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Firmeza:</strong> Exhortación a la perseverancia en la fe.</li>
                     <li><strong>Saludos:</strong> Intercambio de bendiciones y exhortaciones.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Ofrenda y el Cierre</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Colecta y el Amor</h5>
+<ul>
+    <li><strong>La Colecta:</strong> Se organiza una **colecta para los santos de Jerusalén** (la ayuda económica a los pobres de la iglesia madre).</li>
+    <li><strong>El Sábado:</strong> La colecta debe hacerse **"el primer día de la semana"** (el día de la resurrección/culto cristiano).</li>
+    <li><strong>La Regla:</strong> La ofrenda debe ser **proporcional** a la prosperidad.</li>
+    <li><strong>El Voto:</strong> La exhortación final: **"Estad firmes en la fe; portaos varonilmente"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Generosidad</h5>
+<ul>
+    <li><strong>Jerusalén:</strong> La ayuda a Jerusalén era un **sello de unidad** entre la iglesia gentil y la judía.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Amor:</strong> **"Todas vuestras cosas sean hechas con amor"** (el resumen de la ética práctica).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **generosidad** es la prueba de la fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">servicio y la generosidad son parte de la vida de fe</span>. La perseverancia es esencial.</p>
             `
@@ -48288,7 +55520,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Confianza:</strong> Confiar solo en Dios, no en la fuerza propia.</li>
                     <li><strong>Fidelidad Ministerial:</strong> La transparencia y honestidad de Pablo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Consuelo y la Aflicción</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Fidelidad y la Promesa</h5>
+<ul>
+    <li><strong>El Consuelo:</strong> Pablo enfatiza que Dios es el **"Dios de toda consolación"** en medio de la aflicción.</li>
+    <li><strong>El Propósito:</strong> La aflicción de Pablo es para que él pueda **consolar a los demás** (el ciclo del sufrimiento).</li>
+    <li><strong>La Firmeza:</strong> Pablo defiende la **fidelidad de su palabra** (no dice "sí" y "no" al mismo tiempo) ante las críticas.</li>
+    <li><strong>El Sello:</strong> El **Espíritu Santo** es el **sello** y las **arras** (garantía) de la herencia futura.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Las Arras</h5>
+<ul>
+    <li><strong>Arras:</strong> La primera **entrega de dinero** o bienes que aseguraba el pago completo de una deuda futura (el Espíritu es la garantía).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gloria:</strong> La gloria de la **predicación** es la **sinceridad**, no la astucia.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es la base del ministerio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">aflicción es el medio por el cual Dios nos capacita</span> para el ministerio de consolación.</p>
             `,
@@ -48304,7 +55558,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Autoridad:</strong> El poder de Pablo para actuar con amor.</li>
                     <li><strong>Triunfo de Cristo:</strong> El ministerio de Pablo como una ofrenda fragante.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Perdón y el Triunfo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Amor y la Disciplina</h5>
+<ul>
+    <li><strong>El Perdón:</strong> Pablo aconseja a la Iglesia que **perdone** al hombre que fue disciplinado y lo **restaure** (para que no sea consumido por la tristeza).</li>
+    <li><strong>El Triunfo:</strong> Dios es el que **siempre nos lleva en triunfo** en Cristo.</li>
+    <li><strong>El Aroma:</strong> El apóstol es el **"grato olor de Cristo"** para los que se salvan y los que se pierden.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Desfile de Triunfo</h5>
+<ul>
+    <li><strong>Triunfo:</strong> El general romano desfilaba con el botín y los prisioneros. El **olor** del incienso marcaba el camino (el aroma).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Suficiencia:</strong> Nuestra **suficiencia** no proviene de nosotros, sino de Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **perdón** es el sello de la disciplina efectiva.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">perdón es esencial para la salud de la Iglesia</span>. La Iglesia debe evitar la tristeza excesiva.</p>
             `,
@@ -48320,7 +55595,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Letra vs. Espíritu:</strong> La letra mata, el Espíritu vivifica.</li>
                     <li><strong>Velo:</strong> El velo que hay sobre Moisés es quitado en Cristo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Superioridad del Nuevo Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Velo y el Espíritu</h5>
+<ul>
+    <li><strong>La Recomendación:</strong> Pablo no necesita **cartas de recomendación**, ya que los corintios son su propia carta (el fruto de su ministerio).</li>
+    <li><strong>El Pacto Antiguo:</strong> El **ministerio de condenación** (la Ley, grabada en piedra).</li>
+    <li><strong>El Pacto Nuevo:</strong> El **ministerio del Espíritu** (la vida).</li>
+    <li><strong>El Velo:</strong> El **velo** que cubría el rostro de Moisés (símbolo de la **oscuridad** del Antiguo Pacto). El velo es **quitado en Cristo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Las Cartas</h5>
+<ul>
+    <li><strong>Cartas de Recomendación:</strong> Esenciales en el mundo antiguo para validar la identidad y la autoridad de un viajero.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gloria:</strong> La **gloria del Nuevo Pacto** supera la gloria del Antiguo Pacto.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **libertad** se encuentra en el Espíritu.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">ministerio es una obra del Espíritu que transforma el corazón</span>. El Nuevo Pacto es superior y eterno.</p>
             `,
@@ -48336,7 +55633,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ceguera:</strong> El dios de este siglo cegó el entendimiento de los incrédulos.</li>
                     <li><strong>Eternidad:</strong> Las aflicciones ligeras y temporales obran un peso de gloria.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Tesoro en Vasos de Barro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sufrimiento y la Luz</h5>
+<ul>
+    <li><strong>El Tesoro:</strong> El **tesoro** (el evangelio) se guarda en **vasos de barro** (la fragilidad humana de Pablo).</li>
+    <li><strong>La Luz:</strong> El **dios de este siglo** (Satanás) cegó el entendimiento de los incrédulos.</li>
+    <li><strong>El Desaliento:</strong> Pablo sufre **aflicción, angustia** y **persecución**.</li>
+    <li><strong>La Esperanza:</strong> El sufrimiento **momentáneo y leve** produce **eterno peso de gloria**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Vasos de Barro</h5>
+<ul>
+    <li><strong>Barro:</strong> Los vasos de barro eran **comunes y frágiles**, un símbolo de la debilidad humana.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Interior:</strong> Aunque lo **externo** se desgasta, lo **interno** se renueva de día en día.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **poder de Dios** se perfecciona en la debilidad humana.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento es una herramienta de Dios</span> para magnificar Su poder y enfocar la fe en la eternidad.</p>
             `,
@@ -48352,7 +55671,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> Todos debemos comparecer ante el tribunal de Cristo.</li>
                     <li><strong>Embajador:</strong> El creyente representa a Cristo en el mundo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Cuerpo, el Juicio y la Reconciliación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Morada y el Tribunal de Cristo</h5>
+<ul>
+    <li><strong>El Tabernáculo:</strong> El **cuerpo terrenal** es un **tabernáculo** (tienda), que será reemplazado por una **morada eterna** celestial.</li>
+    <li><strong>Las Arras:</strong> El **Espíritu** es la **garantía** de la gloria futura.</li>
+    <li><strong>El Tribunal:</strong> Todos deben comparecer ante el **Tribunal de Cristo** (Bema) para recibir su recompensa.</li>
+    <li><strong>La Nueva Creación:</strong> Si alguno está en Cristo, es una **nueva creación**.</li>
+    <li><strong>El Embajador:</strong> Pablo es un **embajador** de Cristo, con el mensaje de la **reconciliación**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Tribunal Bema</h5>
+<ul>
+    <li><strong>Bema:</strong> El estrado del juez donde se daban las **recompensas** o castigos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Pecado:</strong> Dios hizo a Cristo, **que no conoció pecado**, **pecado por nosotros**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **muerte** es ganancia (ir a morar con el Señor).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida del creyente se define por la reconciliación</span>. El cielo es la esperanza cierta.</p>
             `,
@@ -48368,7 +55710,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Yugo Desigual:</strong> La prohibición de unirse espiritualmente a los incrédulos.</li>
                     <li><strong>Separación:</strong> La Iglesia debe ser santa y separada.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Verdadero Siervo y el Yugo Desigual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Santidad y la Separación</h5>
+<ul>
+    <li><strong>El Ministro Fiel:</strong> Pablo enumera las pruebas de su ministerio (aflicciones, prisiones, azotes, naufragio).</li>
+    <li><strong>El Verdadero Mensaje:</strong> El ministerio se prueba por **paciencia, bondad, Espíritu Santo** y **Palabra de verdad**, no por la falta de sufrimiento.</li>
+    <li><strong>El Yugo Desigual:</strong> Se prohíbe el **yugo desigual** (la unión de creyentes con incrédulos).</li>
+    <li><strong>El Templo:</strong> El creyente es el **Templo de Dios Vivo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Yugo</h5>
+<ul>
+    <li><strong>Yugo:</strong> Símbolo de la **unión legal** y del trabajo en pareja (prohibido entre diferentes).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paradoja:</strong> El apóstol es **pobre, pero enriquece a muchos**; **sin nada, pero poseedor de todo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **separación del mundo** es necesaria para la santidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad es esencial para el templo de Dios</span>. El creyente debe ser un ejemplo de pureza.</p>
             `,
@@ -48384,7 +55748,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Arrepentimiento Genuino:</strong> Demostrado por acciones de fe.</li>
                     <li><strong>Confianza de Pablo:</strong> Restauración de la confianza en los corintios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Arrepentimiento y la Reconciliación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Tristeza Piadosa y el Temor</h5>
+<ul>
+    <li><strong>La Carta Anterior:</strong> Pablo recuerda la **severidad** de su carta anterior (la que causó dolor).</li>
+    <li><strong>El Arrepentimiento:</strong> Hay una **"tristeza piadosa"** que produce arrepentimiento para salvación.</li>
+    <li><strong>La Tristeza del Mundo:</strong> La **tristeza del mundo** produce muerte (desesperación).</li>
+    <li><strong>La Reacción:</strong> Los corintios demostraron su **celo, temor y deseo** de purificarse del mal.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Disciplina</h5>
+<ul>
+    <li><strong>La Purga:</strong> La purga del pecado entre ellos demostró su **obediencia**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Propósito:</strong> El **dolor** es necesario para la **restauración** y la prueba de la sinceridad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **disciplina** es un acto de amor.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">disciplina y la corrección son actos de amor</span> que buscan el arrepentimiento.</p>
             `,
@@ -48400,7 +55786,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ejemplo de Cristo:</strong> El sacrificio de Cristo es el modelo para el dar.</li>
                     <li><strong>Proporcionalidad:</strong> Dar según lo que se tiene, no más allá.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Generosidad de Macedonia y la Gracia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Colecta para los Santos Pobres</h5>
+<ul>
+    <li><strong>El Propósito:</strong> Pablo organiza la **colecta para los santos pobres** de Jerusalén.</li>
+    <li><strong>Macedonia:</strong> La **generosidad** de las iglesias de **Macedonia** (que dieron a pesar de su extrema pobreza) es el modelo.</li>
+    <li><strong>El Principio:</strong> La colecta debe ser una **demostración de la gracia** de Dios.</li>
+    <li><strong>El Ejemplo:</strong> El **ejemplo de Cristo**, que se hizo pobre para que nosotros fuéramos enriquecidos.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Pobreza</h5>
+<ul>
+    <li><strong>Abundancia:</strong> La generosidad no debe ser con **estrechez**, sino con **sinceridad**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Igualdad:</strong> La colecta es para que haya **igualdad** (la abundancia de Corinto compense la escasez de Jerusalén).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **prueba del amor** es la **generosidad** en las finanzas.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">generosidad es una gracia espiritual</span> que se expresa en la pobreza.</p>
             `,
@@ -48416,7 +55824,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cosecha:</strong> El que siembra escasamente, escasamente cosechará.</li>
                     <li><strong>Acción de Gracias:</strong> El resultado de la generosidad es la gloria a Dios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Cosecha de la Generosidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Siembra y la Cosecha</h5>
+<ul>
+    <li><strong>La Promesa:</strong> El que siembra **escasa** cosecha **escasa**; el que siembra **abundantemente** cosecha abundantemente (el principio de la siembra).</li>
+    <li><strong>El Ánimo:</strong> Dios ama al dador **alegre**.</li>
+    <li><strong>La Suficiencia:</strong> Dios provee para que el creyente tenga **suficiencia en todas las cosas** y sea **rico en buenas obras**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Siembra</h5>
+<ul>
+    <li><strong>Siembra:</strong> El principio de la **siembra y la cosecha** es una analogía agrícola aplicada a la ética.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Doxología:</strong> La **generosidad** es una **acción de gracias** a Dios que multiplica la bendición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **generosidad** es la **prueba de la conversión** de las naciones.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">generosidad es la prueba de la fe</span> y un medio de glorificar a Dios.</p>
             `,
@@ -48432,7 +55861,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> Pablo se jacta en el Señor, no en sí mismo.</li>
                     <li><strong>Obediencia:</strong> El castigo se aplica a la desobediencia de Corinto.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Defensa contra la Arrogancia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Guerra Espiritual y el Conocimiento</h5>
+<ul>
+    <li><strong>Las Acusaciones:</strong> Pablo defiende su autoridad contra los que lo acusan de ser **humilde** en persona y **audaz** en las cartas.</li>
+    <li><strong>La Guerra:</strong> Las **armas** de la milicia cristiana **no son carnales**, sino **poderosas en Dios**.</li>
+    <li><strong>Los Baluartes:</strong> Se **derriban baluartes** y se **derriba todo argumento** y toda **altivez** que se levanta contra el conocimiento de Dios.</li>
+    <li><strong>La Obediencia:</strong> Todo **pensamiento** debe ser llevado a la **obediencia de Cristo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: Los Baluartes</h5>
+<ul>
+    <li><strong>Baluartes:</strong> Las **fortalezas** y defensas militares de la época.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Jactancia:</strong> El verdadero cristiano solo se **gloría en el Señor**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **guerra** se libra en la esfera del **pensamiento** y la **razón**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera autoridad espiritual se basa en la humildad</span> y el poder de Dios.</p>
             `,
@@ -48448,7 +55899,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Jactancia:</strong> Pablo se jacta en su sufrimiento y debilidad.</li>
                     <li><strong>Sacrificio:</strong> La lista de aflicciones de Pablo (azotes, peligros, naufragios).</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Engaño y los Falsos Apóstoles</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Simplicidad y la Sátira</h5>
+<ul>
+    <li><strong>La Seducción:</strong> Pablo teme que la iglesia sea **seducida** de la **sencillez de Cristo** (como Eva fue engañada por la serpiente).</li>
+    <li><strong>Los Falsos Apóstoles:</strong> Crítica a los **"super apóstoles"** (los falsos maestros) que se jactan de su **retórica** y **salario**.</li>
+    <li><strong>El Disfraz:</strong> Satanás se disfraza como **"ángel de luz"** y sus ministros como **"ministros de justicia"**.</li>
+    <li><strong>La Prueba:</strong> Pablo se ve obligado a **jactarse** (con ironía) de su sufrimiento y sus credenciales judías.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Flagelación</h5>
+<ul>
+    <li><strong>Sufrimiento:</strong> Pablo enumera los castigos (39 azotes, naufragios, prisiones).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Disfraz:</strong> La **verdadera apostolicidad** se prueba con el **sufrimiento** y la **debilidad**, no con la elocuencia o el salario.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera gloria** se encuentra en la **debilidad** y la dependencia de Cristo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento es una credencial del verdadero ministro de Cristo</span>, no la prosperidad.</p>
             `,
@@ -48464,7 +55937,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Aguijón:</strong> Un medio de Dios para mantener la humildad.</li>
                     <li><strong>Gracia:</strong> El poder de Dios en la debilidad humana.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Debilidad y la Gloria del Apóstol</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Visión y el Aguijón</h5>
+<ul>
+    <li><strong>La Visión:</strong> Pablo relata su **visión del tercer cielo** (el paraíso), pero se le prohíbe revelar lo que oyó.</li>
+    <li><strong>El Aguijón:</strong> Pablo recibe un **aguijón en la carne** (una aflicción física o espiritual) para evitar el **orgullo** por las visiones.</li>
+    <li><strong>La Debilidad:</strong> La respuesta de Dios: **"Bástate mi gracia; porque mi poder se perfecciona en la debilidad"**.</li>
+    <li><strong>La Pobreza:</strong> Pablo se niega a **cargar a la iglesia** con el costo de su sustento.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Señal</h5>
+<ul>
+    <li><strong>Señales:</strong> Las **señales de apóstol** se hicieron entre ellos (milagros).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Jactancia:</strong> Pablo se **gloría en sus debilidades** para que el poder de Cristo more en él.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **debilidad humana** es el **canal** de la fuerza divina.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gracia de Cristo es suficiente</span>. La debilidad es la oportunidad para que el poder de Dios se manifieste.</p>
             `,
@@ -48480,7 +55975,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Disciplina Futura:</strong> Advertencia a los persistentes en el pecado.</li>
                     <li><strong>Trinidad:</strong> La triple bendición (Padre, Hijo, Espíritu Santo).</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Última Advertencia y la Prueba</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prueba y la Bendición Final</h5>
+<ul>
+    <li><strong>Tercera Visita:</strong> Pablo anuncia su **tercera visita** y la advertencia final.</li>
+    <li><strong>La Prueba:</strong> Pablo exhorta a los corintios a **examinarse a sí mismos** para ver si están en la fe.</li>
+    <li><strong>La Firmeza:</strong> La **autoridad** de Pablo no es para **destruir**, sino para **edificar**.</li>
+    <li><strong>La Trinidad:</strong> El cierre final es con la **bendición trinitaria**: la gracia de Cristo, el amor de Dios y la comunión del Espíritu Santo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Testimonio</h5>
+<ul>
+    <li><strong>Testimonio:</strong> La ley requería **dos o tres testigos** para establecer un hecho.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Poder:</strong> El **poder** de Cristo se manifestó en la **debilidad** (la crucifixión).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera fe** se prueba en la **sinceridad** y la **obediencia**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe debe ser genuina y probada</span>. La gracia y la Trinidad son la fuente de la comunión.</p>
             `
@@ -48498,7 +56015,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Revelación:</strong> El Evangelio viene directamente de Cristo.</li>
                     <li><strong>Conversión de Pablo:</strong> Demuestra su autoridad.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Único Evangelio y el Origen Divino</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Inmediatez de la Revelación</h5>
+<ul>
+    <li><strong>La Condenación:</strong> Pablo inicia con una fuerte advertencia: si alguien predica un **evangelio diferente**, sea **anatema** (maldito).</li>
+    <li><strong>El Problema:</strong> Los gálatas estaban **rápidamente abandonando** el evangelio de Cristo por otro evangelio de la Ley.</li>
+    <li><strong>El Origen del Evangelio:</strong> Pablo defiende la **autoridad de su mensaje**, afirmando que no lo recibió de **hombre**, sino por **revelación directa de Jesucristo**.</li>
+    <li><strong>Su Pasado:</strong> Pablo recuerda su vida como **perseguidor** de la Iglesia y su celo por las **tradiciones judaicas**.</li>
+    <li><strong>La Visita a Jerusalén:</strong> Tras su conversión, pasó tres años en Arabia y Damasco, y solo después visitó a Pedro (Cefas) y Jacobo, probando la independencia de su llamado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: El Judaizante</h5>
+<ul>
+    <li><strong>Judaizantes:</strong> Maestros cristianos (probablemente de Jerusalén) que afirmaban que los gentiles debían **circuncidarse** y guardar la Ley de Moisés para ser salvos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Hombre y Cristo:</strong> La fuente de su evangelio no es la **tradición humana**, sino la **revelación divina**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera fe** está por encima de toda **autoridad institucional** (terrenal).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Evangelio de la Gracia es innegociable</span>. No puede mezclarse con la Ley.</p>
             `,
@@ -48514,7 +56054,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hipocresía:</strong> El temor a los hombres lleva al legalismo.</li>
                     <li><strong>Crucifixión con Cristo:</strong> La nueva identidad del creyente.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Confrontación con Pedro</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Libertad y la Hipocresía</h5>
+<ul>
+    <li><strong>El Concilio:</strong> Pablo relata su segunda visita a Jerusalén, donde el evangelio de la gracia fue **confirmado** por los apóstoles (Pedro, Jacobo y Juan).</li>
+    <li><strong>Tito:</strong> El ejemplo de **Tito** (un gentil) que **no fue obligado a circuncidarse** fue la prueba de la verdad del evangelio.</li>
+    <li><strong>La Confrontación:</strong> Pablo **confronta públicamente a Pedro** (Cefas) en Antioquía. Pedro se había **separado** de los gentiles por temor a los judaizantes.</li>
+    <li><strong>La Doctrina:</strong> El hombre **no es justificado por las obras de la Ley**, sino por la **fe en Jesucristo**.</li>
+    <li><strong>El Crucificado:</strong> El creyente está **crucificado con Cristo** y la vida que ahora vive es por la fe en el Hijo de Dios.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Comida</h5>
+<ul>
+    <li><strong>Comida:</strong> Comer con los gentiles era una **violación social y religiosa** para los judíos estrictos. La hipocresía de Pedro puso en riesgo la unidad del evangelio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Ley y Gracia:</strong> Si la **justicia** viniera por la **Ley**, entonces **Cristo murió en vano**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdad del evangelio** es más importante que la **unidad superficial**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justificación es totalmente por la fe</span>. El creyente debe vivir en esta nueva identidad.</p>
             `,
@@ -48530,7 +56093,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Abraham:</strong> El modelo de la fe.</li>
                     <li><strong>Maldición de la Ley:</strong> Cristo se hizo maldición por nosotros.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Argumento de Abraham y la Maldición de la Ley</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Maldición de la Ley y la Promesa</h5>
+<ul>
+    <li><strong>La Pregunta:</strong> Pablo llama a los gálatas **"insensatos"** por haber comenzado por el Espíritu y querer ahora **perfeccionarse por la carne** (la Ley).</li>
+    <li><strong>El Espíritu:</strong> Ellos **recibieron el Espíritu** por el **oír con fe**, no por las obras de la Ley.</li>
+    <li><strong>Abraham:</strong> El ejemplo de **Abraham**: él fue **justificado por la fe** (Génesis 15:6), **antes de la Ley y la circuncisión**.</li>
+    <li><strong>La Función de la Ley:</strong> La Ley no fue dada para justificar, sino para **revelar la transgresión** y para ser nuestro **"ayo"** o **tutor** hasta la venida de Cristo.</li>
+    <li><strong>La Maldición:</strong> La Ley trae una **maldición** (**"Maldito el que no permaneciere en todas las cosas escritas en el libro de la ley, para hacerlas"**). Cristo se hizo **maldición por nosotros** en la cruz.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Ayo (Tutor)</h5>
+<ul>
+    <li><strong>Ayo (Paidagogos):</strong> En la cultura romana, el **tutor** era un esclavo o sirviente que vigilaba y acompañaba a un niño (no era el maestro, sino el que lo llevaba a la escuela).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Fe y Ley:</strong> La **fe** es el camino de la **promesa** (el pacto de Abraham); la **Ley** es el camino de la **maldición**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **bautismo** es la **identificación** con la fe de Abraham y la entrada al pacto de la promesa.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Ley es un espejo que revela el pecado</span>. La fe en Cristo es la única fuente de vida.</p>
             `,
@@ -48546,7 +56132,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esclavitud:</strong> Volver a la Ley es volver a la servidumbre.</li>
                     <li><strong>Alegoría:</strong> Agar (Sinaí) vs. Sara (Nueva Jerusalén).</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Adopción y la Alegoría de Agar y Sara</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Los Elementos del Mundo y la Libertad</h5>
+<ul>
+    <li><strong>La Minoría de Edad:</strong> El creyente bajo la Ley es como un **heredero** que, siendo niño (menor de edad), es como un **esclavo**.</li>
+    <li><strong>La Plenitud del Tiempo:</strong> Dios envió a Su Hijo en la **plenitud del tiempo** para redimir a los que estaban bajo la Ley.</li>
+    <li><strong>La Adopción:</strong> El Espíritu nos da un **"espíritu de adopción"** que nos permite llamar a Dios **"Abba, Padre"** (intimidad filial).</li>
+    <li><strong>La Alegoría:</strong> **Agar** (la esclava) representa el **monte Sinaí** y la **esclavitud de la Ley** (la Jerusalén actual). **Sara** (la libre) representa la **promesa** y la **Jerusalén de arriba** (la Iglesia).</li>
+    <li><strong>El Regreso:</strong> Pablo les advierte que si vuelven a las **obras de la Ley** (días, meses, fiestas), están volviendo a la **esclavitud**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Adopción y Herencia</h5>
+<ul>
+    <li><strong>Adopción Romana:</strong> El hijo adoptado (ya adulto) era legalmente un **heredero total**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Esclavitud y Libertad:</strong> El creyente es **hijo de la mujer libre** (Sara), y por lo tanto, debe vivir en **libertad** y **no** en la esclavitud.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **Espíritu Santo** es la **prueba** de que somos **hijos**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente es un hijo libre y heredero de Dios</span>, no un esclavo.</p>
             `,
@@ -48562,7 +56171,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obras de la Carne:</strong> Lo que contamina al hombre.</li>
                     <li><strong>Fruto del Espíritu:</strong> La evidencia de la vida de Cristo en el creyente.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Fruto del Espíritu vs. Las Obras de la Carne</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Circuncisión y la Lucha Interna</h5>
+<ul>
+    <li><strong>La Firmeza:</strong> La exhortación: **"Estad, pues, firmes en la libertad con que Cristo nos hizo libres, y no estéis otra vez sujetos al yugo de esclavitud"**.</li>
+    <li><strong>La Circuncisión:</strong> Si el creyente se **circuncida**, está obligado a **guardar toda la Ley** y se **separa de Cristo**.</li>
+    <li><strong>La Fe Activa:</strong> Lo que vale es **"la fe que obra por el amor"**.</li>
+    <li><strong>La Lucha:</strong> Hay un **conflicto constante** entre la **carne** (la naturaleza pecaminosa) y el **Espíritu**.</li>
+    <li><strong>El Fruto:</strong> Las **Obras de la Carne** (fornicación, adulterio, idolatría, pleitos, etc.) se contraponen al **Fruto del Espíritu** (amor, gozo, paz, paciencia, bondad, fe, mansedumbre, templanza).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Obligación</h5>
+<ul>
+    <li><strong>Ley y Pacto:</strong> Al circuncidarse por la Ley, el gentil estaba haciendo un **pacto legal** con la Ley de Moisés.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Carne y Espíritu:</strong> La **vida cristiana** es una **guerra espiritual** en la cual se debe andar en el Espíritu.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero discipulado** se evidencia en el **Fruto del Espíritu**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Espíritu Santo es el poder para vivir en santidad</span>. La fe se demuestra en el amor práctico.</p>
             `,
@@ -48578,7 +56210,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cosecha:</strong> Sembrar en la carne o en el Espíritu.</li>
                     <li><strong>Jactancia:</strong> Solo se debe jactar en la cruz de Cristo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Principio de la Cosecha y el Sello del Apóstol</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Ayudar y la Ley de Cristo</h5>
+<ul>
+    <li><strong>La Restauración:</strong> El creyente espiritual debe **restaurar** al hermano que haya caído en alguna falta, con **mansedumbre**.</li>
+    <li><strong>Las Cargas:</strong> El mandamiento de **"sobrellevad los unos las cargas de los otros"** (la **Ley de Cristo**, que es la ley del amor).</li>
+    <li><strong>La Siembra y la Cosecha:</strong> Un principio universal: **todo lo que el hombre sembrare, eso también segará** (aplicado a las buenas obras).</li>
+    <li><strong>La Doxología Final:</strong> El deseo de gloriarse solo en la **cruz de Cristo**.</li>
+    <li><strong>Las Marcas:</strong> Pablo concluye: **"Yo traigo en mi cuerpo las marcas del Señor Jesús"** (el sello de su autoridad y sufrimiento).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Marca del Esclavo</h5>
+<ul>
+    <li><strong>Marcas (Stigmata):</strong> Las **cicatrices** o **marcas de azotes** (evidencia de su sufrimiento y servicio a Cristo). | En el mundo antiguo, se marcaba a los esclavos con la marca de su amo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Gloria:</strong> La única **jactancia** lícita es la **Cruz de Cristo**, no la carne (circuncisión).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **generosidad** es la **siembra** que produce **vida eterna**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">servicio a Dios debe ser constante</span>. La fe se demuestra al sembrar en el Espíritu, buscando la eternidad.</p>
             `
@@ -48596,7 +56251,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Elección:</strong> El plan de Dios desde la eternidad.</li>
                     <li><strong>Supremacía:</strong> Cristo es la cabeza de la Iglesia y de todo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Plan Eterno de Dios y la Supremacía de Cristo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Elección y el Sello del Espíritu</h5>
+<ul>
+    <li><strong>Bendiciones:</strong> El capítulo es una larga doxología que alaba a Dios por todas las **bendiciones espirituales** en Cristo.</li>
+    <li><strong>Elección:</strong> Fuimos **escogidos en Cristo** antes de la fundación del mundo.</li>
+    <li><strong>Adopción:</strong> Fuimos **predestinados para ser adoptados** como hijos, según el puro afecto de Su voluntad.</li>
+    <li><strong>Redención y Perdón:</strong> Obtenemos la **redención por Su sangre** y el perdón de pecados.</li>
+    <li><strong>El Sello:</strong> El **Espíritu Santo** es la **garantía** (arras) de nuestra herencia.</li>
+    <li><strong>La Supremacía:</strong> Cristo es la **Cabeza** de la Iglesia, y todo está sujeto bajo Sus pies.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Éfeso y el Templo de Artemisa</h5>
+<ul>
+    <li><strong>Éfeso:</strong> Era la capital de Asia Menor, famosa por el **Templo de Artemisa** (Diana), una de las Siete Maravillas del Mundo Antiguo. Era un centro de magia y superstición.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Tiempo y Eternidad:</strong> El plan de Dios fue concebido en la **eternidad** y se manifestó en la **plenitud del tiempo**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **riqueza de la gracia** es el fundamento de la fe.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación es la obra de la Trinidad</span>. La esperanza está en la resurrección de Cristo.</p>
             `,
@@ -48612,7 +56291,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obras:</strong> No son el medio de salvación, sino el resultado.</li>
                     <li><strong>Unidad:</strong> Judíos y gentiles son un solo templo en el Espíritu.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: De Muertos a Ciudadanos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Gracia y la Nueva Edificación</h5>
+<ul>
+    <li><strong>La Condición:</strong> El creyente estaba **muerto en pecados** y siguiendo la corriente de este mundo (y el **príncipe de la potestad del aire**).</li>
+    <li><strong>La Salvación:</strong> Fuimos salvados por **gracia** por medio de la **fe**, y no por **obras** (para que nadie se gloríe).</li>
+    <li><strong>La Ciudadanía:</strong> Los gentiles estaban **sin Cristo, sin ciudadanía de Israel** y sin esperanza.</li>
+    <li><strong>La Unidad:</strong> Cristo **derribó la pared intermedia de separación** (la Ley), creando de dos pueblos (judío y gentil) **un solo y nuevo hombre**.</li>
+    <li><strong>La Edificación:</strong> La Iglesia es un **templo santo** edificado sobre el fundamento de los apóstoles y profetas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: El Templo de Herodes</h5>
+<ul>
+    <li><strong>La Pared:</strong> En el Templo de Jerusalén, una pared física separaba el atrio de los gentiles del atrio de los judíos. El mensaje es que esa barrera espiritual ha sido eliminada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Muerte y Vida:</strong> La **muerte espiritual** se contrasta con la **vida** que nos da Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El creyente es **"obra maestra"** de Dios (del griego *poiēma*).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">gracia de Dios es el único camino de la vida</span>. La Iglesia es el lugar de la unidad interracial.</p>
             `,
@@ -48628,7 +56330,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ministerio:</strong> Pablo, prisionero por los gentiles.</li>
                     <li><strong>Oración:</strong> Ser lleno de toda la plenitud de Dios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: De Muertos a Ciudadanos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Gracia y la Nueva Edificación</h5>
+<ul>
+    <li><strong>La Condición:</strong> El creyente estaba **muerto en pecados** y siguiendo la corriente de este mundo (y el **príncipe de la potestad del aire**).</li>
+    <li><strong>La Salvación:</strong> Fuimos salvados por **gracia** por medio de la **fe**, y no por **obras** (para que nadie se gloríe).</li>
+    <li><strong>La Ciudadanía:</strong> Los gentiles estaban **sin Cristo, sin ciudadanía de Israel** y sin esperanza.</li>
+    <li><strong>La Unidad:</strong> Cristo **derribó la pared intermedia de separación** (la Ley), creando de dos pueblos (judío y gentil) **un solo y nuevo hombre**.</li>
+    <li><strong>La Edificación:</strong> La Iglesia es un **templo santo** edificado sobre el fundamento de los apóstoles y profetas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: El Templo de Herodes</h5>
+<ul>
+    <li><strong>La Pared:</strong> En el Templo de Jerusalén, una pared física separaba el atrio de los gentiles del atrio de los judíos. El mensaje es que esa barrera espiritual ha sido eliminada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Muerte y Vida:</strong> La **muerte espiritual** se contrasta con la **vida** que nos da Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El creyente es **"obra maestra"** de Dios (del griego *poiēma*).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor de Cristo es incomprensible y eterno</span>. La Iglesia es la manifestación de la sabiduría de Dios.</p>
             `,
@@ -48645,7 +56370,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Madurez:</strong> Ya no ser niños fluctuantes.</li>
                     <li><strong>Nueva Vida:</strong> Despojarse del viejo hombre y vestirse del nuevo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Andar Digno y la Madurez del Cuerpo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Los Dones del Cuerpo y el Nuevo Hombre</h5>
+<ul>
+    <li><strong>El Andar:</strong> La exhortación a **andar** (**vivir**) **dignamente** de la vocación.</li>
+    <li><strong>La Unidad:</strong> Hay **un solo cuerpo, un Espíritu, una esperanza, un Señor, una fe, un bautismo, un Dios y Padre de todos** (el fundamento de la unidad).</li>
+    <li><strong>Los Dones:</strong> Cristo dio **dones a los hombres** (apóstoles, profetas, evangelistas, pastores y maestros) para **perfeccionar a los santos** para la obra del ministerio.</li>
+    <li><strong>La Madurez:</strong> La meta es la **unidad de la fe** y llegar a la **medida de la estatura de la plenitud de Cristo**.</li>
+    <li><strong>El Lenguaje:</strong> Exhortación a desechar la mentira y hablar **"la verdad en amor"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Mentira y la Cólera</h5>
+<ul>
+    <li><strong>Costumbres Paganos:</strong> La mentira y la cólera eran parte de la vida cotidiana. Pablo les ordena **despojarse del viejo hombre** y **vestirse del nuevo**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Viejo y Nuevo:</strong> El **viejo hombre** (corrupción) debe ser reemplazado por el **nuevo hombre** (justicia y santidad).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **unidad** se mantiene con **humildad, mansedumbre y paciencia**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente debe crecer espiritualmente</span> hasta la medida de la estatura de la plenitud de Cristo.</p>
             `,
@@ -48661,7 +56409,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Llenura:</strong> Ser lleno del Espíritu Santo (un mandato).</li>
                     <li><strong>Matrimonio:</strong> El misterio de Cristo y la Iglesia.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Andar en Amor, Luz y Sabiduría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Amor Sacrificial y el Matrimonio</h5>
+<ul>
+    <li><strong>Imitación:</strong> El creyente debe ser **imitador de Dios** como hijo amado y **andar en amor** (la prueba del discipulado).</li>
+    <li><strong>La Luz:</strong> Antes éramos **tinieblas**, ahora somos **luz en el Señor**; por lo tanto, debemos andar como **hijos de luz**.</li>
+    <li><strong>El Espíritu:</strong> La prohibición de **emborracharse** con vino y la orden de ser **llenos del Espíritu** (a través de salmos, himnos y cánticos espirituales).</li>
+    <li><strong>El Matrimonio:</strong> El **marido debe amar a su mujer como Cristo amó a la Iglesia** y se entregó por ella (el estándar es el amor sacrificial).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Familiar: El Código de Casa (Haustafel)</h5>
+<ul>
+    <li>**Códigos de Casa:** Las secciones 5:22-6:9 son parte de un patrón común en las epístolas (también Colosenses) que detallan las **relaciones jerárquicas** de la casa: mujer/marido, hijos/padres, siervos/amos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Mundo y Cristo:</strong> La **inmoralidad y la necedad** del mundo se contrastan con la **sabiduría** y el **amor** de Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **plenitud del Espíritu** es la fuente de la adoración y el sometimiento mutuo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">matrimonio es el reflejo terrenal de la relación entre Cristo y Su Iglesia</span>.</p>
             `,
@@ -48677,7 +56447,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Guerra:</strong> La lucha no es contra carne y sangre.</li>
                     <li><strong>Armadura:</strong> La provisión de Dios para la batalla espiritual.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Autoridad y la Guerra Espiritual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Armadura de Dios</h5>
+<ul>
+    <li><strong>Los Hijos:</strong> El mandamiento para los **hijos** es **obedecer a los padres** (la primera promesa).</li>
+    <li><strong>Los Amos:</strong> Los **amos** deben tratar bien a sus **siervos** (sabiendo que ellos también tienen un Amo en los cielos).</li>
+    <li><strong>La Guerra:</strong> El creyente está en una **guerra espiritual** contra **principados, potestades y huestes espirituales de maldad**.</li>
+    <li><strong>La Armadura:</strong> La exhortación a tomar toda la **Armadura de Dios** (el equipo militar del soldado romano). </li>
+    <li><strong>La Oración:</strong> Se requiere **oración** con **"todo ruego y súplica"** por todos los santos, y especialmente por Pablo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Soldado Romano</h5>
+<ul>
+    <li><strong>Armadura:</strong> Cada pieza (cinto, coraza, calzado, escudo, yelmo, espada) corresponde al **equipo real** de un soldado romano, usado aquí como metáfora teológica.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Carne y Espíritu:</strong> La lucha no es contra **sangre y carne** (enemigos humanos), sino contra **fuerzas espirituales**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es la **Espada del Espíritu**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente debe estar preparado para la batalla espiritual</span>. La vida de fe exige oración y la Palabra.</p>
             `
@@ -48695,7 +56488,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Dilema de Pablo:</strong> Morir para estar con Cristo o vivir para el ministerio.</li>
                     <li><strong>Perseverancia:</strong> Permanecer firme en el Evangelio.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Gozo en Medio de las Cadenas</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Fidelidad y la Confianza</h5>
+<ul>
+    <li><strong>La Asociación:</strong> Pablo escribe a los **santos, obispos y diáconos** de Filipos (una iglesia que ayudó financieramente a Pablo).</li>
+    <li><strong>El Vínculo:</strong> Pablo está convencido de que Dios terminará la **buena obra** que comenzó en ellos.</li>
+    <li><strong>Las Cadenas:</strong> Pablo ve sus **cadenas** (su encarcelamiento en Roma) como una **oportunidad** para que el evangelio se propague.</li>
+    <li><strong>La Predicación:</strong> Incluso si algunos predican a Cristo por **contienda o envidia**, Pablo se regocija de que Cristo sea anunciado.</li>
+    <li><strong>El Dilema:</strong> Su conflicto personal: **"El vivir es Cristo, y el morir es ganancia"**. El deseo de partir y estar con Cristo se contrapone a la necesidad de permanecer por el bien de la Iglesia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Colonia Romana</h5>
+<ul>
+    <li><strong>Filipos:</strong> Era una **colonia romana** con privilegios cívicos (sus ciudadanos eran romanos). Por eso Pablo apela a su **ciudadanía celestial** (Cap. 3).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Vida y Muerte:</strong> La **vida** es servicio a Cristo; la **muerte** es ganancia personal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sufrimiento** del apóstol promueve el **avance del evangelio**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida del creyente debe centrarse totalmente en Cristo</span>, haciendo del sufrimiento una oportunidad para la misión.</p>
                 
@@ -48715,7 +56531,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Kénosis:</strong> El despojamiento de Cristo.</li>
                     <li><strong>Exaltación:</strong> La recompensa de la obediencia de Cristo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Humillación de Cristo (Kenosis)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Mente de Cristo y la Obediencia</h5>
+<ul>
+    <li><strong>La Exhortación:</strong> El llamado a la **unidad** y a la **humildad**: no hacer nada por contienda o vanagloria, sino con humildad.</li>
+    <li><strong>La Mente de Cristo:</strong> Pablo presenta el **ejemplo de Jesucristo** (el famoso pasaje de la *Kenosis*, "vaciamiento").</li>
+    <li><strong>El Vaciamiento:</strong> Cristo, siendo **Dios (en forma de Dios)**, **no estimó el ser igual a Dios como cosa a qué aferrarse**, sino que se **despojó a Sí mismo** y tomó forma de **siervo**.</li>
+    <li><strong>La Exaltación:</strong> Por Su obediencia hasta la **muerte en la cruz**, Dios lo **exaltó hasta lo sumo** y le dio un **nombre sobre todo nombre**.</li>
+    <li><strong>Luz en el Mundo:</strong> Los creyentes deben brillar como **luminares** en medio de una generación maligna y perversa.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Teológico: El Kenosis</h5>
+<ul>
+    <li><strong>Kenosis (κένωσις):</strong> Es el acto por el cual Cristo, al encarnarse, **se despojó** de Sus privilegios divinos inherentes, pero no de Su naturaleza divina.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Humillación y Exaltación:</strong> La **obediencia y humillación** de Cristo condujeron a Su **glorificación** universal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **salvación** se trabaja **"con temor y temblor"** (el proceso de santificación).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humildad de Cristo es el modelo de la ética cristiana</span>. La obediencia conduce a la gloria.</p>
                 
@@ -48735,7 +56574,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Justicia por la Fe:</strong> La única justicia aceptable ante Dios.</li>
                     <li><strong>Meta:</strong> Proseguir hacia el conocimiento de Cristo y la vida eterna.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Peligro de los Judaizantes (Los Perros)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Pérdida y el Blanco</h5>
+<ul>
+    <li><strong>La Advertencia:</strong> Pablo advierte fuertemente contra los **"perros"** (término despectivo para los enemigos), los **"malos obreros"** y los **"mutiladores del cuerpo"** (los judaizantes que promovían la circuncisión).</li>
+    <li><strong>Las Credenciales:</strong> Pablo enumera sus propias credenciales judaicas (circuncidado al octavo día, de la tribu de Benjamín, fariseo, irreprensible según la Ley).</li>
+    <li><strong>La Basura:</strong> Considera todas sus credenciales como **"pérdida"** y **"basura"** (estiércol) a causa de la **excelencia de Cristo**.</li>
+    <li><strong>El Objetivo:</strong> El objetivo de Pablo es **conocer a Cristo**, participar de Sus padecimientos y alcanzar la **resurrección de los muertos**.</li>
+    <li><strong>La Ciudadanía:</strong> Nuestra **ciudadanía** está en los **cielos** (una apelación a los ciudadanos de la colonia romana de Filipos).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Basura (Skýbala)</h5>
+<ul>
+    <li><strong>Skýbala (σκύβαλα):</strong> El término griego es fuerte y significa **excremento** o desperdicios. Pablo lo usa para denotar el **desprecio total** por el mérito humano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Justicia:</strong> La **justicia propia** (por la Ley) se contrasta con la **justicia de Dios** (por la fe).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **pasado** se olvida para **proseguir al blanco** (el premio del supremo llamamiento).
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justificación es solo por la fe</span>. El creyente debe buscar constantemente la semejanza de Cristo.</p>
                 
@@ -48755,7 +56617,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Contentamiento:</strong> Vivir con suficiencia en cualquier circunstancia.</li>
                     <li><strong>Sustento:</strong> Dios suple las necesidades del creyente por Sus riquezas en gloria.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Paz, el Pensamiento y el Contentamiento</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Oración y la Ofrenda</h5>
+<ul>
+    <li><strong>La Reconciliación:</strong> Pablo pide que **Evodia y Síntique** (dos mujeres líderes que estaban en desacuerdo) sean **reconciliadas** y ayuden a Clemente (el llamado a la unidad práctica).</li>
+    <li><strong>El Gozo:</strong> El mandamiento central: **"Regocijaos en el Señor siempre"**.</li>
+    <li><strong>La Paz:</strong> La **oración** (ruego, petición y acción de gracias) trae la **paz de Dios**, que **sobrepasa todo entendimiento**.</li>
+    <li><strong>El Pensamiento:</strong> La exhortación a llenar la mente con cosas **verdaderas, honestas, justas, puras, amables y de buen nombre**.</li>
+    <li><strong>El Contentamiento:</strong> Pablo testifica que ha aprendido a **contentarse** en cualquier situación (**saber vivir en escasez y en abundancia**).</li>
+    <li><strong>La Provisión:</strong> El famoso pasaje: **"Todo lo puedo en Cristo que me fortalece"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Financiero: El Sustento del Apóstol</h5>
+<ul>
+    <li><strong>La Ofrenda:</strong> Pablo agradece la **generosidad** de los filipenses, que fue una ofrenda "agradable a Dios" (el único apoyo que recibió mientras estaba en Tesalónica).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Ansiedad y Paz:</strong> La **ansiedad** (afán) se contrasta con la **paz** que se obtiene por la **oración**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **dependencia de Cristo** es la fuente de la **fuerza** y el **contentamiento** en todas las circunstancias.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">contentamiento es la prueba de que el poder de Cristo es suficiente</span> en cualquier situación.</p>
                 
@@ -48777,7 +56663,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cabeza de la Iglesia:</strong> Cristo es la autoridad total de la Iglesia.</li>
                     <li><strong>Reconciliación:</strong> La paz se hizo por la sangre de Su cruz.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Supremacía de Cristo y la Oración por la Sabiduría</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Imagen de Dios y el Primogénito</h5>
+<ul>
+    <li><strong>La Persona de Cristo:</strong> Pablo afirma la preeminencia de Jesús. Cristo es la **"imagen del Dios invisible"** y el **"Primogénito de toda la creación"** (el agente creador).</li>
+    <li><strong>La Creación:</strong> Por medio de Él fueron creadas **todas las cosas** (cielos, tierra, visibles e invisibles, tronos, dominios, principados).</li>
+    <li><strong>La Redención:</strong> Cristo es la **cabeza del cuerpo** (la Iglesia) y el **Primogénito de entre los muertos** (el agente redentor).</li>
+    <li><strong>La Reconciliación:</strong> Dios reconcilió consigo todas las cosas por medio de la sangre de la cruz.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: Plenitud y Seres Invisibles</h5>
+<ul>
+    <li><strong>Plenitud (Plērōma):</strong> En Cristo **"habita toda la plenitud"** (la respuesta directa a los místicos que buscaban la "plenitud" a través de ángeles o rituales).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Oscuridad y Luz:</strong> El creyente fue **rescatado de la potestad de las tinieblas** y **trasladado al reino del Hijo** (la victoria espiritual).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Cristo es la **cabeza de la Iglesia** y el **fundamento de la existencia**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">plena Deidad reside en Cristo</span>. La salvación es la reconciliación total entre Dios y el hombre.</p>
                 
@@ -48797,7 +56705,34 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ascetismo:</strong> La falsa piedad no tiene valor para refrenar la carne.</li>
                     <li><strong>Ley Anulada:</strong> Cristo clavó la deuda de la Ley en la cruz.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Advertencia contra el Legalismo y la Herejía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Circuncisión y los Días de Reposo</h5>
+<ul>
+    <li><strong>El Yugo:</strong> Pablo advierte contra ser **engañados por filosofías vanas** y **tradiciones de hombres**.</li>
+    <li><strong>La Heresía:</strong> La herejía de Colosas se centraba en tres áreas:
+        <ol>
+            <li>**Legalismo:** La observancia de **días de reposo, lunas nuevas y fiestas** (la sombra de lo que había de venir).</li>
+            <li>**Ascetismo:** La **humillación de sí mismo** y el **duro trato del cuerpo** (disciplina innecesaria).</li>
+            <li>**Misticismo:** La **adoración de ángeles** y la búsqueda de visiones (la intervención de seres inferiores).</li>
+        </ol>
+    </li>
+    <li><strong>La Circuncisión Espiritual:</strong> La circuncisión es ahora **espiritual** (despojo del cuerpo de pecado) en el bautismo, no un rito físico.</li>
+</ul>
+
+<h5 style="color #ff6b6b;>⚔️ Contexto Religioso: Elementos del Mundo</h5>
+<ul>
+    <li><strong>Elementos:</strong> Los **"rudimentos del mundo"** (elementos básicos o espíritus elementales) que la herejía promovía.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Suficiencia:</strong> Cristo es la **cabeza del cuerpo** y la **plenitud**; por lo tanto, no se necesita nada más.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Cristo **anuló el acta de los decretos** (la Ley ceremonial) clavándola en la cruz.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente debe depender solo de Cristo</span>, rechazando todo sistema humano de salvación o santificación.</p>
                 
@@ -48817,7 +56752,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Viejo Hombre:</strong> Despojarse de las prácticas inmorales y carnales.</li>
                     <li><strong>Nuevo Hombre:</strong> Vestirse de las virtudes de Cristo (el amor).</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Vestirse del Nuevo Hombre y la Ética del Hogar</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Resurrección y la Transformación Interior</h5>
+<ul>
+    <li><strong>El Enfoque:</strong> El creyente debe buscar las **cosas de arriba**, donde Cristo está sentado a la diestra de Dios.</li>
+    <li><strong>El Despojo:</strong> La exhortación a **despojarse del viejo hombre** (vicios como la ira, la mentira y la fornicación).</li>
+    <li><strong>El Revestimiento:</strong> La exhortación a **revestirse del nuevo hombre** (virtudes como la misericordia, la humildad y el amor).</li>
+    <li><strong>La Unidad:</strong> En Cristo no hay **griego ni judío, circuncisión ni incircuncisión, bárbaro ni escita, siervo ni libre** (la eliminación de las barreras sociales y raciales).</li>
+    <li><strong>El Hogar:</strong> Se instruye sobre las **relaciones del hogar** (mujeres, maridos, hijos, padres) bajo la autoridad de Cristo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El "Bárbaro" y el Escita</h5>
+<ul>
+    <li><strong>Escita:</strong> Los escitas eran considerados la **clase más primitiva** y bárbara. Pablo los incluye en el cuerpo de Cristo para enfatizar la unidad radical.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paz:</strong> La **paz de Dios** debe **gobernar** en los corazones.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **amor** es el vínculo perfecto que une todas las virtudes.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santificación es una elección diaria de vestirse de la nueva identidad</span> en Cristo.</p>
                 
@@ -48837,7 +56795,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Testimonio:</strong> Hablar con gracia y sal (sabiduría) a los de afuera.</li>
                     <li><strong>Colaboración:</strong> La diversidad de los compañeros de Pablo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Servicio a los Amos y el Cierre Apostólico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Servicio, la Oración y la Sabiduría</h5>
+<ul>
+    <li><strong>Los Amos y Siervos:</strong> Los **siervos** deben obedecer, y los **amos** deben tratar a los siervos con justicia (sabiendo que ambos tienen un Amo en el cielo).</li>
+    <li><strong>La Oración:</strong> La exhortación a **perseverar en la oración** y a **velar** con acción de gracias.</li>
+    <li><strong>La Palabra:</strong> El creyente debe **andar sabiamente** con los de fuera y **sazonar la palabra con sal** (hacerla agradable y con gracia).</li>
+    <li><strong>Compañeros:</strong> Pablo nombra a sus compañeros (Tíquico, Onésimo, Aristarco, Marcos, Lucas), revelando la **red de apoyo** de su ministerio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Esclavitud y la Sal</h5>
+<ul>
+    <li><strong>Esclavitud:</strong> La relación amo-siervo era el eje de la economía. Pablo la transforma con el **principio de la reciprocidad** bajo Cristo.</li>
+    <li><strong>Sal:</strong> La sal se usaba para **sazonar y conservar** (la palabra debe ser nutritiva y clara).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Lo Externo:</strong> El **andar sabio** es el testimonio más importante ante el mundo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **servicio** en la Tierra es una **inversión** en el Reino Celestial.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">comunicación del Evangelio debe ser sabia y oportuna</span>. La vida de fe exige oración constante.</p>
                 
@@ -48859,7 +56840,24 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Conversión:</strong> El abandono de la idolatría.</li>
                     <li><strong>Esperanza:</strong> La espera de Cristo, quien nos libra de la ira venidera.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Conversión y Ejemplo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Obra del Espíritu</h5>
+<ul>
+    <li><strong>Alabanza:</strong> Pablo elogia a los tesalonicenses por su **obra de fe**, su **trabajo de amor** y su **constancia de esperanza**.</li>
+    <li><strong>Conversión:</strong> Recuerda cómo se **convirtieron de los ídolos** al Dios vivo y verdadero, y cómo su fe se ha difundido por toda Macedonia y Acaya.</li>
+    <li><strong>La Espera:</strong> La esencia de su fe es **esperar la Segunda Venida del Hijo de Dios** (Jesús) de los cielos, quien nos libra de la ira venidera.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Persecución</h5>
+<ul>
+    <li><strong>Tesalónica:</strong> Ciudad importante en la Vía Egnatia, centro de comercio. La persecución vino de los **judíos celosos** y también de los **paganos** que rechazaban el monoteísmo cristiano.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Ídolos y Dios Vivo:</strong> El paso de la **idolatría inútil** a un **servicio activo** y lleno de esperanza.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe genuina se evidencia en el amor práctico</span> y la firme esperanza en el regreso de Cristo.</p>
                 
@@ -48879,7 +56877,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ternura:</strong> El amor pastoral de Pablo.</li>
                     <li><strong>Poder de la Palabra:</strong> La Palabra de Dios obra eficazmente en los creyentes.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Ministerio de Pablo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Integridad Pastoral</h5>
+<ul>
+    <li><strong>Defensa:</strong> Pablo defiende la **integridad** de su ministerio, asegurando que su predicación no fue por **engaño, inmundicia o fraude**.</li>
+    <li><strong>Paternidad:</strong> Recalca que trató a la iglesia como un **padre** a sus hijos, exhortando, animando y rogando.</li>
+    <li><strong>El Gozo:</strong> A pesar de la persecución y las pruebas, los tesalonicenses son su **gloria y gozo**.</li>
+    <li><strong>Timoteo:</strong> Pablo envió a **Timoteo** para confortarlos y fortalecerlos en la fe, a fin de que la **tribulación** no los moviera.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Falsos Maestros</h5>
+<ul>
+    <li><strong>Motivación:</strong> Los falsos maestros solían predicar para obtener **ganancia financiera** o fama. Pablo se defiende aludiendo a que trabajó con sus propias manos para no ser carga.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Engaño y Sinceridad:** La **motivación pura** de un apóstol que trabaja por amor, en contraste con los **charlatanes** que buscan lucro.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">eficacia del ministerio reside en la Palabra de Dios</span> y la integridad del mensajero.</p>
                 
@@ -48899,7 +56915,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo:</strong> La alegría del ministro por la perseverancia de la Iglesia.</li>
                     <li><strong>Confirmación:</strong> Ser afirmados en la santidad para la Venida.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Ministerio de Pablo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Integridad Pastoral</h5>
+<ul>
+    <li><strong>Defensa:</strong> Pablo defiende la **integridad** de su ministerio, asegurando que su predicación no fue por **engaño, inmundicia o fraude**.</li>
+    <li><strong>Paternidad:</strong> Recalca que trató a la iglesia como un **padre** a sus hijos, exhortando, animando y rogando.</li>
+    <li><strong>El Gozo:</strong> A pesar de la persecución y las pruebas, los tesalonicenses son su **gloria y gozo**.</li>
+    <li><strong>Timoteo:</strong> Pablo envió a **Timoteo** para confortarlos y fortalecerlos en la fe, a fin de que la **tribulación** no los moviera.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Falsos Maestros</h5>
+<ul>
+    <li><strong>Motivación:</strong> Los falsos maestros solían predicar para obtener **ganancia financiera** o fama. Pablo se defiende aludiendo a que trabajó con sus propias manos para no ser carga.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Engaño y Sinceridad:** La **motivación pura** de un apóstol que trabaja por amor, en contraste con los **charlatanes** que buscan lucro.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento es parte normal de la vida cristiana</span>. La fe se demuestra al perseverar en la aflicción.</p>
                 
@@ -48919,7 +56953,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Esperanza:</strong> No entristecerse por los muertos como los que no tienen esperanza.</li>
                     <li><strong>Arrebatamiento:</strong> El encuentro de la Iglesia con Cristo en el aire.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Santificación y la Parousia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Voluntad de Dios</h5>
+<ul>
+    <li><strong>Santidad:</strong> La voluntad de Dios es la **santificación** del creyente, incluyendo la **abstención de fornicación** y el **saber usar el propio cuerpo con santidad y honor**.</li>
+    <li><strong>Trabajo:</strong> Exhortación a **trabajar en silencio** con las propias manos y a tener una vida honrada ante los de afuera.</li>
+    <li>**El Arrebatamiento:** La sección clave: Pablo responde a la preocupación por los **creyentes que han muerto** antes de la Segunda Venida (el temor de que se hayan perdido la bendición).</li>
+    <li>**La Promesa:** Cuando Cristo regrese:
+        <ol>
+            <li>El Señor descenderá del cielo con voz de arcángel.</li>
+            <li>Los **muertos en Cristo resucitarán primero**.</li>
+            <li>Luego, los **creyentes vivos** serán **arrebatados** (del griego *harpazō*, "ser tomados por la fuerza") con ellos en las nubes.</li>
+        </ol>
+    </li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: El Cuerpo y el Espíritu</h5>
+<ul>
+    <li>**Grecia:** En la cultura helénica, el cuerpo era visto a menudo como algo **malo** o una prisión para el alma. Pablo enfatiza el cuidado y la santidad del **cuerpo** (honrar a Dios con él).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Tristeza y Consuelo:** La **esperanza** en la resurrección anula la **tristeza** de la pérdida.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">esperanza del regreso de Cristo motiva la pureza y la consolación</span> en la pérdida de los seres queridos.</p>
                 
@@ -48939,7 +56997,32 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Gozo:</strong> La perseverancia en la alegría a pesar de las circunstancias.</li>
                     <li><strong>Trinidad:</strong> La santificación completa del cuerpo, alma y espíritu.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Velar y Estar Preparado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Súbita Venida</h5>
+<ul>
+    <li>**El Día del Señor:** Vendrá **"como ladrón en la noche"** (súbitamente) para los **incrédulos** (los que dicen: "paz y seguridad").</li>
+    <li>**Los Hijos de Luz:** Los creyentes, al ser **"hijos de luz y del día"**, no deben ser sorprendidos; deben **velar y ser sobrios**.</li>
+    <li>**Exhortaciones:** Mandamientos finales y prácticos (la conclusión más extensa de todas las epístolas de Pablo):
+        <ul>
+            <li>Estad siempre **gozosos**.</li>
+            <li>Orad **sin cesar**.</li>
+            <li>Dad **gracias en todo**.</li>
+            <li>No **apaguéis al Espíritu**.</li>
+            <li>Examinadlo todo y retened lo **bueno**.</li>
+        </ul>
+    </li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: La Vigilancia</h5>
+<ul>
+    <li>**Sobriedad:** Pablo usa lenguaje militar: el creyente debe **vestirse con la coraza** de fe y amor y con el **yelmo** de la esperanza de salvación (vigilancia constante).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Sueño y Vigilia:** La **vigilancia espiritual** evita ser sorprendido por el juicio.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida de fe es una preparación constante</span>. El Espíritu Santo debe ser el poder de la vida diaria.</p>
                 
@@ -48961,7 +57044,24 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> El regreso de Cristo traerá venganza sobre los impíos.</li>
                     <li><strong>Gloria:</strong> Los creyentes serán glorificados con Cristo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Retribución Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio de Dios</h5>
+<ul>
+    <li><strong>Alivio:</strong> Pablo da consuelo a la iglesia que sufre **persecución y tribulación**.</li>
+    <li><strong>Justicia:</strong> Afirma que el **juicio de Dios es justo**: dará **retribución** a los que los persiguen y **descanso** a los que sufren.</li>
+    <li><strong>La Manifestación:</strong> Cristo vendrá **con Sus ángeles** en llama de fuego para dar **venganza** a los que no conocieron a Dios ni obedecieron el evangelio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Venganza (Dikē)</h5>
+<ul>
+    <li>**Venganza:** El término griego (*ekdikēsis*) denota **juicio justo** y castigo retributivo que viene de una fuente legítima (Dios), no una venganza personal.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Tribulación y Descanso:** El **sufrimiento temporal** del creyente se contrasta con el **descanso eterno** y la manifestación de la gloria de Cristo.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento presente es temporal</span>. El juicio de Dios es justo y trae reposo al perseguido.</p>
                 
@@ -48981,7 +57081,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Anticristo:</strong> La manifestación del Hombre de Pecado.</li>
                     <li><strong>El que Detiene:</strong> La fuerza que impide la manifestación del mal.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Engaño del Falso Profeta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Secuencia de Eventos Finales</h5>
+<ul>
+    <li><strong>La Confusión:</strong> Pablo corrige la idea de que el **Día del Señor** ya había llegado (o que ellos lo estaban viviendo).</li>
+    <li>**Prerrequisitos:** El Día del Señor **no vendrá** sin que antes sucedan dos cosas:
+        <ol>
+            <li>La **apostasía** (la rebelión, un apartamiento masivo de la fe).</li>
+            <li>La revelación del **hombre de pecado** (el Anticristo), el hijo de perdición, que se sentará en el templo de Dios como Dios.</li>
+        </ol>
+    </li>
+    <li>**El Obstáculo:** Hay un **"lo que detiene"** y un **"quien lo detiene"** (el *katechon*) que impide la manifestación del hombre de pecado hasta que sea quitado.</li>
+    <li>**La Destrucción:** Este impío será destruido con el **espíritu de la boca de Jesús** en Su venida.</li>
+    <li>**El Consuelo:** Pablo les exhorta a **permanecer firmes** en las tradiciones aprendidas.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Político: El Katechon</h5>
+<ul>
+    <li>**Katechon (κατέχων):** La identidad del "obstáculo" es muy debatida: el Espíritu Santo, el Imperio Romano, o un agente humano. El punto es que existe una **fuerza que restringe** el mal final.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Verdad y Engaño:** El **poder de la mentira** (del hombre de pecado) se contrasta con la **verdad que santifica** (la elección divina).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera fe debe ser probada y protegida del engaño</span>. La Palabra de Dios es el único medio de santificación.</p>
                 
@@ -49001,7 +57125,26 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Trabajo:</strong> La ética laboral es fundamental.</li>
                     <li><strong>Disciplina:</strong> Advertir al desordenado y separarse del que no se arrepiente.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Problema de la Ociosidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Trabajar y Comer</h5>
+<ul>
+    <li><strong>Oración:</strong> Pablo pide que oren por él y por la **liberación de hombres perversos y malos**.</li>
+    <li>**El Desorden:** Pablo aborda un problema ético grave: los creyentes **ociosos** que habían dejado de trabajar porque creían que la Segunda Venida era **inminente**.</li>
+    <li>**La Regla:** El mandamiento: **"Si alguno no quiere trabajar, tampoco coma"**.</li>
+    <li>**La Disciplina:** Se instruye a la iglesia a **apartarse** del que anda desordenadamente, pero **no tenerlo por enemigo**, sino amonestarlo como a un hermano.</li>
+    <li>**La Paz:</strong> El deseo final es que el Señor de paz les dé **paz en todo tiempo** y en toda manera.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Ociosidad</h5>
+<ul>
+    <li>**Trabajo:** En una sociedad donde la mendicidad y el parasitismo eran mal vistos, la ociosidad de los cristianos era un **mal testimonio** ante los paganos y una carga para la comunidad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li>**Desorden y Orden:** La **vida desordenada** se opone al **ejemplo de Pablo** y la ética del trabajo.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">esperanza de la Venida no debe fomentar la pereza</span>, sino la diligencia y el orden.</p>
                 
@@ -49023,7 +57166,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Propósito de la Ley:</strong> Revelar el pecado, no justificar.</li>
                     <li><strong>Misericordia de Cristo:</strong> La paciencia de Dios para con el principal de los pecadores (Pablo).</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Peligro del Legalismo y la Genealogía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley como Guía y la Falsa Enseñanza</h5>
+<ul>
+    <li><strong>Falsas Doctrinas:</strong> Pablo confronta las **fábulas, genealogías interminables** y **disputas de la Ley** (un sincretismo judío-gnóstico).</li>
+    <li><strong>El Propósito de la Ley:</strong> La Ley es **buena**, pero no fue dada para los justos, sino para los **impíos** (asesinos, fornicarios, etc.).</li>
+    <li><strong>El Testimonio:</strong> Pablo se identifica como el **"principal de los pecadores"** para ilustrar la **abundante misericordia** de Cristo.</li>
+    <li><strong>La Disciplina:</strong> Pablo entregó a **Himeneo y Alejandro** a Satanás para que aprendieran a no blasfemar (disciplina eclesiástica severa).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Genealogías</h5>
+<ul>
+    <li><strong>Genealogías:</strong> El énfasis exagerado en los linajes era una práctica común en el judaísmo helenista para establecer el estatus y la pureza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Amor y Conciencia:</strong> La meta de la enseñanza es el **amor** que nace de un **corazón puro**, de **buena conciencia** y de **fe no fingida**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El Evangelio se basa en la **gracia** (la venida de Cristo), no en el **mérito** de la Ley.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera enseñanza promueve el amor y la pureza</span>, no la contienda ni el intelectualismo vacío.</p>
                 
@@ -49043,7 +57208,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Salvación:</strong> La voluntad universal y redentora de Dios.</li>
                     <li><strong>Roles:</strong> El orden de Dios para el culto y la enseñanza.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Oración Universal y el Rol de la Mujer</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Oración y el Mediador</h5>
+<ul>
+    <li><strong>La Oración:</strong> Se ordena hacer **súplicas, oraciones, intercesiones y acciones de gracias** por **todos los hombres**, especialmente por **reyes y autoridades** (el gobierno romano).</li>
+    <li><strong>El Mediador:</strong> Se afirma que hay **un solo Dios** y **un solo Mediador** entre Dios y los hombres: **Jesucristo hombre**.</li>
+    <li><strong>Las Mujeres:</strong> Se instruye a las mujeres a vestirse con **ropa decorosa, pudor y modestia** (contra la ostentación).</li>
+    <li><strong>El Silencio:</strong> La mujer debe aprender en silencio y con sujeción. La razón se remonta a la **Creación** (Adán fue formado primero) y la **Caída** (Eva fue engañada primero).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Vestido y Autoridad</h5>
+<ul>
+    <li><strong>Vestido:</strong> El vestido se contrasta con el **oro, perlas y vestidos costosos** (símbolo de ostentación y riqueza).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Deseo:</strong> El deseo de Dios es que **todos los hombres sean salvos** y vengan al conocimiento de la verdad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **oración por el gobierno** es esencial para asegurar un ambiente de paz para el evangelio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">culto debe ser ordenado y reverente</span>, reflejando la autoridad y el diseño de Dios en la creación.</p>
                 
@@ -49063,7 +57250,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obispado:</strong> Una obra noble.</li>
                     <li><strong>Misterio de la Piedad:</strong> Cristo manifestado en carne y recibido en gloria.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Estándares de Liderazgo Eclesiástico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley Sacerdotal y el Orden</h5>
+<ul>
+    <li><strong>El Obispo (Episkopos):</strong> El obispo (supervisor o anciano) debe ser **marido de una sola mujer** (monogamia y fidelidad conyugal).</li>
+    <li><strong>La Casa:</strong> El obispo debe ser capaz de **gobernar bien su propia casa** (la prueba de su capacidad para gobernar la iglesia).</li>
+    <li><strong>La Reputación:</strong> Debe tener **buen testimonio** de los de **afuera** (los no cristianos) para que no caiga en deshonra.</li>
+    <li><strong>El Diácono (Diakonos):</strong> Los diáconos (servidores) y sus esposas deben ser **honestos, no codiciosos** y **servidores fieles**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El "Neófito"</h5>
+<ul>
+    <li><strong>Neófito:</strong> El neófito (recién convertido) no puede ser obispo para evitar que **se envanezca** (orgullo) y caiga en el juicio del diablo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Servicio:</strong> El **diácono** que sirve bien **"gana para sí un grado honroso"** y gran confianza en la fe.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **misterio de la piedad** es Cristo manifestado en carne, justificado por el Espíritu.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">liderazgo de la Iglesia debe basarse en el carácter piadoso</span> y la administración fiel.</p>
                 
@@ -49083,7 +57292,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Ascetismo Falso:</strong> Prohibiciones inútiles que desprecian la creación de Dios.</li>
                     <li><strong>Disciplina Ministerial:</strong> El ejercicio espiritual y la dedicación a la Palabra.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Herejía Ascética (Gnosticismo Incipiente)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Postrera Apostasía y la Doctrina Demoníaca</h5>
+<ul>
+    <li><strong>La Apostasía:</strong> Se advierte que, en los **últimos tiempos**, algunos **apostatarán de la fe**.</li>
+    <li><strong>Doctrinas de Demonios:</strong> Las falsas enseñanzas son el **prohibir casarse** y el **mandar abstenerse de alimentos** (elementos ascéticos de origen gnóstico o legalista).</li>
+    <li><strong>La Creación:</strong> Toda la **creación** es **buena** y debe recibirse con acción de gracias.</li>
+    <li><strong>El Ejemplo:</strong> Timoteo debe ser **ejemplo** de los creyentes en **palabra, conducta, amor, espíritu, fe y pureza**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: El Ascetismo</h5>
+<ul>
+    <li><strong>Ascetismo:</strong> La creencia de que la **materia es mala** (gnosticismo), llevando a prácticas de auto-negación (celibato, dieta estricta).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Piedad y Ejercicio:</strong> El **ejercicio corporal** para la salud es de **poco provecho**; la **piedad** es provechosa para todo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **trabajo y la esperanza** son necesarios para el ministerio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">piedad genuina es provechosa para esta vida y la venidera</span>, no las prácticas externas y vanas.</p>
                 
@@ -49103,7 +57334,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Viudas:</strong> La Iglesia debe discernir y cuidar a las verdaderamente necesitadas.</li>
                     <li><strong>Disciplina Ministerial:</strong> No recibir acusaciones contra un anciano sin dos o tres testigos.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Caridad Eclesiástica y la Ley del Cuidado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Lista de Viudas y el Honor</h5>
+<ul>
+    <li><strong>Los Ancianos:</strong> Se instruye a reprender al **anciano** con **respeto** (como a un padre) y al joven con **exhortación**.</li>
+    <li><strong>Las Viudas (Verdaderas):</strong> Las **viudas de 60 años** que están **solas** y se dedican a las **buenas obras** deben ser sustentadas por la Iglesia.</li>
+    <li><strong>La Familia:</strong> La familia (hijos y nietos) tiene la **primera responsabilidad** de cuidar a sus parientes.</li>
+    <li><strong>Los Ancianos Doble Honor:</strong> Los **ancianos que gobiernan bien** deben ser tenidos por dignos de **doble honor** (respeto y sustento).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Pobreza</h5>
+<ul>
+    <li><strong>Viudas:</strong> Las viudas eran una **clase social vulnerable** y dependían de la caridad comunitaria.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ley del Honor:</strong> La Ley exige que el sustento se base en el **trabajo y la fidelidad**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **caridad efectiva** requiere **orden** y **disciplina** en la Iglesia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">cuidado social de la Iglesia debe ser ordenado y justo</span>, centrado en el verdadero desamparo.</p>
                 
@@ -49123,7 +57376,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Contentamiento:</strong> La piedad con contentamiento es gran ganancia.</li>
                     <li><strong>Riquezas:</strong> La advertencia a los ricos para que sean generosos.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Peligro del Dinero y el Buen Combate</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Piedad y la Riqueza</h5>
+<ul>
+    <li><strong>Esclavos:</strong> Los **esclavos** deben honrar a sus amos (cristianos e incrédulos) para que **"no sea blasfemado el nombre de Dios"**.</li>
+    <li><strong>El Dinero:</strong> **"Raíz de todos los males es el amor al dinero"**.</li>
+    <li><strong>El Contentamiento:</strong> La **piedad con contentamiento** es **gran ganancia**.</li>
+    <li><strong>La Advertencia:</strong> Se advierte a los ricos de que la **riqueza** es **incierta** y deben ser **ricos en buenas obras**.</li>
+    <li><strong>El Voto:</strong> Timoteo debe guardar el **"buen depósito"** (la doctrina).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Esclavitud</h5>
+<ul>
+    <li><strong>Esclavitud:</strong> Los esclavos eran la base de la economía. Su buen comportamiento era vital para el testimonio.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Ganancia:</strong> La **verdadera ganancia** es espiritual, no material.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Timoteo es llamado a pelear el **"buen combate de la fe"**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">verdadero tesoro del creyente es el conocimiento de Dios</span> y la vida eterna, no las riquezas terrenales.</p>
                 
@@ -49145,7 +57421,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Depósito:</strong> Guardar celosamente la doctrina confiada.</li>
                     <li><strong>Poder del Espíritu:</strong> La fuente de la fortaleza del ministro.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Pablo en la Prisión Final (Testamento)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Espíritu y la Memoria</h5>
+<ul>
+    <li><strong>El Testamento:</strong> Esta es la **última carta** de Pablo, escrita desde una **prisión romana** (antes de su ejecución).</li>
+    <li><strong>El Don:</strong> Timoteo es animado a **avivar el don** que está en él (la autoridad ministerial).</li>
+    <li><strong>El Espíritu:</strong> Dios no nos ha dado **espíritu de cobardía**, sino de **poder, amor y dominio propio**.</li>
+    <li><strong>El Depósito:</strong> Timoteo debe **guardar el buen depósito** (la verdad del evangelio) por el poder del Espíritu Santo.</li>
+    <li><strong>La Amistad:</strong> Pablo lamenta que **todos los de Asia** (posiblemente la región de Éfeso) lo hayan abandonado.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Las Cadenas</h5>
+<ul>
+    <li><strong>La Vergüenza:</strong> Pablo exhorta a Timoteo a **no avergonzarse de las cadenas** del apóstol.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Debilidad:</strong> La **fuerza** viene de **Dios**, no de la capacidad de Timoteo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad** es esencial en medio del abandono.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Evangelio es un tesoro que debe ser guardado y defendido</span>, incluso a costa del sufrimiento.</p>
                 
@@ -49165,7 +57464,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obrero:</strong> Estudiar y exponer la Palabra correctamente.</li>
                     <li><strong>Vaso de Honra:</strong> Limpiarse de la maldad para ser un instrumento útil.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Milicia y el Obrero</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Buen Soldado y la Rectitud</h5>
+<ul>
+    <li><strong>La Milicia:</strong> El discípulo es comparado con un **soldado** que no se enreda en los negocios de la vida.</li>
+    <li><strong>Los Juegos:</strong> El atleta que **compite legítimamente** es el que recibe el premio.</li>
+    <li><strong>El Obrero:</strong> El obrero debe ser **"aprobado"** y **"traza bien la palabra de verdad"** (el estudio diligente).</li>
+    <li><strong>La Vasija:</strong> En una casa hay **vasos de honra** y **vasos de deshonra**. El creyente debe ser un **vaso de honra** (purificado).</li>
+    <li><strong>El Fuego:</strong> La palabra de los falsos maestros (**Himeneo y Fileto**) **se extiende como gangrena**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Deportivo: Los Juegos</h5>
+<ul>
+    <li><strong>Competición:</strong> El contexto de los juegos (agonía) en Corinto y Éfeso.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Paciencia:</strong> El siervo de Dios debe ser **paciente** y apto para enseñar, **no litigioso**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **fundamento de Dios** es firme.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">ministro debe someterse a la disciplina de Cristo</span>, enfocándose en la Palabra y el legado.</p>
                 
@@ -49185,7 +57507,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Inspiración:</strong> La Escritura como Palabra inspirada por Dios.</li>
                     <li><strong>Suficiencia:</strong> La Biblia es suficiente para capacitar al creyente.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Peligro de los Últimos Tiempos</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Apostasía y la Autoridad de la Escritura</h5>
+<ul>
+    <li><strong>Los Últimos Días:</strong> Profecía de que en los **postreros días** vendrán **tiempos peligrosos** (la moralidad pagana en la Iglesia).</li>
+    <li><strong>Los Rasgos:</strong> Los hombres serán **amadores de sí mismos, avaros, calumniadores** (los vicios que Timoteo enfrenta).</li>
+    <li><strong>El Conocimiento:</strong> Los falsos maestros tendrán **apariencia de piedad** pero **negarán la eficacia** de la misma.</li>
+    <li><strong>La Inspiración:</strong> **"Toda la Escritura es inspirada por Dios"** (theopneustos, "soplada por Dios") y es útil para la enseñanza.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El "Cerebrito"</h5>
+<ul>
+    <li><strong>Cargadas de Pecado:</strong> Las **mujercillas** que son engañadas por los falsos maestros.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Permanencia:</strong> La **Palabra de Dios** es el único refugio en medio del caos moral.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Escritura** es la **regla de fe** y conducta.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente debe permanecer anclado en la Escritura</span> como la única defensa contra la corrupción y el error.</p>
                 
@@ -49205,7 +57549,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Legado de Pablo:</strong> Su vida fue una batalla y una carrera de fidelidad.</li>
                     <li><strong>Corona:</strong> La recompensa para los que aman la venida del Señor.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Encargo Final y el Martirio</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio, la Predicación y el Galardón</h5>
+<ul>
+    <li><strong>La Comisión:</strong> Timoteo recibe el **encargo solemne** de **predicar la Palabra** con paciencia y doctrina.</li>
+    <li><strong>El Deseo del Público:</strong> La gente **acumulará maestros** conforme a sus propios deseos (rechazo de la verdad).</li>
+    <li><strong>El Combate:</strong> Pablo declara: **"He peleado la buena batalla, he acabado la carrera, he guardado la fe"**.</li>
+    <li><strong>El Galardón:</strong> Pablo espera la **corona de justicia** que el Juez justo (Cristo) le dará.</li>
+    <li><strong>Los Objetos:</strong> Pablo pide que le traigan su **capa**, sus **libros** y especialmente los **pergaminos**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Vaso</h5>
+<ul>
+    <li><strong>Libación:</strong> Pablo declara que su vida es ofrecida como **libación** (el rito final del sacrificio).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fidelidad:</strong> La **fidelidad personal** es recompensada en el juicio final.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **muerte del apóstol** es la **libación** de su ministerio.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">meta de la vida cristiana es la fidelidad hasta el final</span>, esperando la recompensa de Cristo.</p>
                 
@@ -49227,7 +57594,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Higiene Doctrinal:</strong> La necesidad de silenciar a los falsos maestros.</li>
                     <li><strong>Carácter:</strong> Las virtudes morales y familiares del líder.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Desafío de Creta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley de Ancianos y la Reputación</h5>
+<ul>
+    <li><strong>La Misión:</strong> Pablo dejó a Tito en **Creta** para **"establecer ancianos en cada ciudad"** (la organización estructural de la Iglesia).</li>
+    <li><strong>Requisitos:</strong> Los ancianos (obispos) deben ser **marido de una sola mujer**, **sobrios**, **justos** y **tener hijos creyentes** (el gobierno del hogar como prueba del gobierno de la iglesia).</li>
+    <li><strong>El Vicio Cretés:</strong> Se cita a un profeta cretense que dijo: **"Los cretenses, siempre mentirosos, malas bestias, vientres perezosos"** (la mala reputación moral de la isla).</li>
+    <li><strong>Falsos Maestros:</strong> Se critica a los maestros que promueven **fábulas judaicas** y **mandamientos de hombres** (legalismo/ascetismo).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Mentira y la Pereza</h5>
+<ul>
+    <li><strong>Cultura:</strong> La necesidad de establecer líderes con **carácter irreprochable** para contrarrestar la cultura de la mentira y la pereza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Pureza:</strong> **"Para los puros, todas las cosas son puras; mas para los corrompidos e incrédulos, nada les es puro"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Los falsos maestros **profesan conocer a Dios, pero con los hechos lo niegan**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">organización de la Iglesia es vital para su salud y defensa</span> contra la corrupción externa e interna.</p>
                 
@@ -49247,7 +57636,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Discipulado:</strong> El rol de las mujeres mayores en la enseñanza práctica.</li>
                     <li><strong>Gracia:</strong> La Gracia de Dios es el poder para la santidad.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Instrucción por Clase y Edad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sana Doctrina y el Buen Testimonio</h5>
+<ul>
+    <li><strong>Clases Sociales:</strong> Se instruye a los creyentes por **clases de edad** y **género** (ancianos, ancianas, jóvenes, siervos).</li>
+    <li><strong>Ancianos:</strong> Deben ser **sobrios, serios** y **prudentes**.</li>
+    <li><strong>Ancianas:</strong> Deben enseñar la **bondad** a las jóvenes (enseñanza práctica entre mujeres).</li>
+    <li><strong>Siervos:</strong> Deben **obedecer a sus amos** para que la **"doctrina de Dios no sea blasfemada"**.</li>
+    <li><strong>La Gracia:</strong> La **gracia de Dios** nos enseña a **negar la impiedad** y a **vivir sobria, justa y piadosamente**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Servidumbre</h5>
+<ul>
+    <li><strong>Siervos (Esclavos):</strong> El buen comportamiento de los siervos cristianos era vital para el testimonio en el Imperio Romano, donde la esclavitud era una institución clave.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Esperanza:</strong> El creyente espera la **"manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **sana doctrina** siempre produce una **vida práctica** y ética.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación por gracia es la motivación para la obediencia</span> y la práctica de buenas obras en la vida diaria.</p>
                 
@@ -49267,7 +57679,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Regeneración:</strong> La salvación por la obra del Espíritu Santo.</li>
                     <li><strong>Hombre Herético:</strong> La disciplina necesaria para mantener la pureza doctrinal.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Sujeción Cívica y la Regeneración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Liderazgo Civil y la Base de la Salvación</h5>
+<ul>
+    <li><strong>Autoridades:</strong> Se manda a los creyentes a **sujetarse a los gobernantes y autoridades** (el gobierno romano) y a **estar dispuestos a toda buena obra**.</li>
+    <li><strong>El Pecado Pasado:</strong> Pablo recuerda que todos fuimos **insensatos, desobedientes** y **esclavos de pasiones** (la universalidad del pecado).</li>
+    <li><strong>La Regeneración:</strong> La salvación no es por **obras de justicia** que el hombre hizo, sino por la **misericordia** de Dios a través de la **regeneración y renovación del Espíritu Santo**.</li>
+    <li><strong>La Herejía:</strong> Advertencia de **rechazar** al hombre **"hereje"** después de una o dos amonestaciones (la disciplina final).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Desobediencia</h5>
+<ul>
+    <li><strong>Desobediencia:</strong> La desobediencia al Estado era considerada sedición. La Iglesia debía mostrarse como un **agente de paz** y **buenas obras**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Ley y Gracia:</strong> La **base de la salvación** es la **misericordia inmerecida** de Dios, no las obras humanas.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **gracia de Dios** capacita al creyente para practicar las **buenas obras**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humildad ante el gobierno y el amor al prójimo</span> son el resultado de la regeneración.</p>
                 
@@ -49289,7 +57723,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hermandad:</strong> La igualdad espiritual de todos los creyentes (esclavo y amo).</li>
                     <li><strong>Sustitución:</strong> Pablo se pone en lugar de Onésimo para pagar su deuda.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Esclavitud Romana y la Reconciliación</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Intercesión y el Hermano</h5>
+<ul>
+    <li><strong>El Autor:</strong> Pablo se identifica como **prisionero de Jesucristo**, apelando a la compasión de Filemón por su propia condición de sufrimiento.</li>
+    <li><strong>Onésimo (El Esclavo Fugitivo):</strong> Onésimo (*Onesimus*, cuyo nombre significa **"útil"**), el esclavo de Filemón, había huido, pero se convirtió a Cristo a través de Pablo en prisión.</li>
+    <li><strong>El Estatus Legal:</strong> En la ley romana, un esclavo fugitivo (*fugitivus*) podía ser castigado severamente, incluso con la **muerte o la marcación a fuego**.</li>
+    <li><strong>El Principio de la Reconciliación:</strong> Pablo no exige la libertad de Onésimo, sino que **intercede** (intercessio), pidiéndole a Filemón que lo reciba **"no ya como esclavo, sino como más que esclavo, como a hermano amado"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Esclavitud</h5>
+<ul>
+    <li><strong>La Pérdida:</strong> Onésimo era una **propiedad valiosa**. Pablo se ofrece a **pagar cualquier deuda** que Onésimo haya causado por su huida (un gesto de compensación).</li>
+    <li><strong>La Sujeción:</strong> Pablo apela al amor y al afecto (no a la autoridad), pidiéndole a Filemón que actúe **"voluntariamente"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Identidad en Cristo:</strong> El **vínculo espiritual** de la hermandad en Cristo supera el **vínculo legal** de la esclavitud.</li>
+    <li><strong>La Utilidad:</strong> El nombre de Onésimo (inútil antes, útil ahora) se convierte en una **metáfora de la conversión**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Gracia** exige la **reconciliación radical** y la **igualdad de estatus** entre los creyentes.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Evangelio rompe las barreras sociales</span>. La relación entre Cristo y el creyente es el modelo de la reconciliación y el perdón.</p>
                 
@@ -49311,7 +57769,28 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Deidad de Cristo:</strong> El Creador y Sustentador de todo.</li>
                     <li><strong>Inferioridad Angelical:</strong> Los ángeles adoran a Cristo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Cristo, Mayor que los Profetas y los Ángeles</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Revelación Final y la Deidad de Cristo</h5>
+<ul>
+    <li><strong>La Dispensación:</strong> Dios habló en el pasado por **profetas** (parcial y de varias maneras), pero ahora ha hablado por Su **Hijo** (la revelación final y completa).</li>
+    <li><strong>Superioridad:</strong> Cristo es la **"imagen misma de Su sustancia"** y el **"sustentador de todas las cosas"**.</li>
+    <li><strong>Los Ángeles:</strong> Cristo es superior a los **ángeles**, que son solo **"espíritus ministradores"** (un desafío a la veneración angélica).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Angélica</h5>
+<ul>
+    <li><strong>Veneración:</strong> Existía en el judaísmo una tendencia a **venerar a los ángeles** (posiblemente un elemento de la herejía de Colosas).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Siervo vs. Hijo:</strong> Los ángeles son **siervos** que adoran; Cristo es el **Hijo** que es adorado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **divinidad de Cristo** es la base de Su autoridad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad de la revelación en Cristo es final e inmutable</span>. Él es el mensaje completo de Dios.</p>
                 
@@ -49331,7 +57810,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Encarnación:</strong> La razón de la humanidad de Cristo.</li>
                     <li><strong>Liberación:</strong> Cristo nos libró del poder del diablo y del temor a la muerte.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Cristo se Hace Hombre para Sufrir</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Encarnación y la Experiencia</h5>
+<ul>
+    <li><strong>La Advertencia:</strong> Se advierte de **no descuidar** la gran salvación.</li>
+    <li><strong>La Redención:</strong> Cristo tomó **carne y sangre** para anular el poder del diablo (el que tenía el **imperio de la muerte**).</li>
+    <li><strong>El Sacerdocio:</strong> Cristo se hizo **semejante a Sus hermanos** en todo para poder ser un **sumo sacerdote fiel y misericordioso**.</li>
+    <li><strong>La Tentación:</strong> Cristo es capaz de socorrer a los tentados porque **Él mismo padeció** la tentación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Muerte</h5>
+<ul>
+    <li><strong>Muerte:</strong> La muerte era el **último enemigo** y el dominio del diablo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Gloria y Sufrimiento:</strong> El **sufrimiento temporal** de Cristo fue necesario para la **gloria eterna**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humanidad de Cristo** es esencial para Su función de Sacerdote.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sacrificio de Cristo fue necesario para que Él fuera un Sumo Sacerdote fiel y misericordioso</span>.</p>
                 
@@ -49351,7 +57852,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Incredulidad:</strong> El pecado que impide entrar en el reposo.</li>
                     <li><strong>Exhortación:</strong> Animar a los hermanos para evitar el endurecimiento.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Cristo, Mayor que Moisés</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Edificación y la Infidelidad del Desierto</h5>
+<ul>
+    <li><strong>La Comparación:</strong> **Moisés** fue fiel en toda la **casa de Dios como siervo**; **Cristo** es fiel como **Hijo** sobre Su casa.</li>
+    <li><strong>El Edificador:</strong> El constructor (**edificador**) de la casa es superior a la casa misma.</li>
+    <li><strong>El Desierto:</strong> Se utiliza el **ejemplo de la infidelidad** de Israel en el **desierto** (Meribá) para advertir a los creyentes.</li>
+    <li><strong>La Promesa:</strong> Se advierte de **no endurecer el corazón** (la incredulidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Histórico: El Desierto</h5>
+<ul>
+    <li><strong>Meribá:</strong> El lugar donde Israel dudó de la provisión de Dios (Números 20).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Siervo vs. Hijo:</strong> La **supremacía de Cristo** sobre Moisés (el dador de la Ley).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **incredulidad** es el pecado que impide el acceso al reposo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad en la fe es esencial</span>. La incredulidad es el peligro constante para el pueblo de Dios.</p>
             `,
@@ -49367,7 +57890,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Palabra de Dios:</strong> Su poder para penetrar el corazón.</li>
                     <li><strong>Sacerdocio de Jesús:</strong> Él simpatiza con nuestras debilidades.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Reposo de Dios (Shabbat/Salvación)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Reposo de la Creación y el Sacerdote Vivo</h5>
+<ul>
+    <li><strong>El Reposo:</strong> La promesa de **entrar en Su reposo** (Shabbat), que no fue alcanzado por la generación del desierto por su incredulidad.</li>
+    <li><strong>El Reposo de Josué:</strong> **Josué** no dio el reposo final (Canaán), que es un **tipo** del reposo de la salvación.</li>
+    <li><strong>La Palabra:</strong> La **Palabra de Dios** es **viva, eficaz** y **penetra hasta el alma** y el espíritu (la Ley es transformadora).</li>
+    <li><strong>El Sacerdote Vivo:</strong> Tenemos un **gran Sumo Sacerdote** (Jesús) que está en el cielo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Espada</h5>
+<ul>
+    <li><strong>Espada:</strong> La Palabra de Dios se compara con una **espada de dos filos** (el juicio y el discernimiento).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Ley vs. Corazón:</strong> La **ley ritual** no puede penetrar el corazón como la Palabra de Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **acceso** a Dios es directo debido a nuestro Sumo Sacerdote.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">Palabra y el Sumo Sacerdote de Dios son la provisión</span> para la debilidad del creyente.</p>
             `,
@@ -49383,7 +57928,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Madurez:</strong> La necesidad de progresar de la leche al alimento sólido.</li>
                     <li><strong>Obediencia de Cristo:</strong> Aprendió obediencia por lo que padeció.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sumo Sacerdote Humano y el Orden de Melquisedec</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Sacerdocio Humano y el Orden Sacerdotal</h5>
+<ul>
+    <li><strong>El Sacerdote Aarónico:</strong> El sacerdote es **tomado de entre los hombres** para ofrecer **sacrificios y ofrendas** por los pecados (identificación con la debilidad).</li>
+    <li><strong>El Llamado:</strong> Nadie toma el honor del sacerdocio para sí, sino que es **llamado por Dios**, como **Aarón**.</li>
+    <li><strong>El Sufrimiento de Cristo:</strong> Jesús aprendió la **obediencia por el sufrimiento** y se convirtió en la fuente de eterna salvación.</li>
+    <li><strong>Melquisedec:</strong> El sacerdocio de Cristo es **según el orden de Melquisedec** (un orden superior).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: La Debilidad</h5>
+<ul>
+    <li><strong>Sacrificio:</strong> El sacerdote humano tenía que ofrecer **sacrificio por sus propios pecados** antes que por los del pueblo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Aarón vs. Melquisedec:</strong> El sacerdocio de Cristo es **divino y eterno**, no humano y temporal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **perseverancia** en la fe es necesaria para la madurez.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">madurez se demuestra al poder discernir el bien y el mal</span>. La inmadurez pone en peligro la fe.</p>
             `,
@@ -49399,7 +57966,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Firmeza:</strong> La seguridad de la promesa de Dios y el juramento.</li>
                     <li><strong>Ancla:</strong> La esperanza segura y firme en la persona de Cristo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Madurez y la Ancla del Alma</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Advertencia contra la Apostasía</h5>
+<ul>
+    <li><strong>La Madurez:</strong> Exhortación a **dejar la doctrina elemental** (arrepentimiento, bautismo, imposición de manos) e ir a la **madurez**.</li>
+    <li><strong>La Apostasía:</strong> Advertencia severa contra aquellos que **recayeron** después de haber probado la bondad de Dios.</li>
+    <li><strong>El Juramento:</strong> Dios confirmó Su promesa a **Abraham** con un **juramento** (la inmutabilidad de la promesa).</li>
+    <li><strong>El Ancla:</strong> La esperanza del creyente es el **ancla del alma**, firme y segura, que entra tras el velo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Marítimo: El Ancla</h5>
+<ul>
+    <li><strong>Ancla:</strong> El ancla era un **símbolo de seguridad** en la tormenta.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Imposibilidad:</strong> Es **imposible** que Dios mienta.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad de Dios** es la base de la seguridad del creyente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación es segura, pero la advertencia promueve la perseverancia</span> y el examen propio.</p>
             `,
@@ -49415,7 +58004,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sacerdocio Eterno:</strong> El sacerdocio de Cristo no tiene fin.</li>
                     <li><strong>Intercesión:</strong> Cristo intercede perpetuamente por Su pueblo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sacerdocio de Melquisedec</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley del Cambio y el Sacerdocio Eterno</h5>
+<ul>
+    <li><strong>Melquisedec:</strong> Es presentado como **"Rey de Justicia"** y **"Rey de Paz"** (Salmo 110), sin **padre, madre, ni genealogía** (simbolismo de la eternidad).</li>
+    <li><strong>Diezmos:</strong> **Abraham pagó diezmos** a Melquisedec (demostrando su superioridad sobre el sacerdocio levítico).</li>
+    <li><strong>La Ley:</strong> El sacerdocio levítico era **imperfecto** y fue cambiado. El **cambio del sacerdocio** requiere un **cambio de la ley**.</li>
+    <li><strong>El Juramento:</strong> Jesús es constituido Sacerdote con un **juramento**, mientras que los levitas lo eran sin juramento.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Genealogía</h5>
+<ul>
+    <li><strong>Genealogía:</strong> El sacerdocio levítico dependía de la **genealogía** (el linaje). El de Cristo no.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Perfección:</strong> La **Ley levítica** no podía perfeccionar; Cristo es un **sacerdote perfecto** para siempre.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **sacerdocio de Cristo** es el único que da **acceso continuo** al Padre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">pacto de Dios en Cristo es inmutable y perfecto</span>. No hay necesidad de volver a la imperfección levítica.</p>
             `,
@@ -49431,7 +58042,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santuario Celestial:</strong> El tabernáculo terrenal era solo un modelo.</li>
                     <li><strong>Corazón:</strong> La ley escrita en el interior del creyente.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Mejor Santuario y el Nuevo Pacto</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sombra y la Sustancia</h5>
+<ul>
+    <li><strong>El Santuario:</strong> Cristo ministra en un **Tabernáculo superior** (el verdadero Tabernáculo, no el terrenal).</li>
+    <li><strong>La Sombra:</strong> El Tabernáculo terrenal era solo una **sombra** y **figura** (copia) del celestial.</li>
+    <li><strong>El Nuevo Pacto:</strong> El pacto mediado por Cristo es **superior**, pues se basa en **mejores promesas**.</li>
+    <li><strong>La Profecía:</strong> Se cita la profecía de **Jeremías 31** sobre el **Nuevo Pacto** (la Ley escrita en el corazón).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Mediador</h5>
+<ul>
+    <li><strong>Mediador:</strong> Cristo es el **Mediador** de un Nuevo Pacto.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Antiguo vs. Nuevo:</strong> Al haber un Nuevo Pacto, el Antiguo es **"viejo"** y está **"próximo a desaparecer"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **culto** del Nuevo Pacto es **espiritual** y **real**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">relación con Dios bajo el Nuevo Pacto es personal e interna</span>, no ritual ni externa.</p>
             `,
@@ -49447,7 +58080,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Eterna Redención:</strong> El resultado del sacrificio de Cristo.</li>
                     <li><strong>Mediador:</strong> Cristo, mediador del Nuevo Pacto.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sacrificio Único y la Sangre Superior</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Imperfección del Culto y el Rescate</h5>
+<ul>
+    <li><strong>El Culto Antiguo:</strong> La descripción del **Tabernáculo**, el Lugar Santo y el Lugar Santísimo (solo el Sumo Sacerdote entraba una vez al año).</li>
+    <li><strong>La Sangre Animal:</strong> La **sangre de machos cabríos y becerros** solo purificaba la **carne** (lo ceremonial), no la conciencia.</li>
+    <li><strong>La Sangre de Cristo:</strong> Cristo entró en el Santuario Celestial **una sola vez**, no con sangre de animales, sino con **Su propia sangre**.</li>
+    <li><strong>La Función:</strong> La muerte de Cristo es para **redimirnos** de las transgresiones cometidas bajo el primer pacto.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Ritual: El Sumo Sacerdote</h5>
+<ul>
+    <li><strong>Entrada Anual:</strong> El Sumo Sacerdote entraba al Lugar Santísimo solo en **Yom Kipur** (Día de la Expiación).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Una Vez vs. Continuo:</strong> El sacrificio de Cristo es **único y suficiente**; los sacrificios de la Ley eran **continuos** y **nunca quitaban el pecado**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **eficacia del sacrificio** de Cristo es **eterna**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sacrificio de Cristo es perfecto y final</span>. No hay necesidad de más sacrificios ni rituales.</p>
             `,
@@ -49463,7 +58118,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Plena Confianza:</strong> Acercarse a Dios con corazón sincero y plena certidumbre de fe.</li>
                     <li><strong>Juicio:</strong> La terrible expectativa para el que pisotea la sangre de Cristo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Perfección y el Nuevo y Vivo Camino</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Plenitud y la Fe</h5>
+<ul>
+    <li><strong>La Conciencia:</strong> Los sacrificios antiguos **no podían perfeccionar** la conciencia del adorador.</li>
+    <li><strong>El Cuerpo:</strong> Dios no quiso sacrificios, sino que **preparó un cuerpo** para Cristo.</li>
+    <li><strong>El Nuevo Camino:</strong> El acceso al Lugar Santísimo es ahora por un **"camino nuevo y vivo"** a través del **velo** (la carne de Cristo).</li>
+    <li><strong>El Sacerdote:</strong> Tenemos un **gran Sacerdote** (Jesús) sobre la casa de Dios.</li>
+    <li><strong>El Juicio:</strong> Advertencia sobre la **apostasía** y el juicio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Humillación</h5>
+<ul>
+    <li><strong>Humillación:</strong> No se debe **pisotear** la sangre de Cristo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Camino:</strong> La **Ley** solo ofrecía el camino a las **sombras**; Cristo ofrece el camino a la **sustancia**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **perseverancia** es esencial para el creyente que vive en la luz.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">comunión y la perseverancia son la prueba de la fe genuina</span>. La apostasía trae un juicio terrible.</p>
             `,
@@ -49479,7 +58157,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Héroes de la Fe:</strong> El testimonio de los patriarcas.</li>
                     <li><strong>Ciudad Celestial:</strong> La esperanza y meta final del creyente.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Galería de la Fe (Abraham, Moisés y los Mártires)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sustancia de la Fe</h5>
+<ul>
+    <li><strong>La Definición:</strong> La fe es la **"sustancia de las cosas que se esperan, la demostración de las cosas que no se ven"**.</li>
+    <li><strong>Los Patriarcas:</strong> Ejemplos de fe: **Abel** (sacrificio superior), **Enoc** (traslado), **Noé** (construcción del arca).</li>
+    <li><strong>Abraham:</strong> Salió **sin saber a dónde iba**, esperando la **ciudad que tiene fundamentos** (la celestial).</li>
+    <li><strong>Moisés:</strong> El ejemplo de fe al **escoger el oprobio de Cristo** en lugar de los placeres de Egipto.</li>
+    <li><strong>Los Mártires:</strong> Los mártires fueron **aserrados**, **apedreados** y murieron en la aflicción.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Histórico: Los Mártires</h5>
+<ul>
+    <li><strong>Mártires:</strong> La alusión a los **mártires judíos** que murieron en la persecución (posiblemente bajo Antíoco IV Epífanes).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Visión:</strong> La fe es la **capacidad de ver** la realidad celestial sobre la terrenal.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad** de los ancestros debe ser el **ánimo** de los creyentes.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es la esencia de la vida con Dios</span>, un camino de obediencia a pesar de no ver el resultado.</p>
             `,
@@ -49495,7 +58196,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Disciplina:</strong> La corrección de Dios es una prueba de Su amor.</li>
                     <li><strong>Sion:</strong> La superioridad de la morada celestial.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Carrera y la Disciplina Divina</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Monte Sión Celestial y la Perfección</h5>
+<ul>
+    <li><strong>La Nube:</strong> El creyente está rodeado de una **nube de testigos** (la Galería de la Fe).</li>
+    <li><strong>La Carrera:</strong> El creyente debe **correr con paciencia** la carrera, mirando a **Jesús** (el autor y consumador de la fe).</li>
+    <li><strong>La Disciplina:</strong> El **sufrimiento** es la **disciplina del Padre** (prueba de la filiación).</li>
+    <li><strong>El Monte:</strong> El creyente se ha acercado al **Monte Sión celestial**, a la **ciudad del Dios vivo**.</li>
+    <li><strong>La Sangre:</strong> La **sangre de Jesús** (superior) habla **mejores cosas** que la sangre de Abel (venganza).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Deportivo: La Carrera</h5>
+<ul>
+    <li><strong>Peso:</strong> El creyente debe despojarse de **todo peso** (cualquier cosa que obstaculice la carrera).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Ley vs. Gracia:</strong> El **terror del Monte Sinaí** (Ley) se contrasta con la **alegría del Monte Sión** (Gracia).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **disciplina de Dios** es una prueba de amor.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida cristiana es una carrera que requiere perseverancia</span>. La disciplina de Dios nos guía a la santidad.</p>
             `,
@@ -49511,7 +58235,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Liderazgo:</strong> Obedecer y sujetarse a los líderes.</li>
                     <li><strong>Contentamiento:</strong> Evitar la avaricia.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Ética Final y el Sacrificio de Alabanza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Santificación y la Salida del Campamento</h5>
+<ul>
+    <li><strong>Hospitalidad:</strong> Se exhorta a la **hospitalidad** (pues algunos hospedaron ángeles sin saberlo).</li>
+    <li><strong>La Cárcel:</strong> Recordar a los **presos** como si se estuviera preso con ellos.</li>
+    <li><strong>El Altar:</strong> Los cristianos tienen un **Altar** del cual los **sacerdotes levíticos no tienen derecho a comer**.</li>
+    <li><strong>Fuera del Campamento:</strong> Jesús sufrió **fuera de la puerta** (el lugar de la impureza, donde se quemaba el sacrificio por el pecado).</li>
+    <li><strong>El Sacrificio:</strong> El sacrificio cristiano es el **"sacrificio de alabanza"** (fruto de labios) y el **hacer bien**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Ritual: El Campamento</h5>
+<ul>
+    <li><strong>Campamento:</strong> Las **cenizas del sacrificio por el pecado** se llevaban fuera del campamento para ser quemadas. Jesús se identifica con la impureza.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Permanencia:</strong> La **ciudad venidera** es la única que debemos buscar, no la terrenal (Jerusalén).</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **servicio y la alabanza** son los sacrificios de la Nueva Alianza.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe en Cristo debe traducirse en amor práctico</span> por los hermanos y obediencia a Sus líderes.</p>
             `
@@ -49529,7 +58276,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sabiduría:</strong> Se pide a Dios con fe.</li>
                     <li><strong>Oír y Hacer:</strong> Ser hacedores de la Palabra, no solo oidores.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Pruebas, Sabiduría y la Ley Práctica</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prueba de la Fe y la Palabra</h5>
+<ul>
+    <li><strong>Las Pruebas:</strong> Las **pruebas y aflicciones** son inevitables, pero deben ser recibidas con **gozo** porque producen **paciencia**.</li>
+    <li><strong>Sabiduría:</strong> Se anima a los creyentes a **pedir sabiduría a Dios** sin dudar.</li>
+    <li><strong>Ricos y Pobres:</strong> El **pobre** debe gloriarse en su **exaltación** (en Cristo); el **rico**, en su **humillación** (pues pasará como la flor).</li>
+    <li><strong>La Ley:</strong> La fe exige ser **hacedor de la Palabra**, no solo oidor, mirando al **espejo** de la ley de la libertad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Flor</h5>
+<ul>
+    <li><strong>Riqueza:</strong> La riqueza es comparada con la **flor de la hierba** que se marchita por el sol, enfatizando su transitoriedad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Doble Ánimo:</strong> El hombre de **doble ánimo** (duda) es inestable en todos sus caminos.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera religión** es visitar a los **huérfanos y a las viudas** y guardarse sin mancha del mundo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe se prueba en el sufrimiento</span> y se demuestra en la obediencia a la Palabra.</p>
                 
@@ -49549,7 +58318,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fe Muerta:</strong> La fe que no se manifiesta en acción es inútil.</li>
                     <li><strong>Justificación:</strong> La demostración externa de la fe interna.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Peligro de la Parcialidad y la Fe Muerta</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Ley Real y la Justicia Social</h5>
+<ul>
+    <li><strong>Parcialidad:</strong> Se condena la **acepción de personas** (favorecer a los ricos sobre los pobres) en la congregación.</li>
+    <li><strong>La Ley Real:</strong> La Ley de Dios se resume en **"Amarás a tu prójimo como a ti mismo"**.</li>
+    <li><strong>Fe sin Obras:</strong> La fe **sin obras** está **muerta** en sí misma.</li>
+    <li><strong>El Testimonio:</strong> La fe se prueba por las **obras** (ejemplos: **Abraham** (ofreciendo a Isaac) y **Rahab** (albergando a los espías)).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: La Synagōgē</h5>
+<ul>
+    <li><strong>Sinagoga/Asamblea:</strong> La parcialidad se muestra al darle el **asiento de honor** al hombre rico con **anillo de oro** y vestidura lujosa.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Demonios:</strong> Los **demonios también creen** y tiemblan, lo que prueba que la fe intelectual es insuficiente.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdadera fe** se evidencia en la **acción práctica** y la caridad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe salvadora es una fe activa</span>. Las obras son el resultado y la evidencia de la justificación.</p>
             `,
@@ -49565,7 +58356,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sabiduría Terrenal:</strong> Es animal, sensual y diabólica.</li>
                     <li><strong>Sabiduría de lo Alto:</strong> Produce paz y buenos frutos.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Poder de la Lengua y las Dos Sabidurías</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Liderazgo y la Disciplina</h5>
+<ul>
+    <li><strong>Los Maestros:</strong> Se advierte a los que quieren ser **maestros**, pues recibirán **mayor condenación** (mayor responsabilidad).</li>
+    <li><strong>El Freno:</strong> La lengua es comparada con el **freno en la boca del caballo** y el **timón** (gobernalle) del barco, que controlan todo el cuerpo.</li>
+    <li><strong>El Fuego:</strong> La lengua es un **fuego** que incendia todo el curso de la vida.</li>
+    <li><strong>La Contradicción:</strong> De la misma boca no puede salir **bendición y maldición** (la inconsistencia).</li>
+    <li><strong>Las Dos Sabidurías:</strong> La **sabiduría terrenal** (sensual, diabólica) y la **sabiduría celestial** (pacífica, pura).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Timón</h5>
+<ul>
+    <li><strong>Barcos:</strong> El timón, aunque pequeño, es clave para dirigir un gran barco (la importancia de la lengua).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Fuente:</strong> Una **fuente no da agua dulce y amarga** a la vez.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la fuente de la **sabiduría celestial**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">carácter espiritual se refleja en el control del habla</span>. La paz es la marca de la verdadera sabiduría.</p>
             `,
@@ -49581,7 +58395,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mundo:</strong> La amistad con el mundo es adulterio espiritual.</li>
                     <li><strong>Humildad:</strong> Dios exalta al humilde.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Amistad con el Mundo y la Oración Fallida</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Lujuria, el Orgullo y la Humildad</h5>
+<ul>
+    <li><strong>La Causa del Pleito:</strong> Los **pleitos y contiendas** en la iglesia provienen de las **pasiones** (deseos sensuales) que luchan en los miembros.</li>
+    <li><strong>La Oración Fallida:</strong> La oración no es respondida porque se pide **mal** (para gastar en los propios placeres).</li>
+    <li><strong>El Orgullo:</strong> Dios resiste a los **soberbios** y da gracia a los **humildes**.</li>
+    <li><strong>El Juicio:</strong> Se prohíbe **murmurar** o **juzgar al hermano**, pues solo Dios es el Dador de la Ley.</li>
+    <li><strong>La Vida Futura:</strong> La vida es como el **vapor** que aparece un poco de tiempo y luego se desvanece (la fragilidad).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Amistad con el Mundo</h5>
+<ul>
+    <li><strong>Amistad:</strong> La **amistad con el mundo** (valores paganos) es **enemistad contra Dios**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Súplica:</strong> La **humillación** ante Dios es el camino para que Él exalte al creyente.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **humildad** es la única condición para recibir la gracia de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">humildad ante Dios es el camino a la victoria</span> sobre el mundo y el diablo.</p>
             `,
@@ -49597,7 +58434,31 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paciencia:</strong> Esperar con perseverancia la venida del Señor.</li>
                     <li><strong>Oración:</strong> El poder de la oración intercesora por enfermedad y pecado.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Denuncia a los Ricos y el Poder de la Oración</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Paciencia, el Juramento y el Aceite</h5>
+<ul>
+    <li><strong>Juicio a los Ricos:</strong> Se denuncia a los **ricos opresores** que han acumulado tesoros. Se les advierte que su **oro y plata** se oxidarán y testificarán contra ellos.</li>
+    <li><strong>El Salario:</strong> Condena por **retener el salario** de los obreros.</li>
+    <li><strong>La Paciencia:</strong> Se exhorta a la **paciencia** (comparada con la paciencia del **labrador** que espera el fruto).</li>
+    <li><strong>El Juramento:</strong> Se prohíbe **jurar** por el cielo o la tierra (la seriedad de la palabra).</li>
+    <li><strong>La Unción:</strong> El **aceite** (unción de enfermos) era un símbolo de sanidad. Se pide **oración** y **confesión de pecados** para la curación.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Labrador</h5>
+<ul>
+    <li><strong>Lluvia:</strong> El labrador espera la **lluvia temprana y la tardía** (necesaria para la siembra y la cosecha).</li>
+    <li><strong>Elías:</strong> El ejemplo de **Elías** (profeta humano) que oró fervientemente y detuvo la lluvia por **tres años y medio**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Lamento y Gozo:</strong> El **gozo** es la expresión de la oración; el **canto de alabanza** es la respuesta a la sanidad.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **oración del justo** es poderosa y eficaz.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente debe vivir con paciencia ante la injusticia</span> y recurrir constantemente al poder de la oración.</p>
             `
@@ -49615,7 +58476,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Santidad:</strong> La imitación de la naturaleza de Dios.</li>
                     <li><strong>Redención:</strong> La sangre preciosa de Cristo como el precio.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Exilio y la Pureza</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Salvación y la Diáspora</h5>
+<ul>
+    <li><strong>Audiencia:</strong> Los creyentes son llamados **"peregrinos de la dispersión"** (similar al exilio judío).</li>
+    <li><strong>La Herencia:</strong> La herencia del creyente está **reservada en los cielos** (incontaminada e incorruptible).</li>
+    <li><strong>La Prueba:</strong> Las pruebas de la fe son comparadas con el **oro que es probado por el fuego**.</li>
+    <li><strong>La Santidad:</strong> Los creyentes son llamados a ser **santos** en toda su manera de vivir, porque **"Yo soy santo"** (Levítico 11:44).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Fuego</h5>
+<ul>
+    <li><strong>Prueba de Fuego:</strong> La persecución inminente o actual era vista como una **prueba refinadora**, no como un castigo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Corrupción vs. Incorrupción:</strong> El creyente fue redimido con la **sangre preciosa de Cristo**, no con **cosas corruptibles** como el oro y la plata.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **Palabra de Dios** es la **semilla incorruptible** de donde nace el nuevo creyente.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">santidad es la respuesta lógica a la esperanza viva</span> que tenemos en Cristo.</p>
                 
@@ -49635,7 +58518,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Sujeción:</strong> A autoridades y amos (incluso severos).</li>
                     <li><strong>Ejemplo de Cristo:</strong> Su sufrimiento como modelo de paciencia.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Identidad y Autoridad Civil</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Piedra Viva y el Ejemplo de Cristo</h5>
+<ul>
+    <li><strong>La Identidad:</strong> Los creyentes son un **"sacerdocio santo"** y un **"sacerdocio real"** (Éxodo 19:6), edificados sobre **Cristo, la Piedra Viva**.</li>
+    <li><strong>La Sumisión Civil:</strong> Se ordena **sujetarse a toda institución humana** (el gobierno), tanto al rey como a los gobernadores.</li>
+    <li><strong>La Esclavitud:</strong> Los **siervos (esclavos)** deben sujetarse a sus amos, incluso a los **difíciles y perversos**, por causa de la conciencia ante Dios.</li>
+    <li><strong>El Ejemplo de Cristo:</strong> Jesús, al sufrir, **no profirió amenaza** ni devolvió mal por mal, sirviendo de ejemplo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Esclavo</h5>
+<ul>
+    <li><strong>Obediencia:</strong> La obediencia del esclavo era vista como un testimonio cristiano que silenciaba la ignorancia de los hombres insensatos.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Sufrimiento Inmerecido:</strong> Sufrir por **hacer lo bueno** es lo que agrada a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> Cristo **llevó nuestros pecados** en Su cuerpo sobre el madero.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento injusto debe aceptarse con la esperanza de la vindicación</span>, siguiendo el ejemplo de Cristo.</p>
             `,
@@ -49651,7 +58556,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Buena Conciencia:</strong> Sufrir por hacer el bien.</li>
                     <li><strong>Testimonio:</strong> Estar siempre preparados para presentar defensa de la esperanza.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Matrimonio Mixto y la Unidad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Sumisión y el Arca</h5>
+<ul>
+    <li><strong>Esposas y Maridos:</strong> Las **esposas** deben estar sujetas, especialmente si sus esposos son **incrédulos** (la conducta debe ganarlos sin palabras).</li>
+    <li><strong>El Hombre Interior:</strong> El adorno femenino debe ser el **"incorruptible adorno de un espíritu afable y apacible"** (no el arreglo exterior).</li>
+    <li><strong>La Unidad:</strong> Exhortación a la **unidad, compasión y amor fraternal** en la iglesia.</li>
+    <li><strong>El Bautismo:</strong> El bautismo no es la remoción de la suciedad de la carne, sino la **"petición de una buena conciencia ante Dios"**.</li>
+    <li><strong>El Arca:</strong> El bautismo es un **símbolo** de cómo **ocho almas** fueron salvas por agua (el arca).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Ritual: El Bautismo</h5>
+<ul>
+    <li><strong>Analogía del Arca:</strong> La conexión entre el bautismo (el paso a través del agua) y el Arca (el paso de la condenación a la salvación).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Bendición:</strong> Responder con **bendición** en lugar de maldición para heredar la bendición.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **resurrección de Cristo** es la clave para la salvación.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">vida piadosa en el hogar es el testimonio más poderoso</span> en medio de la adversidad.</p>
             `,
@@ -49667,7 +58595,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Caridad:</strong> La hospitalidad y el amor ferviente.</li>
                     <li><strong>Juicio:</strong> Comienza con el pueblo de Dios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Purificación y la Mayordomía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Fin de Todas las Cosas y la Hospitalidad</h5>
+<ul>
+    <li><strong>El Fin:</strong> El **"fin de todas las cosas se acerca"**. Esto impulsa a ser sobrios y a orar.</li>
+    <li><strong>La Caridad:</strong> La **ferviente caridad** cubre multitud de pecados.</li>
+    <li><strong>La Hospitalidad:</strong> Se exhorta a la **hospitalidad** (la necesidad de apoyo mutuo en la persecución).</li>
+    <li><strong>El Juicio:</strong> Se afirma que el **juicio comienza por la casa de Dios** (la iglesia).</li>
+    <li><strong>El Servicio:</strong> Si alguien habla, que hable conforme a las **palabras de Dios**; si alguien sirve, que lo haga con el **poder de Dios**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Cristiano</h5>
+<ul>
+    <li><strong>El Oprobio:</strong> Si el creyente padece como cristiano, **"no se avergüence, sino glorifique a Dios"**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Dolor y la Gloria:</strong> Los sufrimientos de este tiempo son una **participación en la gloria** de Cristo.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **voluntad de Dios** es el único refugio en la adversidad.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">sufrimiento por la fe es una participación en los padecimientos de Cristo</span> y una prueba necesaria.</p>
             `,
@@ -49683,7 +58634,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Humildad:</strong> La base para resistir la soberbia.</li>
                     <li><strong>Diablo:</strong> Resistir al adversario con firmeza en la fe.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Autoridad y la Resistencia al Diablo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Liderazgo de Pastoreo y la Humildad</h5>
+<ul>
+    <li><strong>Los Ancianos:</strong> Pedro se identifica como **"anciano también"** (compañero en el liderazgo) y exhorta a pastorear la grey **voluntariamente** y **no por ganancia deshonesta**.</li>
+    <li><strong>El Diablo:</strong> El diablo es comparado con un **"león rugiente"** que busca a quién devorar.</li>
+    <li><strong>La Resistencia:</strong> Exhortación a **resistir al diablo** firmes en la fe.</li>
+    <li><strong>La Humildad:</strong> Se debe ser **humilde** para que Dios exalte a Su tiempo.</li>
+    <li><strong>La Despedida:</strong> Pedro envía saludos de **Marcos** (su compañero de ministerio) y de la iglesia en **Babilonia** (Roma).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El León</h5>
+<ul>
+    <li><strong>Animales:</strong> El león era un símbolo de **poder y amenaza** en el mundo antiguo.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Cuidado y Ansiedad:</strong> Se debe **echar toda ansiedad** sobre Dios, porque Él tiene cuidado de nosotros.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fidelidad** de los líderes es esencial para la salud de la Iglesia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">confianza en Dios y la resistencia al diablo</span> son esenciales para la perseverancia en la tribulación.</p>
             `
@@ -49701,7 +58675,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Transfiguración:</strong> La autoridad del testimonio ocular de Pedro.</li>
                     <li><strong>Inspiración:</strong> La profecía no es de interpretación privada, sino inspirada por el Espíritu.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Muerte Inminente y la Verdad Confirmada</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Gracia y el Testimonio Ocular</h5>
+<ul>
+    <li><strong>El Propósito:</strong> Crecer en el **conocimiento** de Jesucristo (una defensa contra los falsos maestros).</li>
+    <li><strong>El Llamado:</strong> Dios nos ha dado **"preciosas y grandísimas promesas"** para que seamos **"participantes de la naturaleza divina"**.</li>
+    <li><strong>La Cabaña:</strong> Pedro sabe que pronto dejará su **"cabaña"** (su cuerpo, indicando su muerte inminente).</li>
+    <li><strong>La Transfiguración:</strong> Pedro fue un **testigo ocular** de la **majesticia** de Cristo en el monte santo (la Transfiguración), confirmando la promesa profética.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Histórico: El Martirio</h5>
+<ul>
+    <li><strong>Muerte:</strong> La alusión a la muerte de Pedro, predicha por Jesús (Juan 21:18).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Lámpara:</strong> La **Palabra Profética** es como una **lámpara** que alumbra en lugar oscuro.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **profecía** no es de **interpretación privada**, sino inspirada por el Espíritu Santo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">crecimiento en el conocimiento de Cristo es esencial</span> para la firmeza y para refutar el error.</p>
                 
@@ -49721,7 +58717,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio:</strong> El castigo seguro para los que desprecian la autoridad de Dios.</li>
                     <li><strong>Corrupción:</strong> Los falsos maestros serán instrumentos de inmundicia y avaricia.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Herejía Inmoral y la Ganancia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio Pasado y el Peligro Actual</h5>
+<ul>
+    <li><strong>Falsos Maestros:</strong> Estos introducirán **herejías destructoras** y negarán al Señor que los rescató.</li>
+    <li><strong>La Inmoralidad:</strong> Estos maestros se caracterizan por la **sensualidad**, la **avaricia** y la **explotación** de los creyentes.</li>
+    <li><strong>Ejemplos de Juicio:</strong> Pedro cita ejemplos de juicio divino en el pasado: los **ángeles que pecaron** (posiblemente Génesis 6), el **diluvio** (solo Noé fue salvo), y la destrucción de **Sodoma y Gomorra**.</li>
+    <li><strong>Balaam:</strong> El falso maestro es comparado con **Balaam**, quien amó el **"premio de la maldad"** y fue reprendido por un asna.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Codicia</h5>
+<ul>
+    <li><strong>Ganancia Deshonesta:</strong> Los falsos maestros hacen **mercadería** de los creyentes.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Libertad:</strong> Los falsos maestros prometen **libertad**, pero ellos mismos son **esclavos de la corrupción**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **peor estado** de un creyente es el de aquel que conoce la verdad y **vuelve al error**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es justo e inmutable</span>. El creyente debe apartarse de los falsos maestros y su corrupción.</p>
             `,
@@ -49737,7 +58755,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Paciencia de Dios:</strong> Da tiempo para el arrepentimiento.</li>
                     <li><strong>Nueva Creación:</strong> La promesa de cielos nuevos y tierra nueva.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Escrutinio y la Paciencia de Dios</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Promesa y el Día del Señor</h5>
+<ul>
+    <li><strong>Los Burladores:</strong> En los últimos días vendrán **burladores** que preguntarán: **"¿Dónde está la promesa de Su advenimiento?"** (el rechazo a la Parusía).</li>
+    <li><strong>El Diluvio:</strong> El juicio futuro es tan seguro como el **juicio por agua** en el diluvio.</li>
+    <li><strong>La Paciencia:</strong> La **tardanza** del Señor no es negligencia, sino **paciencia** (Dios no quiere que nadie perezca).</li>
+    <li><strong>El Día del Señor:</strong> El día del Señor vendrá **"como ladrón en la noche"**; los **cielos pasarán** con grande estruendo y la **tierra será quemada**.</li>
+    <li><strong>La Espera:</strong> Se espera, según la promesa, **"cielos nuevos y tierra nueva"** (Isaías 65:17).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: El Uniformismo</h5>
+<ul>
+    <li><strong>Mofa:</strong> Los burladores se basaban en la idea de que **"todas las cosas permanecen como desde el principio de la creación"** (el rechazo de la intervención divina).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Tiempo y Eternidad:</strong> Para Dios, **"un día es como mil años, y mil años como un día"**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **doctrina de Pablo** es confirmada como sabiduría de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">certeza de la Venida de Cristo debe motivar la vida piadosa</span> y la evangelización.</p>
             `
@@ -49755,7 +58796,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Luz y Tinieblas:</strong> La comunión con Dios exige un estilo de vida de luz.</li>
                     <li><strong>Confesión:</strong> El requisito para la limpieza continua del pecado.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Gnosticismo Incipiente y la Carne</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Comunión y la Confesión</h5>
+<ul>
+    <li><strong>El Testimonio:</strong> Juan afirma ser un **testigo ocular** de Jesús (lo que **vieron, oyeron y palparon**), una defensa contra los que negaban la realidad de Su carne.</li>
+    <li><strong>Luz y Tinieblas:</strong> **Dios es Luz**, y en Él no hay ningunas tinieblas. No se puede vivir en el pecado y decir que se tiene comunión con Él.</li>
+    <li><strong>La Mentira:</strong> El que dice que **no tiene pecado** se engaña a sí mismo, y la verdad no está en él.</li>
+    <li><strong>El Abogado:</strong> Si el creyente peca, tiene un **Abogado** (**Paráclito**) ante el Padre, que es Jesucristo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Filosófico: El Docetismo</h5>
+<ul>
+    <li><strong>Docetismo:</strong> La herejía que afirmaba que Jesús **no tenía cuerpo real** (solo parecía humano), lo que Juan refuta con su testimonio físico.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Sangre:</strong> La **sangre de Jesucristo** nos **limpia de todo pecado**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confesión sincera** es la única condición para el perdón.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">comunión con Dios se basa en la verdad y la santidad</span>. El Evangelio es el perdón continuo por la sangre de Cristo.</p>
                 
@@ -49775,7 +58838,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Obediencia:</strong> La primera prueba de la fe genuina.</li>
                     <li><strong>Mundo y Anticristo:</strong> No amar las cosas del mundo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Amor al Mundo y la Prueba de la Verdad</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Prueba de la Obediencia y el Ungüento</h5>
+<ul>
+    <li><strong>El Mandamiento:</strong> El **mandamiento antiguo** (la Ley del amor) es el mandamiento **nuevo** (amar al prójimo).</li>
+    <li><strong>El Amor al Mundo:</strong> Se prohíbe **amar al mundo** (los deseos de la carne, los deseos de los ojos y la vanagloria de la vida).</li>
+    <li><strong>El Anticristo:</strong> La venida del **Anticristo** y los **"muchos anticristos"** que se levantaron de entre los creyentes.</li>
+    <li><strong>La Unción:</strong> Los creyentes tienen la **unción del Santo** (el Espíritu Santo), que les enseña la verdad.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Vanagloria</h5>
+<ul>
+    <li><strong>Vanagloria:</strong> El orgullo por las **posesiones** y el **estatus social** (parte del sistema mundano).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Obra:</strong> El que **guarda Su palabra** (obedece) es el que realmente conoce a Dios.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **negación de la encarnación** es el espíritu del Anticristo.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obediencia es la evidencia de la relación</span>. La fe vence el amor al mundo y sus deseos.</p>
             `,
@@ -49791,7 +58876,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Naturaleza:</strong> El hijo de Dios no practica el pecado.</li>
                     <li><strong>Amor:</strong> La prueba esencial de la vida espiritual (dar la vida por los hermanos).</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Justicia, Semilla y la Señal del Amor</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Semilla Divina y el Hermano</h5>
+<ul>
+    <li><strong>La Paternidad:</strong> La maravilla de ser llamados **"hijos de Dios"**.</li>
+    <li><strong>El Pecado:</strong> El que es **nacido de Dios no practica el pecado**, porque la **"simiente de Dios"** permanece en él.</li>
+    <li><strong>El Amor:</strong> El **amor fraternal** es la **señal** que distingue a los hijos de Dios de los hijos del Diablo.</li>
+    <li><strong>El Sacrificio:</strong> Debemos **poner nuestras vidas por los hermanos**, así como Jesús puso Su vida por nosotros.</li>
+    <li><strong>La Prueba:</strong> El amor no es solo de **palabra o lengua**, sino de **hecho y en verdad**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: Caín</h5>
+<ul>
+    <li><strong>El Malvado:</strong> Caín fue el primer asesino, cuyo odio es la raíz de la **falta de amor fraternal**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Obra de Dios:</strong> La **simiente de Dios** es la **nueva naturaleza** que rechaza el pecado.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **amor** es la **prueba de la vida** y la **base de la fe**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">identidad de ser hijos de Dios exige la práctica de la justicia</span> y el amor sacrificial.</p>
             `,
@@ -49807,7 +58915,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Encarnación:</strong> La doctrina clave (Jesús vino en carne).</li>
                     <li><strong>Dios es Amor:</strong> La fuente y el fundamento del amor cristiano.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Espíritu de Error y la Prueba Profética</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Discernimiento y el Amor Perfecto</h5>
+<ul>
+    <li><strong>La Prueba:</strong> Se instruye a **probar los espíritus** (la autoridad de los maestros) para ver si son de Dios.</li>
+    <li><strong>La Encarnación:</strong> El **Espíritu de Dios** confiesa que **Jesucristo ha venido en carne** (la prueba contra el Docetismo).</li>
+    <li><strong>El Amor de Dios:</strong> **Dios es amor**. El amor de Dios se perfecciona en el creyente.</li>
+    <li><strong>El Miedo:</strong> El **perfecto amor** echa **fuera el temor**, ya que el temor conlleva castigo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Misión</h5>
+<ul>
+    <li><strong>Los Profetas:</strong> Los profetas eran los **canales de la verdad**, y su autoridad debía ser probada.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Amor:</strong> Si **Dios nos ha amado, debemos amarnos** unos a otros.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **confesión de la humanidad de Cristo** es esencial para la ortodoxia.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">conocimiento de Dios es amor</span>. La fe se demuestra al amar a los hermanos, lo cual es la prueba de la presencia de Dios.</p>
             `,
@@ -49823,7 +58953,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Testimonio:</strong> El Espíritu, el agua y la sangre dan testimonio de Cristo.</li>
                     <li><strong>Vida Eterna:</strong> Está en el Hijo de Dios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Certeza de la Vida Eterna</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Triple Testimonio y la Oración</h5>
+<ul>
+    <li><strong>La Fe:</strong> La **victoria que vence al mundo** es **nuestra fe**.</li>
+    <li><strong>El Triple Testimonio:</strong> El testimonio de Cristo es triple: **el Espíritu, el agua y la sangre** (los sacramentos y el Espíritu como testigos).</li>
+    <li><strong>El Conocimiento:</strong> El creyente tiene la **certeza** de la **vida eterna** (el propósito de la carta).</li>
+    <li><strong>El Pecado:</strong> Hay **pecado que es de muerte** (apostasía o pecado mortal) y **pecado que no es de muerte**.</li>
+    <li><strong>El Fin:</strong> El creyente debe guardarse de los **ídolos**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Testigo</h5>
+<ul>
+    <li><strong>Testimonio:</strong> La ley judía requería **dos o tres testigos** para establecer una verdad.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Dios Verdadero:</strong> El Hijo de Dios nos da **entendimiento** para conocer al **Dios verdadero**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **vida eterna** reside en la **unidad** con el Hijo de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe es el poder que nos conecta con la vida eterna</span> y nos da la victoria sobre el sistema mundano.</p>
             `
@@ -49841,7 +58994,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Engaño:</strong> La negación de la Encarnación como la marca del anticristo.</li>
                     <li><strong>Hospitalidad Limitada:</strong> No apoyar a los falsos maestros.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Señora Elegida y la Advertencia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Amor y la Hospitalidad Falsa</h5>
+<ul>
+    <li><strong>La Audiencia:</strong> La carta está dirigida a la **"Señora elegida y a sus hijos"** (posiblemente una iglesia local o una dama prominente).</li>
+    <li><strong>La Verdad:</strong> La Iglesia debe **andar en la verdad** (la sana doctrina).</li>
+    <li><strong>El Mandamiento:</strong> El **mandamiento antiguo** de **amarse unos a otros**.</li>
+    <li><strong>Los Engañadores:</strong> La advertencia contra los **muchos engañadores** que no confiesan que **Jesucristo ha venido en carne** (el peligro de hospedar herejes).</li>
+    <li><strong>La Hospitalidad:</strong> Se prohíbe **recibir** o **saludar** a los falsos maestros en la casa (cooperación con sus malas obras).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Casa de Huéspedes</h5>
+<ul>
+    <li><strong>Hospitalidad:</strong> En la antigüedad, la **hospitalidad** era una obligación social y religiosa. Juan la limita para proteger la doctrina.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Doctrina y Amistad:</strong> La **fidelidad a la doctrina** es superior a la **hospitalidad social**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **verdad** debe ser protegida de la **influencia de la herejía**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fidelidad doctrinal es esencial para la práctica del amor</span>. El amor cristiano nunca es ciego a la verdad.</p>
                 
@@ -49863,7 +59039,30 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Soberbia:</strong> El pecado de Diótrefes por querer el primer lugar.</li>
                     <li><strong>Buen Testimonio:</strong> La conducta de Gayo como modelo de la piedad.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Hospitalidad Verdadera y la Tiranía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Caridad y el Testimonio Fiel</h5>
+<ul>
+    <li><strong>Gayo:</strong> La carta está dirigida a **Gayo**, elogiándolo por su **hospitalidad** con los **hermanos viajeros** (misioneros).</li>
+    <li><strong>La Verdad:</strong> Gayo anda en la **verdad** (la doctrina y la práctica son correctas).</li>
+    <li><strong>Diótrefes:</strong> Condena a **Diótrefes**, que **ama tener el primer lugar** (orgullo), no recibe a los misioneros y **expulsa** de la iglesia a los que lo hacen.</li>
+    <li><strong>Demetrio:</strong> Se alaba a **Demetrio**, que tiene **buen testimonio** de todos.</li>
+    <li><strong>El Viaje:</strong> Los misioneros viajan **"sin tomar nada de los gentiles"** (su sustento proviene solo de los creyentes).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Liderazgo</h5>
+<ul>
+    <li><strong>Tiranía:</strong> Diótrefes demuestra un **liderazgo autoritario y egoísta** que debe ser condenado.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Amor vs. Egoísmo:</strong> El **servicio** de Gayo se contrasta con el **egoísmo** de Diótrefes.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **apoyo a la misión** es la prueba del **verdadero amor fraternal**.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">verdadera piedad se evidencia en la hospitalidad</span> y el rechazo a la autoridad egoísta.</p>
                 
@@ -49885,7 +59084,36 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Histórico:</strong> Dios castiga la inmoralidad y la rebelión.</li>
                     <li><strong>Edificación Personal:</strong> Orar en el Espíritu Santo y mantenerse en el amor de Dios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Falsos Maestros y Apostasía</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Lucha por la Fe y la Corrupción</h5>
+<ul>
+    <li><strong>Propósito:</strong> Judas quería escribir sobre la **común salvación**, pero se vio obligado a exhortar a **contender ardientemente por la fe** que ha sido dada una vez a los santos.</li>
+    <li><strong>Características:</strong> Los falsos maestros son hombres **impíos** que han convertido la **gracia de Dios en libertinaje** y niegan a Cristo.</li>
+    <li><strong>Ejemplos de Juicio:</strong> Utiliza tres ejemplos históricos de juicio seguro:
+        <ol>
+            <li>**Israel en el Desierto:** Dios destruyó a los que no creyeron (Números 14).</li>
+            <li>**Ángeles Caídos:** Los ángeles que no guardaron su dignidad están reservados en prisiones eternas.</li>
+            <li>**Sodoma y Gomorra:** Sufrieron el juicio del **fuego eterno** por su inmoralidad.</li>
+        </ol>
+    </li>
+    <li><strong>Las Manchas:</strong> Estos maestros son **manchas en los ágapes** (fiestas de amor) de la iglesia.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Libertinaje</h5>
+<ul>
+    <li><strong>Ágape:</strong> Los falsos maestros usaban las **comidas comunitarias** de la iglesia para su propio provecho y placer, sin temor.</li>
+    <li><strong>Miguel y Satanás:</strong> Se alude a una tradición judía sobre el arcángel Miguel que contendió con el diablo por el **cuerpo de Moisés**.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Cuidado Divino:</strong> Dios puede **guardar sin caída** y presentar al creyente sin mancha ante Su gloria.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **fe verdadera** se edifica en el Espíritu Santo y se mantiene en el amor de Dios.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">creyente debe ser un defensor activo de la verdad</span>. La oración y la piedad son la defensa contra la herejía.</p>
                 
@@ -49907,7 +59135,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Siete Iglesias:</strong> La presencia de Cristo en medio de Su Iglesia.</li>
                     <li><strong>Supremacía:</strong> Cristo es el Soberano y el Redentor.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión de Cristo Glorificado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Hijo del Hombre y la Súbita Venida</h5>
+<ul>
+    <li><strong>Género:</strong> Es una **revelación** (Apocalipsis) que Jesús dio a Juan para mostrar lo que **debe suceder pronto**.</li>
+    <li><strong>El Vidente:</strong> Juan está desterrado en la **isla de Patmos** por causa de la Palabra de Dios (el exilio por persecución).</li>
+    <li><strong>Visión de Cristo:</strong> Jesús se presenta con títulos divinos (Alfa y Omega, Primero y Último). Su apariencia es la del **Hijo del Hombre** (Daniel 7), con cabello blanco (eternidad) y ojos como **llama de fuego** (juicio).</li>
+    <li><strong>Símbolos:</strong> Jesús sostiene **siete estrellas** (los ángeles/mensajeros de las iglesias) y camina en medio de **siete candeleros de oro** (las iglesias).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Político: El Culto Imperial</h5>
+<ul>
+    <li><strong>Patmos:</strong> Era una **colonia penal** romana, lo que subraya la situación de persecución del apóstol.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>Muerte y Vida:</strong> Cristo fue el que **murió** y ahora está **vivo por los siglos de los siglos**, y tiene **las llaves del Hades y de la muerte**.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> La **autoridad final** reside en Cristo resucitado, no en el emperador Domiciano.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">autoridad de Cristo es total sobre la vida y la muerte</span>. La fe debe mantenerse en la esperanza de Su regreso.</p>
                 
@@ -49927,7 +59177,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad:</strong> Resistir la persecución (Esmirna).</li>
                     <li><strong>Compromiso:</strong> El peligro de tolerar la falsa doctrina.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Mensaje a las Siete Iglesias de Asia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Práctica y el Mensaje Local</h5>
+<ul>
+    <li><strong>Éfeso:</strong> Es elogiada por su **ortodoxia** y su **prueba de falsos apóstoles**, pero ha dejado su **primer amor**.</li>
+    <li><strong>Esmirna:</strong> Sufre por la **pobreza** y la **persecución** (pero es rica espiritualmente). Tiene la **"sinagoga de Satanás"** (judíos que se oponen al Evangelio).</li>
+    <li><strong>Pérgamo:</strong> Reside donde está el **"trono de Satanás"** (centro de culto imperial). Toleran la doctrina de **Balaam** (idolatría e inmoralidad).</li>
+    <li><strong>Tiatira:</strong> Tolera a la **profetisa Jezabel** (enseñanza de inmoralidad e idolatría).</li>
+    <li><strong>Sardis:</strong> Tiene **nombre de que vive, pero está muerta**. Necesita avivar lo poco que le queda.</li>
+    <li><strong>Filadelfia:</strong> Ha guardado la Palabra, se le promete una **puerta abierta** y protección de la hora de la prueba.</li>
+    <li><strong>Laodicea:</strong> Es **tibia** (ni fría ni caliente) y **rica**, y se le aconseja comprar oro refinado y colirio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Problemas de la Época</h5>
+<ul>
+    <li><strong>Pérgamo:</strong> Famosa por el culto a Esculapio (dios serpiente).</li>
+    <li><strong>Laodicea:</strong> Famosa por su **riqueza bancaria** y su **lana negra**. Sus aguas eran famosas por ser tibias (vómito).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Vencedor:</strong> A cada iglesia se le promete una **recompensa escatológica** (el árbol de la vida, la corona, la columna, el trono).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">amor y la pureza doctrinal son las bases de la Iglesia</span>. El Señor exige un examen propio constante.</p>
             `,
@@ -49943,7 +59215,29 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Fidelidad:</strong> La perseverancia de Filadelfia es recompensada.</li>
                     <li><strong>Puerta:</strong> Jesús llama a la puerta del corazón del creyente.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Mensaje a las Siete Iglesias de Asia</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Práctica y el Mensaje Local</h5>
+<ul>
+    <li><strong>Éfeso:</strong> Es elogiada por su **ortodoxia** y su **prueba de falsos apóstoles**, pero ha dejado su **primer amor**.</li>
+    <li><strong>Esmirna:</strong> Sufre por la **pobreza** y la **persecución** (pero es rica espiritualmente). Tiene la **"sinagoga de Satanás"** (judíos que se oponen al Evangelio).</li>
+    <li><strong>Pérgamo:</strong> Reside donde está el **"trono de Satanás"** (centro de culto imperial). Toleran la doctrina de **Balaam** (idolatría e inmoralidad).</li>
+    <li><strong>Tiatira:</strong> Tolera a la **profetisa Jezabel** (enseñanza de inmoralidad e idolatría).</li>
+    <li><strong>Sardis:</strong> Tiene **nombre de que vive, pero está muerta**. Necesita avivar lo poco que le queda.</li>
+    <li><strong>Filadelfia:</strong> Ha guardado la Palabra, se le promete una **puerta abierta** y protección de la hora de la prueba.</li>
+    <li><strong>Laodicea:</strong> Es **tibia** (ni fría ni caliente) y **rica**, y se le aconseja comprar oro refinado y colirio.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: Los Problemas de la Época</h5>
+<ul>
+    <li><strong>Pérgamo:</strong> Famosa por el culto a Esculapio (dios serpiente).</li>
+    <li><strong>Laodicea:</strong> Famosa por su **riqueza bancaria** y su **lana negra**. Sus aguas eran famosas por ser tibias (vómito).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Vencedor:</strong> A cada iglesia se le promete una **recompensa escatológica** (el árbol de la vida, la corona, la columna, el trono).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe debe ser ferviente y viva</span>. El Señor rechaza la indiferencia cómoda.</p>
             `,
@@ -49959,7 +59253,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Adoración:</strong> El propósito central del cielo.</li>
                     <li><strong>Majestad:</strong> La descripción gloriosa del Trono de Dios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Visión del Trono Celestial</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Adoración y el Propósito de la Creación</h5>
+<ul>
+    <li><strong>El Trono:</strong> Juan es arrebatado al cielo y ve el **Trono de Dios**.</li>
+    <li><strong>El Arco Iris:</strong> Un **arco iris** (símbolo del pacto de Noé) rodea el trono.</li>
+    <li><strong>Los 24 Ancianos:</strong> Se sientan en tronos, vestidos de blanco, con **coronas de oro** (representantes del pueblo de Dios, Antiguo y Nuevo Testamento).</li>
+    <li><strong>Los Seres Vivientes:</strong> **Cuatro seres vivientes** (querubines/serafines), llenos de ojos, que alaban a Dios continuamente.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Litúrgico: El Cántico</h5>
+<ul>
+    <li><strong>La Postración:</strong> Los ancianos se **postran** ante el Trono, adorando y echando sus coronas.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Santidad:</strong> La **santidad** es el fundamento del poder de Dios (**"Santo, Santo, Santo"**).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">adoración a Dios como Creador es la razón de ser del cielo</span>. La fe debe tener una visión de la majestad de Dios.</p>
             `,
@@ -49975,7 +59287,25 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cordero Inmolado:</strong> La identidad sacrificial de Cristo.</li>
                     <li><strong>Redención:</strong> El Cordero compró a gente de toda nación, tribu y lengua.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Cordero Digno y el Libro Sellado</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Redención y la Soberanía</h5>
+<ul>
+    <li><strong>El Rollo Sellado:</strong> Dios sostiene un **rollo escrito** por dentro y por fuera, **sellado con siete sellos** (el destino de la historia).</li>
+    <li><strong>La Duda:</strong> Nadie en el cielo ni en la tierra es **digno de abrir** el rollo.</li>
+    <li><strong>El León y el Cordero:</strong> Cristo es el **León de la tribu de Judá** (el Mesías Real) y el **Cordero inmolado** (el Mesías Sufriente).</li>
+    <li><strong>El Cántico Nuevo:</strong> Los ancianos y los seres vivientes cantan un **cántico nuevo** por la redención por la sangre de Cristo.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Rollo</h5>
+<ul>
+    <li><strong>El Rollo:</strong> Un documento legal sellado que solo el **dueño o el heredero** podían abrir.</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Sacrificio:</strong> La **muerte de Cristo** es la única que le da la autoridad para ejecutar el plan de Dios.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">obra redentora de Cristo es el centro de la adoración celestial</span>. Su sacrificio es el único poder que da sentido a la historia.</p>
             `,
@@ -49991,7 +59321,24 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Mártires:</strong> La intercesión de los que murieron por la Palabra de Dios.</li>
                     <li><strong>Ira de Dios:</strong> El terror del día del juicio.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Los Siete Sellos (La Guerra, el Hambre y la Muerte)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Juicio y los Mártires</h5>
+<ul>
+    <li><strong>Cuatro Caballos:</strong> Los primeros cuatro sellos liberan a los **Cuatro Jinetes del Apocalipsis**: el **caballo blanco** (conquista), el **rojo** (guerra), el **negro** (hambre), y el **amarillo** (muerte/plaga).</li>
+    <li><strong>El Quinto Sello:</strong> Revela a las **almas de los mártires** bajo el altar, clamando por venganza.</li>
+    <li><strong>El Sexto Sello:</strong> Un **gran terremoto** y **fenómenos cósmicos** (el sol se pone negro, la luna como sangre).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Balanza</h5>
+<ul>
+    <li><strong>La Balanza:</strong> El jinete del caballo negro (el hambre) usa una **balanza** para pesar la comida (el alto precio del alimento).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>La Redención:</strong> Los reyes y los grandes de la Tierra se esconden, pero no pueden escapar de la **ira del Cordero**.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">historia está sujeta a la voluntad de Dios</span>. El sufrimiento de los mártires es reconocido y vindicado.</p>
             `,
@@ -50007,7 +59354,24 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Universalidad:</strong> La multitud de gentiles y la salvación global.</li>
                     <li><strong>El Gran Pastor:</strong> El Cordero es quien guía y consuela.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Sellamiento de Israel y la Multitud Gentil</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Remanente y la Inclusión</h5>
+<ul>
+    <li><strong>Los Cuatro Vientos:</strong> Cuatro ángeles detienen los **cuatro vientos** (la ira de Dios).</li>
+    <li><strong>El Sellamiento:</strong> **144.000** siervos de Dios son **sellados en sus frentes** (uno de cada tribu de Israel, asegurando su protección).</li>
+    <li><strong>La Gran Multitud:</strong> Juan ve una **gran multitud** (gentiles) de **toda nación, tribu, pueblo y lengua** que ha lavado sus ropas en la sangre del Cordero.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: El Sello</h5>
+<ul>
+    <li><strong>El Sello:</strong> El sello en la frente era una marca de **propiedad y protección** (en contraste con la marca de la Bestia).</li>
+</ul>
+
+<h5 style="color: var(--primary-color);">🔄 Principales Contrastes</h5>
+<ul>
+    <li><strong>El Mártir:</strong> Los que han salido de la **gran tribulación** sirven a Dios en Su templo.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">salvación de Dios es para todos los pueblos</span>. La fe persevera en el sufrimiento hasta la gloria.</p>
             `,
@@ -50023,7 +59387,22 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Oración:</strong> Las oraciones de los santos son el catalizador del juicio.</li>
                     <li><strong>Juicio Ecológico:</strong> La destrucción de la tercera parte de la creación.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Siete Trompetas (Juicios Parciales)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Incienso, la Estrella y el Abismo</h5>
+<ul>
+    <li><strong>El Séptimo Sello:</strong> El silencio de **media hora** en el cielo. Un ángel ofrece **incienso** con las oraciones de los santos.</li>
+    <li><strong>Las Trompetas:</strong> Las primeras cuatro trompetas afectan la **naturaleza** (la tierra, el mar, los ríos, el sol/luna).</li>
+    <li><strong>Ajenjo:</strong> Una **estrella** llamada **Ajenjo** cae sobre los ríos y los amarga (destrucción parcial).</li>
+    <li><strong>La Quinta Trompeta:</strong> Se abre el **pozo del abismo** y salen **langostas demoníacas** (con poder para atormentar).</li>
+    <li><strong>Abadón:</strong> El rey de las langostas es **Abadón** (destructor).</li>
+    <li><strong>La Sexta Trompeta:</strong> Se suelta a los **cuatro ángeles atados** en el Éufrates (el juicio de la caballería demoníaca).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: El Incienso</h5>
+<ul>
+    <li><strong>El Incienso:</strong> El incienso se mezcla con las **oraciones de los santos** antes del juicio (la oración precipita el juicio).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es una respuesta a las oraciones de Su pueblo</span>. La creación misma sufre por el pecado.</p>
             `,
@@ -50039,7 +59418,22 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Endurecimiento:</strong> La falta de arrepentimiento de la humanidad.</li>
                     <li><strong>Guerras:</strong> La destrucción masiva en la Tierra.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Siete Trompetas (Juicios Parciales)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Incienso, la Estrella y el Abismo</h5>
+<ul>
+    <li><strong>El Séptimo Sello:</strong> El silencio de **media hora** en el cielo. Un ángel ofrece **incienso** con las oraciones de los santos.</li>
+    <li><strong>Las Trompetas:</strong> Las primeras cuatro trompetas afectan la **naturaleza** (la tierra, el mar, los ríos, el sol/luna).</li>
+    <li><strong>Ajenjo:</strong> Una **estrella** llamada **Ajenjo** cae sobre los ríos y los amarga (destrucción parcial).</li>
+    <li><strong>La Quinta Trompeta:</strong> Se abre el **pozo del abismo** y salen **langostas demoníacas** (con poder para atormentar).</li>
+    <li><strong>Abadón:</strong> El rey de las langostas es **Abadón** (destructor).</li>
+    <li><strong>La Sexta Trompeta:</strong> Se suelta a los **cuatro ángeles atados** en el Éufrates (el juicio de la caballería demoníaca).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Religioso: El Incienso</h5>
+<ul>
+    <li><strong>El Incienso:</strong> El incienso se mezcla con las **oraciones de los santos** antes del juicio (la oración precipita el juicio).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio revela la maldad y la terquedad del corazón humano</span>, que se niega a arrepentirse.</p>
             `,
@@ -50055,7 +59449,21 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Profecía:</strong> El mensaje de Juan es un oráculo de juicio y revelación.</li>
                     <li><strong>Experiencia de Juan:</strong> El profeta asimila el mensaje de juicio.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Mensaje del Profeta y el Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Rollo Dulce/Amargo y los Dos Testigos</h5>
+<ul>
+    <li><strong>El Ángel Fuerte:</strong> Un ángel con un **librito abierto** le ordena a Juan que lo **coma** (el mensaje es dulce en la boca, pero amargo en el vientre).</li>
+    <li><strong>La Misión:</strong> Juan debe **profetizar de nuevo** sobre muchos pueblos.</li>
+    <li><strong>El Templo:</strong> El **Templo** es medido, y el **atrio de los gentiles** es entregado a las naciones.</li>
+    <li><strong>Los Dos Testigos:</strong> Aparecen **dos testigos** (simbolizando la Ley y los Profetas/Moisés y Elías) que profetizan por **1,260 días** y tienen poder para enviar plagas.</li>
+    <li><strong>El Séptimo Ángel:</strong> Toca la trompeta, y se proclama que el **reino del mundo** ha venido a ser de **Cristo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Juicio</h5>
+<ul>
+    <li><strong>El Testigo:</strong> La ley judía requería **dos testigos** para establecer una verdad o un juicio.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">mensaje de Dios es doble</span>: dulce (la gracia) y amargo (el juicio). El profeta debe asimilar ambos.</p>
             `,
@@ -50071,7 +59479,21 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Triunfo:</strong> El dominio final de Cristo sobre los reinos del mundo.</li>
                     <li><strong>Resurrección:</strong> La vindicación de los testigos.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Mensaje del Profeta y el Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Rollo Dulce/Amargo y los Dos Testigos</h5>
+<ul>
+    <li><strong>El Ángel Fuerte:</strong> Un ángel con un **librito abierto** le ordena a Juan que lo **coma** (el mensaje es dulce en la boca, pero amargo en el vientre).</li>
+    <li><strong>La Misión:</strong> Juan debe **profetizar de nuevo** sobre muchos pueblos.</li>
+    <li><strong>El Templo:</strong> El **Templo** es medido, y el **atrio de los gentiles** es entregado a las naciones.</li>
+    <li><strong>Los Dos Testigos:</strong> Aparecen **dos testigos** (simbolizando la Ley y los Profetas/Moisés y Elías) que profetizan por **1,260 días** y tienen poder para enviar plagas.</li>
+    <li><strong>El Séptimo Ángel:</strong> Toca la trompeta, y se proclama que el **reino del mundo** ha venido a ser de **Cristo**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Juicio</h5>
+<ul>
+    <li><strong>El Testigo:</strong> La ley judía requería **dos testigos** para establecer una verdad o un juicio.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">testimonio del Evangelio es poderoso</span> y será resucitado en gloria. El reino de Cristo es eterno.</p>
             `,
@@ -50087,7 +59509,20 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Hijo Varón:</strong> Cristo es protegido y glorificado.</li>
                     <li><strong>Persecución:</strong> El Dragón persigue a la Iglesia.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Mujer, el Dragón y la Guerra Espiritual</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Semilla de David y el Éxodo</h5>
+<ul>
+    <li><strong>La Mujer:</strong> Una **mujer vestida del sol** (Israel/el pueblo de Dios) da a luz al **Hijo varón** (Cristo).</li>
+    <li><strong>El Dragón:</strong> Un **dragón rojo** (Satanás) espera para devorar al Hijo.</li>
+    <li><strong>La Batalla Celestial:</strong> **Miguel** y sus ángeles luchan contra el Dragón. Satanás es **echado a la Tierra**.</li>
+    <li><strong>La Persecución:</strong> El Dragón persigue a la Mujer, y ella huye al **desierto** (la protección divina).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Social: La Persecución</h5>
+<ul>
+    <li><strong>El Testimonio:</strong> El Dragón hace guerra contra el **remanente** que guarda los mandamientos de Dios y tiene el **testimonio de Jesús**.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">victoria de Cristo sobre Satanás es el centro de la historia</span>. El creyente está bajo la protección divina.</p>
             `,
@@ -50103,7 +59538,20 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Falso Profeta:</strong> La religión que promueve la adoración al mal.</li>
                     <li><strong>Marca de la Bestia:</strong> La señal de lealtad al sistema del mal.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Dos Bestias (Poder Político y Falso Culto)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Usurpación y la Marca</h5>
+<ul>
+    <li>**La Primera Bestia (Del Mar):** Símbolo del **poder político opresor** (el Imperio Romano). Recibe su poder del Dragón.</li>
+    <li>**La Segunda Bestia (De la Tierra):** El **Falso Profeta**, que promueve la adoración de la Primera Bestia.</li>
+    <li>**La Imagen:** La Segunda Bestia hace que todos adoren la **imagen de la Primera Bestia**.</li>
+    <li>**La Marca (666):** La marca en la mano o frente es necesaria para **comprar o vender** (control económico).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Político: El Culto Imperial</h5>
+<ul>
+    <li>**La Marca:** El número **666** es una alusión cifrada (**gematría**) a **"César Nerón"** o al nombre de la bestia.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">poder del mal es una imitación de la Trinidad</span>, pero es destinado al juicio eterno.</p>
             `,
@@ -50119,7 +59567,20 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Evangelio Eterno:</strong> La proclamación del Evangelio a todas las naciones.</li>
                     <li><strong>Paciencia:</strong> La perseverancia de los santos en la prueba.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Canto de la Redención y la Cosecha</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Consagración y el Juicio Final</h5>
+<ul>
+    <li>**Los 144,000:** Están de pie con el Cordero en el Monte Sión. Llevan el **nombre del Padre** en la frente.</li>
+    <li>**El Canto Nuevo:** Solo ellos pueden cantar el **cántico nuevo** (la pureza de la adoración).</li>
+    <li>**Los Vinos:** El mensaje de los ángeles sobre el **vino de la ira de Dios** que las naciones beberán.</li>
+    <li>**La Cosecha:** El **Hijo del Hombre** está sentado en la nube, lanzando la **hoz** sobre la Tierra (el juicio).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Agrícola: La Hoja</h5>
+<ul>
+    <li>**Lagar:** La **ira de Dios** se describe como el **pisoteo del lagar** (un proceso violento).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">fe persevera con paciencia</span>, sabiendo que el juicio es el preludio de la reunión con el Cordero.</p>
             `,
@@ -50135,7 +59596,20 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Cántico de Moisés:</strong> La conexión entre el Éxodo y la liberación final.</li>
                     <li><strong>Gloria de Dios:</strong> La manifestación de la santidad de Dios.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Altar del Holocausto y la Última Cólera</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Los Vencedores y el Templo</h5>
+<ul>
+    <li>**El Mar de Vidrio:** Juan ve a los **vencedores de la Bestia** de pie sobre un **mar de vidrio** (la purificación).</li>
+    <li>**Los Vencidos:** Cantan el **cántico de Moisés** y el **cántico del Cordero**.</li>
+    <li>**El Templo: El Templo del Tabernáculo del Testimonio** se abre en el cielo.</li>
+    <li>**Los Juicios:** **Siete ángeles** reciben **siete copas de oro** llenas de la **ira de Dios**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Ritual: Las Copas</h5>
+<ul>
+    <li>**Copa: La copa** es un símbolo profético del **juicio divino** (Jeremías 25).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">justicia de Dios es merecedora de la alabanza eterna</span>. El sufrimiento es vindicado por la gloria.</p>
             `,
@@ -50151,7 +59625,20 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Armagedón:</strong> La reunión de las fuerzas del mal para la batalla final.</li>
                     <li><strong>Consumación:</strong> La conclusión del juicio.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Altar del Holocausto y la Última Cólera</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ Los Vencedores y el Templo</h5>
+<ul>
+    <li>**El Mar de Vidrio:** Juan ve a los **vencedores de la Bestia** de pie sobre un **mar de vidrio** (la purificación).</li>
+    <li>**Los Vencidos:** Cantan el **cántico de Moisés** y el **cántico del Cordero**.</li>
+    <li>**El Templo: El Templo del Tabernáculo del Testimonio** se abre en el cielo.</li>
+    <li>**Los Juicios:** **Siete ángeles** reciben **siete copas de oro** llenas de la **ira de Dios**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Ritual: Las Copas</h5>
+<ul>
+    <li>**Copa: La copa** es un símbolo profético del **juicio divino** (Jeremías 25).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio final es una retribución justa</span> por los pecados de la humanidad y la incredulidad.</p>
             `,
@@ -50167,7 +59654,20 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Bestia y Ramera:</strong> La alianza temporal entre el poder político y la religión apóstata.</li>
                     <li><strong>Juicio:</strong> La destrucción de la maldad por la mano del propio sistema.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Juicio a Babilonia (Roma, la Ramera)</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Bestia y la Mujer</h5>
+<ul>
+    <li>**La Gran Ramera:** Una mujer vestida de **púrpura y escarlata** (colores de la realeza y la lujuria romana) sentada sobre **muchas aguas**.</li>
+    <li>**La Copa:** La mujer tiene una **copa de oro** llena de abominaciones.</li>
+    <li>**La Bestia Escarlata:** La mujer se sienta sobre una **Bestia escarlata** con siete cabezas y diez cuernos (el Imperio Romano).</li>
+    <li>**El Misterio:** La inscripción en su frente: **"Misterio, Babilonia la Grande"** (la ciudad impía).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Político: Las Siete Colinas</h5>
+<ul>
+    <li><strong>Siete Montes:</strong> Las siete cabezas son **siete montes** sobre los cuales se sienta la mujer (alusión a las siete colinas de Roma).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">alianza entre el poder y la falsa religión será destruida</span>. El juicio de Dios es evidente.</p>
             `,
@@ -50183,7 +59683,19 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Lamento:</strong> El dolor por la pérdida de la riqueza.</li>
                     <li><strong>Juicio Justo:</strong> La retribución por la persecución a los santos.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Caída y el Lamento Económico</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Lamento y la Separación</h5>
+<ul>
+    <li>**El Gran Ángel:** Un ángel proclama la **caída de Babilonia**.</li>
+    <li><strong>El Saqueo:</strong> Los **mercaderes, marineros y reyes** lamentan la destrucción del sistema económico que los enriqueció.</li>
+    <li><strong>La Advertencia:</strong> Se exhorta al pueblo de Dios a **"Salid de ella, pueblo mío"** (separación total del sistema).</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Comercial: Las Mercancías</h5>
+<ul>
+    <li><strong>Mercancías:</strong> La detallada lista de **mercancías** (oro, perlas, seda, marfil, incienso, esclavos) subraya la **opulencia** del sistema romano.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">separación del sistema mundial es obligatoria</span>. El juicio de Dios es una victoria para los justos.</p>
             `,
@@ -50199,7 +59711,20 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Segunda Venida:</strong> Cristo regresa como Rey y Guerrero.</li>
                     <li><strong>Juicio de las Bestias:</strong> La derrota final del Anticristo y el Falso Profeta.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: Las Bodas del Cordero y el Regreso Triunfal</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Consumación de la Iglesia y el Juicio</h5>
+<ul>
+    <li>**El Aleluya:** La adoración en el cielo clama **"¡Aleluya!"** por el juicio a la Gran Ramera.</li>
+    <li>**Las Bodas del Cordero:** La Iglesia (la **Esposa**) se prepara y se viste de **lino fino** (las **acciones justas de los santos**).</li>
+    <li>**El Guerrero:** Cristo regresa en un **caballo blanco** como **"Fiel y Verdadero"**, con Su manto teñido en sangre.</li>
+    <li>**La Espada:** De Su boca sale una **espada aguda** para herir a las naciones.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Militar: El Regreso</h5>
+<ul>
+    <li><strong>Manto:</strong> El nombre de Cristo está escrito en Su muslo: **"Rey de Reyes y Señor de Señores"**.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">regreso de Cristo es el triunfo final</span>. La fe se regocija en la venida del Rey justo.</p>
             `,
@@ -50215,7 +59740,20 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Juicio Final:</strong> La resurrección y el juicio según las obras.</li>
                     <li><strong>Muerte:</strong> La destrucción final de la muerte y el Hades.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: El Milenio y el Juicio Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Atadura de Satanás y la Resurrección</h5>
+<ul>
+    <li>**El Milenio:** Un ángel ata a **Satanás** y lo arroja al **abismo por mil años**.</li>
+    <li>**El Reinado:** Los **mártires** y los justos **reinan con Cristo por mil años**.</li>
+    <li>**Gog y Magog:** Después de los mil años, Satanás es liberado y reúne a **Gog y Magog** (los enemigos finales) para la última batalla.</li>
+    <li>**El Juicio Final:** El **Juicio del Gran Trono Blanco**. Los muertos son juzgados según sus **obras** escritas en los libros.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Tribunal</h5>
+<ul>
+    <li><strong>Libros:</strong> Los libros son abiertos para **registrar la vida** de cada persona.</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">juicio de Dios es justo y final</span>. La vida eterna es la recompensa de la fe.</p>
             `,
@@ -50231,7 +59769,21 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Nueva Jerusalén:</strong> La morada eterna de Dios y Su pueblo.</li>
                     <li><strong>Fin del Sufrimiento:</strong> La eliminación del dolor y la muerte.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Nueva Creación y la Ciudad sin Templo</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ La Nueva Jerusalén y la Inclusión</h5>
+<ul>
+    <li>**La Nueva Creación:** Juan ve los **cielos nuevos y la tierra nueva**; el **mar ya no existe** (el fin del caos).</li>
+    <li>**La Ciudad:** La **Nueva Jerusalén** desciende como una **esposa ataviada** (la consumación de la Iglesia).</li>
+    <li><strong>La Gloria:</strong> La ciudad no necesita **sol ni luna**.</li>
+    <li>**El Templo:** **No hay Templo** en la ciudad, porque **Dios es el Templo**.</li>
+    <li><strong>La Inclusión:</strong> Las **puertas** están siempre **abiertas**, y la **gloria de las naciones** entrará.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Arquitectónico: La Medida</h5>
+<ul>
+    <li><strong>Murallas:</strong> La ciudad tiene **doce cimientos** (los apóstoles) y **doce puertas** (las tribus de Israel).</li>
+</ul>
                 <h4>✨ Significado Espiritual</h4>
                 <p>La <span class="highlight">comunión eterna con Dios es la culminación de la redención</span>. La fe es la llave del Libro de la Vida.</p>
             `,
@@ -50247,7 +59799,24 @@ function generarContextoLocal(libro, capitulo) {
                     <li><strong>Invitación:</strong> El llamado final a la salvación.</li>
                     <li><strong>Promesa:</strong> El regreso inminente de Cristo.</li>
                 </ul>
-                
+                <h4>🏛️ Contexto Histórico: La Vida Eterna y la Advertencia Final</h4>
+
+<h5 style="color: var(--secondary-color);">✡️ El Río de Vida y el Sello</h5>
+<ul>
+    <li>**El Paraíso Restaurado:** El **río de agua de vida** y el **Árbol de la Vida** (cuyas hojas son para la sanidad de las naciones).</li>
+    <li><strong>La Adoración:</strong> Los siervos de Dios **verán Su rostro** y tendrán Su **nombre** en la frente.</li>
+    <li><strong>La Advertencia:</strong> Se prohíbe **añadir o quitar** las palabras de la profecía (el cierre del canon).</li>
+    <li><strong>La Venida:</strong> El **Espíritu** y la **Esposa** claman: **"¡Ven!"** La respuesta final de Cristo: **"Ciertamente, vengo en breve"**.</li>
+</ul>
+
+<h5 style="color: #ff6b6b;">⚔️ Contexto Legal: El Juramento</h5>
+<ul>
+    <li><strong>Profecía:</strong> El **juicio** caerá sobre quien altere la profecía.</li>
+</ul>
+
+<div class="info-box" style="margin-top: 20px; border-left: 4px solid var(--primary-color); padding-left: 15px;">
+    <strong>📖 Contraste Espiritual:</strong> El **verdadero gozo** es la **comunión eterna** con el Cordero y el Padre.
+</div>
                 <h4>✨ Significado Espiritual</h4>
                 <p>El <span class="highlight">Espíritu y la Iglesia (la Esposa) claman por el regreso de Cristo</span>. La vida es beber del agua de Dios.</p>
                 
