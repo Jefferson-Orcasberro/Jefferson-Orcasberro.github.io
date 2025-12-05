@@ -809,3 +809,121 @@
         border-radius: 6px;
     }
 }
+
+/* ========================================= */
+/* --- ESTILOS PARA BUSCADOR DE VERSÍCULOS --- */
+/* ========================================= */
+
+.search-container {
+    width: 100%;
+    max-width: 600px;
+}
+
+.search-container label {
+    display: block;
+    margin-bottom: 12px;
+    font-size: 1.1em;
+    color: var(--secondary-color);
+    font-weight: 600;
+}
+
+.search-input-wrapper {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+#buscador-versiculos {
+    flex: 1;
+    padding: 12px 18px;
+    font-size: 1em;
+    border: 2px solid var(--primary-color);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+#buscador-versiculos:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
+}
+
+#buscador-versiculos::placeholder {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.btn-limpiar-busqueda {
+    padding: 12px 18px;
+    background: linear-gradient(135deg, #e74c3c, #c0392b);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.1em;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-limpiar-busqueda:hover {
+    background: linear-gradient(135deg, #c0392b, #a93226);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(231, 76, 60, 0.4);
+}
+
+.btn-limpiar-busqueda:active {
+    transform: translateY(0);
+}
+
+/* Estilo para versículos encontrados */
+.versiculo.encontrado {
+    background: linear-gradient(135deg, rgba(212, 175, 55, 0.2), rgba(212, 175, 55, 0.1));
+    border-left: 4px solid var(--primary-color);
+    padding-left: 16px;
+}
+
+.versiculo.encontrado .versiculo-texto {
+    color: var(--secondary-color);
+}
+
+/* Estilo para el texto subrayado dentro del versículo */
+mark {
+    background: linear-gradient(120deg, var(--primary-color), rgba(212, 175, 55, 0.5));
+    color: #000;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+/* Información de búsqueda */
+.search-info {
+    margin-top: 15px;
+    padding: 12px 15px;
+    background: rgba(52, 152, 219, 0.1);
+    border-left: 4px solid var(--secondary-color);
+    border-radius: 6px;
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    text-align: center;
+}
+
+/* Responsive para buscador */
+@media (max-width: 768px) {
+    .search-input-wrapper {
+        flex-direction: column;
+    }
+
+    .btn-limpiar-busqueda {
+        width: 100%;
+    }
+
+    #buscador-versiculos {
+        width: 100%;
+    }
+}
+

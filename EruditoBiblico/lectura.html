@@ -35,14 +35,23 @@
                 </div>
 
                 <div class="controls-buttons">
-                    <button id="cargar-btn" class="btn-cargar" onclick="cargarVersiculos()" title="Cargar versículos del capítulo">
-                        <span class="btn-icon">📖</span>
-                        <span class="btn-text">Cargar Lectura</span>
-                    </button>
                     <button id="contexto-btn" class="btn-contexto" onclick="obtenerContextoHistorico()" title="Ver contexto histórico detallado">
                         <span class="btn-icon">🕰️</span>
                         <span class="btn-text">Contexto</span>
                     </button>
+                </div>
+
+                <div class="search-container">
+                    <label for="buscador-versiculos">🔍 Buscar Versículos</label>
+                    <div class="search-input-wrapper">
+                        <input 
+                            type="text" 
+                            id="buscador-versiculos" 
+                            placeholder="Ej: De tal manera amó Dios al mundo..."
+                            onkeyup="buscarVersiculos()"
+                        >
+                        <button class="btn-limpiar-busqueda" onclick="limpiarBusqueda()" title="Limpiar búsqueda">✕</button>
+                    </div>
                 </div>
             </div>
 

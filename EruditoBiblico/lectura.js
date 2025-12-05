@@ -59879,3 +59879,92 @@ function formatearContextoLocal(texto) {
         </div>
     `;
 }
+
+// ============================================================
+// --- SISTEMA DE BÚSQUEDA DE VERSÍCULOS ---
+// ============================================================
+
+function buscarVersiculos() {
+    const busqueda = document.getElementById('buscador-versiculos').value.toLowerCase().trim();
+    const contenidoDiv = document.getElementById('contenido-biblia');
+    
+    // Si el buscador está vacío, no hacer nada
+    if (busqueda === '') {
+        return;
+    }
+    
+    // Obtener todos los versículos de todos los libros
+    const todosLosVersiculos = [];
+    
+    // Recorrer todos los libros
+    LIBROS_INFO.forEach(libro => {
+        for (let capitulo = 1; capitulo <= libro.capitulos; capitulo++) {
+            const versiculos = obtenerVersiculos(libro.nombre, capitulo);
+            if (versiculos && versiculos.length > 0) {
+                versiculos.forEach(v => {
+                    todosLosVersiculos.push({
+                        libro: libro.nombre,
+                        capitulo: capitulo,
+                        verso: v.verso,
+                        texto: v.texto
+                    });
+                });
+            }
+        }
+    });
+    
+    // Buscar versículos que coincidan
+    const resultados = todosLosVersiculos.filter(v => 
+        v.texto.toLowerCase().includes(busqueda)
+    );
+    
+    // Mostrar resultados
+    if (resultados.length === 0) {
+        contenidoDiv.innerHTML = `
+            <div class="placeholder" style="text-align: center;">
+                <p>😞 No se encontraron versículos que contengan "<strong>${busqueda}</strong>"</p>
+                <p style="font-size: 0.9em; color: var(--text-secondary);">Intenta con otras palabras o frases</p>
+            </div>
+        `;
+    } else {
+        let html = `
+            <div class="search-info">
+                🔍 Se encontraron <strong>${resultados.length}</strong> versículo${resultados.length !== 1 ? 's' : ''} que contienen "${busqueda}"
+            </div>
+        `;
+        
+        resultados.forEach(resultado => {
+            // Resaltar el texto encontrado
+            let textoResaltado = resultado.texto.replace(
+                new RegExp(`(${busqueda})`, 'gi'),
+                '<mark>$1</mark>'
+            );
+            
+            html += `
+                <div class="versiculo encontrado">
+                    <span class="versiculo-numero">${resultado.libro} ${resultado.capitulo}:${resultado.verso}</span>
+                    <span class="versiculo-texto">${textoResaltado}</span>
+                </div>
+            `;
+        });
+        
+        contenidoDiv.innerHTML = html;
+        
+        // Scroll automático al primer resultado
+        setTimeout(() => {
+            const primerResultado = document.querySelector('.versiculo.encontrado');
+            if (primerResultado) {
+                primerResultado.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        }, 100);
+    }
+    
+    // Actualizar referencia
+    document.getElementById('referencia').textContent = `Búsqueda: "${busqueda}" - ${resultados.length} resultado${resultados.length !== 1 ? 's' : ''}`;
+}
+
+function limpiarBusqueda() {
+    document.getElementById('buscador-versiculos').value = '';
+    document.getElementById('contenido-biblia').innerHTML = '<p class="placeholder">Selecciona un libro y capítulo para comenzar a leer</p>';
+    document.getElementById('referencia').textContent = 'Referencia: -';
+}
