@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temario - Erudito Bíblico</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="temario-style.css">
+</head>
+<body>
+    <div class="container">
+        <button class="back-btn" onclick="volverAlMenu()">← Volver</button>
+        
+        <div class="temario-container">
+            <div class="temario-header">
+                <h1>💭 Temario Bíblico</h1>
+                <p>Explora versículos organizados por tema</p>
+            </div>
+
+            <div class="temario-search">
+                <input 
+                    type="text" 
+                    id="buscar-tema" 
+                    placeholder="Busca un tema (ej: amor, paz, fe...)"
+                    onkeyup="filtrarTemas()"
+                >
+            </div>
+
+            <div class="temas-grid" id="temas-grid">
+                <!-- Los temas se cargarán aquí con JavaScript -->
+            </div>
+
+            <!-- Modal para mostrar versículos del tema -->
+            <div id="tema-modal" class="modal-tema hidden">
+                <div class="modal-tema-content">
+                    <div class="modal-tema-header">
+                        <h2 id="titulo-tema">Tema</h2>
+                        <button class="close-modal" onclick="cerrarTemaModal()">&times;</button>
+                    </div>
+                    <div class="modal-tema-body" id="versiculos-tema">
+                        <div class="loading-spinner">
+                            <div class="spinner"></div>
+                            <p>Cargando versículos...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="biblia.js"></script>
+    <script src="temario.js"></script>
+</body>
+</html>

@@ -5,12 +5,10 @@ function irA(seccion) {
             window.location.href = 'lectura.html';
             break;
         case 'temario':
-            // TODO: Implementar temario
-            alert('Sección de Temario - Próximamente');
+            window.location.href = 'temario.html';
             break;
         case 'juego':
-            // TODO: Implementar juego de preguntas
-            alert('Sección de Juego - Próximamente');
+            window.location.href = 'juego.html';
             break;
         default:
             break;

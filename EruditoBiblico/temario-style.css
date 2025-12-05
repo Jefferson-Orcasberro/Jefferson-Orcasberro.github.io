@@ -1,0 +1,399 @@
+/* ========================================= */
+/* --- ESTILOS PARA TEMARIO BÍBLICO --- */
+/* ========================================= */
+
+:root {
+    --primary-color: #d4af37;
+    --secondary-color: #f39c12;
+    --bg-primary: #1a1a2e;
+    --bg-secondary: #16213e;
+    --text-primary: #ffffff;
+    --text-secondary: #bbb;
+}
+
+.temario-container {
+    max-width: 1200px;
+    margin: 80px auto 40px;
+    background: linear-gradient(135deg, var(--bg-secondary) 0%, #252d3d 100%);
+    border-radius: 15px;
+    border: 2px solid var(--primary-color);
+    padding: 40px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+.temario-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.temario-header h1 {
+    font-size: 2.5em;
+    color: var(--secondary-color);
+    margin-bottom: 10px;
+}
+
+.temario-header p {
+    font-size: 1.1em;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+/* ========================================= */
+/* --- BUSCADOR DE TEMAS --- */
+/* ========================================= */
+
+.temario-search {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+#buscar-tema {
+    width: 100%;
+    max-width: 500px;
+    padding: 15px 20px;
+    font-size: 1.1em;
+    border: 2px solid var(--primary-color);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+#buscar-tema:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 0 20px rgba(212, 175, 55, 0.3);
+}
+
+#buscar-tema::placeholder {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+/* ========================================= */
+/* --- GRID DE TEMAS --- */
+/* ========================================= */
+
+.temas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.tema-card {
+    background: linear-gradient(135deg, rgba(212, 175, 55, 0.15), rgba(243, 156, 18, 0.1));
+    border: 2px solid var(--primary-color);
+    border-radius: 12px;
+    padding: 25px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.tema-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(212, 175, 55, 0.3);
+    border-color: var(--secondary-color);
+}
+
+.tema-icon {
+    font-size: 3em;
+    line-height: 1;
+}
+
+.tema-card h3 {
+    font-size: 1.3em;
+    color: var(--secondary-color);
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.tema-card p {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin: 0;
+}
+
+.tema-count {
+    font-size: 0.85em;
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+/* ========================================= */
+/* --- MODAL DE VERSÍCULOS --- */
+/* ========================================= */
+
+.modal-tema {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1000;
+    animation: fadeIn 0.3s ease;
+}
+
+.modal-tema.hidden {
+    display: none;
+}
+
+.modal-tema-content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(135deg, var(--bg-secondary) 0%, #252d3d 100%);
+    border: 2px solid var(--primary-color);
+    border-radius: 15px;
+    max-width: 800px;
+    width: 90%;
+    max-height: 80vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    animation: slideDown 0.3s ease;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.modal-tema-header {
+    padding: 25px;
+    border-bottom: 2px solid var(--primary-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(135deg, rgba(212, 175, 55, 0.2), rgba(243, 156, 18, 0.1));
+}
+
+.modal-tema-header h2 {
+    margin: 0;
+    color: var(--secondary-color);
+    font-size: 1.8em;
+}
+
+.close-modal {
+    background: none;
+    border: none;
+    color: var(--primary-color);
+    font-size: 2em;
+    cursor: pointer;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.close-modal:hover {
+    color: var(--secondary-color);
+    transform: rotate(90deg);
+}
+
+.modal-tema-body {
+    padding: 25px;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.versiculos-lista {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.versiculo-item {
+    background: rgba(255, 255, 255, 0.05);
+    border-left: 4px solid var(--primary-color);
+    padding: 15px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.versiculo-item:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-left-color: var(--secondary-color);
+    transform: translateX(5px);
+}
+
+.versiculo-referencia {
+    font-weight: bold;
+    color: var(--secondary-color);
+    font-size: 1.1em;
+    margin-bottom: 8px;
+}
+
+.versiculo-texto {
+    color: var(--text-primary);
+    line-height: 1.6;
+    font-size: 1em;
+}
+
+.no-resultados {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-secondary);
+}
+
+.no-resultados p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+/* ========================================= */
+/* --- LOADING SPINNER --- */
+/* ========================================= */
+
+.loading-spinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    padding: 40px;
+}
+
+.spinner {
+    border: 4px solid rgba(212, 175, 55, 0.3);
+    border-top: 4px solid var(--primary-color);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideDown {
+    from {
+        transform: translate(-50%, -60%);
+        opacity: 0;
+    }
+    to {
+        transform: translate(-50%, -50%);
+        opacity: 1;
+    }
+}
+
+/* ========================================= */
+/* --- RESPONSIVE --- */
+/* ========================================= */
+
+@media (max-width: 1024px) {
+    .temas-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 15px;
+    }
+
+    .temario-container {
+        padding: 30px;
+    }
+
+    .temario-header h1 {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 768px) {
+    .temas-grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 12px;
+    }
+
+    .tema-card {
+        padding: 20px;
+    }
+
+    .tema-icon {
+        font-size: 2.5em;
+    }
+
+    .tema-card h3 {
+        font-size: 1.1em;
+    }
+
+    .modal-tema-content {
+        width: 95%;
+        max-height: 90vh;
+    }
+
+    .temario-header h1 {
+        font-size: 1.8em;
+    }
+
+    .temario-header p {
+        font-size: 1em;
+    }
+
+    #buscar-tema {
+        padding: 12px 15px;
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 600px) {
+    .temas-grid {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        gap: 10px;
+    }
+
+    .tema-card {
+        padding: 15px;
+    }
+
+    .tema-icon {
+        font-size: 2em;
+    }
+
+    .tema-card h3 {
+        font-size: 0.95em;
+    }
+
+    .tema-card p {
+        font-size: 0.8em;
+    }
+
+    .temario-container {
+        padding: 20px;
+        margin-top: 60px;
+    }
+
+    .temario-header h1 {
+        font-size: 1.5em;
+    }
+
+    .modal-tema-content {
+        width: 98%;
+    }
+
+    .modal-tema-header {
+        flex-direction: column;
+        gap: 10px;
+        align-items: flex-start;
+    }
+
+    .close-modal {
+        align-self: flex-end;
+    }
+}

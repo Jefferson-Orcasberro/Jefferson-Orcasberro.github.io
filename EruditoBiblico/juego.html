@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Bíblico - Erudito Bíblico</title>
+    <link rel="stylesheet" href="juego-style.css">
+</head>
+<body>
+    <div class="juego-container">
+        <!-- MENÚ DE NIVELES -->
+        <div id="menu-niveles" class="menu-niveles-active">
+            <div class="niveles-content">
+                <h1>Quiz Bíblico</h1>
+                <p class="subtitulo">Selecciona tu nivel de dificultad</p>
+                
+                <div class="niveles-grid">
+                    <div class="nivel-card" onclick="iniciarJuego('principiante')">
+                        <div class="nivel-icon">🌱</div>
+                        <h3>Recién Convertido</h3>
+                        <p>Preguntas básicas sobre la fe</p>
+                        <span class="nivel-badge">Fácil</span>
+                    </div>
+                    
+                    <div class="nivel-card" onclick="iniciarJuego('creyente')">
+                        <div class="nivel-icon">📖</div>
+                        <h3>Creyente</h3>
+                        <p>Conocimiento intermedio</p>
+                        <span class="nivel-badge">Normal</span>
+                    </div>
+                    
+                    <div class="nivel-card" onclick="iniciarJuego('cristiano')">
+                        <div class="nivel-icon">⛪</div>
+                        <h3>Cristiano</h3>
+                        <p>Preguntas desafiantes</p>
+                        <span class="nivel-badge">Difícil</span>
+                    </div>
+                    
+                    <div class="nivel-card" onclick="iniciarJuego('erudito')">
+                        <div class="nivel-icon">🎓</div>
+                        <h3>Erudito</h3>
+                        <p>Experto en las escrituras</p>
+                        <span class="nivel-badge">Muy Difícil</span>
+                    </div>
+                </div>
+                
+                <button class="btn-volver" onclick="volverAlMenu()">Volver al Menú</button>
+            </div>
+        </div>
+
+        <!-- MENÚ DE CANTIDAD DE PREGUNTAS -->
+        <div id="menu-cantidad" class="menu-cantidad-hidden">
+            <div class="cantidad-content">
+                <h1>Cantidad de Preguntas</h1>
+                <p class="subtitulo">¿Cuántas preguntas deseas responder?</p>
+                
+                <div class="cantidad-grid">
+                    <button class="cantidad-btn" onclick="seleccionarCantidad(5)">
+                        <span class="cantidad-numero">5</span>
+                        <span class="cantidad-label">Preguntas</span>
+                        <span class="tiempo-estimado">~2 min</span>
+                    </button>
+                    
+                    <button class="cantidad-btn" onclick="seleccionarCantidad(10)">
+                        <span class="cantidad-numero">10</span>
+                        <span class="cantidad-label">Preguntas</span>
+                        <span class="tiempo-estimado">~4 min</span>
+                    </button>
+                    
+                    <button class="cantidad-btn" onclick="seleccionarCantidad(15)">
+                        <span class="cantidad-numero">15</span>
+                        <span class="cantidad-label">Preguntas</span>
+                        <span class="tiempo-estimado">~6 min</span>
+                    </button>
+                    
+                    <button class="cantidad-btn" onclick="seleccionarCantidad(20)">
+                        <span class="cantidad-numero">20</span>
+                        <span class="cantidad-label">Preguntas</span>
+                        <span class="tiempo-estimado">~8 min</span>
+                    </button>
+                    
+                    <button class="cantidad-btn" onclick="seleccionarCantidad(30)">
+                        <span class="cantidad-numero">30</span>
+                        <span class="cantidad-label">Preguntas</span>
+                        <span class="tiempo-estimado">~12 min</span>
+                    </button>
+                    
+                    <button class="cantidad-btn" onclick="seleccionarCantidad(40)">
+                        <span class="cantidad-numero">40</span>
+                        <span class="cantidad-label">Preguntas</span>
+                        <span class="tiempo-estimado">~16 min</span>
+                    </button>
+                    
+                    <button class="cantidad-btn cantidad-btn-full" onclick="seleccionarCantidad(50)">
+                        <span class="cantidad-numero">50</span>
+                        <span class="cantidad-label">Preguntas</span>
+                        <span class="cantidad-badge">Todas</span>
+                        <span class="tiempo-estimado">~20 min</span>
+                    </button>
+                </div>
+                
+                <button class="btn-volver" onclick="volverANiveles()">Volver</button>
+            </div>
+        </div>
+
+        <!-- ÁREA DE JUEGO -->
+        <div id="area-juego" class="area-juego-hidden">
+            <div class="juego-header">
+                <div class="nivel-info">
+                    <span id="nivel-actual">Nivel</span>
+                    <span id="pregunta-contador">0/0</span>
+                </div>
+                <div class="puntuacion">
+                    <span>Puntos: <strong id="puntos-total">0</strong></span>
+                </div>
+                <button class="btn-salir" onclick="salirDelJuego()">✕</button>
+            </div>
+
+            <div class="barra-progreso">
+                <div id="barra-progreso-fill" class="barra-progreso-fill"></div>
+            </div>
+
+            <div class="pregunta-container">
+                <div class="pregunta-numero">Pregunta <span id="numero-pregunta">1</span></div>
+                <h2 id="pregunta-texto">Cargando pregunta...</h2>
+                
+                <div class="opciones-grid">
+                    <button class="opcion-btn" id="opcion-1" onclick="seleccionarOpcion(0)">
+                        <span class="opcion-letra">A</span>
+                        <span id="opcion-texto-1">Cargando...</span>
+                    </button>
+                    
+                    <button class="opcion-btn" id="opcion-2" onclick="seleccionarOpcion(1)">
+                        <span class="opcion-letra">B</span>
+                        <span id="opcion-texto-2">Cargando...</span>
+                    </button>
+                    
+                    <button class="opcion-btn" id="opcion-3" onclick="seleccionarOpcion(2)">
+                        <span class="opcion-letra">C</span>
+                        <span id="opcion-texto-3">Cargando...</span>
+                    </button>
+                    
+                    <button class="opcion-btn" id="opcion-4" onclick="seleccionarOpcion(3)">
+                        <span class="opcion-letra">D</span>
+                        <span id="opcion-texto-4">Cargando...</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="botones-juego">
+                <button id="btn-siguiente" class="btn-siguiente" style="display: none;" onclick="siguientePregunta()">
+                    Siguiente Pregunta
+                </button>
+            </div>
+        </div>
+
+        <!-- PANTALLA DE RESULTADOS -->
+        <div id="pantalla-resultados" class="pantalla-resultados-hidden">
+            <div class="resultados-content">
+                <div class="resultado-header">
+                    <h1>Juego Terminado</h1>
+                    <p id="nivel-completado">Nivel: Recién Convertido</p>
+                </div>
+
+                <div class="resultado-puntuacion">
+                    <div class="puntos-circle">
+                        <span id="puntos-finales">0</span>
+                        <span class="puntos-label">puntos</span>
+                    </div>
+                </div>
+
+                <div class="resultado-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Correctas</span>
+                        <span class="stat-valor" id="respuestas-correctas">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Incorrectas</span>
+                        <span class="stat-valor" id="respuestas-incorrectas">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Porcentaje</span>
+                        <span class="stat-valor" id="porcentaje-acierto">0%</span>
+                    </div>
+                </div>
+
+                <div class="resultado-mensaje">
+                    <p id="mensaje-resultado">¡Excelente trabajo!</p>
+                </div>
+
+                <div class="botones-resultados">
+                    <button class="btn-reintentar" onclick="volverANiveles()">Intentar Otro Nivel</button>
+                    <button class="btn-menu" onclick="volverAlMenu()">Volver al Menú Principal</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="biblia.js"></script>
+    <script src="juego.js"></script>
+</body>
+</html>
